@@ -220,6 +220,26 @@ class PublishTests(unittest.TestCase):
             patch2 = publish.run(Path(tmp))
             self.assertEqual(list(patch2["publish_results"][self.POST["id"]]), ["facebook"])
 
+    def test_publish_now_single_platform_ignores_schedule(self):
+        from app import publish
+
+        class Ok:
+            def supports(self, post): return True
+            def publish(self, post, d, media_url): return "https://youtube.com/shorts/x"
+
+        future = {**self.POST, "date": "2099-01-01"}
+        settings = {"timezone": "America/Sao_Paulo",
+                    "publishing": {"instagram": True, "facebook": True, "youtube": True}}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(publish, "build_publishers", return_value=({"youtube": Ok()}, {})) as bp, \
+                mock.patch.object(publish.config, "load_settings", return_value=settings):
+            state.save_queue([future])
+            self.assertEqual(publish.run(Path(tmp))["publish_results"], {})  # ainda não é a hora
+            res = publish.run(Path(tmp), future["id"], "youtube", True)["publish_results"]
+            self.assertEqual(list(res[future["id"]]), ["youtube"])
+            self.assertEqual(bp.call_args[0][0], {"tiktok": False, "kwai": False, "youtube": True,
+                                                  "instagram": False, "facebook": False})
+
 
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):

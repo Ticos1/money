@@ -88,16 +88,21 @@ def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
     return pubs, errors
 
 
-def run(media_dir: Path, only_post: str | None = None) -> dict:
+def run(media_dir: Path, only_post: str | None = None, only_platform: str | None = None,
+        now_ignore_time: bool = False) -> dict:
     settings = config.load_settings()
     cfg = settings.get("publishing", {})
-    enabled = {p: bool(cfg.get(p)) for p in state.PLATFORMS}
+    enabled = {p: bool(cfg.get(p)) and (not only_platform or p == only_platform) for p in state.PLATFORMS}
     max_attempts = int(cfg.get("max_attempts", 3))
     tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
     now = datetime.now(tz)
     log: list[str] = []
 
-    due = [p for p in state.load_queue() if is_due(p, now, tz) and (not only_post or p["id"] == only_post)]
+    # "agora" (teste manual) ignora o horário, mas só vale para um post específico
+    check_time = not (now_ignore_time and only_post)
+    due = [p for p in state.load_queue()
+           if (not only_post or p["id"] == only_post)
+           and (is_due(p, now, tz) if check_time else p.get("status") == "approved")]
     pending = []
     for post in due:
         for platform, on in enabled.items():
@@ -139,8 +144,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--media-dir", default="media")
     parser.add_argument("--out", default="patch.json")
     parser.add_argument("--post-id")
+    parser.add_argument("--platform", help="publicar só nesta rede")
+    parser.add_argument("--now", action="store_true", help="ignorar o horário (exige --post-id)")
     args = parser.parse_args(argv)
-    patch = run(Path(args.media_dir), args.post_id or None)
+    patch = run(Path(args.media_dir), args.post_id or None, args.platform or None, args.now)
     Path(args.out).write_text(json.dumps(patch, ensure_ascii=False, indent=1), encoding="utf-8")
     return 0
 

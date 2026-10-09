@@ -12,6 +12,16 @@ on:
         description: "Publicar só este post (vazio = todos os que estão na hora)"
         type: string
         default: ""
+      platform:
+        description: "Só nesta rede (vazio = todas as ligadas)"
+        type: choice
+        options: ["", instagram, facebook, youtube]
+        default: ""
+      agora:
+        description: "Publicar já, sem esperar o horário (precisa do ID do post)"
+        type: choice
+        options: ["false", "true"]
+        default: "false"
 
 concurrency:
   group: publish
@@ -26,6 +36,8 @@ jobs:
     timeout-minutes: 20
     env:
       POST_ID: ${{ inputs.post_id }}
+      ONLY_PLATFORM: ${{ inputs.platform }}
+      NOW_FLAG: ${{ inputs.agora == 'true' && '--now' || '' }}
       PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL || format('https://{0}.pages.dev', vars.CF_PAGES_PROJECT) }}
       MEDIA_SIGNING_SECRET: ${{ secrets.MEDIA_SIGNING_SECRET }}
       META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
@@ -49,7 +61,7 @@ jobs:
           if git fetch -q --depth 1 origin media; then git archive FETCH_HEAD | tar -x -C media_repo; fi
 
       - name: Publicar
-        run: python -m app.publish --media-dir media_repo/media --out "$RUNNER_TEMP/patch.json" ${POST_ID:+--post-id "$POST_ID"}
+        run: python -m app.publish --media-dir media_repo/media --out "$RUNNER_TEMP/patch.json" ${POST_ID:+--post-id "$POST_ID"} ${ONLY_PLATFORM:+--platform "$ONLY_PLATFORM"} $NOW_FLAG
 
       - name: Salvar resultado no painel
         run: |
