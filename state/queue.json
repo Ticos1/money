@@ -1,6 +1,383 @@
 {
  "posts": [
   {
+   "id": "2026-10-09-7-curiosity",
+   "date": "2026-10-09",
+   "slot": 7,
+   "time": "21:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-09T13:39:16+00:00",
+   "source": "bank",
+   "bank_id": "c058",
+   "model": null,
+   "content": {
+    "ref": "Mateus 3:4",
+    "ref_label": "Mateus 3:4",
+    "title": "O cardápio de João Batista",
+    "text": "João Batista usava roupas de pelos de camelo e se alimentava de gafanhotos e mel silvestre.",
+    "evidence": "gafanhotos e mel silvestre",
+    "passage": "Ora, o próprio João usava roupas feitas de pelos de camelo, com um cinto de couro na cintura. Sua comida era gafanhotos e mel silvestre.",
+    "tags": [
+     "joaobatista",
+     "costumes"
+    ]
+   },
+   "captions": {
+    "instagram": "O cardápio de João Batista\n\nJoão Batista usava roupas de pelos de camelo e se alimentava de gafanhotos e mel silvestre. (Mateus 3:4)\n\nJoão Batista vestia roupas de pelos de camelo e se alimentava apenas de gafanhotos e mel silvestre. Um estilo de vida que refletia total dependência de Deus e desapego das conveniências do mundo. Que possamos aprender com sua humildade e foco no propósito divino. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#joaobatista #costumes #vocesabia #curiosidadesbiblicas #cristao #biblia #deus #estudobiblico #gospel #historiabiblica #jesus #fe",
+    "facebook": "O cardápio de João Batista\n\nJoão Batista usava roupas de pelos de camelo e se alimentava de gafanhotos e mel silvestre. (Mateus 3:4)\n\nJoão Batista vestia roupas de pelos de camelo e se alimentava apenas de gafanhotos e mel silvestre. Um estilo de vida que refletia total dependência de Deus e desapego das conveniências do mundo. Que possamos aprender com sua humildade e foco no propósito divino. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#joaobatista #costumes #vocesabia #curiosidadesbiblicas",
+    "tiktok": "João Batista: pelos de camelo, gafanhotos e mel. Simplicidade que inspira! 🌿\n#joaobatista #costumes #vocesabia #curiosidadesbiblicas #jesus",
+    "kwai": "João Batista: pelos de camelo, gafanhotos e mel. Simplicidade que inspira! 🌿\n#joaobatista #costumes #vocesabia #curiosidadesbiblicas #gospel",
+    "youtube": {
+     "title": "O simples cardápio de João Batista #shorts",
+     "description": "O cardápio de João Batista\n\nJoão Batista usava roupas de pelos de camelo e se alimentava de gafanhotos e mel silvestre. (Mateus 3:4)\n\nJoão Batista vestia roupas de pelos de camelo e se alimentava apenas de gafanhotos e mel silvestre. Um estilo de vida que refletia total dependência de Deus e desapego das conveniências do mundo. Que possamos aprender com sua humildade e foco no propósito divino. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #joaobatista #costumes #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-09/2026-10-09-7-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-09-6-quiz",
+   "date": "2026-10-09",
+   "slot": 6,
+   "time": "19:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-09T13:39:13+00:00",
+   "source": "bank",
+   "bank_id": "q081",
+   "model": null,
+   "content": {
+    "ref": "Daniel 2:1",
+    "ref_label": "Daniel 2:1",
+    "question": "Qual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?",
+    "options": [
+     "Nabucodonosor",
+     "Dario",
+     "Ciro",
+     "Belsazar"
+    ],
+    "answer": 0,
+    "evidence": "Nabucodonosor teve sonhos",
+    "passage": "No segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; e o seu espírito se perturbou, e o seu sono fugiu dele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar sua memória das Escrituras! No livro de Daniel, há um rei que, no segundo ano de seu reinado, teve sonhos tão intensos que perturbavam seu espírito. Qual será? Escolha entre as opções e compartilhe sua resposta nos comentários. 💭\n\nQual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?\nA) Nabucodonosor\nB) Dario\nC) Ciro\nD) Belsazar\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #palavradedeus #conhecimentobiblico #desafio #teste #perguntasbiblicas #deus #evangelico #biblia #gospel",
+    "facebook": "Vamos testar sua memória das Escrituras! No livro de Daniel, há um rei que, no segundo ano de seu reinado, teve sonhos tão intensos que perturbavam seu espírito. Qual será? Escolha entre as opções e compartilhe sua resposta nos comentários. 💭\n\nQual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?\nA) Nabucodonosor\nB) Dario\nC) Ciro\nD) Belsazar\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #biblia",
+    "tiktok": "Qual rei teve sonhos que o perturbavam no 2º ano? 🤔\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico #teste",
+    "kwai": "Qual rei teve sonhos que o perturbavam no 2º ano? 🤔\n#quizbiblico #desafiobiblico #cristao #deus #jesus",
+    "youtube": {
+     "title": "Quiz bíblico: O rei dos sonhos no livro de Daniel #shorts",
+     "description": "Vamos testar sua memória das Escrituras! No livro de Daniel, há um rei que, no segundo ano de seu reinado, teve sonhos tão intensos que perturbavam seu espírito. Qual será? Escolha entre as opções e compartilhe sua resposta nos comentários. 💭\n\nQual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?\nA) Nabucodonosor\nB) Dario\nC) Ciro\nD) Belsazar\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 25.25,
+    "base": "media/2026-10-09/2026-10-09-6-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-09-5-verse",
+   "date": "2026-10-09",
+   "slot": 5,
+   "time": "17:00",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-09T13:37:31+00:00",
+   "source": "bank",
+   "bank_id": "v076",
+   "model": null,
+   "content": {
+    "ref": "Salmos 16:11",
+    "ref_label": "Salmos 16:11",
+    "verse_text": "Você me mostrará o caminho da vida. Na sua presença há plenitude de alegria. Na sua mão direita há delícias para todo o sempre.",
+    "on_screen": "Na presença de Deus há plenitude de alegria.",
+    "reflection": "A alegria verdadeira não está nas coisas, mas na presença de Deus. Separe um momento hoje para estar com Ele.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "presenca"
+    ]
+   },
+   "captions": {
+    "instagram": "“Você me mostrará o caminho da vida. Na sua presença há plenitude de alegria. Na sua mão direita há delícias para todo o sempre.” (Salmos 16:11)\n\nA verdadeira alegria não vem das coisas que possuímos, mas da intimidade com o Senhor. Reserve um instante hoje para silenciar o barulho ao redor, respirar fundo e sentir a paz que só Ele oferece. Quando nos entregamos à Sua presença, encontramos plenitude e delícias que permanecem para sempre. Que este momento seja um lembrete de que o caminho da vida está ao Seu lado, guiando cada passo com amor e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #presenca #versiculododia #versiculo #biblia #fe #cristao #oracao #deus #evangelico #palavradedeus #reflexao",
+    "facebook": "“Você me mostrará o caminho da vida. Na sua presença há plenitude de alegria. Na sua mão direita há delícias para todo o sempre.” (Salmos 16:11)\n\nA verdadeira alegria não vem das coisas que possuímos, mas da intimidade com o Senhor. Reserve um instante hoje para silenciar o barulho ao redor, respirar fundo e sentir a paz que só Ele oferece. Quando nos entregamos à Sua presença, encontramos plenitude e delícias que permanecem para sempre. Que este momento seja um lembrete de que o caminho da vida está ao Seu lado, guiando cada passo com amor e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #presenca #versiculododia #versiculo",
+    "tiktok": "Encontre a alegria plena na presença de Deus. Reserve um momento hoje!\n#alegria #presenca #versiculododia #versiculo #fe",
+    "kwai": "Encontre a alegria plena na presença de Deus. Reserve um momento hoje!\n#alegria #presenca #versiculododia #versiculo #deus",
+    "youtube": {
+     "title": "A alegria verdadeira está na presença de Deus #shorts",
+     "description": "“Você me mostrará o caminho da vida. Na sua presença há plenitude de alegria. Na sua mão direita há delícias para todo o sempre.” (Salmos 16:11)\n\nA verdadeira alegria não vem das coisas que possuímos, mas da intimidade com o Senhor. Reserve um instante hoje para silenciar o barulho ao redor, respirar fundo e sentir a paz que só Ele oferece. Quando nos entregamos à Sua presença, encontramos plenitude e delícias que permanecem para sempre. Que este momento seja um lembrete de que o caminho da vida está ao Seu lado, guiando cada passo com amor e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #alegria #presenca #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-09/2026-10-09-5-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-09-4-quiz",
+   "date": "2026-10-09",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-09T13:37:29+00:00",
+   "source": "bank",
+   "bank_id": "q025",
+   "model": null,
+   "content": {
+    "ref": "Atos 7:59",
+    "ref_label": "Atos 7:59",
+    "question": "Quem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?",
+    "options": [
+     "Estêvão",
+     "Tiago",
+     "Barnabé",
+     "Silas"
+    ],
+    "answer": 0,
+    "evidence": "apedrejavam Estêvão",
+    "passage": "Eles apedrejavam Estêvão enquanto ele clamava, dizendo: “Senhor Jesus, recebe o meu espírito!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico: quem recebeu o martírio ao dizer “Senhor Jesus, recebe o meu espírito”? Pense nas histórias de fé e coragem que marcaram a história da igreja. Compartilhe sua resposta nos comentários e vamos refletir juntos sobre o exemplo de entrega total ao Senhor.\n\nQuem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?\nA) Estêvão\nB) Tiago\nC) Barnabé\nD) Silas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #teste #cristao #deus #evangelico #biblia #conhecimentobiblico #desafio #gospel #jesus",
+    "facebook": "Desafio bíblico: quem recebeu o martírio ao dizer “Senhor Jesus, recebe o meu espírito”? Pense nas histórias de fé e coragem que marcaram a história da igreja. Compartilhe sua resposta nos comentários e vamos refletir juntos sobre o exemplo de entrega total ao Senhor.\n\nQuem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?\nA) Estêvão\nB) Tiago\nC) Barnabé\nD) Silas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Quem disse “Senhor Jesus, recebe o meu espírito” antes de ser apedrejado? 🤔\n#quizbiblico #desafiobiblico #jesus #palavradedeus #biblia",
+    "kwai": "Quem disse “Senhor Jesus, recebe o meu espírito” antes de ser apedrejado? 🤔\n#quizbiblico #desafiobiblico #palavradedeus #cristao #desafio",
+    "youtube": {
+     "title": "Quiz bíblico: quem foi apedrejado ao clamar por Jesus? #shorts",
+     "description": "Desafio bíblico: quem recebeu o martírio ao dizer “Senhor Jesus, recebe o meu espírito”? Pense nas histórias de fé e coragem que marcaram a história da igreja. Compartilhe sua resposta nos comentários e vamos refletir juntos sobre o exemplo de entrega total ao Senhor.\n\nQuem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?\nA) Estêvão\nB) Tiago\nC) Barnabé\nD) Silas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.98,
+    "base": "media/2026-10-09/2026-10-09-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-09-3-curiosity",
+   "date": "2026-10-09",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-09T13:35:56+00:00",
+   "source": "bank",
+   "bank_id": "c078",
+   "model": null,
+   "content": {
+    "ref": "1 Coríntios 15:6",
+    "ref_label": "1 Coríntios 15:6",
+    "title": "Mais de 500 testemunhas",
+    "text": "Paulo conta que Jesus ressuscitado apareceu a mais de quinhentos irmãos de uma só vez.",
+    "evidence": "mais de quinhentos irmãos",
+    "passage": "Depois apareceu a mais de quinhentos irmãos de uma só vez, a maioria dos quais continua viva até agora, mas alguns já adormeceram.",
+    "tags": [
+     "ressurreicao",
+     "pascoa"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabia disso? 📖\n\nMais de 500 testemunhas\n\nPaulo conta que Jesus ressuscitado apareceu a mais de quinhentos irmãos de uma só vez. (1 Coríntios 15:6)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ressurreicao #pascoa #vocesabia #curiosidadesbiblicas #gospel #estudobiblico #deus #cristao #biblia #jesus #evangelico #historiabiblica",
+    "facebook": "Você sabia disso? 📖\n\nMais de 500 testemunhas\n\nPaulo conta que Jesus ressuscitado apareceu a mais de quinhentos irmãos de uma só vez. (1 Coríntios 15:6)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ressurreicao #pascoa #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Você sabia disso? 📖 Mais de 500 testemunhas\nVocê já sabia? Comente SIM ou NÃO.\n#ressurreicao #pascoa #vocesabia #curiosidadesbiblicas #fe",
+    "kwai": "Você sabia disso? 📖 Mais de 500 testemunhas\nVocê já sabia? Comente SIM ou NÃO.\n#ressurreicao #pascoa #vocesabia #curiosidadesbiblicas #gospel",
+    "youtube": {
+     "title": "Você sabia? Mais de 500 testemunhas #shorts",
+     "description": "Você sabia disso? 📖\n\nMais de 500 testemunhas\n\nPaulo conta que Jesus ressuscitado apareceu a mais de quinhentos irmãos de uma só vez. (1 Coríntios 15:6)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ressurreicao #pascoa #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-09/2026-10-09-3-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-09-2-quiz",
    "date": "2026-10-09",
    "slot": 2,
