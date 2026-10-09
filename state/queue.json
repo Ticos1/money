@@ -80,7 +80,13 @@
     "facebook": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {
+    "youtube": {
+     "message": "YouTube: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"YouTube Data API v3 has not been used in project 926562633403 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=926562633403 then retry. If you enabled this API recent",
+     "attempts": 1
+    }
+   }
   },
   {
    "id": "2026-10-09-1-verse",
