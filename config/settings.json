@@ -39,8 +39,8 @@
  },
  "media_retention_days": 30,
  "publishing": {
-  "instagram": false,
-  "facebook": false,
+  "instagram": true,
+  "facebook": true,
   "youtube": false,
   "max_attempts": 3
  }
