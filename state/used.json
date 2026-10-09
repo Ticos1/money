@@ -1,1 +1,14 @@
-{"verse": {}, "quiz": {}, "curiosity": {}, "refs": {}, "fingerprints": {}}
+{
+ "verse": {
+  "v088": "2026-10-09"
+ },
+ "quiz": {},
+ "curiosity": {},
+ "refs": {
+  "COL.3.15-15": "2026-10-09",
+  "PSA.23.1-1": "2026-10-09"
+ },
+ "fingerprints": {
+  "71d8c7277cb5": "2026-10-09"
+ }
+}
