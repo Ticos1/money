@@ -43,3 +43,15 @@ export async function hasValidSession(request, secret) {
   if (!exp || !sig || Number(exp) < Date.now()) return false;
   return safeEqual(sig, await hmac(secret, `s:${exp}`));
 }
+
+// Links temporários de mídia para as redes baixarem (assinados pelo GitHub Actions).
+export async function hasValidMediaSignature(url, secret) {
+  if (!secret || secret.length < 32 || !url.pathname.startsWith("/media/")) return false;
+  const exp = url.searchParams.get("exp");
+  const sig = url.searchParams.get("sig") || "";
+  if (!exp || Number(exp) * 1000 < Date.now()) return false;
+  const key = await crypto.subtle.importKey("raw", enc.encode(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const mac = new Uint8Array(await crypto.subtle.sign("HMAC", key, enc.encode(`${url.pathname}|${exp}`)));
+  const hex = [...mac].map((b) => b.toString(16).padStart(2, "0")).join("");
+  return safeEqual(sig, hex);
+}

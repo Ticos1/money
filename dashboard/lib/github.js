@@ -73,8 +73,8 @@ export class GitHub {
     throw new Error("Conflito ao salvar, tente de novo");
   }
 
-  async dispatch(inputs) {
-    const res = await this.call(`/repos/${this.repo}/actions/workflows/pipeline.yml/dispatches`, {
+  async dispatch(inputs, workflow = "pipeline.yml") {
+    const res = await this.call(`/repos/${this.repo}/actions/workflows/${workflow}/dispatches`, {
       method: "POST",
       body: JSON.stringify({ ref: this.branch, inputs }),
     });

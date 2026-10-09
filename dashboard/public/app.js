@@ -172,8 +172,12 @@ function publishedSection(post) {
         render();
       } catch (e) { toast(e.message); input.checked = !input.checked; input.disabled = false; }
     });
+    const link = post.publish_links?.[k];
+    const err = post.publish_errors?.[k];
     grid.append(h("label", {}, input, h("span", {}, name,
-      h("small", {}, when ? new Date(when).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "não publicado"))));
+      h("small", {}, when ? new Date(when).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "não publicado"),
+      link && h("small", {}, h("a", { href: link, target: "_blank", rel: "noopener" }, "ver post ↗")),
+      err && h("small", { style: "color:var(--bad)" }, `erro (${err.attempts}x): ${err.message}`))));
   }
   return grid;
 }
@@ -236,7 +240,10 @@ async function setStatus(post, action) {
   try {
     const r = await api(`/api/posts/${encodeURIComponent(post.id)}`, { method: "POST", body: { action } });
     Object.assign(post, r.post);
-    toast(action === "approve" ? "Aprovado!" : action === "reject" ? "Rejeitado" : "Atualizado");
+    const auto = Object.entries(STATE.settings?.publishing || {}).filter(([k, v]) => v === true).map(([k]) => k);
+    toast(action === "approve"
+      ? (auto.length ? `Aprovado! Será publicado em ${auto.join(", ")} no horário (${post.time}).` : "Aprovado!")
+      : action === "reject" ? "Rejeitado" : "Atualizado");
     render();
   } catch (e) { toast(e.message); }
 }
@@ -315,6 +322,8 @@ function renderConfig(main) {
     return { on, time, type };
   });
   const auto = h("input", { type: "checkbox", checked: !!s.approval?.auto_approve });
+  const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube"].map((k) =>
+    [k, h("input", { type: "checkbox", checked: !!s.publishing?.[k] })]));
   const groqOn = h("input", { type: "checkbox", checked: s.groq?.enabled !== false });
   const model = h("input", { type: "text", value: s.groq?.model || "" });
   const calls = h("input", { type: "number", min: 0, max: 50, value: s.groq?.max_calls_per_day ?? 6 });
@@ -326,6 +335,11 @@ function renderConfig(main) {
     slotRows.map((r, i) => h("div", { class: "row" }, h("label", { class: "check" }, r.on, `Post ${i + 1}`), r.time, r.type)),
     h("p", { class: "muted" }, "Os posts são gerados uma vez por dia de madrugada. Os horários acima aparecem na fila como sugestão de quando postar (e serão usados pela publicação automática nas próximas fases)."),
     h("label", { class: "check" }, auto, "Aprovar automaticamente (sem revisão)"),
+    h("h3", {}, "Publicação automática (ao aprovar, no horário do post)"),
+    h("label", { class: "check" }, pubBoxes.instagram, "Instagram (versículo no feed, quiz no Reels)"),
+    h("label", { class: "check" }, pubBoxes.facebook, "Facebook (Página)"),
+    h("label", { class: "check" }, pubBoxes.youtube, "YouTube Shorts (quiz; fica privado até a auditoria do YouTube)"),
+    h("p", { class: "muted" }, "TikTok e Kwai continuam manuais. Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md)."),
     h("h3", {}, "Inteligência artificial (Groq)"),
     h("label", { class: "check" }, groqOn, "Usar a Groq para conteúdo novo e variações de legenda"),
     h("label", {}, "Modelo", model),
@@ -343,6 +357,7 @@ function renderConfig(main) {
         name: name.value, handle: handle.value,
         slots: slotRows.filter((r) => r.on.checked).map((r) => ({ time: r.time.value, type: r.type.value })),
         auto_approve: auto.checked, groq_enabled: groqOn.checked, model: model.value.trim(),
+        publishing: Object.fromEntries(Object.entries(pubBoxes).map(([k, b]) => [k, b.checked])),
         max_calls_per_day: Number(calls.value), new_content_ratio: Number(ratio.value),
       } });
       STATE.settings = r.settings;

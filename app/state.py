@@ -87,6 +87,19 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
                 new["status"] = old.get("status", new["status"])
                 new["captions"] = old.get("captions", new["captions"])
         posts[new["id"]] = new
+    for post_id, by_platform in patch.get("publish_results", {}).items():
+        post = posts.get(post_id)
+        if not post:
+            continue
+        for platform, res in by_platform.items():
+            errors = post.setdefault("publish_errors", {})
+            if res.get("at"):
+                post.setdefault("published", {})[platform] = res["at"]
+                post.setdefault("publish_links", {})[platform] = res.get("url", "")
+                errors.pop(platform, None)
+            elif res.get("error"):
+                prev = errors.get(platform) or {}
+                errors[platform] = {"message": res["error"], "attempts": prev.get("attempts", 0) + 1}
     queue, archived = archive_old(list(posts.values()), today, keep_days)
     save_queue(queue)
     if archived:

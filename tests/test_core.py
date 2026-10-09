@@ -169,6 +169,58 @@ class ReplaceRejectedTests(unittest.TestCase):
         self.assertFalse(_replaceable({"status": "approved"}))
 
 
+class PublishTests(unittest.TestCase):
+    POST = {"id": "2026-10-09-2-quiz", "date": "2026-10-09", "time": "07:00", "slot": 2, "type": "quiz",
+            "status": "approved", "published": {}, "captions": {},
+            "media": {"base": "media/2026-10-09/2026-10-09-2-quiz/", "version": 2,
+                      "video_music": "video_com_musica.mp4", "images": []}}
+
+    def test_due_only_when_approved_and_time_passed(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app.publish import is_due
+        tz = ZoneInfo("America/Sao_Paulo")
+        self.assertTrue(is_due(self.POST, datetime(2026, 10, 9, 7, 5, tzinfo=tz), tz))
+        self.assertFalse(is_due(self.POST, datetime(2026, 10, 9, 6, 59, tzinfo=tz), tz))
+        self.assertFalse(is_due({**self.POST, "status": "pending"}, datetime(2026, 10, 9, 9, 0, tzinfo=tz), tz))
+
+    def test_publish_run_records_success_and_errors(self):
+        from app import publish
+        from app.publishers import PublishError
+
+        class Ok:
+            def supports(self, post): return True
+            def publish(self, post, d, media_url):
+                self.url = media_url("video_com_musica.mp4")
+                return "https://instagram.com/p/x"
+
+        class Bad:
+            def supports(self, post): return True
+            def publish(self, post, d, media_url): raise PublishError("token inválido")
+
+        ok = Ok()
+        env = {"PUBLIC_BASE_URL": "https://x.pages.dev", "MEDIA_SIGNING_SECRET": "s" * 40}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.dict("os.environ", env), \
+                mock.patch.object(publish, "build_publishers", return_value=({"instagram": ok, "facebook": Bad()}, {})), \
+                mock.patch.object(publish.config, "load_settings", return_value={
+                    "timezone": "America/Sao_Paulo", "publishing": {"instagram": True, "facebook": True}}):
+            post = {**self.POST, "date": "2026-01-01"}  # já passou do horário
+            state.save_queue([post])
+            patch = publish.run(Path(tmp))
+            res = patch["publish_results"][self.POST["id"]]
+            self.assertIn("at", res["instagram"])
+            self.assertEqual(res["facebook"]["error"], "token inválido")
+            self.assertIn("/media/2026-10-09/2026-10-09-2-quiz/video_com_musica.mp4?v=2&exp=", ok.url)
+            state.apply_patch(patch, date(2026, 1, 1), 30)
+            saved = state.load_queue()[0]
+            self.assertTrue(saved["published"]["instagram"])
+            self.assertEqual(saved["publish_errors"]["facebook"]["attempts"], 1)
+            # segunda rodada: Instagram não é repetido, Facebook tenta de novo
+            patch2 = publish.run(Path(tmp))
+            self.assertEqual(list(patch2["publish_results"][self.POST["id"]]), ["facebook"])
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

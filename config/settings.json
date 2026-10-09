@@ -37,5 +37,11 @@
   "new_content_ratio": 0.3,
   "caption_variations": true
  },
- "media_retention_days": 30
+ "media_retention_days": 30,
+ "publishing": {
+  "instagram": false,
+  "facebook": false,
+  "youtube": false,
+  "max_attempts": 3
+ }
 }

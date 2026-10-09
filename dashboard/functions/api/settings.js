@@ -31,6 +31,10 @@ export async function onRequestPut({ request, env }) {
         s.brand.handle = handle ? (handle.startsWith("@") ? handle : `@${handle}`) : "";
         s.schedule = { slots: slots.map((x) => ({ time: x.time, type: x.type })) };
         s.approval = { ...(s.approval || {}), auto_approve: Boolean(body.auto_approve) };
+        if (body.publishing && typeof body.publishing === "object") {
+          s.publishing = { ...(s.publishing || {}) };
+          for (const k of ["instagram", "facebook", "youtube"]) s.publishing[k] = Boolean(body.publishing[k]);
+        }
         s.groq = { ...(s.groq || {}) };
         s.groq.enabled = Boolean(body.groq_enabled);
         if (body.model) s.groq.model = body.model;

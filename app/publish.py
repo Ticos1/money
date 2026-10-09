@@ -1,0 +1,149 @@
+"""Publica nas redes os posts APROVADOS cujo horário já chegou.
+
+  python -m app.publish --media-dir media_repo/media --out patch.json
+
+Roda de hora em hora pelo GitHub Actions e logo depois de você aprovar um post
+no painel. Cada rede só é tentada se estiver ligada em config/settings.json
+(publishing) e se as chaves dela existirem nos Secrets. Se der erro, tenta de
+novo nas próximas execuções (até publishing.max_attempts vezes) e o painel
+mostra o motivo.
+"""
+from __future__ import annotations
+
+import argparse
+import hashlib
+import hmac
+import json
+import os
+import sys
+import time
+from datetime import datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+from . import config, state
+from .publishers import PublishError
+
+MEDIA_URL_TTL = 3 * 3600  # links temporários valem 3 horas
+
+
+def sign_media_path(path: str, exp: int, secret: str) -> str:
+    """Mesma assinatura conferida pelo painel (dashboard/functions/_middleware.js)."""
+    return hmac.new(secret.encode(), f"{path}|{exp}".encode(), hashlib.sha256).hexdigest()
+
+
+def media_url_factory(post: dict):
+    base = os.environ.get("PUBLIC_BASE_URL", "").rstrip("/")
+    secret = os.environ.get("MEDIA_SIGNING_SECRET", "")
+
+    def media_url(filename: str) -> str:
+        if not base or len(secret) < 32:
+            raise PublishError("configure PUBLIC_BASE_URL e MEDIA_SIGNING_SECRET (32+ caracteres)")
+        path = f"/{post['media']['base']}{filename}"
+        exp = int(time.time()) + MEDIA_URL_TTL
+        return f"{base}{path}?v={post['media'].get('version', 1)}&exp={exp}&sig={sign_media_path(path, exp, secret)}"
+
+    return media_url
+
+
+def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
+    if post.get("status") != "approved" or not post.get("media", {}).get("base"):
+        return False
+    when = datetime.fromisoformat(f"{post['date']}T{post.get('time', '00:00')}").replace(tzinfo=tz)
+    return when <= now
+
+
+def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
+    """Devolve (publicadores prontos, erros de configuração por rede)."""
+    pubs, errors = {}, {}
+    env = os.environ.get
+    if enabled.get("instagram") or enabled.get("facebook"):
+        if env("META_ACCESS_TOKEN"):
+            try:
+                from .publishers.meta import FacebookPublisher, InstagramPublisher, MetaAccount
+                acc = MetaAccount(env("META_ACCESS_TOKEN"), env("META_PAGE_ID") or None)
+                if enabled.get("facebook"):
+                    pubs["facebook"] = FacebookPublisher(acc)
+                if enabled.get("instagram"):
+                    try:
+                        pubs["instagram"] = InstagramPublisher(acc)
+                    except PublishError as exc:
+                        errors["instagram"] = str(exc)
+            except PublishError as exc:
+                for p in ("instagram", "facebook"):
+                    if enabled.get(p):
+                        errors[p] = str(exc)
+        else:
+            log.append("Instagram/Facebook ligados, mas falta o segredo META_ACCESS_TOKEN")
+    if enabled.get("youtube"):
+        if env("YT_REFRESH_TOKEN") and env("YT_CLIENT_ID") and env("YT_CLIENT_SECRET"):
+            try:
+                from .publishers.youtube import YouTubePublisher
+                pubs["youtube"] = YouTubePublisher(env("YT_CLIENT_ID"), env("YT_CLIENT_SECRET"),
+                                                   env("YT_REFRESH_TOKEN"))
+            except PublishError as exc:
+                errors["youtube"] = str(exc)
+        else:
+            log.append("YouTube ligado, mas faltam YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN")
+    return pubs, errors
+
+
+def run(media_dir: Path, only_post: str | None = None) -> dict:
+    settings = config.load_settings()
+    cfg = settings.get("publishing", {})
+    enabled = {p: bool(cfg.get(p)) for p in state.PLATFORMS}
+    max_attempts = int(cfg.get("max_attempts", 3))
+    tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
+    now = datetime.now(tz)
+    log: list[str] = []
+
+    due = [p for p in state.load_queue() if is_due(p, now, tz) and (not only_post or p["id"] == only_post)]
+    pending = []
+    for post in due:
+        for platform, on in enabled.items():
+            if not on or (post.get("published") or {}).get(platform):
+                continue
+            attempts = ((post.get("publish_errors") or {}).get(platform) or {}).get("attempts", 0)
+            if attempts >= max_attempts:
+                continue
+            pending.append((post, platform))
+    results: dict[str, dict] = {}
+    if not pending:
+        print("Nada para publicar agora.")
+        return {"mode": "publish", "publish_results": results}
+
+    pubs, config_errors = build_publishers(enabled, log)
+    for line in log:
+        print("·", line)
+    for post, platform in pending:
+        out = results.setdefault(post["id"], {})
+        if platform in config_errors:
+            out[platform] = {"error": config_errors[platform]}
+            print(f"{post['id']} → {platform}: ERRO {config_errors[platform]}")
+            continue
+        pub = pubs.get(platform)
+        if not pub or not pub.supports(post):
+            continue
+        try:
+            url = pub.publish(post, media_dir / post["date"] / post["id"], media_url_factory(post))
+            out[platform] = {"at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"), "url": url}
+            print(f"{post['id']} → {platform}: publicado {url}")
+        except PublishError as exc:
+            out[platform] = {"error": str(exc)[:500]}
+            print(f"{post['id']} → {platform}: ERRO {exc}")
+    return {"mode": "publish", "publish_results": results}
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(prog="python -m app.publish")
+    parser.add_argument("--media-dir", default="media")
+    parser.add_argument("--out", default="patch.json")
+    parser.add_argument("--post-id")
+    args = parser.parse_args(argv)
+    patch = run(Path(args.media_dir), args.post_id or None)
+    Path(args.out).write_text(json.dumps(patch, ensure_ascii=False, indent=1), encoding="utf-8")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

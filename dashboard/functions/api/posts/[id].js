@@ -79,7 +79,17 @@ export async function onRequestPost({ request, env, params }) {
       `painel: ${body.action} ${id}`,
     );
     if (rerender) await gh.dispatch({ mode: "rerender", post_id: id, force: "false" });
-    return json({ ok: true, post, rerender });
+    // Aprovou: tenta publicar já (se o horário do post já chegou e houver rede ligada).
+    let publishing = false;
+    if (body.action === "approve" && !rerender) {
+      try {
+        await gh.dispatch({ post_id: id }, "publish.yml");
+        publishing = true;
+      } catch {
+        // sem permissão ou workflow ausente: a rodada de hora em hora publica depois
+      }
+    }
+    return json({ ok: true, post, rerender, publishing });
   } catch (err) {
     return json({ error: err.message }, 400);
   }

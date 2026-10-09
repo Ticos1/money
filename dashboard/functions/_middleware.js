@@ -1,5 +1,5 @@
 // Protege TODO o painel (páginas, API e mídias): só entra quem fez login.
-import { hasValidSession } from "../lib/auth.js";
+import { hasValidMediaSignature, hasValidSession } from "../lib/auth.js";
 
 const PUBLIC = new Set(["/login", "/login.html", "/api/login", "/style.css", "/icon.svg"]);
 
@@ -34,6 +34,11 @@ export async function onRequest(ctx) {
   }
 
   if (PUBLIC.has(url.pathname)) return withHeaders(await ctx.next());
+
+  // Instagram/Facebook baixam a mídia por um link assinado que expira em poucas horas.
+  if (["GET", "HEAD"].includes(request.method) && (await hasValidMediaSignature(url, env.MEDIA_SIGNING_SECRET))) {
+    return withHeaders(await ctx.next());
+  }
 
   if (await hasValidSession(request, env.SESSION_SECRET)) return withHeaders(await ctx.next());
 
