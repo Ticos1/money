@@ -455,11 +455,16 @@
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "instagram": "2026-10-09T16:57:42+00:00",
+    "facebook": "2026-10-09T16:57:45+00:00"
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeR_YbtAX7n/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094157875513774"
+   }
   },
   {
    "id": "2026-10-09-2-quiz",
