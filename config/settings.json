@@ -41,7 +41,7 @@
  "publishing": {
   "instagram": true,
   "facebook": true,
-  "youtube": false,
+  "youtube": true,
   "max_attempts": 3
  }
 }
