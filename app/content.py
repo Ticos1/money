@@ -98,7 +98,35 @@ def _groq_quiz(groq: GroqClient, avoid_refs: list[str]) -> dict:
     }
 
 
-GROQ_GENERATORS = {"verse": _groq_verse, "quiz": _groq_quiz}
+def _groq_curiosity(groq: GroqClient, avoid_refs: list[str]) -> dict:
+    user = (
+        "Escreva UMA curiosidade bíblica curta no estilo 'Você sabia?' (personagens, lugares, "
+        "números, costumes da época), baseada em UM versículo específico, sem inventar nada além "
+        "do que o versículo diz.\n"
+        f"Não use estas referências: {', '.join(avoid_refs[:80]) or 'nenhuma'}.\n"
+        "Use nomes de livros em português.\n"
+        "Responda neste formato JSON:\n"
+        '{"title": "título curto e chamativo, até 45 caracteres", '
+        '"text": "explicação de 1 a 2 frases, até 220 caracteres", '
+        '"ref": "Livro capítulo:versículo", '
+        '"keyword": "nome, número por extenso ou palavra-chave que aparece LITERALMENTE no versículo", '
+        '"tags": ["duas", "hashtags sem # e sem acento"]}'
+    )
+    data = groq.chat_json(SYSTEM_PROMPT, user)
+    item = {
+        "id": f"g-{fingerprint(str(data.get('title')))}",
+        "title": str(data.get("title", "")).strip()[:60],
+        "text": str(data.get("text", "")).strip(),
+        "ref": str(data.get("ref", "")),
+        "evidence": str(data.get("keyword", "")).strip(),
+        "tags": [re.sub(r"[^a-z0-9]", "", bible.normalize(t)) for t in data.get("tags", [])][:3],
+    }
+    if len(item["text"]) > 300 or REF_IN_TEXT.search(item["text"] + item["title"]):
+        raise validate.ContentError("curiosidade longa demais ou citando outra referência")
+    return item
+
+
+GROQ_GENERATORS = {"verse": _groq_verse, "quiz": _groq_quiz, "curiosity": _groq_curiosity}
 
 
 def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
@@ -126,7 +154,7 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
             try:
                 raw = GROQ_GENERATORS[kind](groq, avoid)
                 item = validate.validate(kind, raw)
-                fp = fingerprint(item.get("question") or item["ref_key"])
+                fp = fingerprint(item.get("question") or item.get("title") or item["ref_key"])
                 if item["ref_key"] in recent_refs or fp in used_fps:
                     raise validate.ContentError("conteúdo repetido")
                 item["source"] = "groq"
@@ -147,8 +175,8 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
         log.append(f"{kind}: banco esgotado, reaproveitando {item['id']}")
     item = {**item, "source": "bank"}
     updates = {kind: {item["id"]: stamp}, "refs": {item["ref_key"]: stamp}}
-    if item.get("question"):
-        updates["fingerprints"] = {fingerprint(item["question"]): stamp}
+    if item.get("question") or item.get("title"):
+        updates["fingerprints"] = {fingerprint(item.get("question") or item["title"]): stamp}
     return item, updates
 
 

@@ -1,7 +1,7 @@
 import { GitHub, json } from "../../lib/github.js";
 
 const TIME = /^([01]\d|2[0-3]):[0-5]\d$/;
-const TYPES = ["verse", "quiz"];
+const TYPES = ["verse", "quiz", "curiosity"];
 const MODEL = /^[\w./:-]{3,80}$/;
 
 // Salva as configurações editáveis pelo painel em config/settings.json.
@@ -13,7 +13,7 @@ export async function onRequestPut({ request, env }) {
     return json({ error: "requisição inválida" }, 400);
   }
   const slots = Array.isArray(body.slots) ? body.slots : [];
-  if (slots.length < 1 || slots.length > 2) return json({ error: "Use 1 ou 2 horários" }, 400);
+  if (slots.length < 1 || slots.length > 8) return json({ error: "Use de 1 a 8 horários" }, 400);
   for (const s of slots) {
     if (!TIME.test(s.time || "") || !TYPES.includes(s.type)) return json({ error: "Horário ou tipo inválido" }, 400);
   }

@@ -36,6 +36,17 @@ QUIZ_HOOKS = [
     "Desafio bíblico do dia",
     "Teste rápido: você acerta de primeira?",
 ]
+CURIOSITY_HOOKS = [
+    "Você sabia disso?",
+    "Curiosidade bíblica que pouca gente conhece",
+    "Isso está na Bíblia e muita gente não sabe",
+    "Aprenda algo novo sobre a Bíblia hoje",
+]
+CURIOSITY_CTAS = [
+    "Você já sabia? Comente SIM ou NÃO.",
+    "Salve para lembrar e compartilhe com quem ama a Palavra.",
+    "Marque alguém que vai gostar de saber disso.",
+]
 QUIZ_CTAS = [
     "Comente a letra antes de ver a resposta!",
     "Responda nos comentários e desafie um amigo.",
@@ -64,6 +75,12 @@ def template_captions(kind: str, item: dict, handle: str, rng: random.Random) ->
         long_text = f"{hook} 🙏\n\n{quote}\n\n{item['reflection']}\n\n{cta}"
         short_text = f"{hook} 🙏 {item['ref_label']}\n{cta}"
         yt_title = f"{item['ref_label']}: {item['on_screen']}"
+    elif kind == "curiosity":
+        hook = rng.choice(CURIOSITY_HOOKS)
+        cta = rng.choice(CURIOSITY_CTAS)
+        long_text = f"{hook} 📖\n\n{item['title']}\n\n{item['text']} ({item['ref_label']})\n\n{cta}"
+        short_text = f"{hook} 📖 {item['title']}\n{cta}"
+        yt_title = f"Você sabia? {item['title']}"
     else:
         hook = rng.choice(QUIZ_HOOKS)
         cta = rng.choice(QUIZ_CTAS)
@@ -104,6 +121,9 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
         about = (f"Versículo do dia: {item['ref_label']} — “{item['verse_text']}”. "
                  f"Reflexão: {item['reflection']}")
         rules = "NÃO escreva o texto do versículo (ele é adicionado automaticamente, exato)."
+    elif kind == "curiosity":
+        about = f"Curiosidade bíblica: {item['title']}. {item['text']} ({item['ref_label']})"
+        rules = "Não invente fatos novos além da curiosidade informada."
     else:
         about = f"Quiz bíblico. Pergunta: {item['question']} Alternativas: {item['options']}"
         rules = "NÃO revele nem dê pistas da resposta certa."
@@ -140,6 +160,9 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
     if kind == "verse":
         # a legenda longa sempre leva o versículo exato da Bíblia local
         texts["long"] = f"“{item['verse_text']}” ({item['ref_label']})\n\n{texts['long']}"
+    elif kind == "curiosity":
+        # o texto da curiosidade (já validado na Bíblia) sempre vai junto
+        texts["long"] = f"{item['title']}\n\n{item['text']} ({item['ref_label']})\n\n{texts['long']}"
     else:
         letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
         texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}"

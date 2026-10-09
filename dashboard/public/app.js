@@ -5,7 +5,7 @@ const PLATFORMS = [
   ["instagram", "Instagram"], ["facebook", "Facebook"], ["tiktok", "TikTok"],
   ["kwai", "Kwai"], ["youtube", "YouTube"],
 ];
-const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz" };
+const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz (Reels)", curiosity: "Você sabia?" };
 const STATUS_NAME = { pending: "Aguardando aprovação", approved: "Aprovado", rejected: "Rejeitado" };
 const IMG_NAME = {
   "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5", "imagem_story.jpg": "Imagem 9:16",
@@ -71,7 +71,9 @@ function fmtDate(post) {
 }
 
 function titleOf(post) {
-  return post.type === "verse" ? post.content.ref_label : post.content.question;
+  if (post.type === "verse") return post.content.ref_label;
+  if (post.type === "curiosity") return post.content.title;
+  return post.content.question;
 }
 
 // ---------- fila
@@ -191,6 +193,12 @@ function editForm(post, card) {
     fields.reflection = h("textarea", {}, post.content.reflection);
     f.append(h("label", {}, "Frase de reflexão (aparece no vídeo)", fields.on_screen),
       h("label", {}, "Reflexão (legenda base)", fields.reflection));
+  } else if (post.type === "curiosity") {
+    f.append(h("p", { class: "muted" }, `Referência (não editável): ${post.content.ref_label}`));
+    fields.title = h("input", { type: "text", maxlength: 60, value: post.content.title });
+    fields.text = h("textarea", {}, post.content.text);
+    f.append(h("label", {}, "Título (aparece na imagem)", fields.title),
+      h("label", {}, "Texto (aparece na imagem)", fields.text));
   } else {
     fields.question = h("textarea", { maxlength: 140, style: "min-height:70px" }, post.content.question);
     f.append(h("label", {}, "Pergunta", fields.question));
@@ -221,7 +229,9 @@ function editForm(post, card) {
     save.disabled = true;
     const content = post.type === "verse"
       ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value }
-      : { question: fields.question.value, options: fields.options.map((i) => i.value), answer: Number(fields.answer.value) };
+      : post.type === "curiosity"
+        ? { title: fields.title.value, text: fields.text.value }
+        : { question: fields.question.value, options: fields.options.map((i) => i.value), answer: Number(fields.answer.value) };
     const captions = {
       instagram: caps.instagram.value, facebook: caps.facebook.value, tiktok: caps.tiktok.value, kwai: caps.kwai.value,
       youtube: { title: caps.yt_title.value, description: caps.yt_desc.value },
@@ -314,13 +324,23 @@ function renderConfig(main) {
   const f = h("form", { class: "stack" });
   const name = h("input", { type: "text", value: s.brand?.name || "" });
   const handle = h("input", { type: "text", value: s.brand?.handle || "", placeholder: "@seuperfil" });
-  const slotRows = [0, 1].map((i) => {
-    const on = h("input", { type: "checkbox", checked: i < slots.length, disabled: i === 0 });
-    const time = h("input", { type: "time", value: slots[i]?.time || (i ? "19:00" : "07:00") });
+  const slotBox = h("div", { class: "stack" });
+  const slotRows = [];
+  const addSlot = (slot) => {
+    if (slotRows.length >= 8) return toast("Máximo de 8 posts por dia");
+    const time = h("input", { type: "time", value: slot?.time || "12:00" });
     const type = h("select", {}, Object.entries(TYPE_NAME).map(([k, n]) =>
-      h("option", { value: k, selected: (slots[i]?.type || (i ? "quiz" : "verse")) === k }, n)));
-    return { on, time, type };
-  });
+      h("option", { value: k, selected: (slot?.type || "verse") === k }, n)));
+    const row = { time, type };
+    const remove = h("button", { type: "button", class: "btn small bad", onclick: () => {
+      if (slotRows.length <= 1) return toast("Deixe pelo menos 1 post por dia");
+      slotRows.splice(slotRows.indexOf(row), 1); line.remove();
+    } }, "✕");
+    const line = h("div", { class: "row" }, time, type, remove);
+    slotRows.push(row);
+    slotBox.append(line);
+  };
+  (slots.length ? slots : [{ time: "07:00", type: "verse" }]).forEach(addSlot);
   const auto = h("input", { type: "checkbox", checked: !!s.approval?.auto_approve });
   const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube"].map((k) =>
     [k, h("input", { type: "checkbox", checked: !!s.publishing?.[k] })]));
@@ -332,8 +352,9 @@ function renderConfig(main) {
     h("label", {}, "Nome da página", name),
     h("label", {}, "Seu @ (marca d'água nos vídeos e imagens)", handle),
     h("h3", {}, "Posts por dia (horários sugeridos para postar)"),
-    slotRows.map((r, i) => h("div", { class: "row" }, h("label", { class: "check" }, r.on, `Post ${i + 1}`), r.time, r.type)),
-    h("p", { class: "muted" }, "Os posts são gerados uma vez por dia de madrugada. Os horários acima aparecem na fila como sugestão de quando postar (e serão usados pela publicação automática nas próximas fases)."),
+    slotBox,
+    h("button", { type: "button", class: "btn small", onclick: () => addSlot() }, "+ Adicionar horário"),
+    h("p", { class: "muted" }, "Os posts do dia são gerados de madrugada (05:17). Com a publicação automática ligada, cada post aprovado sai no horário dele (até ~7 min depois). Use horários cheios (ex.: 12:00)."),
     h("label", { class: "check" }, auto, "Aprovar automaticamente (sem revisão)"),
     h("h3", {}, "Publicação automática (ao aprovar, no horário do post)"),
     h("label", { class: "check" }, pubBoxes.instagram, "Instagram (versículo no feed, quiz no Reels)"),
@@ -355,7 +376,8 @@ function renderConfig(main) {
     try {
       const r = await api("/api/settings", { method: "PUT", body: {
         name: name.value, handle: handle.value,
-        slots: slotRows.filter((r) => r.on.checked).map((r) => ({ time: r.time.value, type: r.type.value })),
+        slots: slotRows.map((r) => ({ time: r.time.value, type: r.type.value }))
+          .sort((a, b) => a.time.localeCompare(b.time)),
         auto_approve: auto.checked, groq_enabled: groqOn.checked, model: model.value.trim(),
         publishing: Object.fromEntries(Object.entries(pubBoxes).map(([k, b]) => [k, b.checked])),
         max_calls_per_day: Number(calls.value), new_content_ratio: Number(ratio.value),

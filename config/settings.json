@@ -11,8 +11,28 @@
     "type": "verse"
    },
    {
+    "time": "09:00",
+    "type": "quiz"
+   },
+   {
+    "time": "12:00",
+    "type": "curiosity"
+   },
+   {
+    "time": "14:00",
+    "type": "quiz"
+   },
+   {
+    "time": "17:00",
+    "type": "verse"
+   },
+   {
     "time": "19:00",
     "type": "quiz"
+   },
+   {
+    "time": "21:00",
+    "type": "curiosity"
    }
   ]
  },
@@ -33,7 +53,7 @@
   "fallback_models": [
    "llama-3.3-70b-versatile"
   ],
-  "max_calls_per_day": 6,
+  "max_calls_per_day": 20,
   "new_content_ratio": 0.3,
   "caption_variations": true
  },

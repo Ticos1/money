@@ -24,15 +24,17 @@ from zoneinfo import ZoneInfo
 
 from . import captions, config, content, music, state, validate
 from .groq_client import GroqClient
+from .render import curiosity as curiosity_render
 from .render import quiz as quiz_render
 from .render import verse as verse_render
 
-RENDERERS = {"verse": verse_render, "quiz": quiz_render}
+RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_render}
 CONTENT_FIELDS = {
     "verse": ["ref", "skip_prefix", "ref_label", "verse_text", "on_screen", "reflection", "theme",
               "mood", "tags"],
     "quiz": ["ref", "ref_label", "question", "options", "answer", "evidence", "passage", "difficulty",
              "tags"],
+    "curiosity": ["ref", "ref_label", "title", "text", "evidence", "passage", "tags"],
 }
 
 

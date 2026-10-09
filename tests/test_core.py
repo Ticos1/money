@@ -112,6 +112,24 @@ class ContentTests(unittest.TestCase):
                 used.setdefault(k, {}).update(v)
 
 
+class CuriosityTests(unittest.TestCase):
+    def test_groq_curiosity_needs_keyword_in_verse(self):
+        good = {"title": "Gigante de Gate", "text": "Golias era de Gate.", "ref": "1 Samuel 17:4",
+                "keyword": "Golias", "tags": ["golias"]}
+        bad = {**good, "keyword": "Sansão"}
+        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([good]), SETTINGS, random.Random(1), [])
+        self.assertEqual(item["source"], "groq")
+        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([bad, bad]), SETTINGS, random.Random(1), [])
+        self.assertEqual(item["source"], "bank")
+
+    def test_curiosity_caption_has_text_and_reference(self):
+        item = validate.validate("curiosity", validate.load_bank("curiosity")[0])
+        caps, _ = captions.build("curiosity", item, {**SETTINGS, "groq": {"enabled": False}},
+                                 GroqClient(None, SETTINGS, {}, TODAY), random.Random(1), [])
+        self.assertIn(item["title"], caps["instagram"])
+        self.assertIn(item["ref_label"], caps["instagram"])
+
+
 class CaptionTests(unittest.TestCase):
     def _quiz(self):
         return validate.validate("quiz", validate.load_bank("quiz")[0])
