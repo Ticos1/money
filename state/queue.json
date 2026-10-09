@@ -147,20 +147,16 @@
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
+    "instagram": "2026-10-09T12:11:54+00:00",
     "facebook": "2026-10-09T12:02:28+00:00"
    },
    "log": [],
    "error": null,
    "needs_render": false,
-   "publish_errors": {
-    "instagram": {
-     "message": "a Página não tem um Instagram profissional conectado",
-     "attempts": 1
-    }
-   },
+   "publish_errors": {},
    "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027_122094033165513774"
+    "facebook": "https://www.facebook.com/1405324152662027_122094033165513774",
+    "instagram": "https://www.instagram.com/p/DeResKNDijL/"
    }
   }
  ]
