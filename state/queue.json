@@ -148,11 +148,20 @@
     "kwai": null,
     "youtube": null,
     "instagram": null,
-    "facebook": null
+    "facebook": "2026-10-09T12:02:28+00:00"
    },
    "log": [],
    "error": null,
-   "needs_render": false
+   "needs_render": false,
+   "publish_errors": {
+    "instagram": {
+     "message": "a Página não tem um Instagram profissional conectado",
+     "attempts": 1
+    }
+   },
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027_122094033165513774"
+   }
   }
  ]
 }
