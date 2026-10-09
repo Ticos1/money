@@ -224,6 +224,92 @@
    "error": null
   },
   {
+   "id": "2026-10-09-5-quiz",
+   "date": "2026-10-09",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-09T15:22:43+00:00",
+   "source": "bank",
+   "bank_id": "q087",
+   "model": null,
+   "content": {
+    "ref": "Atos 16:14",
+    "ref_label": "Atos 16:14",
+    "question": "Lídia, que ouvia Paulo em Filipos, era vendedora de quê?",
+    "options": [
+     "Perfumes",
+     "Tecidos de linho",
+     "Púrpura",
+     "Azeite"
+    ],
+    "answer": 2,
+    "evidence": "vendedora de púrpura",
+    "passage": "Certa mulher chamada Lídia, vendedora de púrpura, da cidade de Tiatira, que adorava a Deus, nos ouvia. O Senhor abriu o seu coração para dar atenção às coisas que eram ditas por Paulo.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nLídia, que ouvia Paulo em Filipos, era vendedora de quê?\n\nA) Perfumes\nB) Tecidos de linho\nC) Púrpura\nD) Azeite\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #cristao #gospel #perguntasbiblicas #jesus #conhecimentobiblico #desafio #evangelico #deus #fe",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nLídia, que ouvia Paulo em Filipos, era vendedora de quê?\n\nA) Perfumes\nB) Tecidos de linho\nC) Púrpura\nD) Azeite\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #teste",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #perguntasbiblicas #fe",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Lídia, que ouvia Paulo em Filipos, era vendedora… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nLídia, que ouvia Paulo em Filipos, era vendedora de quê?\n\nA) Perfumes\nB) Tecidos de linho\nC) Púrpura\nD) Azeite\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.65,
+    "base": "media/2026-10-09/2026-10-09-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-09-4-quiz",
    "date": "2026-10-09",
    "slot": 4,
