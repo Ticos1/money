@@ -46,6 +46,11 @@ def _seed(text: str) -> int:
     return int(hashlib.sha1(text.encode()).hexdigest()[:8], 16)
 
 
+def _replaceable(post: dict) -> bool:
+    """Post rejeitado e ainda não publicado em nenhuma rede pode ser refeito."""
+    return post.get("status") == "rejected" and not any((post.get("published") or {}).values())
+
+
 def _render(kind: str, item: dict, post_id: str, day: str, settings: dict, media_root: Path,
             track: dict, rng: random.Random, version: int) -> dict:
     out_dir = media_root / day / post_id
@@ -74,9 +79,12 @@ def build(args) -> dict:
     for idx, slot in enumerate(settings["schedule"]["slots"], start=1):
         kind = slot["type"]
         post_id = f"{day}-{idx}-{kind}"
-        if post_id in queue and not args.force:
+        old = queue.get(post_id)
+        if old and not args.force and not _replaceable(old):
             print(f"{post_id}: já existe, pulando (use --force para refazer)")
             continue
+        if old:
+            print(f"{post_id}: substituindo post {old.get('status')}")
         log: list[str] = []
         rng = random.Random(_seed(post_id))
         item, used_updates = content.pick(kind, today, used, groq, settings, rng, log)
@@ -88,7 +96,8 @@ def build(args) -> dict:
         mood = music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao"))
         track = music.pick_track(mood, recent_tracks, rng)
         recent_tracks.append(track["id"])
-        media = _render(kind, item, post_id, day, settings, media_root, track, rng, 1)
+        version = int((old or {}).get("media", {}).get("version", 0)) + 1  # novo ?v= evita cache
+        media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
 
         post = {
             "id": post_id,

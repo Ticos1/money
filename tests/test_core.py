@@ -160,6 +160,15 @@ class GroqRobustnessTests(unittest.TestCase):
             self.assertEqual(got["source"], "bank")
 
 
+class ReplaceRejectedTests(unittest.TestCase):
+    def test_only_unpublished_rejected_posts_are_replaced(self):
+        from app.generate import _replaceable
+        self.assertTrue(_replaceable({"status": "rejected", "published": {"tiktok": None}}))
+        self.assertFalse(_replaceable({"status": "rejected", "published": {"tiktok": "2026-10-09"}}))
+        self.assertFalse(_replaceable({"status": "pending", "published": {}}))
+        self.assertFalse(_replaceable({"status": "approved"}))
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

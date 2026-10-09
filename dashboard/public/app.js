@@ -257,7 +257,8 @@ function renderQueue(main) {
     return;
   }
   for (const p of posts) main.append(postCard(p));
-  if (rejected) main.append(h("p", { class: "muted" }, `${rejected} post(s) rejeitado(s) ocultos.`));
+  if (rejected) main.append(h("p", { class: "muted" },
+    `${rejected} post(s) rejeitado(s) ocultos. Toque em “Gerar agora” para criar novos no lugar (leva uns 4 minutos).`));
 }
 
 // ---------- histórico
@@ -359,7 +360,7 @@ document.querySelectorAll("nav button").forEach((b) => b.addEventListener("click
   render();
 }));
 document.getElementById("gen").addEventListener("click", async (e) => {
-  if (!confirm("Gerar os posts de hoje agora? (os que já existem não são refeitos)")) return;
+  if (!confirm("Gerar os posts de hoje agora? Os que você rejeitou serão substituídos por novos.")) return;
   e.target.disabled = true;
   try { await api("/api/generate", { method: "POST", body: {} }); toast("Gerando! Leva uns 3–5 minutos. Atualize depois."); }
   catch (err) { toast(err.message); }
