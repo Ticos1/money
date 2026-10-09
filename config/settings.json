@@ -17,7 +17,7 @@
   ]
  },
  "approval": {
-  "auto_approve": false
+  "auto_approve": true
  },
  "video": {
   "min_seconds": 15,
