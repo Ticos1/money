@@ -217,11 +217,16 @@
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "instagram": "2026-10-09T21:36:27+00:00",
+    "facebook": "2026-10-09T21:36:31+00:00"
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeSfS-riYcW/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094258273513774"
+   }
   },
   {
    "id": "2026-10-09-5-quiz",
@@ -298,16 +303,22 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "youtube": "2026-10-09T21:36:32+00:00",
+    "instagram": "2026-10-09T21:37:10+00:00",
+    "facebook": "2026-10-09T21:37:15+00:00"
    },
    "log": [
     "quiz: Groq tentativa 1 descartada: conteúdo repetido",
     "quiz: Groq tentativa 2 descartada: conteúdo repetido",
     "legenda Groq descartada: legenda incompleta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ufQTmQZw5iw",
+    "instagram": "https://www.instagram.com/reel/DeSfVGxD3x2/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1122398790142103"
+   }
   },
   {
    "id": "2026-10-09-4-quiz",
@@ -384,12 +395,18 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "youtube": "2026-10-09T21:37:17+00:00",
+    "instagram": "2026-10-09T21:38:01+00:00",
+    "facebook": "2026-10-09T21:38:04+00:00"
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/HboTxvAMYeQ",
+    "instagram": "https://www.instagram.com/reel/DeSfbF5js5J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1092451150302956"
+   }
   },
   {
    "id": "2026-10-09-3-curiosity",
