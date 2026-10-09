@@ -54,9 +54,9 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       CF_PAGES_PROJECT: ${{ vars.CF_PAGES_PROJECT }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -64,6 +64,9 @@ jobs:
       - name: Instalar FFmpeg e dependências
         if: env.MODE != 'deploy'
         run: |
+          # desliga a reindexação de manuais do apt (era o que deixava a instalação lenta)
+          echo "set man-db/auto-update false" | sudo debconf-communicate >/dev/null 2>&1 || true
+          sudo rm -f /var/lib/man-db/auto-update
           sudo apt-get update -qq
           sudo apt-get install -y -qq --no-install-recommends ffmpeg
           pip install -q -r requirements.txt

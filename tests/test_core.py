@@ -136,6 +136,30 @@ class CaptionTests(unittest.TestCase):
         self.assertLessEqual(caps["tiktok"].count("#"), 5)
 
 
+class GroqRobustnessTests(unittest.TestCase):
+    def test_parse_json_formats(self):
+        from app.groq_client import _parse_json
+        self.assertEqual(_parse_json('[{"a": 1}]'), {"a": 1})
+        self.assertEqual(_parse_json('texto {"a": 2} fim'), {"a": 2})
+        for bad in ('[1, 2]', '"oi"', 'sem json'):
+            with self.assertRaises(ValueError):
+                _parse_json(bad)
+
+    def test_weird_groq_output_never_breaks_the_post(self):
+        item = validate.validate("verse", validate.load_bank("verse")[0])
+        for weird in ([], ["x"], {"hook": None, "long": 5}, {"hook": ["a"], "long": {}, "short": 1,
+                                                              "youtube_title": 2}):
+            groq = FakeGroq([weird])
+            groq.chat_json = lambda *a, w=weird, **k: w  # devolve o formato estranho como está
+            caps, source = captions.build("verse", item, SETTINGS, groq, random.Random(1), [])
+            self.assertIn("instagram", caps)
+        for weird in ([{"ref": None}], {"options": "abc", "answer": "x"}, {"ref": 123}):
+            groq = FakeGroq([])
+            groq.chat_json = lambda *a, w=weird, **k: w
+            got, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
+            self.assertEqual(got["source"], "bank")
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

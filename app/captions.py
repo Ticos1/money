@@ -157,6 +157,6 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
         try:
             texts = _groq_texts(kind, item, groq, texts)
             source = "groq"
-        except (GroqUnavailable, ValueError) as exc:
+        except (GroqUnavailable, ValueError, TypeError, AttributeError, KeyError) as exc:
             log.append(f"legenda Groq descartada: {exc}")
     return _assemble(kind, item, texts, handle, rng), source

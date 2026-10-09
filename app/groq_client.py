@@ -74,10 +74,16 @@ class GroqClient:
 
 
 def _parse_json(text: str) -> dict:
+    """Sempre devolve um objeto JSON (dict); qualquer outro formato é erro."""
     try:
-        return json.loads(text)
+        data = json.loads(text)
     except json.JSONDecodeError:
         match = re.search(r"\{.*\}", text, re.S)
         if not match:
             raise ValueError("resposta da Groq sem JSON")
-        return json.loads(match.group())
+        data = json.loads(match.group())
+    if isinstance(data, list) and data and isinstance(data[0], dict):
+        data = data[0]  # alguns modelos embrulham o objeto numa lista
+    if not isinstance(data, dict):
+        raise ValueError(f"resposta da Groq em formato inesperado ({type(data).__name__})")
+    return data

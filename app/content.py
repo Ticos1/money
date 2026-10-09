@@ -133,7 +133,8 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
                 item["model"] = groq.last_model
                 log.append(f"{kind}: conteúdo novo da Groq ({groq.last_model}) aceito")
                 return item, {"refs": {item["ref_key"]: stamp}, "fingerprints": {fp: stamp}}
-            except (GroqUnavailable, validate.ContentError, bible.BibleError) as exc:
+            except (GroqUnavailable, validate.ContentError, bible.BibleError,
+                    ValueError, TypeError, AttributeError, KeyError) as exc:
                 log.append(f"{kind}: Groq tentativa {attempt + 1} descartada: {exc}")
                 if isinstance(exc, GroqUnavailable):
                     break
