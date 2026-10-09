@@ -33,7 +33,7 @@ export async function onRequestPut({ request, env }) {
         s.approval = { ...(s.approval || {}), auto_approve: Boolean(body.auto_approve) };
         if (body.publishing && typeof body.publishing === "object") {
           s.publishing = { ...(s.publishing || {}) };
-          for (const k of ["instagram", "facebook", "youtube"]) s.publishing[k] = Boolean(body.publishing[k]);
+          for (const k of ["instagram", "facebook", "youtube", "tiktok"]) s.publishing[k] = Boolean(body.publishing[k]);
         }
         s.groq = { ...(s.groq || {}) };
         s.groq.enabled = Boolean(body.groq_enabled);

@@ -75,6 +75,16 @@ def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
                         errors[p] = str(exc)
         else:
             log.append("Instagram/Facebook ligados, mas falta o segredo META_ACCESS_TOKEN")
+    if enabled.get("tiktok"):
+        if env("TIKTOK_CLIENT_KEY") and env("TIKTOK_CLIENT_SECRET") and env("MEDIA_SIGNING_SECRET"):
+            try:
+                from .publishers.tiktok import TikTokPublisher
+                pubs["tiktok"] = TikTokPublisher(state.load_tiktok_auth(), env("TIKTOK_CLIENT_KEY"),
+                                                 env("TIKTOK_CLIENT_SECRET"), env("MEDIA_SIGNING_SECRET"))
+            except PublishError as exc:
+                errors["tiktok"] = str(exc)
+        else:
+            log.append("TikTok ligado, mas faltam TIKTOK_CLIENT_KEY / TIKTOK_CLIENT_SECRET / MEDIA_SIGNING_SECRET")
     if enabled.get("youtube"):
         if env("YT_REFRESH_TOKEN") and env("YT_CLIENT_ID") and env("YT_CLIENT_SECRET"):
             try:
@@ -136,7 +146,10 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
         except PublishError as exc:
             out[platform] = {"error": str(exc)[:500]}
             print(f"{post['id']} → {platform}: ERRO {exc}")
-    return {"mode": "publish", "publish_results": results}
+    patch = {"mode": "publish", "publish_results": results}
+    if getattr(pubs.get("tiktok"), "updated_auth", None):
+        patch["tiktok_auth"] = pubs["tiktok"].updated_auth  # token renovado (criptografado)
+    return patch
 
 
 def main(argv: list[str] | None = None) -> int:

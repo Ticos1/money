@@ -259,6 +259,53 @@ class PublishTests(unittest.TestCase):
                                                   "instagram": False, "facebook": False})
 
 
+class TikTokTests(unittest.TestCase):
+    SECRET = "m" * 40
+
+    def _resp(self, code, data):
+        r = mock.Mock(status_code=code, text=json.dumps(data))
+        r.json.return_value = data
+        return r
+
+    def test_inbox_upload_flow_and_token_rotation(self):
+        from app.publishers import tiktok
+        auth = {"open_id": "u1", "refresh_token_enc": tiktok.encrypt("old-refresh", self.SECRET)}
+        calls = []
+
+        def post(url, **kw):
+            calls.append(url.split("/v2")[1])
+            if url.endswith("/oauth/token/"):
+                self.assertEqual(kw["data"]["refresh_token"], "old-refresh")
+                return self._resp(200, {"access_token": "AT", "refresh_token": "new-refresh",
+                                        "refresh_expires_in": 100})
+            if url.endswith("/inbox/video/init/"):
+                return self._resp(200, {"data": {"publish_id": "P1", "upload_url": "https://up"},
+                                        "error": {"code": "ok"}})
+            return self._resp(200, {"data": {"status": "SEND_TO_USER_INBOX"}, "error": {"code": "ok"}})
+
+        with tempfile.TemporaryDirectory() as tmp, \
+                mock.patch.object(tiktok.requests, "post", side_effect=post), \
+                mock.patch.object(tiktok.requests, "put", return_value=self._resp(201, {})) as put:
+            Path(tmp, "video_sem_musica.mp4").write_bytes(b"x" * 1000)
+            pub = tiktok.TikTokPublisher(auth, "ck", "cs", self.SECRET)
+            out = pub.publish({"media": {"video_silent": "video_sem_musica.mp4"}}, Path(tmp), None)
+            self.assertIn("rascunho", out)
+            self.assertEqual(put.call_args.kwargs["headers"]["Content-Range"], "bytes 0-999/1000")
+            self.assertEqual(tiktok.decrypt(pub.updated_auth["refresh_token_enc"], self.SECRET), "new-refresh")
+            self.assertEqual(calls, ["/oauth/token/", "/post/publish/inbox/video/init/",
+                                     "/post/publish/status/fetch/"])
+
+    def test_not_connected_gives_clear_error(self):
+        from app.publishers import PublishError, tiktok
+        with self.assertRaisesRegex(PublishError, "Conectar TikTok"):
+            tiktok.TikTokPublisher({}, "ck", "cs", self.SECRET)
+
+    def test_image_posts_are_skipped(self):
+        from app.publishers import tiktok
+        pub = tiktok.TikTokPublisher.__new__(tiktok.TikTokPublisher)
+        self.assertFalse(pub.supports({"media": {"images": ["a.jpg"]}}))
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

@@ -1,7 +1,8 @@
 // Protege TODO o painel (páginas, API e mídias): só entra quem fez login.
 import { hasValidMediaSignature, hasValidSession } from "../lib/auth.js";
 
-const PUBLIC = new Set(["/login", "/login.html", "/api/login", "/style.css", "/icon.svg"]);
+const PUBLIC = new Set(["/login", "/login.html", "/api/login", "/style.css", "/icon.svg",
+  "/api/tiktok/callback", "/sobre", "/sobre.html", "/termos", "/termos.html", "/privacidade", "/privacidade.html"]);
 
 const SECURITY_HEADERS = {
   "X-Frame-Options": "DENY",
@@ -33,7 +34,8 @@ export async function onRequest(ctx) {
     if (origin && origin !== url.origin) return new Response("Origem inválida", { status: 403 });
   }
 
-  if (PUBLIC.has(url.pathname)) return withHeaders(await ctx.next());
+  // arquivos de verificação de domínio do TikTok (ex.: /tiktokAbC123.txt) também são públicos
+  if (PUBLIC.has(url.pathname) || /^\/tiktok[\w-]+\.txt$/.test(url.pathname)) return withHeaders(await ctx.next());
 
   // Instagram/Facebook baixam a mídia por um link assinado que expira em poucas horas.
   if (["GET", "HEAD"].includes(request.method) && (await hasValidMediaSignature(url, env.MEDIA_SIGNING_SECRET))) {

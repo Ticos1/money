@@ -10,7 +10,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 > **Desafio de quiz** (vídeo 9:16 + imagens 1:1 e 4:5), com painel para baixar e
 > copiar. A postagem nas redes ainda é manual (e segura).
 > **Publicação automática** (Instagram, Facebook e YouTube): veja [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
-> TikTok depende de auditoria: [docs/FASES.md](docs/FASES.md).
+> **TikTok** (Reels nos seus rascunhos do app): veja [docs/TIKTOK.md](docs/TIKTOK.md).
 
 ---
 

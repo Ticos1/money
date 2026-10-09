@@ -55,6 +55,10 @@ def save_used(used: dict) -> None:
     _write("used.json", used)
 
 
+def load_tiktok_auth() -> dict:
+    return _read("tiktok.json", {})
+
+
 def load_groq_usage() -> dict:
     return _read("groq.json", {"date": "", "calls": 0})
 
@@ -113,6 +117,12 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
     for section, values in patch.get("used", {}).items():
         used.setdefault(section, {}).update(values)
     save_used(used)
+
+    if patch.get("tiktok_auth"):
+        current = load_tiktok_auth()
+        # só grava se ninguém reconectou a conta no meio tempo
+        if current.get("open_id") in (None, patch["tiktok_auth"].get("open_id")):
+            _write("tiktok.json", patch["tiktok_auth"])
 
     if "groq_usage" in patch:
         current = load_groq_usage()

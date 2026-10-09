@@ -15,7 +15,7 @@ on:
       platform:
         description: "Só nesta rede (vazio = todas as ligadas)"
         type: choice
-        options: ["", instagram, facebook, youtube]
+        options: ["", instagram, facebook, youtube, tiktok]
         default: ""
       agora:
         description: "Publicar já, sem esperar o horário (precisa do ID do post)"
@@ -42,6 +42,8 @@ jobs:
       MEDIA_SIGNING_SECRET: ${{ secrets.MEDIA_SIGNING_SECRET }}
       META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
       META_PAGE_ID: ${{ vars.META_PAGE_ID }}
+      TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+      TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}

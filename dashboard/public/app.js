@@ -174,11 +174,13 @@ function publishedSection(post) {
         render();
       } catch (e) { toast(e.message); input.checked = !input.checked; input.disabled = false; }
     });
-    const link = post.publish_links?.[k];
+    const link = post.publish_links?.[k]?.startsWith?.("http") ? post.publish_links[k] : null;
+    const note = !link && post.publish_links?.[k];
     const err = post.publish_errors?.[k];
     grid.append(h("label", {}, input, h("span", {}, name,
       h("small", {}, when ? new Date(when).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "não publicado"),
       link && h("small", {}, h("a", { href: link, target: "_blank", rel: "noopener" }, "ver post ↗")),
+      note && h("small", {}, `📥 ${note} — abra o TikTok e finalize`),
       err && h("small", { style: "color:var(--bad)" }, `erro (${err.attempts}x): ${err.message}`))));
   }
   return grid;
@@ -342,7 +344,7 @@ function renderConfig(main) {
   };
   (slots.length ? slots : [{ time: "07:00", type: "verse" }]).forEach(addSlot);
   const auto = h("input", { type: "checkbox", checked: !!s.approval?.auto_approve });
-  const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube"].map((k) =>
+  const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube", "tiktok"].map((k) =>
     [k, h("input", { type: "checkbox", checked: !!s.publishing?.[k] })]));
   const groqOn = h("input", { type: "checkbox", checked: s.groq?.enabled !== false });
   const model = h("input", { type: "text", value: s.groq?.model || "" });
@@ -360,7 +362,13 @@ function renderConfig(main) {
     h("label", { class: "check" }, pubBoxes.instagram, "Instagram (versículo no feed, quiz no Reels)"),
     h("label", { class: "check" }, pubBoxes.facebook, "Facebook (Página)"),
     h("label", { class: "check" }, pubBoxes.youtube, "YouTube Shorts (quiz; fica privado até a auditoria do YouTube)"),
-    h("p", { class: "muted" }, "TikTok e Kwai continuam manuais. Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md)."),
+    h("label", { class: "check" }, pubBoxes.tiktok, "TikTok (Reels vão para os rascunhos do app: você escolhe a música e publica)"),
+    h("div", { class: "row" },
+      STATE.tiktok?.connected
+        ? h("span", { class: "muted" }, `TikTok conectado${STATE.tiktok.name ? `: ${STATE.tiktok.name}` : ""} ✔`)
+        : h("span", { class: "muted" }, "TikTok não conectado."),
+      h("a", { class: "btn small", href: "/api/tiktok/connect" }, STATE.tiktok?.connected ? "Reconectar TikTok" : "Conectar TikTok")),
+    h("p", { class: "muted" }, "Kwai continua manual. Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md e docs/TIKTOK.md)."),
     h("h3", {}, "Inteligência artificial (Groq)"),
     h("label", { class: "check" }, groqOn, "Usar a Groq para conteúdo novo e variações de legenda"),
     h("label", {}, "Modelo", model),
