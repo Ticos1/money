@@ -1,0 +1,13 @@
+{
+  "base": ["fe", "deus", "jesus", "biblia", "palavradedeus", "cristao", "evangelico", "gospel"],
+  "verse": ["versiculododia", "versiculo", "reflexao", "devocional", "oracao", "esperanca"],
+  "quiz": ["quizbiblico", "desafiobiblico", "perguntasbiblicas", "conhecimentobiblico", "desafio", "teste"],
+  "curiosity": ["vocesabia", "curiosidadesbiblicas", "historiabiblica", "estudobiblico"],
+  "platform_limits": {
+    "instagram": 12,
+    "facebook": 4,
+    "tiktok": 5,
+    "kwai": 5,
+    "youtube": 4
+  }
+}

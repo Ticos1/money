@@ -1,0 +1,31 @@
+{
+  "_aviso": "Lista curada de músicas gospel populares para escolher na biblioteca do próprio app (TikTok, Kwai, Instagram) na hora de postar. O sistema NÃO baixa nem embute essas músicas. Atualize esta lista de vez em quando com as que estiverem em alta no app.",
+  "songs": [
+    {"title": "Bondade de Deus", "artist": "Isaías Saad", "moods": ["reflexao", "alegria"], "themes": ["fidelidade", "gratidao", "amordedeus"]},
+    {"title": "Ousado Amor", "artist": "Isaías Saad", "moods": ["alegria"], "themes": ["amordedeus", "salvacao"]},
+    {"title": "Lugar Secreto", "artist": "Gabriela Rocha", "moods": ["reflexao"], "themes": ["intimidade", "oracao", "descanso"]},
+    {"title": "Me Atraiu", "artist": "Gabriela Rocha", "moods": ["reflexao"], "themes": ["intimidade", "amordedeus"]},
+    {"title": "Atos 2", "artist": "Gabriela Rocha", "moods": ["alegria"], "themes": ["espiritosanto", "missao"]},
+    {"title": "Raridade", "artist": "Anderson Freire", "moods": ["reflexao"], "themes": ["identidade", "autoestima", "amordedeus"]},
+    {"title": "Advogado Fiel", "artist": "Bruna Karla", "moods": ["reflexao"], "themes": ["fidelidade", "provacao", "batalhas"]},
+    {"title": "Galileu", "artist": "Fernandinho", "moods": ["alegria"], "themes": ["jesus", "fe"]},
+    {"title": "Uma Nova História", "artist": "Fernandinho", "moods": ["alegria"], "themes": ["recomeco", "novavida"]},
+    {"title": "Grandes Coisas", "artist": "Fernandinho", "moods": ["alegria", "desafio"], "themes": ["poderdedeus", "fe"]},
+    {"title": "Faz Chover", "artist": "Fernandinho", "moods": ["alegria"], "themes": ["renovo", "espiritosanto"]},
+    {"title": "Nada Além do Sangue", "artist": "Fernandinho", "moods": ["reflexao"], "themes": ["cruz", "salvacao", "graca"]},
+    {"title": "Ressuscita-me", "artist": "Aline Barros", "moods": ["reflexao"], "themes": ["renovo", "ressurreicao"]},
+    {"title": "Sonda-me, Usa-me", "artist": "Aline Barros", "moods": ["reflexao"], "themes": ["coracao", "chamado"]},
+    {"title": "Casa do Pai", "artist": "Aline Barros", "moods": ["alegria"], "themes": ["familia", "presenca"]},
+    {"title": "Deus de Promessas", "artist": "Davi Sacer", "moods": ["alegria", "reflexao"], "themes": ["promessa", "fidelidade", "esperanca"]},
+    {"title": "Aquieta Minh'alma", "artist": "Ministério Zoe", "moods": ["reflexao"], "themes": ["paz", "ansiedade", "descanso"]},
+    {"title": "A Casa É Sua", "artist": "Casa Worship", "moods": ["reflexao", "alegria"], "themes": ["presenca", "louvor"]},
+    {"title": "Algo Novo", "artist": "Kemuel e Lukas Agustinho", "moods": ["alegria"], "themes": ["recomeco", "esperanca"]},
+    {"title": "Deserto", "artist": "Maria Marçal", "moods": ["reflexao"], "themes": ["provacao", "confianca"]},
+    {"title": "Ninguém Explica Deus", "artist": "Preto no Branco", "moods": ["alegria", "desafio"], "themes": ["soberania", "poderdedeus"]},
+    {"title": "Todavia Me Alegrarei", "artist": "Samuel Messias", "moods": ["alegria"], "themes": ["alegria", "provacao", "fe"]},
+    {"title": "Ele Continua Sendo Bom", "artist": "Paulo César Baruk", "moods": ["alegria"], "themes": ["fidelidade", "gratidao"]},
+    {"title": "Oh Quão Lindo Esse Nome É", "artist": "Ana Nóbrega", "moods": ["reflexao"], "themes": ["jesus", "louvor"]},
+    {"title": "Porque Ele Vive (hino)", "artist": "Harpa Cristã / vários intérpretes", "moods": ["reflexao"], "themes": ["ressurreicao", "esperanca"]},
+    {"title": "Quão Grande És Tu (hino)", "artist": "Cantor Cristão / vários intérpretes", "moods": ["reflexao", "alegria"], "themes": ["louvor", "soberania"]}
+  ]
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Painel de Conteúdo</title>
+<link rel="icon" href="/icon.svg">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1><img src="/icon.svg" alt=""> <span id="brand">Painel</span></h1>
+    <button class="btn small" id="gen" title="Gerar os posts de hoje agora">Gerar agora</button>
+    <button class="btn small" id="logout" title="Sair">Sair</button>
+  </div>
+  <nav>
+    <button data-tab="fila" class="on">Fila</button>
+    <button data-tab="historico">Histórico</button>
+    <button data-tab="config">Configurações</button>
+  </nav>
+</header>
+<main id="main"><p class="empty">Carregando…</p></main>
+<div id="toast" role="status"></div>
+<script src="/app.js"></script>
+</body>
+</html>

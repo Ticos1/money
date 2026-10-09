@@ -1,0 +1,30 @@
+{
+  "brand": {
+    "name": "Palavra Diária",
+    "handle": "@seuperfil"
+  },
+  "timezone": "America/Sao_Paulo",
+  "schedule": {
+    "slots": [
+      {"time": "07:00", "type": "verse"},
+      {"time": "19:00", "type": "quiz"}
+    ]
+  },
+  "approval": {
+    "auto_approve": false
+  },
+  "video": {
+    "min_seconds": 15,
+    "max_seconds": 30,
+    "music_volume": 0.16
+  },
+  "groq": {
+    "enabled": true,
+    "model": "openai/gpt-oss-120b",
+    "fallback_models": ["llama-3.3-70b-versatile"],
+    "max_calls_per_day": 6,
+    "new_content_ratio": 0.3,
+    "caption_variations": true
+  },
+  "media_retention_days": 30
+}

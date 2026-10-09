@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+patch*.json
+/media/
+/media_repo/
+/dist/
+node_modules/
+.wrangler/
+.dev.vars
+.env

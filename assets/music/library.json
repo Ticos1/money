@@ -1,0 +1,69 @@
+{
+ "_como_usar": "Cada faixa precisa de: id, title, mood (reflexao | alegria | desafio), file (caminho dentro de assets/music), source (de onde veio), license (qual licença) e url (página da faixa). Para adicionar faixas do Pixabay Music ou da Biblioteca de Áudio do YouTube, veja docs/MUSICA.md. Faixas com \"enabled\": false são ignoradas.",
+ "tracks": [
+  {
+   "id": "gen-reflexao-1",
+   "title": "Águas Tranquilas",
+   "mood": "reflexao",
+   "file": "generated/gen-reflexao-1.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "gen-reflexao-2",
+   "title": "Lugar de Descanso",
+   "mood": "reflexao",
+   "file": "generated/gen-reflexao-2.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "gen-alegria-1",
+   "title": "Manhã de Graça",
+   "mood": "alegria",
+   "file": "generated/gen-alegria-1.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "gen-alegria-2",
+   "title": "Celebrar",
+   "mood": "alegria",
+   "file": "generated/gen-alegria-2.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "gen-desafio-1",
+   "title": "Contagem",
+   "mood": "desafio",
+   "file": "generated/gen-desafio-1.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "gen-desafio-2",
+   "title": "Será Que Você Sabe?",
+   "mood": "desafio",
+   "file": "generated/gen-desafio-2.m4a",
+   "source": "Composição original gerada por scripts/make_music.py",
+   "license": "Própria (domínio público / CC0)",
+   "url": ""
+  },
+  {
+   "id": "exemplo-pixabay",
+   "title": "(exemplo) Nome da faixa no Pixabay",
+   "mood": "reflexao",
+   "file": "pixabay/nome-do-arquivo.mp3",
+   "source": "Pixabay Music — autor: NOME DO AUTOR",
+   "license": "Pixabay Content License (uso comercial permitido, sem atribuição obrigatória)",
+   "url": "https://pixabay.com/music/",
+   "enabled": false
+  }
+ ]
+}

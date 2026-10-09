@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Entrar · Painel</title>
+<link rel="icon" href="/icon.svg">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="login">
+  <div class="card">
+    <h1><img src="/icon.svg" alt="" width="28" height="28"> Painel de conteúdo</h1>
+    <p class="muted">Acesso restrito. Digite sua senha.</p>
+    <form id="f" class="stack">
+      <label>Senha <input type="password" id="pw" autocomplete="current-password" required></label>
+      <button class="btn primary" id="go">Entrar</button>
+      <p id="err" class="muted" role="alert"></p>
+    </form>
+  </div>
+</div>
+<script>
+document.getElementById("f").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const go = document.getElementById("go"), err = document.getElementById("err");
+  go.disabled = true; err.textContent = "";
+  try {
+    const res = await fetch("/api/login", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ password: document.getElementById("pw").value }) });
+    if (res.ok) { location.href = "/"; return; }
+    err.textContent = (await res.json()).error || "Erro ao entrar";
+  } catch { err.textContent = "Sem conexão"; }
+  go.disabled = false;
+});
+</script>
+</body>
+</html>
