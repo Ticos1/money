@@ -75,17 +75,15 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
+    "youtube": "2026-10-09T13:27:20+00:00",
     "instagram": null,
     "facebook": null
    },
    "log": [],
    "error": null,
-   "publish_errors": {
-    "youtube": {
-     "message": "YouTube: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"YouTube Data API v3 has not been used in project 926562633403 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=926562633403 then retry. If you enabled this API recent",
-     "attempts": 1
-    }
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6YmkbnI-li4"
    }
   },
   {
