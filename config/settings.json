@@ -22,7 +22,10 @@
  "video": {
   "min_seconds": 15,
   "max_seconds": 30,
-  "music_volume": 0.16
+  "music_volume": 0.16,
+  "video_types": [
+   "quiz"
+  ]
  },
  "groq": {
   "enabled": true,

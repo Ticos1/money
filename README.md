@@ -33,7 +33,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 
 | Versículo do dia | Desafio de quiz |
 |---|---|
-| Cena 1: versículo + referência → Cena 2: "Para refletir" → Cena 3: "Amém? Compartilhe" | "SÓ 1% ACERTA" → pergunta → 4 alternativas → contagem 5…1 → resposta revelada → "Você acertou?" |
+| **Imagem** 9:16, 4:5 e 1:1: versículo + referência + seu @ (reflexão vai na legenda). Para voltar a ter vídeo: `video.video_types` = `["quiz", "verse"]` em `config/settings.json` | "SÓ 1% ACERTA" → pergunta → 4 alternativas → contagem 5…1 → resposta revelada → "Você acertou?" |
 
 ---
 

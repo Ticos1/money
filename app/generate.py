@@ -46,20 +46,25 @@ def _seed(text: str) -> int:
     return int(hashlib.sha1(text.encode()).hexdigest()[:8], 16)
 
 
+def _has_video(kind: str, settings: dict) -> bool:
+    return kind == "quiz" or verse_render.wants_video(settings)
+
+
 def _replaceable(post: dict) -> bool:
     """Post rejeitado e ainda não publicado em nenhuma rede pode ser refeito."""
     return post.get("status") == "rejected" and not any((post.get("published") or {}).values())
 
 
 def _render(kind: str, item: dict, post_id: str, day: str, settings: dict, media_root: Path,
-            track: dict, rng: random.Random, version: int) -> dict:
+            track: dict | None, rng: random.Random, version: int) -> dict:
     out_dir = media_root / day / post_id
     if out_dir.exists():
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True)
     with tempfile.TemporaryDirectory() as work:
         info = RENDERERS[kind].render(item, settings, out_dir, _seed(post_id) + version,
-                                      config.MUSIC_DIR / track["file"], rng, Path(work))
+                                      config.MUSIC_DIR / track["file"] if track else None, rng,
+                                      Path(work))
     return {**info, "base": f"media/{day}/{post_id}/", "version": version}
 
 
@@ -72,7 +77,7 @@ def build(args) -> dict:
     groq = GroqClient(None if args.no_groq else config.groq_api_key(), settings,
                       state.load_groq_usage(), today)
     media_root = Path(args.media_dir)
-    recent_tracks = [p.get("music", {}).get("id") for p in sorted(queue.values(), key=lambda p: p["id"])]
+    recent_tracks = [(p.get("music") or {}).get("id") for p in sorted(queue.values(), key=lambda p: p["id"])]
     auto = settings.get("approval", {}).get("auto_approve", False)
 
     patch = {"mode": "generate", "date": day, "posts": [], "used": {}}
@@ -94,8 +99,10 @@ def build(args) -> dict:
 
         caps, caption_source = captions.build(kind, item, settings, groq, rng, log)
         mood = music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao"))
-        track = music.pick_track(mood, recent_tracks, rng)
-        recent_tracks.append(track["id"])
+        track = None
+        if _has_video(kind, settings):
+            track = music.pick_track(mood, recent_tracks, rng)
+            recent_tracks.append(track["id"])
         version = int((old or {}).get("media", {}).get("version", 0)) + 1  # novo ?v= evita cache
         media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
 
@@ -113,7 +120,8 @@ def build(args) -> dict:
             "content": {k: item[k] for k in CONTENT_FIELDS[kind] if k in item},
             "captions": caps,
             "caption_source": caption_source,
-            "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")},
+            "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")}
+                     if track else None,
             "gospel_suggestions": music.gospel_suggestions(mood, item.get("tags", []), rng),
             "media": media,
             "published": {p: None for p in state.PLATFORMS},
@@ -143,8 +151,11 @@ def rerender(args) -> dict:
         patch["posts"].append(post)
         print(post["error"])
         return patch
-    track = next((t for t in music.load_library() if t["id"] == post.get("music", {}).get("id")), None)
-    if not track:
+    track = next((t for t in music.load_library()
+                  if t["id"] == (post.get("music") or {}).get("id")), None)
+    if not _has_video(kind, settings):
+        track = None
+    elif not track:
         track = music.pick_track(music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao")), [],
                                  random.Random(0))
     version = int(post.get("media", {}).get("version", 1)) + 1
@@ -152,7 +163,9 @@ def rerender(args) -> dict:
     media = _render(kind, item, post["id"], post["date"], settings, Path(args.media_dir), track, rng,
                     version)
     post = {**post, "content": {k: item[k] for k in CONTENT_FIELDS[kind] if k in item},
-            "media": media, "error": None, "needs_render": False}
+            "media": media, "error": None, "needs_render": False,
+            "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")}
+                     if track else None}
     patch["posts"].append(post)
     print(f"{post['id']}: re-renderizado (versão {version})")
     return patch

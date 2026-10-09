@@ -74,3 +74,4 @@ td.p { white-space: nowrap; }
 .login { max-width: 360px; margin: 12vh auto; padding: 0 16px; }
 .login .card { padding: 22px; }
 .login h1 { font-size: 20px; margin: 0 0 4px; display: flex; gap: 8px; align-items: center; }
+img.preview { width: 100%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; display: block; }

@@ -8,7 +8,7 @@ const PLATFORMS = [
 const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz" };
 const STATUS_NAME = { pending: "Aguardando aprovação", approved: "Aprovado", rejected: "Rejeitado" };
 const IMG_NAME = {
-  "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5",
+  "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5", "imagem_story.jpg": "Imagem 9:16",
   "pergunta_quadrada.jpg": "Pergunta 1:1", "pergunta_vertical.jpg": "Pergunta 4:5",
   "resposta_quadrada.jpg": "Resposta 1:1", "resposta_vertical.jpg": "Resposta 4:5",
 };
@@ -96,7 +96,10 @@ function captionBox(post) {
         h("button", { class: "btn small primary", onclick: () => copy(text) }, "Copiar legenda"));
     }
   };
-  for (const [k, name] of PLATFORMS) tabs.append(h("button", { "data-k": k, onclick: () => show(k) }, name));
+  for (const [k, name] of PLATFORMS) {
+    if (k === "youtube" && !post.media?.video_music) continue; // Shorts precisa de vídeo
+    tabs.append(h("button", { "data-k": k, onclick: () => show(k) }, name));
+  }
   box.append(tabs, body);
   show("instagram");
   return box;
@@ -105,6 +108,7 @@ function captionBox(post) {
 function mediaSection(post) {
   if (!post.media || !post.media.base) return h("p", { class: "muted" }, "Sem mídia (post antigo).");
   const m = post.media;
+  if (!m.video_music) return imageSection(post);
   const video = h("video", {
     class: "preview", controls: true, playsinline: true, preload: "none",
     poster: mediaUrl(post, m.poster), src: mediaUrl(post, m.video_music),
@@ -129,12 +133,26 @@ function mediaSection(post) {
     ));
 }
 
+// Post só de imagem (ex.: Versículo do dia)
+function imageSection(post) {
+  const m = post.media;
+  const dl = (file) => h("a", { class: "btn small", href: mediaUrl(post, file), download: `${post.id}-${file}` }, `⬇ ${IMG_NAME[file] || file}`);
+  return h("div", { class: "media" },
+    h("div", {}, h("a", { href: mediaUrl(post, m.poster), target: "_blank", rel: "noopener" },
+      h("img", { class: "preview", src: mediaUrl(post, m.poster), alt: "Prévia", loading: "lazy" }))),
+    h("div", {},
+      h("h3", {}, "Baixar"),
+      h("div", { class: "row" }, m.images.map(dl)),
+      h("p", { class: "muted" }, "9:16 → Stories, Status e TikTok/Kwai (modo foto, com música do app). 4:5 e 1:1 → feed do Instagram e do Facebook."),
+    ));
+}
+
 function musicSection(post) {
   const songs = (post.gospel_suggestions || []).map((s) =>
     h("li", {}, h("span", {}, h("b", {}, s.title), " — ", s.artist),
       h("button", { class: "btn small", onclick: () => copy(`${s.title} ${s.artist}`) }, "Copiar")));
   return h("div", {},
-    h("p", { class: "muted" }, `No vídeo com música: “${post.music.title}” · ${post.music.license}`),
+    post.music && h("p", { class: "muted" }, `No vídeo com música: “${post.music.title}” · ${post.music.license}`),
     h("p", { style: "margin:8px 0 4px;font-weight:600" }, "Sugestões gospel para escolher no app:"),
     h("ul", { class: "songs" }, songs),
     h("p", { class: "muted" }, "Busque o nome na biblioteca de sons do TikTok/Kwai/Instagram ao postar o vídeo sem música."));

@@ -114,21 +114,30 @@ def render_video(item: dict, pal: design.Palette, seed: int, handle: str, settin
     return out, total
 
 
-def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Path,
+def wants_video(settings: dict) -> bool:
+    """Versículo sai como imagem, a não ser que "verse" esteja em video.video_types."""
+    return "verse" in settings.get("video", {}).get("video_types", ["quiz"])
+
+
+def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Path | None,
            rng: random.Random, work: Path) -> dict:
     handle = settings.get("brand", {}).get("handle", "")
     pal = design.palette_for(item.get("mood", "reflexao"), seed)
+    images = {"imagem_story.jpg": (1080, 1920), "imagem_vertical.jpg": (1080, 1350),
+              "imagem_quadrada.jpg": (1080, 1080)}
+    for name, size in images.items():
+        still(size, item, pal, seed, handle).save(out_dir / name, quality=92)
+    if not wants_video(settings) or track_path is None:
+        return {"poster": "imagem_story.jpg", "images": list(images), "duration": 0}
     silent, total = render_video(item, pal, seed, handle, settings, out_dir, work)
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
                     with_music, rng)
     video.poster(silent, min(4.0, total / 3), out_dir / "capa.jpg")
-    still((1080, 1080), item, pal, seed, handle).save(out_dir / "imagem_quadrada.jpg", quality=92)
-    still((1080, 1350), item, pal, seed, handle).save(out_dir / "imagem_vertical.jpg", quality=92)
     return {
         "video_music": "video_com_musica.mp4",
         "video_silent": "video_sem_musica.mp4",
         "poster": "capa.jpg",
-        "images": ["imagem_quadrada.jpg", "imagem_vertical.jpg"],
+        "images": list(images),
         "duration": total,
     }
