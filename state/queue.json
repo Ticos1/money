@@ -117,13 +117,7 @@
     }
    },
    "caption_source": "template",
-   "music": {
-    "id": "gen-reflexao-2",
-    "title": "Lugar de Descanso",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
+   "music": null,
    "gospel_suggestions": [
     {
      "title": "Porque Ele Vive (hino)",
@@ -139,16 +133,15 @@
     }
    ],
    "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
+    "poster": "imagem_story.jpg",
     "images": [
-     "imagem_quadrada.jpg",
-     "imagem_vertical.jpg"
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
     ],
-    "duration": 18.89,
+    "duration": 0,
     "base": "media/2026-10-09/2026-10-09-1-verse/",
-    "version": 1
+    "version": 2
    },
    "published": {
     "tiktok": null,
@@ -158,7 +151,8 @@
     "facebook": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "needs_render": false
   }
  ]
 }
