@@ -6,40 +6,40 @@
    "slot": 2,
    "time": "19:00",
    "type": "quiz",
-   "status": "rejected",
-   "created_at": "2026-10-09T07:57:46+00:00",
-   "source": "groq",
-   "bank_id": null,
-   "model": "openai/gpt-oss-120b",
+   "status": "pending",
+   "created_at": "2026-10-09T08:20:49+00:00",
+   "source": "bank",
+   "bank_id": "q032",
+   "model": null,
    "content": {
-    "ref": "Salmos 23:1",
-    "ref_label": "Salmos 23:1",
-    "question": "Qual é o papel do Senhor descrito em Salmos 23:1?",
+    "ref": "2 Reis 2:11",
+    "ref_label": "2 Reis 2:11",
+    "question": "Qual profeta subiu ao céu em um redemoinho?",
     "options": [
-     "Rei",
-     "Pastor",
-     "Guia",
-     "Médico"
+     "Eliseu",
+     "Isaías",
+     "Moisés",
+     "Elias"
     ],
-    "answer": 1,
-    "evidence": "Pastor",
-    "passage": "Um Salmo de Davi. O SENHOR é o meu pastor; nada me faltará.",
+    "answer": 3,
+    "evidence": "Elias subiu ao céu em um redemoinho",
+    "passage": "Enquanto continuavam andando e conversando, eis que um carro de fogo e cavalos de fogo os separaram; e Elias subiu ao céu em um redemoinho.",
     "difficulty": "facil"
    },
    "captions": {
-    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o papel do Senhor descrito em Salmos 23:1?\n\nA) Rei\nB) Pastor\nC) Guia\nD) Médico\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe #palavradedeus #evangelico #conhecimentobiblico #biblia #teste #cristao #perguntasbiblicas #deus",
-    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o papel do Senhor descrito em Salmos 23:1?\n\nA) Rei\nB) Pastor\nC) Guia\nD) Médico\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #fe",
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual profeta subiu ao céu em um redemoinho?\n\nA) Eliseu\nB) Isaías\nC) Moisés\nD) Elias\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe #palavradedeus #evangelico #conhecimentobiblico #biblia #gospel #cristao #perguntasbiblicas #deus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual profeta subiu ao céu em um redemoinho?\n\nA) Eliseu\nB) Isaías\nC) Moisés\nD) Elias\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #fe",
     "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #evangelico #desafio #perguntasbiblicas",
     "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #perguntasbiblicas #desafio #cristao",
     "youtube": {
-     "title": "Você conhece mesmo a Bíblia? Prove! Qual é o papel do Senhor descrito em Salmos 23:1? #shorts",
-     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o papel do Senhor descrito em Salmos 23:1?\n\nA) Rei\nB) Pastor\nC) Guia\nD) Médico\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
+     "title": "Você conhece mesmo a Bíblia? Prove! Qual profeta subiu ao céu em um redemoinho? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual profeta subiu ao céu em um redemoinho?\n\nA) Eliseu\nB) Isaías\nC) Moisés\nD) Elias\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
     }
    },
    "caption_source": "template",
    "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
@@ -68,7 +68,7 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 20.98,
+    "duration": 20.85,
     "base": "media/2026-10-09/2026-10-09-2-quiz/",
     "version": 1
    },
@@ -79,11 +79,7 @@
     "instagram": null,
     "facebook": null
    },
-   "log": [
-    "quiz: Groq tentativa 1 descartada: resposta 'O' não aparece em Salmos 23:1",
-    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito",
-    "legenda Groq descartada: legenda revela a resposta"
-   ],
+   "log": [],
    "error": null
   },
   {
@@ -92,54 +88,54 @@
    "slot": 1,
    "time": "07:00",
    "type": "verse",
-   "status": "rejected",
-   "created_at": "2026-10-09T07:56:21+00:00",
+   "status": "pending",
+   "created_at": "2026-10-09T08:19:26+00:00",
    "source": "bank",
-   "bank_id": "v088",
+   "bank_id": "v037",
    "model": null,
    "content": {
-    "ref": "Colossenses 3:15",
-    "ref_label": "Colossenses 3:15",
-    "verse_text": "E que a paz de Deus domine em seus corações, para a qual vocês também foram chamados em um só corpo; e sejam gratos.",
-    "on_screen": "Deixe a paz de Deus governar o coração.",
-    "reflection": "A paz de Cristo é como um juiz que decide no coração. E a gratidão é o caminho para mantê-la.",
-    "theme": "paz",
+    "ref": "Salmos 34:18",
+    "ref_label": "Salmos 34:18",
+    "verse_text": "O SENHOR está perto dos que têm o coração quebrantado, e salva os que têm o espírito abatido.",
+    "on_screen": "Deus está perto dos que têm o coração quebrantado.",
+    "reflection": "Se o seu coração está ferido, saiba: Deus não se afasta da dor, Ele se aproxima. Você não está sozinho.",
+    "theme": "consolo",
     "mood": "reflexao",
     "tags": [
-     "paz",
-     "gratidao"
+     "consolo",
+     "salmos"
     ]
    },
    "captions": {
-    "instagram": "“E que a paz de Deus domine em seus corações, para a qual vocês também foram chamados em um só corpo; e sejam gratos.” (Colossenses 3:15)\n\nA paz de Cristo age como um juiz amoroso que decide por nós. Quando entregamos o coração a Ele, encontramos serenidade e direção. A gratidão abre caminho para que essa paz permaneça, transformando cada dia em um convite à confiança. Seja grato e permita que a paz reine em sua vida.\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paz #gratidao #versiculododia #versiculo #devocional #reflexao #deus #cristao #evangelico #jesus #esperanca #oracao",
-    "facebook": "“E que a paz de Deus domine em seus corações, para a qual vocês também foram chamados em um só corpo; e sejam gratos.” (Colossenses 3:15)\n\nA paz de Cristo age como um juiz amoroso que decide por nós. Quando entregamos o coração a Ele, encontramos serenidade e direção. A gratidão abre caminho para que essa paz permaneça, transformando cada dia em um convite à confiança. Seja grato e permita que a paz reine em sua vida.\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paz #gratidao #versiculododia #versiculo",
-    "tiktok": "A paz de Cristo decide; a gratidão a mantém. Seja grato!\n#paz #gratidao #versiculododia #versiculo #esperanca",
-    "kwai": "A paz de Cristo decide; a gratidão a mantém. Seja grato!\n#paz #gratidao #versiculododia #versiculo #cristao",
+    "instagram": "Deus tem uma palavra pra você hoje 🙏\n\n“O SENHOR está perto dos que têm o coração quebrantado, e salva os que têm o espírito abatido.” (Salmos 34:18)\n\nSe o seu coração está ferido, saiba: Deus não se afasta da dor, Ele se aproxima. Você não está sozinho.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#consolo #salmos #versiculododia #versiculo #devocional #reflexao #deus #cristao #evangelico #jesus #gospel #oracao",
+    "facebook": "Deus tem uma palavra pra você hoje 🙏\n\n“O SENHOR está perto dos que têm o coração quebrantado, e salva os que têm o espírito abatido.” (Salmos 34:18)\n\nSe o seu coração está ferido, saiba: Deus não se afasta da dor, Ele se aproxima. Você não está sozinho.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#consolo #salmos #versiculododia #versiculo",
+    "tiktok": "Deus tem uma palavra pra você hoje 🙏 Salmos 34:18\nSalve para ler de novo quando precisar.\n#consolo #salmos #versiculododia #versiculo #esperanca",
+    "kwai": "Deus tem uma palavra pra você hoje 🙏 Salmos 34:18\nSalve para ler de novo quando precisar.\n#consolo #salmos #versiculododia #versiculo #cristao",
     "youtube": {
-     "title": "Como a paz de Cristo transforma seu coração #shorts",
-     "description": "“E que a paz de Deus domine em seus corações, para a qual vocês também foram chamados em um só corpo; e sejam gratos.” (Colossenses 3:15)\n\nA paz de Cristo age como um juiz amoroso que decide por nós. Quando entregamos o coração a Ele, encontramos serenidade e direção. A gratidão abre caminho para que essa paz permaneça, transformando cada dia em um convite à confiança. Seja grato e permita que a paz reine em sua vida.\n\nSiga @seuperfil para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paz #gratidao #versiculododia"
+     "title": "Salmos 34:18: Deus está perto dos que têm o coração quebrantado. #shorts",
+     "description": "Deus tem uma palavra pra você hoje 🙏\n\n“O SENHOR está perto dos que têm o coração quebrantado, e salva os que têm o espírito abatido.” (Salmos 34:18)\n\nSe o seu coração está ferido, saiba: Deus não se afasta da dor, Ele se aproxima. Você não está sozinho.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #consolo #salmos #versiculododia"
     }
    },
-   "caption_source": "groq",
+   "caption_source": "template",
    "music": {
-    "id": "gen-reflexao-1",
-    "title": "Águas Tranquilas",
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
    },
    "gospel_suggestions": [
     {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
     },
     {
-     "title": "Aquieta Minh'alma",
-     "artist": "Ministério Zoe"
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
     },
     {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
     }
    ],
    "media": {
@@ -150,7 +146,7 @@
      "imagem_quadrada.jpg",
      "imagem_vertical.jpg"
     ],
-    "duration": 19.69,
+    "duration": 18.89,
     "base": "media/2026-10-09/2026-10-09-1-verse/",
     "version": 1
    },
@@ -161,10 +157,7 @@
     "instagram": null,
     "facebook": null
    },
-   "log": [
-    "verse: Groq tentativa 1 descartada: Salmo versículo 1 (pode ter título)",
-    "verse: Groq tentativa 2 descartada: Salmo versículo 1 (pode ter título)"
-   ],
+   "log": [],
    "error": null
   }
  ]
