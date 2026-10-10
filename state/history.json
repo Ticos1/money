@@ -1,6 +1,346 @@
 {
  "posts": [
   {
+   "id": "2026-10-10-7-curiosity",
+   "date": "2026-10-10",
+   "slot": 7,
+   "time": "21:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T05:21:23+00:00",
+   "source": "bank",
+   "bank_id": "c092",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 18:4",
+    "ref_label": "Gênesis 18:4",
+    "title": "Lavar os pés dos visitantes",
+    "text": "Oferecer água para lavar os pés era um gesto de hospitalidade comum na época, como fez Abraão com seus visitantes.",
+    "evidence": "lavem os seus pés",
+    "passage": "Que se traga agora um pouco de água; lavem os seus pés e descansem debaixo da árvore.",
+    "tags": [
+     "costumes",
+     "hospitalidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Lavar os pés dos visitantes\n\nOferecer água para lavar os pés era um gesto de hospitalidade comum na época, como fez Abraão com seus visitantes. (Gênesis 18:4)\n\nNa época de Abraão, receber visitantes com água para lavar os pés era um gesto de profunda hospitalidade. Em Gênesis 18:4, Abraão oferece água para que seus hóspedes refresquem os pés antes de entrar. Hoje, podemos aprender a valorizar o acolhimento simples, mostrando cuidado e reverência ao próximo. Que possamos seguir esse exemplo de gentileza em nossas vidas. 🙏💧\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #hospitalidade #vocesabia #curiosidadesbiblicas #historiabiblica #biblia #deus #gospel #fe #cristao #estudobiblico #evangelico",
+    "facebook": "Lavar os pés dos visitantes\n\nOferecer água para lavar os pés era um gesto de hospitalidade comum na época, como fez Abraão com seus visitantes. (Gênesis 18:4)\n\nNa época de Abraão, receber visitantes com água para lavar os pés era um gesto de profunda hospitalidade. Em Gênesis 18:4, Abraão oferece água para que seus hóspedes refresquem os pés antes de entrar. Hoje, podemos aprender a valorizar o acolhimento simples, mostrando cuidado e reverência ao próximo. Que possamos seguir esse exemplo de gentileza em nossas vidas. 🙏💧\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #hospitalidade #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Abraão nos ensinou: água e cuidado ao receber. 🙏💧\n#costumes #hospitalidade #vocesabia #curiosidadesbiblicas #evangelico",
+    "kwai": "Abraão nos ensinou: água e cuidado ao receber. 🙏💧\n#costumes #hospitalidade #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "youtube": {
+     "title": "Hospitalidade de Abraão: lavar os pés dos visitantes #shorts",
+     "description": "Lavar os pés dos visitantes\n\nOferecer água para lavar os pés era um gesto de hospitalidade comum na época, como fez Abraão com seus visitantes. (Gênesis 18:4)\n\nNa época de Abraão, receber visitantes com água para lavar os pés era um gesto de profunda hospitalidade. Em Gênesis 18:4, Abraão oferece água para que seus hóspedes refresquem os pés antes de entrar. Hoje, podemos aprender a valorizar o acolhimento simples, mostrando cuidado e reverência ao próximo. Que possamos seguir esse exemplo de gentileza em nossas vidas. 🙏💧\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #costumes #hospitalidade #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-6-quiz",
+   "date": "2026-10-10",
+   "slot": 6,
+   "time": "19:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T05:21:20+00:00",
+   "source": "bank",
+   "bank_id": "q051",
+   "model": null,
+   "content": {
+    "ref": "João 20:27-28",
+    "ref_label": "João 20:27-28",
+    "question": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
+    "options": [
+     "Pedro",
+     "Filipe",
+     "Tomé",
+     "André"
+    ],
+    "answer": 2,
+    "evidence": "Senhor meu e Deus meu",
+    "passage": "Então ele disse a Tomé: “Coloque o seu dedo aqui, e veja as minhas mãos. Estenda a sua mão, e coloque-a no meu lado. Não seja incrédulo, mas crente.” Tomé lhe respondeu: “Senhor meu e Deus meu!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas #fe #deus #biblia #evangelico #conhecimentobiblico #palavradedeus #teste #cristao",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #jesus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #fe #cristao",
+    "youtube": {
+     "title": "Teste rápido: você acerta de primeira? Qual discípulo disse \"Senhor meu e Deus meu!\"… #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-10T05:28:28+00:00",
+    "instagram": "2026-10-10T05:29:18+00:00",
+    "facebook": "2026-10-10T05:29:22+00:00"
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
+    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+   }
+  },
+  {
+   "id": "2026-10-10-5-quiz",
+   "date": "2026-10-10",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T05:19:48+00:00",
+   "source": "bank",
+   "bank_id": "q088",
+   "model": null,
+   "content": {
+    "ref": "Atos 18:2-3",
+    "ref_label": "Atos 18:2-3",
+    "question": "Qual era o ofício de Paulo, Áquila e Priscila?",
+    "options": [
+     "Pescadores",
+     "Carpinteiros",
+     "Ferreiros",
+     "Fabricantes de tendas"
+    ],
+    "answer": 3,
+    "evidence": "eram fabricantes de tendas",
+    "passage": "Ele encontrou um certo judeu chamado Áquila, natural do Ponto, que havia chegado recentemente da Itália com sua esposa Priscila, porque Cláudio havia ordenado que todos os judeus partissem de Roma. Ele foi até eles, e, como tinha o mesmo ofício, ficou morando e trabalhando com eles, pois eram fabricantes de tendas.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o ofício de Paulo, Áquila e Priscila?\n\nA) Pescadores\nB) Carpinteiros\nC) Ferreiros\nD) Fabricantes de tendas\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia #conhecimentobiblico #jesus #evangelico #fe #teste #palavradedeus #perguntasbiblicas #gospel",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o ofício de Paulo, Áquila e Priscila?\n\nA) Pescadores\nB) Carpinteiros\nC) Ferreiros\nD) Fabricantes de tendas\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #fe #evangelico #teste",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #desafio #jesus",
+    "youtube": {
+     "title": "Você conhece mesmo a Bíblia? Prove! Qual era o ofício de Paulo, Áquila e Priscila? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o ofício de Paulo, Áquila e Priscila?\n\nA) Pescadores\nB) Carpinteiros\nC) Ferreiros\nD) Fabricantes de tendas\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-4-quiz",
+   "date": "2026-10-10",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T05:18:19+00:00",
+   "source": "bank",
+   "bank_id": "q064",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:42",
+    "ref_label": "Lucas 2:42",
+    "question": "Quantos anos Jesus tinha quando subiu a Jerusalém para a festa e ficou no templo?",
+    "options": [
+     "Oito",
+     "Dez",
+     "Quinze",
+     "Doze"
+    ],
+    "answer": 3,
+    "evidence": "completou doze anos",
+    "passage": "Quando ele completou doze anos, eles subiram a Jerusalém, segundo o costume da festa;",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQuantos anos Jesus tinha quando subiu a Jerusalém para a festa e ficou no templo?\n\nA) Oito\nB) Dez\nC) Quinze\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #jesus #gospel #perguntasbiblicas #teste #fe #desafio #evangelico #palavradedeus #cristao",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQuantos anos Jesus tinha quando subiu a Jerusalém para a festa e ficou no templo?\n\nA) Oito\nB) Dez\nC) Quinze\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #teste",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #palavradedeus #fe #teste",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #jesus",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Quantos anos Jesus tinha quando subiu a… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQuantos anos Jesus tinha quando subiu a Jerusalém para a festa e ficou no templo?\n\nA) Oito\nB) Dez\nC) Quinze\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-3-curiosity",
+   "date": "2026-10-10",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T05:16:47+00:00",
+   "source": "bank",
+   "bank_id": "c072",
+   "model": null,
+   "content": {
+    "ref": "Ezequiel 37:1",
+    "ref_label": "Ezequiel 37:1",
+    "title": "O vale de ossos secos",
+    "text": "Ezequiel foi levado a um vale cheio de ossos e viu Deus trazer vida onde só havia morte.",
+    "evidence": "cheio de ossos",
+    "passage": "A mão do SENHOR estava sobre mim, e ele me levou para fora no Espírito do SENHOR, e me colocou no meio do vale; e este estava cheio de ossos.",
+    "tags": [
+     "ezequiel",
+     "profecia"
+    ]
+   },
+   "captions": {
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nO vale de ossos secos\n\nEzequiel foi levado a um vale cheio de ossos e viu Deus trazer vida onde só havia morte. (Ezequiel 37:1)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequiel #profecia #vocesabia #curiosidadesbiblicas #estudobiblico #deus #evangelico #gospel #cristao #jesus #historiabiblica #palavradedeus",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nO vale de ossos secos\n\nEzequiel foi levado a um vale cheio de ossos e viu Deus trazer vida onde só havia morte. (Ezequiel 37:1)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequiel #profecia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 O vale de ossos secos\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#ezequiel #profecia #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 O vale de ossos secos\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#ezequiel #profecia #vocesabia #curiosidadesbiblicas #gospel",
+    "youtube": {
+     "title": "Você sabia? O vale de ossos secos #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nO vale de ossos secos\n\nEzequiel foi levado a um vale cheio de ossos e viu Deus trazer vida onde só havia morte. (Ezequiel 37:1)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ezequiel #profecia #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-10-2-quiz",
    "date": "2026-10-10",
    "slot": 2,
