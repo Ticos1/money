@@ -1,123 +1,51 @@
 {
  "posts": [
   {
-   "id": "2026-10-10-7-curiosity-v2",
+   "id": "2026-10-10-7-curiosity-v3",
    "date": "2026-10-10",
    "slot": 7,
    "time": "21:00",
    "type": "curiosity",
    "status": "approved",
-   "created_at": "2026-10-10T11:12:01+00:00",
+   "created_at": "2026-10-10T14:43:23+00:00",
    "source": "bank",
-   "bank_id": "c126",
+   "bank_id": "c066",
    "model": null,
    "content": {
-    "ref": "1 Crônicas 25:7",
-    "ref_label": "1 Crônicas 25:7",
-    "title": "Um coral de 288 músicos",
-    "text": "No tempo de Davi, havia 288 cantores treinados e habilidosos no canto ao Senhor. Louvor era coisa séria!",
-    "evidence": "duzentos e oitenta e oito",
-    "passage": "O número deles, com seus irmãos que foram instruídos no canto ao SENHOR, todos os quais eram habilidosos, foi de duzentos e oitenta e oito.",
+    "ref": "Juízes 15:4",
+    "ref_label": "Juízes 15:4",
+    "title": "As 300 raposas",
+    "text": "Sansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus.",
+    "evidence": "capturou trezentas raposas",
+    "passage": "Sansão foi, capturou trezentas raposas, pegou tochas, amarrou as raposas cauda com cauda, e colocou uma tocha no meio, entre cada duas caudas.",
     "tags": [
-     "louvor",
-     "davi"
+     "sansao"
     ]
    },
    "captions": {
-    "instagram": "Você sabia disso? 📖\n\nUm coral de 288 músicos\n\nNo tempo de Davi, havia 288 cantores treinados e habilidosos no canto ao Senhor. Louvor era coisa séria! (1 Crônicas 25:7)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #davi #vocesabia #curiosidadesbiblicas #deus #evangelico #biblia #palavradedeus #historiabiblica #cristao #gospel #estudobiblico",
-    "facebook": "Você sabia disso? 📖\n\nUm coral de 288 músicos\n\nNo tempo de Davi, havia 288 cantores treinados e habilidosos no canto ao Senhor. Louvor era coisa séria! (1 Crônicas 25:7)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #davi #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Você sabia disso? 📖 Um coral de 288 músicos\nMarque alguém que vai gostar de saber disso.\n#louvor #davi #vocesabia #curiosidadesbiblicas #jesus",
-    "kwai": "Você sabia disso? 📖 Um coral de 288 músicos\nMarque alguém que vai gostar de saber disso.\n#louvor #davi #vocesabia #curiosidadesbiblicas #jesus",
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sansao #vocesabia #curiosidadesbiblicas #evangelico #palavradedeus #fe #estudobiblico #biblia #deus #historiabiblica #gospel #cristao",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sansao #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 As 300 raposas\nVocê já sabia? Comente SIM ou NÃO.\n#sansao #vocesabia #curiosidadesbiblicas #historiabiblica #fe",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 As 300 raposas\nVocê já sabia? Comente SIM ou NÃO.\n#sansao #vocesabia #curiosidadesbiblicas #evangelico #cristao",
     "youtube": {
-     "title": "Você sabia? Um coral de 288 músicos #shorts",
-     "description": "Você sabia disso? 📖\n\nUm coral de 288 músicos\n\nNo tempo de Davi, havia 288 cantores treinados e habilidosos no canto ao Senhor. Louvor era coisa séria! (1 Crônicas 25:7)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #louvor #davi #vocesabia"
+     "title": "Você sabia? As 300 raposas #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sansao #vocesabia #curiosidadesbiblicas"
     }
    },
    "caption_source": "template",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Quão Grande És Tu (hino)",
-     "artist": "Cantor Cristão / vários intérpretes"
-    },
-    {
-     "title": "Oh Quão Lindo Esse Nome É",
-     "artist": "Ana Nóbrega"
-    },
-    {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
-    }
-   ],
-   "media": {
-    "poster": "imagem_story.jpg",
-    "images": [
-     "imagem_story.jpg",
-     "imagem_vertical.jpg",
-     "imagem_quadrada.jpg"
-    ],
-    "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-7-curiosity-v2/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-7-curiosity",
-   "date": "2026-10-10",
-   "slot": 7,
-   "time": "21:00",
-   "type": "curiosity",
-   "status": "approved",
-   "created_at": "2026-10-10T14:36:16+00:00",
-   "source": "bank",
-   "bank_id": "c146",
-   "model": null,
-   "content": {
-    "ref": "Marcos 14:51",
-    "ref_label": "Marcos 14:51",
-    "title": "O jovem que fugiu sem roupa",
-    "text": "Na prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos.",
-    "evidence": "vestindo apenas um lençol de linho",
-    "passage": "Um certo jovem o seguia, vestindo apenas um lençol de linho sobre o corpo nu. Os jovens o agarraram,",
-    "tags": [
-     "marcos",
-     "curiosidade"
-    ]
-   },
-   "captions": {
-    "instagram": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #gospel #jesus #historiabiblica #biblia #estudobiblico #evangelico #fe #palavradedeus",
-    "facebook": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Aprenda algo novo sobre a Bíblia hoje 📖 O jovem que fugiu sem roupa\nMarque alguém que vai gostar de saber disso.\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #biblia",
-    "kwai": "Aprenda algo novo sobre a Bíblia hoje 📖 O jovem que fugiu sem roupa\nMarque alguém que vai gostar de saber disso.\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #historiabiblica",
-    "youtube": {
-     "title": "Você sabia? O jovem que fugiu sem roupa #shorts",
-     "description": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #marcos #curiosidade #vocesabia"
-    }
-   },
-   "caption_source": "template",
-   "music": null,
-   "gospel_suggestions": [
-    {
-     "title": "Oh Quão Lindo Esse Nome É",
-     "artist": "Ana Nóbrega"
-    },
-    {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
-    },
-    {
-     "title": "Sonda-me, Usa-me",
+     "title": "Ressuscita-me",
      "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
     }
    ],
    "media": {
@@ -128,7 +56,7 @@
      "imagem_quadrada.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-7-curiosity/",
+    "base": "media/2026-10-10/2026-10-10-7-curiosity-v3/",
     "version": 1
    },
    "published": {
@@ -143,374 +71,42 @@
    "error": null
   },
   {
-   "id": "2026-10-10-6-quiz-v2",
+   "id": "2026-10-10-6-quiz-v3",
    "date": "2026-10-10",
    "slot": 6,
    "time": "19:00",
    "type": "quiz",
    "status": "approved",
-   "created_at": "2026-10-10T11:12:00+00:00",
+   "created_at": "2026-10-10T14:43:21+00:00",
    "source": "bank",
-   "bank_id": "q199",
+   "bank_id": "q145",
    "model": null,
    "content": {
-    "ref": "Mateus 21:2",
-    "ref_label": "Mateus 21:2",
-    "question": "O que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?",
+    "ref": "1 Reis 10:22",
+    "ref_label": "1 Reis 10:22",
+    "question": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
     "options": [
-     "Um cavalo branco",
-     "Uma jumenta e um jumentinho",
-     "Um camelo",
-     "Uma carruagem"
+     "Camelos e cavalos",
+     "Macacos e pavões",
+     "Leões e águias",
+     "Elefantes e zebras"
     ],
     "answer": 1,
-    "evidence": "uma jumenta amarrada, e um jumentinho com ela",
-    "passage": "dizendo-lhes: “Vão ao povoado que está em frente a vocês, e logo encontrarão uma jumenta amarrada, e um jumentinho com ela. Desamarrem-nos e tragam-nos para mim.",
-    "difficulty": "facil"
-   },
-   "captions": {
-    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nO que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?\n\nA) Um cavalo branco\nB) Uma jumenta e um jumentinho\nC) Um camelo\nD) Uma carruagem\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #gospel #cristao #conhecimentobiblico #biblia #palavradedeus #desafio #perguntasbiblicas #evangelico #jesus",
-    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nO que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?\n\nA) Um cavalo branco\nB) Uma jumenta e um jumentinho\nC) Um camelo\nD) Uma carruagem\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
-    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #cristao #desafio",
-    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #gospel #cristao #jesus",
-    "youtube": {
-     "title": "Teste rápido: você acerta de primeira? O que os discípulos deveriam trazer do povoado… #shorts",
-     "description": "Teste rápido: você acerta de primeira? 🤔\n\nO que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?\n\nA) Um cavalo branco\nB) Uma jumenta e um jumentinho\nC) Um camelo\nD) Uma carruagem\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
-    },
-    {
-     "title": "Grandes Coisas",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Casa do Pai",
-     "artist": "Aline Barros"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 25.45,
-    "base": "media/2026-10-10/2026-10-10-6-quiz-v2/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-6-quiz",
-   "date": "2026-10-10",
-   "slot": 6,
-   "time": "19:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-10T14:36:14+00:00",
-   "source": "bank",
-   "bank_id": "q031",
-   "model": null,
-   "content": {
-    "ref": "1 Reis 6:14",
-    "ref_label": "1 Reis 6:14",
-    "question": "Qual rei edificou o templo (a casa) em Jerusalém?",
-    "options": [
-     "Davi",
-     "Saul",
-     "Salomão",
-     "Ezequias"
-    ],
-    "answer": 2,
-    "evidence": "Salomão edificou a casa",
-    "passage": "Assim Salomão edificou a casa e a terminou.",
-    "difficulty": "facil"
-   },
-   "captions": {
-    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #biblia #gospel #deus #conhecimentobiblico #fe #teste #desafio #evangelico",
-    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
-    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #deus",
-    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #gospel #palavradedeus #biblia",
-    "youtube": {
-     "title": "Só 1% acerta essa pergunta da Bíblia! Qual rei edificou o templo (a casa) em Jerusalém? #shorts",
-     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Casa do Pai",
-     "artist": "Aline Barros"
-    },
-    {
-     "title": "Faz Chover",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 21.25,
-    "base": "media/2026-10-10/2026-10-10-6-quiz/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-5-quiz-v2",
-   "date": "2026-10-10",
-   "slot": 5,
-   "time": "17:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-10T11:10:20+00:00",
-   "source": "bank",
-   "bank_id": "q147",
-   "model": null,
-   "content": {
-    "ref": "1 Reis 16:31",
-    "ref_label": "1 Reis 16:31",
-    "question": "Qual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?",
-    "options": [
-     "Atalia",
-     "Mical",
-     "Jezabel",
-     "Vasti"
-    ],
-    "answer": 2,
-    "evidence": "ele tomou por mulher Jezabel",
-    "passage": "Como se fosse pouca coisa para ele andar nos pecados de Jeroboão, filho de Nebate, ele tomou por mulher Jezabel, filha de Etbaal, rei dos sidônios, e foi, serviu a Baal e o adorou.",
-    "difficulty": "facil"
-   },
-   "captions": {
-    "instagram": "Vamos testar o que você sabe sobre as histórias da Bíblia? Hoje trazemos uma pergunta intrigante: qual princesa de Sidom se casou com o rei Acabe e influenciou sua fé? Escolha uma das opções abaixo e reflita sobre o contexto desse encontro. Compartilhe sua resposta nos comentários e descubra se você acertou! 🙏✨\n\nQual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?\nA) Atalia\nB) Mical\nC) Jezabel\nD) Vasti\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #desafio #gospel #deus #palavradedeus #biblia #teste #cristao #perguntasbiblicas #conhecimentobiblico",
-    "facebook": "Vamos testar o que você sabe sobre as histórias da Bíblia? Hoje trazemos uma pergunta intrigante: qual princesa de Sidom se casou com o rei Acabe e influenciou sua fé? Escolha uma das opções abaixo e reflita sobre o contexto desse encontro. Compartilhe sua resposta nos comentários e descubra se você acertou! 🙏✨\n\nQual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?\nA) Atalia\nB) Mical\nC) Jezabel\nD) Vasti\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #cristao",
-    "tiktok": "Qual princesa de Sidom se casou com Acabe? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #biblia #cristao #desafio",
-    "kwai": "Qual princesa de Sidom se casou com Acabe? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #biblia",
-    "youtube": {
-     "title": "Quiz Bíblico: Quem foi a princesa que influenciou Acabe? #shorts",
-     "description": "Vamos testar o que você sabe sobre as histórias da Bíblia? Hoje trazemos uma pergunta intrigante: qual princesa de Sidom se casou com o rei Acabe e influenciou sua fé? Escolha uma das opções abaixo e reflita sobre o contexto desse encontro. Compartilhe sua resposta nos comentários e descubra se você acertou! 🙏✨\n\nQual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?\nA) Atalia\nB) Mical\nC) Jezabel\nD) Vasti\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus"
-    }
-   },
-   "caption_source": "groq",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Casa do Pai",
-     "artist": "Aline Barros"
-    },
-    {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
-    },
-    {
-     "title": "Uma Nova História",
-     "artist": "Fernandinho"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 22.72,
-    "base": "media/2026-10-10/2026-10-10-5-quiz-v2/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-5-quiz",
-   "date": "2026-10-10",
-   "slot": 5,
-   "time": "17:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-10T14:34:50+00:00",
-   "source": "bank",
-   "bank_id": "q177",
-   "model": null,
-   "content": {
-    "ref": "Êxodo 6:20",
-    "ref_label": "Êxodo 6:20",
-    "question": "Qual era o nome da mãe de Moisés e Arão?",
-    "options": [
-     "Zípora",
-     "Miriã",
-     "Joquebede",
-     "Sara"
-    ],
-    "answer": 2,
-    "evidence": "Anrão tomou por mulher a Joquebede",
-    "passage": "Anrão tomou por mulher a Joquebede, irmã de seu pai; e ela lhe deu à luz Arão e Moisés. Os anos da vida de Anrão foram cento e trinta e sete anos.",
+    "evidence": "macacos e pavões",
+    "passage": "Pois o rei tinha no mar uma frota de navios de Társis, junto com a frota de Hirão. Uma vez a cada três anos a frota de Társis vinha trazendo ouro, prata, marfim, macacos e pavões.",
     "difficulty": "dificil"
    },
    "captions": {
-    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #jesus #gospel #palavradedeus #perguntasbiblicas #biblia #desafio #deus #fe",
-    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #evangelico",
-    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #gospel",
-    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #jesus #gospel",
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nAlém de ouro, prata e marfim, que animais a frota de Salomão trazia?\n\nA) Camelos e cavalos\nB) Macacos e pavões\nC) Leões e águias\nD) Elefantes e zebras\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #evangelico #biblia #perguntasbiblicas #fe #palavradedeus #desafio #teste #gospel #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nAlém de ouro, prata e marfim, que animais a frota de Salomão trazia?\n\nA) Camelos e cavalos\nB) Macacos e pavões\nC) Leões e águias\nD) Elefantes e zebras\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #fe #cristao #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #deus #palavradedeus #jesus",
     "youtube": {
-     "title": "Você conhece mesmo a Bíblia? Prove! Qual era o nome da mãe de Moisés e Arão? #shorts",
-     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus"
+     "title": "Teste rápido: você acerta de primeira? Além de ouro, prata e marfim, que animais a… #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nAlém de ouro, prata e marfim, que animais a frota de Salomão trazia?\n\nA) Camelos e cavalos\nB) Macacos e pavões\nC) Leões e águias\nD) Elefantes e zebras\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
     }
    },
    "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Quão Grande És Tu (hino)",
-     "artist": "Cantor Cristão / vários intérpretes"
-    },
-    {
-     "title": "Galileu",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 20.72,
-    "base": "media/2026-10-10/2026-10-10-5-quiz/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-4-quiz-v2",
-   "date": "2026-10-10",
-   "slot": 4,
-   "time": "14:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-10T11:08:50+00:00",
-   "source": "bank",
-   "bank_id": "q065",
-   "model": null,
-   "content": {
-    "ref": "Jonas 1:2",
-    "ref_label": "Jonas 1:2",
-    "question": "Para qual grande cidade Deus mandou Jonas pregar?",
-    "options": [
-     "Nínive",
-     "Babilônia",
-     "Tarsis",
-     "Sodoma"
-    ],
-    "answer": 0,
-    "evidence": "grande cidade de Nínive",
-    "passage": "“Levante-se, vá à grande cidade de Nínive e pregue contra ela, porque a sua maldade subiu diante de mim.”",
-    "difficulty": "facil"
-   },
-   "captions": {
-    "instagram": "Vamos testar sua memória das Escrituras? 🎯 Em nosso quiz de hoje, apresentamos uma pergunta sobre a missão que Deus confiou a Jonas. Leia as quatro opções e reflita: qual grande cidade Ele enviou o profeta para pregar? Compartilhe sua resposta nos comentários e descubra se você acertou! Lembre‑se de que cada pergunta é uma oportunidade de crescer na fé e na compreensão da Palavra.\n\nPara qual grande cidade Deus mandou Jonas pregar?\nA) Nínive\nB) Babilônia\nC) Tarsis\nD) Sodoma\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #fe #evangelico #perguntasbiblicas #biblia #deus #palavradedeus #jesus #gospel #cristao",
-    "facebook": "Vamos testar sua memória das Escrituras? 🎯 Em nosso quiz de hoje, apresentamos uma pergunta sobre a missão que Deus confiou a Jonas. Leia as quatro opções e reflita: qual grande cidade Ele enviou o profeta para pregar? Compartilhe sua resposta nos comentários e descubra se você acertou! Lembre‑se de que cada pergunta é uma oportunidade de crescer na fé e na compreensão da Palavra.\n\nPara qual grande cidade Deus mandou Jonas pregar?\nA) Nínive\nB) Babilônia\nC) Tarsis\nD) Sodoma\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
-    "tiktok": "Quiz bíblico: Em que cidade Deus enviou Jonas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #jesus",
-    "kwai": "Quiz bíblico: Em que cidade Deus enviou Jonas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #teste #deus #biblia",
-    "youtube": {
-     "title": "Quiz Bíblico: Qual a cidade que Jonas deveria pregar? #shorts",
-     "description": "Vamos testar sua memória das Escrituras? 🎯 Em nosso quiz de hoje, apresentamos uma pergunta sobre a missão que Deus confiou a Jonas. Leia as quatro opções e reflita: qual grande cidade Ele enviou o profeta para pregar? Compartilhe sua resposta nos comentários e descubra se você acertou! Lembre‑se de que cada pergunta é uma oportunidade de crescer na fé e na compreensão da Palavra.\n\nPara qual grande cidade Deus mandou Jonas pregar?\nA) Nínive\nB) Babilônia\nC) Tarsis\nD) Sodoma\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste"
-    }
-   },
-   "caption_source": "groq",
    "music": {
     "id": "gen-desafio-2",
     "title": "Será Que Você Sabe?",
@@ -520,95 +116,12 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
-    },
-    {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
-    },
-    {
-     "title": "Bondade de Deus",
+     "title": "Ousado Amor",
      "artist": "Isaías Saad"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 21.52,
-    "base": "media/2026-10-10/2026-10-10-4-quiz-v2/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-4-quiz",
-   "date": "2026-10-10",
-   "slot": 4,
-   "time": "14:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-10T14:33:29+00:00",
-   "source": "bank",
-   "bank_id": "q083",
-   "model": null,
-   "content": {
-    "ref": "Atos 9:11",
-    "ref_label": "Atos 9:11",
-    "question": "De qual cidade era Saulo (o apóstolo Paulo)?",
-    "options": [
-     "Jerusalém",
-     "Antioquia",
-     "Tarso",
-     "Éfeso"
-    ],
-    "answer": 2,
-    "evidence": "Saulo, de Tarso",
-    "passage": "O Senhor lhe disse: “Levante-se e vá à rua chamada Direita, e pergunte na casa de Judá por um homem chamado Saulo, de Tarso. Pois ele está orando,",
-    "difficulty": "medio"
-   },
-   "captions": {
-    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #palavradedeus #evangelico #deus #jesus #fe #conhecimentobiblico #gospel #teste",
-    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #evangelico",
-    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #fe #teste",
-    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #jesus",
-    "youtube": {
-     "title": "Pergunta bíblica que poucos acertam De qual cidade era Saulo (o apóstolo Paulo)? #shorts",
-     "description": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Algo Novo",
-     "artist": "Kemuel e Lukas Agustinho"
     },
     {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
      "title": "Grandes Coisas",
@@ -625,8 +138,8 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 21.25,
-    "base": "media/2026-10-10/2026-10-10-4-quiz/",
+    "duration": 25.32,
+    "base": "media/2026-10-10/2026-10-10-6-quiz-v3/",
     "version": 1
    },
    "published": {
@@ -641,52 +154,218 @@
    "error": null
   },
   {
-   "id": "2026-10-10-3-curiosity",
+   "id": "2026-10-10-5-quiz-v3",
+   "date": "2026-10-10",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:41:43+00:00",
+   "source": "bank",
+   "bank_id": "q181",
+   "model": null,
+   "content": {
+    "ref": "Josué 14:7",
+    "ref_label": "Josué 14:7",
+    "question": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
+    "options": [
+     "Vinte",
+     "Quarenta",
+     "Oitenta e cinco",
+     "Cem"
+    ],
+    "answer": 1,
+    "evidence": "Eu tinha quarenta anos de idade",
+    "passage": "Eu tinha quarenta anos de idade quando Moisés, o servo do SENHOR, me enviou de Cades-Barneia para espiar a terra. Eu lhe trouxe resposta segundo o que estava em meu coração.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #biblia #conhecimentobiblico #teste #perguntasbiblicas #evangelico #cristao #jesus #desafio #gospel",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #jesus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #cristao #conhecimentobiblico",
+    "youtube": {
+     "title": "Desafio bíblico do dia Quantos anos Calebe tinha quando foi enviado para espiar a terra? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.85,
+    "base": "media/2026-10-10/2026-10-10-5-quiz-v3/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-4-quiz-v3",
+   "date": "2026-10-10",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:40:13+00:00",
+   "source": "bank",
+   "bank_id": "q007",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 5:27",
+    "ref_label": "Gênesis 5:27",
+    "question": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
+    "options": [
+     "930",
+     "969",
+     "950",
+     "912"
+    ],
+    "answer": 1,
+    "evidence": "novecentos e sessenta e nove anos",
+    "passage": "Todos os dias de Matusalém foram novecentos e sessenta e nove anos, e então ele morreu.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #desafio #cristao #jesus #conhecimentobiblico #biblia #fe #teste #gospel #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #gospel",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus #fe",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #deus #biblia #perguntasbiblicas",
+    "youtube": {
+     "title": "Pergunta bíblica que poucos acertam Quantos anos viveu Matusalém, o homem mais velho… #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.18,
+    "base": "media/2026-10-10/2026-10-10-4-quiz-v3/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-3-curiosity-v3",
    "date": "2026-10-10",
    "slot": 3,
    "time": "12:00",
    "type": "curiosity",
    "status": "approved",
-   "created_at": "2026-10-10T14:32:05+00:00",
+   "created_at": "2026-10-10T14:38:50+00:00",
    "source": "bank",
-   "bank_id": "c046",
+   "bank_id": "c124",
    "model": null,
    "content": {
-    "ref": "João 18:10",
-    "ref_label": "João 18:10",
-    "title": "O nome do servo que perdeu a orelha",
-    "text": "Quando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco.",
-    "evidence": "O nome do servo era Malco",
-    "passage": "Simão Pedro, pois, que tinha uma espada, puxou-a, feriu o servo do sumo sacerdote e cortou-lhe a orelha direita. O nome do servo era Malco.",
+    "ref": "1 Crônicas 11:22",
+    "ref_label": "1 Crônicas 11:22",
+    "title": "Leão numa cova, em dia de neve",
+    "text": "Benaia, um dos valentes de Davi, desceu numa cova e matou um leão em um dia de neve.",
+    "evidence": "matou um leão no meio de uma cova em um dia de neve",
+    "passage": "Benaia, filho de Joiada, filho de um homem valente de Cabzeel, que havia feito grandes feitos, matou os dois filhos de Ariel de Moabe. Ele também desceu e matou um leão no meio de uma cova em um dia de neve.",
     "tags": [
-     "pedro",
-     "detalhes"
+     "davi",
+     "valentes"
     ]
    },
    "captions": {
-    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #estudobiblico #deus #evangelico #gospel #cristao #jesus #historiabiblica #palavradedeus",
-    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pedro #detalhes #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 O nome do servo que perdeu a orelha\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #cristao",
-    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 O nome do servo que perdeu a orelha\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #gospel",
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nLeão numa cova, em dia de neve\n\nBenaia, um dos valentes de Davi, desceu numa cova e matou um leão em um dia de neve. (1 Crônicas 11:22)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#davi #valentes #vocesabia #curiosidadesbiblicas #jesus #gospel #historiabiblica #estudobiblico #cristao #fe #palavradedeus #biblia",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nLeão numa cova, em dia de neve\n\nBenaia, um dos valentes de Davi, desceu numa cova e matou um leão em um dia de neve. (1 Crônicas 11:22)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#davi #valentes #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 Leão numa cova, em dia de neve\nMarque alguém que vai gostar de saber disso.\n#davi #valentes #vocesabia #curiosidadesbiblicas #fe",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 Leão numa cova, em dia de neve\nMarque alguém que vai gostar de saber disso.\n#davi #valentes #vocesabia #curiosidadesbiblicas #cristao",
     "youtube": {
-     "title": "Você sabia? O nome do servo que perdeu a orelha #shorts",
-     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #pedro #detalhes #vocesabia"
+     "title": "Você sabia? Leão numa cova, em dia de neve #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nLeão numa cova, em dia de neve\n\nBenaia, um dos valentes de Davi, desceu numa cova e matou um leão em um dia de neve. (1 Crônicas 11:22)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #davi #valentes #vocesabia"
     }
    },
    "caption_source": "template",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
     },
     {
-     "title": "Me Atraiu",
-     "artist": "Gabriela Rocha"
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
     },
     {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     }
    ],
    "media": {
@@ -697,7 +376,7 @@
      "imagem_quadrada.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-3-curiosity/",
+    "base": "media/2026-10-10/2026-10-10-3-curiosity-v3/",
     "version": 1
    },
    "published": {
@@ -712,39 +391,39 @@
    "error": null
   },
   {
-   "id": "2026-10-10-2-quiz",
+   "id": "2026-10-10-2-quiz-v3",
    "date": "2026-10-10",
    "slot": 2,
    "time": "09:00",
    "type": "quiz",
    "status": "pending",
-   "created_at": "2026-10-10T14:32:04+00:00",
+   "created_at": "2026-10-10T14:38:49+00:00",
    "source": "bank",
-   "bank_id": "q256",
+   "bank_id": "q206",
    "model": null,
    "content": {
-    "ref": "Gênesis 25:25",
-    "ref_label": "Gênesis 25:25",
-    "question": "Como Esaú nasceu, segundo Gênesis?",
+    "ref": "Marcos 5:9",
+    "ref_label": "Marcos 5:9",
+    "question": "Qual nome o espírito imundo do homem de Gadara disse ter?",
     "options": [
-     "Todo vermelho",
-     "Sem cabelos",
-     "Muito pequeno",
-     "Com os olhos abertos"
+     "Belzebu",
+     "Legião",
+     "Mamom",
+     "Abadom"
     ],
-    "answer": 0,
-    "evidence": "O primeiro saiu todo vermelho",
-    "passage": "O primeiro saiu todo vermelho, como uma veste de pelos. Eles o chamaram de Esaú.",
+    "answer": 1,
+    "evidence": "Meu nome é Legião",
+    "passage": "Ele lhe perguntou: “Qual é o seu nome?” Ele lhe disse: “Meu nome é Legião, porque somos muitos.”",
     "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #palavradedeus #evangelico #gospel #cristao #deus #conhecimentobiblico #teste #fe #perguntasbiblicas",
-    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
-    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio",
-    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #biblia #cristao #conhecimentobiblico",
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual nome o espírito imundo do homem de Gadara disse ter?\n\nA) Belzebu\nB) Legião\nC) Mamom\nD) Abadom\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #deus #palavradedeus #cristao #jesus #biblia #teste #perguntasbiblicas #conhecimentobiblico #desafio",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual nome o espírito imundo do homem de Gadara disse ter?\n\nA) Belzebu\nB) Legião\nC) Mamom\nD) Abadom\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #jesus #evangelico",
     "youtube": {
-     "title": "Pergunta bíblica que poucos acertam Como Esaú nasceu, segundo Gênesis? #shorts",
-     "description": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+     "title": "Você conhece mesmo a Bíblia? Prove! Qual nome o espírito imundo do homem de Gadara… #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual nome o espírito imundo do homem de Gadara disse ter?\n\nA) Belzebu\nB) Legião\nC) Mamom\nD) Abadom\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
     }
    },
    "caption_source": "template",
@@ -757,16 +436,16 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Uma Nova História",
-     "artist": "Fernandinho"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
     },
     {
-     "title": "Ousado Amor",
-     "artist": "Isaías Saad"
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
     }
    ],
    "media": {
@@ -779,8 +458,8 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 22.52,
-    "base": "media/2026-10-10/2026-10-10-2-quiz/",
+    "duration": 21.85,
+    "base": "media/2026-10-10/2026-10-10-2-quiz-v3/",
     "version": 1
    },
    "published": {
@@ -797,129 +476,53 @@
    "error": null
   },
   {
-   "id": "2026-10-10-1-verse-v2",
-   "date": "2026-10-10",
-   "slot": 1,
-   "time": "07:00",
-   "type": "verse",
-   "status": "rejected",
-   "created_at": "2026-10-10T11:05:55+00:00",
-   "source": "groq",
-   "bank_id": null,
-   "model": "openai/gpt-oss-120b",
-   "content": {
-    "ref": "Josué 1:9",
-    "ref_label": "Josué 1:9",
-    "verse_text": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.",
-    "on_screen": "Seja forte e corajoso, o Senhor está contigo!",
-    "reflection": "Deus nos chama a enfrentar cada desafio com confiança, lembrando que Ele nunca nos abandona. Mesmo nas incertezas, podemos avançar com fé, sabendo que Sua presença nos sustenta e nos dá segurança.",
-    "theme": "coragem",
-    "mood": "reflexao",
-    "tags": [
-     "coragem",
-     "fe"
-    ]
-   },
-   "captions": {
-    "instagram": "“Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.” (Josué 1:9)\n\nDeus nos chama a ser fortes e corajosos, mesmo quando o caminho parece incerto. Quando sentimos medo, lembramos que o Senhor nos acompanha em cada passo, oferecendo segurança e paz. Avance com fé, sabendo que Sua presença nunca falha. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo #biblia #jesus #gospel #oracao #reflexao #devocional #palavradedeus #deus",
-    "facebook": "“Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.” (Josué 1:9)\n\nDeus nos chama a ser fortes e corajosos, mesmo quando o caminho parece incerto. Quando sentimos medo, lembramos que o Senhor nos acompanha em cada passo, oferecendo segurança e paz. Avance com fé, sabendo que Sua presença nunca falha. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo",
-    "tiktok": "Seja forte, Deus está contigo em todo passo. 🙏\n#coragem #fe #versiculododia #versiculo #deus",
-    "kwai": "Seja forte, Deus está contigo em todo passo. 🙏\n#coragem #fe #versiculododia #versiculo #gospel",
-    "youtube": {
-     "title": "Coragem e fé: Deus ao seu lado #shorts",
-     "description": "“Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.” (Josué 1:9)\n\nDeus nos chama a ser fortes e corajosos, mesmo quando o caminho parece incerto. Quando sentimos medo, lembramos que o Senhor nos acompanha em cada passo, oferecendo segurança e paz. Avance com fé, sabendo que Sua presença nunca falha. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coragem #fe #versiculododia"
-    }
-   },
-   "caption_source": "groq",
-   "music": null,
-   "gospel_suggestions": [
-    {
-     "title": "Galileu",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Grandes Coisas",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Todavia Me Alegrarei",
-     "artist": "Samuel Messias"
-    }
-   ],
-   "media": {
-    "poster": "imagem_story.jpg",
-    "images": [
-     "imagem_story.jpg",
-     "imagem_vertical.jpg",
-     "imagem_quadrada.jpg"
-    ],
-    "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-1-verse-v2/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [
-    "verse: Groq tentativa 1 descartada: Salmo versículo 1 (pode ter título)",
-    "verse: conteúdo novo da Groq (openai/gpt-oss-120b) aceito",
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
-  },
-  {
-   "id": "2026-10-10-1-verse",
+   "id": "2026-10-10-1-verse-v3",
    "date": "2026-10-10",
    "slot": 1,
    "time": "07:00",
    "type": "verse",
    "status": "pending",
-   "created_at": "2026-10-10T14:30:35+00:00",
+   "created_at": "2026-10-10T14:37:23+00:00",
    "source": "bank",
-   "bank_id": "v072",
+   "bank_id": "v115",
    "model": null,
    "content": {
-    "ref": "Salmos 103:2",
-    "ref_label": "Salmos 103:2",
-    "verse_text": "Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…",
-    "on_screen": "Não se esqueça dos benefícios de Deus.",
-    "reflection": "Davi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.",
-    "theme": "gratidão",
-    "mood": "alegria",
+    "ref": "Salmos 51:10",
+    "ref_label": "Salmos 51:10",
+    "verse_text": "Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.",
+    "on_screen": "Cria em mim um coração puro, ó Deus.",
+    "reflection": "Davi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.",
+    "theme": "renovação",
+    "mood": "reflexao",
     "tags": [
-     "gratidao",
-     "louvor"
+     "arrependimento",
+     "salmos"
     ]
    },
    "captions": {
-    "instagram": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo #evangelico #deus #oracao #biblia #jesus #fe #palavradedeus #devocional",
-    "facebook": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo",
-    "tiktok": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #fe",
-    "kwai": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #cristao",
+    "instagram": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#arrependimento #salmos #versiculododia #versiculo #oracao #reflexao #deus #devocional #biblia #fe #evangelico #jesus",
+    "facebook": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#arrependimento #salmos #versiculododia #versiculo",
+    "tiktok": "Leia com calma e receba 🙏 Salmos 51:10\nCompartilhe com alguém que precisa ler isso hoje.\n#arrependimento #salmos #versiculododia #versiculo #oracao",
+    "kwai": "Leia com calma e receba 🙏 Salmos 51:10\nCompartilhe com alguém que precisa ler isso hoje.\n#arrependimento #salmos #versiculododia #versiculo #biblia",
     "youtube": {
-     "title": "Salmos 103:2: Não se esqueça dos benefícios de Deus. #shorts",
-     "description": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #louvor #versiculododia"
+     "title": "Salmos 51:10: Cria em mim um coração puro, ó Deus. #shorts",
+     "description": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #arrependimento #salmos #versiculododia"
     }
    },
    "caption_source": "template",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Quão Grande És Tu (hino)",
-     "artist": "Cantor Cristão / vários intérpretes"
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
     },
     {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
     },
     {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
     }
    ],
    "media": {
@@ -930,7 +533,7 @@
      "imagem_quadrada.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-1-verse/",
+    "base": "media/2026-10-10/2026-10-10-1-verse-v3/",
     "version": 1
    },
    "published": {
