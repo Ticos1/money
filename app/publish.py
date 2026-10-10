@@ -53,6 +53,28 @@ def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
     return when <= now
 
 
+def applies(platform: str, post: dict) -> bool:
+    """A rede aceita este tipo de post? (YouTube/TikTok só vídeo.)"""
+    media = post.get("media", {})
+    if platform == "youtube":
+        return bool(media.get("video_music"))
+    if platform == "tiktok":
+        return bool(media.get("video_silent"))
+    return True
+
+
+def completed_posts(posts: list[dict], cfg: dict, results: dict) -> list[str]:
+    """Posts que já saíram em TODAS as redes ligadas: saem da fila e vão pro Histórico."""
+    done = []
+    for post in posts:
+        published = {**(post.get("published") or {}),
+                     **{k: v["at"] for k, v in results.get(post["id"], {}).items() if v.get("at")}}
+        nets = [p for p in state.PLATFORMS if cfg.get(p) and applies(p, post)]
+        if nets and all(published.get(p) for p in nets):
+            done.append(post["id"])
+    return done
+
+
 def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
     """Devolve (publicadores prontos, erros de configuração por rede)."""
     pubs, errors = {}, {}
@@ -125,7 +147,8 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     results: dict[str, dict] = {}
     if not pending:
         print("Nada para publicar agora.")
-        return {"mode": "publish", "publish_results": results}
+        return {"mode": "publish", "publish_results": results,
+                "completed": completed_posts(due, cfg, results)}
 
     pubs, config_errors = build_publishers(enabled, log)
     for line in log:
@@ -146,7 +169,7 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
         except PublishError as exc:
             out[platform] = {"error": str(exc)[:500]}
             print(f"{post['id']} → {platform}: ERRO {exc}")
-    patch = {"mode": "publish", "publish_results": results}
+    patch = {"mode": "publish", "publish_results": results, "completed": completed_posts(due, cfg, results)}
     if getattr(pubs.get("tiktok"), "updated_auth", None):
         patch["tiktok_auth"] = pubs["tiktok"].updated_auth  # token renovado (criptografado)
     return patch

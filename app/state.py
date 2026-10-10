@@ -110,6 +110,9 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
             elif res.get("error"):
                 prev = errors.get(platform) or {}
                 errors[platform] = {"message": res["error"], "attempts": prev.get("attempts", 0) + 1}
+    for post_id in patch.get("completed", []):  # já saiu em todas as redes
+        if post_id in posts:
+            cleared.append(posts.pop(post_id))
     queue, archived = archive_old(list(posts.values()), today, keep_days)
     archived += cleared
     save_queue(queue)

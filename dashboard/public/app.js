@@ -275,7 +275,11 @@ async function watchPublishing(id, nets) {
       STATE = await api("/api/state");
     } catch { continue; }
     const p = STATE.posts.find((x) => x.id === id);
-    if (!p) return;
+    if (!p) {  // saiu em todas as redes: foi para o Histórico
+      render();
+      toast(`✅ Publicado em: ${nets.join(", ")}. O post saiu da fila (veja no Histórico).`);
+      return;
+    }
     const done = nets.every((k) => p.published?.[k] || p.publish_errors?.[k]);
     if (done || !p.publishing_now) {
       render();
@@ -355,7 +359,13 @@ async function renderHistory(main) {
   for (const p of all) {
     tbody.append(h("tr", {}, h("td", { class: "p" }, p.date.split("-").reverse().join("/")),
       h("td", {}, h("div", {}, titleOf(p)), h("div", { class: "muted" }, TYPE_NAME[p.type])),
-      ...PLATFORMS.map(([k]) => h("td", { title: p.published?.[k] || "" }, p.published?.[k] ? "✅" : "—"))));
+      ...PLATFORMS.map(([k]) => {
+        const link = p.publish_links?.[k];
+        const mark = p.published?.[k]
+          ? (link?.startsWith?.("http") ? h("a", { href: link, target: "_blank", rel: "noopener", title: "ver post" }, "✅↗") : "✅")
+          : "—";
+        return h("td", { title: p.published?.[k] || "" }, mark);
+      })));
   }
   const counts = PLATFORMS.map(([k, n]) => `${n}: ${all.filter((p) => p.published?.[k]).length}`).join(" · ");
   main.append(h("p", { class: "muted" }, `Total publicado — ${counts}`));

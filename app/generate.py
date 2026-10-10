@@ -193,13 +193,25 @@ def rerender(args) -> dict:
 
 
 def prune_media(media_root: Path, today: date, keep_days: int) -> None:
+    """Apaga mídias de dias antigos e de posts que já saíram da fila (publicados,
+    rejeitados na limpeza etc.), para o site não acumular arquivos."""
     limit = (today - timedelta(days=keep_days)).isoformat()
     if not media_root.exists():
         return
+    in_queue = {p["id"] for p in state.load_queue()}
     for day_dir in media_root.iterdir():
-        if day_dir.is_dir() and day_dir.name < limit:
+        if not day_dir.is_dir():
+            continue
+        if day_dir.name < limit:
             shutil.rmtree(day_dir)
             print(f"mídia antiga removida: {day_dir.name}")
+            continue
+        for post_dir in day_dir.iterdir():
+            if post_dir.is_dir() and post_dir.name not in in_queue:
+                shutil.rmtree(post_dir)
+                print(f"mídia removida (post fora da fila): {post_dir.name}")
+        if not any(day_dir.iterdir()):
+            day_dir.rmdir()
 
 
 def main(argv: list[str] | None = None) -> int:

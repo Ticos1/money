@@ -340,6 +340,23 @@ class ClearQueueTests(unittest.TestCase):
                 self.assertEqual(patch["posts"][0]["status"], "pending")
 
 
+class CompletedPostsTests(unittest.TestCase):
+    def test_fully_published_post_leaves_queue(self):
+        from app import publish
+        cfg = {"instagram": True, "facebook": True, "youtube": True}
+        image = {"id": "a", "media": {"images": ["x.jpg"]}, "published": {"instagram": "t"}}
+        video = {"id": "b", "media": {"video_music": "v.mp4"}, "published": {"instagram": "t", "facebook": "t"}}
+        # imagem não vai pro YouTube: basta Instagram + Facebook
+        self.assertEqual(publish.completed_posts([image], cfg, {"a": {"facebook": {"at": "t"}}}), ["a"])
+        # vídeo ainda falta o YouTube (deu erro)
+        self.assertEqual(publish.completed_posts([video], cfg, {"b": {"youtube": {"error": "x"}}}), [])
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_queue([{**image, "date": "2026-10-10", "slot": 1}, {**video, "date": "2026-10-10", "slot": 2}])
+            state.apply_patch({"publish_results": {}, "completed": ["a"]}, date(2026, 10, 10), 0)
+            self.assertEqual([p["id"] for p in state.load_queue()], ["b"])
+            self.assertEqual(state.load_history()[0]["id"], "a")
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
