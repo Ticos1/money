@@ -1,8 +1,6 @@
 {
- "updated_at": "2026-10-10T15:15:27+00:00",
- "notes": [
-  "Meta: O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md"
- ],
+ "updated_at": "2026-10-10T15:23:42+00:00",
+ "notes": [],
  "posts": {
   "2026-10-10-2-quiz-v3": {
    "type": "quiz",
@@ -27,8 +25,19 @@
     "instagram": "https://www.instagram.com/p/DeUF3ShmDyL/",
     "facebook": "https://www.facebook.com/1405324152662027_122094628065513774"
    },
-   "instagram": null,
-   "facebook": null
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
   },
   "2026-10-10-2-quiz-v2": {
    "type": "quiz",
@@ -40,8 +49,19 @@
     "instagram": "https://www.instagram.com/reel/DeUCRbtDtKG/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1122568937415887"
    },
-   "instagram": null,
-   "facebook": null,
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 1
+   },
    "youtube": {
     "views": 0,
     "likes": 0,
@@ -57,8 +77,19 @@
     "instagram": "https://www.instagram.com/p/DeS7WL5D4H8/",
     "facebook": "https://www.facebook.com/1405324152662027_122094354219513774"
    },
-   "instagram": null,
-   "facebook": null
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
   },
   "2026-10-09-6-quiz": {
    "type": "quiz",
@@ -70,8 +101,19 @@
     "instagram": "https://www.instagram.com/reel/DeS7ZD_AiCs/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1618555839765225"
    },
-   "instagram": null,
-   "facebook": null,
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
    "youtube": {
     "views": 2,
     "likes": 0,
@@ -87,8 +129,19 @@
     "instagram": "https://www.instagram.com/p/DeSfS-riYcW/",
     "facebook": "https://www.facebook.com/1405324152662027_122094258273513774"
    },
-   "instagram": null,
-   "facebook": null
+   "instagram": {
+    "likes": 1,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
   },
   "2026-10-09-5-quiz": {
    "type": "quiz",
@@ -100,8 +153,19 @@
     "instagram": "https://www.instagram.com/reel/DeSfVGxD3x2/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1122398790142103"
    },
-   "instagram": null,
-   "facebook": null,
+   "instagram": {
+    "likes": 1,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 4,
+    "total_interactions": 2
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
    "youtube": {
     "views": 64,
     "likes": 2,
@@ -118,8 +182,19 @@
     "instagram": "https://www.instagram.com/reel/DeSfbF5js5J/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1092451150302956"
    },
-   "instagram": null,
-   "facebook": null,
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
    "youtube": {
     "views": 21,
     "likes": 2,
@@ -135,8 +210,19 @@
     "instagram": "https://www.instagram.com/p/DeR_YbtAX7n/",
     "facebook": "https://www.facebook.com/1405324152662027_122094157875513774"
    },
-   "instagram": null,
-   "facebook": null
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
   },
   "2026-10-09-2-quiz": {
    "type": "quiz",
@@ -148,8 +234,19 @@
     "instagram": "https://www.instagram.com/reel/DeS7d4vkkaE/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1087243287281107"
    },
-   "instagram": null,
-   "facebook": null,
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
    "youtube": {
     "views": 12,
     "likes": 1,
@@ -165,8 +262,19 @@
     "facebook": "https://www.facebook.com/1405324152662027_122094033165513774",
     "instagram": "https://www.instagram.com/p/DeResKNDijL/"
    },
-   "instagram": null,
-   "facebook": null
+   "instagram": {
+    "likes": 1,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
   }
  }
 }
