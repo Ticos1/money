@@ -95,6 +95,7 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
         post = posts.get(post_id)
         if not post:
             continue
+        post.pop("publishing_now", None)  # o "Publicar agora" terminou
         for platform, res in by_platform.items():
             errors = post.setdefault("publish_errors", {})
             if res.get("at"):

@@ -33,6 +33,12 @@ export async function onRequestPost({ request, env, params }) {
           case "approve":
             p.status = "approved";
             break;
+          case "publish_now":
+            // aprova e libera nova tentativa nas redes que tinham dado erro
+            p.status = "approved";
+            p.publish_errors = {};
+            p.publishing_now = new Date().toISOString();
+            break;
           case "reject":
             p.status = "rejected";
             break;
@@ -82,6 +88,10 @@ export async function onRequestPost({ request, env, params }) {
     if (rerender) await gh.dispatch({ mode: "rerender", post_id: id, force: "false" });
     // Aprovou: tenta publicar já (se o horário do post já chegou e houver rede ligada).
     let publishing = false;
+    if (body.action === "publish_now") {
+      await gh.dispatch({ post_id: id, agora: "true" }, "publish.yml");
+      return json({ ok: true, post, publishing: true });
+    }
     if (body.action === "approve" && !rerender) {
       try {
         await gh.dispatch({ post_id: id }, "publish.yml");

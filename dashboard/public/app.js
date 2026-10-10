@@ -248,6 +248,46 @@ function editForm(post, card) {
   card.replaceChildren(h("div", { class: "sec" }, h("h3", {}, `Editar · ${fmtDate(post)}`), f));
 }
 
+// Redes ligadas em Configurações onde este post ainda não saiu.
+function pendingNets(post) {
+  const on = Object.entries(STATE.settings?.publishing || {}).filter(([, v]) => v === true).map(([k]) => k)
+    .filter((k) => k !== "tiktok" || post.media?.video_silent);
+  return on.filter((k) => !post.published?.[k] && (k !== "youtube" || post.media?.video_music));
+}
+
+async function publishNow(post) {
+  const nets = pendingNets(post);
+  if (!confirm(`Publicar agora em: ${nets.join(", ")}?`)) return;
+  try {
+    const r = await api(`/api/posts/${encodeURIComponent(post.id)}`, { method: "POST", body: { action: "publish_now" } });
+    Object.assign(post, r.post);
+    toast("Publicando! Leva cerca de 1 minuto. A tela atualiza sozinha.");
+    render();
+    watchPublishing(post.id, nets);
+  } catch (e) { toast(e.message); }
+}
+
+// Atualiza a tela a cada 10 s até o post sair (ou dar erro), por até 4 minutos.
+async function watchPublishing(id, nets) {
+  for (let i = 0; i < 24; i++) {
+    await new Promise((r) => setTimeout(r, 10000));
+    try {
+      STATE = await api("/api/state");
+    } catch { continue; }
+    const p = STATE.posts.find((x) => x.id === id);
+    if (!p) return;
+    const done = nets.every((k) => p.published?.[k] || p.publish_errors?.[k]);
+    if (done || !p.publishing_now) {
+      render();
+      const ok = nets.filter((k) => p.published?.[k]);
+      const bad = nets.filter((k) => p.publish_errors?.[k]);
+      toast(bad.length ? `Publicado em: ${ok.join(", ") || "nenhuma"} · erro em: ${bad.join(", ")}` : `✅ Publicado em: ${ok.join(", ")}`);
+      return;
+    }
+  }
+  render();
+}
+
 async function setStatus(post, action) {
   try {
     const r = await api(`/api/posts/${encodeURIComponent(post.id)}`, { method: "POST", body: { action } });
@@ -273,6 +313,8 @@ function postCard(post) {
     post.status !== "approved" && h("button", { class: "btn ok", onclick: () => setStatus(post, "approve") }, "✓ Aprovar"),
     post.status !== "rejected" && h("button", { class: "btn bad", onclick: () => setStatus(post, "reject") }, "Rejeitar"),
     post.status !== "pending" && h("button", { class: "btn", onclick: () => setStatus(post, "pending") }, "Voltar p/ revisão"),
+    pendingNets(post).length > 0 && h("button", { class: "btn primary", onclick: () => publishNow(post) },
+      post.publishing_now && Date.now() - Date.parse(post.publishing_now) < 5 * 60e3 ? "⏳ Publicando…" : "🚀 Publicar agora"),
     h("button", { class: "btn", onclick: () => editForm(post, card) }, "✎ Editar"));
   const origin = post.source === "groq" ? `gerado pela IA (${post.model})` : `banco (${post.bank_id})`;
   card.append(head,
