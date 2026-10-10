@@ -30,7 +30,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamente**. O post do dia nunca deixa de sair.
 
-**Toda semana** (domingo, 18:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
+**Toda semana** (sábado, 12:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
 
 ## Exemplos
 

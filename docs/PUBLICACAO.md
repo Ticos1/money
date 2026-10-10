@@ -194,7 +194,7 @@ YouTube**, como vídeo normal (não é Short), com **miniatura** e **capítulos*
 (0:00 Introdução, 0:07 Pergunta 1, ...). Vídeos longos costumam dar mais tempo de exibição, que é o
 que o YouTube mais valoriza.
 
-- **Quando:** domingo às 18:00 (muda em Configurações → *Vídeo longo de quiz*: dia, horário e minutos).
+- **Quando:** sábado ao meio-dia (12:00) (muda em Configurações → *Vídeo longo de quiz*: dia, horário e minutos).
 - **De onde vêm as perguntas:** primeiro os quizzes dos últimos 14 dias; o que faltar vem do banco.
   Uma pergunta não volta a um vídeo longo por 90 dias.
 - **Onde aparece:** na aba **Fila**, como "Vídeo longo de quiz (YouTube)". Com *Aprovar

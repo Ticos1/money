@@ -67,8 +67,8 @@
  },
  "compilation": {
   "enabled": true,
-  "weekday": 6,
-  "time": "18:00",
+  "weekday": 5,
+  "time": "12:00",
   "minutes": 10
  }
 }
