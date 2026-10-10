@@ -391,16 +391,16 @@
    "error": null,
    "publish_errors": {
     "instagram": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 2
     },
     "facebook": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 2
     },
     "stories": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 2
     }
    }
   },
@@ -490,16 +490,16 @@
    "error": null,
    "publish_errors": {
     "instagram": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 2
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 3
     },
     "facebook": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 2
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 3
     },
     "stories": {
-     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 2
+     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
+     "attempts": 3
     }
    },
    "publish_links": {

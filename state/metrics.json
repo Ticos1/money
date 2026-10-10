@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-10T15:00:31+00:00",
+ "updated_at": "2026-10-10T15:05:35+00:00",
  "notes": [
-  "Meta: Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging per"
+  "Meta: O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md"
  ],
  "posts": {
   "2026-10-10-2-quiz-v3": {
