@@ -1,0 +1,204 @@
+{
+ "updated_at": "2026-10-10T10:25:30+00:00",
+ "notes": [
+  "Instagram: alcance, salvamentos e visualizações precisam da permissão instagram_manage_insights no token (erro: (#10) Application does not have permission for this action)",
+  "YouTube: para ver visualizações, gere o refresh token com os escopos youtube.upload e youtube.readonly (veja docs/PUBLICACAO.md)"
+ ],
+ "posts": {
+  "2026-10-10-6-quiz": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "title": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
+    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": null
+  },
+  "2026-10-10-1-verse": {
+   "type": "verse",
+   "date": "2026-10-10",
+   "time": "07:00",
+   "title": "2 Timóteo 1:7",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeT093wGDsP/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094571149513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-09-7-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-09",
+   "time": "21:00",
+   "title": "O cardápio de João Batista",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeS7WL5D4H8/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094354219513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-09-6-quiz": {
+   "type": "quiz",
+   "date": "2026-10-09",
+   "time": "19:00",
+   "title": "Qual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/9yDSFzQWo9w",
+    "instagram": "https://www.instagram.com/reel/DeS7ZD_AiCs/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1618555839765225"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": null
+  },
+  "2026-10-09-5-verse": {
+   "type": "verse",
+   "date": "2026-10-09",
+   "time": "17:00",
+   "title": "Salmos 16:11",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeSfS-riYcW/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094258273513774"
+   },
+   "instagram": {
+    "likes": 1,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-09-5-quiz": {
+   "type": "quiz",
+   "date": "2026-10-09",
+   "time": "17:00",
+   "title": "Lídia, que ouvia Paulo em Filipos, era vendedora de quê?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ufQTmQZw5iw",
+    "instagram": "https://www.instagram.com/reel/DeSfVGxD3x2/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1122398790142103"
+   },
+   "instagram": {
+    "likes": 1,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": null
+  },
+  "2026-10-09-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-09",
+   "time": "14:00",
+   "title": "Quem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/HboTxvAMYeQ",
+    "instagram": "https://www.instagram.com/reel/DeSfbF5js5J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1092451150302956"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": null
+  },
+  "2026-10-09-3-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-09",
+   "time": "12:00",
+   "title": "Mais de 500 testemunhas",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeR_YbtAX7n/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094157875513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-09-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-09",
+   "time": "19:00",
+   "title": "Qual profeta subiu ao céu em um redemoinho?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6YmkbnI-li4",
+    "instagram": "https://www.instagram.com/reel/DeS7d4vkkaE/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1087243287281107"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": null
+  },
+  "2026-10-09-1-verse": {
+   "type": "verse",
+   "date": "2026-10-09",
+   "time": "07:00",
+   "title": "Salmos 34:18",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027_122094033165513774",
+    "instagram": "https://www.instagram.com/p/DeResKNDijL/"
+   },
+   "instagram": {
+    "likes": 1,
+    "comments": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  }
+ }
+}
