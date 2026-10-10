@@ -389,20 +389,7 @@
    },
    "log": [],
    "error": null,
-   "publish_errors": {
-    "instagram": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    },
-    "facebook": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    },
-    "stories": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    }
-   }
+   "publish_errors": {}
   },
   {
    "id": "2026-10-10-2-quiz-v3",
@@ -488,20 +475,7 @@
     "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
    "error": null,
-   "publish_errors": {
-    "instagram": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    },
-    "facebook": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    },
-    "stories": {
-     "message": "O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md, 'Token da Meta com erro 190').",
-     "attempts": 3
-    }
-   },
+   "publish_errors": {},
    "publish_links": {
     "youtube": "https://youtube.com/shorts/HPgKH6DUeio"
    }
