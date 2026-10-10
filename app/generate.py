@@ -83,9 +83,21 @@ def build(args) -> dict:
     auto = settings.get("approval", {}).get("auto_approve", False)
 
     patch = {"mode": "generate", "date": day, "posts": [], "used": {}}
+    taken = set(queue) | {p["id"] for p in state.load_history()}
+    if args.clear:
+        # "Gerar agora" com limpeza: a fila atual vai para o histórico e o dia é refeito do zero
+        patch["clear_queue"] = True
+        queue = {}
+    tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
+    now = datetime.now(tz)
     for idx, slot in enumerate(settings["schedule"]["slots"], start=1):
         kind = slot["type"]
         post_id = f"{day}-{idx}-{kind}"
+        if args.clear:
+            n = 2
+            while post_id in taken:  # nunca reaproveita o ID de um post antigo
+                post_id = f"{day}-{idx}-{kind}-v{n}"
+                n += 1
         old = queue.get(post_id)
         if old and not args.force and not _replaceable(old):
             print(f"{post_id}: já existe, pulando (use --force para refazer)")
@@ -108,13 +120,20 @@ def build(args) -> dict:
         version = int((old or {}).get("media", {}).get("version", 0)) + 1  # novo ?v= evita cache
         media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
 
+        status = "approved" if auto else "pending"
+        slot_time = datetime.fromisoformat(f"{day}T{slot['time']}").replace(tzinfo=tz)
+        if auto and slot_time <= now:
+            # horário já passou: não sai sozinho (evita publicar vários de uma vez);
+            # use "Publicar agora" no painel se quiser
+            status = "pending"
+            log.append("horário já passou: aguardando você (aprovar ou Publicar agora)")
         post = {
             "id": post_id,
             "date": day,
             "slot": idx,
             "time": slot["time"],
             "type": kind,
-            "status": "approved" if auto else "pending",
+            "status": status,
             "created_at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"),
             "source": item.get("source"),
             "bank_id": item.get("id") if item.get("source") == "bank" else None,
@@ -190,6 +209,7 @@ def main(argv: list[str] | None = None) -> int:
         p = sub.add_parser(name)
         p.add_argument("--date")
         p.add_argument("--force", action="store_true")
+        p.add_argument("--clear", action="store_true", help="tira a fila atual e refaz o dia")
         p.add_argument("--no-groq", action="store_true")
         p.add_argument("--media-dir", default="media")
         p.add_argument("--out", default="patch.json")

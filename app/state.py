@@ -82,6 +82,11 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
     push para o GitHub falhar e precisarmos reaplicar sobre a versão mais nova.
     """
     posts = {p["id"]: p for p in load_queue()}
+    cleared: list[dict] = []
+    if patch.get("clear_queue"):
+        new_ids = {p["id"] for p in patch.get("posts", [])}
+        cleared = [p for pid, p in posts.items() if pid not in new_ids]
+        posts = {pid: p for pid, p in posts.items() if pid in new_ids}
     for new in patch.get("posts", []):
         old = posts.get(new["id"])
         if old:
@@ -106,6 +111,7 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
                 prev = errors.get(platform) or {}
                 errors[platform] = {"message": res["error"], "attempts": prev.get("attempts", 0) + 1}
     queue, archived = archive_old(list(posts.values()), today, keep_days)
+    archived += cleared
     save_queue(queue)
     if archived:
         history = {p["id"]: p for p in load_history()}

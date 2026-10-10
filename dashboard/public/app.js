@@ -465,9 +465,10 @@ document.querySelectorAll("nav button").forEach((b) => b.addEventListener("click
   render();
 }));
 document.getElementById("gen").addEventListener("click", async (e) => {
-  if (!confirm("Gerar os posts de hoje agora? Os que você rejeitou serão substituídos por novos.")) return;
+  const n = STATE.settings?.schedule?.slots?.length || 0;
+  if (!confirm(`Apagar os posts atuais da fila e gerar ${n} novos para hoje?\n\nOs que já foram publicados continuam no Histórico. Posts cujo horário já passou ficam aguardando você (use “Publicar agora”).`)) return;
   e.target.disabled = true;
-  try { await api("/api/generate", { method: "POST", body: {} }); toast("Gerando! Leva uns 3–5 minutos. Atualize depois."); }
+  try { await api("/api/generate", { method: "POST", body: { clear: true } }); toast("Gerando posts novos! Leva uns 4–6 minutos. Atualize depois."); }
   catch (err) { toast(err.message); }
   e.target.disabled = false;
 });

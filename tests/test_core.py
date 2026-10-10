@@ -306,6 +306,40 @@ class TikTokTests(unittest.TestCase):
         self.assertFalse(pub.supports({"media": {"images": ["a.jpg"]}}))
 
 
+class ClearQueueTests(unittest.TestCase):
+    def test_generate_now_clears_queue_keeps_history_and_new_ids(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app import generate
+        settings = {"timezone": "America/Sao_Paulo", "approval": {"auto_approve": True},
+                    "brand": {"handle": "@t"}, "groq": {"enabled": False},
+                    "schedule": {"slots": [{"time": "00:01", "type": "verse"}, {"time": "23:59", "type": "curiosity"}]},
+                    "video": {"video_types": ["quiz"]}}
+        old_pub = {"id": "2026-10-10-1-verse", "date": "2026-10-10", "slot": 1, "time": "07:00", "status": "approved",
+                   "published": {"instagram": "2026-10-10T10:00:00Z"}, "media": {"base": "x"}}
+        old_pending = {"id": "2026-10-10-2-quiz", "date": "2026-10-10", "slot": 2, "time": "09:00",
+                       "status": "pending", "published": {}, "media": {"base": "y"}}
+        fake_media = {"base": "m/", "images": ["a.jpg"], "poster": "a.jpg", "duration": 0, "version": 1}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(generate.config, "load_settings", return_value=settings), \
+                mock.patch.object(generate, "_render", return_value=fake_media):
+            state.save_queue([old_pub, old_pending])
+            args = generate.argparse.Namespace(date="2026-10-10", force=False, clear=True, no_groq=True,
+                                               media_dir=tmp, out=str(Path(tmp, "p.json")))
+            patch = generate.build(args)
+            ids = [p["id"] for p in patch["posts"]]
+            self.assertEqual(ids[0], "2026-10-10-1-verse-v2")  # não reaproveita o ID do post antigo
+            state.apply_patch(patch, date(2026, 10, 10), 30)
+            self.assertEqual(sorted(p["id"] for p in state.load_queue()), sorted(ids))
+            hist = {p["id"]: p for p in state.load_history()}
+            self.assertIn("2026-10-10-1-verse", hist)
+            self.assertEqual(hist["2026-10-10-1-verse"]["published"]["instagram"], "2026-10-10T10:00:00Z")
+            # horário já passou → não sai sozinho mesmo com aprovação automática
+            now = datetime.now(ZoneInfo("America/Sao_Paulo"))
+            if now.date().isoformat() == "2026-10-10":
+                self.assertEqual(patch["posts"][0]["status"], "pending")
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

@@ -4,7 +4,11 @@ import { GitHub, json } from "../../lib/github.js";
 export async function onRequestPost({ request, env }) {
   try {
     const body = await request.json().catch(() => ({}));
-    await new GitHub(env).dispatch({ mode: "generate", force: body.force ? "true" : "false" });
+    await new GitHub(env).dispatch({
+      mode: "generate",
+      force: body.force ? "true" : "false",
+      clear: body.clear === false ? "false" : "true",
+    });
     return json({ ok: true });
   } catch (err) {
     return json({ error: err.message }, 500);
