@@ -153,11 +153,33 @@ comentários (Instagram e Facebook) e visualizações (YouTube). O painel mostra
 média por **tipo de post** e por **horário**, além do **Top 10**, para você
 descobrir o que funciona melhor.
 
-Para ver também **alcance, salvamentos e compartilhamentos** do Instagram, gere
-o token da Meta (parte C) adicionando a permissão `instagram_manage_insights` e
-atualize o segredo `META_ACCESS_TOKEN`.
+### Liberar as métricas completas (passo a passo)
 
-Para ver as **visualizações dos Shorts**, gere o refresh token do YouTube no
-OAuth Playground com os dois escopos (separados por espaço):
-`https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly`
-e atualize o segredo `YT_REFRESH_TOKEN`.
+**A) Instagram: alcance, salvamentos e compartilhamentos** (cerca de 5 min)
+1. Abra <https://developers.facebook.com/tools/explorer> (no celular, use "Site para computador").
+2. **Meta App:** `Palavra Diaria Publicador` · **User or Page:** *Get User Access Token*.
+3. Em **Permissions**, deixe as que já usava e **adicione** `instagram_manage_insights`:
+   `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
+   `instagram_content_publish`, `business_management`, `instagram_manage_insights`
+4. **Generate Access Token** → confirme a sua Página e o seu Instagram.
+5. Copie o token → abra <https://developers.facebook.com/tools/debug/accesstoken> → cole →
+   **Debug** → **Extend Access Token** → copie o token longo.
+6. Volte ao Explorador, cole o token longo e consulte
+   `me/accounts?fields=name,access_token,instagram_business_account` → **Submit**.
+7. Copie o `access_token` da Página (no Depurador deve aparecer **Expires: Never**).
+8. GitHub → Settings → Secrets and variables → Actions → `META_ACCESS_TOKEN` → **Update** → cole → Save.
+
+**B) YouTube: visualizações dos Shorts** (cerca de 3 min)
+1. Abra <https://developers.google.com/oauthplayground>.
+2. Engrenagem ⚙ → marque **Use your own OAuth credentials** → cole o mesmo ID do cliente e a chave secreta de antes.
+3. Em *Step 1*, apague o que estiver na caixa e cole os dois escopos (com um espaço entre eles):
+   `https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly`
+   → **Authorize APIs**.
+4. Entre com a conta do **canal**. Se aparecer "app não verificado": *Avançado → Acessar*. Marque as duas permissões.
+5. *Step 2* → **Exchange authorization code for tokens** → copie o **Refresh token**.
+6. GitHub → Secrets → `YT_REFRESH_TOKEN` → **Update** → cole → Save.
+
+**C) Conferir**
+Painel → **Métricas** → **↻ Atualizar métricas** → espere cerca de 1 minuto e recarregue.
+Os avisos amarelos somem e aparecem as colunas de alcance e as visualizações.
+Os gráficos mostram o engajamento por dia e a média por horário (toque numa barra para ver o número).

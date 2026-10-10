@@ -398,6 +398,86 @@ function groupTable(title, rows, keyFn, label) {
     h("div", { style: "overflow-x:auto" }, h("table", {}, h("thead", {}, h("tr", {}, head.map((t) => h("th", {}, t)))), h("tbody", {}, body)))));
 }
 
+// gráficos simples em HTML/CSS (sem biblioteca): colunas por dia e barras por horário
+function niceMax(v) {
+  if (v <= 0) return 1;
+  const p = 10 ** Math.floor(Math.log10(v));
+  return [1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 10].map((m) => m * p).find((m) => m >= v);
+}
+function chartTip(box) {
+  const tip = h("div", { class: "ch-tip", role: "status" });
+  box.append(tip);
+  return {
+    show(el, html) {
+      tip.replaceChildren(...html);
+      tip.classList.add("on");
+      const b = box.getBoundingClientRect(), r = el.getBoundingClientRect();
+      const x = Math.min(Math.max(r.left + r.width / 2 - b.left, 70), b.width - 70);
+      tip.style.left = `${x}px`;
+      tip.style.top = `${Math.max(r.top - b.top - 8, 0)}px`;
+    },
+    hide() { tip.classList.remove("on"); },
+  };
+}
+function dailyChart(rows) {
+  const byDay = {};
+  for (const r of rows) {
+    if (!r.date) continue;
+    const d = (byDay[r.date] ||= { eng: 0, posts: 0 });
+    d.eng += engagement(r); d.posts += 1;
+  }
+  const days = Object.keys(byDay).sort().slice(-30);
+  if (!days.length) return null;
+  const max = niceMax(Math.max(...days.map((d) => byDay[d].eng)));
+  const peak = days.reduce((a, d) => (byDay[d].eng > byDay[a].eng ? d : a), days[0]);
+  const fmt = (d) => d.split("-").reverse().slice(0, 2).join("/");
+  const plot = h("div", { class: "ch-plot" });
+  const box = h("div", { class: "ch-box cols" },
+    h("div", { class: "ch-grid" }, [1, 0.5, 0].map((f) =>
+      h("div", { class: "ch-line", style: `bottom:${f * 100}%` }, h("span", {}, Math.round(max * f))))),
+    plot);
+  const tip = chartTip(box);
+  for (const d of days) {
+    const { eng, posts } = byDay[d];
+    const col = h("div", { class: "ch-col", tabindex: "0", "aria-label": `${fmt(d)}: engajamento ${eng}, ${posts} posts` },
+      h("div", { class: "ch-bar", style: `height:${(eng / max) * 100}%` },
+        d === peak && eng > 0 ? h("span", { class: "ch-val" }, eng) : null));
+    const show = () => tip.show(col, [h("b", {}, fmt(d)), h("div", {}, `Engajamento: ${eng}`), h("div", { class: "muted" }, `${posts} post(s)`)]);
+    col.addEventListener("pointerenter", show);
+    col.addEventListener("focus", show);
+    col.addEventListener("pointerleave", tip.hide);
+    col.addEventListener("blur", tip.hide);
+    plot.append(col);
+  }
+  const mid = days[Math.floor(days.length / 2)];
+  const axis = h("div", { class: "ch-axis" }, h("span", {}, fmt(days[0])),
+    days.length > 2 ? h("span", {}, fmt(mid)) : null, days.length > 1 ? h("span", {}, fmt(days.at(-1))) : null);
+  return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Engajamento por dia"), box, axis));
+}
+function hourChart(rows) {
+  const groups = {};
+  for (const r of rows) if (r.time) (groups[r.time] ||= []).push(r);
+  const items = Object.keys(groups).sort().map((t) => ({ t, v: avg(groups[t], engagement), n: groups[t].length }));
+  if (!items.length) return null;
+  const max = niceMax(Math.max(...items.map((i) => (typeof i.v === "number" ? i.v : 0))));
+  const list = h("div", { class: "ch-hbars" });
+  const box = h("div", { class: "ch-box" }, list);
+  const tip = chartTip(box);
+  for (const { t, v, n } of items) {
+    const val = typeof v === "number" ? v : 0;
+    const track = h("div", { class: "ch-track" }, h("div", { class: "ch-hbar", style: `width:${(val / max) * 100}%` }));
+    const row = h("div", { class: "ch-hrow", tabindex: "0", "aria-label": `${t}: engajamento médio ${val}, ${n} posts` },
+      h("span", { class: "ch-hlab" }, t), track, h("span", { class: "ch-hval" }, val));
+    const show = () => tip.show(track, [h("b", {}, t), h("div", {}, `Engajamento médio: ${val}`), h("div", { class: "muted" }, `${n} post(s)`)]);
+    row.addEventListener("pointerenter", show);
+    row.addEventListener("focus", show);
+    row.addEventListener("pointerleave", tip.hide);
+    row.addEventListener("blur", tip.hide);
+    list.append(row);
+  }
+  return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Engajamento médio por horário"), box));
+}
+
 async function renderMetrics(main) {
   const refresh = h("button", { class: "btn small", onclick: async () => {
     try { await api("/api/metrics", { method: "POST", body: {} }); toast("Atualizando métricas… (~1 min, depois recarregue)"); }
@@ -414,6 +494,7 @@ async function renderMetrics(main) {
   const when = data.updated_at ? new Date(data.updated_at).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "";
   main.append(h("p", { class: "muted" }, `${rows.length} posts dos últimos 60 dias · atualizado em ${when}. Engajamento = curtidas + 2×comentários + 3×salvamentos/compartilhamentos.`));
   for (const n of data.notes || []) main.append(h("div", { class: "alert warn" }, n));
+  main.append(dailyChart(rows) || "", hourChart(rows) || "");
   main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => TYPE_NAME[k] || k));
   main.append(groupTable("Por horário", rows, (r) => r.time, (k) => k));
   const top = [...rows].sort((a, b) => engagement(b) - engagement(a)).slice(0, 10);
