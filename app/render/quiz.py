@@ -21,6 +21,10 @@ LAYOUTS = {
     (1080, 1350): dict(label_y=110, label_size=30, card_top=170, card_x=(90, 990), q_size=(56, 36),
                        q_max_h=300, opt_h=104, opt_gap=20, opt_size=(42, 28), gap=36, wm_y=1270,
                        wm_size=30),
+    # 16:9 (vídeo longo do YouTube): pergunta no topo e alternativas em grade 2x2
+    (1280, 720): dict(label_y=40, label_size=26, card_top=76, card_x=(70, 1210), q_size=(44, 30),
+                      q_max_h=170, opt_h=96, opt_gap=18, opt_size=(30, 22), gap=26, wm_y=684,
+                      wm_size=24),
     (1080, 1080): dict(label_y=80, label_size=26, card_top=125, card_x=(90, 990), q_size=(48, 32),
                        q_max_h=220, opt_h=86, opt_gap=16, opt_size=(36, 26), gap=26, wm_y=1030,
                        wm_size=28),
@@ -41,6 +45,14 @@ def _geometry(size, item: dict) -> dict:
     card = (x0, L["card_top"], x1, L["card_top"] + len(lines) * lh + 2 * pad)
     opts = []
     y = card[3] + L["gap"]
+    if size[0] > size[1]:  # horizontal: 2 colunas x 2 linhas
+        col_w = (x1 - x0 - L["opt_gap"]) // 2
+        for i in range(4):
+            cx0 = x0 + (i % 2) * (col_w + L["opt_gap"])
+            cy0 = y + (i // 2) * (L["opt_h"] + L["opt_gap"])
+            opts.append((cx0, cy0, cx0 + col_w, cy0 + L["opt_h"]))
+        return {"card": card, "q": (fnt, lines, lh, pad), "opts": opts,
+                "end": y + 2 * L["opt_h"] + L["opt_gap"]}
     for _ in range(4):
         opts.append((x0, y, x1, y + L["opt_h"]))
         y += L["opt_h"] + L["opt_gap"]

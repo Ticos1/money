@@ -420,6 +420,99 @@ class MetricsTests(unittest.TestCase):
         self.assertTrue(any("instagram_manage_insights" in n for n in data["notes"]))
 
 
+class CompilationTests(unittest.TestCase):
+    """Vídeo longo de quiz (YouTube): escolha das perguntas, regras de publicação e legendas."""
+
+    def test_pick_fills_about_ten_minutes_without_repeating_questions(self):
+        from app import compilation
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_queue([])
+            items, updates = compilation.pick_quizzes(TODAY, state.load_used(), random.Random(1), 600, [])
+            total = sum(compilation.clip_timeline(i)["total"] for i in items) + 16
+            self.assertTrue(570 <= total <= 620, total)
+            keys = [i["ref_key"] for i in items]
+            self.assertEqual(len(keys), len(set(keys)))
+            self.assertEqual(set(updates["compilation"]), set(keys))
+            # o que vem do banco passa a contar como usado (os posts diários não repetem)
+            self.assertTrue(set(updates["quiz"]) <= {i["id"] for i in items})
+
+    def test_recent_posted_quizzes_come_first_and_old_compilation_questions_are_skipped(self):
+        from app import compilation
+        raw = validate.load_bank("quiz")[0]
+        post = {"id": "2026-10-08-2-quiz", "date": "2026-10-08", "slot": 2, "type": "quiz", "status": "approved",
+                "content": {k: raw[k] for k in ("question", "options", "answer", "ref", "evidence", "difficulty")}}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_queue([post])
+            items, _ = compilation.pick_quizzes(TODAY, state.load_used(), random.Random(2), 600, [])
+            self.assertIn("recent", {i["source"] for i in items})
+            key = validate.validate("quiz", dict(raw))["ref_key"]
+            used = {**state.load_used(), "compilation": {key: "2026-10-01"}}
+            items, _ = compilation.pick_quizzes(TODAY, used, random.Random(2), 600, [])
+            self.assertNotIn(key, [i["ref_key"] for i in items])
+
+    def test_only_youtube_gets_the_long_video(self):
+        from app import publish
+        post = {"id": "c", "type": "compilation", "media": {"video_music": "video_longo.mp4", "images": []}}
+        self.assertTrue(publish.applies("youtube", post))
+        for net in ("instagram", "facebook", "stories", "tiktok"):
+            self.assertFalse(publish.applies(net, post), net)
+        cfg = {"instagram": True, "facebook": True, "stories": True, "youtube": True}
+        self.assertEqual(publish.completed_posts([{**post, "published": {}}], cfg, {"c": {"youtube": {"at": "t"}}}), ["c"])
+
+    def test_youtube_upload_returns_watch_link_and_sets_thumbnail(self):
+        from app.publishers import youtube
+        with tempfile.TemporaryDirectory() as tmp:
+            media = Path(tmp)
+            (media / "video_longo.mp4").write_bytes(b"x")
+            (media / "miniatura.jpg").write_bytes(b"y")
+            pub = youtube.YouTubePublisher.__new__(youtube.YouTubePublisher)
+            pub.token = "T"
+            calls = []
+
+            def fake_post(url, **kw):
+                calls.append(("POST", url, kw.get("json"), kw.get("params")))
+                return mock.Mock(status_code=200, headers={"Location": "https://up/1"}, text="")
+
+            with mock.patch.object(youtube.requests, "post", side_effect=fake_post), \
+                    mock.patch.object(youtube.requests, "put", return_value=mock.Mock(status_code=200, json=lambda: {"id": "VID1"})):
+                post = {"type": "compilation", "captions": {"youtube": {"title": "T", "description": "D"}},
+                        "media": {"video_music": "video_longo.mp4", "thumbnail": "miniatura.jpg"}}
+                self.assertEqual(pub.publish(post, media, None), "https://youtu.be/VID1")
+            self.assertEqual(calls[0][2]["snippet"]["categoryId"], "27")
+            self.assertNotIn("#shorts", calls[0][2]["snippet"]["title"])
+            self.assertEqual(calls[1][3], {"videoId": "VID1"})
+
+    def test_captions_have_valid_youtube_chapters(self):
+        from app import compilation
+        chapters = [(0.0, "Introdução")] + [(7 + 14 * i, f"Pergunta {i + 1}") for i in range(40)]
+        yt = compilation.youtube_captions(40, 10, chapters, "@teste")
+        self.assertLessEqual(len(yt["title"]), 100)
+        lines = [ln for ln in yt["description"].splitlines() if ln[:1].isdigit()]
+        self.assertTrue(lines[0].startswith("0:00 "))
+        self.assertIn("0:07 Pergunta 1", lines)
+        self.assertIn("9:13 Pergunta 40", lines)
+        self.assertIn("domínio público", yt["description"])
+
+    def test_metrics_understands_long_video_links(self):
+        from app.metrics import YT_ID
+        for link, vid in (("https://youtu.be/ABC_-1", "ABC_-1"), ("https://youtube.com/shorts/XYZ", "XYZ"),
+                          ("https://www.youtube.com/watch?v=Q9", "Q9")):
+            self.assertEqual(YT_ID.search(link).group(1), vid)
+
+    def test_generate_skips_compilation_when_not_the_configured_weekday(self):
+        from app import generate
+        settings = {**SETTINGS, "schedule": {"slots": [{"time": "07:00", "type": "verse"}]},
+                    "compilation": {"enabled": True, "weekday": 6}}
+        patch = {"used": {}}
+        # 2026-10-09 é sexta; o vídeo longo está configurado para domingo
+        self.assertIsNone(generate._compilation_post(settings, TODAY, {}, Path("x"), {}, set(), False, patch, 2))
+        # falha ao montar nunca derruba a geração diária
+        sunday = date(2026, 10, 11)
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(generate.compilation, "build_post", side_effect=RuntimeError("ffmpeg")):
+            self.assertIsNone(generate._compilation_post(settings, sunday, {}, Path(tmp), {}, set(), False, patch, 2))
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

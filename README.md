@@ -18,7 +18,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **4 imagens** — 2 Versículos + 2 "Você sabia?" — e **3 Reels** de quiz; até 8, configurável no painel).
 2. Escolhe o conteúdo:
-   - **banco próprio** (95 versículos com reflexão, 95 perguntas de quiz e 102 curiosidades, ou seja, mais de 3 meses);
+   - **banco próprio** (188 versículos com reflexão, 297 perguntas de quiz e 186 curiosidades, ou seja, vários meses);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
 3. **Confere toda referência bíblica** contra a Bíblia salva no projeto. Se o livro, capítulo ou versículo não existir, ou se a resposta do quiz não estiver no texto, **descarta**.
 4. Monta o **vídeo** com texto animado em **duas versões**:
@@ -29,6 +29,8 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 7. Coloca tudo no **painel** (fila), aguardando sua aprovação.
 
 Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamente**. O post do dia nunca deixa de sair.
+
+**Toda semana** (domingo, 18:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
 
 ## Exemplos
 
@@ -123,7 +125,8 @@ app/                  código Python
   captions.py         legendas e hashtags por rede
   music.py            biblioteca de músicas e sugestões gospel
   render/             artes e vídeos (verse.py, quiz.py, design.py, video.py)
-  generate.py         comando principal (gerar / re-renderizar / aplicar)
+  generate.py         comando principal (gerar / re-renderizar / aplicar / vídeo longo)
+  compilation.py      vídeo longo de quiz (16:9, ~10 min) para o YouTube
   publishers/         (fases 2–4) postagem automática
 content/bank/         banco: verses.json, quizzes.json, curiosities.json
 content/              hashtags.json, gospel_suggestions.json
@@ -142,6 +145,7 @@ pip install -r requirements.txt          # precisa também do ffmpeg instalado
 python -m app.validate                   # confere o banco inteiro contra a Bíblia
 python -m unittest -v                    # testes
 python -m app.generate run --no-groq     # gera os posts de hoje em ./media
+python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)
 python scripts/make_music.py             # recria as faixas instrumentais
 ```
 

@@ -30,6 +30,9 @@ IG_INSIGHTS = {
 }
 
 
+YT_ID = re.compile(r"(?:shorts/|youtu\.be/|watch\?v=)([\w-]+)")
+
+
 def _title(post: dict) -> str:
     c = post.get("content", {})
     return c.get("title") or c.get("question") or c.get("ref_label") or post["id"]
@@ -124,7 +127,7 @@ def collect(today: date) -> dict:
             notes.append(f"Meta: {str(exc)[:160]}")
     yt_ids = {}
     for p in posts:
-        m = re.search(r"shorts/([\w-]+)", p["publish_links"].get("youtube", "") or "")
+        m = YT_ID.search(p["publish_links"].get("youtube", "") or "")
         if m:
             yt_ids[m.group(1)] = p["id"]
     yt = collect_youtube(list(yt_ids), notes)
@@ -140,7 +143,7 @@ def collect(today: date) -> dict:
         fb_id = fb_link.rstrip("/").split("/")[-1]
         if fb_id:
             row["facebook"] = fb.get(fb_id) or fb.get(fb_id.split("_")[-1])
-        m = re.search(r"shorts/([\w-]+)", links.get("youtube", "") or "")
+        m = YT_ID.search(links.get("youtube", "") or "")
         if m:
             row["youtube"] = yt.get(m.group(1))
         out[p["id"]] = row

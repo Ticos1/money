@@ -39,18 +39,18 @@ def _run(cmd: list[str]) -> None:
 
 
 def compose(background: Image.Image, layers: list[Layer], duration: float, out: Path,
-            work: Path) -> None:
+            work: Path, fps: int = FPS, crf: int = 21, maxrate: str | None = None) -> None:
     """Gera o vídeo SEM música (com trilha de áudio silenciosa, para compatibilidade)."""
     work.mkdir(parents=True, exist_ok=True)
     bg_path = work / "bg.png"
     background.convert("RGB").save(bg_path)
     dur = f"{duration:.2f}"
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(FPS), "-t", dur,
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(fps), "-t", dur,
            "-i", str(bg_path)]
     for i, lyr in enumerate(layers):
         path = work / f"layer{i:02d}.png"
         lyr.image.save(path)
-        cmd += ["-loop", "1", "-framerate", str(FPS), "-t", dur, "-i", str(path)]
+        cmd += ["-loop", "1", "-framerate", str(fps), "-t", dur, "-i", str(path)]
     cmd += ["-f", "lavfi", "-t", dur, "-i", "anullsrc=r=44100:cl=stereo"]
 
     chains = ["[0:v]format=rgba,setsar=1[b0]"]
@@ -68,8 +68,9 @@ def compose(background: Image.Image, layers: list[Layer], duration: float, out: 
         )
     chains.append(f"[b{len(layers)}]format=yuv420p[v]")
     audio_idx = len(layers) + 1
+    rate = ["-maxrate", maxrate, "-bufsize", f"{int(maxrate.rstrip('k')) * 2}k"] if maxrate else []
     cmd += ["-filter_complex", ";".join(chains), "-map", "[v]", "-map", f"{audio_idx}:a",
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-r", str(FPS),
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", str(crf), *rate, "-r", str(fps),
             "-pix_fmt", "yuv420p", "-profile:v", "high", "-c:a", "aac", "-b:a", "96k",
             "-t", dur, "-movflags", "+faststart", str(out)]
     _run(cmd)

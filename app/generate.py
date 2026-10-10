@@ -5,6 +5,7 @@ Comandos:
   python -m app.generate build --out p.json  # gera mídias + "patch" (usado no GitHub Actions)
   python -m app.generate apply p.json        # aplica o patch em state/
   python -m app.generate rerender --post-id ID --out p.json
+  python -m app.generate compilation --out p.json    # vídeo longo de quiz (YouTube)
   python -m app.generate prune-media --media-dir media
 
 Opções úteis: --date 2026-10-09  --force (refaz posts do dia)  --no-groq
@@ -22,7 +23,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import captions, config, content, music, state, validate
+from . import captions, compilation, config, content, music, state, validate
 from .groq_client import GroqClient
 from .render import curiosity as curiosity_render
 from .render import quiz as quiz_render
@@ -153,7 +154,59 @@ def build(args) -> dict:
         print(f"{post_id}: ok ({item.get('source')}, legenda {caption_source}, {media['duration']}s)")
         for line in log:
             print(f"   · {line}")
+    post = _compilation_post(settings, today, used, media_root, queue, taken, args.force or args.clear,
+                             patch, len(settings["schedule"]["slots"]) + 1)
+    if post:
+        patch["posts"].append(post)
     patch["groq_usage"] = groq.usage
+    return patch
+
+
+def _compilation_post(settings: dict, today: date, used: dict, media_root: Path, queue: dict,
+                      taken: set, redo: bool, patch: dict, slot: int, manual: bool = False) -> dict | None:
+    """Vídeo longo de quiz (YouTube): uma vez por semana, no dia configurado. Se falhar, os
+    posts do dia seguem normalmente."""
+    comp = settings.get("compilation", {})
+    if not manual and not (comp.get("enabled") and today.weekday() == int(comp.get("weekday", 6))):
+        return None
+    day = today.isoformat()
+    post_id = f"{day}-{slot}-{compilation.KIND}"
+    if manual:
+        n = 2
+        base = post_id
+        while post_id in taken:
+            post_id = f"{base}-v{n}"
+            n += 1
+    elif post_id in {p["id"] for p in state.load_history()} or (post_id in queue and not redo):
+        print(f"{post_id}: já existe, pulando")
+        return None
+    log: list[str] = []
+    try:
+        post, updates = compilation.build_post(today, settings, used, media_root, post_id, slot, log)
+    except Exception as exc:  # noqa: BLE001 - nunca derruba a geração diária
+        print(f"{post_id}: vídeo longo NÃO gerado: {exc}")
+        return None
+    for section, values in updates.items():
+        used.setdefault(section, {}).update(values)
+        patch["used"].setdefault(section, {}).update(values)
+    print(f"{post_id}: ok ({post['content']['count']} perguntas, {post['media']['duration']}s)")
+    for line in log:
+        print(f"   · {line}")
+    return post
+
+
+def build_compilation(args) -> dict:
+    """Gera só o vídeo longo (botão do painel ou mode=compilation)."""
+    settings = config.load_settings()
+    today = _today(settings, args.date)
+    used = state.load_used()
+    taken = {p["id"] for p in state.load_queue()} | {p["id"] for p in state.load_history()}
+    patch = {"mode": "generate", "date": today.isoformat(), "posts": [], "used": {}}
+    post = _compilation_post(settings, today, used, Path(args.media_dir), {}, taken, True, patch,
+                             len(settings["schedule"]["slots"]) + 1, manual=True)
+    if not post:
+        raise SystemExit("Não foi possível gerar o vídeo longo (veja o log acima).")
+    patch["posts"].append(post)
     return patch
 
 
@@ -225,6 +278,10 @@ def main(argv: list[str] | None = None) -> int:
         p.add_argument("--no-groq", action="store_true")
         p.add_argument("--media-dir", default="media")
         p.add_argument("--out", default="patch.json")
+    p = sub.add_parser("compilation", help="gera só o vídeo longo de quiz (YouTube)")
+    p.add_argument("--date")
+    p.add_argument("--media-dir", default="media")
+    p.add_argument("--out", default="patch.json")
     p = sub.add_parser("rerender")
     p.add_argument("--post-id", required=True)
     p.add_argument("--media-dir", default="media")
@@ -241,8 +298,8 @@ def main(argv: list[str] | None = None) -> int:
     keep = int(settings.get("media_retention_days", 30))
     # a fila do painel mostra só os posts de hoje; dias anteriores vão para o Histórico
     queue_keep = int(settings.get("queue_keep_days", 0))
-    if args.cmd in ("run", "build", "rerender"):
-        patch = build(args) if args.cmd != "rerender" else rerender(args)
+    if args.cmd in ("run", "build", "rerender", "compilation"):
+        patch = {"run": build, "build": build, "rerender": rerender, "compilation": build_compilation}[args.cmd](args)
         Path(args.out).write_text(json.dumps(patch, ensure_ascii=False, indent=1), encoding="utf-8")
         if args.cmd == "run":
             state.apply_patch(patch, _today(settings, args.date), queue_keep)

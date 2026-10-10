@@ -56,6 +56,8 @@ def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
 def applies(platform: str, post: dict) -> bool:
     """A rede aceita este tipo de post? (YouTube/TikTok só vídeo.)"""
     media = post.get("media", {})
+    if post.get("type") == "compilation":  # vídeo longo 16:9: só YouTube
+        return platform == "youtube" and bool(media.get("video_music"))
     if platform == "youtube":
         return bool(media.get("video_music"))
     if platform == "tiktok":

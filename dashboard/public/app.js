@@ -8,6 +8,9 @@ const PLATFORMS = [
 // redes de publicação (as legendas usam PLATFORMS; Stories não tem legenda)
 const NETS = [...PLATFORMS, ["stories", "Stories IG"]];
 const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz (Reels)", curiosity: "Você sabia?" };
+const LONG_NAME = "Vídeo longo de quiz (YouTube)";
+const WEEKDAYS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
+const typeName = (t) => (t === "compilation" ? LONG_NAME : TYPE_NAME[t] || t);
 const STATUS_NAME = { pending: "Aguardando aprovação", approved: "Aprovado", rejected: "Rejeitado" };
 const IMG_NAME = {
   "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5", "imagem_story.jpg": "Imagem 9:16",
@@ -73,6 +76,7 @@ function fmtDate(post) {
 }
 
 function titleOf(post) {
+  if (post.type === "compilation") return post.content.title;
   if (post.type === "verse") return post.content.ref_label;
   if (post.type === "curiosity") return post.content.title;
   return post.content.question;
@@ -102,16 +106,35 @@ function captionBox(post) {
   };
   for (const [k, name] of PLATFORMS) {
     if (k === "youtube" && !post.media?.video_music) continue; // Shorts precisa de vídeo
+    if (post.type === "compilation" && k !== "youtube") continue; // vídeo longo: só YouTube
     tabs.append(h("button", { "data-k": k, onclick: () => show(k) }, name));
   }
   box.append(tabs, body);
-  show("instagram");
+  show(post.type === "compilation" ? "youtube" : "instagram");
   return box;
+}
+
+function longVideoSection(post) {
+  const m = post.media, c = post.content;
+  const video = h("video", { class: "preview wide", controls: true, playsinline: true, preload: "none",
+    poster: mediaUrl(post, m.poster), src: mediaUrl(post, m.video_music) });
+  const mins = Math.floor((m.duration || 0) / 60), secs = Math.round((m.duration || 0) % 60);
+  const dl = (file, label) => h("a", { class: "btn small", href: mediaUrl(post, file), download: `${post.id}-${file}` }, `⬇ ${label}`);
+  const list = h("details", {}, h("summary", {}, `Ver as ${c.count} perguntas`),
+    h("ol", { class: "songs" }, (c.questions || []).map((q) => h("li", {}, h("span", {}, q.question, " ", h("span", { class: "muted" }, `(${q.ref_label})`))))));
+  return h("div", { class: "media" },
+    h("div", {}, video),
+    h("div", {},
+      h("h3", {}, "Vídeo longo de quiz"),
+      h("p", { class: "muted" }, `${c.count} perguntas · ${mins}min${String(secs).padStart(2, "0")}s · 16:9 · sai só no YouTube (não é Short), com miniatura e capítulos.`),
+      h("div", { class: "row" }, dl(m.video_music, "Vídeo"), dl(m.thumbnail || m.poster, "Miniatura")),
+      list));
 }
 
 function mediaSection(post) {
   if (!post.media || !post.media.base) return h("p", { class: "muted" }, "Sem mídia (post antigo).");
   const m = post.media;
+  if (post.type === "compilation") return longVideoSection(post);
   if (!m.video_music) return imageSection(post);
   const video = h("video", {
     class: "preview", controls: true, playsinline: true, preload: "none",
@@ -165,6 +188,7 @@ function musicSection(post) {
 function publishedSection(post) {
   const grid = h("div", { class: "pub" });
   for (const [k, name] of NETS) {
+    if (post.type === "compilation" && k !== "youtube") continue;
     const when = post.published?.[k];
     const input = h("input", { type: "checkbox", checked: !!when });
     input.addEventListener("change", async () => {
@@ -188,7 +212,29 @@ function publishedSection(post) {
   return grid;
 }
 
+function editLongForm(post, card) {
+  const f = h("form", { class: "stack" });
+  const title = h("input", { type: "text", maxlength: 100, value: post.captions.youtube.title });
+  const desc = h("textarea", { style: "min-height:240px" }, post.captions.youtube.description);
+  const save = h("button", { class: "btn primary" }, "Salvar");
+  f.append(h("label", {}, "YouTube: título", title), h("label", {}, "YouTube: descrição (mantenha os capítulos 0:00, 0:07...)", desc),
+    h("div", { class: "row" }, save, h("button", { class: "btn", type: "button", onclick: () => render() }, "Cancelar")));
+  f.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    save.disabled = true;
+    try {
+      const r = await api(`/api/posts/${encodeURIComponent(post.id)}`, { method: "POST",
+        body: { action: "edit", captions: { youtube: { title: title.value, description: desc.value } } } });
+      Object.assign(post, r.post);
+      toast("Salvo!");
+      render();
+    } catch (err) { toast(err.message); save.disabled = false; }
+  });
+  card.replaceChildren(h("div", { class: "sec" }, h("h3", {}, `Editar · ${fmtDate(post)}`), f));
+}
+
 function editForm(post, card) {
+  if (post.type === "compilation") return editLongForm(post, card);
   const f = h("form", { class: "stack" });
   const fields = {};
   if (post.type === "verse") {
@@ -253,6 +299,7 @@ function editForm(post, card) {
 // Redes ligadas em Configurações onde este post ainda não saiu.
 function pendingNets(post) {
   const on = Object.entries(STATE.settings?.publishing || {}).filter(([, v]) => v === true).map(([k]) => k)
+    .filter((k) => post.type !== "compilation" || k === "youtube")
     .filter((k) => k !== "tiktok" || post.media?.video_silent);
   return on.filter((k) => !post.published?.[k] && (k !== "youtube" || post.media?.video_music)
     && (k !== "stories" || post.media?.video_music || post.media?.images?.includes("imagem_story.jpg")));
@@ -311,7 +358,7 @@ function postCard(post) {
   const card = h("article", { class: "card" });
   const head = h("div", { class: "card-h" },
     h("span", { class: "when" }, fmtDate(post)),
-    h("span", { class: "chip" }, TYPE_NAME[post.type] || post.type),
+    h("span", { class: "chip" }, typeName(post.type)),
     h("span", { class: `chip ${post.status}` }, STATUS_NAME[post.status] || post.status));
   const alerts = [];
   if (post.error) alerts.push(h("div", { class: "alert bad" }, post.error));
@@ -323,13 +370,15 @@ function postCard(post) {
     pendingNets(post).length > 0 && h("button", { class: "btn primary", onclick: () => publishNow(post) },
       post.publishing_now && Date.now() - Date.parse(post.publishing_now) < 5 * 60e3 ? "⏳ Publicando…" : "🚀 Publicar agora"),
     h("button", { class: "btn", onclick: () => editForm(post, card) }, "✎ Editar"));
-  const origin = post.source === "groq" ? `gerado pela IA (${post.model})` : `banco (${post.bank_id})`;
+  const long = post.type === "compilation";
+  const origin = long ? `${post.content.count} perguntas do banco e dos últimos posts`
+    : post.source === "groq" ? `gerado pela IA (${post.model})` : `banco (${post.bank_id})`;
   card.append(head,
     h("div", { class: "sec" }, alerts, h("p", { style: "margin:0 0 4px;font-weight:600" }, titleOf(post)),
-      h("p", { class: "muted", style: "margin:0 0 10px" }, `Conteúdo: ${origin} · legenda: ${post.caption_source === "groq" ? "IA" : "modelo"}`), actions),
+      h("p", { class: "muted", style: "margin:0 0 10px" }, long ? `Conteúdo: ${origin}` : `Conteúdo: ${origin} · legenda: ${post.caption_source === "groq" ? "IA" : "modelo"}`), actions),
     h("div", { class: "sec" }, mediaSection(post)),
-    h("div", { class: "sec" }, h("h3", {}, "Legendas por rede"), captionBox(post)),
-    h("div", { class: "sec" }, h("h3", {}, "Música"), musicSection(post)),
+    h("div", { class: "sec" }, h("h3", {}, long ? "Título e descrição (YouTube)" : "Legendas por rede"), captionBox(post)),
+    ...(long ? [] : [h("div", { class: "sec" }, h("h3", {}, "Música"), musicSection(post))]),
     h("div", { class: "sec" }, h("h3", {}, "Onde já publiquei"), publishedSection(post)));
   return card;
 }
@@ -361,7 +410,7 @@ async function renderHistory(main) {
   if (!all.length) tbody.append(h("tr", {}, h("td", { colspan: 7, class: "muted" }, "Nada publicado ainda. Marque as redes em cada post da fila.")));
   for (const p of all) {
     tbody.append(h("tr", {}, h("td", { class: "p" }, p.date.split("-").reverse().join("/")),
-      h("td", {}, h("div", {}, titleOf(p)), h("div", { class: "muted" }, TYPE_NAME[p.type])),
+      h("td", {}, h("div", {}, titleOf(p)), h("div", { class: "muted" }, typeName(p.type))),
       ...NETS.map(([k]) => {
         const link = p.publish_links?.[k];
         const mark = p.published?.[k]
@@ -495,13 +544,13 @@ async function renderMetrics(main) {
   main.append(h("p", { class: "muted" }, `${rows.length} posts dos últimos 60 dias · atualizado em ${when}. Engajamento = curtidas + 2×comentários + 3×salvamentos/compartilhamentos.`));
   for (const n of data.notes || []) main.append(h("div", { class: "alert warn" }, n));
   main.append(dailyChart(rows) || "", hourChart(rows) || "");
-  main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => TYPE_NAME[k] || k));
+  main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => typeName(k)));
   main.append(groupTable("Por horário", rows, (r) => r.time, (k) => k));
   const top = [...rows].sort((a, b) => engagement(b) - engagement(a)).slice(0, 10);
   main.append(h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Top 10 posts"),
     h("table", {}, h("tbody", {}, top.map((r) => h("tr", {},
       h("td", {}, h("b", {}, engagement(r))),
-      h("td", {}, h("div", {}, r.title), h("div", { class: "muted" }, `${TYPE_NAME[r.type] || r.type} · ${r.date?.split("-").reverse().join("/")} ${r.time}`)),
+      h("td", {}, h("div", {}, r.title), h("div", { class: "muted" }, `${typeName(r.type)} · ${r.date?.split("-").reverse().join("/")} ${r.time}`)),
       h("td", { class: "p" }, Object.entries(r.links || {}).map(([k, u]) => h("a", { href: u, target: "_blank", rel: "noopener", style: "margin-right:6px" }, k.slice(0, 2).toUpperCase()))))))))));
 }
 
@@ -532,6 +581,18 @@ function renderConfig(main) {
   const auto = h("input", { type: "checkbox", checked: !!s.approval?.auto_approve });
   const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube", "stories", "tiktok"].map((k) =>
     [k, h("input", { type: "checkbox", checked: !!s.publishing?.[k] })]));
+  const comp = s.compilation || {};
+  const compOn = h("input", { type: "checkbox", checked: comp.enabled !== false && !!s.compilation });
+  const compDay = h("select", {}, WEEKDAYS.map((n, i) => h("option", { value: i, selected: i === (comp.weekday ?? 6) }, n)));
+  const compTime = h("input", { type: "time", value: comp.time || "18:00" });
+  const compMin = h("input", { type: "number", min: 3, max: 20, value: comp.minutes ?? 10 });
+  const compNow = h("button", { type: "button", class: "btn small", onclick: async () => {
+    if (!confirm("Gerar agora um vídeo longo de quiz?\n\nLeva uns 12 a 20 minutos. Ele aparece na Fila quando ficar pronto.")) return;
+    compNow.disabled = true;
+    try { await api("/api/generate", { method: "POST", body: { compilation: true } }); toast("Gerando o vídeo longo! Leva uns 12 a 20 minutos. Depois atualize a Fila."); }
+    catch (err) { toast(err.message); }
+    compNow.disabled = false;
+  } }, "Gerar vídeo longo agora");
   const groqOn = h("input", { type: "checkbox", checked: s.groq?.enabled !== false });
   const model = h("input", { type: "text", value: s.groq?.model || "" });
   const calls = h("input", { type: "number", min: 0, max: 50, value: s.groq?.max_calls_per_day ?? 6 });
@@ -556,6 +617,11 @@ function renderConfig(main) {
         : h("span", { class: "muted" }, "TikTok não conectado."),
       h("a", { class: "btn small", href: "/api/tiktok/connect" }, STATE.tiktok?.connected ? "Reconectar TikTok" : "Conectar TikTok")),
     h("p", { class: "muted" }, "Kwai continua manual. Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md e docs/TIKTOK.md)."),
+    h("h3", {}, "Vídeo longo de quiz (YouTube)"),
+    h("label", { class: "check" }, compOn, "Gerar toda semana um vídeo de ~10 min com várias perguntas (sai só no YouTube)"),
+    h("div", { class: "row" }, h("label", {}, "Dia", compDay), h("label", {}, "Horário", compTime), h("label", {}, "Minutos", compMin)),
+    h("div", { class: "row" }, compNow),
+    h("p", { class: "muted" }, "Usa os quizzes dos últimos dias e completa com perguntas novas do banco. A geração leva uns 12 a 20 minutos."),
     h("h3", {}, "Inteligência artificial (Groq)"),
     h("label", { class: "check" }, groqOn, "Usar a Groq para conteúdo novo e variações de legenda"),
     h("label", {}, "Modelo", model),
@@ -576,6 +642,7 @@ function renderConfig(main) {
         auto_approve: auto.checked, groq_enabled: groqOn.checked, model: model.value.trim(),
         publishing: Object.fromEntries(Object.entries(pubBoxes).map(([k, b]) => [k, b.checked])),
         max_calls_per_day: Number(calls.value), new_content_ratio: Number(ratio.value),
+        compilation: { enabled: compOn.checked, weekday: Number(compDay.value), time: compTime.value, minutes: Number(compMin.value) },
       } });
       STATE.settings = r.settings;
       toast("Configurações salvas! Valem a partir da próxima geração.");

@@ -41,6 +41,7 @@ main { max-width: 760px; margin: 0 auto; padding: 16px; }
 .media { display: grid; grid-template-columns: minmax(0, 220px) 1fr; gap: 14px; }
 @media (max-width: 560px) { .media { grid-template-columns: 1fr; } video.preview { max-height: 70vh; margin: 0 auto; } }
 video.preview { width: 100%; aspect-ratio: 9/16; background: #000; border-radius: 12px; display: block; }
+video.preview.wide { aspect-ratio: 16/9; max-height: none; }
 .thumbs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
 .thumbs a img { height: 78px; border-radius: 8px; display: block; border: 1px solid var(--line); }
 .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }

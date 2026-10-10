@@ -183,3 +183,28 @@ descobrir o que funciona melhor.
 Painel → **Métricas** → **↻ Atualizar métricas** → espere cerca de 1 minuto e recarregue.
 Os avisos amarelos somem e aparecem as colunas de alcance e as visualizações.
 Os gráficos mostram o engajamento por dia e a média por horário (toque numa barra para ver o número).
+
+---
+
+## Vídeo longo de quiz no YouTube (~10 minutos)
+
+Toda semana o sistema monta sozinho **um vídeo horizontal (16:9) com cerca de 40 perguntas do
+quiz**, com música de fundo, contagem regressiva e a resposta de cada pergunta. Ele sai **só no
+YouTube**, como vídeo normal (não é Short), com **miniatura** e **capítulos** na descrição
+(0:00 Introdução, 0:07 Pergunta 1, ...). Vídeos longos costumam dar mais tempo de exibição, que é o
+que o YouTube mais valoriza.
+
+- **Quando:** domingo às 18:00 (muda em Configurações → *Vídeo longo de quiz*: dia, horário e minutos).
+- **De onde vêm as perguntas:** primeiro os quizzes dos últimos 14 dias; o que faltar vem do banco.
+  Uma pergunta não volta a um vídeo longo por 90 dias.
+- **Onde aparece:** na aba **Fila**, como "Vídeo longo de quiz (YouTube)". Com *Aprovar
+  automaticamente* ligado, ele é publicado sozinho no horário.
+- **Gerar agora:** Configurações → *Gerar vídeo longo agora* (leva uns 12 a 20 minutos), ou
+  GitHub → Actions → *Pipeline de conteúdo* → Run workflow → mode `compilation`.
+- **Se der erro:** a geração diária dos posts continua normalmente; o aviso fica no log do Actions.
+
+Observações:
+- A **miniatura personalizada** só é aceita pelo YouTube em canais **verificados** (youtube.com/verify,
+  é só confirmar o telefone). Sem isso, o vídeo sai igual, com uma miniatura escolhida pelo YouTube.
+- Cada envio ao YouTube gasta 1.600 dos 10.000 pontos diários da cota gratuita da API. Com 4 Shorts
+  por dia, o vídeo longo cabe (4 × 1.600 + 1.600 = 8.000). Evite várias publicações manuais no mesmo dia.

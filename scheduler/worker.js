@@ -14,6 +14,7 @@ function nowIn(tz) {
 }
 
 function applies(net, post) {
+  if (post.type === "compilation") return net === "youtube" && Boolean(post.media?.video_music);
   if (net === "youtube") return Boolean(post.media?.video_music);
   if (net === "tiktok") return Boolean(post.media?.video_silent);
   if (net === "stories") return Boolean(post.media?.video_music || post.media?.images?.includes("imagem_story.jpg"));

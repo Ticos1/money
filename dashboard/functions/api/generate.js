@@ -4,6 +4,10 @@ import { GitHub, json } from "../../lib/github.js";
 export async function onRequestPost({ request, env }) {
   try {
     const body = await request.json().catch(() => ({}));
+    if (body.compilation) {
+      await new GitHub(env).dispatch({ mode: "compilation", force: "false", clear: "false" });
+      return json({ ok: true });
+    }
     await new GitHub(env).dispatch({
       mode: "generate",
       force: body.force ? "true" : "false",

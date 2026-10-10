@@ -64,5 +64,11 @@
   "youtube": true,
   "max_attempts": 3,
   "stories": true
+ },
+ "compilation": {
+  "enabled": true,
+  "weekday": 6,
+  "time": "18:00",
+  "minutes": 10
  }
 }
