@@ -1,6 +1,256 @@
 {
  "posts": [
   {
+   "id": "2026-10-10-8-compilation",
+   "date": "2026-10-10",
+   "slot": 8,
+   "time": "12:00",
+   "type": "compilation",
+   "status": "pending",
+   "created_at": "2026-10-10T15:39:26+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
+    "count": 40,
+    "duration": 602,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Em que se tornou a vara de Moisés quando ele a jogou no chão?",
+      "ref_label": "Êxodo 4:3"
+     },
+     {
+      "n": 2,
+      "question": "Com o que Samuel ungiu Saul como líder?",
+      "ref_label": "1 Samuel 10:1"
+     },
+     {
+      "n": 3,
+      "question": "Onde Jesus fez o primeiro de seus sinais?",
+      "ref_label": "João 2:11"
+     },
+     {
+      "n": 4,
+      "question": "O que Gideão estava fazendo quando o anjo do Senhor apareceu?",
+      "ref_label": "Juízes 6:11"
+     },
+     {
+      "n": 5,
+      "question": "Qual era o nome da mãe de Moisés e Arão?",
+      "ref_label": "Êxodo 6:20"
+     },
+     {
+      "n": 6,
+      "question": "Como Esaú nasceu, segundo Gênesis?",
+      "ref_label": "Gênesis 25:25"
+     },
+     {
+      "n": 7,
+      "question": "Por meio de quantos homens Deus deu vitória a Gideão?",
+      "ref_label": "Juízes 7:7"
+     },
+     {
+      "n": 8,
+      "question": "Qual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?",
+      "ref_label": "1 Reis 16:31"
+     },
+     {
+      "n": 9,
+      "question": "Em Malaquias, o que o Senhor diz que vai abrir se o dízimo for trazido?",
+      "ref_label": "Malaquias 3:10"
+     },
+     {
+      "n": 10,
+      "question": "Saulo também era chamado de...",
+      "ref_label": "Atos 13:9"
+     },
+     {
+      "n": 11,
+      "question": "Quantas vezes Paulo sofreu naufrágio, segundo 2 Coríntios?",
+      "ref_label": "2 Coríntios 11:25"
+     },
+     {
+      "n": 12,
+      "question": "Qual nome o espírito imundo do homem de Gadara disse ter?",
+      "ref_label": "Marcos 5:9"
+     },
+     {
+      "n": 13,
+      "question": "Quantas pequenas moedas a viúva pobre lançou no gazofilácio?",
+      "ref_label": "Marcos 12:42"
+     },
+     {
+      "n": 14,
+      "question": "Completando a frase de Jesus: 'Deem a César o que é de César, e a...'",
+      "ref_label": "Mateus 22:21"
+     },
+     {
+      "n": 15,
+      "question": "Qual profeta subiu ao céu em um redemoinho?",
+      "ref_label": "2 Reis 2:11"
+     },
+     {
+      "n": 16,
+      "question": "Quem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?",
+      "ref_label": "Atos 7:59"
+     },
+     {
+      "n": 17,
+      "question": "O que Deus fez crescer para dar sombra a Jonas?",
+      "ref_label": "Jonas 4:6"
+     },
+     {
+      "n": 18,
+      "question": "Segundo Gênesis, quantos grandes luminares Deus fez?",
+      "ref_label": "Gênesis 1:16"
+     },
+     {
+      "n": 19,
+      "question": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
+      "ref_label": "Gênesis 5:27"
+     },
+     {
+      "n": 20,
+      "question": "O que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?",
+      "ref_label": "Mateus 21:2"
+     },
+     {
+      "n": 21,
+      "question": "Qual fariseu foi encontrar Jesus de noite?",
+      "ref_label": "João 3:1-2"
+     },
+     {
+      "n": 22,
+      "question": "Segundo Marcos, a quem Jesus ressuscitado apareceu primeiro?",
+      "ref_label": "Marcos 16:9"
+     },
+     {
+      "n": 23,
+      "question": "O que o grande peixe fez com Jonas quando o Senhor lhe falou?",
+      "ref_label": "Jonas 2:10"
+     },
+     {
+      "n": 24,
+      "question": "Lídia, que ouvia Paulo em Filipos, era vendedora de quê?",
+      "ref_label": "Atos 16:14"
+     },
+     {
+      "n": 25,
+      "question": "De qual cidade era Saulo (o apóstolo Paulo)?",
+      "ref_label": "Atos 9:11"
+     },
+     {
+      "n": 26,
+      "question": "Quais eram os nomes das parteiras hebreias no Egito?",
+      "ref_label": "Êxodo 1:15"
+     },
+     {
+      "n": 27,
+      "question": "Qual era o nome do tanque com cinco pórticos em Jerusalém?",
+      "ref_label": "João 5:2"
+     },
+     {
+      "n": 28,
+      "question": "Qual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?",
+      "ref_label": "Daniel 2:1"
+     },
+     {
+      "n": 29,
+      "question": "Qual rei edificou o templo (a casa) em Jerusalém?",
+      "ref_label": "1 Reis 6:14"
+     },
+     {
+      "n": 30,
+      "question": "Por quantas moedas de prata Judas entregou Jesus?",
+      "ref_label": "Mateus 26:14-15"
+     },
+     {
+      "n": 31,
+      "question": "Quem tinha uma vinha ao lado do palácio do rei Acabe?",
+      "ref_label": "1 Reis 21:1"
+     },
+     {
+      "n": 32,
+      "question": "Que vento trouxe os gafanhotos sobre o Egito?",
+      "ref_label": "Êxodo 10:13"
+     },
+     {
+      "n": 33,
+      "question": "Em tempo de fome, a qual rei dos filisteus Isaque foi em Gerar?",
+      "ref_label": "Gênesis 26:1"
+     },
+     {
+      "n": 34,
+      "question": "Em qual ilha estava João quando recebeu o Apocalipse?",
+      "ref_label": "Apocalipse 1:9"
+     },
+     {
+      "n": 35,
+      "question": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
+      "ref_label": "1 Reis 10:22"
+     },
+     {
+      "n": 36,
+      "question": "Para qual grande cidade Deus mandou Jonas pregar?",
+      "ref_label": "Jonas 1:2"
+     },
+     {
+      "n": 37,
+      "question": "Dos dez leprosos curados, o que voltou para agradecer era de qual povo?",
+      "ref_label": "Lucas 17:16"
+     },
+     {
+      "n": 38,
+      "question": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
+      "ref_label": "Josué 14:7"
+     },
+     {
+      "n": 39,
+      "question": "O que Moisés colocou sobre uma haste para curar quem fosse mordido?",
+      "ref_label": "Números 21:9"
+     },
+     {
+      "n": 40,
+      "question": "Qual arcanjo discutiu com o diabo a respeito do corpo de Moisés?",
+      "ref_label": "Judas 1:9"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
+     "description": "Você conhece mesmo a Bíblia? Responda 40 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:36 Pergunta 3\n0:50 Pergunta 4\n1:07 Pergunta 5\n1:20 Pergunta 6\n1:35 Pergunta 7\n1:49 Pergunta 8\n2:03 Pergunta 9\n2:20 Pergunta 10\n2:33 Pergunta 11\n2:47 Pergunta 12\n3:01 Pergunta 13\n3:15 Pergunta 14\n3:32 Pergunta 15\n3:45 Pergunta 16\n4:00 Pergunta 17\n4:15 Pergunta 18\n4:29 Pergunta 19\n4:42 Pergunta 20\n4:59 Pergunta 21\n5:13 Pergunta 22\n5:27 Pergunta 23\n5:44 Pergunta 24\n5:58 Pergunta 25\n6:12 Pergunta 26\n6:27 Pergunta 27\n6:41 Pergunta 28\n6:58 Pergunta 29\n7:11 Pergunta 30\n7:25 Pergunta 31\n7:39 Pergunta 32\n7:53 Pergunta 33\n8:08 Pergunta 34\n8:22 Pergunta 35\n8:38 Pergunta 36\n8:52 Pergunta 37\n9:07 Pergunta 38\n9:22 Pergunta 39\n9:39 Pergunta 40\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "media": {
+    "base": "media/2026-10-10/2026-10-10-8-compilation/",
+    "version": 1,
+    "video_music": "video_longo.mp4",
+    "poster": "miniatura.jpg",
+    "thumbnail": "miniatura.jpg",
+    "images": [],
+    "duration": 602.5,
+    "long": true
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-10-7-curiosity-v3",
    "date": "2026-10-10",
    "slot": 7,
