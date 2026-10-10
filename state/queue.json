@@ -248,7 +248,9 @@
    "log": [
     "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-10T15:40:56.227Z"
   },
   {
    "id": "2026-10-10-7-curiosity-v3",
