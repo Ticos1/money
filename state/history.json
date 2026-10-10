@@ -535,6 +535,82 @@
    "error": null
   },
   {
+   "id": "2026-10-10-4-quiz-v3",
+   "date": "2026-10-10",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:40:13+00:00",
+   "source": "bank",
+   "bank_id": "q007",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 5:27",
+    "ref_label": "Gênesis 5:27",
+    "question": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
+    "options": [
+     "930",
+     "969",
+     "950",
+     "912"
+    ],
+    "answer": 1,
+    "evidence": "novecentos e sessenta e nove anos",
+    "passage": "Todos os dias de Matusalém foram novecentos e sessenta e nove anos, e então ele morreu.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #desafio #cristao #jesus #conhecimentobiblico #biblia #fe #teste #gospel #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #gospel",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus #fe",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #deus #biblia #perguntasbiblicas",
+    "youtube": {
+     "title": "Pergunta bíblica que poucos acertam Quantos anos viveu Matusalém, o homem mais velho… #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos anos viveu Matusalém, o homem mais velho da Bíblia?\n\nA) 930\nB) 969\nC) 950\nD) 912\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-10T17:00:46+00:00",
+    "instagram": "2026-10-10T17:01:19+00:00",
+    "facebook": "2026-10-10T17:01:23+00:00",
+    "stories": "2026-10-10T17:01:55+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Gs-B_vyaS5M",
+    "instagram": "https://www.instagram.com/reel/DeUkj5tkl1s/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107666941810888",
+    "stories": "story 17921397750432387"
+   }
+  },
+  {
    "id": "2026-10-10-3-curiosity",
    "date": "2026-10-10",
    "slot": 3,
