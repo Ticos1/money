@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T15:10:35+00:00",
+ "updated_at": "2026-10-10T15:15:27+00:00",
  "notes": [
   "Meta: O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token de novo marcando TODAS as permissões e atualize o segredo (docs/PUBLICACAO.md"
  ],
