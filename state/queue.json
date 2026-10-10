@@ -64,11 +64,16 @@
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "instagram": "2026-10-10T01:41:34+00:00",
+    "facebook": "2026-10-10T01:41:40+00:00"
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeS7WL5D4H8/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094354219513774"
+   }
   },
   {
    "id": "2026-10-09-6-quiz",
@@ -145,12 +150,18 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "youtube": "2026-10-10T01:41:42+00:00",
+    "instagram": "2026-10-10T01:42:19+00:00",
+    "facebook": "2026-10-10T01:42:25+00:00"
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/9yDSFzQWo9w",
+    "instagram": "https://www.instagram.com/reel/DeS7ZD_AiCs/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1618555839765225"
+   }
   },
   {
    "id": "2026-10-09-5-verse",
@@ -559,14 +570,16 @@
     "tiktok": null,
     "kwai": null,
     "youtube": "2026-10-09T13:27:20+00:00",
-    "instagram": null,
-    "facebook": null
+    "instagram": "2026-10-10T01:43:02+00:00",
+    "facebook": "2026-10-10T01:43:08+00:00"
    },
    "log": [],
    "error": null,
    "publish_errors": {},
    "publish_links": {
-    "youtube": "https://youtube.com/shorts/6YmkbnI-li4"
+    "youtube": "https://youtube.com/shorts/6YmkbnI-li4",
+    "instagram": "https://www.instagram.com/reel/DeS7d4vkkaE/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1087243287281107"
    }
   },
   {
