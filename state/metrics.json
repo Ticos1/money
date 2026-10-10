@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-10T22:01:50+00:00",
+ "updated_at": "2026-10-10T23:28:13+00:00",
  "notes": [],
  "posts": {
+  "2026-10-10-6-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "title": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/x1YgxHhlX7M",
+    "instagram": "https://www.instagram.com/reel/DeVG3ybFbvA/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1439415338292689"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-10-5-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-10",
@@ -18,15 +47,15 @@
     "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -72,7 +101,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
