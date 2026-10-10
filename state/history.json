@@ -341,6 +341,74 @@
    "error": null
   },
   {
+   "id": "2026-10-10-3-curiosity-v2",
+   "date": "2026-10-10",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T11:07:24+00:00",
+   "source": "bank",
+   "bank_id": "c061",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:36",
+    "ref_label": "Marcos 14:36",
+    "title": "Aba, Pai",
+    "text": "No Getsêmani, Jesus orou chamando Deus de \"Aba, Pai\", uma forma íntima e carinhosa de se dirigir ao Pai.",
+    "evidence": "Aba, Pai",
+    "passage": "Ele dizia: “Aba, Pai, todas as coisas te são possíveis. Por favor, afasta de mim este cálice. Contudo, não o que eu desejo, mas o que tu desejas.”",
+    "tags": [
+     "oracao",
+     "jesus"
+    ]
+   },
+   "captions": {
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nAba, Pai\n\nNo Getsêmani, Jesus orou chamando Deus de \"Aba, Pai\", uma forma íntima e carinhosa de se dirigir ao Pai. (Marcos 14:36)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #jesus #vocesabia #curiosidadesbiblicas #gospel #historiabiblica #palavradedeus #deus #biblia #cristao #fe #estudobiblico",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nAba, Pai\n\nNo Getsêmani, Jesus orou chamando Deus de \"Aba, Pai\", uma forma íntima e carinhosa de se dirigir ao Pai. (Marcos 14:36)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #jesus #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 Aba, Pai\nMarque alguém que vai gostar de saber disso.\n#oracao #jesus #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 Aba, Pai\nMarque alguém que vai gostar de saber disso.\n#oracao #jesus #vocesabia #curiosidadesbiblicas #cristao",
+    "youtube": {
+     "title": "Você sabia? Aba, Pai #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nAba, Pai\n\nNo Getsêmani, Jesus orou chamando Deus de \"Aba, Pai\", uma forma íntima e carinhosa de se dirigir ao Pai. (Marcos 14:36)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #oracao #jesus #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-10T12:32:49+00:00",
+    "facebook": "2026-10-10T12:32:53+00:00",
+    "stories": "2026-10-10T12:33:09+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeUF3ShmDyL/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094628065513774",
+    "stories": "story 17971131819170014"
+   }
+  },
+  {
    "id": "2026-10-10-2-quiz",
    "date": "2026-10-10",
    "slot": 2,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T12:02:30+00:00",
+ "updated_at": "2026-10-10T12:33:16+00:00",
  "notes": [],
  "posts": {
   "2026-10-10-6-quiz": {
@@ -52,6 +52,35 @@
    },
    "facebook": {
     "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-10-2-quiz-v2": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "Por quantas moedas de prata Judas entregou Jesus?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0IsGIgs76SE",
+    "instagram": "https://www.instagram.com/reel/DeUCRbtDtKG/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1122568937415887"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
     "comments": 0
    },
    "youtube": {
