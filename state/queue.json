@@ -486,7 +486,9 @@
    "log": [
     "legenda Groq descartada: legenda revela a resposta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-10T11:08:32.864Z"
   }
  ]
 }
