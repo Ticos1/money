@@ -227,16 +227,18 @@ def main(argv: list[str] | None = None) -> int:
 
     settings = config.load_settings()
     keep = int(settings.get("media_retention_days", 30))
+    # a fila do painel mostra só os posts de hoje; dias anteriores vão para o Histórico
+    queue_keep = int(settings.get("queue_keep_days", 0))
     if args.cmd in ("run", "build", "rerender"):
         patch = build(args) if args.cmd != "rerender" else rerender(args)
         Path(args.out).write_text(json.dumps(patch, ensure_ascii=False, indent=1), encoding="utf-8")
         if args.cmd == "run":
-            state.apply_patch(patch, _today(settings, args.date), keep)
+            state.apply_patch(patch, _today(settings, args.date), queue_keep)
             prune_media(Path(args.media_dir), _today(settings, args.date), keep)
             print("estado atualizado em state/")
     elif args.cmd == "apply":
         patch = json.loads(Path(args.patch).read_text(encoding="utf-8"))
-        state.apply_patch(patch, _today(settings, args.date), keep)
+        state.apply_patch(patch, _today(settings, args.date), queue_keep)
         print(f"patch aplicado ({len(patch.get('posts', []))} post(s))")
     elif args.cmd == "prune-media":
         prune_media(Path(args.media_dir), _today(settings, args.date), keep)
