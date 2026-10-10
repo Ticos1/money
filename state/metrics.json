@@ -1,9 +1,23 @@
 {
- "updated_at": "2026-10-10T14:59:26+00:00",
+ "updated_at": "2026-10-10T15:00:31+00:00",
  "notes": [
   "Meta: Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging per"
  ],
  "posts": {
+  "2026-10-10-2-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "Qual nome o espírito imundo do homem de Gadara disse ter?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/HPgKH6DUeio"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-10-3-curiosity-v2": {
    "type": "curiosity",
    "date": "2026-10-10",

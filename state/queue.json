@@ -388,7 +388,21 @@
     "stories": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {
+    "instagram": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    },
+    "facebook": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    },
+    "stories": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    }
+   }
   },
   {
    "id": "2026-10-10-2-quiz-v3",
@@ -477,15 +491,15 @@
    "publish_errors": {
     "instagram": {
      "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "attempts": 2
     },
     "facebook": {
      "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "attempts": 2
     },
     "stories": {
      "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
-     "attempts": 1
+     "attempts": 2
     }
    },
    "publish_links": {
