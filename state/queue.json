@@ -465,7 +465,7 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
+    "youtube": "2026-10-10T14:59:25+00:00",
     "instagram": null,
     "facebook": null,
     "stories": null
@@ -473,7 +473,24 @@
    "log": [
     "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {
+    "instagram": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    },
+    "facebook": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    },
+    "stories": {
+     "message": "Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (código 190)",
+     "attempts": 1
+    }
+   },
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/HPgKH6DUeio"
+   }
   },
   {
    "id": "2026-10-10-1-verse-v3",
