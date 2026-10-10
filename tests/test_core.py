@@ -525,6 +525,46 @@ class CompilationTests(unittest.TestCase):
             self.assertIsNone(generate._compilation_post(settings, sunday, {}, Path(tmp), {}, set(), False, patch, 2))
 
 
+class UpgradesTests(unittest.TestCase):
+    def test_curiosity_video_only_when_enabled(self):
+        from app import generate
+        self.assertTrue(generate._has_video("quiz", {}))
+        self.assertFalse(generate._has_video("curiosity", {"video": {"video_types": ["quiz"]}}))
+        self.assertTrue(generate._has_video("curiosity", {"video": {"video_types": ["quiz", "curiosity"]}}))
+        self.assertFalse(generate._has_video("verse", {"video": {"video_types": ["quiz", "curiosity"]}}))
+
+    def test_alert_only_on_first_and_last_attempt(self):
+        from app import alert
+        patch = {"publish_results": {"p1": {"instagram": {"error": "x"}, "facebook": {"at": "t", "url": "u"}},
+                                     "p2": {"youtube": {"error": "y"}}}}
+        queue = [{"id": "p1", "publish_errors": {"instagram": {"attempts": 1}}},
+                 {"id": "p2", "publish_errors": {"youtube": {"attempts": 2}}}]
+        found = alert.problems(patch, queue, 3)
+        self.assertEqual(len(found), 1)
+        self.assertIn("Instagram", found[0])
+        queue[1]["publish_errors"]["youtube"]["attempts"] = 3
+        found = alert.problems(patch, queue, 3)
+        self.assertEqual(len(found), 2)
+        self.assertIn("DESISTIU", found[1])
+        self.assertEqual(alert.problems({"publish_results": {"p1": {"facebook": {"at": "t"}}}}, queue, 3), [])
+
+    def test_weekly_report_has_best_hour_top_posts_and_links(self):
+        from app import report
+        posts = {}
+        for i, (t, likes) in enumerate([("09:00", 1), ("09:00", 3), ("21:00", 20), ("21:00", 30), ("12:00", 5)]):
+            posts[f"p{i}"] = {"type": "quiz", "date": "2026-10-08", "time": t, "title": f"Post {i}",
+                              "links": {"instagram": f"https://ig/{i}"}, "instagram": {"likes": likes, "comments": 0}}
+        posts["old"] = {"type": "quiz", "date": "2026-08-01", "time": "07:00", "title": "Velho", "instagram": {"likes": 999}}
+        text = report.build({"posts": posts, "notes": ["falta permissão"]}, date(2026, 10, 12), "fulano")
+        self.assertIn("@fulano", text)
+        self.assertIn("Melhor: **21:00**", text)
+        self.assertIn("Mais fraco: **09:00**", text)  # 12:00 tem só 1 post: fica de fora
+        self.assertIn("[instagram](https://ig/3)", text.split("Os 3 melhores")[1].split("\n")[2])
+        self.assertNotIn("Velho", text)
+        self.assertIn("falta permissão", text)
+        self.assertIsNone(report.build({"posts": {}}, date(2026, 10, 12)))
+
+
 class StateTests(unittest.TestCase):
     def test_apply_patch_is_idempotent_and_keeps_user_actions(self):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):

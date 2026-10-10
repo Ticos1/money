@@ -12,7 +12,7 @@ import random
 
 from .config import CONTENT_DIR, MUSIC_DIR
 
-MOOD_BY_TYPE = {"quiz": "desafio"}
+MOOD_BY_TYPE = {"quiz": "desafio", "curiosity": "alegria"}
 
 
 def load_library() -> list[dict]:

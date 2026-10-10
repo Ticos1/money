@@ -593,6 +593,9 @@ function renderConfig(main) {
     catch (err) { toast(err.message); }
     compNow.disabled = false;
   } }, "Gerar vídeo longo agora");
+  const vt = s.video?.video_types || ["quiz"];
+  const vidVerse = h("input", { type: "checkbox", checked: vt.includes("verse") });
+  const vidCur = h("input", { type: "checkbox", checked: vt.includes("curiosity") });
   const groqOn = h("input", { type: "checkbox", checked: s.groq?.enabled !== false });
   const model = h("input", { type: "text", value: s.groq?.model || "" });
   const calls = h("input", { type: "number", min: 0, max: 50, value: s.groq?.max_calls_per_day ?? 6 });
@@ -622,6 +625,10 @@ function renderConfig(main) {
     h("div", { class: "row" }, h("label", {}, "Dia", compDay), h("label", {}, "Horário", compTime), h("label", {}, "Minutos", compMin)),
     h("div", { class: "row" }, compNow),
     h("p", { class: "muted" }, "Usa os quizzes dos últimos dias e completa com perguntas novas do banco. A geração leva uns 12 a 20 minutos."),
+    h("h3", {}, "Vídeos (Reels e Shorts)"),
+    h("p", { class: "muted" }, "O quiz sempre sai em vídeo. Marque para o Versículo e o “Você sabia?” também virarem vídeo (em vez de só imagem). Cada vídeo no YouTube gasta 1.600 dos 10.000 pontos diários grátis: com 6 vídeos por dia mais o vídeo longo de sábado, passa do limite."),
+    h("label", { class: "check" }, vidCur, "“Você sabia?” também em vídeo"),
+    h("label", { class: "check" }, vidVerse, "Versículo do dia também em vídeo"),
     h("h3", {}, "Inteligência artificial (Groq)"),
     h("label", { class: "check" }, groqOn, "Usar a Groq para conteúdo novo e variações de legenda"),
     h("label", {}, "Modelo", model),
@@ -642,6 +649,7 @@ function renderConfig(main) {
         auto_approve: auto.checked, groq_enabled: groqOn.checked, model: model.value.trim(),
         publishing: Object.fromEntries(Object.entries(pubBoxes).map(([k, b]) => [k, b.checked])),
         max_calls_per_day: Number(calls.value), new_content_ratio: Number(ratio.value),
+        video_types: ["quiz", ...(vidCur.checked ? ["curiosity"] : []), ...(vidVerse.checked ? ["verse"] : [])],
         compilation: { enabled: compOn.checked, weekday: Number(compDay.value), time: compTime.value, minutes: Number(compMin.value) },
       } });
       STATE.settings = r.settings;

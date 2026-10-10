@@ -29,6 +29,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write   # resumo semanal (chega no seu e-mail)
 
 jobs:
   publish:
@@ -84,3 +85,23 @@ jobs:
             if git push -q origin "HEAD:$GITHUB_REF_NAME"; then echo "Salvo."; break; fi
             sleep $((attempt * 3))
           done
+
+      - name: Resumo semanal (segunda-feira; chega por e-mail)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          # Segunda-feira depois das 08h (Brasília), uma vez por semana: abre uma "issue" com o resumo.
+          if [ "$(TZ=America/Sao_Paulo date +%u)" = "1" ] && [ "$(TZ=America/Sao_Paulo date +%H)" -ge 8 ]; then
+            title="Resumo semanal - $(TZ=America/Sao_Paulo date +%d/%m/%Y)"
+            existing=$(gh issue list --state all --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+            if [ -z "$existing" ]; then
+              python -m app.report --out "$RUNNER_TEMP/resumo.md" --mention "$OWNER" \
+                && gh issue create --title "$title" --body-file "$RUNNER_TEMP/resumo.md"
+            fi
+          fi
+
+      - name: Avisar se alguma publicação falhou (e-mail do GitHub)
+        if: always()
+        run: python -m app.alert "$RUNNER_TEMP/patch.json"

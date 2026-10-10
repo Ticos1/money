@@ -38,6 +38,10 @@ export async function onRequestPut({ request, env }) {
           s.publishing = { ...(s.publishing || {}) };
           for (const k of ["instagram", "facebook", "youtube", "stories", "tiktok"]) s.publishing[k] = Boolean(body.publishing[k]);
         }
+        if (Array.isArray(body.video_types)) {
+          const wanted = new Set(body.video_types);
+          s.video = { ...(s.video || {}), video_types: ["quiz", "verse", "curiosity"].filter((t) => t === "quiz" || wanted.has(t)) };
+        }
         if (comp) {
           s.compilation = { enabled: Boolean(comp.enabled), weekday: Math.round(comp.weekday),
             time: comp.time, minutes: Math.round(comp.minutes) };

@@ -50,7 +50,8 @@ def _seed(text: str) -> int:
 
 
 def _has_video(kind: str, settings: dict) -> bool:
-    return kind == "quiz" or verse_render.wants_video(settings)
+    """O quiz sempre vira vídeo; Versículo e "Você sabia?" só se estiverem em video.video_types."""
+    return kind == "quiz" or kind in settings.get("video", {}).get("video_types", ["quiz"])
 
 
 def _replaceable(post: dict) -> bool:

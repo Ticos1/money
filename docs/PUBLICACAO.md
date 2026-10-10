@@ -231,3 +231,26 @@ marcar todas de novo, não só a que você quer acrescentar.
 6. GitHub → Secrets → `META_ACCESS_TOKEN` → **Update** → cole → Save.
 7. No painel, abra o post que deu erro e toque em **🚀 Publicar agora** (isso libera nova tentativa;
    sozinho ele tenta só 3 vezes).
+
+---
+
+## Alertas por e-mail e resumo semanal (sem custo, sem configurar nada)
+
+- **Alerta de falha:** quando uma publicação dá erro (Instagram, Facebook, YouTube...), o GitHub
+  te manda um e-mail de "Publicar nas redes: falhou" com o motivo. Você recebe no primeiro erro e
+  quando o sistema desiste (3 tentativas). Para liberar nova tentativa, abra o post no painel e
+  toque em **🚀 Publicar agora**.
+  Confira em GitHub → Settings → Notifications → *Actions*: deixe ligado "Send notifications for
+  failed workflows only".
+- **Resumo semanal:** toda segunda-feira, depois das 08:00, o sistema abre uma *issue* chamada
+  "Resumo semanal - dd/mm/aaaa" no repositório, marcando você (@). O GitHub avisa por e-mail. O resumo
+  traz visualizações, alcance, engajamento por tipo de post, melhor e pior horário e os 3 melhores
+  posts com link. (Precisa de *Issues* ligado em Settings → General → Features, que já vem ligado.)
+
+## Vídeo também para "Você sabia?" e Versículo
+
+Em **Configurações → Vídeos (Reels e Shorts)**, marque para o "Você sabia?" e/ou o Versículo
+virarem vídeo vertical com música (em vez de só imagem). Eles passam a sair como Reels, Shorts
+(YouTube), vídeo no Facebook e Stories. Atenção à cota do YouTube: cada envio gasta 1.600 dos 10.000
+pontos diários, então 6 vídeos por dia (4 quizzes + 2 curiosidades) já usam 9.600, e o vídeo longo de
+sábado passaria do limite. Se quiser os dois, peça o aumento de cota (gratuito) no Google Cloud.
