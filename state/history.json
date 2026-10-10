@@ -397,6 +397,82 @@
    "error": null
   },
   {
+   "id": "2026-10-10-5-quiz-v3",
+   "date": "2026-10-10",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:41:43+00:00",
+   "source": "bank",
+   "bank_id": "q181",
+   "model": null,
+   "content": {
+    "ref": "Josué 14:7",
+    "ref_label": "Josué 14:7",
+    "question": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
+    "options": [
+     "Vinte",
+     "Quarenta",
+     "Oitenta e cinco",
+     "Cem"
+    ],
+    "answer": 1,
+    "evidence": "Eu tinha quarenta anos de idade",
+    "passage": "Eu tinha quarenta anos de idade quando Moisés, o servo do SENHOR, me enviou de Cades-Barneia para espiar a terra. Eu lhe trouxe resposta segundo o que estava em meu coração.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #biblia #conhecimentobiblico #teste #perguntasbiblicas #evangelico #cristao #jesus #desafio #gospel",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #jesus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #cristao #conhecimentobiblico",
+    "youtube": {
+     "title": "Desafio bíblico do dia Quantos anos Calebe tinha quando foi enviado para espiar a terra? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQuantos anos Calebe tinha quando foi enviado para espiar a terra?\n\nA) Vinte\nB) Quarenta\nC) Oitenta e cinco\nD) Cem\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-10T20:00:11+00:00",
+    "instagram": "2026-10-10T20:01:24+00:00",
+    "facebook": "2026-10-10T20:01:28+00:00",
+    "stories": "2026-10-10T20:02:40+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/TcvmENGSeY8",
+    "instagram": "https://www.instagram.com/reel/DeU5LYhFLel/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1506815218135244",
+    "stories": "story 18111604205118733"
+   }
+  },
+  {
    "id": "2026-10-10-4-quiz",
    "date": "2026-10-10",
    "slot": 4,

@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-10T17:02:03+00:00",
+ "updated_at": "2026-10-10T20:02:47+00:00",
  "notes": [],
  "posts": {
+  "2026-10-10-4-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "14:00",
+   "title": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Gs-B_vyaS5M",
+    "instagram": "https://www.instagram.com/reel/DeUkj5tkl1s/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107666941810888"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-10-3-curiosity-v2": {
    "type": "curiosity",
    "date": "2026-10-10",
@@ -37,7 +66,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
@@ -97,7 +126,7 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 1
    },
    "youtube": {
@@ -154,7 +183,7 @@
    },
    "youtube": {
     "views": 2,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -234,7 +263,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 22,
+    "views": 23,
     "likes": 2,
     "comments": 0
    }
