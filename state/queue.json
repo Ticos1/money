@@ -391,7 +391,9 @@
    "log": [
     "legenda Groq descartada: legenda incompleta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-10T12:32:13.591Z"
   },
   {
    "id": "2026-10-10-1-verse-v2",
