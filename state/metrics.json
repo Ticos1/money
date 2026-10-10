@@ -1,21 +1,7 @@
 {
- "updated_at": "2026-10-10T15:23:42+00:00",
+ "updated_at": "2026-10-10T17:02:03+00:00",
  "notes": [],
  "posts": {
-  "2026-10-10-2-quiz-v3": {
-   "type": "quiz",
-   "date": "2026-10-10",
-   "time": "09:00",
-   "title": "Qual nome o espírito imundo do homem de Gadara disse ter?",
-   "links": {
-    "youtube": "https://youtube.com/shorts/HPgKH6DUeio"
-   },
-   "youtube": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0
-   }
-  },
   "2026-10-10-3-curiosity-v2": {
    "type": "curiosity",
    "date": "2026-10-10",
@@ -24,6 +10,29 @@
    "links": {
     "instagram": "https://www.instagram.com/p/DeUF3ShmDyL/",
     "facebook": "https://www.facebook.com/1405324152662027_122094628065513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-10-3-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-10",
+   "time": "12:00",
+   "title": "Leão numa cova, em dia de neve",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeUZIBcl61S/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094691509513774"
    },
    "instagram": {
     "likes": 0,
@@ -48,6 +57,35 @@
     "youtube": "https://youtube.com/shorts/0IsGIgs76SE",
     "instagram": "https://www.instagram.com/reel/DeUCRbtDtKG/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1122568937415887"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 1
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-10-2-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "Qual nome o espírito imundo do homem de Gadara disse ter?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/HPgKH6DUeio",
+    "instagram": "https://www.instagram.com/reel/DeUZTJSlGlN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1899942457651762"
    },
    "instagram": {
     "likes": 0,
@@ -196,7 +234,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 21,
+    "views": 22,
     "likes": 2,
     "comments": 0
    }
