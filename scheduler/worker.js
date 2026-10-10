@@ -3,7 +3,7 @@
 // Precisa das variáveis GITHUB_TOKEN e GITHUB_REPO (as mesmas do painel).
 import { GitHub } from "../dashboard/lib/github.js";
 
-const NETS = ["instagram", "facebook", "youtube", "tiktok"];
+const NETS = ["instagram", "facebook", "youtube", "stories", "tiktok"];
 const GENERATE_AFTER = "05:20"; // horário de Brasília: se ainda não gerou o dia, gera
 
 function nowIn(tz) {
@@ -16,6 +16,7 @@ function nowIn(tz) {
 function applies(net, post) {
   if (net === "youtube") return Boolean(post.media?.video_music);
   if (net === "tiktok") return Boolean(post.media?.video_silent);
+  if (net === "stories") return Boolean(post.media?.video_music || post.media?.images?.includes("imagem_story.jpg"));
   return true;
 }
 
@@ -58,11 +59,16 @@ export async function tick(env) {
     }
   }
 
-  // 2) publicação dos posts no horário
+  // 2) publicação dos posts no horário (a mesma rodada também atualiza as métricas)
   const due = queue.posts.filter((p) => needsPublishing(p, settings, now));
-  if (due.length && !(await busy(gh, "publish.yml"))) {
+  let metricsStale = false;
+  if (!due.length && now.time >= "06:00") {
+    const { data: metrics } = await gh.getJson("state/metrics.json", {});
+    metricsStale = !metrics.updated_at || Date.now() - Date.parse(metrics.updated_at) > 3 * 3600e3;
+  }
+  if ((due.length || metricsStale) && !(await busy(gh, "publish.yml"))) {
     await gh.dispatch({ post_id: "", platform: "", agora: "false" }, "publish.yml");
-    log.push(`publicar ${due.map((p) => p.id).join(", ")}`);
+    log.push(due.length ? `publicar ${due.map((p) => p.id).join(", ")}` : "atualizar métricas");
   }
   return log;
 }

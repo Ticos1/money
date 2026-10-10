@@ -62,6 +62,7 @@
   "instagram": true,
   "facebook": true,
   "youtube": true,
-  "max_attempts": 3
+  "max_attempts": 3,
+  "stories": true
  }
 }

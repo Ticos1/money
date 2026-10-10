@@ -15,7 +15,7 @@ on:
       platform:
         description: "Só nesta rede (vazio = todas as ligadas)"
         type: choice
-        options: ["", instagram, facebook, youtube, tiktok]
+        options: ["", instagram, facebook, youtube, stories, tiktok]
         default: ""
       agora:
         description: "Publicar já, sem esperar o horário (precisa do ID do post)"
@@ -65,6 +65,10 @@ jobs:
       - name: Publicar
         run: python -m app.publish --media-dir media_repo/media --out "$RUNNER_TEMP/patch.json" ${POST_ID:+--post-id "$POST_ID"} ${ONLY_PLATFORM:+--platform "$ONLY_PLATFORM"} $NOW_FLAG
 
+      - name: Coletar métricas
+        continue-on-error: true
+        run: python -m app.metrics --out "$RUNNER_TEMP/metrics.json"
+
       - name: Salvar resultado no painel
         run: |
           git config user.name "github-actions[bot]"
@@ -73,6 +77,7 @@ jobs:
             git fetch -q origin "$GITHUB_REF_NAME"
             git reset -q --hard "origin/$GITHUB_REF_NAME"
             python -m app.generate apply "$RUNNER_TEMP/patch.json"
+            if [ -s "$RUNNER_TEMP/metrics.json" ]; then cp "$RUNNER_TEMP/metrics.json" state/metrics.json; fi
             git add state
             if git diff --cached --quiet; then echo "Nada para salvar."; break; fi
             git commit -q -m "publicação $(date -u +'%F %H:%M')"

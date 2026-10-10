@@ -256,7 +256,7 @@ class PublishTests(unittest.TestCase):
             res = publish.run(Path(tmp), future["id"], "youtube", True)["publish_results"]
             self.assertEqual(list(res[future["id"]]), ["youtube"])
             self.assertEqual(bp.call_args[0][0], {"tiktok": False, "kwai": False, "youtube": True,
-                                                  "instagram": False, "facebook": False})
+                                                  "instagram": False, "facebook": False, "stories": False})
 
 
 class TikTokTests(unittest.TestCase):
@@ -355,6 +355,69 @@ class CompletedPostsTests(unittest.TestCase):
             state.apply_patch({"publish_results": {}, "completed": ["a"]}, date(2026, 10, 10), 0)
             self.assertEqual([p["id"] for p in state.load_queue()], ["b"])
             self.assertEqual(state.load_history()[0]["id"], "a")
+
+
+class StoriesTests(unittest.TestCase):
+    def test_story_uses_9x16_image_or_quiz_video(self):
+        from app.publishers import meta
+        calls = []
+
+        def fake(method, path, **kw):
+            calls.append((path, {k: v for k, v in kw.items() if k != "access_token"}))
+            if path == "IG1/media":
+                return {"id": "C1"}
+            if path == "C1":
+                return {"status_code": "FINISHED"}
+            return {"id": "M1"}
+
+        acc = meta.MetaAccount.__new__(meta.MetaAccount)
+        acc.page_token, acc.ig_id, acc.page_id = "T", "IG1", "P1"
+        pub = meta.InstagramStoryPublisher(acc)
+        with mock.patch.object(meta, "_call", side_effect=fake):
+            pub.publish({"media": {"images": ["imagem_story.jpg"]}}, Path("."), lambda f: "https://x/" + f)
+            pub.publish({"media": {"video_music": "v.mp4", "images": []}}, Path("."), lambda f: "https://x/" + f)
+        creates = [c[1] for c in calls if c[0] == "IG1/media"]
+        self.assertEqual(creates[0], {"media_type": "STORIES", "image_url": "https://x/imagem_story.jpg"})
+        self.assertEqual(creates[1], {"media_type": "STORIES", "video_url": "https://x/v.mp4"})
+
+
+class MetricsTests(unittest.TestCase):
+    def test_metrics_matched_to_posts_and_missing_permission_is_reported(self):
+        from app import metrics
+        from app.publishers import PublishError, meta
+        post = {"id": "2026-10-10-2-quiz", "date": "2026-10-10", "time": "09:00", "type": "quiz",
+                "content": {"question": "Quem?"},
+                "publish_links": {"instagram": "https://www.instagram.com/reel/AAA/",
+                                  "facebook": "https://www.facebook.com/P1/videos/V9",
+                                  "youtube": "https://youtube.com/shorts/YT1"}}
+
+        def fake_get(url, **params):
+            if url.endswith("/IG1/media"):
+                return {"data": [{"id": "M1", "permalink": "https://www.instagram.com/reel/AAA/",
+                                  "media_product_type": "REELS", "like_count": 7, "comments_count": 2}]}
+            if url.endswith("/insights"):
+                raise PublishError("(#10) permission")
+            if url.endswith("/posts"):
+                return {"data": []}
+            if url.endswith("/videos"):
+                return {"data": [{"id": "V9", "likes": {"summary": {"total_count": 3}},
+                                  "comments": {"summary": {"total_count": 1}}}]}
+            raise AssertionError(url)
+
+        acc = mock.Mock(ig_id="IG1", page_id="P1", page_token="T")
+        env = {"META_ACCESS_TOKEN": "T"}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.dict("os.environ", env, clear=False), \
+                mock.patch.object(meta, "MetaAccount", return_value=acc), \
+                mock.patch.object(metrics, "_get", side_effect=fake_get), \
+                mock.patch.object(metrics, "collect_youtube", return_value={"YT1": {"views": 64, "likes": 5}}):
+            state.save_history([post])
+            data = metrics.collect(date(2026, 10, 10))
+        row = data["posts"][post["id"]]
+        self.assertEqual(row["instagram"], {"likes": 7, "comments": 2})
+        self.assertEqual(row["facebook"], {"likes": 3, "comments": 1})
+        self.assertEqual(row["youtube"]["views"], 64)
+        self.assertTrue(any("instagram_manage_insights" in n for n in data["notes"]))
 
 
 class StateTests(unittest.TestCase):

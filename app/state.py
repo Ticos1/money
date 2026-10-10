@@ -13,7 +13,7 @@ from pathlib import Path
 
 from .config import STATE_DIR
 
-PLATFORMS = ("tiktok", "kwai", "youtube", "instagram", "facebook")
+PLATFORMS = ("tiktok", "kwai", "youtube", "instagram", "facebook", "stories")  # stories = Stories do Instagram
 
 
 def _read(name: str, default):

@@ -143,3 +143,21 @@ Configuração (uma vez):
 2. Rode **Actions → Pipeline de conteúdo → mode `deploy`**. Isso instala o Worker `palavra-diaria-agendador`.
 3. **Cloudflare → Workers & Pages → `palavra-diaria-agendador` → Settings → Variables and Secrets → Add:**
    - Tipo **Secret** · Name `GITHUB_TOKEN` · Value: o mesmo token `github_pat_...` usado no painel.
+
+---
+
+## Métricas (aba "Métricas" do painel)
+
+As métricas são coletadas a cada publicação e a cada 3 horas: curtidas e
+comentários (Instagram e Facebook) e visualizações (YouTube). O painel mostra a
+média por **tipo de post** e por **horário**, além do **Top 10**, para você
+descobrir o que funciona melhor.
+
+Para ver também **alcance, salvamentos e compartilhamentos** do Instagram, gere
+o token da Meta (parte C) adicionando a permissão `instagram_manage_insights` e
+atualize o segredo `META_ACCESS_TOKEN`.
+
+Para ver as **visualizações dos Shorts**, gere o refresh token do YouTube no
+OAuth Playground com os dois escopos (separados por espaço):
+`https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly`
+e atualize o segredo `YT_REFRESH_TOKEN`.

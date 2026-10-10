@@ -5,6 +5,8 @@ const PLATFORMS = [
   ["instagram", "Instagram"], ["facebook", "Facebook"], ["tiktok", "TikTok"],
   ["kwai", "Kwai"], ["youtube", "YouTube"],
 ];
+// redes de publicação (as legendas usam PLATFORMS; Stories não tem legenda)
+const NETS = [...PLATFORMS, ["stories", "Stories IG"]];
 const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz (Reels)", curiosity: "Você sabia?" };
 const STATUS_NAME = { pending: "Aguardando aprovação", approved: "Aprovado", rejected: "Rejeitado" };
 const IMG_NAME = {
@@ -162,7 +164,7 @@ function musicSection(post) {
 
 function publishedSection(post) {
   const grid = h("div", { class: "pub" });
-  for (const [k, name] of PLATFORMS) {
+  for (const [k, name] of NETS) {
     const when = post.published?.[k];
     const input = h("input", { type: "checkbox", checked: !!when });
     input.addEventListener("change", async () => {
@@ -252,7 +254,8 @@ function editForm(post, card) {
 function pendingNets(post) {
   const on = Object.entries(STATE.settings?.publishing || {}).filter(([, v]) => v === true).map(([k]) => k)
     .filter((k) => k !== "tiktok" || post.media?.video_silent);
-  return on.filter((k) => !post.published?.[k] && (k !== "youtube" || post.media?.video_music));
+  return on.filter((k) => !post.published?.[k] && (k !== "youtube" || post.media?.video_music)
+    && (k !== "stories" || post.media?.video_music || post.media?.images?.includes("imagem_story.jpg")));
 }
 
 async function publishNow(post) {
@@ -347,7 +350,7 @@ function renderQueue(main) {
 // ---------- histórico
 async function renderHistory(main) {
   const table = h("table", {}, h("thead", {}, h("tr", {}, h("th", {}, "Data"), h("th", {}, "Post"),
-    ...PLATFORMS.map(([, n]) => h("th", {}, n.slice(0, 2))))));
+    ...NETS.map(([, n]) => h("th", {}, n.slice(0, 2))))));
   const tbody = h("tbody");
   table.append(tbody);
   main.append(h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Publicações por rede"),
@@ -359,7 +362,7 @@ async function renderHistory(main) {
   for (const p of all) {
     tbody.append(h("tr", {}, h("td", { class: "p" }, p.date.split("-").reverse().join("/")),
       h("td", {}, h("div", {}, titleOf(p)), h("div", { class: "muted" }, TYPE_NAME[p.type])),
-      ...PLATFORMS.map(([k]) => {
+      ...NETS.map(([k]) => {
         const link = p.publish_links?.[k];
         const mark = p.published?.[k]
           ? (link?.startsWith?.("http") ? h("a", { href: link, target: "_blank", rel: "noopener", title: "ver post" }, "✅↗") : "✅")
@@ -367,8 +370,58 @@ async function renderHistory(main) {
         return h("td", { title: p.published?.[k] || "" }, mark);
       })));
   }
-  const counts = PLATFORMS.map(([k, n]) => `${n}: ${all.filter((p) => p.published?.[k]).length}`).join(" · ");
+  const counts = NETS.map(([k, n]) => `${n}: ${all.filter((p) => p.published?.[k]).length}`).join(" · ");
   main.append(h("p", { class: "muted" }, `Total publicado — ${counts}`));
+}
+
+// ---------- métricas
+const num = (v) => (typeof v === "number" ? v : 0);
+function engagement(r) {
+  const ig = r.instagram || {}, fb = r.facebook || {}, yt = r.youtube || {};
+  return num(ig.likes) + num(ig.comments) * 2 + num(ig.saved) * 3 + num(ig.shares) * 3
+    + num(fb.likes) + num(fb.comments) * 2 + num(fb.shares) * 3 + num(yt.likes) + num(yt.comments) * 2;
+}
+function avg(list, f) {
+  const vals = list.map(f).filter((v) => typeof v === "number");
+  return vals.length ? Math.round((vals.reduce((a, b) => a + b, 0) / vals.length) * 10) / 10 : "—";
+}
+function groupTable(title, rows, keyFn, label) {
+  const groups = {};
+  for (const r of rows) (groups[keyFn(r)] ||= []).push(r);
+  const hasReach = rows.some((r) => typeof r.instagram?.reach === "number");
+  const head = ["", "Posts", "Engaj. médio", "Curtidas IG", hasReach && "Alcance IG", "Curtidas FB", "Views YT"].filter(Boolean);
+  const body = Object.entries(groups).sort((a, b) => avg(b[1], engagement) - avg(a[1], engagement)).map(([k, list]) =>
+    h("tr", {}, h("td", {}, label(k)), h("td", {}, list.length), h("td", {}, h("b", {}, avg(list, engagement))),
+      h("td", {}, avg(list, (r) => r.instagram?.likes)), hasReach && h("td", {}, avg(list, (r) => r.instagram?.reach)),
+      h("td", {}, avg(list, (r) => r.facebook?.likes)), h("td", {}, avg(list, (r) => r.youtube?.views))));
+  return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, title),
+    h("div", { style: "overflow-x:auto" }, h("table", {}, h("thead", {}, h("tr", {}, head.map((t) => h("th", {}, t)))), h("tbody", {}, body)))));
+}
+
+async function renderMetrics(main) {
+  const refresh = h("button", { class: "btn small", onclick: async () => {
+    try { await api("/api/metrics", { method: "POST", body: {} }); toast("Atualizando métricas… (~1 min, depois recarregue)"); }
+    catch (e) { toast(e.message); }
+  } }, "↻ Atualizar métricas");
+  main.append(h("div", { class: "row", style: "margin-bottom:12px" }, refresh));
+  let data;
+  try { data = await api("/api/metrics"); } catch (e) { main.append(h("div", { class: "alert bad" }, e.message)); return; }
+  const rows = Object.entries(data.posts || {}).map(([id, r]) => ({ id, ...r }));
+  if (!rows.length) {
+    main.append(h("div", { class: "empty" }, "Ainda sem métricas. Elas são coletadas a cada publicação (ou toque em Atualizar)."));
+    return;
+  }
+  const when = data.updated_at ? new Date(data.updated_at).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "";
+  main.append(h("p", { class: "muted" }, `${rows.length} posts dos últimos 60 dias · atualizado em ${when}. Engajamento = curtidas + 2×comentários + 3×salvamentos/compartilhamentos.`));
+  for (const n of data.notes || []) main.append(h("div", { class: "alert warn" }, n));
+  main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => TYPE_NAME[k] || k));
+  main.append(groupTable("Por horário", rows, (r) => r.time, (k) => k));
+  const top = [...rows].sort((a, b) => engagement(b) - engagement(a)).slice(0, 10);
+  main.append(h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Top 10 posts"),
+    h("table", {}, h("tbody", {}, top.map((r) => h("tr", {},
+      h("td", {}, h("b", {}, engagement(r))),
+      h("td", {}, h("div", {}, r.title), h("div", { class: "muted" }, `${TYPE_NAME[r.type] || r.type} · ${r.date?.split("-").reverse().join("/")} ${r.time}`)),
+      h("td", { class: "p" }, Object.entries(r.links || {}).map(([k, u]) => h("a", { href: u, target: "_blank", rel: "noopener", style: "margin-right:6px" }, k.slice(0, 2).toUpperCase()))))))))));
 }
 
 // ---------- configurações
@@ -396,7 +449,7 @@ function renderConfig(main) {
   };
   (slots.length ? slots : [{ time: "07:00", type: "verse" }]).forEach(addSlot);
   const auto = h("input", { type: "checkbox", checked: !!s.approval?.auto_approve });
-  const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube", "tiktok"].map((k) =>
+  const pubBoxes = Object.fromEntries(["instagram", "facebook", "youtube", "stories", "tiktok"].map((k) =>
     [k, h("input", { type: "checkbox", checked: !!s.publishing?.[k] })]));
   const groqOn = h("input", { type: "checkbox", checked: s.groq?.enabled !== false });
   const model = h("input", { type: "text", value: s.groq?.model || "" });
@@ -413,6 +466,7 @@ function renderConfig(main) {
     h("h3", {}, "Publicação automática (ao aprovar, no horário do post)"),
     h("label", { class: "check" }, pubBoxes.instagram, "Instagram (versículo no feed, quiz no Reels)"),
     h("label", { class: "check" }, pubBoxes.facebook, "Facebook (Página)"),
+    h("label", { class: "check" }, pubBoxes.stories, "Stories do Instagram (imagem 9:16 ou o vídeo do quiz)"),
     h("label", { class: "check" }, pubBoxes.youtube, "YouTube Shorts (quiz; fica privado até a auditoria do YouTube)"),
     h("label", { class: "check" }, pubBoxes.tiktok, "TikTok (Reels vão para os rascunhos do app: você escolhe a música e publica)"),
     h("div", { class: "row" },
@@ -457,6 +511,7 @@ function render() {
   document.getElementById("brand").textContent = STATE.settings?.brand?.name || "Painel";
   if (TAB === "fila") renderQueue(main);
   else if (TAB === "historico") renderHistory(main);
+  else if (TAB === "metricas") renderMetrics(main);
   else renderConfig(main);
 }
 

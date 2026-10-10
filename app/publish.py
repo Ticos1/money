@@ -60,6 +60,8 @@ def applies(platform: str, post: dict) -> bool:
         return bool(media.get("video_music"))
     if platform == "tiktok":
         return bool(media.get("video_silent"))
+    if platform == "stories":
+        return bool(media.get("video_music") or "imagem_story.jpg" in media.get("images", []))
     return True
 
 
@@ -79,7 +81,7 @@ def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
     """Devolve (publicadores prontos, erros de configuração por rede)."""
     pubs, errors = {}, {}
     env = os.environ.get
-    if enabled.get("instagram") or enabled.get("facebook"):
+    if enabled.get("instagram") or enabled.get("facebook") or enabled.get("stories"):
         if env("META_ACCESS_TOKEN"):
             try:
                 from .publishers.meta import FacebookPublisher, InstagramPublisher, MetaAccount
@@ -91,12 +93,18 @@ def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
                         pubs["instagram"] = InstagramPublisher(acc)
                     except PublishError as exc:
                         errors["instagram"] = str(exc)
+                if enabled.get("stories"):
+                    try:
+                        from .publishers.meta import InstagramStoryPublisher
+                        pubs["stories"] = InstagramStoryPublisher(acc)
+                    except PublishError as exc:
+                        errors["stories"] = str(exc)
             except PublishError as exc:
-                for p in ("instagram", "facebook"):
+                for p in ("instagram", "facebook", "stories"):
                     if enabled.get(p):
                         errors[p] = str(exc)
         else:
-            log.append("Instagram/Facebook ligados, mas falta o segredo META_ACCESS_TOKEN")
+            log.append("Instagram/Facebook/Stories ligados, mas falta o segredo META_ACCESS_TOKEN")
     if enabled.get("tiktok"):
         if env("TIKTOK_CLIENT_KEY") and env("TIKTOK_CLIENT_SECRET") and env("MEDIA_SIGNING_SECRET"):
             try:

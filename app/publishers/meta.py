@@ -131,3 +131,30 @@ class FacebookPublisher(Publisher):
         image = "imagem_vertical.jpg" if "imagem_vertical.jpg" in media["images"] else media["images"][0]
         res = _call("POST", f"{page}/photos", url=media_url(image), message=text, access_token=token)
         return f"https://www.facebook.com/{res.get('post_id') or res['id']}"
+
+
+class InstagramStoryPublisher(Publisher):
+    """Stories do Instagram: imagem 9:16 (Versículo, Você sabia?) ou o vídeo do quiz."""
+    platform = "stories"
+
+    def __init__(self, account: MetaAccount):
+        if not account.ig_id:
+            raise PublishError("a Página não tem um Instagram profissional conectado")
+        self.acc = account
+
+    def supports(self, post: dict) -> bool:
+        media = post.get("media", {})
+        return bool(media.get("video_music") or "imagem_story.jpg" in media.get("images", []))
+
+    def publish(self, post: dict, media_dir: Path, media_url) -> str:
+        token, ig = self.acc.page_token, self.acc.ig_id
+        media = post["media"]
+        if media.get("video_music"):
+            container = _call("POST", f"{ig}/media", media_type="STORIES",
+                              video_url=media_url(media["video_music"]), access_token=token)["id"]
+        else:
+            container = _call("POST", f"{ig}/media", media_type="STORIES",
+                              image_url=media_url("imagem_story.jpg"), access_token=token)["id"]
+        _wait_container(container, token)
+        media_id = _call("POST", f"{ig}/media_publish", creation_id=container, access_token=token)["id"]
+        return f"story {media_id}"

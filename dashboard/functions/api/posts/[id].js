@@ -1,6 +1,6 @@
 import { GitHub, json } from "../../../lib/github.js";
 
-const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook"];
+const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook", "stories"];
 const VISUAL_FIELDS = {
   verse: ["on_screen", "reflection"],
   quiz: ["question", "options", "answer"],
