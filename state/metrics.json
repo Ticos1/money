@@ -1,9 +1,6 @@
 {
- "updated_at": "2026-10-10T10:25:30+00:00",
- "notes": [
-  "Instagram: alcance, salvamentos e visualizações precisam da permissão instagram_manage_insights no token (erro: (#10) Application does not have permission for this action)",
-  "YouTube: para ver visualizações, gere o refresh token com os escopos youtube.upload e youtube.readonly (veja docs/PUBLICACAO.md)"
- ],
+ "updated_at": "2026-10-10T10:55:24+00:00",
+ "notes": [],
  "posts": {
   "2026-10-10-6-quiz": {
    "type": "quiz",
@@ -17,13 +14,22 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
-   "youtube": null
+   "youtube": {
+    "views": 16,
+    "likes": 0,
+    "comments": 0
+   }
   },
   "2026-10-10-1-verse": {
    "type": "verse",
@@ -36,7 +42,11 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -55,7 +65,11 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
    },
    "facebook": {
     "likes": 0,
@@ -75,13 +89,22 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
-   "youtube": null
+   "youtube": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+   }
   },
   "2026-10-09-5-verse": {
    "type": "verse",
@@ -94,7 +117,11 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
@@ -114,13 +141,22 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 4,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
-   "youtube": null
+   "youtube": {
+    "views": 64,
+    "likes": 2,
+    "comments": 0
+   }
   },
   "2026-10-09-4-quiz": {
    "type": "quiz",
@@ -134,13 +170,22 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
-   "youtube": null
+   "youtube": {
+    "views": 21,
+    "likes": 1,
+    "comments": 0
+   }
   },
   "2026-10-09-3-curiosity": {
    "type": "curiosity",
@@ -153,7 +198,11 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -173,13 +222,22 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
-   "youtube": null
+   "youtube": {
+    "views": 12,
+    "likes": 1,
+    "comments": 0
+   }
   },
   "2026-10-09-1-verse": {
    "type": "verse",
@@ -192,7 +250,11 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
