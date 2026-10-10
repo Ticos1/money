@@ -11,7 +11,7 @@ on:
     - cron: "17 8 * * *" # 05:17 no horário de Brasília (08:17 UTC)
   push:
     branches: [main]
-    paths: ["dashboard/**", ".github/workflows/pipeline.yml"]
+    paths: ["dashboard/**", "scheduler/**", ".github/workflows/pipeline.yml"]
   workflow_dispatch:
     inputs:
       mode:
@@ -134,6 +134,13 @@ jobs:
           cp -r media_repo/media dist/media
           cd dashboard
           npx --yes wrangler@4.140.0 pages deploy ../dist --project-name "$CF_PAGES_PROJECT" --branch main --commit-dirty=true
+
+      - name: Publicar agendador (Cloudflare Worker)
+        if: env.MODE == 'deploy' && env.CLOUDFLARE_API_TOKEN != ''
+        continue-on-error: true
+        run: |
+          cd scheduler
+          npx --yes wrangler@4.140.0 deploy || echo "::warning::Agendador não publicado: o token do Cloudflare precisa da permissão 'Workers Scripts: Edit' (veja docs/PUBLICACAO.md)."
 
       - name: Aviso de configuração
         if: env.CLOUDFLARE_API_TOKEN == '' || env.CF_PAGES_PROJECT == ''

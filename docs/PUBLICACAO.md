@@ -127,3 +127,19 @@ Depois de corrigir a configuração, desmarque e marque de novo, ou rode o workf
 - Instagram: até 50 posts por API a cada 24 h (usamos 1 a 2).
 - GitHub Actions: a rotina de hora em hora usa cerca de 10 min/dia, que somados à
   geração ficam bem abaixo dos 2.000 min/mês grátis.
+
+---
+
+## Agendador confiável (Cloudflare) — importante
+
+O agendamento do GitHub Actions **atrasa e pula execuções** em horários de muito
+uso. Por isso, quem dispara a publicação no horário é um pequeno **Worker do
+Cloudflare** (`scheduler/`), que roda a cada 5 minutos, de graça. Ele também
+garante a geração diária, se a das 05:17 não rodar.
+
+Configuração (uma vez):
+1. **Permissão do token:** Cloudflare → My Profile → API Tokens → edite o token
+   usado pelo GitHub → **Add more** → `Account` · `Workers Scripts` · `Edit` → Save.
+2. Rode **Actions → Pipeline de conteúdo → mode `deploy`**. Isso instala o Worker `palavra-diaria-agendador`.
+3. **Cloudflare → Workers & Pages → `palavra-diaria-agendador` → Settings → Variables and Secrets → Add:**
+   - Tipo **Secret** · Name `GITHUB_TOKEN` · Value: o mesmo token `github_pat_...` usado no painel.

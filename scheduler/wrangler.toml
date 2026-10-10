@@ -1,0 +1,14 @@
+# Agendador confiável (Cloudflare Workers, grátis): a cada 5 minutos confere se há
+# post aprovado no horário e dispara a publicação; garante também a geração diária.
+name = "palavra-diaria-agendador"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+workers_dev = false
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[vars]
+GITHUB_REPO = "Ticos1/money"
+GITHUB_BRANCH = "main"
+# GITHUB_TOKEN é secreto: cadastre no Cloudflare (Workers → palavra-diaria-agendador → Settings → Variables)
