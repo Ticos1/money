@@ -357,6 +357,18 @@ class CompletedPostsTests(unittest.TestCase):
             self.assertEqual(state.load_history()[0]["id"], "a")
 
 
+class MetaErrorTests(unittest.TestCase):
+    def test_error_190_without_page_permissions_explains_how_to_fix(self):
+        from app.publishers import PublishError, meta
+        resp = mock.Mock(status_code=400, text="", json=lambda: {"error": {
+            "code": 190, "message": "Any of the pages_read_engagement,\n pages_show_list permission(s) must be granted"}})
+        with mock.patch.object(meta.requests, "request", return_value=resp):
+            with self.assertRaises(PublishError) as ctx:
+                meta._call("GET", "me")
+        self.assertIn("TODAS as permissões", str(ctx.exception))
+        self.assertIn("META_ACCESS_TOKEN", str(ctx.exception))
+
+
 class StoriesTests(unittest.TestCase):
     def test_story_uses_9x16_image_or_quiz_video(self):
         from app.publishers import meta

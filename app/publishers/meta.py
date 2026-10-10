@@ -31,7 +31,12 @@ def _call(method: str, path: str, **params) -> dict:
         raise PublishError(f"falha de conexão com a Meta: {exc}") from exc
     if resp.status_code != 200 or "error" in data:
         err = data.get("error", {}) if isinstance(data, dict) else {}
-        raise PublishError(f"Meta: {err.get('message') or resp.text[:300]} (código {err.get('code')})")
+        message = " ".join(str(err.get("message") or resp.text[:300]).split())
+        if err.get("code") == 190 and "permission" in message:
+            raise PublishError("O token da Meta (META_ACCESS_TOKEN) está sem as permissões da Página. Gere o token "
+                               "de novo marcando TODAS as permissões e atualize o segredo "
+                               "(docs/PUBLICACAO.md, 'Token da Meta com erro 190').")
+        raise PublishError(f"Meta: {message} (código {err.get('code')})")
     return data
 
 

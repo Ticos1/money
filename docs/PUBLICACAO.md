@@ -208,3 +208,26 @@ Observações:
   é só confirmar o telefone). Sem isso, o vídeo sai igual, com uma miniatura escolhida pelo YouTube.
 - Cada envio ao YouTube gasta 1.600 dos 10.000 pontos diários da cota gratuita da API. Com 4 Shorts
   por dia, o vídeo longo cabe (4 × 1.600 + 1.600 = 8.000). Evite várias publicações manuais no mesmo dia.
+
+---
+
+## Token da Meta com erro 190 ("Any of the pages_read_engagement... permission(s) must be granted")
+
+Acontece quando o `META_ACCESS_TOKEN` foi gerado **sem as permissões da Página**. No Explorador da
+Graph API, ao gerar um token novo, as permissões marcadas antes **não ficam salvas**: é preciso
+marcar todas de novo, não só a que você quer acrescentar.
+
+1. Explorador (<https://developers.facebook.com/tools/explorer>) → Meta App `Palavra Diaria Publicador` →
+   *Get User Access Token*.
+2. Em **Permissions**, confira que as **oito** estão marcadas (se faltar alguma, adicione):
+   `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
+   `instagram_content_publish`, `business_management`, `instagram_manage_insights`,
+   `pages_manage_metadata`
+3. **Generate Access Token** e, na janela da Meta, **marque a Página e o Instagram** (escolha "todas" se aparecer a opção).
+4. Depurador (<https://developers.facebook.com/tools/debug/accesstoken>) → **Extend Access Token** → copie o token longo.
+5. No Explorador, cole o token longo e consulte
+   `me/accounts?fields=name,access_token,instagram_business_account` → copie o `access_token` **da Página**
+   (não o token de usuário).
+6. GitHub → Secrets → `META_ACCESS_TOKEN` → **Update** → cole → Save.
+7. No painel, abra o post que deu erro e toque em **🚀 Publicar agora** (isso libera nova tentativa;
+   sozinho ele tenta só 3 vezes).
