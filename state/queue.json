@@ -72,6 +72,77 @@
    "error": null
   },
   {
+   "id": "2026-10-10-7-curiosity",
+   "date": "2026-10-10",
+   "slot": 7,
+   "time": "21:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T14:36:16+00:00",
+   "source": "bank",
+   "bank_id": "c146",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:51",
+    "ref_label": "Marcos 14:51",
+    "title": "O jovem que fugiu sem roupa",
+    "text": "Na prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos.",
+    "evidence": "vestindo apenas um lençol de linho",
+    "passage": "Um certo jovem o seguia, vestindo apenas um lençol de linho sobre o corpo nu. Os jovens o agarraram,",
+    "tags": [
+     "marcos",
+     "curiosidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #gospel #jesus #historiabiblica #biblia #estudobiblico #evangelico #fe #palavradedeus",
+    "facebook": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Aprenda algo novo sobre a Bíblia hoje 📖 O jovem que fugiu sem roupa\nMarque alguém que vai gostar de saber disso.\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #biblia",
+    "kwai": "Aprenda algo novo sobre a Bíblia hoje 📖 O jovem que fugiu sem roupa\nMarque alguém que vai gostar de saber disso.\n#marcos #curiosidade #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "youtube": {
+     "title": "Você sabia? O jovem que fugiu sem roupa #shorts",
+     "description": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nO jovem que fugiu sem roupa\n\nNa prisão de Jesus, um jovem vestido só com um lençol de linho foi agarrado e fugiu nu. Muitos acreditam que era o próprio Marcos. (Marcos 14:51)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #marcos #curiosidade #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-10/2026-10-10-7-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
    "id": "2026-10-10-6-quiz-v2",
    "date": "2026-10-10",
    "slot": 6,
@@ -141,6 +212,89 @@
     ],
     "duration": 25.45,
     "base": "media/2026-10-10/2026-10-10-6-quiz-v2/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-6-quiz",
+   "date": "2026-10-10",
+   "slot": 6,
+   "time": "19:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:36:14+00:00",
+   "source": "bank",
+   "bank_id": "q031",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 6:14",
+    "ref_label": "1 Reis 6:14",
+    "question": "Qual rei edificou o templo (a casa) em Jerusalém?",
+    "options": [
+     "Davi",
+     "Saul",
+     "Salomão",
+     "Ezequias"
+    ],
+    "answer": 2,
+    "evidence": "Salomão edificou a casa",
+    "passage": "Assim Salomão edificou a casa e a terminou.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #biblia #gospel #deus #conhecimentobiblico #fe #teste #desafio #evangelico",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #gospel #palavradedeus #biblia",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Qual rei edificou o templo (a casa) em Jerusalém? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.25,
+    "base": "media/2026-10-10/2026-10-10-6-quiz/",
     "version": 1
    },
    "published": {
@@ -238,6 +392,89 @@
    "error": null
   },
   {
+   "id": "2026-10-10-5-quiz",
+   "date": "2026-10-10",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:34:50+00:00",
+   "source": "bank",
+   "bank_id": "q177",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 6:20",
+    "ref_label": "Êxodo 6:20",
+    "question": "Qual era o nome da mãe de Moisés e Arão?",
+    "options": [
+     "Zípora",
+     "Miriã",
+     "Joquebede",
+     "Sara"
+    ],
+    "answer": 2,
+    "evidence": "Anrão tomou por mulher a Joquebede",
+    "passage": "Anrão tomou por mulher a Joquebede, irmã de seu pai; e ela lhe deu à luz Arão e Moisés. Os anos da vida de Anrão foram cento e trinta e sete anos.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #jesus #gospel #palavradedeus #perguntasbiblicas #biblia #desafio #deus #fe",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #evangelico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #jesus #gospel",
+    "youtube": {
+     "title": "Você conhece mesmo a Bíblia? Prove! Qual era o nome da mãe de Moisés e Arão? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual era o nome da mãe de Moisés e Arão?\n\nA) Zípora\nB) Miriã\nC) Joquebede\nD) Sara\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 20.72,
+    "base": "media/2026-10-10/2026-10-10-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
    "id": "2026-10-10-4-quiz-v2",
    "date": "2026-10-10",
    "slot": 4,
@@ -321,6 +558,245 @@
    "error": null
   },
   {
+   "id": "2026-10-10-4-quiz",
+   "date": "2026-10-10",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-10T14:33:29+00:00",
+   "source": "bank",
+   "bank_id": "q083",
+   "model": null,
+   "content": {
+    "ref": "Atos 9:11",
+    "ref_label": "Atos 9:11",
+    "question": "De qual cidade era Saulo (o apóstolo Paulo)?",
+    "options": [
+     "Jerusalém",
+     "Antioquia",
+     "Tarso",
+     "Éfeso"
+    ],
+    "answer": 2,
+    "evidence": "Saulo, de Tarso",
+    "passage": "O Senhor lhe disse: “Levante-se e vá à rua chamada Direita, e pergunte na casa de Judá por um homem chamado Saulo, de Tarso. Pois ele está orando,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #palavradedeus #evangelico #deus #jesus #fe #conhecimentobiblico #gospel #teste",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #evangelico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #fe #teste",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #jesus",
+    "youtube": {
+     "title": "Pergunta bíblica que poucos acertam De qual cidade era Saulo (o apóstolo Paulo)? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nDe qual cidade era Saulo (o apóstolo Paulo)?\n\nA) Jerusalém\nB) Antioquia\nC) Tarso\nD) Éfeso\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.25,
+    "base": "media/2026-10-10/2026-10-10-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-3-curiosity",
+   "date": "2026-10-10",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T14:32:05+00:00",
+   "source": "bank",
+   "bank_id": "c046",
+   "model": null,
+   "content": {
+    "ref": "João 18:10",
+    "ref_label": "João 18:10",
+    "title": "O nome do servo que perdeu a orelha",
+    "text": "Quando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco.",
+    "evidence": "O nome do servo era Malco",
+    "passage": "Simão Pedro, pois, que tinha uma espada, puxou-a, feriu o servo do sumo sacerdote e cortou-lhe a orelha direita. O nome do servo era Malco.",
+    "tags": [
+     "pedro",
+     "detalhes"
+    ]
+   },
+   "captions": {
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #estudobiblico #deus #evangelico #gospel #cristao #jesus #historiabiblica #palavradedeus",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pedro #detalhes #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 O nome do servo que perdeu a orelha\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 O nome do servo que perdeu a orelha\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pedro #detalhes #vocesabia #curiosidadesbiblicas #gospel",
+    "youtube": {
+     "title": "Você sabia? O nome do servo que perdeu a orelha #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nO nome do servo que perdeu a orelha\n\nQuando Pedro cortou a orelha direita do servo do sumo sacerdote, João registrou até o nome dele: Malco. (João 18:10)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #pedro #detalhes #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-10/2026-10-10-3-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-2-quiz",
+   "date": "2026-10-10",
+   "slot": 2,
+   "time": "09:00",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-10T14:32:04+00:00",
+   "source": "bank",
+   "bank_id": "q256",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 25:25",
+    "ref_label": "Gênesis 25:25",
+    "question": "Como Esaú nasceu, segundo Gênesis?",
+    "options": [
+     "Todo vermelho",
+     "Sem cabelos",
+     "Muito pequeno",
+     "Com os olhos abertos"
+    ],
+    "answer": 0,
+    "evidence": "O primeiro saiu todo vermelho",
+    "passage": "O primeiro saiu todo vermelho, como uma veste de pelos. Eles o chamaram de Esaú.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #palavradedeus #evangelico #gospel #cristao #deus #conhecimentobiblico #teste #fe #perguntasbiblicas",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #biblia #cristao #conhecimentobiblico",
+    "youtube": {
+     "title": "Pergunta bíblica que poucos acertam Como Esaú nasceu, segundo Gênesis? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.52,
+    "base": "media/2026-10-10/2026-10-10-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-10-1-verse-v2",
    "date": "2026-10-10",
    "slot": 1,
@@ -392,6 +868,80 @@
    "log": [
     "verse: Groq tentativa 1 descartada: Salmo versículo 1 (pode ter título)",
     "verse: conteúdo novo da Groq (openai/gpt-oss-120b) aceito",
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-10-1-verse",
+   "date": "2026-10-10",
+   "slot": 1,
+   "time": "07:00",
+   "type": "verse",
+   "status": "pending",
+   "created_at": "2026-10-10T14:30:35+00:00",
+   "source": "bank",
+   "bank_id": "v072",
+   "model": null,
+   "content": {
+    "ref": "Salmos 103:2",
+    "ref_label": "Salmos 103:2",
+    "verse_text": "Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…",
+    "on_screen": "Não se esqueça dos benefícios de Deus.",
+    "reflection": "Davi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.",
+    "theme": "gratidão",
+    "mood": "alegria",
+    "tags": [
+     "gratidao",
+     "louvor"
+    ]
+   },
+   "captions": {
+    "instagram": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo #evangelico #deus #oracao #biblia #jesus #fe #palavradedeus #devocional",
+    "facebook": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo",
+    "tiktok": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #fe",
+    "kwai": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #cristao",
+    "youtube": {
+     "title": "Salmos 103:2: Não se esqueça dos benefícios de Deus. #shorts",
+     "description": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #louvor #versiculododia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-10/2026-10-10-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
     "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
    "error": null
