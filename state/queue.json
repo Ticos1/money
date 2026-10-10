@@ -6,7 +6,7 @@
    "slot": 8,
    "time": "12:00",
    "type": "compilation",
-   "status": "pending",
+   "status": "approved",
    "created_at": "2026-10-10T15:39:26+00:00",
    "source": "bank",
    "bank_id": null,
