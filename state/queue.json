@@ -145,9 +145,9 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null
+    "youtube": "2026-10-10T05:28:28+00:00",
+    "instagram": "2026-10-10T05:29:18+00:00",
+    "facebook": "2026-10-10T05:29:22+00:00"
    },
    "log": [
     "quiz: Groq tentativa 1 descartada: conteúdo repetido",
@@ -156,7 +156,11 @@
    ],
    "error": null,
    "publish_errors": {},
-   "publishing_now": "2026-10-10T05:28:09.396Z"
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
+    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+   }
   },
   {
    "id": "2026-10-10-5-quiz",
