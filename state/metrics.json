@@ -1,23 +1,19 @@
 {
- "updated_at": "2026-10-10T14:34:43+00:00",
+ "updated_at": "2026-10-10T15:00:31+00:00",
  "notes": [
   "Meta: Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging per"
  ],
  "posts": {
-  "2026-10-10-6-quiz": {
+  "2026-10-10-2-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-10",
-   "time": "19:00",
-   "title": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
+   "time": "09:00",
+   "title": "Qual nome o espírito imundo do homem de Gadara disse ter?",
    "links": {
-    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
-    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+    "youtube": "https://youtube.com/shorts/HPgKH6DUeio"
    },
-   "instagram": null,
-   "facebook": null,
    "youtube": {
-    "views": 17,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -33,24 +29,6 @@
    },
    "instagram": null,
    "facebook": null
-  },
-  "2026-10-10-2-quiz": {
-   "type": "quiz",
-   "date": "2026-10-10",
-   "time": "09:00",
-   "title": "A quem Jesus disse: \"vem para fora!\"?",
-   "links": {
-    "youtube": "https://youtube.com/shorts/0KYCn4BERM8",
-    "instagram": "https://www.instagram.com/reel/DeT8SergR2C/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3757767331048069"
-   },
-   "instagram": null,
-   "facebook": null,
-   "youtube": {
-    "views": 31,
-    "likes": 3,
-    "comments": 0
-   }
   },
   "2026-10-10-2-quiz-v2": {
    "type": "quiz",
@@ -69,18 +47,6 @@
     "likes": 0,
     "comments": 0
    }
-  },
-  "2026-10-10-1-verse": {
-   "type": "verse",
-   "date": "2026-10-10",
-   "time": "07:00",
-   "title": "2 Timóteo 1:7",
-   "links": {
-    "instagram": "https://www.instagram.com/p/DeT093wGDsP/",
-    "facebook": "https://www.facebook.com/1405324152662027_122094571149513774"
-   },
-   "instagram": null,
-   "facebook": null
   },
   "2026-10-09-7-curiosity": {
    "type": "curiosity",
@@ -156,7 +122,7 @@
    "facebook": null,
    "youtube": {
     "views": 21,
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    }
   },
