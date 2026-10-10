@@ -1,8 +1,7 @@
 {
- "updated_at": "2026-10-10T10:25:30+00:00",
+ "updated_at": "2026-10-10T14:34:43+00:00",
  "notes": [
-  "Instagram: alcance, salvamentos e visualizações precisam da permissão instagram_manage_insights no token (erro: (#10) Application does not have permission for this action)",
-  "YouTube: para ver visualizações, gere o refresh token com os escopos youtube.upload e youtube.readonly (veja docs/PUBLICACAO.md)"
+  "Meta: Meta: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging per"
  ],
  "posts": {
   "2026-10-10-6-quiz": {
@@ -15,15 +14,61 @@
     "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
    },
-   "instagram": {
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 17,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-10-3-curiosity-v2": {
+   "type": "curiosity",
+   "date": "2026-10-10",
+   "time": "12:00",
+   "title": "Aba, Pai",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeUF3ShmDyL/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094628065513774"
    },
-   "facebook": {
+   "instagram": null,
+   "facebook": null
+  },
+  "2026-10-10-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "A quem Jesus disse: \"vem para fora!\"?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0KYCn4BERM8",
+    "instagram": "https://www.instagram.com/reel/DeT8SergR2C/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3757767331048069"
+   },
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 31,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-10-2-quiz-v2": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "Por quantas moedas de prata Judas entregou Jesus?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0IsGIgs76SE",
+    "instagram": "https://www.instagram.com/reel/DeUCRbtDtKG/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1122568937415887"
+   },
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 0,
     "likes": 0,
     "comments": 0
-   },
-   "youtube": null
+   }
   },
   "2026-10-10-1-verse": {
    "type": "verse",
@@ -34,15 +79,8 @@
     "instagram": "https://www.instagram.com/p/DeT093wGDsP/",
     "facebook": "https://www.facebook.com/1405324152662027_122094571149513774"
    },
-   "instagram": {
-    "likes": 0,
-    "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   }
+   "instagram": null,
+   "facebook": null
   },
   "2026-10-09-7-curiosity": {
    "type": "curiosity",
@@ -53,15 +91,8 @@
     "instagram": "https://www.instagram.com/p/DeS7WL5D4H8/",
     "facebook": "https://www.facebook.com/1405324152662027_122094354219513774"
    },
-   "instagram": {
-    "likes": 0,
-    "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   }
+   "instagram": null,
+   "facebook": null
   },
   "2026-10-09-6-quiz": {
    "type": "quiz",
@@ -73,15 +104,13 @@
     "instagram": "https://www.instagram.com/reel/DeS7ZD_AiCs/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1618555839765225"
    },
-   "instagram": {
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 2,
     "likes": 0,
     "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": null
+   }
   },
   "2026-10-09-5-verse": {
    "type": "verse",
@@ -92,15 +121,8 @@
     "instagram": "https://www.instagram.com/p/DeSfS-riYcW/",
     "facebook": "https://www.facebook.com/1405324152662027_122094258273513774"
    },
-   "instagram": {
-    "likes": 1,
-    "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   }
+   "instagram": null,
+   "facebook": null
   },
   "2026-10-09-5-quiz": {
    "type": "quiz",
@@ -112,15 +134,13 @@
     "instagram": "https://www.instagram.com/reel/DeSfVGxD3x2/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1122398790142103"
    },
-   "instagram": {
-    "likes": 1,
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 64,
+    "likes": 2,
     "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": null
+   }
   },
   "2026-10-09-4-quiz": {
    "type": "quiz",
@@ -132,15 +152,13 @@
     "instagram": "https://www.instagram.com/reel/DeSfbF5js5J/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1092451150302956"
    },
-   "instagram": {
-    "likes": 0,
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 21,
+    "likes": 1,
     "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": null
+   }
   },
   "2026-10-09-3-curiosity": {
    "type": "curiosity",
@@ -151,15 +169,8 @@
     "instagram": "https://www.instagram.com/p/DeR_YbtAX7n/",
     "facebook": "https://www.facebook.com/1405324152662027_122094157875513774"
    },
-   "instagram": {
-    "likes": 0,
-    "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   }
+   "instagram": null,
+   "facebook": null
   },
   "2026-10-09-2-quiz": {
    "type": "quiz",
@@ -171,15 +182,13 @@
     "instagram": "https://www.instagram.com/reel/DeS7d4vkkaE/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1087243287281107"
    },
-   "instagram": {
-    "likes": 0,
+   "instagram": null,
+   "facebook": null,
+   "youtube": {
+    "views": 12,
+    "likes": 1,
     "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": null
+   }
   },
   "2026-10-09-1-verse": {
    "type": "verse",
@@ -190,15 +199,8 @@
     "facebook": "https://www.facebook.com/1405324152662027_122094033165513774",
     "instagram": "https://www.instagram.com/p/DeResKNDijL/"
    },
-   "instagram": {
-    "likes": 1,
-    "comments": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   }
+   "instagram": null,
+   "facebook": null
   }
  }
 }
