@@ -154,7 +154,9 @@
     "quiz: Groq tentativa 2 descartada: conteúdo repetido",
     "legenda Groq descartada: legenda incompleta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-10T05:28:09.396Z"
   },
   {
    "id": "2026-10-10-5-quiz",
