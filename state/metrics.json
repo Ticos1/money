@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T12:02:15+00:00",
+ "updated_at": "2026-10-11T14:52:44+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -14,7 +14,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
@@ -23,6 +23,35 @@
     "likes": 0,
     "comments": 0,
     "shares": 0
+   }
+  },
+  "2026-10-11-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "09:00",
+   "title": "Quantos homens leprosos estavam à entrada da porta?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/fJX2ktGC79U",
+    "instagram": "https://www.instagram.com/reel/DeWnAHUDFYS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1006640089118350"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 1
+   },
+   "youtube": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
    }
   },
   "2026-10-11-1-verse": {
@@ -37,7 +66,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
