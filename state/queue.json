@@ -1,305 +1,52 @@
 {
  "posts": [
   {
-   "id": "2026-10-10-8-compilation",
-   "date": "2026-10-10",
-   "slot": 8,
-   "time": "12:00",
-   "type": "compilation",
-   "status": "rejected",
-   "created_at": "2026-10-10T15:39:26+00:00",
+   "id": "2026-10-11-7-curiosity",
+   "date": "2026-10-11",
+   "slot": 7,
+   "time": "21:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-11T03:21:00+00:00",
    "source": "bank",
-   "bank_id": null,
+   "bank_id": "c031",
    "model": null,
    "content": {
-    "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
-    "count": 40,
-    "duration": 602,
-    "questions": [
-     {
-      "n": 1,
-      "question": "Em que se tornou a vara de Moisés quando ele a jogou no chão?",
-      "ref_label": "Êxodo 4:3"
-     },
-     {
-      "n": 2,
-      "question": "Com o que Samuel ungiu Saul como líder?",
-      "ref_label": "1 Samuel 10:1"
-     },
-     {
-      "n": 3,
-      "question": "Onde Jesus fez o primeiro de seus sinais?",
-      "ref_label": "João 2:11"
-     },
-     {
-      "n": 4,
-      "question": "O que Gideão estava fazendo quando o anjo do Senhor apareceu?",
-      "ref_label": "Juízes 6:11"
-     },
-     {
-      "n": 5,
-      "question": "Qual era o nome da mãe de Moisés e Arão?",
-      "ref_label": "Êxodo 6:20"
-     },
-     {
-      "n": 6,
-      "question": "Como Esaú nasceu, segundo Gênesis?",
-      "ref_label": "Gênesis 25:25"
-     },
-     {
-      "n": 7,
-      "question": "Por meio de quantos homens Deus deu vitória a Gideão?",
-      "ref_label": "Juízes 7:7"
-     },
-     {
-      "n": 8,
-      "question": "Qual princesa sidônia se casou com o rei Acabe e o levou a adorar Baal?",
-      "ref_label": "1 Reis 16:31"
-     },
-     {
-      "n": 9,
-      "question": "Em Malaquias, o que o Senhor diz que vai abrir se o dízimo for trazido?",
-      "ref_label": "Malaquias 3:10"
-     },
-     {
-      "n": 10,
-      "question": "Saulo também era chamado de...",
-      "ref_label": "Atos 13:9"
-     },
-     {
-      "n": 11,
-      "question": "Quantas vezes Paulo sofreu naufrágio, segundo 2 Coríntios?",
-      "ref_label": "2 Coríntios 11:25"
-     },
-     {
-      "n": 12,
-      "question": "Qual nome o espírito imundo do homem de Gadara disse ter?",
-      "ref_label": "Marcos 5:9"
-     },
-     {
-      "n": 13,
-      "question": "Quantas pequenas moedas a viúva pobre lançou no gazofilácio?",
-      "ref_label": "Marcos 12:42"
-     },
-     {
-      "n": 14,
-      "question": "Completando a frase de Jesus: 'Deem a César o que é de César, e a...'",
-      "ref_label": "Mateus 22:21"
-     },
-     {
-      "n": 15,
-      "question": "Qual profeta subiu ao céu em um redemoinho?",
-      "ref_label": "2 Reis 2:11"
-     },
-     {
-      "n": 16,
-      "question": "Quem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?",
-      "ref_label": "Atos 7:59"
-     },
-     {
-      "n": 17,
-      "question": "O que Deus fez crescer para dar sombra a Jonas?",
-      "ref_label": "Jonas 4:6"
-     },
-     {
-      "n": 18,
-      "question": "Segundo Gênesis, quantos grandes luminares Deus fez?",
-      "ref_label": "Gênesis 1:16"
-     },
-     {
-      "n": 19,
-      "question": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
-      "ref_label": "Gênesis 5:27"
-     },
-     {
-      "n": 20,
-      "question": "O que os discípulos deveriam trazer do povoado para Jesus entrar em Jerusalém?",
-      "ref_label": "Mateus 21:2"
-     },
-     {
-      "n": 21,
-      "question": "Qual fariseu foi encontrar Jesus de noite?",
-      "ref_label": "João 3:1-2"
-     },
-     {
-      "n": 22,
-      "question": "Segundo Marcos, a quem Jesus ressuscitado apareceu primeiro?",
-      "ref_label": "Marcos 16:9"
-     },
-     {
-      "n": 23,
-      "question": "O que o grande peixe fez com Jonas quando o Senhor lhe falou?",
-      "ref_label": "Jonas 2:10"
-     },
-     {
-      "n": 24,
-      "question": "Lídia, que ouvia Paulo em Filipos, era vendedora de quê?",
-      "ref_label": "Atos 16:14"
-     },
-     {
-      "n": 25,
-      "question": "De qual cidade era Saulo (o apóstolo Paulo)?",
-      "ref_label": "Atos 9:11"
-     },
-     {
-      "n": 26,
-      "question": "Quais eram os nomes das parteiras hebreias no Egito?",
-      "ref_label": "Êxodo 1:15"
-     },
-     {
-      "n": 27,
-      "question": "Qual era o nome do tanque com cinco pórticos em Jerusalém?",
-      "ref_label": "João 5:2"
-     },
-     {
-      "n": 28,
-      "question": "Qual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?",
-      "ref_label": "Daniel 2:1"
-     },
-     {
-      "n": 29,
-      "question": "Qual rei edificou o templo (a casa) em Jerusalém?",
-      "ref_label": "1 Reis 6:14"
-     },
-     {
-      "n": 30,
-      "question": "Por quantas moedas de prata Judas entregou Jesus?",
-      "ref_label": "Mateus 26:14-15"
-     },
-     {
-      "n": 31,
-      "question": "Quem tinha uma vinha ao lado do palácio do rei Acabe?",
-      "ref_label": "1 Reis 21:1"
-     },
-     {
-      "n": 32,
-      "question": "Que vento trouxe os gafanhotos sobre o Egito?",
-      "ref_label": "Êxodo 10:13"
-     },
-     {
-      "n": 33,
-      "question": "Em tempo de fome, a qual rei dos filisteus Isaque foi em Gerar?",
-      "ref_label": "Gênesis 26:1"
-     },
-     {
-      "n": 34,
-      "question": "Em qual ilha estava João quando recebeu o Apocalipse?",
-      "ref_label": "Apocalipse 1:9"
-     },
-     {
-      "n": 35,
-      "question": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
-      "ref_label": "1 Reis 10:22"
-     },
-     {
-      "n": 36,
-      "question": "Para qual grande cidade Deus mandou Jonas pregar?",
-      "ref_label": "Jonas 1:2"
-     },
-     {
-      "n": 37,
-      "question": "Dos dez leprosos curados, o que voltou para agradecer era de qual povo?",
-      "ref_label": "Lucas 17:16"
-     },
-     {
-      "n": 38,
-      "question": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
-      "ref_label": "Josué 14:7"
-     },
-     {
-      "n": 39,
-      "question": "O que Moisés colocou sobre uma haste para curar quem fosse mordido?",
-      "ref_label": "Números 21:9"
-     },
-     {
-      "n": 40,
-      "question": "Qual arcanjo discutiu com o diabo a respeito do corpo de Moisés?",
-      "ref_label": "Judas 1:9"
-     }
-    ]
-   },
-   "captions": {
-    "youtube": {
-     "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
-     "description": "Você conhece mesmo a Bíblia? Responda 40 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:36 Pergunta 3\n0:50 Pergunta 4\n1:07 Pergunta 5\n1:20 Pergunta 6\n1:35 Pergunta 7\n1:49 Pergunta 8\n2:03 Pergunta 9\n2:20 Pergunta 10\n2:33 Pergunta 11\n2:47 Pergunta 12\n3:01 Pergunta 13\n3:15 Pergunta 14\n3:32 Pergunta 15\n3:45 Pergunta 16\n4:00 Pergunta 17\n4:15 Pergunta 18\n4:29 Pergunta 19\n4:42 Pergunta 20\n4:59 Pergunta 21\n5:13 Pergunta 22\n5:27 Pergunta 23\n5:44 Pergunta 24\n5:58 Pergunta 25\n6:12 Pergunta 26\n6:27 Pergunta 27\n6:41 Pergunta 28\n6:58 Pergunta 29\n7:11 Pergunta 30\n7:25 Pergunta 31\n7:39 Pergunta 32\n7:53 Pergunta 33\n8:08 Pergunta 34\n8:22 Pergunta 35\n8:38 Pergunta 36\n8:52 Pergunta 37\n9:07 Pergunta 38\n9:22 Pergunta 39\n9:39 Pergunta 40\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus"
-    }
-   },
-   "caption_source": "template",
-   "music": null,
-   "gospel_suggestions": [],
-   "media": {
-    "base": "media/2026-10-10/2026-10-10-8-compilation/",
-    "version": 1,
-    "video_music": "video_longo.mp4",
-    "poster": "miniatura.jpg",
-    "thumbnail": "miniatura.jpg",
-    "images": [],
-    "duration": 602.5,
-    "long": true
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null,
-   "publish_errors": {},
-   "publishing_now": "2026-10-10T15:40:56.227Z"
-  },
-  {
-   "id": "2026-10-10-1-verse-v3",
-   "date": "2026-10-10",
-   "slot": 1,
-   "time": "07:00",
-   "type": "verse",
-   "status": "rejected",
-   "created_at": "2026-10-10T14:37:23+00:00",
-   "source": "bank",
-   "bank_id": "v115",
-   "model": null,
-   "content": {
-    "ref": "Salmos 51:10",
-    "ref_label": "Salmos 51:10",
-    "verse_text": "Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.",
-    "on_screen": "Cria em mim um coração puro, ó Deus.",
-    "reflection": "Davi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.",
-    "theme": "renovação",
-    "mood": "reflexao",
+    "ref": "Êxodo 2:10",
+    "ref_label": "Êxodo 2:10",
+    "title": "O significado do nome Moisés",
+    "text": "A filha do faraó chamou o menino de Moisés porque o tirou da água.",
+    "evidence": "eu o tirei da água",
+    "passage": "O menino cresceu, e ela o levou à filha do faraó, e ele se tornou seu filho. Ela o chamou de Moisés, e disse: “Porque eu o tirei da água.”",
     "tags": [
-     "arrependimento",
-     "salmos"
+     "moises",
+     "nomes"
     ]
    },
    "captions": {
-    "instagram": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#arrependimento #salmos #versiculododia #versiculo #oracao #reflexao #deus #devocional #biblia #fe #evangelico #jesus",
-    "facebook": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#arrependimento #salmos #versiculododia #versiculo",
-    "tiktok": "Leia com calma e receba 🙏 Salmos 51:10\nCompartilhe com alguém que precisa ler isso hoje.\n#arrependimento #salmos #versiculododia #versiculo #oracao",
-    "kwai": "Leia com calma e receba 🙏 Salmos 51:10\nCompartilhe com alguém que precisa ler isso hoje.\n#arrependimento #salmos #versiculododia #versiculo #biblia",
+    "instagram": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #nomes #vocesabia #curiosidadesbiblicas #cristao #historiabiblica #estudobiblico #evangelico #fe #jesus #gospel #deus",
+    "facebook": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #nomes #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Moisés recebeu o nome por ter sido tirado da água. 🙏\n#moises #nomes #vocesabia #curiosidadesbiblicas #evangelico",
+    "kwai": "Moisés recebeu o nome por ter sido tirado da água. 🙏\n#moises #nomes #vocesabia #curiosidadesbiblicas #evangelico",
     "youtube": {
-     "title": "Salmos 51:10: Cria em mim um coração puro, ó Deus. #shorts",
-     "description": "Leia com calma e receba 🙏\n\n“Cria em mim um coração puro, ó Deus. Renova dentro de mim um espírito reto.” (Salmos 51:10)\n\nDavi escreveu este salmo depois de errar feio. O caminho de volta começa com um pedido sincero: Senhor, renova o meu coração.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #arrependimento #salmos #versiculododia"
+     "title": "Por que Moisés foi chamado assim? Descubra a curiosidade bíblica #shorts",
+     "description": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #moises #nomes #vocesabia"
     }
    },
-   "caption_source": "template",
+   "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Nada Além do Sangue",
-     "artist": "Fernandinho"
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
     },
     {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
     },
     {
-     "title": "Oh Quão Lindo Esse Nome É",
-     "artist": "Ana Nóbrega"
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
     }
    ],
    "media": {
@@ -310,7 +57,7 @@
      "imagem_quadrada.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-10/2026-10-10-1-verse-v3/",
+    "base": "media/2026-10-11/2026-10-11-7-curiosity/",
     "version": 1
    },
    "published": {
@@ -322,8 +69,487 @@
     "stories": null
    },
    "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
    ],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-6-quiz",
+   "date": "2026-10-11",
+   "slot": 6,
+   "time": "19:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:20:57+00:00",
+   "source": "bank",
+   "bank_id": "q059",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 12:1",
+    "ref_label": "2 Samuel 12:1",
+    "question": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+    "options": [
+     "Samuel",
+     "Gade",
+     "Natã",
+     "Elias"
+    ],
+    "answer": 2,
+    "evidence": "enviou Natã a Davi",
+    "passage": "O SENHOR enviou Natã a Davi. Ele chegou até ele e lhe disse: “Havia dois homens em uma cidade: um rico e o outro pobre.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus #palavradedeus #fe #perguntasbiblicas #cristao #deus #conhecimentobiblico #desafio #evangelico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #cristao #biblia #deus",
+    "kwai": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #palavradedeus #perguntasbiblicas #teste",
+    "youtube": {
+     "title": "Desafio bíblico do dia Que profeta o Senhor enviou a Davi para contar a história de… #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 23.92,
+    "base": "media/2026-10-11/2026-10-11-6-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-5-quiz",
+   "date": "2026-10-11",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:19:37+00:00",
+   "source": "bank",
+   "bank_id": "q482",
+   "model": null,
+   "content": {
+    "ref": "Mateus 17:20",
+    "ref_label": "Mateus 17:20",
+    "question": "Com o tamanho de qual semente a fé poderia mover um monte?",
+    "options": [
+     "Semente de uva",
+     "Grão de trigo",
+     "Grão de mostarda",
+     "Semente de figo"
+    ],
+    "answer": 2,
+    "evidence": "fé como um grão de mostarda",
+    "passage": "Ele lhes disse: “Por causa da incredulidade de vocês. Pois em verdade lhes digo: se vocês tiverem fé como um grão de mostarda, dirão a este monte: ‘Mova-se daqui para lá’, e ele se moverá; e nada será impossível para vocês.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #fe #teste #cristao #biblia #evangelico #desafio #deus #conhecimentobiblico",
+    "facebook": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus",
+    "tiktok": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #gospel #cristao #teste",
+    "kwai": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #palavradedeus #deus",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual semente simboliza a fé que move montes? #shorts",
+     "description": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 24.18,
+    "base": "media/2026-10-11/2026-10-11-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-4-quiz",
+   "date": "2026-10-11",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:18:17+00:00",
+   "source": "bank",
+   "bank_id": "q500",
+   "model": null,
+   "content": {
+    "ref": "Marcos 11:7",
+    "ref_label": "Marcos 11:7",
+    "question": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
+    "options": [
+     "Folhas de palmeira",
+     "Um tapete",
+     "As suas vestes",
+     "Uma sela"
+    ],
+    "answer": 2,
+    "evidence": "lançaram sobre ele as suas vestes",
+    "passage": "Eles trouxeram o jumentinho a Jesus e lançaram sobre ele as suas vestes, e Jesus montou nele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #biblia #conhecimentobiblico #cristao #teste #jesus #desafio #palavradedeus #gospel #perguntasbiblicas",
+    "facebook": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico",
+    "tiktok": "Quiz bíblico: o que os discípulos lançaram sobre o jumentinho? 🤔\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #palavradedeus",
+    "kwai": "Quiz bíblico: o que os discípulos lançaram sobre o jumentinho? 🤔\n#quizbiblico #desafiobiblico #deus #evangelico #perguntasbiblicas",
+    "youtube": {
+     "title": "Quiz Bíblico – O que foi lançado sobre o jumentinho? #shorts",
+     "description": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 24.38,
+    "base": "media/2026-10-11/2026-10-11-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-3-curiosity",
+   "date": "2026-10-11",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-11T03:16:56+00:00",
+   "source": "bank",
+   "bank_id": "c091",
+   "model": null,
+   "content": {
+    "ref": "Rute 4:7",
+    "ref_label": "Rute 4:7",
+    "title": "Negócio fechado com sandália",
+    "text": "Antigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro.",
+    "evidence": "tirava a sua sandália",
+    "passage": "Ora, antigamente em Israel, o costume relativo à redenção e à troca, para validar todas as coisas, era o seguinte: um homem tirava a sua sandália e a dava ao outro; e esta era a maneira de formalizar transações em Israel.",
+    "tags": [
+     "costumes",
+     "rute"
+    ]
+   },
+   "captions": {
+    "instagram": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #rute #vocesabia #curiosidadesbiblicas #cristao #deus #gospel #fe #estudobiblico #palavradedeus #jesus #historiabiblica",
+    "facebook": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #rute #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Na Bíblia, a sandália selava acordos. Que nossos negócios também reflitam confiança! 🙏\n#costumes #rute #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Na Bíblia, a sandália selava acordos. Que nossos negócios também reflitam confiança! 🙏\n#costumes #rute #vocesabia #curiosidadesbiblicas #fe",
+    "youtube": {
+     "title": "A sandália que fechava negócios na Bíblia #shorts",
+     "description": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #costumes #rute #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-11/2026-10-11-3-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-2-quiz",
+   "date": "2026-10-11",
+   "slot": 2,
+   "time": "09:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:16:53+00:00",
+   "source": "bank",
+   "bank_id": "q406",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 7:3",
+    "ref_label": "2 Reis 7:3",
+    "question": "Quantos homens leprosos estavam à entrada da porta?",
+    "options": [
+     "Sete",
+     "Quatro",
+     "Doze",
+     "Dois"
+    ],
+    "answer": 1,
+    "evidence": "quatro homens leprosos à entrada da porta",
+    "passage": "Ora, havia quatro homens leprosos à entrada da porta. Eles disseram uns aos outros: “Por que ficamos sentados aqui até morrermos?",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #biblia #teste #deus #palavradedeus #fe #perguntasbiblicas #evangelico #conhecimentobiblico #cristao",
+    "facebook": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Quantos leprosos estavam à porta? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #cristao #gospel #teste",
+    "kwai": "Quantos leprosos estavam à porta? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #biblia #teste #jesus",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos leprosos estavam à porta? #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.05,
+    "base": "media/2026-10-11/2026-10-11-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-11-1-verse",
+   "date": "2026-10-11",
+   "slot": 1,
+   "time": "07:00",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-11T03:15:43+00:00",
+   "source": "bank",
+   "bank_id": "v110",
+   "model": null,
+   "content": {
+    "ref": "Salmos 19:1",
+    "skip_prefix": "Para o mestre de música. Um Salmo de Davi.",
+    "ref_label": "Salmos 19:1",
+    "verse_text": "Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.",
+    "on_screen": "Os céus declaram a glória de Deus.",
+    "reflection": "Cada pôr do sol e cada céu estrelado é um sermão sem palavras. Olhe para cima hoje e lembre-se de quem fez tudo isso.",
+    "theme": "criação",
+    "mood": "alegria",
+    "tags": [
+     "criacao",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #salmos #versiculododia #versiculo #biblia #esperanca #gospel #oracao #cristao #fe #evangelico #devocional",
+    "facebook": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #salmos #versiculododia #versiculo",
+    "tiktok": "Olhe o céu, sinta a presença de Deus e agradeça. 🌟\n#criacao #salmos #versiculododia #versiculo #deus",
+    "kwai": "Olhe o céu, sinta a presença de Deus e agradeça. 🌟\n#criacao #salmos #versiculododia #versiculo #esperanca",
+    "youtube": {
+     "title": "A beleza do céu como testemunho da glória de Deus #shorts",
+     "description": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #criacao #salmos #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-11/2026-10-11-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
    "error": null
   }
  ]
