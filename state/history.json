@@ -70,6 +70,82 @@
    }
   },
   {
+   "id": "2026-10-11-2-quiz",
+   "date": "2026-10-11",
+   "slot": 2,
+   "time": "09:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:16:53+00:00",
+   "source": "bank",
+   "bank_id": "q406",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 7:3",
+    "ref_label": "2 Reis 7:3",
+    "question": "Quantos homens leprosos estavam à entrada da porta?",
+    "options": [
+     "Sete",
+     "Quatro",
+     "Doze",
+     "Dois"
+    ],
+    "answer": 1,
+    "evidence": "quatro homens leprosos à entrada da porta",
+    "passage": "Ora, havia quatro homens leprosos à entrada da porta. Eles disseram uns aos outros: “Por que ficamos sentados aqui até morrermos?",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #biblia #teste #deus #palavradedeus #fe #perguntasbiblicas #evangelico #conhecimentobiblico #cristao",
+    "facebook": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Quantos leprosos estavam à porta? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #cristao #gospel #teste",
+    "kwai": "Quantos leprosos estavam à porta? Escolha e comente! 🙏\n#quizbiblico #desafiobiblico #biblia #teste #jesus",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos leprosos estavam à porta? #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras! Na história, quantos homens leprosos estavam à entrada da porta? Escolha entre as opções e descubra se você está atento aos detalhes. Compartilhe sua resposta nos comentários e desafie seus amigos a participar também. 🙏📖\n\nQuantos homens leprosos estavam à entrada da porta?\nA) Sete\nB) Quatro\nC) Doze\nD) Dois\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-11T12:00:34+00:00",
+    "instagram": "2026-10-11T12:01:07+00:00",
+    "facebook": "2026-10-11T12:01:11+00:00",
+    "stories": "2026-10-11T12:02:06+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/fJX2ktGC79U",
+    "instagram": "https://www.instagram.com/reel/DeWnAHUDFYS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1006640089118350",
+    "stories": "story 18220565422345352"
+   }
+  },
+  {
    "id": "2026-10-11-1-verse",
    "date": "2026-10-11",
    "slot": 1,

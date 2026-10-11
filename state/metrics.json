@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T10:01:22+00:00",
+ "updated_at": "2026-10-11T12:02:15+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -10,6 +10,29 @@
    "links": {
     "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
     "facebook": "https://www.facebook.com/1405324152662027_122094944997513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-11-1-verse": {
+   "type": "verse",
+   "date": "2026-10-11",
+   "time": "07:00",
+   "title": "Salmos 19:1",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeWZRgtjG8f/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095079961513774"
    },
    "instagram": {
     "likes": 0,
@@ -90,10 +113,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 6,
     "total_interactions": 0
    },
    "facebook": {
@@ -338,7 +361,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 70,
+    "views": 71,
     "likes": 3,
     "comments": 0
    }
