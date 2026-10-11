@@ -70,6 +70,84 @@
    }
   },
   {
+   "id": "2026-10-11-6-quiz",
+   "date": "2026-10-11",
+   "slot": 6,
+   "time": "19:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:20:57+00:00",
+   "source": "bank",
+   "bank_id": "q059",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 12:1",
+    "ref_label": "2 Samuel 12:1",
+    "question": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+    "options": [
+     "Samuel",
+     "Gade",
+     "Natã",
+     "Elias"
+    ],
+    "answer": 2,
+    "evidence": "enviou Natã a Davi",
+    "passage": "O SENHOR enviou Natã a Davi. Ele chegou até ele e lhe disse: “Havia dois homens em uma cidade: um rico e o outro pobre.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus #palavradedeus #fe #perguntasbiblicas #cristao #deus #conhecimentobiblico #desafio #evangelico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #cristao #biblia #deus",
+    "kwai": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #palavradedeus #perguntasbiblicas #teste",
+    "youtube": {
+     "title": "Desafio bíblico do dia Que profeta o Senhor enviou a Davi para contar a história de… #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-11T22:00:35+00:00",
+    "instagram": "2026-10-11T22:01:14+00:00",
+    "facebook": "2026-10-11T22:01:19+00:00",
+    "stories": "2026-10-11T22:01:50+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/g4OL6XLVz0w",
+    "instagram": "https://www.instagram.com/reel/DeXrrAHiIaa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1289715096593628",
+    "stories": "story 18036175052658909"
+   }
+  },
+  {
    "id": "2026-10-11-5-quiz",
    "date": "2026-10-11",
    "slot": 5,
