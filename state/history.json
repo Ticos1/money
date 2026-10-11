@@ -70,6 +70,82 @@
    }
   },
   {
+   "id": "2026-10-11-4-quiz",
+   "date": "2026-10-11",
+   "slot": 4,
+   "time": "14:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:18:17+00:00",
+   "source": "bank",
+   "bank_id": "q500",
+   "model": null,
+   "content": {
+    "ref": "Marcos 11:7",
+    "ref_label": "Marcos 11:7",
+    "question": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
+    "options": [
+     "Folhas de palmeira",
+     "Um tapete",
+     "As suas vestes",
+     "Uma sela"
+    ],
+    "answer": 2,
+    "evidence": "lançaram sobre ele as suas vestes",
+    "passage": "Eles trouxeram o jumentinho a Jesus e lançaram sobre ele as suas vestes, e Jesus montou nele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #biblia #conhecimentobiblico #cristao #teste #jesus #desafio #palavradedeus #gospel #perguntasbiblicas",
+    "facebook": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico",
+    "tiktok": "Quiz bíblico: o que os discípulos lançaram sobre o jumentinho? 🤔\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #palavradedeus",
+    "kwai": "Quiz bíblico: o que os discípulos lançaram sobre o jumentinho? 🤔\n#quizbiblico #desafiobiblico #deus #evangelico #perguntasbiblicas",
+    "youtube": {
+     "title": "Quiz Bíblico – O que foi lançado sobre o jumentinho? #shorts",
+     "description": "Hoje trazemos um quiz bíblico para refletir sobre a passagem da entrada de Jesus em Jerusalém. Pergunta: O que os discípulos lançaram sobre o jumentinho antes de Jesus montar? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos juntos celebrar o aprendizado da Palavra com alegria e respeito. 🙏\n\nO que os discípulos lançaram sobre o jumentinho antes de Jesus montar?\nA) Folhas de palmeira\nB) Um tapete\nC) As suas vestes\nD) Uma sela\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-11T17:00:54+00:00",
+    "instagram": "2026-10-11T17:02:09+00:00",
+    "facebook": "2026-10-11T17:02:13+00:00",
+    "stories": "2026-10-11T17:02:44+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/4qhBZwSjJiY",
+    "instagram": "https://www.instagram.com/reel/DeXJcOmCKo3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2082529642626845",
+    "stories": "story 18075631928484307"
+   }
+  },
+  {
    "id": "2026-10-11-3-curiosity",
    "date": "2026-10-11",
    "slot": 3,
