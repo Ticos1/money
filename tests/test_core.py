@@ -238,6 +238,42 @@ class PublishTests(unittest.TestCase):
             patch2 = publish.run(Path(tmp))
             self.assertEqual(list(patch2["publish_results"][self.POST["id"]]), ["facebook"])
 
+    def test_youtube_daily_cap_skips_and_completes_post(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app import publish
+
+        class Yt:
+            def supports(self, post): return True
+            def publish(self, post, d, media_url): return "https://youtube.com/shorts/NEW"
+
+        now = datetime.now(ZoneInfo("America/Sao_Paulo"))
+        stamp = now.astimezone(ZoneInfo("UTC")).isoformat(timespec="seconds")
+        earlier = [{"id": f"old{i}", "date": now.date().isoformat(), "slot": 9 + i, "published": {"youtube": stamp}}
+                   for i in range(2)]
+        posts = [{**self.POST, "id": f"q{i}", "slot": i, "date": "2026-01-01"} for i in range(3)]
+        env = {"PUBLIC_BASE_URL": "https://x.pages.dev", "MEDIA_SIGNING_SECRET": "s" * 40}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.dict("os.environ", env), \
+                mock.patch.object(publish, "build_publishers", return_value=({"youtube": Yt()}, {})), \
+                mock.patch.object(publish.config, "load_settings", return_value={
+                    "timezone": "America/Sao_Paulo", "publishing": {"youtube": True, "youtube_max_per_day": 3}}):
+            state.save_queue(posts)
+            state.save_history(earlier)
+            patch = publish.run(Path(tmp))
+            res = patch["publish_results"]
+            # 2 já enviados hoje + 1 agora = limite de 3; os outros 2 são pulados (sem erro)
+            self.assertEqual(sum("at" in r["youtube"] for r in res.values()), 1)
+            self.assertEqual(sum("skipped" in r["youtube"] for r in res.values()), 2)
+            self.assertEqual(sorted(patch["completed"]), ["q0", "q1", "q2"])
+            state.apply_patch({**patch, "completed": []}, date(2026, 1, 1), 30)
+            saved = {p["id"]: p for p in state.load_queue()}
+            skipped = [p for p in saved.values() if (p.get("publish_skipped") or {}).get("youtube")]
+            self.assertEqual(len(skipped), 2)
+            self.assertFalse(any(p.get("publish_errors") for p in skipped))
+            # na rodada seguinte ninguém tenta o YouTube de novo
+            self.assertEqual(publish.run(Path(tmp))["publish_results"], {})
+
     def test_publish_now_single_platform_ignores_schedule(self):
         from app import publish
 

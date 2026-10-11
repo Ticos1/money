@@ -203,10 +203,12 @@ function publishedSection(post) {
     const link = post.publish_links?.[k]?.startsWith?.("http") ? post.publish_links[k] : null;
     const note = !link && post.publish_links?.[k];
     const err = post.publish_errors?.[k];
+    const skipped = post.publish_skipped?.[k];
     grid.append(h("label", {}, input, h("span", {}, name,
       h("small", {}, when ? new Date(when).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" }) : "não publicado"),
       link && h("small", {}, h("a", { href: link, target: "_blank", rel: "noopener" }, "ver post ↗")),
       note && h("small", {}, `📥 ${note} — abra o TikTok e finalize`),
+      skipped && h("small", { class: "muted" }, `⏭ ${skipped}`),
       err && h("small", { style: "color:var(--bad)" }, `erro (${err.attempts}x): ${err.message}`))));
   }
   return grid;
@@ -301,7 +303,7 @@ function pendingNets(post) {
   const on = Object.entries(STATE.settings?.publishing || {}).filter(([, v]) => v === true).map(([k]) => k)
     .filter((k) => post.type !== "compilation" || k === "youtube")
     .filter((k) => k !== "tiktok" || post.media?.video_silent);
-  return on.filter((k) => !post.published?.[k] && (k !== "youtube" || post.media?.video_music)
+  return on.filter((k) => !post.published?.[k] && !post.publish_skipped?.[k] && (k !== "youtube" || post.media?.video_music)
     && (k !== "stories" || post.media?.video_music || post.media?.images?.includes("imagem_story.jpg")));
 }
 
@@ -564,7 +566,7 @@ function renderConfig(main) {
   const slotBox = h("div", { class: "stack" });
   const slotRows = [];
   const addSlot = (slot) => {
-    if (slotRows.length >= 8) return toast("Máximo de 8 posts por dia");
+    if (slotRows.length >= 12) return toast("Máximo de 12 posts por dia");
     const time = h("input", { type: "time", value: slot?.time || "12:00" });
     const type = h("select", {}, Object.entries(TYPE_NAME).map(([k, n]) =>
       h("option", { value: k, selected: (slot?.type || "verse") === k }, n)));

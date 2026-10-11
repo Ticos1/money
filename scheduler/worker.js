@@ -27,7 +27,7 @@ export function needsPublishing(post, settings, now) {
   if (`${post.date} ${post.time}` > `${now.date} ${now.time}`) return false;
   const pub = settings.publishing || {};
   const max = Number(pub.max_attempts || 3);
-  return NETS.some((n) => pub[n] && applies(n, post) && !post.published?.[n]
+  return NETS.some((n) => pub[n] && applies(n, post) && !post.published?.[n] && !post.publish_skipped?.[n]
     && ((post.publish_errors?.[n]?.attempts) || 0) < max);
 }
 

@@ -254,3 +254,15 @@ virarem vídeo vertical com música (em vez de só imagem). Eles passam a sair c
 (YouTube), vídeo no Facebook e Stories. Atenção à cota do YouTube: cada envio gasta 1.600 dos 10.000
 pontos diários, então 6 vídeos por dia (4 quizzes + 2 curiosidades) já usam 9.600, e o vídeo longo de
 sábado passaria do limite. Se quiser os dois, peça o aumento de cota (gratuito) no Google Cloud.
+
+## Limite diário do YouTube (proteção automática)
+
+A cota grátis da API do YouTube é de 10.000 pontos por dia, e cada vídeo enviado gasta 1.600, ou
+seja, cabem **6 vídeos por dia**. O sistema conta os envios do dia (horário de Brasília) e, ao chegar
+no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos posts seguintes sem
+dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
+Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
+
+A agenda padrão tem **10 posts por dia**, com só **4 vídeos** (os quizzes), para sobrar espaço para o
+vídeo longo de sábado: 06:30 Versículo · 08:00 Quiz · 10:00 Você sabia? · 12:00 Quiz · 13:30 Versículo ·
+15:00 Você sabia? · 17:00 Quiz · 18:30 Você sabia? · 20:00 Quiz · 21:30 Versículo (até 12 por dia no painel).

@@ -68,15 +68,36 @@ def applies(platform: str, post: dict) -> bool:
 
 
 def completed_posts(posts: list[dict], cfg: dict, results: dict) -> list[str]:
-    """Posts que já saíram em TODAS as redes ligadas: saem da fila e vão pro Histórico."""
+    """Posts que já saíram em TODAS as redes ligadas (ou foram pulados de propósito, como no
+    limite diário do YouTube): saem da fila e vão pro Histórico."""
     done = []
     for post in posts:
-        published = {**(post.get("published") or {}),
-                     **{k: v["at"] for k, v in results.get(post["id"], {}).items() if v.get("at")}}
+        published = {**(post.get("published") or {}), **(post.get("publish_skipped") or {}),
+                     **{k: v.get("at") or v.get("skipped")
+                        for k, v in results.get(post["id"], {}).items() if v.get("at") or v.get("skipped")}}
         nets = [p for p in state.PLATFORMS if cfg.get(p) and applies(p, post)]
         if nets and all(published.get(p) for p in nets):
             done.append(post["id"])
     return done
+
+
+def youtube_uploads_today(posts: list[dict], now: datetime, tz: ZoneInfo) -> int:
+    """Quantos vídeos já foram enviados ao YouTube hoje (dia de Brasília)."""
+    today = now.date()
+    count = 0
+    for p in posts:
+        at = (p.get("published") or {}).get("youtube")
+        if not at:
+            continue
+        try:
+            when = datetime.fromisoformat(at)
+        except ValueError:
+            continue
+        if when.tzinfo is None:
+            when = when.replace(tzinfo=ZoneInfo("UTC"))
+        if when.astimezone(tz).date() == today:
+            count += 1
+    return count
 
 
 def build_publishers(enabled: dict, log: list[str]) -> tuple[dict, dict]:
@@ -148,7 +169,8 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     pending = []
     for post in due:
         for platform, on in enabled.items():
-            if not on or (post.get("published") or {}).get(platform):
+            if not on or (post.get("published") or {}).get(platform) \
+                    or (post.get("publish_skipped") or {}).get(platform):
                 continue
             attempts = ((post.get("publish_errors") or {}).get(platform) or {}).get("attempts", 0)
             if attempts >= max_attempts:
@@ -163,8 +185,15 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     pubs, config_errors = build_publishers(enabled, log)
     for line in log:
         print("·", line)
+    # cota grátis da API do YouTube: cada envio gasta 1.600 de 10.000 pontos por dia
+    yt_cap = int(cfg.get("youtube_max_per_day", 6))
+    yt_used = youtube_uploads_today(state.load_queue() + state.load_history(), now, tz)
     for post, platform in pending:
         out = results.setdefault(post["id"], {})
+        if platform == "youtube" and applies("youtube", post) and yt_used >= yt_cap:
+            out[platform] = {"skipped": f"pulado: limite de {yt_cap} vídeos por dia no YouTube (cota da API)"}
+            print(f"{post['id']} → youtube: {out[platform]['skipped']}")
+            continue
         if platform in config_errors:
             out[platform] = {"error": config_errors[platform]}
             print(f"{post['id']} → {platform}: ERRO {config_errors[platform]}")
@@ -175,6 +204,8 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
         try:
             url = pub.publish(post, media_dir / post["date"] / post["id"], media_url_factory(post))
             out[platform] = {"at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"), "url": url}
+            if platform == "youtube":
+                yt_used += 1
             print(f"{post['id']} → {platform}: publicado {url}")
         except PublishError as exc:
             out[platform] = {"error": str(exc)[:500]}

@@ -107,6 +107,9 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
                 post.setdefault("published", {})[platform] = res["at"]
                 post.setdefault("publish_links", {})[platform] = res.get("url", "")
                 errors.pop(platform, None)
+            elif res.get("skipped"):  # pulado de propósito (ex.: limite diário do YouTube)
+                post.setdefault("publish_skipped", {})[platform] = res["skipped"]
+                errors.pop(platform, None)
             elif res.get("error"):
                 prev = errors.get(platform) or {}
                 errors[platform] = {"message": res["error"], "attempts": prev.get("attempts", 0) + 1}

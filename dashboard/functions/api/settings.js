@@ -13,7 +13,7 @@ export async function onRequestPut({ request, env }) {
     return json({ error: "requisição inválida" }, 400);
   }
   const slots = Array.isArray(body.slots) ? body.slots : [];
-  if (slots.length < 1 || slots.length > 8) return json({ error: "Use de 1 a 8 horários" }, 400);
+  if (slots.length < 1 || slots.length > 12) return json({ error: "Use de 1 a 12 horários" }, 400);
   for (const s of slots) {
     if (!TIME.test(s.time || "") || !TYPES.includes(s.type)) return json({ error: "Horário ou tipo inválido" }, 400);
   }

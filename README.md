@@ -16,7 +16,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 ## O que o sistema faz todo dia
 
-1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **4 imagens** — 2 Versículos + 2 "Você sabia?" — e **3 Reels** de quiz; até 8, configurável no painel).
+1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **10 posts** — 3 Versículos, 3 "Você sabia?" e 4 Reels de quiz; até 12, configurável no painel).
 2. Escolhe o conteúdo:
    - **banco próprio** (304 versículos com reflexão, 671 perguntas de quiz e 267 curiosidades, ou seja, vários meses);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.

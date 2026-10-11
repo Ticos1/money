@@ -14,7 +14,7 @@ FONTS_DIR = ASSETS_DIR / "fonts"
 MUSIC_DIR = ASSETS_DIR / "music"
 
 VALID_TYPES = ("verse", "quiz", "curiosity")
-MAX_SLOTS = 8
+MAX_SLOTS = 12
 
 
 def load_settings() -> dict:

@@ -7,32 +7,44 @@
  "schedule": {
   "slots": [
    {
-    "time": "07:00",
+    "time": "06:30",
     "type": "verse"
    },
    {
-    "time": "09:00",
+    "time": "08:00",
     "type": "quiz"
    },
    {
-    "time": "12:00",
+    "time": "10:00",
     "type": "curiosity"
    },
    {
-    "time": "14:00",
+    "time": "12:00",
     "type": "quiz"
+   },
+   {
+    "time": "13:30",
+    "type": "verse"
+   },
+   {
+    "time": "15:00",
+    "type": "curiosity"
    },
    {
     "time": "17:00",
     "type": "quiz"
    },
    {
-    "time": "19:00",
+    "time": "18:30",
+    "type": "curiosity"
+   },
+   {
+    "time": "20:00",
     "type": "quiz"
    },
    {
-    "time": "21:00",
-    "type": "curiosity"
+    "time": "21:30",
+    "type": "verse"
    }
   ]
  },
@@ -63,7 +75,8 @@
   "facebook": true,
   "youtube": true,
   "max_attempts": 3,
-  "stories": true
+  "stories": true,
+  "youtube_max_per_day": 6
  },
  "compilation": {
   "enabled": true,
