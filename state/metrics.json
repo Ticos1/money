@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T05:36:20+00:00",
+ "updated_at": "2026-10-11T09:00:45+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -90,10 +90,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 5,
     "total_interactions": 0
    },
    "facebook": {
@@ -205,7 +205,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -339,7 +339,7 @@
    },
    "youtube": {
     "views": 70,
-    "likes": 2,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -367,7 +367,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 23,
+    "views": 24,
     "likes": 3,
     "comments": 0
    }
