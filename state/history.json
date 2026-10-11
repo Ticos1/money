@@ -70,6 +70,72 @@
    }
   },
   {
+   "id": "2026-10-11-3-curiosity",
+   "date": "2026-10-11",
+   "slot": 3,
+   "time": "12:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-11T03:16:56+00:00",
+   "source": "bank",
+   "bank_id": "c091",
+   "model": null,
+   "content": {
+    "ref": "Rute 4:7",
+    "ref_label": "Rute 4:7",
+    "title": "Negócio fechado com sandália",
+    "text": "Antigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro.",
+    "evidence": "tirava a sua sandália",
+    "passage": "Ora, antigamente em Israel, o costume relativo à redenção e à troca, para validar todas as coisas, era o seguinte: um homem tirava a sua sandália e a dava ao outro; e esta era a maneira de formalizar transações em Israel.",
+    "tags": [
+     "costumes",
+     "rute"
+    ]
+   },
+   "captions": {
+    "instagram": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #rute #vocesabia #curiosidadesbiblicas #cristao #deus #gospel #fe #estudobiblico #palavradedeus #jesus #historiabiblica",
+    "facebook": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#costumes #rute #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Na Bíblia, a sandália selava acordos. Que nossos negócios também reflitam confiança! 🙏\n#costumes #rute #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Na Bíblia, a sandália selava acordos. Que nossos negócios também reflitam confiança! 🙏\n#costumes #rute #vocesabia #curiosidadesbiblicas #fe",
+    "youtube": {
+     "title": "A sandália que fechava negócios na Bíblia #shorts",
+     "description": "Negócio fechado com sandália\n\nAntigamente em Israel, para confirmar uma transação, um homem tirava a sua sandália e a dava ao outro. (Rute 4:7)\n\nCuriosidade bíblica: na antiga Israel, para confirmar uma transação, o homem tirava a sandália e a entregava ao outro (Rute 4:7). Esse gesto simbolizava confiança e compromisso. Hoje, lembramos que cada acordo deve ser feito com honestidade e respeito, como aquela simples sandália que selava promessas. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #costumes #rute #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-11T15:00:55+00:00",
+    "facebook": "2026-10-11T15:00:58+00:00",
+    "stories": "2026-10-11T15:01:04+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeW7mytlEjo/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095218579513774",
+    "stories": "story 18241317304316380"
+   }
+  },
+  {
    "id": "2026-10-11-2-quiz",
    "date": "2026-10-11",
    "slot": 2,
