@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T17:02:55+00:00",
+ "updated_at": "2026-10-11T17:05:44+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -23,6 +23,35 @@
     "likes": 0,
     "comments": 0,
     "shares": 0
+   }
+  },
+  "2026-10-11-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "14:00",
+   "title": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/4qhBZwSjJiY",
+    "instagram": "https://www.instagram.com/reel/DeXJcOmCKo3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2082529642626845"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
    }
   },
   "2026-10-11-3-curiosity": {
@@ -72,7 +101,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 23,
+    "views": 25,
     "likes": 1,
     "comments": 0
    }
