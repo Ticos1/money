@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-11T00:01:19+00:00",
+ "updated_at": "2026-10-11T04:12:49+00:00",
  "notes": [],
  "posts": {
+  "2026-10-10-7-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-10",
+   "time": "21:00",
+   "title": "As 300 raposas",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeVUm-Wl8lU/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094863643513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-10-6-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-10",
@@ -22,7 +45,7 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 0
    },
    "youtube": {
@@ -188,7 +211,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -240,8 +263,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 1,
+    "views": 4,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -292,7 +315,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 65,
+    "views": 68,
     "likes": 2,
     "comments": 0
    }
@@ -322,7 +345,7 @@
    },
    "youtube": {
     "views": 23,
-    "likes": 2,
+    "likes": 3,
     "comments": 0
    }
   },
