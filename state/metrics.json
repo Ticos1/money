@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T22:02:01+00:00",
+ "updated_at": "2026-10-11T23:37:13+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -25,6 +25,35 @@
     "shares": 0
    }
   },
+  "2026-10-11-6-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "19:00",
+   "title": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/g4OL6XLVz0w",
+    "instagram": "https://www.instagram.com/reel/DeXrrAHiIaa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1289715096593628"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 3,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-11-5-quiz": {
    "type": "quiz",
    "date": "2026-10-11",
@@ -45,11 +74,11 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 1
    },
    "youtube": {
-    "views": 1,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -130,7 +159,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 116,
+    "views": 135,
     "likes": 6,
     "comments": 0
    }
@@ -205,7 +234,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 17,
+    "views": 48,
     "likes": 2,
     "comments": 0
    }
@@ -234,8 +263,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 92,
-    "likes": 2,
+    "views": 101,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -263,8 +292,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 24,
-    "likes": 1,
+    "views": 61,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -338,8 +367,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 12,
-    "likes": 1,
+    "views": 24,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -367,8 +396,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 20,
-    "likes": 4,
+    "views": 64,
+    "likes": 7,
     "comments": 0
    }
   },
