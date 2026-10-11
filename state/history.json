@@ -121,6 +121,71 @@
    "error": null
   },
   {
+   "id": "2026-10-10-7-curiosity-v3",
+   "date": "2026-10-10",
+   "slot": 7,
+   "time": "21:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-10T14:43:23+00:00",
+   "source": "bank",
+   "bank_id": "c066",
+   "model": null,
+   "content": {
+    "ref": "Juízes 15:4",
+    "ref_label": "Juízes 15:4",
+    "title": "As 300 raposas",
+    "text": "Sansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus.",
+    "evidence": "capturou trezentas raposas",
+    "passage": "Sansão foi, capturou trezentas raposas, pegou tochas, amarrou as raposas cauda com cauda, e colocou uma tocha no meio, entre cada duas caudas.",
+    "tags": [
+     "sansao"
+    ]
+   },
+   "captions": {
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sansao #vocesabia #curiosidadesbiblicas #evangelico #palavradedeus #fe #estudobiblico #biblia #deus #historiabiblica #gospel #cristao",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sansao #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 As 300 raposas\nVocê já sabia? Comente SIM ou NÃO.\n#sansao #vocesabia #curiosidadesbiblicas #historiabiblica #fe",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 As 300 raposas\nVocê já sabia? Comente SIM ou NÃO.\n#sansao #vocesabia #curiosidadesbiblicas #evangelico #cristao",
+    "youtube": {
+     "title": "Você sabia? As 300 raposas #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nAs 300 raposas\n\nSansão capturou trezentas raposas, amarrou-as pela cauda com tochas e as soltou nas plantações dos filisteus. (Juízes 15:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sansao #vocesabia #curiosidadesbiblicas"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-11T00:00:53+00:00",
+    "facebook": "2026-10-11T00:00:58+00:00",
+    "stories": "2026-10-11T00:01:12+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeVUm-Wl8lU/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094863643513774",
+    "stories": "story 17904708207663791"
+   }
+  },
+  {
    "id": "2026-10-10-6-quiz",
    "date": "2026-10-10",
    "slot": 6,
