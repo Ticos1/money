@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-10-10T20:02:47+00:00",
+ "updated_at": "2026-10-11T17:05:44+00:00",
  "notes": [],
  "posts": {
+  "2026-10-11-7-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-11",
+   "time": "21:00",
+   "title": "O significado do nome Moisés",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094944997513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-11-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "14:00",
+   "title": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/4qhBZwSjJiY",
+    "instagram": "https://www.instagram.com/reel/DeXJcOmCKo3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2082529642626845"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-11-3-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-11",
+   "time": "12:00",
+   "title": "Negócio fechado com sandália",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeW7mytlEjo/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095218579513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-11-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "09:00",
+   "title": "Quantos homens leprosos estavam à entrada da porta?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/fJX2ktGC79U",
+    "instagram": "https://www.instagram.com/reel/DeWnAHUDFYS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1006640089118350"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 1
+   },
+   "youtube": {
+    "views": 25,
+    "likes": 1,
+    "comments": 0
+   }
+  },
+  "2026-10-11-1-verse": {
+   "type": "verse",
+   "date": "2026-10-11",
+   "time": "07:00",
+   "title": "Salmos 19:1",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeWZRgtjG8f/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095079961513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-10-7-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-10",
+   "time": "21:00",
+   "title": "As 300 raposas",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeVUm-Wl8lU/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094863643513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-10-6-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "title": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/x1YgxHhlX7M",
+    "instagram": "https://www.instagram.com/reel/DeVG3ybFbvA/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1439415338292689"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 4,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-10-5-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "17:00",
+   "title": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/TcvmENGSeY8",
+    "instagram": "https://www.instagram.com/reel/DeU5LYhFLel/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1506815218135244"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 5,
+    "saved": 0,
+    "shares": 0,
+    "views": 6,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-10-4-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-10",
@@ -43,7 +251,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
@@ -101,7 +309,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -130,7 +338,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -182,8 +390,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 1,
+    "views": 5,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -234,8 +442,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 64,
-    "likes": 2,
+    "views": 71,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -263,8 +471,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 23,
-    "likes": 2,
+    "views": 24,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -315,7 +523,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 12,
+    "views": 9,
     "likes": 1,
     "comments": 0
    }
