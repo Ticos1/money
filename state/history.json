@@ -70,6 +70,82 @@
    }
   },
   {
+   "id": "2026-10-11-5-quiz",
+   "date": "2026-10-11",
+   "slot": 5,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-11T03:19:37+00:00",
+   "source": "bank",
+   "bank_id": "q482",
+   "model": null,
+   "content": {
+    "ref": "Mateus 17:20",
+    "ref_label": "Mateus 17:20",
+    "question": "Com o tamanho de qual semente a fé poderia mover um monte?",
+    "options": [
+     "Semente de uva",
+     "Grão de trigo",
+     "Grão de mostarda",
+     "Semente de figo"
+    ],
+    "answer": 2,
+    "evidence": "fé como um grão de mostarda",
+    "passage": "Ele lhes disse: “Por causa da incredulidade de vocês. Pois em verdade lhes digo: se vocês tiverem fé como um grão de mostarda, dirão a este monte: ‘Mova-se daqui para lá’, e ele se moverá; e nada será impossível para vocês.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #fe #teste #cristao #biblia #evangelico #desafio #deus #conhecimentobiblico",
+    "facebook": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus",
+    "tiktok": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #gospel #cristao #teste",
+    "kwai": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #palavradedeus #deus",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual semente simboliza a fé que move montes? #shorts",
+     "description": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-11T20:00:39+00:00",
+    "instagram": "2026-10-11T20:01:12+00:00",
+    "facebook": "2026-10-11T20:01:16+00:00",
+    "stories": "2026-10-11T20:01:47+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IetigKQgqyI",
+    "instagram": "https://www.instagram.com/reel/DeXd8cKlb9j/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28702021839418032",
+    "stories": "story 18128477002844413"
+   }
+  },
+  {
    "id": "2026-10-11-4-quiz",
    "date": "2026-10-11",
    "slot": 4,
