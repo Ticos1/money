@@ -72,7 +72,9 @@
     "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
     "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-11T04:11:47.827Z"
   },
   {
    "id": "2026-10-11-6-quiz",
