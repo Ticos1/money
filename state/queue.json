@@ -248,7 +248,7 @@
    "slot": 2,
    "time": "09:00",
    "type": "quiz",
-   "status": "pending",
+   "status": "approved",
    "created_at": "2026-10-11T14:58:49+00:00",
    "source": "bank",
    "bank_id": "q408",
