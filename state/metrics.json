@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-11T04:12:49+00:00",
+ "updated_at": "2026-10-11T05:36:20+00:00",
  "notes": [],
  "posts": {
+  "2026-10-11-7-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-11",
+   "time": "21:00",
+   "title": "O significado do nome Moisés",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094944997513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-10-7-curiosity-v3": {
    "type": "curiosity",
    "date": "2026-10-10",
@@ -263,7 +286,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 2,
     "comments": 0
    }
@@ -315,7 +338,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 68,
+    "views": 70,
     "likes": 2,
     "comments": 0
    }
