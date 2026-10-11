@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T17:05:44+00:00",
+ "updated_at": "2026-10-11T19:28:45+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
@@ -45,11 +45,11 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 4,
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -81,11 +81,11 @@
    "type": "quiz",
    "date": "2026-10-11",
    "time": "09:00",
-   "title": "Quantos homens leprosos estavam à entrada da porta?",
+   "title": "Quem escondeu o menino Joás para que Atalia não o matasse?",
    "links": {
-    "youtube": "https://youtube.com/shorts/fJX2ktGC79U",
-    "instagram": "https://www.instagram.com/reel/DeWnAHUDFYS/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1006640089118350"
+    "youtube": "https://youtube.com/shorts/ck5uL6QDvJo",
+    "instagram": "https://www.instagram.com/reel/DeXJxVdgoL0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1466142648734015"
    },
    "instagram": {
     "likes": 0,
@@ -97,12 +97,12 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
-    "comments": 1
+    "likes": 1,
+    "comments": 0
    },
    "youtube": {
-    "views": 25,
-    "likes": 1,
+    "views": 1,
+    "likes": 0,
     "comments": 0
    }
   },
