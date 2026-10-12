@@ -1,6 +1,596 @@
 {
  "posts": [
   {
+   "id": "2026-10-12-10-verse",
+   "date": "2026-10-12",
+   "slot": 10,
+   "time": "21:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-12T08:27:46+00:00",
+   "source": "bank",
+   "bank_id": "v205",
+   "model": null,
+   "content": {
+    "ref": "Salmos 66:20",
+    "ref_label": "Salmos 66:20",
+    "verse_text": "Bendito seja Deus, que não rejeitou a minha oração, nem afastou de mim o seu amor leal.",
+    "on_screen": "Bendito seja Deus, que não rejeitou a minha oração.",
+    "reflection": "Lembre de uma oração que Deus respondeu e agradeça. Ele não afasta o seu amor de você.",
+    "theme": "oração",
+    "mood": "alegria",
+    "tags": [
+     "oracao",
+     "gratidao"
+    ]
+   },
+   "captions": {
+    "instagram": "“Bendito seja Deus, que não rejeitou a minha oração, nem afastou de mim o seu amor leal.” (Salmos 66:20)\n\nJá se lembrou daquele pedido que Deus respondeu? 🙏 Reserve um momento para agradecer ao Pai que nunca afasta o Seu amor de nós. Cada resposta é um lembrete de que Ele está perto, escutando e cuidando de cada detalhe da sua vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #gratidao #versiculododia #versiculo #biblia #deus #jesus #gospel #cristao #evangelico #devocional #reflexao",
+    "facebook": "“Bendito seja Deus, que não rejeitou a minha oração, nem afastou de mim o seu amor leal.” (Salmos 66:20)\n\nJá se lembrou daquele pedido que Deus respondeu? 🙏 Reserve um momento para agradecer ao Pai que nunca afasta o Seu amor de nós. Cada resposta é um lembrete de que Ele está perto, escutando e cuidando de cada detalhe da sua vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #gratidao #versiculododia #versiculo",
+    "tiktok": "Agradeça a Deus por responder sua oração! 🙏\n#oracao #gratidao #versiculododia #versiculo #palavradedeus",
+    "kwai": "Agradeça a Deus por responder sua oração! 🙏\n#oracao #gratidao #versiculododia #versiculo #reflexao",
+    "youtube": {
+     "title": "Quando Deus responde: um convite à gratidão #shorts",
+     "description": "“Bendito seja Deus, que não rejeitou a minha oração, nem afastou de mim o seu amor leal.” (Salmos 66:20)\n\nJá se lembrou daquele pedido que Deus respondeu? 🙏 Reserve um momento para agradecer ao Pai que nunca afasta o Seu amor de nós. Cada resposta é um lembrete de que Ele está perto, escutando e cuidando de cada detalhe da sua vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #oracao #gratidao #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-9-quiz",
+   "date": "2026-10-12",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-12T08:27:43+00:00",
+   "source": "bank",
+   "bank_id": "q254",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 21:14",
+    "ref_label": "Gênesis 21:14",
+    "question": "Em qual deserto Hagar andou errante com o menino Ismael?",
+    "options": [
+     "Deserto de Berseba",
+     "Deserto do Sinai",
+     "Deserto de Zim",
+     "Deserto da Judeia"
+    ],
+    "answer": 0,
+    "evidence": "andou errante pelo deserto de Berseba",
+    "passage": "Abraão levantou-se de madrugada, pegou pão e um odre de água, e os deu a Hagar, colocando-os sobre o ombro dela; também lhe deu o menino e a despediu. Ela partiu e andou errante pelo deserto de Berseba.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual deserto Hagar andou errante com o menino Ismael?\n\nA) Deserto de Berseba\nB) Deserto do Sinai\nC) Deserto de Zim\nD) Deserto da Judeia\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus #teste #fe #deus #evangelico #biblia #palavradedeus #gospel #desafio",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual deserto Hagar andou errante com o menino Ismael?\n\nA) Deserto de Berseba\nB) Deserto do Sinai\nC) Deserto de Zim\nD) Deserto da Judeia\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #jesus #palavradedeus #fe",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #deus",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Em qual deserto Hagar andou errante com o menino… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual deserto Hagar andou errante com o menino Ismael?\n\nA) Deserto de Berseba\nB) Deserto do Sinai\nC) Deserto de Zim\nD) Deserto da Judeia\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-8-curiosity",
+   "date": "2026-10-12",
+   "slot": 8,
+   "time": "18:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-12T08:26:06+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Êxodo 12:2",
+    "ref_label": "Êxodo 12:2",
+    "title": "Você sabia? A Páscoa começou assim",
+    "text": "Deus instituiu a Páscoa como festa permanente para o povo de Israel, lembrando a libertação do Egito.",
+    "evidence": "meses",
+    "passage": "“Este mês será para vocês o principal dos meses. Será o primeiro mês do ano para vocês.",
+    "tags": [
+     "pascoa",
+     "libertacao"
+    ]
+   },
+   "captions": {
+    "instagram": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nVocê sabia? A Páscoa começou assim\n\nDeus instituiu a Páscoa como festa permanente para o povo de Israel, lembrando a libertação do Egito. (Êxodo 12:2)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pascoa #libertacao #vocesabia #curiosidadesbiblicas #historiabiblica #palavradedeus #fe #biblia #cristao #jesus #estudobiblico #deus",
+    "facebook": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nVocê sabia? A Páscoa começou assim\n\nDeus instituiu a Páscoa como festa permanente para o povo de Israel, lembrando a libertação do Egito. (Êxodo 12:2)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pascoa #libertacao #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Aprenda algo novo sobre a Bíblia hoje 📖 Você sabia? A Páscoa começou assim\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pascoa #libertacao #vocesabia #curiosidadesbiblicas #gospel",
+    "kwai": "Aprenda algo novo sobre a Bíblia hoje 📖 Você sabia? A Páscoa começou assim\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#pascoa #libertacao #vocesabia #curiosidadesbiblicas #gospel",
+    "youtube": {
+     "title": "Você sabia? Você sabia? A Páscoa começou assim #shorts",
+     "description": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nVocê sabia? A Páscoa começou assim\n\nDeus instituiu a Páscoa como festa permanente para o povo de Israel, lembrando a libertação do Egito. (Êxodo 12:2)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #pascoa #libertacao #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: evidência não encontrada em Mateus 6:28: 'flor'",
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-7-quiz",
+   "date": "2026-10-12",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-12T08:26:02+00:00",
+   "source": "bank",
+   "bank_id": "q229",
+   "model": null,
+   "content": {
+    "ref": "João 13:5",
+    "ref_label": "João 13:5",
+    "question": "O que Jesus começou a fazer com a bacia de água na última ceia?",
+    "options": [
+     "Lavar as mãos",
+     "Lavar os pés dos discípulos",
+     "Batizar os discípulos",
+     "Preparar o pão"
+    ],
+    "answer": 1,
+    "evidence": "começou a lavar os pés dos discípulos",
+    "passage": "Depois derramou água na bacia e começou a lavar os pés dos discípulos e a enxugá-los com a toalha que estava presa à sua cintura.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Na noite da última ceia, Jesus realizou um ato inesperado com uma simples bacia de água. Esse gesto carregado de significado nos convida a refletir sobre humildade, serviço e amor ao próximo. Você sabia que esse momento está cheio de lições para o nosso dia a dia? Reflita, compartilhe e deixe seu coração aberto para aprender mais sobre esse ato que marcou a história.\n\nO que Jesus começou a fazer com a bacia de água na última ceia?\nA) Lavar as mãos\nB) Lavar os pés dos discípulos\nC) Batizar os discípulos\nD) Preparar o pão\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #teste #deus #desafio #jesus #perguntasbiblicas #conhecimentobiblico #gospel #cristao #palavradedeus",
+    "facebook": "Na noite da última ceia, Jesus realizou um ato inesperado com uma simples bacia de água. Esse gesto carregado de significado nos convida a refletir sobre humildade, serviço e amor ao próximo. Você sabia que esse momento está cheio de lições para o nosso dia a dia? Reflita, compartilhe e deixe seu coração aberto para aprender mais sobre esse ato que marcou a história.\n\nO que Jesus começou a fazer com a bacia de água na última ceia?\nA) Lavar as mãos\nB) Lavar os pés dos discípulos\nC) Batizar os discípulos\nD) Preparar o pão\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus",
+    "tiktok": "Jesus usou uma bacia de água na última ceia de forma inesperada. Qual será o significado? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #perguntasbiblicas",
+    "kwai": "Jesus usou uma bacia de água na última ceia de forma inesperada. Qual será o significado? 🤔\n#quizbiblico #desafiobiblico #evangelico #perguntasbiblicas #gospel",
+    "youtube": {
+     "title": "O gesto misterioso de Jesus com a bacia na última ceia #shorts",
+     "description": "Na noite da última ceia, Jesus realizou um ato inesperado com uma simples bacia de água. Esse gesto carregado de significado nos convida a refletir sobre humildade, serviço e amor ao próximo. Você sabia que esse momento está cheio de lições para o nosso dia a dia? Reflita, compartilhe e deixe seu coração aberto para aprender mais sobre esse ato que marcou a história.\n\nO que Jesus começou a fazer com a bacia de água na última ceia?\nA) Lavar as mãos\nB) Lavar os pés dos discípulos\nC) Batizar os discípulos\nD) Preparar o pão\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-6-curiosity",
+   "date": "2026-10-12",
+   "slot": 6,
+   "time": "15:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-12T08:24:21+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Mateus 6:28-29",
+    "ref_label": "Mateus 6:28-29",
+    "title": "Você sabia?",
+    "text": "Jesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão.",
+    "evidence": "lírios",
+    "passage": "E por que andam ansiosos quanto às roupas? Considerem os lírios do campo, como eles crescem. Eles não trabalham, nem fiam, contudo, eu lhes digo que nem mesmo Salomão, em toda a sua glória, vestiu-se como um deles.",
+    "tags": [
+     "curiosidade",
+     "biblia"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #estudobiblico #cristao #palavradedeus #historiabiblica #gospel #evangelico #deus #jesus",
+    "facebook": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Os lírios não trabalham, mas são mais belos que Salomão. Confie no cuidado de Deus! 🌸\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Os lírios não trabalham, mas são mais belos que Salomão. Confie no cuidado de Deus! 🌸\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "youtube": {
+     "title": "Lírios que ensinam: a beleza da confiança em Deus #shorts",
+     "description": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #curiosidade #biblia #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-5-verse",
+   "date": "2026-10-12",
+   "slot": 5,
+   "time": "13:30",
+   "type": "verse",
+   "status": "rejected",
+   "created_at": "2026-10-12T08:24:18+00:00",
+   "source": "bank",
+   "bank_id": "v225",
+   "model": null,
+   "content": {
+    "ref": "Salmos 147:11",
+    "ref_label": "Salmos 147:11",
+    "verse_text": "O SENHOR tem prazer naqueles que o temem, naqueles que esperam no seu amor leal.",
+    "on_screen": "Deus tem prazer em quem espera no seu amor.",
+    "reflection": "Deus se alegra com quem confia nEle. Esperar no seu amor agrada o coração de Deus.",
+    "theme": "temor de Deus",
+    "mood": "reflexao",
+    "tags": [
+     "confianca",
+     "amordedeus"
+    ]
+   },
+   "captions": {
+    "instagram": "“O SENHOR tem prazer naqueles que o temem, naqueles que esperam no seu amor leal.” (Salmos 147:11)\n\nDeus se alegra quando colocamos nossa confiança nEle. Esperar no Seu amor leal traz paz ao coração e agrada o Pai Celestial. Que hoje possamos descansar na certeza de que somos amados e valorizados por Ele. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#confianca #amordedeus #versiculododia #versiculo #reflexao #oracao #devocional #cristao #biblia #jesus #evangelico #fe",
+    "facebook": "“O SENHOR tem prazer naqueles que o temem, naqueles que esperam no seu amor leal.” (Salmos 147:11)\n\nDeus se alegra quando colocamos nossa confiança nEle. Esperar no Seu amor leal traz paz ao coração e agrada o Pai Celestial. Que hoje possamos descansar na certeza de que somos amados e valorizados por Ele. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#confianca #amordedeus #versiculododia #versiculo",
+    "tiktok": "Confie em Deus e experimente Sua alegria! 🙏\n#confianca #amordedeus #versiculododia #versiculo #cristao",
+    "kwai": "Confie em Deus e experimente Sua alegria! 🙏\n#confianca #amordedeus #versiculododia #versiculo #fe",
+    "youtube": {
+     "title": "A Alegria de Deus ao Confiar n'Ele #shorts",
+     "description": "“O SENHOR tem prazer naqueles que o temem, naqueles que esperam no seu amor leal.” (Salmos 147:11)\n\nDeus se alegra quando colocamos nossa confiança nEle. Esperar no Seu amor leal traz paz ao coração e agrada o Pai Celestial. Que hoje possamos descansar na certeza de que somos amados e valorizados por Ele. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #confianca #amordedeus #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-4-quiz",
+   "date": "2026-10-12",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-12T08:24:15+00:00",
+   "source": "bank",
+   "bank_id": "q531",
+   "model": null,
+   "content": {
+    "ref": "João 3:14",
+    "ref_label": "João 3:14",
+    "question": "O que Moisés levantou no deserto, comparado ao Filho do Homem que seria levantado?",
+    "options": [
+     "A vara",
+     "A arca",
+     "A serpente",
+     "O bezerro"
+    ],
+    "answer": 2,
+    "evidence": "Moisés levantou a serpente no deserto",
+    "passage": "Assim como Moisés levantou a serpente no deserto, assim também é necessário que o Filho do Homem seja levantado,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos refletir juntos! No deserto, Moisés levantou algo que apontava para o futuro. Qual será? Escolha uma das alternativas abaixo e compartilhe sua resposta nos comentários. Lembre‑se: cada escolha nos ajuda a crescer na fé e no conhecimento da Palavra. 🌟\n\nO que Moisés levantou no deserto, comparado ao Filho do Homem que seria levantado?\nA) A vara\nB) A arca\nC) A serpente\nD) O bezerro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #fe #palavradedeus #desafio #deus #cristao #gospel #evangelico #perguntasbiblicas #biblia",
+    "facebook": "Vamos refletir juntos! No deserto, Moisés levantou algo que apontava para o futuro. Qual será? Escolha uma das alternativas abaixo e compartilhe sua resposta nos comentários. Lembre‑se: cada escolha nos ajuda a crescer na fé e no conhecimento da Palavra. 🌟\n\nO que Moisés levantou no deserto, comparado ao Filho do Homem que seria levantado?\nA) A vara\nB) A arca\nC) A serpente\nD) O bezerro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus",
+    "tiktok": "Moisés levantou algo no deserto. Qual? A, B, C ou D?\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #gospel",
+    "kwai": "Moisés levantou algo no deserto. Qual? A, B, C ou D?\n#quizbiblico #desafiobiblico #jesus #evangelico #palavradedeus",
+    "youtube": {
+     "title": "Quiz bíblico: O que Moisés levantou no deserto? #shorts",
+     "description": "Vamos refletir juntos! No deserto, Moisés levantou algo que apontava para o futuro. Qual será? Escolha uma das alternativas abaixo e compartilhe sua resposta nos comentários. Lembre‑se: cada escolha nos ajuda a crescer na fé e no conhecimento da Palavra. 🌟\n\nO que Moisés levantou no deserto, comparado ao Filho do Homem que seria levantado?\nA) A vara\nB) A arca\nC) A serpente\nD) O bezerro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-3-curiosity",
+   "date": "2026-10-12",
+   "slot": 3,
+   "time": "10:00",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-12T08:22:40+00:00",
+   "source": "bank",
+   "bank_id": "c121",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 9:20",
+    "ref_label": "2 Reis 9:20",
+    "title": "O motorista mais rápido da Bíblia",
+    "text": "Jeú era tão conhecido por guiar seu carro de forma furiosa que o vigia o reconheceu de longe pelo jeito de dirigir!",
+    "evidence": "pois ele guia furiosamente",
+    "passage": "O vigia disse: “Ele chegou até eles, e não está voltando. A maneira de guiar é como a de Jeú, filho de Ninsi, pois ele guia furiosamente.”",
+    "tags": [
+     "jeu",
+     "curiosidade"
+    ]
+   },
+   "captions": {
+    "instagram": "O motorista mais rápido da Bíblia\n\nJeú era tão conhecido por guiar seu carro de forma furiosa que o vigia o reconheceu de longe pelo jeito de dirigir! (2 Reis 9:20)\n\nJeú, conhecido por sua rapidez ao conduzir, impressionou até o vigia que o reconheceu de longe pela forma furiosa de dirigir (2 Reis 9:20). Essa curiosidade nos lembra que, assim como na estrada, na vida espiritual também precisamos avançar com determinação e fé. Que possamos seguir firmes, confiando no caminho que Deus traçou para nós. 🚗🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jeu #curiosidade #vocesabia #curiosidadesbiblicas #gospel #jesus #deus #cristao #evangelico #biblia #palavradedeus #fe",
+    "facebook": "O motorista mais rápido da Bíblia\n\nJeú era tão conhecido por guiar seu carro de forma furiosa que o vigia o reconheceu de longe pelo jeito de dirigir! (2 Reis 9:20)\n\nJeú, conhecido por sua rapidez ao conduzir, impressionou até o vigia que o reconheceu de longe pela forma furiosa de dirigir (2 Reis 9:20). Essa curiosidade nos lembra que, assim como na estrada, na vida espiritual também precisamos avançar com determinação e fé. Que possamos seguir firmes, confiando no caminho que Deus traçou para nós. 🚗🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jeu #curiosidade #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jeú, o motorista mais rápido da Bíblia, foi reconhecido pela sua condução furiosa! 🚗\n#jeu #curiosidade #vocesabia #curiosidadesbiblicas #jesus",
+    "kwai": "Jeú, o motorista mais rápido da Bíblia, foi reconhecido pela sua condução furiosa! 🚗\n#jeu #curiosidade #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "youtube": {
+     "title": "Jeú: O motorista mais veloz da Bíblia #shorts",
+     "description": "O motorista mais rápido da Bíblia\n\nJeú era tão conhecido por guiar seu carro de forma furiosa que o vigia o reconheceu de longe pelo jeito de dirigir! (2 Reis 9:20)\n\nJeú, conhecido por sua rapidez ao conduzir, impressionou até o vigia que o reconheceu de longe pela forma furiosa de dirigir (2 Reis 9:20). Essa curiosidade nos lembra que, assim como na estrada, na vida espiritual também precisamos avançar com determinação e fé. Que possamos seguir firmes, confiando no caminho que Deus traçou para nós. 🚗🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jeu #curiosidade #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-2-quiz",
+   "date": "2026-10-12",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-12T08:22:37+00:00",
+   "source": "bank",
+   "bank_id": "q303",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 4:1",
+    "ref_label": "Gênesis 4:1",
+    "question": "Qual foi o primeiro filho de Adão e Eva mencionado na Bíblia?",
+    "options": [
+     "Abel",
+     "Sete",
+     "Enoque",
+     "Caim"
+    ],
+    "answer": 3,
+    "evidence": "deu à luz Caim",
+    "passage": "O homem conheceu Eva, sua mulher. Ela concebeu, deu à luz Caim, e disse: “Adquiri um homem com a ajuda do SENHOR.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual foi o primeiro filho de Adão e Eva mencionado na Bíblia?\n\nA) Abel\nB) Sete\nC) Enoque\nD) Caim\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #jesus #biblia #perguntasbiblicas #cristao #deus #fe #teste #desafio #conhecimentobiblico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual foi o primeiro filho de Adão e Eva mencionado na Bíblia?\n\nA) Abel\nB) Sete\nC) Enoque\nD) Caim\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #conhecimentobiblico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #gospel #palavradedeus #jesus",
+    "youtube": {
+     "title": "Desafio bíblico do dia Qual foi o primeiro filho de Adão e Eva mencionado na Bíblia? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual foi o primeiro filho de Adão e Eva mencionado na Bíblia?\n\nA) Abel\nB) Sete\nC) Enoque\nD) Caim\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em João 3:16: 'amor'",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
    "id": "2026-10-12-1-verse",
    "date": "2026-10-12",
    "slot": 1,
