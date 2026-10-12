@@ -150,7 +150,7 @@
    "slot": 6,
    "time": "15:00",
    "type": "curiosity",
-   "status": "pending",
+   "status": "approved",
    "created_at": "2026-10-12T18:03:26+00:00",
    "source": "bank",
    "bank_id": "c084",
@@ -215,7 +215,9 @@
    "log": [
     "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-12T23:03:59.669Z"
   },
   {
    "id": "2026-10-12-5-verse",
