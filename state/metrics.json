@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-12T09:31:35+00:00",
+ "updated_at": "2026-10-12T09:36:21+00:00",
  "notes": [],
  "posts": {
+  "2026-10-12-1-verse": {
+   "type": "verse",
+   "date": "2026-10-12",
+   "time": "06:30",
+   "title": "Provérbios 4:23",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeY6ph7GBP0/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095733325513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-11-7-curiosity": {
    "type": "curiosity",
    "date": "2026-10-11",

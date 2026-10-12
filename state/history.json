@@ -658,6 +658,75 @@
    }
   },
   {
+   "id": "2026-10-12-1-verse-v2",
+   "date": "2026-10-12",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-12T09:26:45+00:00",
+   "source": "bank",
+   "bank_id": "v112",
+   "model": null,
+   "content": {
+    "ref": "Salmos 37:4",
+    "ref_label": "Salmos 37:4",
+    "verse_text": "Deleite-se também no SENHOR, e ele concederá a você os desejos do seu coração.",
+    "on_screen": "Deleite-se no Senhor.",
+    "reflection": "Quando Deus é a nossa maior alegria, os nossos desejos começam a se alinhar com os dEle. E Ele tem prazer em nos abençoar.",
+    "theme": "alegria em Deus",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "Para guardar no coração 🙏\n\n“Deleite-se também no SENHOR, e ele concederá a você os desejos do seu coração.” (Salmos 37:4)\n\nQuando Deus é a nossa maior alegria, os nossos desejos começam a se alinhar com os dEle. E Ele tem prazer em nos abençoar.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #salmos #versiculododia #versiculo #cristao #devocional #jesus #biblia #evangelico #esperanca #palavradedeus #gospel",
+    "facebook": "Para guardar no coração 🙏\n\n“Deleite-se também no SENHOR, e ele concederá a você os desejos do seu coração.” (Salmos 37:4)\n\nQuando Deus é a nossa maior alegria, os nossos desejos começam a se alinhar com os dEle. E Ele tem prazer em nos abençoar.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #salmos #versiculododia #versiculo",
+    "tiktok": "Para guardar no coração 🙏 Salmos 37:4\nSalve para ler de novo quando precisar.\n#alegria #salmos #versiculododia #versiculo #fe",
+    "kwai": "Para guardar no coração 🙏 Salmos 37:4\nSalve para ler de novo quando precisar.\n#alegria #salmos #versiculododia #versiculo #biblia",
+    "youtube": {
+     "title": "Salmos 37:4: Deleite-se no Senhor. #shorts",
+     "description": "Para guardar no coração 🙏\n\n“Deleite-se também no SENHOR, e ele concederá a você os desejos do seu coração.” (Salmos 37:4)\n\nQuando Deus é a nossa maior alegria, os nossos desejos começam a se alinhar com os dEle. E Ele tem prazer em nos abençoar.\n\nSalve para ler de novo quando precisar.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #alegria #salmos #versiculododia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-12T09:35:50+00:00",
+    "facebook": "2026-10-12T09:35:54+00:00",
+    "stories": "2026-10-12T09:36:09+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeY7M0ul2Uc/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095735893513774",
+    "stories": "story 17974704971940428"
+   }
+  },
+  {
    "id": "2026-10-11-7-curiosity",
    "date": "2026-10-11",
    "slot": 7,
