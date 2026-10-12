@@ -24,7 +24,7 @@
    },
    {
     "time": "13:30",
-    "type": "verse"
+    "type": "quiz"
    },
    {
     "time": "15:00",
@@ -44,7 +44,7 @@
    },
    {
     "time": "21:30",
-    "type": "verse"
+    "type": "curiosity"
    }
   ]
  },
@@ -76,7 +76,8 @@
   "youtube": true,
   "max_attempts": 3,
   "stories": true,
-  "youtube_max_per_day": 6
+  "youtube_max_per_day": 6,
+  "tiktok": false
  },
  "compilation": {
   "enabled": true,
