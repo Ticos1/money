@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T15:02:31+00:00",
+ "updated_at": "2026-10-12T16:31:35+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz-v3": {
@@ -52,6 +52,35 @@
     "likes": 0,
     "comments": 0,
     "shares": 0
+   }
+  },
+  "2026-10-12-4-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "12:00",
+   "title": "Que nome babilônico deram a Daniel?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/BC6MkB_I2jg",
+    "instagram": "https://www.instagram.com/reel/DeZgbeJksMS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2587478311772795"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
    }
   },
   "2026-10-12-3-curiosity-v3": {
@@ -141,7 +170,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
@@ -228,7 +257,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 1,
     "comments": 0
    }
@@ -419,7 +448,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 85,
+    "views": 86,
     "likes": 2,
     "comments": 0
    }
@@ -494,7 +523,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 32,
+    "views": 31,
     "likes": 2,
     "comments": 0
    }
