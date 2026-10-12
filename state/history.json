@@ -763,60 +763,66 @@
    "time": "15:00",
    "type": "curiosity",
    "status": "approved",
-   "created_at": "2026-10-12T08:24:21+00:00",
-   "source": "groq",
-   "bank_id": null,
-   "model": "openai/gpt-oss-120b",
+   "created_at": "2026-10-12T18:03:26+00:00",
+   "source": "bank",
+   "bank_id": "c084",
+   "model": null,
    "content": {
-    "ref": "Mateus 6:28-29",
-    "ref_label": "Mateus 6:28-29",
-    "title": "Você sabia?",
-    "text": "Jesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão.",
-    "evidence": "lírios",
-    "passage": "E por que andam ansiosos quanto às roupas? Considerem os lírios do campo, como eles crescem. Eles não trabalham, nem fiam, contudo, eu lhes digo que nem mesmo Salomão, em toda a sua glória, vestiu-se como um deles.",
+    "ref": "Gálatas 6:11",
+    "ref_label": "Gálatas 6:11",
+    "title": "As letras grandes de Paulo",
+    "text": "Paulo escreveu aos gálatas: \"Vejam com que letras grandes eu escrevo\". Muitos acham que ele tinha problemas de visão.",
+    "evidence": "letras grandes",
+    "passage": "Vejam com que letras grandes eu escrevo a vocês de meu próprio punho.",
     "tags": [
-     "curiosidade",
-     "biblia"
+     "paulo",
+     "cartas"
     ]
    },
    "captions": {
-    "instagram": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #estudobiblico #cristao #palavradedeus #historiabiblica #gospel #evangelico #deus #jesus",
-    "facebook": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Os lírios não trabalham, mas são mais belos que Salomão. Confie no cuidado de Deus! 🌸\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #cristao",
-    "kwai": "Os lírios não trabalham, mas são mais belos que Salomão. Confie no cuidado de Deus! 🌸\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "instagram": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nAs letras grandes de Paulo\n\nPaulo escreveu aos gálatas: \"Vejam com que letras grandes eu escrevo\". Muitos acham que ele tinha problemas de visão. (Gálatas 6:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #cartas #vocesabia #curiosidadesbiblicas #estudobiblico #palavradedeus #biblia #historiabiblica #evangelico #cristao #gospel #jesus",
+    "facebook": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nAs letras grandes de Paulo\n\nPaulo escreveu aos gálatas: \"Vejam com que letras grandes eu escrevo\". Muitos acham que ele tinha problemas de visão. (Gálatas 6:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #cartas #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Aprenda algo novo sobre a Bíblia hoje 📖 As letras grandes de Paulo\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#paulo #cartas #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "kwai": "Aprenda algo novo sobre a Bíblia hoje 📖 As letras grandes de Paulo\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#paulo #cartas #vocesabia #curiosidadesbiblicas #estudobiblico",
     "youtube": {
-     "title": "Lírios que ensinam: a beleza da confiança em Deus #shorts",
-     "description": "Você sabia?\n\nJesus observou que os lírios da terra não trabalham nem fiam, e mesmo assim são vestidos com esplendor maior que o de Salomão. (Mateus 6:28-29)\n\nJesus nos lembra que os lírios da terra não trabalham nem se vestem, e ainda assim são adornados com beleza maior que a de Salomão. Essa simples verdade nos convida a confiar no cuidado divino e a descansar na providência que nos envolve a cada dia. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #curiosidade #biblia #vocesabia"
+     "title": "Você sabia? As letras grandes de Paulo #shorts",
+     "description": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nAs letras grandes de Paulo\n\nPaulo escreveu aos gálatas: \"Vejam com que letras grandes eu escrevo\". Muitos acham que ele tinha problemas de visão. (Gálatas 6:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paulo #cartas #vocesabia"
     }
    },
-   "caption_source": "groq",
+   "caption_source": "template",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
     },
     {
-     "title": "Todavia Me Alegrarei",
-     "artist": "Samuel Messias"
-    },
-    {
-     "title": "Galileu",
+     "title": "Uma Nova História",
      "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-12T23:07:02+00:00",
+    "facebook": "2026-10-12T23:07:06+00:00",
+    "stories": "2026-10-12T23:07:13+00:00"
    },
    "log": [
-    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeaYCOkDBht/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096124141513774",
+    "stories": "story 18114352931112482"
+   }
   },
   {
    "id": "2026-10-12-6-curiosity-v2",
