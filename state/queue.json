@@ -695,7 +695,7 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
+   "status": "rejected",
    "created_at": "2026-10-12T09:58:44+00:00",
    "source": "bank",
    "bank_id": "v210",
