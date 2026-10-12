@@ -1317,6 +1317,82 @@
    "error": null
   },
   {
+   "id": "2026-10-12-2-quiz-v3",
+   "date": "2026-10-12",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-12T10:00:12+00:00",
+   "source": "bank",
+   "bank_id": "q579",
+   "model": null,
+   "content": {
+    "ref": "Romanos 6:23",
+    "ref_label": "Romanos 6:23",
+    "question": "Segundo Romanos, qual é o salário do pecado?",
+    "options": [
+     "A pobreza",
+     "A morte",
+     "A tristeza",
+     "A doença"
+    ],
+    "answer": 1,
+    "evidence": "o salário do pecado é a morte",
+    "passage": "Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo Romanos, qual é o salário do pecado?\n\nA) A pobreza\nB) A morte\nC) A tristeza\nD) A doença\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #teste #biblia #evangelico #palavradedeus #jesus #gospel #cristao #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo Romanos, qual é o salário do pecado?\n\nA) A pobreza\nB) A morte\nC) A tristeza\nD) A doença\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #biblia #teste",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #teste",
+    "youtube": {
+     "title": "Teste rápido: você acerta de primeira? Segundo Romanos, qual é o salário do pecado? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo Romanos, qual é o salário do pecado?\n\nA) A pobreza\nB) A morte\nC) A tristeza\nD) A doença\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-12T11:00:38+00:00",
+    "instagram": "2026-10-12T11:01:12+00:00",
+    "facebook": "2026-10-12T11:01:16+00:00",
+    "stories": "2026-10-12T11:02:40+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/q4a5Hr-53Ww",
+    "instagram": "https://www.instagram.com/reel/DeZE8IKFooR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1701578517993198",
+    "stories": "story 18118373146777986"
+   }
+  },
+  {
    "id": "2026-10-12-1-verse",
    "date": "2026-10-12",
    "slot": 1,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T10:39:05+00:00",
+ "updated_at": "2026-10-12T11:02:55+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz-v3": {
@@ -29,6 +29,29 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-12-8-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "title": "Acharam que era um anjo",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZCXt8jDJo/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095771365513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-12-1-verse": {
