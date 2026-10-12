@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T18:01:41+00:00",
+ "updated_at": "2026-10-12T20:04:17+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz-v3": {
@@ -26,7 +26,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 209,
+    "views": 210,
     "likes": 3,
     "comments": 0
    }
@@ -39,6 +39,29 @@
    "links": {
     "instagram": "https://www.instagram.com/p/DeZCXt8jDJo/",
     "facebook": "https://www.facebook.com/1405324152662027_122095771365513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-6-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "15:00",
+   "title": "A restauração de Jó",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZ1BLrDGav/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095994847513774"
    },
    "instagram": {
     "likes": 0,
@@ -153,8 +176,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 4,
-    "likes": 2,
+    "views": 5,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -251,8 +274,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 28,
-    "likes": 2,
+    "views": 33,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -280,7 +303,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 11,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -442,7 +465,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 125,
+    "views": 126,
     "likes": 3,
     "comments": 0
    }
@@ -546,7 +569,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 33,
+    "views": 34,
     "likes": 2,
     "comments": 0
    }
@@ -575,7 +598,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 82,
+    "views": 83,
     "likes": 7,
     "comments": 0
    }
