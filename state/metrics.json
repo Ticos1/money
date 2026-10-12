@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T11:02:55+00:00",
+ "updated_at": "2026-10-12T13:01:30+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz-v3": {
@@ -22,12 +22,12 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -52,6 +52,35 @@
     "likes": 0,
     "comments": 0,
     "shares": 0
+   }
+  },
+  "2026-10-12-2-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "08:00",
+   "title": "Segundo Romanos, qual é o salário do pecado?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/q4a5Hr-53Ww",
+    "instagram": "https://www.instagram.com/reel/DeZE8IKFooR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1701578517993198"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
    }
   },
   "2026-10-12-1-verse": {
@@ -177,7 +206,7 @@
    },
    "youtube": {
     "views": 6,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
