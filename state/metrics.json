@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-10-12T00:01:31+00:00",
+ "updated_at": "2026-10-12T05:46:31+00:00",
  "notes": [],
  "posts": {
   "2026-10-11-7-curiosity": {
    "type": "curiosity",
    "date": "2026-10-11",
    "time": "21:00",
-   "title": "O significado do nome Moisés",
+   "title": "Você sabia? A sarça que não se consumia",
    "links": {
-    "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
-    "facebook": "https://www.facebook.com/1405324152662027_122094944997513774"
+    "instagram": "https://www.instagram.com/p/DeX5ZfeGDyB/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095468971513774"
    },
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
@@ -45,11 +45,11 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0
    },
    "youtube": {
-    "views": 3,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -107,7 +107,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 8,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -159,7 +159,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 149,
+    "views": 166,
     "likes": 7,
     "comments": 0
    }
@@ -234,7 +234,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 52,
+    "views": 68,
     "likes": 3,
     "comments": 0
    }
@@ -263,7 +263,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 101,
+    "views": 125,
     "likes": 3,
     "comments": 0
    }
@@ -292,7 +292,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 61,
+    "views": 85,
     "likes": 2,
     "comments": 0
    }
@@ -367,7 +367,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 24,
+    "views": 32,
     "likes": 2,
     "comments": 0
    }
@@ -396,7 +396,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 64,
+    "views": 81,
     "likes": 7,
     "comments": 0
    }
