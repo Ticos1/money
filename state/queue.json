@@ -153,7 +153,9 @@
     "stories": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-12T10:34:13.291Z"
   },
   {
    "id": "2026-10-12-8-curiosity-v3",
