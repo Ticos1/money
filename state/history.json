@@ -1,6 +1,73 @@
 {
  "posts": [
   {
+   "id": "2026-10-12-1-verse",
+   "date": "2026-10-12",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-12T08:21:09+00:00",
+   "source": "bank",
+   "bank_id": "v078",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 4:23",
+    "ref_label": "Provérbios 4:23",
+    "verse_text": "Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.",
+    "on_screen": "Guarde o seu coração.",
+    "reflection": "Aquilo que entra no coração molda as palavras, as atitudes e as escolhas. Cuide do que você ouve, vê e pensa.",
+    "theme": "coração",
+    "mood": "reflexao",
+    "tags": [
+     "coracao",
+     "sabedoria"
+    ]
+   },
+   "captions": {
+    "instagram": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coracao #sabedoria #versiculododia #versiculo #deus #jesus #biblia #oracao #fe #devocional #esperanca #cristao",
+    "facebook": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coracao #sabedoria #versiculododia #versiculo",
+    "tiktok": "Cuide do que entra no seu coração e veja a vida florescer.\n#coracao #sabedoria #versiculododia #versiculo #devocional",
+    "kwai": "Cuide do que entra no seu coração e veja a vida florescer.\n#coracao #sabedoria #versiculododia #versiculo #deus",
+    "youtube": {
+     "title": "Cuidando do coração: a fonte da vida #shorts",
+     "description": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coracao #sabedoria #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-12T09:31:02+00:00",
+    "facebook": "2026-10-12T09:31:05+00:00",
+    "stories": "2026-10-12T09:31:21+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeY6ph7GBP0/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095733325513774",
+    "stories": "story 18111117659055793"
+   }
+  },
+  {
    "id": "2026-10-11-7-curiosity",
    "date": "2026-10-11",
    "slot": 7,
