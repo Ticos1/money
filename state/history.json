@@ -7,30 +7,30 @@
    "time": "21:00",
    "type": "curiosity",
    "status": "approved",
-   "created_at": "2026-10-11T03:21:00+00:00",
-   "source": "bank",
-   "bank_id": "c031",
-   "model": null,
+   "created_at": "2026-10-11T14:58:52+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
    "content": {
-    "ref": "Êxodo 2:10",
-    "ref_label": "Êxodo 2:10",
-    "title": "O significado do nome Moisés",
-    "text": "A filha do faraó chamou o menino de Moisés porque o tirou da água.",
-    "evidence": "eu o tirei da água",
-    "passage": "O menino cresceu, e ela o levou à filha do faraó, e ele se tornou seu filho. Ela o chamou de Moisés, e disse: “Porque eu o tirei da água.”",
+    "ref": "Êxodo 3:2",
+    "ref_label": "Êxodo 3:2",
+    "title": "Você sabia? A sarça que não se consumia",
+    "text": "Moisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto.",
+    "evidence": "sarça",
+    "passage": "O anjo do SENHOR apareceu a ele em uma chama de fogo do meio de uma sarça. Ele olhou, e eis que a sarça ardia no fogo, e a sarça não era consumida.",
     "tags": [
-     "moises",
-     "nomes"
+     "curiosidade",
+     "biblia"
     ]
    },
    "captions": {
-    "instagram": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #nomes #vocesabia #curiosidadesbiblicas #cristao #historiabiblica #estudobiblico #evangelico #fe #jesus #gospel #deus",
-    "facebook": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #nomes #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Moisés recebeu o nome por ter sido tirado da água. 🙏\n#moises #nomes #vocesabia #curiosidadesbiblicas #evangelico",
-    "kwai": "Moisés recebeu o nome por ter sido tirado da água. 🙏\n#moises #nomes #vocesabia #curiosidadesbiblicas #evangelico",
+    "instagram": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #historiabiblica #cristao #fe #gospel #deus #jesus #evangelico #palavradedeus",
+    "facebook": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Moisés viu a sarça que não se queimava e reconheceu a presença viva de Deus.\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Moisés viu a sarça que não se queimava e reconheceu a presença viva de Deus.\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #deus",
     "youtube": {
-     "title": "Por que Moisés foi chamado assim? Descubra a curiosidade bíblica #shorts",
-     "description": "O significado do nome Moisés\n\nA filha do faraó chamou o menino de Moisés porque o tirou da água. (Êxodo 2:10)\n\nA filha do faraó deu ao menino o nome de Moisés porque o tirou da água, como registra Êxodo 2:10. Esse detalhe nos lembra que Deus pode usar até os momentos mais simples para revelar seu plano. Que possamos reconhecer, como ela fez, a mão de Deus nas pequenas grandes histórias da nossa vida.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #moises #nomes #vocesabia"
+     "title": "A sarça que não se consumia: a presença viva de Deus no deserto #shorts",
+     "description": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #curiosidade #biblia #vocesabia"
     }
    },
    "caption_source": "groq",
@@ -41,32 +41,32 @@
      "artist": "Paulo César Baruk"
     },
     {
-     "title": "Ousado Amor",
-     "artist": "Isaías Saad"
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
     },
     {
-     "title": "Ninguém Explica Deus",
-     "artist": "Preto no Branco"
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": "2026-10-11T04:12:20+00:00",
-    "facebook": "2026-10-11T04:12:24+00:00",
-    "stories": "2026-10-11T04:12:39+00:00"
+    "instagram": "2026-10-12T00:00:56+00:00",
+    "facebook": "2026-10-12T00:01:00+00:00",
+    "stories": "2026-10-12T00:01:15+00:00"
    },
    "log": [
     "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
-    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
    ],
    "error": null,
    "publish_errors": {},
    "publish_links": {
-    "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
-    "facebook": "https://www.facebook.com/1405324152662027_122094944997513774",
-    "stories": "story 18411051274090690"
+    "instagram": "https://www.instagram.com/p/DeX5ZfeGDyB/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095468971513774",
+    "stories": "story 18077669135409464"
    }
   },
   {
