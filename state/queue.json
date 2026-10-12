@@ -141,7 +141,9 @@
     "stories": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publishing_now": "2026-10-12T10:37:57.268Z"
   },
   {
    "id": "2026-10-12-7-quiz-v3",
