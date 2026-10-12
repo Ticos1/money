@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T21:31:16+00:00",
+ "updated_at": "2026-10-12T23:02:28+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz-v3": {
@@ -26,9 +26,32 @@
     "comments": 0
    },
    "youtube": {
-    "views": 211,
+    "views": 212,
     "likes": 3,
     "comments": 0
+   }
+  },
+  "2026-10-12-8-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "title": "Onde surgiu o nome \"cristão\"",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeaNBgeG8NJ/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096091819513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-12-8-curiosity-v3": {
@@ -103,12 +126,12 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 8,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -182,8 +205,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 1,
+    "views": 2,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -234,7 +257,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 6,
+    "views": 7,
     "likes": 3,
     "comments": 0
    }
@@ -523,7 +546,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 126,
+    "views": 127,
     "likes": 3,
     "comments": 0
    }
