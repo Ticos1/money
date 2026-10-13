@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T00:33:23+00:00",
+ "updated_at": "2026-10-13T07:38:58+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-10-curiosity": {
@@ -45,12 +45,12 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 3,
+    "likes": 5,
     "comments": 2
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 172,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -78,7 +78,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 212,
+    "views": 213,
     "likes": 3,
     "comments": 0
    }
@@ -153,8 +153,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 5,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -182,8 +182,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 8,
-    "likes": 2,
+    "views": 22,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -280,8 +280,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 2,
+    "views": 4,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -355,7 +355,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 3,
     "comments": 0
    }
@@ -430,7 +430,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 33,
+    "views": 30,
     "likes": 3,
     "comments": 0
    }
@@ -592,7 +592,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 68,
+    "views": 65,
     "likes": 3,
     "comments": 0
    }
@@ -621,7 +621,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 127,
+    "views": 122,
     "likes": 3,
     "comments": 0
    }
@@ -725,7 +725,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 34,
+    "views": 33,
     "likes": 2,
     "comments": 0
    }
@@ -754,7 +754,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 83,
+    "views": 80,
     "likes": 7,
     "comments": 0
    }
