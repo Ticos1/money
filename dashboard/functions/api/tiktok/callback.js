@@ -1,6 +1,9 @@
 import { GitHub } from "../../../lib/github.js";
 import { checkState, encryptToken, redirectUri } from "../../../lib/tiktok.js";
 
+const esc = (t) => String(t ?? "").replace(/[<>&"']/g, (c) => `&#${c.charCodeAt(0)};`);
+
+// `msg` pode conter HTML nosso (ex.: <b>); texto vindo de fora passa por esc() antes.
 function page(title, msg, ok) {
   return new Response(`<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="/style.css"><div class="login"><div class="card"><h1>${ok ? "✅" : "⚠️"} ${title}</h1>
@@ -33,7 +36,7 @@ export async function onRequestGet({ request, env }) {
   });
   const tok = await res.json().catch(() => ({}));
   if (!tok.refresh_token) {
-    return page("Erro do TikTok", `O TikTok recusou: ${tok.error_description || tok.error || res.status}`, false);
+    return page("Erro do TikTok", `O TikTok recusou: ${esc(tok.error_description || tok.error || res.status)}`, false);
   }
   if (!String(tok.scope || "").includes("video.upload")) {
     return page("Permissão faltando", "Autorize o envio de vídeos (video.upload) ao conectar.", false);
@@ -61,7 +64,7 @@ export async function onRequestGet({ request, env }) {
       Object.assign(d, record);
     }, "painel: conectar TikTok");
   } catch (err) {
-    return page("Erro ao salvar", err.message, false);
+    return page("Erro ao salvar", esc(err.message), false);
   }
-  return page("TikTok conectado!", `Conta conectada${name ? `: <b>${name.replace(/[<>&"]/g, "")}</b>` : ""}. Agora ligue o TikTok em Configurações.`, true);
+  return page("TikTok conectado!", `Conta conectada${name ? `: <b>${esc(name)}</b>` : ""}. Agora ligue o TikTok em Configurações.`, true);
 }

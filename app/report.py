@@ -25,7 +25,7 @@ from pathlib import Path
 from . import config
 
 TYPE_NAME = {"verse": "Versículo do dia", "quiz": "Desafio de quiz", "curiosity": "Você sabia?",
-             "fill": "Complete o versículo", "truefalse": "Verdadeiro ou falso",
+             "fill": "Complete o versículo", "truefalse": "Verdadeiro ou falso", "book": "Em qual livro está?",
              "compilation": "Vídeo longo de quiz"}
 MIN_POSTS_PER_HOUR = 2
 # análise de formatos: abaixo disso a diferença entre formatos é ruído

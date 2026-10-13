@@ -2,6 +2,9 @@
 
 - "fill" (Complete o versículo): um versículo conhecido do banco com uma palavra-chave
   escondida; 4 opções; a certa é a palavra original do texto bíblico.
+- "book" (Em qual livro está?): um versículo do banco; 4 livros da Bíblia como opções (do
+  mesmo testamento); a certa é o livro do versículo. Só entram versículos cujo texto é único
+  na Bíblia, para nunca existir uma segunda resposta certa.
 - "truefalse" (Verdadeiro ou falso?): uma pergunta do banco de quiz com uma resposta
   mostrada (a certa ou uma das erradas); o vídeo revela se era verdade.
 
@@ -11,11 +14,13 @@ from __future__ import annotations
 
 import random
 import re
+from collections import Counter
+from functools import lru_cache
 from datetime import date, timedelta
 
 from . import bible, validate
 
-KINDS = ("fill", "truefalse")
+KINDS = ("fill", "truefalse", "book")
 MAX_FILL_CHARS = 220
 RECENT_DAYS = 120  # o mesmo item não volta neste formato por 120 dias
 
@@ -64,6 +69,31 @@ def make_fill(item: dict, rng: random.Random) -> dict | None:
             "answer": options.index(original), "question": blanked}
 
 
+@lru_cache(maxsize=1)
+def _text_counts() -> Counter:
+    return Counter(bible.normalize(v) for chapters in bible._data().values()
+                   for verses in chapters.values() for v in verses)
+
+
+def make_book(item: dict, rng: random.Random) -> dict | None:
+    """Pergunta 'em qual livro está?'. None se o versículo não serve (longo ou repetido na Bíblia)."""
+    text = item["verse_text"]
+    ref = bible.parse_reference(item["ref"])
+    if len(text) > MAX_FILL_CHARS or len(item["ref"]) == 0:
+        return None
+    if any(_text_counts()[bible.normalize(v)] > 1 for v in bible.get_verses(ref)):
+        return None
+    codes = [c for c, _, _ in bible.BOOKS]
+    ot_len = codes.index("MAT")
+    same = codes[:ot_len] if codes.index(ref.book) < ot_len else codes[ot_len:]
+    pool = [c for c in same if c != ref.book]
+    options = [ref.book] + rng.sample(pool, 3)
+    rng.shuffle(options)
+    names = [bible.BOOK_NAMES[c] for c in options]
+    return {**item, "question": text, "options": names, "answer": options.index(ref.book),
+            "book_name": bible.BOOK_NAMES[ref.book]}
+
+
 def make_truefalse(item: dict, rng: random.Random) -> dict:
     """Mostra a resposta certa ou uma errada (metade das vezes cada)."""
     correct = item["options"][item["answer"]]
@@ -91,7 +121,7 @@ def bank_status(kind: str, today: date, used: dict) -> tuple[list[dict], list[di
     """(banco válido, itens que ainda não saíram neste formato): usado por pick e pela saturação."""
     seen = _recent(used.get(kind, {}), today, RECENT_DAYS)
     recent_refs = _recent(used.get("refs", {}), today, 3)  # não repete o versículo dos últimos dias
-    if kind == "fill":
+    if kind in ("fill", "book"):
         bank = _valid_bank("verse")
         return bank, [i for i in bank if i["id"] not in seen and i["ref_key"] not in recent_refs]
     bank = _valid_bank("quiz")
@@ -106,13 +136,14 @@ def pick(kind: str, today: date, used: dict, groq, settings: dict, rng: random.R
     stamp = today.isoformat()
     seen = used.get(kind, {})
     bank, fresh = bank_status(kind, today, used)
-    if kind == "fill":
+    if kind in ("fill", "book"):
+        maker = make_fill if kind == "fill" else make_book
         rng.shuffle(fresh)
         for item in fresh + sorted(bank, key=lambda i: seen.get(i["id"], "")):
-            built = make_fill(item, rng)
+            built = maker(item, rng)
             if built:
                 return {**built, "source": "bank"}, {kind: {item["id"]: stamp}}
-        raise RuntimeError("nenhum versículo do banco serve para 'Complete o versículo'")
+        raise RuntimeError(f"nenhum versículo do banco serve para o formato {kind!r}")
 
     item = rng.choice(fresh) if fresh else min(bank, key=lambda i: seen.get(i["id"], ""))
     if not fresh:

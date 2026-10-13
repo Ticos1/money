@@ -14,7 +14,7 @@ import random
 import re
 from datetime import date, timedelta
 
-from . import bible, validate
+from . import bible, datas, validate
 from .groq_client import GroqClient, GroqUnavailable
 
 SYSTEM_PROMPT = (
@@ -175,8 +175,11 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
     stamp = today.isoformat()
     bank, fresh = bank_status(kind, today, used, log)
 
+    fresh, date_theme = datas.prefer(kind, today, fresh)  # data especial: tema do dia primeiro
+    if date_theme:
+        log.append(f"{kind}: data especial ({date_theme.name}), conteúdo temático")
     ratio = float(settings.get("groq", {}).get("new_content_ratio", 0.3))
-    want_new = groq.available() and (not fresh or rng.random() < ratio)
+    want_new = groq.available() and not date_theme and (not fresh or rng.random() < ratio)
     if want_new:
         avoid = sorted({bible.parse_reference(i["ref"]).label for i in bank}
                        | {_label_from_key(k) for k in recent_refs})
@@ -204,6 +207,8 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
         item = min(bank, key=lambda i: used_ids.get(i["id"], ""))
         log.append(f"{kind}: banco esgotado, reaproveitando {item['id']}")
     item = {**item, "source": "bank"}
+    if date_theme:
+        item["date_hook"] = date_theme.hook
     updates = {kind: {item["id"]: stamp}, "refs": {item["ref_key"]: stamp}}
     if item.get("question") or item.get("title"):
         updates["fingerprints"] = {fingerprint(item.get("question") or item["title"]): stamp}

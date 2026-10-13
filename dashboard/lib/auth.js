@@ -55,3 +55,45 @@ export async function hasValidMediaSignature(url, secret) {
   const hex = [...mac].map((b) => b.toString(16).padStart(2, "0")).join("");
   return safeEqual(sig, hex);
 }
+
+// Limite de tentativas de login por IP (5 erros em 15 min). Usa o cache do Cloudflare,
+// que é por região: freia tentativa em massa, mas não é um contador global exato.
+const MAX_FAILURES = 5;
+const WINDOW_SECONDS = 900;
+
+function limiterKey(request) {
+  const ip = request.headers.get("CF-Connecting-IP") || "desconhecido";
+  return new Request(`https://limite.interno/login/${encodeURIComponent(ip)}`);
+}
+
+export async function loginFailures(request) {
+  try {
+    const hit = await caches.default.match(limiterKey(request));
+    return hit ? Number(await hit.text()) || 0 : 0;
+  } catch {
+    return 0;
+  }
+}
+
+export async function isLoginBlocked(request) {
+  return (await loginFailures(request)) >= MAX_FAILURES;
+}
+
+export async function recordLoginFailure(request) {
+  try {
+    const n = (await loginFailures(request)) + 1;
+    await caches.default.put(limiterKey(request), new Response(String(n), {
+      headers: { "Cache-Control": `max-age=${WINDOW_SECONDS}` },
+    }));
+  } catch {
+    // sem cache disponível: segue só com o atraso por tentativa
+  }
+}
+
+export async function clearLoginFailures(request) {
+  try {
+    await caches.default.delete(limiterKey(request));
+  } catch {
+    // nada a limpar
+  }
+}

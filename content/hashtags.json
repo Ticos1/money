@@ -52,5 +52,13 @@
     "desafiobiblico",
     "perguntasbiblicas",
     "conhecimentobiblico"
+  ],
+  "book": [
+    "emquallivro",
+    "quizbiblico",
+    "desafiobiblico",
+    "versiculo",
+    "biblia",
+    "conhecimentobiblico"
   ]
 }
