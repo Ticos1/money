@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-13-3-fill",
+   "date": "2026-10-13",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-13T08:25:27+00:00",
+   "source": "bank",
+   "bank_id": "v236",
+   "model": null,
+   "content": {
+    "ref": "Isaías 33:2",
+    "ref_label": "Isaías 33:2",
+    "verse_text": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa força a cada manhã, a nossa salvação também no tempo da angústia.",
+    "question": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.",
+    "options": [
+     "força",
+     "justiça",
+     "promessa",
+     "esperança"
+    ],
+    "answer": 0,
+    "answer_word": "força",
+    "tags": [
+     "forca",
+     "manha"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo #deus #quizbiblico #gospel #cristao #biblia #evangelico #jesus #fe",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #fe",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Isaías 33:2) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #forca #manha #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-13T13:03:01+00:00",
+    "instagram": "2026-10-13T13:03:38+00:00",
+    "facebook": "2026-10-13T13:03:43+00:00",
+    "stories": "2026-10-13T13:04:17+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/acx-KQKjy5k",
+    "instagram": "https://www.instagram.com/reel/Deb3veXkr2J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1839237333880450",
+    "stories": "story 18106790902971724"
+   }
+  },
+  {
    "id": "2026-10-13-2-quiz",
    "date": "2026-10-13",
    "slot": 2,
