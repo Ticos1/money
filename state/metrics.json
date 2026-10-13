@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-13T20:04:45+00:00",
+ "updated_at": "2026-10-13T21:11:19+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-13",
+   "time": "17:00",
+   "title": "O que Moisés feriu em Horebe para que saísse água?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/UCYx3mOwYEA",
+    "instagram": "https://www.instagram.com/reel/Decnz_lAXKS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2362192074617472"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-13-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-13",
@@ -14,14 +43,14 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 6,
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 1
    }
   },
