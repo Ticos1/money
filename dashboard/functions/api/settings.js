@@ -1,7 +1,7 @@
 import { GitHub, json } from "../../lib/github.js";
 
 const TIME = /^([01]\d|2[0-3]):[0-5]\d$/;
-const TYPES = ["verse", "quiz", "curiosity", "fill", "truefalse"];
+const TYPES = ["verse", "quiz", "curiosity", "fill", "truefalse", "book"];
 const MODEL = /^[\w./:-]{3,80}$/;
 
 // Salva as configurações editáveis pelo painel em config/settings.json.

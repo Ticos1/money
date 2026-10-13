@@ -8,7 +8,8 @@ const PLATFORMS = [
 // redes de publicação (as legendas usam PLATFORMS; Stories não tem legenda)
 const NETS = [...PLATFORMS, ["stories", "Stories IG"]];
 const TYPE_NAME = { verse: "Versículo do dia", quiz: "Desafio de quiz (Reels)", curiosity: "Você sabia?",
-  fill: "Complete o versículo (Reels)", truefalse: "Verdadeiro ou falso (Reels)" };
+  fill: "Complete o versículo (Reels)", truefalse: "Verdadeiro ou falso (Reels)",
+  book: "Em qual livro está? (Reels)" };
 const LONG_NAME = "Vídeo longo de quiz (YouTube)";
 const WEEKDAYS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
 const typeName = (t) => (t === "compilation" ? LONG_NAME : TYPE_NAME[t] || t);
@@ -79,6 +80,7 @@ function fmtDate(post) {
 function titleOf(post) {
   if (post.type === "compilation") return post.content.title;
   if (post.type === "fill") return `Complete: ${post.content.ref_label}`;
+  if (post.type === "book") return `Em qual livro? ${post.content.ref_label}`;
   if (post.type === "truefalse") return `${post.content.question} → ${post.content.shown}?`;
   if (post.type === "verse") return post.content.ref_label;
   if (post.type === "curiosity") return post.content.title;
@@ -254,7 +256,7 @@ function editForm(post, card) {
     fields.text = h("textarea", {}, post.content.text);
     f.append(h("label", {}, "Título (aparece na imagem)", fields.title),
       h("label", {}, "Texto (aparece na imagem)", fields.text));
-  } else if (post.type === "fill" || post.type === "truefalse") {
+  } else if (["fill", "truefalse", "book"].includes(post.type)) {
     f.append(h("p", { class: "muted" }, `Este vídeo é montado automaticamente a partir do banco já conferido na Bíblia (${post.content.ref_label}). Aqui dá para editar só as legendas.`));
   } else {
     fields.question = h("textarea", { maxlength: 140, style: "min-height:70px" }, post.content.question);
@@ -284,7 +286,7 @@ function editForm(post, card) {
   f.addEventListener("submit", async (e) => {
     e.preventDefault();
     save.disabled = true;
-    const content = (post.type === "fill" || post.type === "truefalse") ? {} : post.type === "verse"
+    const content = (["fill", "truefalse", "book"].includes(post.type)) ? {} : post.type === "verse"
       ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value }
       : post.type === "curiosity"
         ? { title: fields.title.value, text: fields.text.value }

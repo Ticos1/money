@@ -28,6 +28,10 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 6. Escreve **legendas e hashtags diferentes para cada rede**.
 7. Coloca tudo no **painel** (fila), aguardando sua aprovação.
 
+**Datas especiais** (Natal, Sexta-feira Santa, Páscoa, Pentecostes, Dia das Mães, Dia dos Pais, Dia das Crianças, Dia da Reforma, Dia da Bíblia, Ano Novo e domingos): o sistema escolhe conteúdo do tema, com saudação na legenda. Veja `app/datas.py`.
+
+**Formatos de vídeo:** quiz, "Complete o versículo", "Verdadeiro ou falso" e **"Em qual livro está?"** (versículo + 4 livros; use `book` nos horários em `config/settings.json` ou no painel).
+
 Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamente**. O post do dia nunca deixa de sair.
 
 **Toda semana** (sábado, 12:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
@@ -147,6 +151,8 @@ python -m unittest -v                    # testes
 python -m app.generate run --no-groq     # gera os posts de hoje em ./media
 python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)
 python scripts/make_music.py             # recria as faixas instrumentais
+python -m app.report --analysis           # desempenho de todo o histórico (por tipo e horário)
+python scripts/audit_bible.py            # procura restos de tradução automática na Bíblia local
 ```
 
 ## Próximos passos
@@ -154,4 +160,5 @@ python scripts/make_music.py             # recria as faixas instrumentais
 - Fase 2: YouTube Shorts automático · Fase 3: Instagram/Facebook · Fase 4: TikTok → [docs/FASES.md](docs/FASES.md)
 - Tipo "Você sabia?" (o banco já está pronto e validado) e reflexões em vídeo
 - Ampliar o banco para 365 dias
+- Monetização por fases (metas, opções e regras): [docs/MONETIZACAO.md](docs/MONETIZACAO.md)
 - Futuro: Telegram/WhatsApp, ofertas de afiliados (com aviso "link de afiliado") e divulgação do jogo de quiz (veja `app/types.py`)

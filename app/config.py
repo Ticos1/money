@@ -13,7 +13,7 @@ ASSETS_DIR = ROOT / "assets"
 FONTS_DIR = ASSETS_DIR / "fonts"
 MUSIC_DIR = ASSETS_DIR / "music"
 
-VALID_TYPES = ("verse", "quiz", "curiosity", "fill", "truefalse")
+VALID_TYPES = ("verse", "quiz", "curiosity", "fill", "truefalse", "book")
 MAX_SLOTS = 12
 
 

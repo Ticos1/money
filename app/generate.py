@@ -25,6 +25,7 @@ from zoneinfo import ZoneInfo
 
 from . import captions, compilation, config, content, derived, music, state, validate
 from .groq_client import GroqClient
+from .render import book as book_render
 from .render import curiosity as curiosity_render
 from .render import fill as fill_render
 from .render import quiz as quiz_render
@@ -32,7 +33,7 @@ from .render import truefalse as truefalse_render
 from .render import verse as verse_render
 
 RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_render,
-             "fill": fill_render, "truefalse": truefalse_render}
+             "fill": fill_render, "truefalse": truefalse_render, "book": book_render}
 CONTENT_FIELDS = {
     "verse": ["ref", "skip_prefix", "ref_label", "verse_text", "on_screen", "reflection", "theme",
               "mood", "tags"],
@@ -40,10 +41,11 @@ CONTENT_FIELDS = {
              "tags"],
     "curiosity": ["ref", "ref_label", "title", "text", "evidence", "passage", "tags"],
     "fill": ["ref", "ref_label", "verse_text", "question", "options", "answer", "answer_word", "tags"],
+    "book": ["ref", "ref_label", "question", "options", "answer", "book_name", "tags"],
     "truefalse": ["ref", "ref_label", "question", "shown", "is_true", "correct", "evidence", "passage",
                   "difficulty"],
 }
-VIDEO_KINDS = ("quiz", "fill", "truefalse")  # sempre em vídeo
+VIDEO_KINDS = ("quiz", "fill", "truefalse", "book")  # sempre em vídeo
 
 
 def _today(settings: dict, override: str | None) -> date:
