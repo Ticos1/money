@@ -184,6 +184,72 @@
    "error": null
   },
   {
+   "id": "2026-10-12-10-curiosity",
+   "date": "2026-10-12",
+   "slot": 10,
+   "time": "21:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-12T23:09:33+00:00",
+   "source": "bank",
+   "bank_id": "c216",
+   "model": null,
+   "content": {
+    "ref": "Ester 2:12",
+    "ref_label": "Ester 2:12",
+    "title": "Um ano de tratamento de beleza",
+    "text": "Antes de se apresentar ao rei, cada jovem passava doze meses de preparação: seis meses com óleo de mirra e seis com perfumes.",
+    "evidence": "seis meses com óleo de mirra",
+    "passage": "Chegava a vez de cada jovem ir ao rei Assuero após a sua purificação de doze meses (pois assim se cumpriam os dias da purificação delas: seis meses com óleo de mirra, e seis meses com perfumes e com preparações para o embelezamento das mulheres).",
+    "tags": [
+     "ester",
+     "curiosidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nUm ano de tratamento de beleza\n\nAntes de se apresentar ao rei, cada jovem passava doze meses de preparação: seis meses com óleo de mirra e seis com perfumes. (Ester 2:12)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ester #curiosidade #vocesabia #curiosidadesbiblicas #palavradedeus #deus #estudobiblico #evangelico #fe #gospel #jesus #cristao",
+    "facebook": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nUm ano de tratamento de beleza\n\nAntes de se apresentar ao rei, cada jovem passava doze meses de preparação: seis meses com óleo de mirra e seis com perfumes. (Ester 2:12)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ester #curiosidade #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Aprenda algo novo sobre a Bíblia hoje 📖 Um ano de tratamento de beleza\nMarque alguém que vai gostar de saber disso.\n#ester #curiosidade #vocesabia #curiosidadesbiblicas #evangelico",
+    "kwai": "Aprenda algo novo sobre a Bíblia hoje 📖 Um ano de tratamento de beleza\nMarque alguém que vai gostar de saber disso.\n#ester #curiosidade #vocesabia #curiosidadesbiblicas #biblia",
+    "youtube": {
+     "title": "Você sabia? Um ano de tratamento de beleza #shorts",
+     "description": "Aprenda algo novo sobre a Bíblia hoje 📖\n\nUm ano de tratamento de beleza\n\nAntes de se apresentar ao rei, cada jovem passava doze meses de preparação: seis meses com óleo de mirra e seis com perfumes. (Ester 2:12)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ester #curiosidade #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-13T00:30:39+00:00",
+    "facebook": "2026-10-13T00:30:43+00:00",
+    "stories": "2026-10-13T00:30:53+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeahnfEHSU5/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096149449513774",
+    "stories": "story 18121501271473195"
+   }
+  },
+  {
    "id": "2026-10-12-9-quiz",
    "date": "2026-10-12",
    "slot": 9,

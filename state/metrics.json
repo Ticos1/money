@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T23:07:37+00:00",
+ "updated_at": "2026-10-13T00:31:41+00:00",
  "notes": [],
  "posts": {
   "2026-10-12-9-quiz": {
@@ -22,8 +22,8 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0
+    "likes": 3,
+    "comments": 1
    },
    "youtube": {
     "views": 0,
@@ -164,6 +164,29 @@
     "comments": 0
    }
   },
+  "2026-10-12-6-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "15:00",
+   "title": "As letras grandes de Paulo",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeaYCOkDBht/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096124141513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-12-6-curiosity-v3": {
    "type": "curiosity",
    "date": "2026-10-12",
@@ -262,6 +285,29 @@
     "shares": 0
    }
   },
+  "2026-10-12-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "08:00",
+   "title": "De que eram feitas as roupas de João Batista?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DeaXxngEvYu/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1067904776291918"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-12-2-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-12",
@@ -289,29 +335,6 @@
     "views": 7,
     "likes": 3,
     "comments": 0
-   }
-  },
-  "2026-10-12-1-verse": {
-   "type": "verse",
-   "date": "2026-10-12",
-   "time": "06:30",
-   "title": "Provérbios 4:23",
-   "links": {
-    "instagram": "https://www.instagram.com/p/DeY6ph7GBP0/",
-    "facebook": "https://www.facebook.com/1405324152662027_122095733325513774"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
    }
   },
   "2026-10-12-1-verse-v2": {
