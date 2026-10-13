@@ -263,6 +263,17 @@ no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos 
 dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
 Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
 
-A agenda padrão tem **10 posts por dia**, com só **4 vídeos** (os quizzes), para sobrar espaço para o
-vídeo longo de sábado: 06:30 Versículo · 08:00 Quiz · 10:00 Você sabia? · 12:00 Quiz · 13:30 Versículo ·
-15:00 Você sabia? · 17:00 Quiz · 18:30 Você sabia? · 20:00 Quiz · 21:30 Versículo (até 12 por dia no painel).
+A agenda padrão tem **10 posts por dia: 1 versículo (imagem) e 9 vídeos**:
+06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz · 13:30 Você sabia? (vídeo) ·
+15:00 Verdadeiro ou falso · 17:00 Quiz · 18:30 Complete o versículo · 20:00 Quiz · 21:30 Verdadeiro ou falso
+(até 12 por dia no painel).
+
+Todos os vídeos vão para Reels, Facebook e Stories. Para o **YouTube** vão só os tipos em
+`publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).
+
+### Formatos de vídeo
+- **Desafio de quiz** — pergunta, 4 alternativas, contagem e resposta.
+- **Complete o versículo** — um versículo conhecido do banco com uma palavra escondida e 4 opções.
+- **Verdadeiro ou falso?** — uma pergunta do banco com uma resposta mostrada (certa ou errada); o vídeo revela.
+- **Você sabia?** — curiosidade bíblica revelada em partes.
+Os formatos novos são montados a partir dos bancos já conferidos na Bíblia (nada é inventado).

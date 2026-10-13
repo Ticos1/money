@@ -561,6 +561,63 @@ class CompilationTests(unittest.TestCase):
             self.assertIsNone(generate._compilation_post(settings, sunday, {}, Path(tmp), {}, set(), False, patch, 2))
 
 
+class NewFormatsTests(unittest.TestCase):
+    def test_fill_hides_a_real_word_of_the_verse(self):
+        from app import derived
+        item = {"id": "v1", "verse_text": "O SENHOR é a minha luz e a minha salvação.", "ref_label": "Salmos 27:1"}
+        built = derived.make_fill(item, random.Random(1))
+        self.assertIn("_____", built["question"])
+        word = built["options"][built["answer"]]
+        self.assertEqual(built["question"].replace("_____", word), item["verse_text"])
+        self.assertEqual(len(set(o.lower() for o in built["options"])), 4)
+        for i, o in enumerate(built["options"]):  # as erradas não estão no versículo
+            if i != built["answer"]:
+                self.assertNotIn(bible.normalize(o), bible.normalize(item["verse_text"]).split())
+        self.assertIsNone(derived.make_fill({**item, "verse_text": "Jesus chorou."}, random.Random(1)))
+
+    def test_truefalse_shows_right_or_wrong_answer_consistently(self):
+        from app import derived
+        item = {"options": ["7", "40", "100", "150"], "answer": 1, "question": "Quantos dias choveu?"}
+        seen = set()
+        for seed in range(20):
+            tf = derived.make_truefalse(item, random.Random(seed))
+            self.assertEqual(tf["correct"], "40")
+            self.assertEqual(tf["is_true"], tf["shown"] == "40")
+            seen.add(tf["is_true"])
+        self.assertEqual(seen, {True, False})
+
+    def test_pick_marks_items_as_used(self):
+        from app import derived
+        fill, upd = derived.pick("fill", TODAY, {}, None, {}, random.Random(2), [])
+        self.assertIn(fill["id"], upd["fill"])
+        tf, upd = derived.pick("truefalse", TODAY, {}, None, {}, random.Random(2), [])
+        self.assertIn(tf["id"], upd["truefalse"])
+        self.assertIn(tf["id"], upd["quiz"])  # não volta como quiz logo em seguida
+
+    def test_captions_never_reveal_the_answer(self):
+        tf = {"question": "O que Noé construiu?", "shown": "Uma torre", "is_true": False, "correct": "Um altar",
+              "ref_label": "Gênesis 8:20", "tags": []}
+        caps, src = captions.build("truefalse", tf, SETTINGS, FakeGroq([]), random.Random(1), [])
+        self.assertEqual(src, "template")
+        self.assertNotIn("Um altar", caps["instagram"] + caps["youtube"]["description"])
+        fill = {"question": "O SENHOR é a minha _____.", "options": ["luz", "paz", "fé", "graça"], "answer": 0,
+                "answer_word": "luz", "ref_label": "Salmos 27:1", "tags": []}
+        caps, _ = captions.build("fill", fill, SETTINGS, FakeGroq([]), random.Random(1), [])
+        self.assertIn("_____", caps["instagram"])
+        self.assertIn("#completeoversiculo", caps["instagram"])
+
+    def test_youtube_only_for_chosen_types(self):
+        from app import publish
+        cfg = {"youtube": True, "youtube_types": ["quiz", "fill"]}
+        tf = {"type": "truefalse", "media": {"video_music": "v.mp4"}}
+        self.assertFalse(publish.applies("youtube", tf, cfg))
+        self.assertTrue(publish.applies("youtube", {**tf, "type": "fill"}, cfg))
+        self.assertTrue(publish.applies("instagram", tf, cfg))
+        # sem YouTube para esse tipo, o post conclui só com as outras redes
+        self.assertEqual(publish.completed_posts([{**tf, "id": "t", "published": {}}],
+                                                 {**cfg, "instagram": True}, {"t": {"instagram": {"at": "x"}}}), ["t"])
+
+
 class UpgradesTests(unittest.TestCase):
     def test_curiosity_video_only_when_enabled(self):
         from app import generate

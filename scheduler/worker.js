@@ -13,7 +13,8 @@ function nowIn(tz) {
   return { date: `${parts.year}-${parts.month}-${parts.day}`, time: `${parts.hour}:${parts.minute}` };
 }
 
-function applies(net, post) {
+function applies(net, post, pub = {}) {
+  if (net === "youtube" && Array.isArray(pub.youtube_types) && !pub.youtube_types.includes(post.type)) return false;
   if (post.type === "compilation") return net === "youtube" && Boolean(post.media?.video_music);
   if (net === "youtube") return Boolean(post.media?.video_music);
   if (net === "tiktok") return Boolean(post.media?.video_silent);
@@ -27,7 +28,7 @@ export function needsPublishing(post, settings, now) {
   if (`${post.date} ${post.time}` > `${now.date} ${now.time}`) return false;
   const pub = settings.publishing || {};
   const max = Number(pub.max_attempts || 3);
-  return NETS.some((n) => pub[n] && applies(n, post) && !post.published?.[n] && !post.publish_skipped?.[n]
+  return NETS.some((n) => pub[n] && applies(n, post, pub) && !post.published?.[n] && !post.publish_skipped?.[n]
     && ((post.publish_errors?.[n]?.attempts) || 0) < max);
 }
 

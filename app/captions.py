@@ -67,7 +67,35 @@ def _hashtags(kind: str, item: dict, platform: str, rng: random.Random) -> str:
     return " ".join(f"#{t}" for t in tags)
 
 
+FILL_HOOKS = [
+    "Complete o versículo! 90% erra essa palavra",
+    "Qual palavra falta nesse versículo?",
+    "Você sabe esse versículo de cor?",
+    "Desafio: complete o versículo sem olhar a Bíblia!",
+]
+TF_HOOKS = [
+    "Verdadeiro ou falso? Só 1% acerta de primeira!",
+    "Verdade ou mentira? Teste o seu conhecimento bíblico",
+    "Verdadeiro ou falso: você acerta essa?",
+]
+
+
 def template_captions(kind: str, item: dict, handle: str, rng: random.Random) -> dict:
+    if kind == "fill":
+        hook = rng.choice(FILL_HOOKS)
+        cta = "Comente a palavra que falta antes de ver a resposta!"
+        letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
+        long_text = (f"{hook} 📖\n\n“{item['question']}”\n\n{letters}\n\n{cta}\n"
+                     "A resposta está no final do vídeo.")
+        return {"hook": hook, "long": long_text, "short": f"{hook} 📖\n{cta}",
+                "youtube_title": f"{hook} ({item['ref_label']})", "cta": cta}
+    if kind == "truefalse":
+        hook = rng.choice(TF_HOOKS)
+        cta = "Comente V ou F antes de ver a resposta!"
+        long_text = (f"{hook} 🤔\n\n{item['question']}\nResposta: {item['shown']}\n\n"
+                     f"Verdadeiro ou falso? {cta}\nA resposta está no final do vídeo.")
+        return {"hook": hook, "long": long_text, "short": f"{hook} 🤔\n{cta}",
+                "youtube_title": f"Verdadeiro ou falso? {item['question']}", "cta": cta}
     if kind == "verse":
         hook = rng.choice(VERSE_HOOKS)
         cta = rng.choice(VERSE_CTAS)
@@ -176,7 +204,9 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
     handle = settings.get("brand", {}).get("handle", "")
     texts = template_captions(kind, item, handle, rng)
     source = "template"
-    if settings.get("groq", {}).get("caption_variations", True) and groq.available():
+    # formatos com resposta escondida usam só o modelo fixo (a IA poderia entregar a resposta)
+    if kind in ("verse", "quiz", "curiosity") and settings.get("groq", {}).get("caption_variations", True) \
+            and groq.available():
         try:
             texts = _groq_texts(kind, item, groq, texts)
             source = "groq"

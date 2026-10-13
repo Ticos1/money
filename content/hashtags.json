@@ -1,13 +1,56 @@
 {
-  "base": ["fe", "deus", "jesus", "biblia", "palavradedeus", "cristao", "evangelico", "gospel"],
-  "verse": ["versiculododia", "versiculo", "reflexao", "devocional", "oracao", "esperanca"],
-  "quiz": ["quizbiblico", "desafiobiblico", "perguntasbiblicas", "conhecimentobiblico", "desafio", "teste"],
-  "curiosity": ["vocesabia", "curiosidadesbiblicas", "historiabiblica", "estudobiblico"],
+  "base": [
+    "fe",
+    "deus",
+    "jesus",
+    "biblia",
+    "palavradedeus",
+    "cristao",
+    "evangelico",
+    "gospel"
+  ],
+  "verse": [
+    "versiculododia",
+    "versiculo",
+    "reflexao",
+    "devocional",
+    "oracao",
+    "esperanca"
+  ],
+  "quiz": [
+    "quizbiblico",
+    "desafiobiblico",
+    "perguntasbiblicas",
+    "conhecimentobiblico",
+    "desafio",
+    "teste"
+  ],
+  "curiosity": [
+    "vocesabia",
+    "curiosidadesbiblicas",
+    "historiabiblica",
+    "estudobiblico"
+  ],
   "platform_limits": {
     "instagram": 12,
     "facebook": 4,
     "tiktok": 5,
     "kwai": 5,
     "youtube": 4
-  }
+  },
+  "fill": [
+    "completeoversiculo",
+    "versiculo",
+    "desafiobiblico",
+    "quizbiblico",
+    "biblia",
+    "palavradedeus"
+  ],
+  "truefalse": [
+    "verdadeirooufalso",
+    "quizbiblico",
+    "desafiobiblico",
+    "perguntasbiblicas",
+    "conhecimentobiblico"
+  ]
 }

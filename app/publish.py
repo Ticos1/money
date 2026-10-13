@@ -53,9 +53,12 @@ def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
     return when <= now
 
 
-def applies(platform: str, post: dict) -> bool:
-    """A rede aceita este tipo de post? (YouTube/TikTok só vídeo.)"""
+def applies(platform: str, post: dict, cfg: dict | None = None) -> bool:
+    """A rede aceita este tipo de post? (YouTube/TikTok só vídeo; YouTube só os tipos escolhidos.)"""
     media = post.get("media", {})
+    yt_types = (cfg or {}).get("youtube_types")
+    if platform == "youtube" and yt_types and post.get("type") not in yt_types:
+        return False
     if post.get("type") == "compilation":  # vídeo longo 16:9: só YouTube
         return platform == "youtube" and bool(media.get("video_music"))
     if platform == "youtube":
@@ -75,7 +78,7 @@ def completed_posts(posts: list[dict], cfg: dict, results: dict) -> list[str]:
         published = {**(post.get("published") or {}), **(post.get("publish_skipped") or {}),
                      **{k: v.get("at") or v.get("skipped")
                         for k, v in results.get(post["id"], {}).items() if v.get("at") or v.get("skipped")}}
-        nets = [p for p in state.PLATFORMS if cfg.get(p) and applies(p, post)]
+        nets = [p for p in state.PLATFORMS if cfg.get(p) and applies(p, post, cfg)]
         if nets and all(published.get(p) for p in nets):
             done.append(post["id"])
     return done
@@ -170,7 +173,8 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     for post in due:
         for platform, on in enabled.items():
             if not on or (post.get("published") or {}).get(platform) \
-                    or (post.get("publish_skipped") or {}).get(platform):
+                    or (post.get("publish_skipped") or {}).get(platform) \
+                    or (platform == "youtube" and not applies("youtube", post, cfg)):
                 continue
             attempts = ((post.get("publish_errors") or {}).get(platform) or {}).get("attempts", 0)
             if attempts >= max_attempts:

@@ -15,6 +15,7 @@ from pathlib import Path
 from . import config
 
 TYPE_NAME = {"verse": "Versículo do dia", "quiz": "Desafio de quiz", "curiosity": "Você sabia?",
+             "fill": "Complete o versículo", "truefalse": "Verdadeiro ou falso",
              "compilation": "Vídeo longo de quiz"}
 MIN_POSTS_PER_HOUR = 2
 

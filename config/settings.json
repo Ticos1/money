@@ -16,7 +16,7 @@
    },
    {
     "time": "10:00",
-    "type": "curiosity"
+    "type": "fill"
    },
    {
     "time": "12:00",
@@ -24,11 +24,11 @@
    },
    {
     "time": "13:30",
-    "type": "verse"
+    "type": "curiosity"
    },
    {
     "time": "15:00",
-    "type": "curiosity"
+    "type": "truefalse"
    },
    {
     "time": "17:00",
@@ -36,7 +36,7 @@
    },
    {
     "time": "18:30",
-    "type": "curiosity"
+    "type": "fill"
    },
    {
     "time": "20:00",
@@ -44,7 +44,7 @@
    },
    {
     "time": "21:30",
-    "type": "verse"
+    "type": "truefalse"
    }
   ]
  },
@@ -56,7 +56,8 @@
   "max_seconds": 30,
   "music_volume": 0.16,
   "video_types": [
-   "quiz"
+   "quiz",
+   "curiosity"
   ]
  },
  "groq": {
@@ -76,7 +77,12 @@
   "youtube": true,
   "max_attempts": 3,
   "stories": true,
-  "youtube_max_per_day": 6
+  "youtube_max_per_day": 6,
+  "youtube_types": [
+   "quiz",
+   "fill",
+   "compilation"
+  ]
  },
  "compilation": {
   "enabled": true,

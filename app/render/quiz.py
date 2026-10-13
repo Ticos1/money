@@ -169,7 +169,9 @@ def timeline(item: dict, max_s: float) -> dict:
             "end_in": end_in, "total": round(total, 2)}
 
 
-def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -> tuple[Path, float, float]:
+def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, label: str = "DESAFIO BÍBLICO",
+                 hook: tuple[str, list[str]] = ("SÓ 1%", ["ACERTA ESSA", "PERGUNTA DA BÍBLIA"])
+                 ) -> tuple[Path, float, float]:
     size = (1080, 1920)
     w, h = size
     L = LAYOUTS[size]
@@ -181,15 +183,15 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -
         video.Layer(design.bokeh(*size, pal, seed + 2), total * 0.45, total, fade_in=2.5, slide=0),
     ]
 
-    hook = _canvas(size)
-    design.text_block(hook, ["SÓ 1%"], design.font("sans_black", 250), 280, w // 2, 560,
-                      fill=pal.accent + (255,))
-    design.text_block(hook, ["ACERTA ESSA", "PERGUNTA DA BÍBLIA"], design.font("sans_black", 72), 92,
-                      w // 2, 860)
-    layers.append(video.layer(hook, 0.15, tl["q_in"], fade_in=0.35, fade_out=0.3, slide=60))
+    hook_canvas = _canvas(size)
+    big, small = hook
+    design.text_block(hook_canvas, [big], design.font("sans_black", 250 if len(big) <= 6 else 150),
+                      280 if len(big) <= 6 else 180, w // 2, 560, fill=pal.accent + (255,))
+    design.text_block(hook_canvas, small, design.font("sans_black", 72), 92, w // 2, 860)
+    layers.append(video.layer(hook_canvas, 0.15, tl["q_in"], fade_in=0.35, fade_out=0.3, slide=60))
 
     lab = _canvas(size)
-    design.label(lab, "DESAFIO BÍBLICO", L["label_y"], L["label_size"], pal.accent)
+    design.label(lab, label, L["label_y"], L["label_size"], pal.accent)
     layers.append(video.layer(lab, tl["q_in"] - 0.1, tl["end_in"], slide=0))
 
     geo = _geometry(size, item)

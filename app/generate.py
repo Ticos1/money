@@ -23,20 +23,27 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import captions, compilation, config, content, music, state, validate
+from . import captions, compilation, config, content, derived, music, state, validate
 from .groq_client import GroqClient
 from .render import curiosity as curiosity_render
+from .render import fill as fill_render
 from .render import quiz as quiz_render
+from .render import truefalse as truefalse_render
 from .render import verse as verse_render
 
-RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_render}
+RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_render,
+             "fill": fill_render, "truefalse": truefalse_render}
 CONTENT_FIELDS = {
     "verse": ["ref", "skip_prefix", "ref_label", "verse_text", "on_screen", "reflection", "theme",
               "mood", "tags"],
     "quiz": ["ref", "ref_label", "question", "options", "answer", "evidence", "passage", "difficulty",
              "tags"],
     "curiosity": ["ref", "ref_label", "title", "text", "evidence", "passage", "tags"],
+    "fill": ["ref", "ref_label", "verse_text", "question", "options", "answer", "answer_word", "tags"],
+    "truefalse": ["ref", "ref_label", "question", "shown", "is_true", "correct", "evidence", "passage",
+                  "difficulty"],
 }
+VIDEO_KINDS = ("quiz", "fill", "truefalse")  # sempre em vídeo
 
 
 def _today(settings: dict, override: str | None) -> date:
@@ -51,7 +58,7 @@ def _seed(text: str) -> int:
 
 def _has_video(kind: str, settings: dict) -> bool:
     """O quiz sempre vira vídeo; Versículo e "Você sabia?" só se estiverem em video.video_types."""
-    return kind == "quiz" or kind in settings.get("video", {}).get("video_types", ["quiz"])
+    return kind in VIDEO_KINDS or kind in settings.get("video", {}).get("video_types", ["quiz"])
 
 
 def _replaceable(post: dict) -> bool:
@@ -108,7 +115,8 @@ def build(args) -> dict:
             print(f"{post_id}: substituindo post {old.get('status')}")
         log: list[str] = []
         rng = random.Random(_seed(post_id))
-        item, used_updates = content.pick(kind, today, used, groq, settings, rng, log)
+        picker = derived.pick if kind in derived.KINDS else content.pick
+        item, used_updates = picker(kind, today, used, groq, settings, rng, log)
         for section, values in used_updates.items():
             used.setdefault(section, {}).update(values)
             patch["used"].setdefault(section, {}).update(values)
