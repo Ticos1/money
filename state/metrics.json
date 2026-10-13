@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-13T13:04:41+00:00",
+ "updated_at": "2026-10-13T15:05:44+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-3-fill": {
+   "type": "fill",
+   "date": "2026-10-13",
+   "time": "10:00",
+   "title": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/acx-KQKjy5k",
+    "instagram": "https://www.instagram.com/reel/Deb3veXkr2J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1839237333880450"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-13-2-quiz": {
    "type": "quiz",
    "date": "2026-10-13",
@@ -26,8 +55,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 3,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -101,7 +130,7 @@
     "comments": 2
    },
    "youtube": {
-    "views": 172,
+    "views": 174,
     "likes": 1,
     "comments": 0
    }
