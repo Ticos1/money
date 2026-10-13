@@ -1,6 +1,73 @@
 {
  "posts": [
   {
+   "id": "2026-10-13-1-verse",
+   "date": "2026-10-13",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-13T08:22:09+00:00",
+   "source": "bank",
+   "bank_id": "v094",
+   "model": null,
+   "content": {
+    "ref": "Salmos 56:3",
+    "ref_label": "Salmos 56:3",
+    "verse_text": "Quando eu tiver medo, colocarei a minha confiança em ti.",
+    "on_screen": "Quando eu tiver medo, confiarei em Ti.",
+    "reflection": "Davi não fingiu que não tinha medo. Ele decidiu o que fazer com o medo: confiar em Deus. Essa decisão também é sua.",
+    "theme": "medo",
+    "mood": "reflexao",
+    "tags": [
+     "medo",
+     "confianca"
+    ]
+   },
+   "captions": {
+    "instagram": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo #evangelico #oracao #biblia #jesus #fe #cristao #reflexao #deus",
+    "facebook": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo",
+    "tiktok": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #biblia",
+    "kwai": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #devocional",
+    "youtube": {
+     "title": "Como transformar o medo em confiança em Deus #shorts",
+     "description": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #medo #confianca #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-13T09:32:53+00:00",
+    "facebook": "2026-10-13T09:32:57+00:00",
+    "stories": "2026-10-13T09:33:05+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DebfrAXEVEV/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096365791513774",
+    "stories": "story 18093918869172332"
+   }
+  },
+  {
    "id": "2026-10-12-10-verse",
    "date": "2026-10-12",
    "slot": 10,
