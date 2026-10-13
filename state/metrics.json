@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-13T21:33:54+00:00",
+ "updated_at": "2026-10-13T23:04:11+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-8-fill": {
+   "type": "fill",
+   "date": "2026-10-13",
+   "time": "18:30",
+   "title": "Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/hItGPpk7cBE",
+    "instagram": "https://www.instagram.com/reel/DecyBYOEdN_/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2648945272242085"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 1,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-13-7-quiz": {
    "type": "quiz",
    "date": "2026-10-13",
@@ -26,7 +55,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -43,7 +72,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
     "views": 7,
@@ -122,7 +151,7 @@
     "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
@@ -130,7 +159,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 11,
+    "views": 12,
     "likes": 3,
     "comments": 0
    }
