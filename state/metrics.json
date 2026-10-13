@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-13T09:33:27+00:00",
+ "updated_at": "2026-10-13T11:05:15+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-1-verse": {
+   "type": "verse",
+   "date": "2026-10-13",
+   "time": "06:30",
+   "title": "Salmos 56:3",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DebfrAXEVEV/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096365791513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-12-10-curiosity": {
    "type": "curiosity",
    "date": "2026-10-12",
