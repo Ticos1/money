@@ -1,3 +1,801 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-13-10-truefalse",
+   "date": "2026-10-13",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-13T08:34:06+00:00",
+   "source": "bank",
+   "bank_id": "q467",
+   "model": null,
+   "content": {
+    "ref": "Mateus 5:3",
+    "ref_label": "Mateus 5:3",
+    "question": "Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?",
+    "shown": "Os fortes",
+    "is_true": false,
+    "correct": "Os pobres em espírito",
+    "evidence": "Bem-aventurados os pobres em espírito",
+    "passage": "“Bem-aventurados os pobres em espírito, pois deles é o Reino dos Céus.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #palavradedeus #gospel #conhecimentobiblico #biblia #evangelico #perguntasbiblicas #fe #jesus #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #deus #fe #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #conhecimentobiblico #biblia",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino… #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #jesus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-13/2026-10-13-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-9-quiz",
+   "date": "2026-10-13",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-13T08:33:01+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "João 3:16",
+    "ref_label": "João 3:16",
+    "question": "Qual palavra aparece em João 3:16 que descreve quem enviou o Filho?",
+    "options": [
+     "Deus",
+     "Jesus",
+     "Pai",
+     "Espírito"
+    ],
+    "answer": 0,
+    "evidence": "Deus",
+    "passage": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra aparece em João 3:16 que descreve quem enviou o Filho?\n\nA) Deus\nB) Jesus\nC) Pai\nD) Espírito\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #jesus #evangelico #fe #perguntasbiblicas #cristao #deus #teste #palavradedeus #conhecimentobiblico",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra aparece em João 3:16 que descreve quem enviou o Filho?\n\nA) Deus\nB) Jesus\nC) Pai\nD) Espírito\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #biblia #palavradedeus #cristao",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #fe #deus #palavradedeus",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Qual palavra aparece em João 3:16 que descreve… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra aparece em João 3:16 que descreve quem enviou o Filho?\n\nA) Deus\nB) Jesus\nC) Pai\nD) Espírito\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.25,
+    "base": "media/2026-10-13/2026-10-13-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito",
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-8-fill",
+   "date": "2026-10-13",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-13T08:31:31+00:00",
+   "source": "bank",
+   "bank_id": "v199",
+   "model": null,
+   "content": {
+    "ref": "Salmos 37:23",
+    "ref_label": "Salmos 37:23",
+    "verse_text": "Os passos do homem são firmados pelo SENHOR; ele se agrada do seu caminho.",
+    "question": "Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.",
+    "options": [
+     "pastor",
+     "refúgio",
+     "fruto",
+     "caminho"
+    ],
+    "answer": 3,
+    "answer_word": "caminho",
+    "tags": [
+     "direcao",
+     "caminho"
+    ]
+   },
+   "captions": {
+    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.”\n\nA) pastor\nB) refúgio\nC) fruto\nD) caminho\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #caminho #completeoversiculo #versiculo #evangelico #deus #jesus #biblia #cristao #desafiobiblico #fe #quizbiblico",
+    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.”\n\nA) pastor\nB) refúgio\nC) fruto\nD) caminho\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #caminho #completeoversiculo #versiculo",
+    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#direcao #caminho #completeoversiculo #versiculo #gospel",
+    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#direcao #caminho #completeoversiculo #versiculo #fe",
+    "youtube": {
+     "title": "Desafio: complete o versículo sem olhar a Bíblia! (Salmos 37:23) #shorts",
+     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.”\n\nA) pastor\nB) refúgio\nC) fruto\nD) caminho\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #direcao #caminho #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 22.92,
+    "base": "media/2026-10-13/2026-10-13-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-7-quiz",
+   "date": "2026-10-13",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-13T08:30:03+00:00",
+   "source": "bank",
+   "bank_id": "q335",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 17:6",
+    "ref_label": "Êxodo 17:6",
+    "question": "O que Moisés feriu em Horebe para que saísse água?",
+    "options": [
+     "Uma árvore",
+     "A terra",
+     "A rocha",
+     "O mar"
+    ],
+    "answer": 2,
+    "evidence": "Você ferirá a rocha, e dela sairá água",
+    "passage": "Eis que eu estarei diante de você ali sobre a rocha em Horebe. Você ferirá a rocha, e dela sairá água, para que o povo possa beber.” Moisés fez assim à vista dos anciãos de Israel.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nO que Moisés feriu em Horebe para que saísse água?\n\nA) Uma árvore\nB) A terra\nC) A rocha\nD) O mar\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #desafio #gospel #conhecimentobiblico #deus #evangelico #jesus #teste #fe",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nO que Moisés feriu em Horebe para que saísse água?\n\nA) Uma árvore\nB) A terra\nC) A rocha\nD) O mar\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #deus #conhecimentobiblico #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #gospel #cristao #fe",
+    "youtube": {
+     "title": "Você conhece mesmo a Bíblia? Prove! O que Moisés feriu em Horebe para que saísse água? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nO que Moisés feriu em Horebe para que saísse água?\n\nA) Uma árvore\nB) A terra\nC) A rocha\nD) O mar\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.72,
+    "base": "media/2026-10-13/2026-10-13-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-6-truefalse",
+   "date": "2026-10-13",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-13T08:28:37+00:00",
+   "source": "bank",
+   "bank_id": "q466",
+   "model": null,
+   "content": {
+    "ref": "Mateus 3:16",
+    "ref_label": "Mateus 3:16",
+    "question": "Em forma de que ave o Espírito de Deus desceu sobre Jesus no batismo?",
+    "shown": "Uma pomba",
+    "is_true": true,
+    "correct": "Uma pomba",
+    "evidence": "descendo como uma pomba",
+    "passage": "Jesus, quando foi batizado, subiu logo da água; e eis que os céus se abriram para ele. Ele viu o Espírito de Deus descendo como uma pomba e vindo sobre ele.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm forma de que ave o Espírito de Deus desceu sobre Jesus no batismo?\nResposta: Uma pomba\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia #gospel #evangelico #cristao #fe #deus #perguntasbiblicas #conhecimentobiblico #jesus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm forma de que ave o Espírito de Deus desceu sobre Jesus no batismo?\nResposta: Uma pomba\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #jesus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #biblia #jesus #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #biblia #palavradedeus #evangelico",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Em forma de que ave o Espírito de Deus desceu sobre Jesus no batismo? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm forma de que ave o Espírito de Deus desceu sobre Jesus no batismo?\nResposta: Uma pomba\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-13/2026-10-13-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-5-curiosity",
+   "date": "2026-10-13",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-13T08:27:34+00:00",
+   "source": "bank",
+   "bank_id": "c022",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 4:22",
+    "ref_label": "Gênesis 4:22",
+    "title": "O primeiro ferreiro",
+    "text": "Tubalcaim é citado como forjador de instrumentos de bronze e de ferro, logo nas primeiras gerações da humanidade.",
+    "evidence": "bronze e de ferro",
+    "passage": "Zilá também deu à luz Tubalcaim, forjador de todo instrumento cortante de bronze e de ferro. A irmã de Tubalcaim era Naamá.",
+    "tags": [
+     "genesis"
+    ]
+   },
+   "captions": {
+    "instagram": "O primeiro ferreiro\n\nTubalcaim é citado como forjador de instrumentos de bronze e de ferro, logo nas primeiras gerações da humanidade. (Gênesis 4:22)\n\nTubalcaim, mencionado em Gênesis 4:22, é reconhecido como o primeiro ferreiro da humanidade. Ele moldou instrumentos de bronze e ferro nas primeiras gerações, mostrando como o trabalho manual já fazia parte da história desde o princípio. Que possamos valorizar o dom da criatividade e do ofício que Deus concedeu ao homem desde o início.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#genesis #vocesabia #curiosidadesbiblicas #gospel #cristao #deus #jesus #fe #historiabiblica #palavradedeus #evangelico #estudobiblico",
+    "facebook": "O primeiro ferreiro\n\nTubalcaim é citado como forjador de instrumentos de bronze e de ferro, logo nas primeiras gerações da humanidade. (Gênesis 4:22)\n\nTubalcaim, mencionado em Gênesis 4:22, é reconhecido como o primeiro ferreiro da humanidade. Ele moldou instrumentos de bronze e ferro nas primeiras gerações, mostrando como o trabalho manual já fazia parte da história desde o princípio. Que possamos valorizar o dom da criatividade e do ofício que Deus concedeu ao homem desde o início.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#genesis #vocesabia #curiosidadesbiblicas #biblia",
+    "tiktok": "Tubalcaim, o primeiro ferreiro, moldou bronze e ferro nas primeiras gerações.\n#genesis #vocesabia #curiosidadesbiblicas #gospel #cristao",
+    "kwai": "Tubalcaim, o primeiro ferreiro, moldou bronze e ferro nas primeiras gerações.\n#genesis #vocesabia #curiosidadesbiblicas #palavradedeus #cristao",
+    "youtube": {
+     "title": "Tubalcaim: O Primeiro Ferreiro da Bíblia #shorts",
+     "description": "O primeiro ferreiro\n\nTubalcaim é citado como forjador de instrumentos de bronze e de ferro, logo nas primeiras gerações da humanidade. (Gênesis 4:22)\n\nTubalcaim, mencionado em Gênesis 4:22, é reconhecido como o primeiro ferreiro da humanidade. Ele moldou instrumentos de bronze e ferro nas primeiras gerações, mostrando como o trabalho manual já fazia parte da história desde o princípio. Que possamos valorizar o dom da criatividade e do ofício que Deus concedeu ao homem desde o início.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #genesis #vocesabia #curiosidadesbiblicas"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.09,
+    "base": "media/2026-10-13/2026-10-13-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-4-quiz",
+   "date": "2026-10-13",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-13T08:26:48+00:00",
+   "source": "bank",
+   "bank_id": "q341",
+   "model": null,
+   "content": {
+    "ref": "Levítico 16:8",
+    "ref_label": "Levítico 16:8",
+    "question": "Sobre quantos bodes Arão lançava sortes?",
+    "options": [
+     "Dois",
+     "Doze",
+     "Sete",
+     "Três"
+    ],
+    "answer": 0,
+    "evidence": "lançará sortes sobre os dois bodes",
+    "passage": "Arão lançará sortes sobre os dois bodes: uma sorte para o SENHOR, e a outra sorte para o bode emissário.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus #teste #biblia #perguntasbiblicas #palavradedeus #evangelico #cristao #jesus #gospel",
+    "facebook": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste",
+    "tiktok": "Quiz bíblico: quantos bodes Arão lançava? 🤔\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #desafio",
+    "kwai": "Quiz bíblico: quantos bodes Arão lançava? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #palavradedeus",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos Bodes Arão Lançava? #shorts",
+     "description": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 20.18,
+    "base": "media/2026-10-13/2026-10-13-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-3-fill",
+   "date": "2026-10-13",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-13T08:25:27+00:00",
+   "source": "bank",
+   "bank_id": "v236",
+   "model": null,
+   "content": {
+    "ref": "Isaías 33:2",
+    "ref_label": "Isaías 33:2",
+    "verse_text": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa força a cada manhã, a nossa salvação também no tempo da angústia.",
+    "question": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.",
+    "options": [
+     "força",
+     "justiça",
+     "promessa",
+     "esperança"
+    ],
+    "answer": 0,
+    "answer_word": "força",
+    "tags": [
+     "forca",
+     "manha"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo #deus #quizbiblico #gospel #cristao #biblia #evangelico #jesus #fe",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #fe",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Isaías 33:2) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #forca #manha #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-13/2026-10-13-3-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-2-quiz",
+   "date": "2026-10-13",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-13T08:23:49+00:00",
+   "source": "bank",
+   "bank_id": "q472",
+   "model": null,
+   "content": {
+    "ref": "Mateus 8:32",
+    "ref_label": "Mateus 8:32",
+    "question": "Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?",
+    "options": [
+     "A manada de porcos",
+     "As cabras",
+     "Os bois",
+     "O rebanho de ovelhas"
+    ],
+    "answer": 0,
+    "evidence": "a manada de porcos precipitou-se desfiladeiro abaixo",
+    "passage": "Ele lhes disse: “Vão!” Eles saíram e foram para a manada de porcos; e eis que toda a manada de porcos precipitou-se desfiladeiro abaixo, para dentro do mar, e morreu nas águas.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #jesus #conhecimentobiblico #fe #biblia #cristao #gospel #evangelico #perguntasbiblicas",
+    "facebook": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio",
+    "tiktok": "Quiz bíblico: onde os espíritos imundos se precipitaram no mar? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico",
+    "kwai": "Quiz bíblico: onde os espíritos imundos se precipitaram no mar? 🤔\n#quizbiblico #desafiobiblico #jesus #deus #biblia",
+    "youtube": {
+     "title": "Quiz Bíblico – Onde os Espíritos Imundos se Dirigiram? #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 25.45,
+    "base": "media/2026-10-13/2026-10-13-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-13-1-verse",
+   "date": "2026-10-13",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-13T08:22:09+00:00",
+   "source": "bank",
+   "bank_id": "v094",
+   "model": null,
+   "content": {
+    "ref": "Salmos 56:3",
+    "ref_label": "Salmos 56:3",
+    "verse_text": "Quando eu tiver medo, colocarei a minha confiança em ti.",
+    "on_screen": "Quando eu tiver medo, confiarei em Ti.",
+    "reflection": "Davi não fingiu que não tinha medo. Ele decidiu o que fazer com o medo: confiar em Deus. Essa decisão também é sua.",
+    "theme": "medo",
+    "mood": "reflexao",
+    "tags": [
+     "medo",
+     "confianca"
+    ]
+   },
+   "captions": {
+    "instagram": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo #evangelico #oracao #biblia #jesus #fe #cristao #reflexao #deus",
+    "facebook": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo",
+    "tiktok": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #biblia",
+    "kwai": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #devocional",
+    "youtube": {
+     "title": "Como transformar o medo em confiança em Deus #shorts",
+     "description": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #medo #confianca #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-13/2026-10-13-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
