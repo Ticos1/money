@@ -81,6 +81,7 @@
   "youtube_types": [
    "quiz",
    "fill",
+   "book",
    "compilation"
   ],
   "tiktok": false

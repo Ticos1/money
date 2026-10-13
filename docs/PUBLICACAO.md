@@ -269,7 +269,7 @@ A agenda padrão tem **10 posts por dia: 1 versículo (imagem) e 9 vídeos**:
 (até 12 por dia no painel).
 
 Todos os vídeos vão para Reels, Facebook e Stories. Para o **YouTube** vão só os tipos em
-`publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).
+`publishing.youtube_types` (padrão: quiz, Complete o versículo, Em qual livro está? e o vídeo longo). Com a grade padrão são 7 vídeos elegíveis por dia e o teto é 6: o último do dia (21:30) fica só no Instagram e no Facebook.
 
 ### Formatos de vídeo
 - **Desafio de quiz** — pergunta, 4 alternativas, contagem e resposta.
