@@ -16,27 +16,27 @@
    },
    {
     "time": "10:00",
-    "type": "fill"
+    "type": "book"
    },
    {
     "time": "12:00",
-    "type": "quiz"
+    "type": "fill"
    },
    {
     "time": "13:30",
-    "type": "curiosity"
-   },
-   {
-    "time": "15:00",
-    "type": "truefalse"
-   },
-   {
-    "time": "17:00",
     "type": "quiz"
    },
    {
+    "time": "15:00",
+    "type": "curiosity"
+   },
+   {
+    "time": "17:00",
+    "type": "truefalse"
+   },
+   {
     "time": "18:30",
-    "type": "fill"
+    "type": "book"
    },
    {
     "time": "20:00",
@@ -44,7 +44,7 @@
    },
    {
     "time": "21:30",
-    "type": "truefalse"
+    "type": "fill"
    }
   ]
  },
