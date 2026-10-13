@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-13T00:31:41+00:00",
+ "updated_at": "2026-10-13T00:33:23+00:00",
  "notes": [],
  "posts": {
+  "2026-10-12-10-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "21:30",
+   "title": "Um ano de tratamento de beleza",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeahnfEHSU5/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096149449513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-12-9-quiz": {
    "type": "quiz",
    "date": "2026-10-12",
@@ -23,7 +46,7 @@
    },
    "facebook": {
     "likes": 3,
-    "comments": 1
+    "comments": 2
    },
    "youtube": {
     "views": 0,
