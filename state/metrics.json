@@ -1,15 +1,373 @@
 {
- "updated_at": "2026-10-11T17:05:44+00:00",
+ "updated_at": "2026-10-13T00:33:23+00:00",
  "notes": [],
  "posts": {
-  "2026-10-11-7-curiosity": {
+  "2026-10-12-10-curiosity": {
    "type": "curiosity",
-   "date": "2026-10-11",
-   "time": "21:00",
-   "title": "O significado do nome Moisés",
+   "date": "2026-10-12",
+   "time": "21:30",
+   "title": "Um ano de tratamento de beleza",
    "links": {
-    "instagram": "https://www.instagram.com/p/DeVxYnOjI1H/",
-    "facebook": "https://www.facebook.com/1405324152662027_122094944997513774"
+    "instagram": "https://www.instagram.com/p/DeahnfEHSU5/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096149449513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "20:00",
+   "title": "No Salmo 119, as promessas de Deus são mais doces do que o quê?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/h-e03zh9lh8",
+    "instagram": "https://www.instagram.com/reel/DeaXVp4kpqR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1082744777957632"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 3,
+    "comments": 2
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-12-9-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "20:00",
+   "title": "O que Deus prometeu restituir, que o gafanhoto comeu?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0YmPXuIu_8k",
+    "instagram": "https://www.instagram.com/reel/DeZCBGTDyNK/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1178541571505204"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 212,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-12-8-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "title": "Onde surgiu o nome \"cristão\"",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeaNBgeG8NJ/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096091819513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-8-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "title": "Acharam que era um anjo",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZCXt8jDJo/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095771365513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "17:00",
+   "title": "Sobre o que Jesus dormia na popa do barco?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ncbbYAnOu4o",
+    "instagram": "https://www.instagram.com/reel/DeaC-0ZFJEH/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2017510595544683"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-12-7-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "17:00",
+   "title": "Quantos apóstolos Jesus escolheu dentre os discípulos?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/jI2WUTjEzU0",
+    "instagram": "https://www.instagram.com/reel/DeaCv9kimpw/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107955892201823"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 8,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "2026-10-12-6-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "15:00",
+   "title": "As letras grandes de Paulo",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeaYCOkDBht/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096124141513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-6-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "15:00",
+   "title": "A restauração de Jó",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZ1BLrDGav/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095994847513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-5-verse-v3": {
+   "type": "verse",
+   "date": "2026-10-12",
+   "time": "13:30",
+   "title": "1 Coríntios 15:58",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZqs55HLej/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095947231513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-4-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "12:00",
+   "title": "Que nome babilônico deram a Daniel?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/BC6MkB_I2jg",
+    "instagram": "https://www.instagram.com/reel/DeZgbeJksMS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2587478311772795"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 2,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "2026-10-12-3-curiosity-v3": {
+   "type": "curiosity",
+   "date": "2026-10-12",
+   "time": "10:00",
+   "title": "Jesus cantou",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeZSrOEDN76/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095848111513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-12-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "08:00",
+   "title": "De que eram feitas as roupas de João Batista?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DeaXxngEvYu/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1067904776291918"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-12-2-quiz-v3": {
+   "type": "quiz",
+   "date": "2026-10-12",
+   "time": "08:00",
+   "title": "Segundo Romanos, qual é o salário do pecado?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/q4a5Hr-53Ww",
+    "instagram": "https://www.instagram.com/reel/DeZE8IKFooR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1701578517993198"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 1
+   },
+   "youtube": {
+    "views": 7,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-12-1-verse-v2": {
+   "type": "verse",
+   "date": "2026-10-12",
+   "time": "06:30",
+   "title": "Salmos 37:4",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeY7M0ul2Uc/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095735893513774"
    },
    "instagram": {
     "likes": 0,
@@ -23,6 +381,87 @@
     "likes": 0,
     "comments": 0,
     "shares": 0
+   }
+  },
+  "2026-10-11-7-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-11",
+   "time": "21:00",
+   "title": "Você sabia? A sarça que não se consumia",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeX5ZfeGDyB/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095468971513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "2026-10-11-6-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "19:00",
+   "title": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/g4OL6XLVz0w",
+    "instagram": "https://www.instagram.com/reel/DeXrrAHiIaa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1289715096593628"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 33,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-11-5-quiz": {
+   "type": "quiz",
+   "date": "2026-10-11",
+   "time": "17:00",
+   "title": "Com o tamanho de qual semente a fé poderia mover um monte?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/IetigKQgqyI",
+    "instagram": "https://www.instagram.com/reel/DeXd8cKlb9j/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28702021839418032"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 1
+   },
+   "youtube": {
+    "views": 12,
+    "likes": 1,
+    "comments": 0
    }
   },
   "2026-10-11-4-quiz": {
@@ -45,11 +484,11 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 4,
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -81,11 +520,11 @@
    "type": "quiz",
    "date": "2026-10-11",
    "time": "09:00",
-   "title": "Quantos homens leprosos estavam à entrada da porta?",
+   "title": "Quem escondeu o menino Joás para que Atalia não o matasse?",
    "links": {
-    "youtube": "https://youtube.com/shorts/fJX2ktGC79U",
-    "instagram": "https://www.instagram.com/reel/DeWnAHUDFYS/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1006640089118350"
+    "youtube": "https://youtube.com/shorts/ck5uL6QDvJo",
+    "instagram": "https://www.instagram.com/reel/DeXJxVdgoL0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1466142648734015"
    },
    "instagram": {
     "likes": 0,
@@ -97,36 +536,13 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 1
    },
    "youtube": {
-    "views": 25,
-    "likes": 1,
+    "views": 166,
+    "likes": 7,
     "comments": 0
-   }
-  },
-  "2026-10-11-1-verse": {
-   "type": "verse",
-   "date": "2026-10-11",
-   "time": "07:00",
-   "title": "Salmos 19:1",
-   "links": {
-    "instagram": "https://www.instagram.com/p/DeWZRgtjG8f/",
-    "facebook": "https://www.facebook.com/1405324152662027_122095079961513774"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
    }
   },
   "2026-10-10-7-curiosity-v3": {
@@ -172,12 +588,12 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 4,
+    "likes": 5,
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 68,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -205,8 +621,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 127,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -234,8 +650,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 86,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -309,8 +725,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 34,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -338,8 +754,8 @@
     "comments": 1
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 83,
+    "likes": 7,
     "comments": 0
    }
   },
@@ -442,7 +858,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 71,
+    "views": 72,
     "likes": 3,
     "comments": 0
    }

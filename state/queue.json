@@ -1,113 +1,39 @@
 {
  "posts": [
   {
-   "id": "2026-10-11-7-curiosity",
-   "date": "2026-10-11",
-   "slot": 7,
-   "time": "21:00",
-   "type": "curiosity",
-   "status": "approved",
-   "created_at": "2026-10-11T14:58:52+00:00",
-   "source": "groq",
-   "bank_id": null,
-   "model": "openai/gpt-oss-120b",
-   "content": {
-    "ref": "Êxodo 3:2",
-    "ref_label": "Êxodo 3:2",
-    "title": "Você sabia? A sarça que não se consumia",
-    "text": "Moisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto.",
-    "evidence": "sarça",
-    "passage": "O anjo do SENHOR apareceu a ele em uma chama de fogo do meio de uma sarça. Ele olhou, e eis que a sarça ardia no fogo, e a sarça não era consumida.",
-    "tags": [
-     "curiosidade",
-     "biblia"
-    ]
-   },
-   "captions": {
-    "instagram": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #historiabiblica #cristao #fe #gospel #deus #jesus #evangelico #palavradedeus",
-    "facebook": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Moisés viu a sarça que não se queimava e reconheceu a presença viva de Deus.\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #cristao",
-    "kwai": "Moisés viu a sarça que não se queimava e reconheceu a presença viva de Deus.\n#curiosidade #biblia #vocesabia #curiosidadesbiblicas #deus",
-    "youtube": {
-     "title": "A sarça que não se consumia: a presença viva de Deus no deserto #shorts",
-     "description": "Você sabia? A sarça que não se consumia\n\nMoisés encontrou uma sarça ardente que não se queimava, revelando a presença viva de Deus no deserto. (Êxodo 3:2)\n\nMoisés estava pastoreando ovelhas quando viu uma sarça em chamas que não se queimava. Essa visão surpreendente revelou a presença viva de Deus no meio do deserto, mostrando que Ele pode estar onde menos esperamos. Que essa história nos lembre que, mesmo nas situações mais áridas, Ele se faz presente, trazendo luz e esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #curiosidade #biblia #vocesabia"
-    }
-   },
-   "caption_source": "groq",
-   "music": null,
-   "gospel_suggestions": [
-    {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
-    },
-    {
-     "title": "Grandes Coisas",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Todavia Me Alegrarei",
-     "artist": "Samuel Messias"
-    }
-   ],
-   "media": {
-    "poster": "imagem_story.jpg",
-    "images": [
-     "imagem_story.jpg",
-     "imagem_vertical.jpg",
-     "imagem_quadrada.jpg"
-    ],
-    "duration": 0,
-    "base": "media/2026-10-11/2026-10-11-7-curiosity/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [
-    "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
-    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
-   ],
-   "error": null
-  },
-  {
-   "id": "2026-10-11-6-quiz",
-   "date": "2026-10-11",
-   "slot": 6,
-   "time": "19:00",
+   "id": "2026-10-12-9-quiz-v4",
+   "date": "2026-10-12",
+   "slot": 9,
+   "time": "20:00",
    "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-11T03:20:57+00:00",
+   "status": "pending",
+   "created_at": "2026-10-12T23:09:31+00:00",
    "source": "bank",
-   "bank_id": "q059",
+   "bank_id": "q576",
    "model": null,
    "content": {
-    "ref": "2 Samuel 12:1",
-    "ref_label": "2 Samuel 12:1",
-    "question": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+    "ref": "Atos 25:11",
+    "ref_label": "Atos 25:11",
+    "question": "Para quem Paulo apelou no seu julgamento?",
     "options": [
-     "Samuel",
-     "Gade",
-     "Natã",
-     "Elias"
+     "O sumo sacerdote",
+     "Pilatos",
+     "Herodes",
+     "César"
     ],
-    "answer": 2,
-    "evidence": "enviou Natã a Davi",
-    "passage": "O SENHOR enviou Natã a Davi. Ele chegou até ele e lhe disse: “Havia dois homens em uma cidade: um rico e o outro pobre.",
-    "difficulty": "dificil"
+    "answer": 3,
+    "evidence": "Apelo para César",
+    "passage": "Pois, se fiz algum mal e cometi algo digno de morte, não me recuso a morrer; mas, se nada do que me acusam é verdade, ninguém pode me entregar a eles. Apelo para César!”",
+    "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus #palavradedeus #fe #perguntasbiblicas #cristao #deus #conhecimentobiblico #desafio #evangelico",
-    "facebook": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #gospel",
-    "tiktok": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #cristao #biblia #deus",
-    "kwai": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #palavradedeus #perguntasbiblicas #teste",
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nPara quem Paulo apelou no seu julgamento?\n\nA) O sumo sacerdote\nB) Pilatos\nC) Herodes\nD) César\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #palavradedeus #fe #teste #deus #evangelico #conhecimentobiblico #desafio #jesus #biblia",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nPara quem Paulo apelou no seu julgamento?\n\nA) O sumo sacerdote\nB) Pilatos\nC) Herodes\nD) César\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #biblia",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #deus #perguntasbiblicas #desafio",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #palavradedeus #biblia #conhecimentobiblico",
     "youtube": {
-     "title": "Desafio bíblico do dia Que profeta o Senhor enviou a Davi para contar a história de… #shorts",
-     "description": "Desafio bíblico do dia 🤔\n\nQue profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?\n\nA) Samuel\nB) Gade\nC) Natã\nD) Elias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+     "title": "Só 1% acerta essa pergunta da Bíblia! Para quem Paulo apelou no seu julgamento? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nPara quem Paulo apelou no seu julgamento?\n\nA) O sumo sacerdote\nB) Pilatos\nC) Herodes\nD) César\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus"
     }
    },
    "caption_source": "template",
@@ -120,16 +46,16 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Galileu",
-     "artist": "Fernandinho"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
     },
     {
-     "title": "Ninguém Explica Deus",
-     "artist": "Preto no Branco"
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
     }
    ],
    "media": {
@@ -142,8 +68,8 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 23.92,
-    "base": "media/2026-10-11/2026-10-11-6-quiz/",
+    "duration": 21.52,
+    "base": "media/2026-10-12/2026-10-12-9-quiz-v4/",
     "version": 1
    },
    "published": {
@@ -155,50 +81,281 @@
     "stories": null
    },
    "log": [
-    "legenda Groq descartada: legenda revela a resposta"
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
    ],
    "error": null
   },
   {
-   "id": "2026-10-11-5-quiz",
-   "date": "2026-10-11",
-   "slot": 5,
-   "time": "17:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-11T03:19:37+00:00",
+   "id": "2026-10-12-8-curiosity-v4",
+   "date": "2026-10-12",
+   "slot": 8,
+   "time": "18:30",
+   "type": "curiosity",
+   "status": "pending",
+   "created_at": "2026-10-12T23:08:07+00:00",
    "source": "bank",
-   "bank_id": "q482",
+   "bank_id": "c039",
    "model": null,
    "content": {
-    "ref": "Mateus 17:20",
-    "ref_label": "Mateus 17:20",
-    "question": "Com o tamanho de qual semente a fé poderia mover um monte?",
-    "options": [
-     "Semente de uva",
-     "Grão de trigo",
-     "Grão de mostarda",
-     "Semente de figo"
+    "ref": "Jonas 4:11",
+    "ref_label": "Jonas 4:11",
+    "title": "Nínive era enorme",
+    "text": "Deus disse que em Nínive havia mais de cento e vinte mil pessoas, e se importou com todas elas.",
+    "evidence": "mais de cento e vinte mil pessoas",
+    "passage": "Não deveria eu me importar com Nínive, aquela grande cidade, na qual há mais de cento e vinte mil pessoas que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?”",
+    "tags": [
+     "jonas",
+     "misericordia"
+    ]
+   },
+   "captions": {
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nNínive era enorme\n\nDeus disse que em Nínive havia mais de cento e vinte mil pessoas, e se importou com todas elas. (Jonas 4:11)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jonas #misericordia #vocesabia #curiosidadesbiblicas #biblia #historiabiblica #fe #evangelico #jesus #gospel #cristao #palavradedeus",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nNínive era enorme\n\nDeus disse que em Nínive havia mais de cento e vinte mil pessoas, e se importou com todas elas. (Jonas 4:11)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jonas #misericordia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 Nínive era enorme\nVocê já sabia? Comente SIM ou NÃO.\n#jonas #misericordia #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 Nínive era enorme\nVocê já sabia? Comente SIM ou NÃO.\n#jonas #misericordia #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "youtube": {
+     "title": "Você sabia? Nínive era enorme #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nNínive era enorme\n\nDeus disse que em Nínive havia mais de cento e vinte mil pessoas, e se importou com todas elas. (Jonas 4:11)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jonas #misericordia #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
     ],
-    "answer": 2,
-    "evidence": "fé como um grão de mostarda",
-    "passage": "Ele lhes disse: “Por causa da incredulidade de vocês. Pois em verdade lhes digo: se vocês tiverem fé como um grão de mostarda, dirão a este monte: ‘Mova-se daqui para lá’, e ele se moverá; e nada será impossível para vocês.",
+    "duration": 0,
+    "base": "media/2026-10-12/2026-10-12-8-curiosity-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-7-quiz-v4",
+   "date": "2026-10-12",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-12T23:08:05+00:00",
+   "source": "bank",
+   "bank_id": "q486",
+   "model": null,
+   "content": {
+    "ref": "Mateus 22:37",
+    "ref_label": "Mateus 22:37",
+    "question": "Como devemos amar ao Senhor, segundo o maior mandamento?",
+    "options": [
+     "De todo o coração, alma e entendimento",
+     "Apenas aos sábados",
+     "Com sacrifícios",
+     "Só com palavras"
+    ],
+    "answer": 0,
+    "evidence": "de todo o seu coração, de toda a sua alma e de todo o seu entendimento",
+    "passage": "Jesus lhe disse: “‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento.’",
     "difficulty": "facil"
    },
    "captions": {
-    "instagram": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #fe #teste #cristao #biblia #evangelico #desafio #deus #conhecimentobiblico",
-    "facebook": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus",
-    "tiktok": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #gospel #cristao #teste",
-    "kwai": "Qual semente representa a fé que pode mover um monte? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #palavradedeus #deus",
+    "instagram": "Desafio bíblico do dia 🤔\n\nComo devemos amar ao Senhor, segundo o maior mandamento?\n\nA) De todo o coração, alma e entendimento\nB) Apenas aos sábados\nC) Com sacrifícios\nD) Só com palavras\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #cristao #palavradedeus #desafio #biblia #fe #deus #gospel #evangelico #perguntasbiblicas",
+    "facebook": "Desafio bíblico do dia 🤔\n\nComo devemos amar ao Senhor, segundo o maior mandamento?\n\nA) De todo o coração, alma e entendimento\nB) Apenas aos sábados\nC) Com sacrifícios\nD) Só com palavras\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #cristao",
+    "tiktok": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #evangelico #gospel",
+    "kwai": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #palavradedeus #jesus",
     "youtube": {
-     "title": "Quiz Bíblico: Qual semente simboliza a fé que move montes? #shorts",
-     "description": "Você já ouviu falar da força que a fé pode ter? 🤔 Teste seu conhecimento com nossa pergunta: \"Com o tamanho de qual semente a fé poderia mover um monte?\" Escolha entre as opções e reflita sobre o poder da confiança. Compartilhe sua escolha nos comentários e convide amigos a participarem também!\n\nCom o tamanho de qual semente a fé poderia mover um monte?\nA) Semente de uva\nB) Grão de trigo\nC) Grão de mostarda\nD) Semente de figo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+     "title": "Desafio bíblico do dia Como devemos amar ao Senhor, segundo o maior mandamento? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nComo devemos amar ao Senhor, segundo o maior mandamento?\n\nA) De todo o coração, alma e entendimento\nB) Apenas aos sábados\nC) Com sacrifícios\nD) Só com palavras\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
     }
    },
-   "caption_source": "groq",
+   "caption_source": "template",
    "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 25.45,
+    "base": "media/2026-10-12/2026-10-12-7-quiz-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-6-curiosity-v4",
+   "date": "2026-10-12",
+   "slot": 6,
+   "time": "15:00",
+   "type": "curiosity",
+   "status": "pending",
+   "created_at": "2026-10-12T23:06:26+00:00",
+   "source": "bank",
+   "bank_id": "c257",
+   "model": null,
+   "content": {
+    "ref": "Atos 28:11",
+    "ref_label": "Atos 28:11",
+    "title": "O navio dos irmãos gêmeos",
+    "text": "Depois do naufrágio, Paulo seguiu para Roma num navio de Alexandria cuja figura de proa era \"Os Irmãos Gêmeos\".",
+    "evidence": "Os Irmãos Gêmeos",
+    "passage": "Após três meses, embarcamos em um navio de Alexandria que havia passado o inverno na ilha, cuja figura de proa era “Os Irmãos Gêmeos”.",
+    "tags": [
+     "paulo",
+     "curiosidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\nO navio dos irmãos gêmeos\n\nDepois do naufrágio, Paulo seguiu para Roma num navio de Alexandria cuja figura de proa era \"Os Irmãos Gêmeos\". (Atos 28:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #curiosidade #vocesabia #curiosidadesbiblicas #evangelico #jesus #cristao #palavradedeus #estudobiblico #fe #deus #biblia",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\nO navio dos irmãos gêmeos\n\nDepois do naufrágio, Paulo seguiu para Roma num navio de Alexandria cuja figura de proa era \"Os Irmãos Gêmeos\". (Atos 28:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #curiosidade #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 O navio dos irmãos gêmeos\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#paulo #curiosidade #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 O navio dos irmãos gêmeos\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#paulo #curiosidade #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "youtube": {
+     "title": "Você sabia? O navio dos irmãos gêmeos #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\nO navio dos irmãos gêmeos\n\nDepois do naufrágio, Paulo seguiu para Roma num navio de Alexandria cuja figura de proa era \"Os Irmãos Gêmeos\". (Atos 28:11)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paulo #curiosidade #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-12/2026-10-12-6-curiosity-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-5-quiz",
+   "date": "2026-10-12",
+   "slot": 5,
+   "time": "13:30",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-12T23:06:24+00:00",
+   "source": "bank",
+   "bank_id": "q272",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 3:3",
+    "ref_label": "1 Samuel 3:3",
+    "question": "Onde o menino Samuel estava deitado quando Deus o chamou?",
+    "options": [
+     "Na casa de seus pais",
+     "No templo do Senhor",
+     "No campo",
+     "Numa caverna"
+    ],
+    "answer": 1,
+    "evidence": "Samuel deitado no templo do SENHOR",
+    "passage": "e não tendo ainda se apagado a lâmpada de Deus, e estando Samuel deitado no templo do SENHOR, onde estava a arca de Deus,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde o menino Samuel estava deitado quando Deus o chamou?\n\nA) Na casa de seus pais\nB) No templo do Senhor\nC) No campo\nD) Numa caverna\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio #deus #jesus #conhecimentobiblico #fe #teste #biblia #evangelico #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde o menino Samuel estava deitado quando Deus o chamou?\n\nA) Na casa de seus pais\nB) No templo do Senhor\nC) No campo\nD) Numa caverna\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #palavradedeus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #palavradedeus #teste",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #cristao #desafio #teste",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Onde o menino Samuel estava deitado quando Deus… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde o menino Samuel estava deitado quando Deus o chamou?\n\nA) Na casa de seus pais\nB) No templo do Senhor\nC) No campo\nD) Numa caverna\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
@@ -209,8 +366,8 @@
      "artist": "Fernandinho"
     },
     {
-     "title": "Galileu",
-     "artist": "Fernandinho"
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
     },
     {
      "title": "Grandes Coisas",
@@ -228,7 +385,7 @@
      "resposta_vertical.jpg"
     ],
     "duration": 24.18,
-    "base": "media/2026-10-11/2026-10-11-5-quiz/",
+    "base": "media/2026-10-12/2026-10-12-5-quiz/",
     "version": 1
    },
    "published": {
@@ -239,57 +396,143 @@
     "facebook": null,
     "stories": null
    },
-   "log": [],
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
    "error": null
   },
   {
-   "id": "2026-10-11-1-verse",
-   "date": "2026-10-11",
-   "slot": 1,
-   "time": "07:00",
-   "type": "verse",
-   "status": "rejected",
-   "created_at": "2026-10-11T14:57:21+00:00",
+   "id": "2026-10-12-4-quiz-v4",
+   "date": "2026-10-12",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-12T23:04:49+00:00",
    "source": "bank",
-   "bank_id": "v111",
+   "bank_id": "q525",
    "model": null,
    "content": {
-    "ref": "Salmos 32:8",
-    "ref_label": "Salmos 32:8",
-    "verse_text": "Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.",
-    "on_screen": "Deus ensina o caminho em que você deve andar.",
-    "reflection": "Você não precisa adivinhar o futuro. Deus promete instruir, ensinar e aconselhar com os olhos sobre você.",
-    "theme": "direção",
-    "mood": "reflexao",
+    "ref": "Lucas 23:34",
+    "ref_label": "Lucas 23:34",
+    "question": "O que Jesus pediu ao Pai na cruz, pelos que o crucificavam?",
+    "options": [
+     "Perdoa-lhes",
+     "Salva-me",
+     "Castiga-os",
+     "Esquece-os"
+    ],
+    "answer": 0,
+    "evidence": "Pai, perdoa-lhes",
+    "passage": "Jesus disse: “Pai, perdoa-lhes, pois eles não sabem o que estão fazendo.” Dividindo as suas vestes entre si, lançaram sortes.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nO que Jesus pediu ao Pai na cruz, pelos que o crucificavam?\n\nA) Perdoa-lhes\nB) Salva-me\nC) Castiga-os\nD) Esquece-os\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe #gospel #jesus #biblia #deus #perguntasbiblicas #cristao #conhecimentobiblico #teste",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nO que Jesus pediu ao Pai na cruz, pelos que o crucificavam?\n\nA) Perdoa-lhes\nB) Salva-me\nC) Castiga-os\nD) Esquece-os\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #jesus #desafio #perguntasbiblicas",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! O que Jesus pediu ao Pai na cruz, pelos que o… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nO que Jesus pediu ao Pai na cruz, pelos que o crucificavam?\n\nA) Perdoa-lhes\nB) Salva-me\nC) Castiga-os\nD) Esquece-os\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.98,
+    "base": "media/2026-10-12/2026-10-12-4-quiz-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-3-curiosity-v4",
+   "date": "2026-10-12",
+   "slot": 3,
+   "time": "10:00",
+   "type": "curiosity",
+   "status": "pending",
+   "created_at": "2026-10-12T23:03:18+00:00",
+   "source": "bank",
+   "bank_id": "c014",
+   "model": null,
+   "content": {
+    "ref": "Isaías 38:5",
+    "ref_label": "Isaías 38:5",
+    "title": "15 anos a mais de vida",
+    "text": "O rei Ezequias estava doente, orou e chorou. Deus ouviu a sua oração e acrescentou quinze anos à sua vida.",
+    "evidence": "acrescentarei quinze anos à sua vida",
+    "passage": "“Vá, e diga a Ezequias: 'Assim diz o SENHOR, o Deus de Davi, seu pai: “Ouvi a sua oração. Vi as suas lágrimas. Eis que acrescentarei quinze anos à sua vida.",
     "tags": [
-     "direcao",
-     "salmos"
+     "oracao",
+     "milagre"
     ]
    },
    "captions": {
-    "instagram": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #salmos #versiculododia #versiculo #biblia #esperanca #gospel #oracao #cristao #fe #evangelico #devocional",
-    "facebook": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #salmos #versiculododia #versiculo",
-    "tiktok": "Deus guia seu caminho e cuida de cada passo. Confie! 🙏\n#direcao #salmos #versiculododia #versiculo #deus",
-    "kwai": "Deus guia seu caminho e cuida de cada passo. Confie! 🙏\n#direcao #salmos #versiculododia #versiculo #esperanca",
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\n15 anos a mais de vida\n\nO rei Ezequias estava doente, orou e chorou. Deus ouviu a sua oração e acrescentou quinze anos à sua vida. (Isaías 38:5)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #milagre #vocesabia #curiosidadesbiblicas #cristao #gospel #jesus #deus #biblia #fe #evangelico #estudobiblico",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\n15 anos a mais de vida\n\nO rei Ezequias estava doente, orou e chorou. Deus ouviu a sua oração e acrescentou quinze anos à sua vida. (Isaías 38:5)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#oracao #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 15 anos a mais de vida\nMarque alguém que vai gostar de saber disso.\n#oracao #milagre #vocesabia #curiosidadesbiblicas #biblia",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 15 anos a mais de vida\nMarque alguém que vai gostar de saber disso.\n#oracao #milagre #vocesabia #curiosidadesbiblicas #palavradedeus",
     "youtube": {
-     "title": "Deus guia seu futuro: confiança na direção divina #shorts",
-     "description": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #direcao #salmos #versiculododia"
+     "title": "Você sabia? 15 anos a mais de vida #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\n15 anos a mais de vida\n\nO rei Ezequias estava doente, orou e chorou. Deus ouviu a sua oração e acrescentou quinze anos à sua vida. (Isaías 38:5)\n\nMarque alguém que vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #oracao #milagre #vocesabia"
     }
    },
-   "caption_source": "groq",
+   "caption_source": "template",
    "music": null,
    "gospel_suggestions": [
-    {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
-    },
     {
      "title": "Lugar Secreto",
      "artist": "Gabriela Rocha"
     },
     {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
     }
    ],
    "media": {
@@ -300,7 +543,166 @@
      "imagem_quadrada.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-11/2026-10-11-1-verse/",
+    "base": "media/2026-10-12/2026-10-12-3-curiosity-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-2-quiz-v4",
+   "date": "2026-10-12",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-12T23:03:16+00:00",
+   "source": "bank",
+   "bank_id": "q160",
+   "model": null,
+   "content": {
+    "ref": "Jó 2:11",
+    "ref_label": "Jó 2:11",
+    "question": "Quais eram os três amigos que vieram consolar Jó?",
+    "options": [
+     "Elifaz, Bildade e Zofar",
+     "Sadraque, Mesaque e Abede-Nego",
+     "Pedro, Tiago e João",
+     "Hur, Calebe e Josué"
+    ],
+    "answer": 0,
+    "evidence": "Elifaz, o temanita, Bildade, o suíta, e Zofar",
+    "passage": "Quando os três amigos de Jó ouviram de todo esse mal que lhe havia sobrevindo, vieram cada um do seu próprio lugar: Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamatita; e combinaram de vir juntos para se compadecerem dele e para o consolarem.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuais eram os três amigos que vieram consolar Jó?\n\nA) Elifaz, Bildade e Zofar\nB) Sadraque, Mesaque e Abede-Nego\nC) Pedro, Tiago e João\nD) Hur, Calebe e Josué\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #fe #deus #biblia #evangelico #gospel #perguntasbiblicas #conhecimentobiblico #jesus #cristao",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuais eram os três amigos que vieram consolar Jó?\n\nA) Elifaz, Bildade e Zofar\nB) Sadraque, Mesaque e Abede-Nego\nC) Pedro, Tiago e João\nD) Hur, Calebe e Josué\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #deus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #jesus #deus #evangelico",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #cristao",
+    "youtube": {
+     "title": "Pergunta bíblica que poucos acertam Quais eram os três amigos que vieram consolar Jó? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuais eram os três amigos que vieram consolar Jó?\n\nA) Elifaz, Bildade e Zofar\nB) Sadraque, Mesaque e Abede-Nego\nC) Pedro, Tiago e João\nD) Hur, Calebe e Josué\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 25.45,
+    "base": "media/2026-10-12/2026-10-12-2-quiz-v4/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-12-1-verse-v4",
+   "date": "2026-10-12",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "pending",
+   "created_at": "2026-10-12T23:01:36+00:00",
+   "source": "bank",
+   "bank_id": "v041",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 16:3",
+    "ref_label": "Provérbios 16:3",
+    "verse_text": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.",
+    "on_screen": "Consagre seus planos ao Senhor.",
+    "reflection": "Consagrar é dedicar a Deus. Coloque seus projetos, trabalho e sonhos diante dEle e caminhe com confiança.",
+    "theme": "planos",
+    "mood": "alegria",
+    "tags": [
+     "planos",
+     "trabalho"
+    ]
+   },
+   "captions": {
+    "instagram": "Se esse versículo chegou até você, não é por acaso 🙏\n\n“Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.” (Provérbios 16:3)\n\nConsagrar é dedicar a Deus. Coloque seus projetos, trabalho e sonhos diante dEle e caminhe com confiança.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#planos #trabalho #versiculododia #versiculo #palavradedeus #gospel #jesus #esperanca #oracao #reflexao #fe #deus",
+    "facebook": "Se esse versículo chegou até você, não é por acaso 🙏\n\n“Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.” (Provérbios 16:3)\n\nConsagrar é dedicar a Deus. Coloque seus projetos, trabalho e sonhos diante dEle e caminhe com confiança.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#planos #trabalho #versiculododia #versiculo",
+    "tiktok": "Se esse versículo chegou até você, não é por acaso 🙏 Provérbios 16:3\nCompartilhe com alguém que precisa ler isso hoje.\n#planos #trabalho #versiculododia #versiculo #deus",
+    "kwai": "Se esse versículo chegou até você, não é por acaso 🙏 Provérbios 16:3\nCompartilhe com alguém que precisa ler isso hoje.\n#planos #trabalho #versiculododia #versiculo #gospel",
+    "youtube": {
+     "title": "Provérbios 16:3: Consagre seus planos ao Senhor. #shorts",
+     "description": "Se esse versículo chegou até você, não é por acaso 🙏\n\n“Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.” (Provérbios 16:3)\n\nConsagrar é dedicar a Deus. Coloque seus projetos, trabalho e sonhos diante dEle e caminhe com confiança.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #planos #trabalho #versiculododia"
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-12/2026-10-12-1-verse-v4/",
     "version": 1
    },
    "published": {

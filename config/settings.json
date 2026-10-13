@@ -82,7 +82,8 @@
    "quiz",
    "fill",
    "compilation"
-  ]
+  ],
+  "tiktok": false
  },
  "compilation": {
   "enabled": true,
