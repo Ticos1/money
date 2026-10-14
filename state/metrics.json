@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-13T23:04:11+00:00",
+ "updated_at": "2026-10-14T00:32:37+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-13",
+   "time": "20:00",
+   "title": "Qual palavra aparece em João 3:16 que descreve quem enviou o Filho?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/CXI4aqtVeAI",
+    "instagram": "https://www.instagram.com/reel/Dec8VSslIK2/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3281144908750197"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-13-8-fill": {
    "type": "fill",
    "date": "2026-10-13",
@@ -15,10 +44,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 5,
     "total_interactions": 0
    },
    "facebook": {

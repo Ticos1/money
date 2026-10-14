@@ -1,6 +1,77 @@
 {
  "posts": [
   {
+   "id": "2026-10-13-10-truefalse",
+   "date": "2026-10-13",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-13T08:34:06+00:00",
+   "source": "bank",
+   "bank_id": "q467",
+   "model": null,
+   "content": {
+    "ref": "Mateus 5:3",
+    "ref_label": "Mateus 5:3",
+    "question": "Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?",
+    "shown": "Os fortes",
+    "is_true": false,
+    "correct": "Os pobres em espírito",
+    "evidence": "Bem-aventurados os pobres em espírito",
+    "passage": "“Bem-aventurados os pobres em espírito, pois deles é o Reino dos Céus.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #palavradedeus #gospel #conhecimentobiblico #biblia #evangelico #perguntasbiblicas #fe #jesus #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #deus #fe #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #conhecimentobiblico #biblia",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino… #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?\nResposta: Os fortes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #jesus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-14T00:31:35+00:00",
+    "facebook": "2026-10-14T00:31:39+00:00",
+    "stories": "2026-10-14T00:32:19+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DedGeBvGi-I/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1615096120069846",
+    "stories": "story 17920966431442212"
+   }
+  },
+  {
    "id": "2026-10-13-9-quiz",
    "date": "2026-10-13",
    "slot": 9,
