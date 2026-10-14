@@ -1,6 +1,73 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-1-verse",
+   "date": "2026-10-14",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-14T08:21:14+00:00",
+   "source": "bank",
+   "bank_id": "v155",
+   "model": null,
+   "content": {
+    "ref": "2 Coríntios 4:18",
+    "ref_label": "2 Coríntios 4:18",
+    "verse_text": "Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.",
+    "on_screen": "O que não se vê é eterno.",
+    "reflection": "Os problemas visíveis são passageiros. Mantenha os olhos no que é eterno.",
+    "theme": "eternidade",
+    "mood": "reflexao",
+    "tags": [
+     "eternidade",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo #devocional #jesus #oracao #evangelico #deus #esperanca #biblia #palavradedeus",
+    "facebook": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo",
+    "tiktok": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #reflexao",
+    "kwai": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #jesus",
+    "youtube": {
+     "title": "Foco no eterno: como viver além dos problemas visíveis #shorts",
+     "description": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #eternidade #fe #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-14T09:31:56+00:00",
+    "facebook": "2026-10-14T09:31:59+00:00",
+    "stories": "2026-10-14T09:32:06+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeeEWwxmeAY/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097046419513774",
+    "stories": "story 18103668509630844"
+   }
+  },
+  {
    "id": "2026-10-13-10-truefalse",
    "date": "2026-10-13",
    "slot": 10,
