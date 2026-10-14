@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-14T18:03:26+00:00",
+ "updated_at": "2026-10-14T18:31:11+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-14",
+   "time": "15:00",
+   "title": "O que o povo pediu a Samuel, para ser como as outras nações?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/Dee-sUdjJVv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2347984272634038"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-14-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-14",
@@ -78,7 +101,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
+    "views": 6,
     "likes": 1,
     "comments": 0
    }
@@ -211,7 +234,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 86,
+    "views": 87,
     "likes": 5,
     "comments": 0
    }
