@@ -1,6 +1,81 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-5-curiosity",
+   "date": "2026-10-14",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-14T08:27:01+00:00",
+   "source": "bank",
+   "bank_id": "c241",
+   "model": null,
+   "content": {
+    "ref": "João 2:10",
+    "ref_label": "João 2:10",
+    "title": "O melhor vinho por último",
+    "text": "Nas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo.",
+    "evidence": "Você guardou o vinho bom até agora",
+    "passage": "e lhe disse: “Todos servem primeiro o vinho bom, e quando os convidados já beberam à vontade, então o inferior. Você guardou o vinho bom até agora!”",
+    "tags": [
+     "jesus",
+     "milagre"
+    ]
+   },
+   "captions": {
+    "instagram": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas #gospel #evangelico #deus #historiabiblica #biblia #palavradedeus #cristao #estudobiblico",
+    "facebook": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "O melhor vinho ficou para o final nas bodas de Caná. Confie no tempo de Deus! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "O melhor vinho ficou para o final nas bodas de Caná. Confie no tempo de Deus! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #fe",
+    "youtube": {
+     "title": "O milagre do melhor vinho nas bodas de Caná #shorts",
+     "description": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #milagre #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-14T16:31:55+00:00",
+    "facebook": "2026-10-14T16:32:00+00:00",
+    "stories": "2026-10-14T16:32:32+00:00"
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: evidência não encontrada em Êxodo 20:12: 'honra'",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/Dee0ZI8DJot/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2801903793538562",
+    "stories": "story 18140990635716248"
+   }
+  },
+  {
    "id": "2026-10-14-4-quiz",
    "date": "2026-10-14",
    "slot": 4,
