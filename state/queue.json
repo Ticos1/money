@@ -1,3 +1,809 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-14-10-truefalse",
+   "date": "2026-10-14",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-14T08:34:09+00:00",
+   "source": "bank",
+   "bank_id": "q045",
+   "model": null,
+   "content": {
+    "ref": "Números 22:28",
+    "ref_label": "Números 22:28",
+    "question": "Que animal falou com o profeta Balaão?",
+    "shown": "Uma jumenta",
+    "is_true": true,
+    "correct": "Uma jumenta",
+    "evidence": "abriu a boca da jumenta",
+    "passage": "O SENHOR abriu a boca da jumenta, e ela disse a Balaão: “O que eu lhe fiz, para que você tenha batido em mim estas três vezes?”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue animal falou com o profeta Balaão?\nResposta: Uma jumenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #perguntasbiblicas #jesus #desafiobiblico #palavradedeus #evangelico #conhecimentobiblico #fe #biblia #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue animal falou com o profeta Balaão?\nResposta: Uma jumenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #perguntasbiblicas",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #evangelico #gospel #palavradedeus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #evangelico #perguntasbiblicas #desafiobiblico",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que animal falou com o profeta Balaão? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue animal falou com o profeta Balaão?\nResposta: Uma jumenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-14/2026-10-14-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-9-quiz",
+   "date": "2026-10-14",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:33:01+00:00",
+   "source": "bank",
+   "bank_id": "q123",
+   "model": null,
+   "content": {
+    "ref": "Números 20:1",
+    "ref_label": "Números 20:1",
+    "question": "Em que lugar Miriã, irmã de Moisés, morreu?",
+    "options": [
+     "Hebrom",
+     "Cades",
+     "Gósen",
+     "Siló"
+    ],
+    "answer": 1,
+    "evidence": "O povo ficou em Cades. Miriã morreu ali",
+    "passage": "Os filhos de Israel, toda a congregação, chegaram ao deserto de Zim no primeiro mês. O povo ficou em Cades. Miriã morreu ali e ali foi sepultada.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #jesus #desafio #perguntasbiblicas #evangelico #teste #deus #conhecimentobiblico #palavradedeus #gospel",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #fe #cristao",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #jesus #cristao",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Em que lugar Miriã, irmã de Moisés, morreu? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 20.65,
+    "base": "media/2026-10-14/2026-10-14-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-8-fill",
+   "date": "2026-10-14",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-14T08:31:34+00:00",
+   "source": "bank",
+   "bank_id": "v084",
+   "model": null,
+   "content": {
+    "ref": "Atos 1:8",
+    "ref_label": "Atos 1:8",
+    "verse_text": "Mas vocês receberão poder quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+    "question": "Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+    "options": [
+     "poder",
+     "mundo",
+     "coração",
+     "reino"
+    ],
+    "answer": 0,
+    "answer_word": "poder",
+    "tags": [
+     "espiritosanto",
+     "missao"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #missao #completeoversiculo #versiculo #cristao #evangelico #quizbiblico #jesus #biblia #deus #gospel #desafiobiblico",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #missao #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#espiritosanto #missao #completeoversiculo #versiculo #deus",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#espiritosanto #missao #completeoversiculo #versiculo #biblia",
+    "youtube": {
+     "title": "Complete o versículo! 90% erra essa palavra (Atos 1:8) #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #espiritosanto #missao #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-14/2026-10-14-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-7-quiz",
+   "date": "2026-10-14",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:29:50+00:00",
+   "source": "bank",
+   "bank_id": "q415",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 25:7",
+    "ref_label": "2 Reis 25:7",
+    "question": "O que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?",
+    "options": [
+     "Cobriram",
+     "Pintaram",
+     "Vazaram",
+     "Fecharam"
+    ],
+    "answer": 2,
+    "evidence": "vazaram os olhos de Zedequias",
+    "passage": "Mataram os filhos de Zedequias diante dos seus olhos, depois vazaram os olhos de Zedequias, o prenderam com correntes e o levaram para a Babilônia.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #gospel #fe #teste #conhecimentobiblico #perguntasbiblicas #cristao #biblia #evangelico #deus",
+    "facebook": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #jesus",
+    "tiktok": "Quiz bíblico: o que fizeram com os olhos de Zedequias? 🤔 Responda!\n#quizbiblico #desafiobiblico #desafio #perguntasbiblicas #teste",
+    "kwai": "Quiz bíblico: o que fizeram com os olhos de Zedequias? 🤔 Responda!\n#quizbiblico #desafiobiblico #gospel #desafio #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: O Destino dos Olhos de Zedequias #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 23.72,
+    "base": "media/2026-10-14/2026-10-14-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: evidência não encontrada em Josué 1:9: 'amedrontar'"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-6-truefalse",
+   "date": "2026-10-14",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-14T08:28:09+00:00",
+   "source": "bank",
+   "bank_id": "q376",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 8:5",
+    "ref_label": "1 Samuel 8:5",
+    "question": "O que o povo pediu a Samuel, para ser como as outras nações?",
+    "shown": "Um rei",
+    "is_true": true,
+    "correct": "Um rei",
+    "evidence": "constitua-nos um rei para nos julgar",
+    "passage": "E lhe disseram: “Eis que você está velho, e os seus filhos não andam nos seus caminhos. Agora, constitua-nos um rei para nos julgar, como têm todas as nações.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #perguntasbiblicas #jesus #evangelico #conhecimentobiblico #palavradedeus #gospel #fe #biblia #desafiobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #fe",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #jesus #biblia #palavradedeus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #biblia #conhecimentobiblico #jesus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que o povo pediu a Samuel, para ser como as outras nações? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-14/2026-10-14-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-5-curiosity",
+   "date": "2026-10-14",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-14T08:27:01+00:00",
+   "source": "bank",
+   "bank_id": "c241",
+   "model": null,
+   "content": {
+    "ref": "João 2:10",
+    "ref_label": "João 2:10",
+    "title": "O melhor vinho por último",
+    "text": "Nas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo.",
+    "evidence": "Você guardou o vinho bom até agora",
+    "passage": "e lhe disse: “Todos servem primeiro o vinho bom, e quando os convidados já beberam à vontade, então o inferior. Você guardou o vinho bom até agora!”",
+    "tags": [
+     "jesus",
+     "milagre"
+    ]
+   },
+   "captions": {
+    "instagram": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas #gospel #evangelico #deus #historiabiblica #biblia #palavradedeus #cristao #estudobiblico",
+    "facebook": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "O melhor vinho ficou para o final nas bodas de Caná. Confie no tempo de Deus! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "O melhor vinho ficou para o final nas bodas de Caná. Confie no tempo de Deus! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #fe",
+    "youtube": {
+     "title": "O milagre do melhor vinho nas bodas de Caná #shorts",
+     "description": "O melhor vinho por último\n\nNas bodas de Caná, o encarregado da festa se surpreendeu: o vinho feito por Jesus era melhor do que o servido no começo. (João 2:10)\n\nNas bodas de Caná, o responsável pela festa ficou surpreso ao provar o vinho que Jesus fez. Ele disse: “Todos servem o melhor vinho primeiro, e o inferior depois”. Mas o milagre mostrou que o melhor pode chegar no momento certo, trazendo alegria e esperança. Que possamos confiar que Deus reserva o melhor para nossas vidas, mesmo quando tudo parece já ter passado. 🙏🍷\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #milagre #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.63,
+    "base": "media/2026-10-14/2026-10-14-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: evidência não encontrada em Êxodo 20:12: 'honra'",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-4-quiz",
+   "date": "2026-10-14",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:26:10+00:00",
+   "source": "bank",
+   "bank_id": "q422",
+   "model": null,
+   "content": {
+    "ref": "Esdras 7:10",
+    "ref_label": "Esdras 7:10",
+    "question": "Esdras tinha disposto o coração para buscar o quê?",
+    "options": [
+     "A paz",
+     "Ouro e prata",
+     "A lei do SENHOR",
+     "A guerra"
+    ],
+    "answer": 2,
+    "evidence": "buscar a lei do SENHOR",
+    "passage": "Pois Esdras tinha disposto o seu coração para buscar a lei do SENHOR, para cumpri-la e para ensinar os estatutos e as ordenanças em Israel.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras tinha disposto o coração para buscar o quê?\n\nA) A paz\nB) Ouro e prata\nC) A lei do SENHOR\nD) A guerra\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus #biblia #desafio #gospel #teste #fe #perguntasbiblicas #cristao #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras tinha disposto o coração para buscar o quê?\n\nA) A paz\nB) Ouro e prata\nC) A lei do SENHOR\nD) A guerra\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #cristao #teste #jesus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #fe #palavradedeus #biblia",
+    "youtube": {
+     "title": "Teste rápido: você acerta de primeira? Esdras tinha disposto o coração para buscar o quê? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras tinha disposto o coração para buscar o quê?\n\nA) A paz\nB) Ouro e prata\nC) A lei do SENHOR\nD) A guerra\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.45,
+    "base": "media/2026-10-14/2026-10-14-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-3-fill",
+   "date": "2026-10-14",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-14T08:24:35+00:00",
+   "source": "bank",
+   "bank_id": "v194",
+   "model": null,
+   "content": {
+    "ref": "Salmos 28:7",
+    "ref_label": "Salmos 28:7",
+    "verse_text": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu cântico eu lhe darei graças.",
+    "question": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.",
+    "options": [
+     "cântico",
+     "poder",
+     "caminho",
+     "socorro"
+    ],
+    "answer": 0,
+    "answer_word": "cântico",
+    "tags": [
+     "forca",
+     "louvor"
+    ]
+   },
+   "captions": {
+    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #louvor #completeoversiculo #versiculo #fe #cristao #gospel #biblia #deus #evangelico #palavradedeus #jesus",
+    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #louvor #completeoversiculo #versiculo",
+    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #louvor #completeoversiculo #versiculo #cristao",
+    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #louvor #completeoversiculo #versiculo #quizbiblico",
+    "youtube": {
+     "title": "Desafio: complete o versículo sem olhar a Bíblia! (Salmos 28:7) #shorts",
+     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #forca #louvor #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-14/2026-10-14-3-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-2-quiz",
+   "date": "2026-10-14",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:22:51+00:00",
+   "source": "bank",
+   "bank_id": "q664",
+   "model": null,
+   "content": {
+    "ref": "Malaquias 4:5",
+    "ref_label": "Malaquias 4:5",
+    "question": "Qual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?",
+    "options": [
+     "Samuel",
+     "Isaías",
+     "Elias",
+     "Moisés"
+    ],
+    "answer": 2,
+    "evidence": "eu lhes enviarei o profeta Elias",
+    "passage": "Eis que eu lhes enviarei o profeta Elias antes que venha o grande e terrível dia do SENHOR.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #jesus #biblia #fe #evangelico #palavradedeus #deus #conhecimentobiblico #perguntasbiblicas #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #fe #deus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #desafio #biblia #jesus",
+    "youtube": {
+     "title": "Teste rápido: você acerta de primeira? Qual profeta Deus prometeu enviar antes do… #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.98,
+    "base": "media/2026-10-14/2026-10-14-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-14-1-verse",
+   "date": "2026-10-14",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-14T08:21:14+00:00",
+   "source": "bank",
+   "bank_id": "v155",
+   "model": null,
+   "content": {
+    "ref": "2 Coríntios 4:18",
+    "ref_label": "2 Coríntios 4:18",
+    "verse_text": "Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.",
+    "on_screen": "O que não se vê é eterno.",
+    "reflection": "Os problemas visíveis são passageiros. Mantenha os olhos no que é eterno.",
+    "theme": "eternidade",
+    "mood": "reflexao",
+    "tags": [
+     "eternidade",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo #devocional #jesus #oracao #evangelico #deus #esperanca #biblia #palavradedeus",
+    "facebook": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo",
+    "tiktok": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #reflexao",
+    "kwai": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #jesus",
+    "youtube": {
+     "title": "Foco no eterno: como viver além dos problemas visíveis #shorts",
+     "description": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #eternidade #fe #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-14/2026-10-14-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
