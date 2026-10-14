@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-14T00:32:37+00:00",
+ "updated_at": "2026-10-14T01:08:47+00:00",
  "notes": [],
  "posts": {
+  "2026-10-13-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-13",
+   "time": "21:30",
+   "title": "Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DedGeBvGi-I/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1615096120069846"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-13-9-quiz": {
    "type": "quiz",
    "date": "2026-10-13",
@@ -26,7 +49,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -55,8 +78,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 55,
+    "likes": 1,
     "comments": 0
    }
   },
