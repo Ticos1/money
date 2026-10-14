@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-14T09:32:32+00:00",
+ "updated_at": "2026-10-14T11:03:03+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-1-verse": {
+   "type": "verse",
+   "date": "2026-10-14",
+   "time": "06:30",
+   "title": "2 Coríntios 4:18",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeeEWwxmeAY/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097046419513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-13-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-13",
@@ -132,7 +155,7 @@
    },
    "facebook": {
     "likes": 4,
-    "comments": 1
+    "comments": 2
    }
   },
   "2026-10-13-5-curiosity": {
