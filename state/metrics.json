@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-14T13:03:06+00:00",
+ "updated_at": "2026-10-14T13:37:42+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-3-fill": {
+   "type": "fill",
+   "date": "2026-10-14",
+   "time": "10:00",
+   "title": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/VrCSeeaTC-s",
+    "instagram": "https://www.instagram.com/reel/DeecVQyin7r/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1678829830622935"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-14-2-quiz": {
    "type": "quiz",
    "date": "2026-10-14",
