@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-7-quiz",
+   "date": "2026-10-14",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:29:50+00:00",
+   "source": "bank",
+   "bank_id": "q415",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 25:7",
+    "ref_label": "2 Reis 25:7",
+    "question": "O que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?",
+    "options": [
+     "Cobriram",
+     "Pintaram",
+     "Vazaram",
+     "Fecharam"
+    ],
+    "answer": 2,
+    "evidence": "vazaram os olhos de Zedequias",
+    "passage": "Mataram os filhos de Zedequias diante dos seus olhos, depois vazaram os olhos de Zedequias, o prenderam com correntes e o levaram para a Babilônia.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #gospel #fe #teste #conhecimentobiblico #perguntasbiblicas #cristao #biblia #evangelico #deus",
+    "facebook": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #jesus",
+    "tiktok": "Quiz bíblico: o que fizeram com os olhos de Zedequias? 🤔 Responda!\n#quizbiblico #desafiobiblico #desafio #perguntasbiblicas #teste",
+    "kwai": "Quiz bíblico: o que fizeram com os olhos de Zedequias? 🤔 Responda!\n#quizbiblico #desafiobiblico #gospel #desafio #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: O Destino dos Olhos de Zedequias #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras! 🤔 O rei Zedequias foi capturado e levado para a Babilônia. Antes disso, algo inesperado aconteceu com seus olhos. Qual das opções abaixo descreve o que fizeram com eles? Responda nos comentários e compartilhe com amigos para ver quem acerta! Lembre-se, o importante é buscar a verdade com coração aberto.\n\nO que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?\nA) Cobriram\nB) Pintaram\nC) Vazaram\nD) Fecharam\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-14T20:01:08+00:00",
+    "instagram": "2026-10-14T20:02:08+00:00",
+    "facebook": "2026-10-14T20:02:13+00:00",
+    "stories": "2026-10-14T20:02:53+00:00"
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: evidência não encontrada em Josué 1:9: 'amedrontar'"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/F9I_iJeux_A",
+    "instagram": "https://www.instagram.com/reel/DefMbcigqD4/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1363799298935385",
+    "stories": "story 18188276170413557"
+   }
+  },
+  {
    "id": "2026-10-14-6-truefalse",
    "date": "2026-10-14",
    "slot": 6,
