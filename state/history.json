@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-8-fill",
+   "date": "2026-10-14",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-14T08:31:34+00:00",
+   "source": "bank",
+   "bank_id": "v084",
+   "model": null,
+   "content": {
+    "ref": "Atos 1:8",
+    "ref_label": "Atos 1:8",
+    "verse_text": "Mas vocês receberão poder quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+    "question": "Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+    "options": [
+     "poder",
+     "mundo",
+     "coração",
+     "reino"
+    ],
+    "answer": 0,
+    "answer_word": "poder",
+    "tags": [
+     "espiritosanto",
+     "missao"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #missao #completeoversiculo #versiculo #cristao #evangelico #quizbiblico #jesus #biblia #deus #gospel #desafiobiblico",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #missao #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#espiritosanto #missao #completeoversiculo #versiculo #deus",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#espiritosanto #missao #completeoversiculo #versiculo #biblia",
+    "youtube": {
+     "title": "Complete o versículo! 90% erra essa palavra (Atos 1:8) #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.”\n\nA) poder\nB) mundo\nC) coração\nD) reino\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #espiritosanto #missao #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-14T21:31:07+00:00",
+    "instagram": "2026-10-14T21:31:50+00:00",
+    "facebook": "2026-10-14T21:31:55+00:00",
+    "stories": "2026-10-14T21:32:28+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/8lBZa5LiplM",
+    "instagram": "https://www.instagram.com/reel/DefWrlpEVwO/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1142329851569995",
+    "stories": "story 18094854593445429"
+   }
+  },
+  {
    "id": "2026-10-14-7-quiz",
    "date": "2026-10-14",
    "slot": 7,
