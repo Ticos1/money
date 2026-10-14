@@ -1,6 +1,84 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-9-quiz",
+   "date": "2026-10-14",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-14T08:33:01+00:00",
+   "source": "bank",
+   "bank_id": "q123",
+   "model": null,
+   "content": {
+    "ref": "Números 20:1",
+    "ref_label": "Números 20:1",
+    "question": "Em que lugar Miriã, irmã de Moisés, morreu?",
+    "options": [
+     "Hebrom",
+     "Cades",
+     "Gósen",
+     "Siló"
+    ],
+    "answer": 1,
+    "evidence": "O povo ficou em Cades. Miriã morreu ali",
+    "passage": "Os filhos de Israel, toda a congregação, chegaram ao deserto de Zim no primeiro mês. O povo ficou em Cades. Miriã morreu ali e ali foi sepultada.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #jesus #desafio #perguntasbiblicas #evangelico #teste #deus #conhecimentobiblico #palavradedeus #gospel",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #fe #cristao",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #jesus #cristao",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Em que lugar Miriã, irmã de Moisés, morreu? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Miriã, irmã de Moisés, morreu?\n\nA) Hebrom\nB) Cades\nC) Gósen\nD) Siló\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-14T23:01:04+00:00",
+    "instagram": "2026-10-14T23:02:01+00:00",
+    "facebook": "2026-10-14T23:02:04+00:00",
+    "stories": "2026-10-14T23:02:43+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/KDN_gYm0fG8",
+    "instagram": "https://www.instagram.com/reel/DefhA4Pj4YO/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1775101200444342",
+    "stories": "story 18054625721650521"
+   }
+  },
+  {
    "id": "2026-10-14-8-fill",
    "date": "2026-10-14",
    "slot": 8,
