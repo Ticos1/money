@@ -1,6 +1,77 @@
 {
  "posts": [
   {
+   "id": "2026-10-14-6-truefalse",
+   "date": "2026-10-14",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-14T08:28:09+00:00",
+   "source": "bank",
+   "bank_id": "q376",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 8:5",
+    "ref_label": "1 Samuel 8:5",
+    "question": "O que o povo pediu a Samuel, para ser como as outras nações?",
+    "shown": "Um rei",
+    "is_true": true,
+    "correct": "Um rei",
+    "evidence": "constitua-nos um rei para nos julgar",
+    "passage": "E lhe disseram: “Eis que você está velho, e os seus filhos não andam nos seus caminhos. Agora, constitua-nos um rei para nos julgar, como têm todas as nações.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #perguntasbiblicas #jesus #evangelico #conhecimentobiblico #palavradedeus #gospel #fe #biblia #desafiobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #fe",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #jesus #biblia #palavradedeus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #biblia #conhecimentobiblico #jesus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que o povo pediu a Samuel, para ser como as outras nações? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o povo pediu a Samuel, para ser como as outras nações?\nResposta: Um rei\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-14T18:02:21+00:00",
+    "facebook": "2026-10-14T18:02:26+00:00",
+    "stories": "2026-10-14T18:02:58+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/Dee-sUdjJVv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2347984272634038",
+    "stories": "story 18081064322419157"
+   }
+  },
+  {
    "id": "2026-10-14-5-curiosity",
    "date": "2026-10-14",
    "slot": 5,
