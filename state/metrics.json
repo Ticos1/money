@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-14T21:33:15+00:00",
+ "updated_at": "2026-10-14T22:14:18+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-8-fill": {
+   "type": "fill",
+   "date": "2026-10-14",
+   "time": "18:30",
+   "title": "Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/8lBZa5LiplM",
+    "instagram": "https://www.instagram.com/reel/DefWrlpEVwO/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1142329851569995"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-14-7-quiz": {
    "type": "quiz",
    "date": "2026-10-14",
@@ -119,7 +148,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
     "views": 11,
@@ -130,7 +159,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 8,
+    "views": 7,
     "likes": 1,
     "comments": 0
    }
