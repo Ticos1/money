@@ -566,6 +566,251 @@
     "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
    ],
    "error": null
+  },
+  {
+   "id": "2026-10-15-3-fill",
+   "date": "2026-10-15",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "pending",
+   "created_at": "2026-10-15T13:33:27+00:00",
+   "source": "bank",
+   "bank_id": "v069",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 2:9",
+    "ref_label": "1 Pedro 2:9",
+    "verse_text": "Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa luz.",
+    "question": "Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.",
+    "options": [
+     "justiça",
+     "luz",
+     "força",
+     "alma"
+    ],
+    "answer": 1,
+    "answer_word": "luz",
+    "tags": [
+     "identidade",
+     "chamado"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#identidade #chamado #completeoversiculo #versiculo #gospel #cristao #quizbiblico #desafiobiblico #fe #palavradedeus #biblia #evangelico",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#identidade #chamado #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#identidade #chamado #completeoversiculo #versiculo #desafiobiblico",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#identidade #chamado #completeoversiculo #versiculo #jesus",
+    "youtube": {
+     "title": "Complete o versículo! 90% erra essa palavra (1 Pedro 2:9) #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #identidade #chamado #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-15/2026-10-15-3-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-2-quiz",
+   "date": "2026-10-15",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "pending",
+   "created_at": "2026-10-15T13:31:50+00:00",
+   "source": "bank",
+   "bank_id": "q259",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 45:10",
+    "ref_label": "Gênesis 45:10",
+    "question": "Em qual terra do Egito José disse que sua família habitaria?",
+    "options": [
+     "Gósen",
+     "Mênfis",
+     "Tebas",
+     "Om"
+    ],
+    "answer": 0,
+    "evidence": "Você habitará na terra de Gósen",
+    "passage": "Você habitará na terra de Gósen e estará perto de mim, você, seus filhos, os filhos de seus filhos, seus rebanhos, seu gado e tudo o que você tem.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico #teste #perguntasbiblicas #desafio #jesus #fe #biblia #cristao",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #fe #palavradedeus #evangelico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #perguntasbiblicas",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Em qual terra do Egito José disse que sua… #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.65,
+    "base": "media/2026-10-15/2026-10-15-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)",
+    "legenda Groq descartada: legenda revela a resposta",
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-1-verse",
+   "date": "2026-10-15",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "pending",
+   "created_at": "2026-10-15T13:30:23+00:00",
+   "source": "bank",
+   "bank_id": "v289",
+   "model": null,
+   "content": {
+    "ref": "Colossenses 3:14",
+    "ref_label": "Colossenses 3:14",
+    "verse_text": "Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.",
+    "on_screen": "O amor é o vínculo da perfeição.",
+    "reflection": "Acima de tudo, ame. O amor une todas as outras virtudes.",
+    "theme": "amor",
+    "mood": "reflexao",
+    "tags": [
+     "amor",
+     "unidade"
+    ]
+   },
+   "captions": {
+    "instagram": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amor #unidade #versiculododia #versiculo #deus #fe #biblia #oracao #evangelico #gospel #jesus #reflexao",
+    "facebook": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amor #unidade #versiculododia #versiculo",
+    "tiktok": "Viva guiado pelo amor, a força que une tudo. 🌿\n#amor #unidade #versiculododia #versiculo #palavradedeus",
+    "kwai": "Viva guiado pelo amor, a força que une tudo. 🌿\n#amor #unidade #versiculododia #versiculo #palavradedeus",
+    "youtube": {
+     "title": "O Amor como Vínculo da Perfeição #shorts",
+     "description": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #amor #unidade #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-15/2026-10-15-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+   ],
+   "error": null
   }
  ]
 }
