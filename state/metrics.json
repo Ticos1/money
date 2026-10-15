@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-14T23:03:05+00:00",
+ "updated_at": "2026-10-15T00:33:21+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-14",
+   "time": "20:00",
+   "title": "Em que lugar Miriã, irmã de Moisés, morreu?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/KDN_gYm0fG8",
+    "instagram": "https://www.instagram.com/reel/DefhA4Pj4YO/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1775101200444342"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-14-8-fill": {
    "type": "fill",
    "date": "2026-10-14",
@@ -26,7 +55,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -102,7 +131,7 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -119,10 +148,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0
    },
    "facebook": {
@@ -321,7 +350,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 5,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
