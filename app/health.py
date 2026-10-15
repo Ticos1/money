@@ -27,6 +27,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 from . import config, state
+from .publish import scheduled_at
 
 PROBLEM = 3
 DEFAULTS = {"stalled_hours": 12, "late_hours": 2, "generate_by": "08:00", "token_warn_days": 7}
@@ -71,7 +72,7 @@ def check_posts(queue: list[dict], history: list[dict], settings: dict, now: dat
     for p in queue:
         if p.get("status") != "approved" or not (p.get("media") or {}).get("base"):
             continue
-        when = datetime.fromisoformat(f"{p['date']}T{p.get('time', '00:00')}").replace(tzinfo=tz)
+        when = scheduled_at(p, tz)
         if when > limit:
             continue
         missing = [n for n in enabled if applies(n, p, pub) and not (p.get("published") or {}).get(n)

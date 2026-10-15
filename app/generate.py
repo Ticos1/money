@@ -23,7 +23,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import captions, compilation, config, content, derived, music, state, validate
+from . import captions, compilation, config, content, derived, music, publish, state, validate
 from .groq_client import GroqClient
 from .render import cover
 from .render import curiosity as curiosity_render
@@ -141,8 +141,8 @@ def build(args) -> dict:
         media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
 
         status = "approved" if auto else "pending"
-        slot_time = datetime.fromisoformat(f"{day}T{slot['time']}").replace(tzinfo=tz)
-        if auto and slot_time <= now:
+        when = publish.publish_at(post_id, day, slot["time"], settings)
+        if auto and datetime.fromisoformat(when).replace(tzinfo=tz) <= now:
             # horário já passou: não sai sozinho (evita publicar vários de uma vez);
             # use "Publicar agora" no painel se quiser
             status = "pending"
@@ -152,6 +152,7 @@ def build(args) -> dict:
             "date": day,
             "slot": idx,
             "time": slot["time"],
+            "publish_at": when,
             "type": kind,
             "status": status,
             "created_at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"),

@@ -22,10 +22,13 @@ function applies(net, post, pub = {}) {
   return true;
 }
 
+// Horário real do post: publish_at (slot ± alguns minutos, sorteado na geração) ou o do slot.
+const dueAt = (post) => (post.publish_at || `${post.date}T${post.time}`).replace("T", " ");
+
 // Post aprovado, no horário, com alguma rede ligada ainda sem publicar (e sem erro esgotado).
 export function needsPublishing(post, settings, now) {
   if (post.status !== "approved" || !post.media?.base) return false;
-  if (`${post.date} ${post.time}` > `${now.date} ${now.time}`) return false;
+  if (dueAt(post) > `${now.date} ${now.time}`) return false;
   const pub = settings.publishing || {};
   const max = Number(pub.max_attempts || 3);
   return NETS.some((n) => pub[n] && applies(n, post, pub) && !post.published?.[n] && !post.publish_skipped?.[n]

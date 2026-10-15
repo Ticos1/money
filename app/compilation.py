@@ -23,6 +23,7 @@ from zoneinfo import ZoneInfo
 from PIL import Image
 
 from . import bible, config, music, state, validate, youtube_seo
+from .publish import publish_at
 from .render import cover, design, quiz, video
 
 KIND = "compilation"
@@ -330,11 +331,13 @@ def build_post(today: date, settings: dict, used: dict, media_root: Path, post_i
     slot_time = comp.get("time", "18:00")
     auto = settings.get("approval", {}).get("auto_approve", False)
     status = "approved" if auto else "pending"
-    if auto and datetime.fromisoformat(f"{day}T{slot_time}").replace(tzinfo=tz) <= datetime.now(tz):
+    when = publish_at(post_id, day, slot_time, settings)
+    if auto and datetime.fromisoformat(when).replace(tzinfo=tz) <= datetime.now(tz):
         status = "pending"
         log.append("horário já passou: aguardando você (aprovar ou Publicar agora)")
     post = {
-        "id": post_id, "date": day, "slot": slot, "time": slot_time, "type": KIND, "status": status,
+        "id": post_id, "date": day, "slot": slot, "time": slot_time,
+        "publish_at": when, "type": KIND, "status": status,
         "created_at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"),
         "source": "bank", "bank_id": None, "model": None,
         "content": {"title": yt["title"], "count": n, "duration": round(total),

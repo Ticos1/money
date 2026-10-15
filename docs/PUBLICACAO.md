@@ -5,6 +5,11 @@ publica sozinho no horário do post** (ou na hora, se o horário já passou).
 Uma rotina roda de hora em hora (das 05:07 às 23:07) e publica o que estiver
 aprovado e no horário.
 
+**Variação de horário:** cada post sai até **10 minutos antes ou depois** do horário
+da grade (ex.: o das 08:00 pode sair às 07:53 ou às 08:06), sorteado na geração, para
+não parecer automação. O painel mostra o horário real. Ajuste em
+`publishing.time_jitter_minutes` no `config/settings.json` (0 desliga).
+
 | Rede | O que é publicado | Situação |
 |---|---|---|
 | Instagram | Versículo → foto 4:5 no feed · Quiz → Reels (com música) | ✅ funciona logo após configurar |

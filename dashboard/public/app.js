@@ -75,7 +75,12 @@ function mediaUrl(post, file) {
 function fmtDate(post) {
   const d = new Date(`${post.date}T12:00:00`);
   const day = d.toLocaleDateString("pt-BR", { weekday: "short", day: "2-digit", month: "2-digit" });
-  return `${day} · ${post.time}`;
+  return `${day} · ${postTime(post)}`;
+}
+
+// horário real de saída (o do slot ± alguns minutos, para não parecer automação)
+function postTime(post) {
+  return post.publish_at?.slice(11, 16) || post.time;
 }
 
 function titleOf(post) {
@@ -404,7 +409,7 @@ async function setStatus(post, action) {
     Object.assign(post, r.post);
     const auto = Object.entries(STATE.settings?.publishing || {}).filter(([k, v]) => v === true).map(([k]) => k);
     toast(action === "approve"
-      ? (auto.length ? `Aprovado! Será publicado em ${auto.join(", ")} no horário (${post.time}).` : "Aprovado!")
+      ? (auto.length ? `Aprovado! Será publicado em ${auto.join(", ")} no horário (${postTime(post)}).` : "Aprovado!")
       : action === "reject" ? "Rejeitado" : "Atualizado");
     render();
   } catch (e) { toast(e.message); }

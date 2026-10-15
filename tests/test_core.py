@@ -219,6 +219,22 @@ class PublishTests(unittest.TestCase):
         self.assertFalse(is_due(self.POST, datetime(2026, 10, 9, 6, 59, tzinfo=tz), tz))
         self.assertFalse(is_due({**self.POST, "status": "pending"}, datetime(2026, 10, 9, 9, 0, tzinfo=tz), tz))
 
+    def test_publish_time_varies_up_to_ten_minutes_and_is_respected(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app.publish import is_due, publish_at
+        tz = ZoneInfo("America/Sao_Paulo")
+        times = {publish_at(f"2026-10-09-{i}-quiz", "2026-10-09", "07:00", {}) for i in range(40)}
+        offsets = {(datetime.fromisoformat(t) - datetime(2026, 10, 9, 7, 0)).total_seconds() / 60 for t in times}
+        self.assertTrue(all(-10 <= o <= 10 for o in offsets))
+        self.assertGreater(len(offsets), 5)  # varia de post para post
+        self.assertEqual(publish_at("x", "2026-10-09", "07:00", {}), publish_at("x", "2026-10-09", "07:00", {}))
+        self.assertEqual(publish_at("x", "2026-10-09", "00:00", {"publishing": {"time_jitter_minutes": 0}}),
+                         "2026-10-09T00:00")
+        post = {**self.POST, "publish_at": "2026-10-09T07:08"}
+        self.assertFalse(is_due(post, datetime(2026, 10, 9, 7, 5, tzinfo=tz), tz))
+        self.assertTrue(is_due(post, datetime(2026, 10, 9, 7, 8, tzinfo=tz), tz))
+
     def test_publish_run_records_success_and_errors(self):
         from app import publish
         from app.publishers import PublishError

@@ -72,6 +72,7 @@
   "facebook": true,
   "youtube": true,
   "max_attempts": 3,
+  "time_jitter_minutes": 10,
   "stories": true,
   "youtube_max_per_day": 6,
   "youtube_types": [
