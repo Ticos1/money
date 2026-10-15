@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-15-7-quiz",
+   "date": "2026-10-15",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:28:18+00:00",
+   "source": "bank",
+   "bank_id": "q244",
+   "model": null,
+   "content": {
+    "ref": "Tiago 5:17",
+    "ref_label": "Tiago 5:17",
+    "question": "Por quanto tempo não choveu depois da oração de Elias?",
+    "options": [
+     "Quarenta dias",
+     "Um ano",
+     "Três anos e seis meses",
+     "Sete anos"
+    ],
+    "answer": 2,
+    "evidence": "três anos e seis meses",
+    "passage": "Elias era um homem com uma natureza semelhante à nossa, e orou fervorosamente para que não chovesse, e não choveu sobre a terra por três anos e seis meses.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #teste #cristao #biblia #gospel #fe #deus #evangelico #perguntasbiblicas #conhecimentobiblico",
+    "facebook": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel",
+    "tiktok": "Quantos dias sem chuva após a oração de Elias? 🤔\n#quizbiblico #desafiobiblico #fe #deus #palavradedeus",
+    "kwai": "Quantos dias sem chuva após a oração de Elias? 🤔\n#quizbiblico #desafiobiblico #desafio #gospel #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: Tempo da Seca após a Oração de Elias #shorts",
+     "description": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-15T20:01:03+00:00",
+    "instagram": "2026-10-15T20:01:38+00:00",
+    "facebook": "2026-10-15T20:01:44+00:00",
+    "stories": "2026-10-15T20:02:27+00:00"
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/0y_qs7a3nk4",
+    "instagram": "https://www.instagram.com/reel/DehxK9ZFO8W/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1400836442134052",
+    "stories": "story 18014803379763375"
+   }
+  },
+  {
    "id": "2026-10-15-6-truefalse",
    "date": "2026-10-15",
    "slot": 6,

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T18:13:28+00:00",
+ "updated_at": "2026-10-15T20:03:17+00:00",
  "notes": [],
  "posts": {
   "2026-10-15-6-truefalse": {
@@ -17,7 +17,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0
    },
    "facebook": {
@@ -72,7 +72,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -101,7 +101,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 3,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
@@ -130,7 +130,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 4,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -280,7 +280,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
     "views": 9,
