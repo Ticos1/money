@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-15T09:31:57+00:00",
+ "updated_at": "2026-10-15T11:02:50+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-1-verse": {
+   "type": "verse",
+   "date": "2026-10-15",
+   "time": "06:30",
+   "title": "Colossenses 2:7",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DegpC3jgSeX/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097884121513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-14-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-14",
