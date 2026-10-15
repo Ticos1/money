@@ -79,12 +79,25 @@
    "fill",
    "compilation"
   ],
-  "tiktok": false
+  "tiktok": false,
+  "verse_carousel": true
  },
  "compilation": {
   "enabled": true,
   "weekday": 5,
   "time": "12:00",
   "minutes": 10
+ },
+ "adapt": {
+  "enabled": true,
+  "zero_days": 14,
+  "cooldown_days": 14,
+  "min_posts": 6
+ },
+ "alerts": {
+  "stalled_hours": 12,
+  "late_hours": 2,
+  "generate_by": "08:00",
+  "token_warn_days": 7
  }
 }

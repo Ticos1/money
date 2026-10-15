@@ -1,6 +1,9 @@
 """Template "Versículo do dia": vídeo 9:16 em 3 cenas + imagens 1:1 e 4:5.
 
 Cena 1: versículo + referência   Cena 2: frase de reflexão   Cena 3: chamada final
+
+Quando sai como imagem, também monta o carrossel 4:5 do Instagram (carrossel_1..4.jpg):
+versículo → reflexão → aplicação prática → chamada (salvar, enviar, seguir).
 """
 from __future__ import annotations
 
@@ -9,6 +12,7 @@ from pathlib import Path
 
 from PIL import Image
 
+from .. import config
 from . import design, video
 
 # posições pensadas para não ficar embaixo dos botões do TikTok/Reels
@@ -53,6 +57,81 @@ def still(size, item: dict, pal: design.Palette, seed: int, handle: str) -> Imag
     img.alpha_composite(ref_img)
     design.watermark(img, handle, L["wm_y"], L["wm_size"])
     return img.convert("RGB")
+
+
+# aplicação prática do slide 3 quando não há uma escrita para o versículo (IA ou edição no painel)
+APPLICATIONS = [
+    "Leia este versículo em voz alta três vezes hoje e peça a Deus que o grave no seu coração.",
+    "Escreva este versículo num papel e deixe onde você vai ver ao longo do dia.",
+    "Separe dois minutos agora: ore com este versículo e entregue a Deus o que está pesando em você.",
+    "Envie este versículo para alguém que está passando por um momento difícil.",
+    "Antes de dormir, releia o versículo e agradeça a Deus por uma coisa que Ele fez hoje.",
+    "Transforme o versículo em oração: diga a Deus, com as suas palavras, o que ele significa para você.",
+    "Tente decorar este versículo hoje. Repita no caminho, no trabalho e antes de dormir.",
+]
+CAROUSEL_SIZE = (1080, 1350)
+
+
+def application_text(item: dict, seed: int) -> str:
+    return (item.get("application") or "").strip() or APPLICATIONS[seed % len(APPLICATIONS)]
+
+
+def _slide_base(pal: design.Palette, seed: int, page: int, total: int, handle: str) -> Image.Image:
+    size = CAROUSEL_SIZE
+    img = design.background(*size, pal, seed)
+    img.alpha_composite(design.bokeh(*size, pal, seed + 1 + page, count=12))
+    design.watermark(img, handle, LAYOUTS[size]["wm_y"], LAYOUTS[size]["wm_size"])
+    pager = _canvas(size)
+    design.text_block(pager, [f"{page}/{total}"], design.font("sans_bold", 26), 34, size[0] - 90, 60,
+                      fill=(255, 255, 255, 170), shadow=80)
+    img.alpha_composite(pager)
+    return img
+
+
+def _swipe_hint(img: Image.Image, pal: design.Palette) -> None:
+    design.text_block(img, ["ARRASTE PARA O LADO  →"], design.font("sans_bold", 28), 36, img.width // 2, 1170,
+                      fill=pal.accent + (230,), shadow=90, tracking=3)
+
+
+def carousel(item: dict, pal: design.Palette, seed: int, handle: str) -> list[Image.Image]:
+    """4 slides 4:5: versículo, reflexão, aplicação, chamada."""
+    size, total = CAROUSEL_SIZE, 4
+    first = still(size, item, pal, seed, handle).convert("RGBA")
+    _swipe_hint(first, pal)
+    pager = _canvas(size)
+    design.text_block(pager, [f"1/{total}"], design.font("sans_bold", 26), 34, size[0] - 90, 60,
+                      fill=(255, 255, 255, 170), shadow=80)
+    first.alpha_composite(pager)
+
+    refl = _slide_base(pal, seed, 2, total, handle)
+    design.label(refl, "PARA REFLETIR", 170, 30, pal.accent)
+    fnt, lines, lh = design.fit(f"“{item['on_screen']}”" if item.get("on_screen") else item["ref_label"],
+                                "serif_italic", 860, 360, 74, 44)
+    end = design.text_block(refl, lines, fnt, lh, size[0] // 2, 260)
+    if item.get("reflection"):
+        fnt, lines, lh = design.fit(item["reflection"], "sans", 840, 1100 - end - 60, 46, 30, spacing=1.4)
+        design.text_block(refl, lines, fnt, lh, size[0] // 2, end + 60, fill=(255, 255, 255, 235))
+    _swipe_hint(refl, pal)
+
+    app = _slide_base(pal, seed, 3, total, handle)
+    design.label(app, "NA PRÁTICA, HOJE", 170, 30, pal.accent)
+    fnt, lines, lh = design.fit(application_text(item, seed), "serif", 860, 760, 70, 42, spacing=1.3)
+    design.text_block(app, lines, fnt, lh, size[0] // 2, 280 + (760 - len(lines) * lh) // 2)
+    _swipe_hint(app, pal)
+
+    cta = _slide_base(pal, seed, 4, total, handle)
+    design.text_block(cta, ["Amém?"], design.font("serif_bold", 130), 160, size[0] // 2, 250,
+                      fill=pal.accent + (255,))
+    steps = ["Salve para ler de novo quando precisar", "Envie para quem precisa ouvir isso hoje",
+             f"Siga {handle} para receber a Palavra todo dia" if handle else "Comente AMÉM se você recebe"]
+    y = 520
+    for text in steps:
+        design.rounded_card(cta, (110, y, 970, y + 150), 36, (255, 255, 255, 34),
+                            outline=pal.accent + (150,), width=3)
+        fnt, lines, lh = design.fit(text, "sans_bold", 780, 120, 42, 30)
+        design.text_block(cta, lines, fnt, lh, size[0] // 2, y + (150 - len(lines) * lh) // 2, shadow=60)
+        y += 185
+    return [s.convert("RGB") for s in (first, refl, app, cta)]
 
 
 def timeline(item: dict, min_s: float, max_s: float) -> dict:
@@ -128,7 +207,15 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
     for name, size in images.items():
         still(size, item, pal, seed, handle).save(out_dir / name, quality=92)
     if not wants_video(settings) or track_path is None:
-        return {"poster": "imagem_story.jpg", "images": list(images), "duration": 0}
+        info = {"poster": "imagem_story.jpg", "images": list(images), "duration": 0}
+        if config.verse_carousel(settings):
+            slides = []
+            for i, slide in enumerate(carousel(item, pal, seed, handle), start=1):
+                slide.save(out_dir / f"carrossel_{i}.jpg", quality=92)
+                slides.append(f"carrossel_{i}.jpg")
+            info["carousel"] = slides
+            info["images"] = list(images) + slides
+        return info
     silent, total = render_video(item, pal, seed, handle, settings, out_dir, work)
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),

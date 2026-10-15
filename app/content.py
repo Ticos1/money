@@ -126,6 +126,27 @@ def _groq_curiosity(groq: GroqClient, avoid_refs: list[str]) -> dict:
     return item
 
 
+def application(item: dict, groq: GroqClient, log: list[str]) -> str:
+    """Aplicação prática do slide 3 do carrossel. Vazio = o template usa uma frase fixa."""
+    if not groq.available():
+        return ""
+    user = (
+        f"Versículo: {item['ref_label']} — “{item['verse_text']}”. Reflexão: {item.get('reflection', '')}\n"
+        "Escreva UMA aplicação prática para hoje, concreta e simples (uma ação que a pessoa pode fazer), "
+        "em 1 ou 2 frases, até 180 caracteres, falando com 'você'. Não cite outros versículos nem "
+        "referências, sem hashtags e sem emojis.\n"
+        'Responda em JSON: {"application": "..."}'
+    )
+    try:
+        text = " ".join(str(groq.chat_json(SYSTEM_PROMPT, user).get("application", "")).split())
+        if not 30 <= len(text) <= 220 or "#" in text or REF_IN_TEXT.search(text):
+            raise ValueError("aplicação fora do padrão")
+        return text
+    except (GroqUnavailable, ValueError, TypeError, AttributeError) as exc:
+        log.append(f"aplicação do carrossel pela Groq descartada: {exc}")
+        return ""
+
+
 GROQ_GENERATORS = {"verse": _groq_verse, "quiz": _groq_quiz, "curiosity": _groq_curiosity}
 
 

@@ -751,5 +751,192 @@ class FormatAnalysisTests(unittest.TestCase):
         self.assertIn("Ainda não dá para decidir", report.analysis_text(result, self.SLOTS))
 
 
+class HookABTests(unittest.TestCase):
+    def test_hook_is_recorded_and_inferred_for_old_posts(self):
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        caps, source = captions.build("quiz", item, {**SETTINGS, "groq": {"enabled": False}},
+                                      FakeGroq([]), random.Random(2), [])
+        hook = captions.hook_label(caps, source)
+        self.assertIn(hook, captions.QUIZ_HOOKS)
+        self.assertEqual(captions.hook_of({"captions": caps, "caption_source": source}), hook)
+        self.assertEqual(captions.hook_label(caps, "groq"), captions.AI_HOOK)
+        self.assertEqual(captions.hook_of({"hook": "X", "captions": caps}), "X")
+
+    def test_report_compares_hooks_by_reach_and_recommends(self):
+        from app import report
+        posts = {}
+        for i in range(4):
+            posts[f"a{i}"] = {"type": "quiz", "date": "2026-10-05", "time": "08:00", "hook": "Gancho A",
+                              "instagram": {"likes": 2, "reach": 300}}
+            posts[f"b{i}"] = {"type": "quiz", "date": "2026-10-06", "time": "12:00", "hook": "Gancho B",
+                              "instagram": {"likes": 2, "reach": 50}}
+        posts["c"] = {"type": "quiz", "date": "2026-10-06", "hook": "Gancho C", "instagram": {"reach": 900}}
+        hooks = report.hook_analysis({"posts": posts}, TODAY)["quiz"]
+        self.assertEqual([h["hook"] for h in hooks], ["Gancho A", "Gancho B", "Gancho C"])  # C: em teste
+        self.assertEqual(hooks[0]["reach"], 300)
+        recs = report.recommendations({"posts": posts}, TODAY, {})
+        self.assertTrue(any("“Gancho A”" in r and "“Gancho B”" in r for r in recs))
+        self.assertIn("(em teste)", "\n".join(report.hooks_text({"quiz": hooks})))
+
+
+class RecommendationTests(unittest.TestCase):
+    def test_weekly_report_says_cut_and_increase_only_for_formats_in_the_grid(self):
+        from app import report
+        m = FormatAnalysisTests._metrics({"quiz": [5] * 8, "fill": [0] * 8, "curiosity": [0] * 8})
+        settings = {"schedule": {"slots": [{"time": "08:00", "type": "quiz"}, {"time": "09:00", "type": "fill"}]}}
+        recs = "\n".join(report.recommendations(m, TODAY, settings))
+        self.assertIn("**Aumente Desafio de quiz**", recs)
+        self.assertIn("**Corte Complete o versículo**", recs)
+        self.assertNotIn("Você sabia", recs)  # já fora da grade
+
+
+class AdaptTests(unittest.TestCase):
+    SETTINGS = {"schedule": {"slots": [{"time": "06:30", "type": "verse"}, {"time": "08:00", "type": "quiz"},
+                                       {"time": "10:00", "type": "fill"}, {"time": "12:00", "type": "quiz"},
+                                       {"time": "18:00", "type": "fill"}]}}
+
+    @staticmethod
+    def _metrics(fill_reach: int, days: int = 14) -> dict:
+        posts = {}
+        for d in range(1, days + 1):
+            day = date.fromordinal(TODAY.toordinal() - d).isoformat()
+            posts[f"f{d}"] = {"type": "fill", "date": day, "instagram": {"likes": 0, "reach": fill_reach}}
+            posts[f"q{d}"] = {"type": "quiz", "date": day, "instagram": {"likes": 3, "reach": 120}}
+        return {"posts": posts}
+
+    def test_two_weeks_of_zero_reach_moves_one_slot_to_the_best_format(self):
+        from app import adapt
+        with mock.patch.object(adapt, "_bank_ok", return_value=True):
+            result = adapt.plan(self._metrics(0), self.SETTINGS, TODAY, {"changes": []})
+        self.assertEqual(result["change"]["from"], "fill")
+        self.assertEqual(result["change"]["to"], "quiz")
+        self.assertEqual(result["change"]["time"], "18:00")  # o último horário do formato fraco
+        types = [s["type"] for s in result["slots"]]
+        self.assertEqual(types, ["verse", "quiz", "fill", "quiz", "quiz"])  # mesmo total, versículo primeiro
+
+    def test_no_change_with_reach_little_history_cooldown_or_last_slot(self):
+        from app import adapt
+        with mock.patch.object(adapt, "_bank_ok", return_value=True):
+            self.assertIn("skip", adapt.plan(self._metrics(5), self.SETTINGS, TODAY, {"changes": []}))
+            self.assertIn("skip", adapt.plan(self._metrics(0, days=7), self.SETTINGS, TODAY, {"changes": []}))
+            recent = {"changes": [{"date": "2026-10-01"}]}
+            self.assertIn("skip", adapt.plan(self._metrics(0), self.SETTINGS, TODAY, recent))
+            one = {"schedule": {"slots": self.SETTINGS["schedule"]["slots"][:3]}}
+            self.assertIn("skip", adapt.plan(self._metrics(0), one, TODAY, {"changes": []}))
+            off = {**self.SETTINGS, "adapt": {"enabled": False}}
+            self.assertIn("skip", adapt.plan(self._metrics(0), off, TODAY, {"changes": []}))
+        # sem dado de alcance (ex.: token sem insights) não conta como zero
+        no_data = {"posts": {k: {**v, "instagram": {"likes": 0}} for k, v in self._metrics(0)["posts"].items()}}
+        self.assertIn("skip", adapt.plan(no_data, self.SETTINGS, TODAY, {"changes": []}))
+
+    def test_apply_writes_settings_and_history(self):
+        from app import adapt, config
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(config, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "CONFIG_PATH", Path(tmp) / "settings.json"), \
+                mock.patch.object(adapt, "_bank_ok", return_value=True):
+            result = adapt.plan(self._metrics(0), self.SETTINGS, TODAY, {"changes": []})
+            adapt.apply(result, self.SETTINGS)
+            saved = json.loads((Path(tmp) / "settings.json").read_text())
+            self.assertEqual(saved["schedule"]["slots"][4]["type"], "quiz")
+            self.assertEqual(adapt.load_history()["changes"][0]["from"], "fill")
+
+
+class HealthTests(unittest.TestCase):
+    def _now(self, hhmm: str):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        return datetime.fromisoformat(f"2026-10-09T{hhmm}").replace(tzinfo=ZoneInfo("America/Sao_Paulo"))
+
+    def test_stalled_publishing_late_posts_and_missing_generation(self):
+        from app import health
+        settings = {"publishing": {"instagram": True, "max_attempts": 3}}
+        ok_post = {"id": "p0", "date": "2026-10-09", "time": "06:30", "status": "approved", "media": {"base": "m/"},
+                   "published": {"instagram": "2026-10-09T09:40:00+00:00"}}
+        self.assertEqual(health.check_posts([ok_post], [], settings, self._now("10:00")), [])
+        late = {"id": "p1", "date": "2026-10-09", "time": "07:00", "status": "approved", "media": {"base": "m/"},
+                "published": {}, "publish_errors": {"instagram": {"attempts": 3}}}
+        found = dict(health.check_posts([ok_post, late], [], settings, self._now("10:00")))
+        self.assertIn("p1", found["atrasados"])
+        self.assertIn("desistiu", found["atrasados"])
+        old = {**ok_post, "date": "2026-10-08", "published": {"instagram": "2026-10-08T12:00:00+00:00"}}
+        found = dict(health.check_posts([old], [], settings, self._now("10:00")))
+        self.assertIn("parada", found)
+        self.assertIn("geracao", found)  # passou das 08:00 sem posts de hoje
+        self.assertNotIn("geracao", dict(health.check_posts([old], [], settings, self._now("07:00"))))
+
+    def test_token_checks(self):
+        from app import health
+        now = 1_000_000_000
+        resp = mock.Mock()
+        resp.json.return_value = {"data": {"is_valid": True, "expires_at": now + 3 * 86400,
+                                           "data_access_expires_at": now + 60 * 86400}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            found = health.check_meta("t", 7, now)
+        self.assertEqual([k for k, _ in found], ["token-meta"])
+        self.assertIn("3 dia", found[0][1])
+        resp.json.return_value = {"data": {"is_valid": True, "expires_at": 0}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            self.assertEqual(health.check_meta("t", 7, now), [])
+        resp.json.return_value = {"error": {"code": 190, "message": "expired"}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            self.assertEqual(health.check_meta("t", 7, now)[0][0], "token-meta")
+        resp.json.return_value = {"error": "invalid_grant"}
+        with mock.patch("app.health.requests.post", return_value=resp):
+            self.assertEqual(health.check_youtube("a", "b", "c")[0][0], "token-youtube")
+        self.assertEqual(health.check_tiktok({"refresh_expires_at": now + 86400}, 7, now)[0][0], "token-tiktok")
+        sig = health.signature([("parada", "x")])
+        self.assertEqual(sig, health.signature([("parada", "outra mensagem")]))
+        self.assertTrue(health.text([("parada", "x")], self._now("10:00")).startswith(f"<!-- {sig} -->"))
+
+
+class VerseCarouselTests(unittest.TestCase):
+    def test_carousel_rendered_captioned_and_published_as_carousel(self):
+        from app.publishers.meta import InstagramPublisher
+        from app.render import verse
+        item = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        settings = {"brand": {"handle": "@t"}, "video": {"video_types": ["quiz"]}}
+        with tempfile.TemporaryDirectory() as tmp:
+            info = verse.render(item, settings, Path(tmp), 1, None, random.Random(1), Path(tmp))
+            self.assertEqual(info["carousel"], [f"carrossel_{i}.jpg" for i in range(1, 5)])
+            self.assertTrue(all((Path(tmp) / f).exists() for f in info["carousel"]))
+            off = verse.render(item, {**settings, "publishing": {"verse_carousel": False}}, Path(tmp), 1, None,
+                               random.Random(1), Path(tmp))
+            self.assertNotIn("carousel", off)
+        caps, _ = captions.build("verse", item, {**settings, "groq": {"enabled": False}}, FakeGroq([]),
+                                 random.Random(1), [])
+        self.assertIn(captions.CAROUSEL_LINE, caps["instagram"])
+        self.assertNotIn(captions.CAROUSEL_LINE, caps["facebook"])
+
+        calls = []
+
+        def fake_call(method, path, **params):
+            calls.append((method, path, params))
+            if path.endswith("/media"):
+                return {"id": f"c{len(calls)}"}
+            if path.endswith("media_publish"):
+                return {"id": "m1"}
+            if "status_code" in params.get("fields", ""):
+                return {"status_code": "FINISHED"}
+            return {"permalink": "https://ig/p/1"}
+
+        acc = mock.Mock(page_token="tok", ig_id="ig")
+        post = {"captions": caps, "media": {**info, "images": info["images"]}}
+        with mock.patch("app.publishers.meta._call", side_effect=fake_call):
+            url = InstagramPublisher(acc).publish(post, Path("."), lambda f: f"https://x/{f}")
+        self.assertEqual(url, "https://ig/p/1")
+        children = [c for c in calls if c[2].get("is_carousel_item") == "true"]
+        self.assertEqual(len(children), 4)
+        parent = next(c for c in calls if c[2].get("media_type") == "CAROUSEL")
+        self.assertEqual(parent[2]["children"].count(","), 3)
+
+    def test_groq_application_is_validated(self):
+        item = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        good = content.application(item, FakeGroq([{"application": "Ligue hoje para alguém que você ama e diga isso."}]), [])
+        self.assertTrue(good.startswith("Ligue"))
+        log = []
+        self.assertEqual(content.application(item, FakeGroq([{"application": "Leia João 3:16 hoje e ore muito."}]), log), "")
+        self.assertTrue(log)
+
+
 if __name__ == "__main__":
     unittest.main()

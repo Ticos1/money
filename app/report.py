@@ -9,6 +9,10 @@ e mostra quanto conteúdo inédito ainda resta no banco (app/saturation.py).
 --analysis compara os formatos no período (padrão: 28 dias), diz quais cortar e
 quais concentrar, e propõe uma agenda mais enxuta. Com --apply, grava essa agenda
 em config/settings.json (só quando há dados suficientes para decidir).
+
+O resumo também traz o teste A/B de ganchos (qual frase de abertura da legenda
+rende mais alcance em cada formato) e uma lista de recomendações ("corte X,
+aumente Y"), além dos ajustes automáticos da grade (app/adapt.py).
 """
 from __future__ import annotations
 
@@ -29,6 +33,8 @@ MIN_POSTS_PER_TYPE = 6
 MIN_TOTAL_ENGAGEMENT = 30
 CUT_BELOW = 0.5     # rende menos da metade da média: cortar
 FOCUS_ABOVE = 1.3   # rende 30% acima da média: concentrar
+MIN_POSTS_PER_HOOK = 3   # teste A/B: abaixo disso o gancho fica "em teste"
+HOOK_GAP = 0.6           # o pior gancho rende até 60% do melhor: vale trocar
 
 
 def _n(v) -> int:
@@ -48,8 +54,121 @@ def social_engagement(row: dict) -> int:
     return engagement({k: v for k, v in row.items() if k != "youtube"})
 
 
+def reach(row: dict) -> int | None:
+    """Alcance: pessoas alcançadas no Instagram + visualizações no YouTube.
+    None quando a rede não informou (ex.: token sem permissão de insights)."""
+    ig, yt = row.get("instagram") or {}, row.get("youtube") or {}
+    values = [v for v in (ig.get("reach"), yt.get("views")) if isinstance(v, (int, float))]
+    return int(sum(values)) if values else None
+
+
 def _avg(rows: list[dict], score=engagement) -> float:
     return round(sum(score(r) for r in rows) / len(rows), 1) if rows else 0.0
+
+
+def _window(metrics: dict, today: date, days: int) -> list[dict]:
+    limit = (today - timedelta(days=days)).isoformat()
+    return [v for v in (metrics.get("posts") or {}).values()
+            if v.get("date", "") >= limit and v.get("type") not in (None, "compilation")]
+
+
+def hook_analysis(metrics: dict, today: date, days: int = 28) -> dict[str, list[dict]]:
+    """Teste A/B de ganchos: para cada formato, cada frase de abertura com alcance e engajamento
+    médios. A nota ("score") é o alcance médio; sem dado de alcance, o engajamento."""
+    groups: dict[tuple[str, str], list[dict]] = {}
+    for r in _window(metrics, today, days):
+        if r.get("hook"):
+            groups.setdefault((r["type"], r["hook"]), []).append(r)
+    out: dict[str, list[dict]] = {}
+    for (t, hook), rows in groups.items():
+        with_reach = [x for x in rows if reach(x) is not None]
+        reach_avg = round(sum(reach(x) for x in with_reach) / len(with_reach), 1) if with_reach else None
+        eng = _avg(rows, social_engagement)
+        out.setdefault(t, []).append({"hook": hook, "posts": len(rows), "reach": reach_avg, "engagement": eng})
+    for t, hooks in out.items():
+        use_reach = any(h["reach"] for h in hooks)
+        for h in hooks:
+            h["score"] = (h["reach"] or 0) if use_reach else h["engagement"]
+            h["metric"] = "alcance" if use_reach else "engajamento"
+        hooks.sort(key=lambda h: (h["posts"] >= MIN_POSTS_PER_HOOK, h["score"]), reverse=True)
+    return out
+
+
+def hooks_text(result: dict[str, list[dict]], days: int = 28) -> list[str]:
+    if not result:
+        return ["", "### Ganchos (teste A/B)", "",
+                "Ainda sem posts com gancho registrado e métricas. O teste começa a aparecer em alguns dias."]
+    lines = ["", f"### Ganchos (teste A/B, últimos {days} dias)", "",
+             f"Cada post abre a legenda com um gancho sorteado. Com {MIN_POSTS_PER_HOOK}+ posts, o gancho entra "
+             "na comparação; com menos, fica \"em teste\".", ""]
+    for t, hooks in sorted(result.items(), key=lambda kv: TYPE_NAME.get(kv[0], kv[0])):
+        lines += [f"**{TYPE_NAME.get(t, t)}**", "", "| Gancho | Posts | Alcance médio | Engajamento médio |",
+                  "|---|---|---|---|"]
+        for h in hooks:
+            mark = "" if h["posts"] >= MIN_POSTS_PER_HOOK else " _(em teste)_"
+            lines.append(f"| {h['hook']}{mark} | {h['posts']} | {'—' if h['reach'] is None else h['reach']} "
+                         f"| {h['engagement']} |")
+        lines.append("")
+    return lines
+
+
+def recommendations(metrics: dict, today: date, settings: dict, days: int = 28) -> list[str]:
+    """O que mudar, em frases diretas: formatos, ganchos e horários."""
+    recs: list[str] = []
+    result = analyze(metrics, today, days)
+    if not result["enough"]:
+        recs.append(f"Formatos: ainda poucos dados para cortar ou aumentar ({result['total']} interações em "
+                    f"{days} dias; mínimo {MIN_TOTAL_ENGAGEMENT}). Mantenha a grade.")
+    in_grid = {s["type"] for s in settings.get("schedule", {}).get("slots", [])}
+    for f in result["formats"]:
+        name = TYPE_NAME.get(f["type"], f["type"])
+        if in_grid and f["type"] not in in_grid:
+            continue  # já saiu da grade
+        if f["verdict"] == "cortar":
+            recs.append(f"**Corte {name}**: rende {f['index']}× a média ({f['posts']} posts). "
+                        "Troque esses horários por um formato que rende mais.")
+        elif f["verdict"] == "concentrar":
+            recs.append(f"**Aumente {name}**: rende {f['index']}× a média ({f['posts']} posts).")
+    for t, hooks in hook_analysis(metrics, today, days).items():
+        tested = [h for h in hooks if h["posts"] >= MIN_POSTS_PER_HOOK]
+        if len(tested) < 2:
+            continue
+        best, worst = tested[0], tested[-1]
+        if best["score"] > 0 and worst["score"] <= best["score"] * HOOK_GAP:
+            recs.append(f"Gancho em {TYPE_NAME.get(t, t)}: “{best['hook']}” tem {best['metric']} médio "
+                        f"{best['score']} contra {worst['score']} de “{worst['hook']}”. Use mais o primeiro e "
+                        "aposente o segundo (em app/captions.py).")
+    by_hour: dict[str, list[dict]] = {}
+    for r in _window(metrics, today, days):
+        if r.get("time"):
+            by_hour.setdefault(r["time"], []).append(r)
+    hours = sorted(((h, _avg(v, social_engagement)) for h, v in by_hour.items() if len(v) >= MIN_POSTS_PER_TYPE),
+                   key=lambda x: x[1], reverse=True)
+    if len(hours) >= 2 and hours[0][1] > 0 and hours[-1][1] <= hours[0][1] * CUT_BELOW:
+        recs.append(f"Horário: o post das **{hours[-1][0]}** rende {hours[-1][1]} de engajamento médio, contra "
+                    f"{hours[0][1]} das **{hours[0][0]}**. Mude o das {hours[-1][0]} para perto das {hours[0][0]}.")
+    if not any(r.startswith(("**Corte", "**Aumente", "Gancho", "Horário")) for r in recs):
+        recs.append("Nada para mudar nesta semana além do que já está acima: siga com a grade atual.")
+    return recs
+
+
+def _adapt_lines(metrics: dict, today: date, settings: dict) -> list[str]:
+    from . import adapt  # import tardio: adapt usa as contas daqui
+
+    lines = ["", "### Grade automática", ""]
+    recent = [c for c in adapt.load_history().get("changes", [])
+              if c.get("date", "") >= (today - timedelta(days=7)).isoformat()]
+    for c in recent:
+        lines.append(f"- {c['date']}: o horário das {c['time']} passou de {TYPE_NAME.get(c['from'], c['from'])} "
+                     f"para {TYPE_NAME.get(c['to'], c['to'])} ({c['reason']}).")
+    plan = adapt.plan(metrics, settings, today, adapt.load_history())
+    if plan.get("change"):
+        c = plan["change"]
+        lines.append(f"- Próximo ajuste: {c['time']} de {TYPE_NAME.get(c['from'], c['from'])} para "
+                     f"{TYPE_NAME.get(c['to'], c['to'])} ({c['reason']}).")
+    elif not recent:
+        lines.append(f"- Sem ajuste: {plan.get('skip', 'nenhum formato com alcance zero por 2 semanas')}.")
+    return lines
 
 
 def _saturation_lines(today: date) -> list[str]:
@@ -80,6 +199,14 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
               f"- **{yt_views}** visualizações no YouTube",
               f"- **{reach}** pessoas alcançadas no Instagram" if reach else "- Alcance do Instagram: indisponível",
               f"- **{likes}** curtidas somando as três redes", ""]
+
+    try:
+        settings = config.load_settings()
+    except (OSError, ValueError):
+        settings = {}
+    lines += ["### Recomendações da semana", ""]
+    lines += [f"- {r}" for r in recommendations(metrics, today, settings)]
+    lines.append("")
 
     by_type: dict[str, list[dict]] = {}
     for r in rows:
@@ -112,6 +239,9 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
     for r in long_videos:
         views = _n((r.get("youtube") or {}).get("views"))
         lines += ["", f"### Vídeo longo\n\n**{r.get('title')}**: {views} visualizações até agora."]
+    lines += hooks_text(hook_analysis(metrics, today))
+    if settings:
+        lines += _adapt_lines(metrics, today, settings)
     lines += _saturation_lines(today)
     for note in metrics.get("notes") or []:
         lines += ["", f"> Aviso: {note}"]
@@ -214,6 +344,9 @@ def main(argv: list[str] | None = None) -> int:
         slots = settings["schedule"]["slots"]
         result = analyze(metrics, today, args.days)
         print(analysis_text(result, slots))
+        print("\n".join(hooks_text(hook_analysis(metrics, today, args.days), args.days)))
+        print("\n### Recomendações\n")
+        print("\n".join(f"- {r}" for r in recommendations(metrics, today, settings, args.days)))
         new = proposed_slots(slots, result)
         if args.apply and result["enough"] and len(new) < len(slots):
             settings["schedule"]["slots"] = new

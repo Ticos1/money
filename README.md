@@ -30,6 +30,14 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamente**. O post do dia nunca deixa de sair.
 
+### Medir → ajustar (sozinho)
+
+- **Alerta de automação parada / token vencendo** (`app/health.py`, de hora em hora): se nada for publicado há 12h, se um post aprovado atrasar mais de 2h, se os posts do dia não forem gerados até as 08:00 ou se o token da Meta, do YouTube ou do TikTok estiver vencido ou para vencer em até 7 dias, abre uma **issue no GitHub** (chega no seu e-mail). Ela fecha sozinha quando tudo volta ao normal. Limites em `alerts` no `config/settings.json`.
+- **Teste A/B de ganchos**: cada post registra qual frase abriu a legenda (`hook`; legenda escrita pela IA conta como "Legenda da IA"). O resumo semanal compara o alcance médio de cada gancho por formato.
+- **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar.
+- **Grade adaptativa** (`app/adapt.py`): se um formato passa 2 semanas com alcance zero, 1 horário dele vai para o formato que mais alcança. O total de posts não muda, o Versículo continua no primeiro horário e há no máximo 1 ajuste a cada 14 dias. Desligue com `"adapt": {"enabled": false}`.
+- **Carrossel de versículo no Instagram**: o Versículo do dia sai como carrossel 4:5 de 4 slides (versículo → reflexão → aplicação prática → chamada para salvar, enviar e seguir). A aplicação é escrita pela IA (validada) ou vem de frases prontas, e dá para editar no painel. Desligue com `publishing.verse_carousel: false`.
+
 **Toda semana** (sábado, 12:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
 
 ## Exemplos
@@ -145,6 +153,8 @@ pip install -r requirements.txt          # precisa também do ffmpeg instalado
 python -m app.validate                   # confere o banco inteiro contra a Bíblia
 python -m app.saturation                 # quantos dias de conteúdo inédito restam por formato
 python -m app.report --analysis          # quais formatos rendem, quais cortar (--apply grava a agenda)
+python -m app.adapt                      # o que a grade adaptativa mudaria (--apply grava)
+python -m app.health                     # checagem de saúde: publicação parada e tokens
 python -m unittest -v                    # testes
 python -m app.generate run --no-groq     # gera os posts de hoje em ./media
 python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)

@@ -20,7 +20,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-from . import state
+from . import captions, state
 from .publishers import PublishError
 
 KEEP_DAYS = 60
@@ -136,6 +136,7 @@ def collect(today: date) -> dict:
     for p in posts:
         links = p["publish_links"]
         row = {"type": p.get("type"), "date": p.get("date"), "time": p.get("time"), "title": _title(p),
+               "hook": captions.hook_of(p),
                "links": {k: v for k, v in links.items() if str(v).startswith("http")}}
         if links.get("instagram"):
             row["instagram"] = ig.get(links["instagram"].rstrip("/"))

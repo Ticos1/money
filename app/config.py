@@ -28,6 +28,13 @@ def load_settings() -> dict:
     return settings
 
 
+def verse_carousel(settings: dict) -> bool:
+    """Versículo em imagem vira carrossel no Instagram (publishing.verse_carousel, ligado por padrão).
+    Se o versículo estiver configurado como vídeo, sai como Reels e não há carrossel."""
+    return bool(settings.get("publishing", {}).get("verse_carousel", True)) \
+        and "verse" not in settings.get("video", {}).get("video_types", ["quiz"])
+
+
 def groq_api_key() -> str | None:
     """A chave fica só em variável de ambiente / segredo do GitHub."""
     return os.environ.get("GROQ_API_KEY") or None

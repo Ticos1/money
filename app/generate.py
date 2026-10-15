@@ -35,7 +35,7 @@ RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_
              "fill": fill_render, "truefalse": truefalse_render}
 CONTENT_FIELDS = {
     "verse": ["ref", "skip_prefix", "ref_label", "verse_text", "on_screen", "reflection", "theme",
-              "mood", "tags"],
+              "mood", "tags", "application"],
     "quiz": ["ref", "ref_label", "question", "options", "answer", "evidence", "passage", "difficulty",
              "tags"],
     "curiosity": ["ref", "ref_label", "title", "text", "evidence", "passage", "tags"],
@@ -121,6 +121,10 @@ def build(args) -> dict:
             used.setdefault(section, {}).update(values)
             patch["used"].setdefault(section, {}).update(values)
 
+        if kind == "verse" and config.verse_carousel(settings) and not item.get("application"):
+            app_text = content.application(item, groq, log)
+            if app_text:
+                item = {**item, "application": app_text}
         caps, caption_source = captions.build(kind, item, settings, groq, rng, log)
         mood = music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao"))
         track = None
@@ -151,6 +155,7 @@ def build(args) -> dict:
             "content": {k: item[k] for k in CONTENT_FIELDS[kind] if k in item},
             "captions": caps,
             "caption_source": caption_source,
+            "hook": captions.hook_label(caps, caption_source),
             "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")}
                      if track else None,
             "gospel_suggestions": music.gospel_suggestions(mood, item.get("tags", []), rng),

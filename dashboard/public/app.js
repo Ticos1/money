@@ -17,6 +17,8 @@ const IMG_NAME = {
   "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5", "imagem_story.jpg": "Imagem 9:16",
   "pergunta_quadrada.jpg": "Pergunta 1:1", "pergunta_vertical.jpg": "Pergunta 4:5",
   "resposta_quadrada.jpg": "Resposta 1:1", "resposta_vertical.jpg": "Resposta 4:5",
+  "carrossel_1.jpg": "Carrossel 1/4", "carrossel_2.jpg": "Carrossel 2/4",
+  "carrossel_3.jpg": "Carrossel 3/4", "carrossel_4.jpg": "Carrossel 4/4",
 };
 
 let STATE = { posts: [], settings: {} };
@@ -173,7 +175,7 @@ function imageSection(post) {
     h("div", {},
       h("h3", {}, "Baixar"),
       h("div", { class: "row" }, m.images.map(dl)),
-      h("p", { class: "muted" }, "9:16 → Stories, Status e TikTok/Kwai (modo foto, com música do app). 4:5 e 1:1 → feed do Instagram e do Facebook."),
+      h("p", { class: "muted" }, "9:16 → Stories, Status e TikTok/Kwai (modo foto, com música do app). 4:5 e 1:1 → feed do Instagram e do Facebook. Carrossel 1 a 4 → Instagram (poste as 4 juntas, nessa ordem)."),
     ));
 }
 
@@ -246,8 +248,10 @@ function editForm(post, card) {
     f.append(h("p", { class: "muted" }, `Versículo (não editável, vem da Bíblia): ${post.content.ref_label}`));
     fields.on_screen = h("input", { type: "text", maxlength: 110, value: post.content.on_screen });
     fields.reflection = h("textarea", {}, post.content.reflection);
-    f.append(h("label", {}, "Frase de reflexão (aparece no vídeo)", fields.on_screen),
-      h("label", {}, "Reflexão (legenda base)", fields.reflection));
+    fields.application = h("textarea", { maxlength: 240, style: "min-height:70px" }, post.content.application || "");
+    f.append(h("label", {}, "Frase de reflexão (aparece no vídeo e no carrossel)", fields.on_screen),
+      h("label", {}, "Reflexão (legenda base e carrossel)", fields.reflection),
+      h("label", {}, "Aplicação prática (slide 3 do carrossel; vazio = frase padrão)", fields.application));
   } else if (post.type === "curiosity") {
     f.append(h("p", { class: "muted" }, `Referência (não editável): ${post.content.ref_label}`));
     fields.title = h("input", { type: "text", maxlength: 60, value: post.content.title });
@@ -285,7 +289,7 @@ function editForm(post, card) {
     e.preventDefault();
     save.disabled = true;
     const content = (post.type === "fill" || post.type === "truefalse") ? {} : post.type === "verse"
-      ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value }
+      ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value, application: fields.application.value }
       : post.type === "curiosity"
         ? { title: fields.title.value, text: fields.text.value }
         : { question: fields.question.value, options: fields.options.map((i) => i.value), answer: Number(fields.answer.value) };

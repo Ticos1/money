@@ -9,7 +9,7 @@ import json
 import random
 import re
 
-from . import bible
+from . import bible, config
 from .config import CONTENT_DIR
 from .groq_client import GroqClient, GroqUnavailable
 
@@ -80,6 +80,26 @@ TF_HOOKS = [
 ]
 
 
+AI_HOOK = "Legenda da IA"  # a Groq escreve a abertura inteira: entra no teste como um gancho só
+CAROUSEL_LINE = "➡️ Arraste para o lado: tem uma aplicação prática para hoje."
+
+
+def hook_label(caps: dict, caption_source: str | None) -> str | None:
+    """Qual gancho abriu a legenda (teste A/B de ganchos). Serve também para posts antigos,
+    gravados antes de o gancho ser registrado: é deduzido do começo da legenda."""
+    if caption_source == "groq":
+        return AI_HOOK
+    text = (caps or {}).get("instagram") or (caps or {}).get("facebook") or ""
+    if not isinstance(text, str):
+        return None
+    hooks = VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS
+    return next((h for h in sorted(hooks, key=len, reverse=True) if text.startswith(h)), None)
+
+
+def hook_of(post: dict) -> str | None:
+    return post.get("hook") or hook_label(post.get("captions") or {}, post.get("caption_source"))
+
+
 def template_captions(kind: str, item: dict, handle: str, rng: random.Random) -> dict:
     if kind == "fill":
         hook = rng.choice(FILL_HOOKS)
@@ -126,14 +146,16 @@ def template_captions(kind: str, item: dict, handle: str, rng: random.Random) ->
     }
 
 
-def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Random) -> dict:
+def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Random,
+              carousel: bool = False) -> dict:
     tag = lambda p: _hashtags(kind, item, p, rng)  # noqa: E731
     follow = f"Siga {handle} para mais." if handle else ""
+    swipe = f"\n\n{CAROUSEL_LINE}" if carousel else ""
     yt_title = texts["youtube_title"]
     if len(yt_title) > 90:
         yt_title = yt_title[:87].rsplit(" ", 1)[0] + "…"
     return {
-        "instagram": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
+        "instagram": f"{texts['long']}{swipe}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
         "facebook": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
         "tiktok": f"{texts['short']}\n{tag('tiktok')}",
         "kwai": f"{texts['short']}\n{tag('kwai')}",
@@ -212,4 +234,5 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
             source = "groq"
         except (GroqUnavailable, ValueError, TypeError, AttributeError, KeyError) as exc:
             log.append(f"legenda Groq descartada: {exc}")
-    return _assemble(kind, item, texts, handle, rng), source
+    carousel = kind == "verse" and config.verse_carousel(settings)
+    return _assemble(kind, item, texts, handle, rng, carousel), source
