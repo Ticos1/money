@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-15T20:03:17+00:00",
+ "updated_at": "2026-10-15T21:33:08+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-15",
+   "time": "17:00",
+   "title": "Por quanto tempo não choveu depois da oração de Elias?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0y_qs7a3nk4",
+    "instagram": "https://www.instagram.com/reel/DehxK9ZFO8W/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1400836442134052"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 1,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-15-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-15",
@@ -14,10 +43,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
@@ -72,7 +101,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 5,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -101,7 +130,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -205,7 +234,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 77,
+    "views": 76,
     "likes": 2,
     "comments": 0
    }
@@ -338,7 +367,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 1,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }

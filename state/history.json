@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-15-8-fill",
+   "date": "2026-10-15",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-15T08:29:41+00:00",
+   "source": "bank",
+   "bank_id": "v136",
+   "model": null,
+   "content": {
+    "ref": "Jeremias 31:3",
+    "ref_label": "Jeremias 31:3",
+    "verse_text": "O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com bondade.",
+    "question": "O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.",
+    "options": [
+     "bondade",
+     "palavra",
+     "salvação",
+     "fé"
+    ],
+    "answer": 0,
+    "answer_word": "bondade",
+    "tags": [
+     "amordedeus",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amordedeus #graca #completeoversiculo #versiculo #gospel #biblia #palavradedeus #desafiobiblico #cristao #fe #jesus #deus",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amordedeus #graca #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#amordedeus #graca #completeoversiculo #versiculo #palavradedeus",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#amordedeus #graca #completeoversiculo #versiculo #jesus",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Jeremias 31:3) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #amordedeus #graca #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-15T21:31:11+00:00",
+    "instagram": "2026-10-15T21:31:46+00:00",
+    "facebook": "2026-10-15T21:31:52+00:00",
+    "stories": "2026-10-15T21:32:24+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/p_KygHsEaYM",
+    "instagram": "https://www.instagram.com/reel/Deh7fDmD_gP/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1104044342610603",
+    "stories": "story 17910892323557945"
+   }
+  },
+  {
    "id": "2026-10-15-7-quiz",
    "date": "2026-10-15",
    "slot": 7,
