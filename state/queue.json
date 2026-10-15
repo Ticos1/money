@@ -1,3 +1,811 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-15-10-truefalse",
+   "date": "2026-10-15",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-15T08:31:52+00:00",
+   "source": "bank",
+   "bank_id": "q211",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:3",
+    "ref_label": "Marcos 14:3",
+    "question": "Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia?",
+    "shown": "Óleo de oliva",
+    "is_true": false,
+    "correct": "Nardo puro",
+    "evidence": "perfume de nardo puro",
+    "passage": "Enquanto Jesus estava em Betânia, na casa de Simão, o leproso, sentado à mesa, veio uma mulher trazendo um frasco de alabastro com perfume de nardo puro, muito caro. Ela quebrou o frasco e o derramou sobre a cabeça dele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #cristao #gospel #evangelico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #biblia #deus #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #gospel #conhecimentobiblico #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #evangelico",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-15/2026-10-15-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-9-quiz",
+   "date": "2026-10-15",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:30:58+00:00",
+   "source": "bank",
+   "bank_id": "q544",
+   "model": null,
+   "content": {
+    "ref": "João 20:1",
+    "ref_label": "João 20:1",
+    "question": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?",
+    "options": [
+     "Maria Madalena",
+     "Marta",
+     "Joana",
+     "Salomé"
+    ],
+    "answer": 0,
+    "evidence": "Maria Madalena foi de manhã bem cedo",
+    "passage": "No primeiro dia da semana, Maria Madalena foi de manhã bem cedo, quando ainda estava escuro, ao sepulcro, e viu que a pedra tinha sido tirada do sepulcro.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "No primeiro dia da semana, ainda na penumbra da madrugada, alguém se dirigiu ao sepulcro com coragem e esperança. Será que você sabe quem foi? 🤔 Teste seu conhecimento e compartilhe sua resposta nos comentários!\n\nQuem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?\nA) Maria Madalena\nB) Marta\nC) Joana\nD) Salomé\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #jesus #perguntasbiblicas #desafio #cristao #fe #biblia #evangelico #conhecimentobiblico #gospel",
+    "facebook": "No primeiro dia da semana, ainda na penumbra da madrugada, alguém se dirigiu ao sepulcro com coragem e esperança. Será que você sabe quem foi? 🤔 Teste seu conhecimento e compartilhe sua resposta nos comentários!\n\nQuem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?\nA) Maria Madalena\nB) Marta\nC) Joana\nD) Salomé\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
+    "tiktok": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana? 🤔\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #desafio",
+    "kwai": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana? 🤔\n#quizbiblico #desafiobiblico #fe #biblia #gospel",
+    "youtube": {
+     "title": "Quiz Bíblico: Quem chegou ao sepulcro antes do amanhecer? #shorts",
+     "description": "No primeiro dia da semana, ainda na penumbra da madrugada, alguém se dirigiu ao sepulcro com coragem e esperança. Será que você sabe quem foi? 🤔 Teste seu conhecimento e compartilhe sua resposta nos comentários!\n\nQuem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?\nA) Maria Madalena\nB) Marta\nC) Joana\nD) Salomé\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 23.18,
+    "base": "media/2026-10-15/2026-10-15-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-8-fill",
+   "date": "2026-10-15",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-15T08:29:41+00:00",
+   "source": "bank",
+   "bank_id": "v136",
+   "model": null,
+   "content": {
+    "ref": "Jeremias 31:3",
+    "ref_label": "Jeremias 31:3",
+    "verse_text": "O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com bondade.",
+    "question": "O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.",
+    "options": [
+     "bondade",
+     "palavra",
+     "salvação",
+     "fé"
+    ],
+    "answer": 0,
+    "answer_word": "bondade",
+    "tags": [
+     "amordedeus",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amordedeus #graca #completeoversiculo #versiculo #gospel #biblia #palavradedeus #desafiobiblico #cristao #fe #jesus #deus",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amordedeus #graca #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#amordedeus #graca #completeoversiculo #versiculo #palavradedeus",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#amordedeus #graca #completeoversiculo #versiculo #jesus",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Jeremias 31:3) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.”\n\nA) bondade\nB) palavra\nC) salvação\nD) fé\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #amordedeus #graca #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-15/2026-10-15-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-7-quiz",
+   "date": "2026-10-15",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:28:18+00:00",
+   "source": "bank",
+   "bank_id": "q244",
+   "model": null,
+   "content": {
+    "ref": "Tiago 5:17",
+    "ref_label": "Tiago 5:17",
+    "question": "Por quanto tempo não choveu depois da oração de Elias?",
+    "options": [
+     "Quarenta dias",
+     "Um ano",
+     "Três anos e seis meses",
+     "Sete anos"
+    ],
+    "answer": 2,
+    "evidence": "três anos e seis meses",
+    "passage": "Elias era um homem com uma natureza semelhante à nossa, e orou fervorosamente para que não chovesse, e não choveu sobre a terra por três anos e seis meses.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #teste #cristao #biblia #gospel #fe #deus #evangelico #perguntasbiblicas #conhecimentobiblico",
+    "facebook": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel",
+    "tiktok": "Quantos dias sem chuva após a oração de Elias? 🤔\n#quizbiblico #desafiobiblico #fe #deus #palavradedeus",
+    "kwai": "Quantos dias sem chuva após a oração de Elias? 🤔\n#quizbiblico #desafiobiblico #desafio #gospel #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: Tempo da Seca após a Oração de Elias #shorts",
+     "description": "Elias levantou seu cajado e orou, e o céu ficou fechado. Quantos dias a terra ficou sem chuva? Teste seu conhecimento bíblico e compartilhe sua resposta nos comentários! 🌦️\n\nPor quanto tempo não choveu depois da oração de Elias?\nA) Quarenta dias\nB) Um ano\nC) Três anos e seis meses\nD) Sete anos\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 23.38,
+    "base": "media/2026-10-15/2026-10-15-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-6-truefalse",
+   "date": "2026-10-15",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-15T08:26:59+00:00",
+   "source": "bank",
+   "bank_id": "q382",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 18:4",
+    "ref_label": "1 Samuel 18:4",
+    "question": "Junto com o manto e a túnica, o que Jônatas deu a Davi?",
+    "shown": "O seu cavalo",
+    "is_true": false,
+    "correct": "A sua espada",
+    "evidence": "e até a sua espada, o seu arco e o seu cinto",
+    "passage": "Jônatas tirou o manto que vestia e o deu a Davi, juntamente com a sua túnica, e até a sua espada, o seu arco e o seu cinto.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJunto com o manto e a túnica, o que Jônatas deu a Davi?\nResposta: O seu cavalo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #deus #conhecimentobiblico #evangelico #desafiobiblico #palavradedeus #biblia #perguntasbiblicas #jesus #cristao",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJunto com o manto e a túnica, o que Jônatas deu a Davi?\nResposta: O seu cavalo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #biblia #fe #cristao",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #fe #biblia #deus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Junto com o manto e a túnica, o que Jônatas deu a Davi? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJunto com o manto e a túnica, o que Jônatas deu a Davi?\nResposta: O seu cavalo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-15/2026-10-15-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-5-curiosity",
+   "date": "2026-10-15",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-15T08:26:05+00:00",
+   "source": "bank",
+   "bank_id": "c123",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 18:4",
+    "ref_label": "2 Reis 18:4",
+    "title": "O fim da serpente de bronze",
+    "text": "A serpente de bronze de Moisés foi guardada por séculos, mas o povo passou a queimar incenso para ela. O rei Ezequias a despedaçou.",
+    "evidence": "despedaçou a serpente de bronze que Moisés havia feito",
+    "passage": "Ele removeu os altos, quebrou as colunas sagradas e derrubou o poste de Aserá. Ele também despedaçou a serpente de bronze que Moisés havia feito, porque naqueles dias os filhos de Israel queimavam incenso a ela; e ele a chamou de Neustã.",
+    "tags": [
+     "ezequias",
+     "idolatria"
+    ]
+   },
+   "captions": {
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nO fim da serpente de bronze\n\nA serpente de bronze de Moisés foi guardada por séculos, mas o povo passou a queimar incenso para ela. O rei Ezequias a despedaçou. (2 Reis 18:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequias #idolatria #vocesabia #curiosidadesbiblicas #palavradedeus #fe #deus #gospel #evangelico #estudobiblico #biblia #jesus",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nO fim da serpente de bronze\n\nA serpente de bronze de Moisés foi guardada por séculos, mas o povo passou a queimar incenso para ela. O rei Ezequias a despedaçou. (2 Reis 18:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequias #idolatria #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 O fim da serpente de bronze\nVocê já sabia? Comente SIM ou NÃO.\n#ezequias #idolatria #vocesabia #curiosidadesbiblicas #gospel",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 O fim da serpente de bronze\nVocê já sabia? Comente SIM ou NÃO.\n#ezequias #idolatria #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "youtube": {
+     "title": "Você sabia? O fim da serpente de bronze #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nO fim da serpente de bronze\n\nA serpente de bronze de Moisés foi guardada por séculos, mas o povo passou a queimar incenso para ela. O rei Ezequias a despedaçou. (2 Reis 18:4)\n\nVocê já sabia? Comente SIM ou NÃO.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ezequias #idolatria #vocesabia"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.48,
+    "base": "media/2026-10-15/2026-10-15-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: evidência não encontrada em Josué 1:5: 'nunca'",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-4-quiz",
+   "date": "2026-10-15",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:25:22+00:00",
+   "source": "bank",
+   "bank_id": "q124",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 34:1",
+    "ref_label": "Deuteronômio 34:1",
+    "question": "De qual monte Moisés viu a terra prometida antes de morrer?",
+    "options": [
+     "Monte Sinai",
+     "Monte Carmelo",
+     "Monte Moriá",
+     "Monte Nebo"
+    ],
+    "answer": 3,
+    "evidence": "ao monte Nebo",
+    "passage": "Moisés subiu das campinas de Moabe ao monte Nebo, ao topo de Pisga, que fica em frente a Jericó. O SENHOR lhe mostrou toda a terra de Gileade até Dã,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #conhecimentobiblico #palavradedeus #biblia #deus #cristao #jesus #gospel #teste",
+    "facebook": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #evangelico",
+    "tiktok": "Qual monte Moisés viu antes de morrer? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #jesus #fe",
+    "kwai": "Qual monte Moisés viu antes de morrer? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #biblia #teste #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: O Monte que Moisés Viu antes de Falecer #shorts",
+     "description": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 23.38,
+    "base": "media/2026-10-15/2026-10-15-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em Êxodo 20:13: 'Não matarás'",
+    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-3-fill",
+   "date": "2026-10-15",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-15T08:24:02+00:00",
+   "source": "bank",
+   "bank_id": "v173",
+   "model": null,
+   "content": {
+    "ref": "Salmos 86:5",
+    "ref_label": "Salmos 86:5",
+    "verse_text": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em amor leal para com todos os que te invocam.",
+    "question": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.",
+    "options": [
+     "amor",
+     "caminho",
+     "Espírito",
+     "escudo"
+    ],
+    "answer": 0,
+    "answer_word": "amor",
+    "tags": [
+     "perdao",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#perdao #graca #completeoversiculo #versiculo #fe #jesus #gospel #desafiobiblico #deus #biblia #palavradedeus #quizbiblico",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#perdao #graca #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#perdao #graca #completeoversiculo #versiculo #palavradedeus",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#perdao #graca #completeoversiculo #versiculo #palavradedeus",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Salmos 86:5) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #perdao #graca #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 24.85,
+    "base": "media/2026-10-15/2026-10-15-3-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-2-quiz",
+   "date": "2026-10-15",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:22:41+00:00",
+   "source": "bank",
+   "bank_id": "q252",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 13:12",
+    "ref_label": "Gênesis 13:12",
+    "question": "Até qual cidade Ló armou sua tenda?",
+    "options": [
+     "Hebrom",
+     "Sodoma",
+     "Berseba",
+     "Siquém"
+    ],
+    "answer": 1,
+    "evidence": "armou sua tenda até Sodoma",
+    "passage": "Abrão habitou na terra de Canaã, e Ló habitou nas cidades da planície, e armou sua tenda até Sodoma.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico #teste #perguntasbiblicas #desafio #jesus #fe #biblia #cristao",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #fe #palavradedeus #evangelico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #perguntasbiblicas",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Até qual cidade Ló armou sua tenda? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 20.45,
+    "base": "media/2026-10-15/2026-10-15-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: evidência não encontrada em Mateus 5:9: 'paz'",
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-15-1-verse",
+   "date": "2026-10-15",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-15T08:21:30+00:00",
+   "source": "bank",
+   "bank_id": "v288",
+   "model": null,
+   "content": {
+    "ref": "Colossenses 2:7",
+    "ref_label": "Colossenses 2:7",
+    "verse_text": "Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.",
+    "on_screen": "Enraizados em Cristo, transbordando de gratidão.",
+    "reflection": "Raízes firmes em Jesus produzem um coração grato.",
+    "theme": "gratidão",
+    "mood": "alegria",
+    "tags": [
+     "gratidao",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo #oracao #jesus #biblia #palavradedeus #gospel #reflexao #deus #devocional",
+    "facebook": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo",
+    "tiktok": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #cristao",
+    "kwai": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #evangelico",
+    "youtube": {
+     "title": "Como raízes firmes em Jesus geram gratidão #shorts",
+     "description": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #fe #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-15/2026-10-15-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
