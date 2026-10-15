@@ -153,6 +153,23 @@ class CaptionTests(unittest.TestCase):
         self.assertLessEqual(len(caps["youtube"]["title"]), 100)
         self.assertLessEqual(caps["tiktok"].count("#"), 5)
 
+    def test_whatsapp_caption_has_no_hashtags_or_comment_cta(self):
+        item = self._quiz()
+        no_groq = {**SETTINGS, "groq": {"enabled": False}}
+        with mock.patch.dict("os.environ", {"PUBLIC_BASE_URL": "https://x.pages.dev"}):
+            caps, _ = captions.build("quiz", item, no_groq, GroqClient(None, SETTINGS, {}, TODAY),
+                                     random.Random(1), [])
+        wa = caps["whatsapp"]
+        self.assertNotIn("#", wa)
+        self.assertNotIn("Comente", wa)  # canal não tem comentários, só reações
+        self.assertTrue(wa.startswith("*"))  # gancho em negrito
+        self.assertIn(item["question"], wa)
+        self.assertIn("https://x.pages.dev/hoje/", wa)
+        with mock.patch.dict("os.environ", {"PUBLIC_BASE_URL": "https://.pages.dev"}):
+            caps, _ = captions.build("quiz", item, no_groq, GroqClient(None, SETTINGS, {}, TODAY),
+                                     random.Random(1), [])
+        self.assertNotIn("pages.dev", caps["whatsapp"])  # projeto sem nome: sem link quebrado
+
 
 class GroqRobustnessTests(unittest.TestCase):
     def test_parse_json_formats(self):
@@ -292,7 +309,8 @@ class PublishTests(unittest.TestCase):
             res = publish.run(Path(tmp), future["id"], "youtube", True)["publish_results"]
             self.assertEqual(list(res[future["id"]]), ["youtube"])
             self.assertEqual(bp.call_args[0][0], {"tiktok": False, "kwai": False, "youtube": True,
-                                                  "instagram": False, "facebook": False, "stories": False})
+                                                  "instagram": False, "facebook": False, "stories": False,
+                                                  "whatsapp": False})
 
 
 class TikTokTests(unittest.TestCase):

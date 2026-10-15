@@ -12,6 +12,7 @@ aprovado e no horário.
 | YouTube Shorts | Quiz (vídeo) | ⚠️ funciona, mas fica **privado** até a auditoria do YouTube |
 | TikTok | — | precisa da auditoria do app no TikTok (próxima etapa) |
 | Kwai | — | sem API pública: continua manual |
+| Canal do WhatsApp | — | sem API oficial para canais: manual pelo botão 📲 do painel ([WHATSAPP.md](WHATSAPP.md)) |
 
 > Se você ativar **"Aprovar automaticamente"** em Configurações, nem a aprovação
 > é necessária: o sistema gera e publica 100% sozinho.

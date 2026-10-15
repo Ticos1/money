@@ -4,6 +4,7 @@
   youtube.py   YouTube Shorts — YouTube Data API v3 (fica privado até a auditoria)
   TikTok       depende da auditoria do app no TikTok (veja docs/FASES.md)
   Kwai         sem API pública de postagem: continua manual pelo painel
+  WhatsApp     canal sem API oficial de postagem: manual pelo painel (docs/WHATSAPP.md)
 
 Quem decide QUANDO publicar é app/publish.py: posts APROVADOS cujo horário
 já chegou. Cada publicador só cuida de COMO publicar numa rede.

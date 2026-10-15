@@ -227,6 +227,8 @@ def day_page(day: str, data: dict, brand: dict, base_url: str, canonical: str, h
         desc = f"{len(data['quizzes'])} perguntas da Bíblia para testar o seu conhecimento hoje."
     share_text = f"Versículo do dia e quiz bíblico: quantas você acerta?"
     handle = brand.get("handle", "")
+    channel = brand.get("whatsapp_channel", "")
+    channel = channel if channel.startswith("https://whatsapp.com/channel/") or channel.startswith("https://www.whatsapp.com/channel/") else ""
     body = (_header(brand, day, heading)
             + (_verse_html(v) if v else "")
             + (('<h2 style="text-align:center;margin:28px 0 0">Quiz de hoje: quantas você acerta?</h2>'
@@ -236,6 +238,8 @@ def day_page(day: str, data: dict, brand: dict, base_url: str, canonical: str, h
             + f'<a class="btn alt" href="https://wa.me/?text={e(_urlquote(share_text + " " + (base_url + canonical)))}" '
               'rel="noopener" target="_blank">Enviar no WhatsApp</a>'
             + "</div>"
+            + (f'<p style="text-align:center"><a class="btn alt" href="{e(channel)}" rel="noopener" target="_blank">'
+               'Seguir o canal no WhatsApp</a></p>' if channel else "")
             + (f'<p style="text-align:center;color:var(--muted)">Todo dia tem versículo e quiz novos. '
                f'Siga <b>{e(handle)}</b> nas redes.</p>' if handle else ""))
     url = (base_url or "") + canonical

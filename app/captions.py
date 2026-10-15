@@ -6,6 +6,7 @@ variações de texto; a saída passa por checagens e, se reprovada, fica o model
 from __future__ import annotations
 
 import json
+import os
 import random
 import re
 
@@ -146,6 +147,40 @@ def template_captions(kind: str, item: dict, handle: str, rng: random.Random) ->
     }
 
 
+# Canal do WhatsApp: ninguém comenta (só reage) e hashtag não serve para nada.
+WHATSAPP_CTAS = {
+    "verse": "Reaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.",
+    "curiosity": "Reaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.",
+}
+WHATSAPP_QUIZ_CTA = "Reaja com ✅ se você acertou e encaminhe para desafiar alguém!"
+
+
+def _site_url() -> str:
+    """Endereço do mini-site (/hoje/), se o workflow informou um válido."""
+    base = os.environ.get("PUBLIC_BASE_URL", "").strip().rstrip("/")
+    return f"{base}/hoje/" if base.startswith("https://") and "://." not in base else ""
+
+
+def whatsapp_caption(kind: str, texts: dict) -> str:
+    body = texts["long"].replace(" (ou arraste para o lado no carrossel)", "")
+    if texts.get("cta"):
+        body = body.replace(texts["cta"], "")
+    for line in ("Comente a letra antes de ver a resposta!", "Comente a palavra que falta antes de ver a resposta!",
+                 "Comente V ou F antes de ver a resposta!"):
+        body = body.replace(line, "")
+    body = re.sub(r"[ \t]+\n", "\n", re.sub(r"\n{3,}", "\n\n", body)).strip()
+    hook = texts.get("hook", "")
+    if hook and body.startswith(hook):  # negrito do WhatsApp na abertura
+        body = f"*{hook}*{body[len(hook):]}"
+    parts = [body, WHATSAPP_CTAS.get(kind, WHATSAPP_QUIZ_CTA)]
+    site = _site_url()
+    if site:
+        parts.append(f"🎯 Quiz de hoje com placar: {site}" if kind != "verse"
+                     else f"📖 Versículo e quiz de hoje: {site}")
+    parts.append(ATTRIBUTION)
+    return "\n\n".join(parts)
+
+
 def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Random,
               carousel: bool = False) -> dict:
     tag = lambda p: _hashtags(kind, item, p, rng)  # noqa: E731
@@ -157,6 +192,7 @@ def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Rando
         "facebook": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
         "tiktok": f"{texts['short']}\n{tag('tiktok')}",
         "kwai": f"{texts['short']}\n{tag('kwai')}",
+        "whatsapp": whatsapp_caption(kind, texts),
         "youtube": {
             "title": yt_title,
             "description": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",

@@ -1,6 +1,6 @@
 import { GitHub, json } from "../../../lib/github.js";
 
-const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook", "stories"];
+const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook", "stories", "whatsapp"];
 const VISUAL_FIELDS = {
   verse: ["on_screen", "reflection", "application"],
   quiz: ["question", "options", "answer"],
@@ -53,7 +53,7 @@ export async function onRequestPost({ request, env, params }) {
           }
           case "edit": {
             const caps = body.captions || {};
-            for (const k of ["instagram", "facebook", "tiktok", "kwai"]) {
+            for (const k of ["instagram", "facebook", "tiktok", "kwai", "whatsapp"]) {
               if (k in caps) p.captions[k] = clean(caps[k], 2200);
             }
             if (caps.youtube) {

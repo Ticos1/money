@@ -11,6 +11,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 > copiar. A postagem nas redes ainda é manual (e segura).
 > **Publicação automática** (Instagram, Facebook e YouTube): veja [docs/PUBLICACAO.md](docs/PUBLICACAO.md).
 > **TikTok** (Reels nos seus rascunhos do app): veja [docs/TIKTOK.md](docs/TIKTOK.md).
+> **Canal do WhatsApp** (legenda própria + botão de enviar no painel): veja [docs/WHATSAPP.md](docs/WHATSAPP.md).
 
 ---
 
@@ -172,4 +173,4 @@ python scripts/make_music.py             # recria as faixas instrumentais
 
 - Fase 2: YouTube Shorts automático · Fase 3: Instagram/Facebook · Fase 4: TikTok → [docs/FASES.md](docs/FASES.md)
 - Tipo "Você sabia?" (o banco já está pronto e validado) e reflexões em vídeo
-- Futuro: Telegram/WhatsApp, ofertas de afiliados (com aviso "link de afiliado") e divulgação do jogo de quiz (veja `app/types.py`)
+- Futuro: Telegram, ofertas de afiliados (com aviso "link de afiliado") e divulgação do jogo de quiz (veja `app/types.py`)

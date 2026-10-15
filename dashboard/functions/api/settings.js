@@ -22,6 +22,10 @@ export async function onRequestPut({ request, env }) {
       || !(comp.minutes >= 3 && comp.minutes <= 20))) return json({ error: "Vídeo longo: dia, horário ou minutos inválidos" }, 400);
   const handle = String(body.handle || "").trim().slice(0, 40);
   if (handle && !/^@?[\w.]+$/.test(handle)) return json({ error: "@ inválido" }, 400);
+  const channel = String(body.whatsapp_channel || "").trim();
+  if (channel && !/^https:\/\/(www\.)?whatsapp\.com\/channel\/[\w-]+\/?$/.test(channel)) {
+    return json({ error: "Link do canal inválido (copie em Canal → Compartilhar → Copiar link)" }, 400);
+  }
   if (body.model && !MODEL.test(body.model)) return json({ error: "Modelo inválido" }, 400);
 
   try {
@@ -32,6 +36,7 @@ export async function onRequestPut({ request, env }) {
       (s) => {
         s.brand = { ...(s.brand || {}), name: String(body.name || s.brand?.name || "").slice(0, 40) };
         s.brand.handle = handle ? (handle.startsWith("@") ? handle : `@${handle}`) : "";
+        s.brand.whatsapp_channel = channel;
         s.schedule = { slots: slots.map((x) => ({ time: x.time, type: x.type })) };
         s.approval = { ...(s.approval || {}), auto_approve: Boolean(body.auto_approve) };
         if (body.publishing && typeof body.publishing === "object") {
