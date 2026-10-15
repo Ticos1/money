@@ -1041,6 +1041,125 @@ class PublicSiteTests(unittest.TestCase):
             self.assertIn("Disallow: /", (out / "robots.txt").read_text())
 
 
+class SearchKeywordTests(unittest.TestCase):
+    """Tema do banco vira palavra-chave de busca: 1ª linha da legenda, título do YouTube e hashtags."""
+
+    def _verse(self, theme):
+        raw = next(i for i in validate.load_bank("verse") if i.get("theme") == theme)
+        return validate.validate("verse", dict(raw))
+
+    def test_theme_goes_to_first_line_title_and_hashtags(self):
+        item = self._verse("ansiedade")
+        caps, source = captions.build("verse", item, {**SETTINGS, "groq": {"enabled": False}},
+                                      FakeGroq([]), random.Random(1), [])
+        first = f"Versículo para ansiedade: {item['ref_label']}"
+        for net in ("instagram", "facebook"):
+            self.assertTrue(caps[net].startswith(first + "\n"), caps[net][:80])
+        self.assertTrue(caps["tiktok"].startswith("Versículo para ansiedade\n"))
+        self.assertTrue(caps["youtube"]["description"].startswith(first))
+        self.assertTrue(caps["youtube"]["title"].startswith("Versículo para ansiedade:"))
+        self.assertEqual(caps["youtube"]["tags"][0], "versículo para ansiedade")
+        self.assertIn("#versiculoparaansiedade #ansiedade", caps["instagram"])
+        self.assertNotIn("Versículo para", caps["whatsapp"])  # canal do WhatsApp não tem busca
+        # o teste A/B continua achando o gancho logo depois da linha de busca
+        self.assertIn(captions.hook_label(caps, source), captions.VERSE_HOOKS)
+
+    def test_unknown_theme_and_quiz_have_no_keyword_line(self):
+        from app import keywords
+        item = {**self._verse("ansiedade"), "theme": "tema inventado"}
+        self.assertEqual(keywords.first_line("verse", item), "")
+        self.assertEqual(keywords.first_line("quiz", {"theme": "ansiedade"}), "")
+
+    def test_fill_keyword_never_reveals_the_hidden_word(self):
+        from app import keywords
+        item = {**self._verse("paz"), "answer_word": "paz"}
+        self.assertEqual(keywords.search_phrase("fill", item), "")
+        self.assertEqual(keywords.hashtags("fill", item), [])
+        self.assertEqual(keywords.search_phrase("fill", {**item, "answer_word": "coração"}), "Versículo de paz")
+
+
+class RepostTests(unittest.TestCase):
+    """Domingo: o post com mais engajamento da semana volta em outro formato."""
+    SUNDAY = date(2026, 10, 11)
+
+    def _setup(self, tmp):
+        raw = validate.load_bank("quiz")[0]
+        quiz = {"id": "2026-10-08-2-quiz", "date": "2026-10-08", "slot": 2, "type": "quiz", "bank_id": raw["id"],
+                "content": {k: raw[k] for k in ("question", "options", "answer", "ref", "evidence", "difficulty")}}
+        verse_raw = validate.load_bank("verse")[0]
+        verse = {"id": "2026-10-09-1-verse", "date": "2026-10-09", "slot": 1, "type": "verse",
+                 "bank_id": verse_raw["id"], "content": dict(verse_raw)}
+        state.save_history([quiz, verse])
+        state.save_queue([])
+        metrics = {"posts": {
+            quiz["id"]: {"type": "quiz", "date": quiz["date"], "instagram": {"likes": 5, "comments": 3}},
+            verse["id"]: {"type": "verse", "date": verse["date"], "instagram": {"likes": 2}},
+            "2026-10-03-2-quiz": {"type": "quiz", "date": "2026-10-03", "instagram": {"likes": 99}},  # semana passada
+            "2026-10-10-11-quiz": {"type": "quiz", "date": "2026-10-10", "repost_of": "x",
+                                   "instagram": {"likes": 99}},  # repost não vira repost
+        }}
+        (Path(tmp) / "metrics.json").write_text(json.dumps(metrics), encoding="utf-8")
+        return quiz, verse
+
+    def test_picks_best_of_week_in_new_format_and_never_twice(self):
+        from app import config, repost
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "STATE_DIR", Path(tmp)):
+            quiz, verse = self._setup(tmp)
+            original, kind, item = repost.pick(self.SUNDAY, {}, {}, random.Random(1), [])
+            self.assertEqual((original["id"], kind), (quiz["id"], "truefalse"))
+            self.assertEqual(item["question"], quiz["content"]["question"])
+            self.assertIn(item["shown"], quiz["content"]["options"])
+            # já reaproveitado: vai para o segundo melhor (versículo → Complete o versículo)
+            original, kind, item = repost.pick(self.SUNDAY, {}, {"repost": {quiz["id"]: "2026-10-04"}},
+                                               random.Random(1), [])
+            self.assertEqual((original["id"], kind), (verse["id"], "fill"))
+            self.assertIn("_____", item["question"])
+            self.assertIsNone(repost.pick(self.SUNDAY, {}, {"repost": {quiz["id"]: "x", verse["id"]: "x"}},
+                                          random.Random(1), []))
+
+    def test_conversions_back_from_derived_formats(self):
+        from app import derived, repost
+        quiz = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        tf = derived.make_truefalse(quiz, random.Random(1))
+        kind, item = repost.convert({"type": "truefalse", "bank_id": quiz["id"], "content": tf}, random.Random(1))
+        self.assertEqual((kind, item["question"], len(item["options"])), ("quiz", quiz["question"], 4))
+        verse = validate.load_bank("verse")[0]
+        kind, item = repost.convert({"type": "fill", "bank_id": verse["id"], "content": {}}, random.Random(1))
+        self.assertEqual((kind, item["id"]), ("verse", verse["id"]))
+        self.assertIsNone(repost.convert({"type": "curiosity", "content": {}}, random.Random(1)))
+
+    def test_generate_adds_repost_only_on_sunday(self):
+        from app import config, generate
+        settings = {**SETTINGS, "groq": {"enabled": False}, "schedule": {"slots": [{"time": "07:00", "type": "verse"}]},
+                    "repost": {"enabled": True, "weekday": 6, "time": "19:15"}}
+        fake_media = {"base": "media/x/", "version": 1, "duration": 20, "images": []}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(generate, "_render", return_value=fake_media):
+            quiz, _ = self._setup(tmp)
+            groq = GroqClient(None, settings, {}, self.SUNDAY)
+            now = generate.datetime(2026, 10, 11, 6, 0, tzinfo=generate.ZoneInfo("America/Sao_Paulo"))
+            args = (settings, TODAY, {}, groq, Path(tmp), {}, set(), False, {"used": {}}, [], 3, now)
+            self.assertIsNone(generate._repost_post(*args))  # sexta-feira
+            patch = {"used": {}}
+            post = generate._repost_post(settings, self.SUNDAY, {}, groq, Path(tmp), {}, set(), False, patch,
+                                         [], 3, now)
+            self.assertEqual((post["id"], post["type"], post["repost_of"]),
+                             ("2026-10-11-3-truefalse", "truefalse", quiz["id"]))
+            self.assertEqual(post["time"], "19:15")
+            self.assertEqual(patch["used"]["repost"], {quiz["id"]: "2026-10-11"})
+            # já na fila: não gera de novo
+            self.assertIsNone(generate._repost_post(settings, self.SUNDAY, {}, groq, Path(tmp), {post["id"]: post},
+                                                    {post["id"]}, False, {"used": {}}, [], 3, now))
+
+    def test_reposts_stay_out_of_format_analysis(self):
+        from app import report
+        metrics = {"posts": {"a": {"type": "quiz", "date": "2026-10-08"},
+                             "b": {"type": "quiz", "date": "2026-10-08", "repost_of": "a"}}}
+        self.assertEqual(len(report._window(metrics, TODAY, 7)), 1)
+
+
 def html_escape(text):
     import html
     return html.escape(text)

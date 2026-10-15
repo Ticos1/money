@@ -13,6 +13,8 @@ from __future__ import annotations
 
 import random
 
+from . import keywords
+
 MAX_VISIBLE = 70   # o que aparece sem corte no celular
 MAX_TITLE = 100    # limite do YouTube
 SHORTS_TAG = " #shorts"
@@ -47,6 +49,7 @@ def short_title(kind: str, item: dict, rng: random.Random | None = None) -> str:
     """Título do Short (já com #shorts no fim)."""
     rng = rng or random.Random(0)
     q = (item.get("question") or "").strip()
+    phrase = keywords.search_phrase(kind, item)  # "Versículo para ansiedade" (tema do banco)
     level = DIFFICULTY.get(item.get("difficulty", ""), "")
     if kind == "quiz":
         options = [f"Quiz Bíblico: {q}", f"{q} 🤔 Quiz Bíblico", q]
@@ -61,10 +64,12 @@ def short_title(kind: str, item: dict, rng: random.Random | None = None) -> str:
         title = _first_fit(options) if _fits(options[0]) else "Verdadeiro ou falso? Só 1% acerta essa da Bíblia"
     elif kind == "fill":
         ref = item.get("ref_label", "")
-        title = _first_fit([f"Complete o versículo: {ref} 📖 Você sabe de cor?",
+        themed = [f"Complete o {phrase[0].lower()}{phrase[1:]}: {ref} 📖"] if phrase else []
+        title = _first_fit(themed + [f"Complete o versículo: {ref} 📖 Você sabe de cor?",
                             f"Complete o versículo: {ref} 📖", "Complete o versículo! 📖 Você sabe de cor?"])
     elif kind == "verse":
-        title = _first_fit([f"{item.get('on_screen', '')} | {item.get('ref_label', '')}",
+        themed = [f"{phrase}: {item.get('ref_label', '')} 🙏"] if phrase else []
+        title = _first_fit(themed + [f"{item.get('on_screen', '')} | {item.get('ref_label', '')}",
                             f"Versículo do dia: {item.get('ref_label', '')}"])
     elif kind == "curiosity":
         title = _first_fit([f"Você sabia? {item.get('title', '')}", "Curiosidade bíblica que pouca gente sabe"])
@@ -83,7 +88,7 @@ def long_title(total_n: int, minutes: int) -> str:
 
 def tags(kind: str, item: dict | None = None) -> list[str]:
     """Palavras-chave do vídeo (campo "tags" da API; até 500 caracteres no total)."""
-    out = list(dict.fromkeys(KIND_TAGS.get(kind, []) + BASE_TAGS
+    out = list(dict.fromkeys(keywords.youtube_tags(kind, item or {}) + KIND_TAGS.get(kind, []) + BASE_TAGS
                              + [t for t in (item or {}).get("tags", []) if t]))
     book = ((item or {}).get("ref_label") or "").rsplit(" ", 1)[0]
     if book:

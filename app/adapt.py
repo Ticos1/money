@@ -49,7 +49,7 @@ def performance(metrics: dict, today: date, days: int) -> dict[str, dict]:
     out: dict[str, dict] = {}
     for row in (metrics.get("posts") or {}).values():
         t, day, sig = row.get("type"), row.get("date", ""), _signal(row)
-        if not t or t == "compilation" or sig is None or not start <= day < end:
+        if not t or t == "compilation" or row.get("repost_of") or sig is None or not start <= day < end:
             continue
         p = out.setdefault(t, {"posts": 0, "total": 0, "first": day})
         p["posts"] += 1

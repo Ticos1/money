@@ -433,6 +433,7 @@ function postCard(post) {
     h("button", { class: "btn", onclick: () => editForm(post, card) }, "✎ Editar"));
   const long = post.type === "compilation";
   const origin = long ? `${post.content.count} perguntas do banco e dos últimos posts`
+    : post.repost_of ? `♻️ repost do melhor post da semana (${post.repost_of}), em formato novo`
     : post.source === "groq" ? `gerado pela IA (${post.model})` : `banco (${post.bank_id})`;
   card.append(head,
     h("div", { class: "sec" }, alerts, h("p", { style: "margin:0 0 4px;font-weight:600" }, titleOf(post)),

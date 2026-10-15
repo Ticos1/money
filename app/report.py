@@ -67,9 +67,11 @@ def _avg(rows: list[dict], score=engagement) -> float:
 
 
 def _window(metrics: dict, today: date, days: int) -> list[dict]:
+    """Posts do período para comparar formatos, ganchos e horários. Fica de fora o vídeo longo e o
+    repost de domingo (app/repost.py): é o melhor post da semana de novo e inflaria o formato dele."""
     limit = (today - timedelta(days=days)).isoformat()
     return [v for v in (metrics.get("posts") or {}).values()
-            if v.get("date", "") >= limit and v.get("type") not in (None, "compilation")]
+            if v.get("date", "") >= limit and v.get("type") not in (None, "compilation") and not v.get("repost_of")]
 
 
 def hook_analysis(metrics: dict, today: date, days: int = 28) -> dict[str, list[dict]]:
@@ -252,8 +254,7 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
 def analyze(metrics: dict, today: date, days: int) -> dict:
     """Engajamento por formato no período e o veredito de cada um (cortar/manter/concentrar)."""
     limit = (today - timedelta(days=days)).isoformat()
-    rows = [v for v in (metrics.get("posts") or {}).values()
-            if v.get("date", "") >= limit and v.get("type") not in (None, "compilation")]
+    rows = _window(metrics, today, days)
     overall = _avg(rows, social_engagement)
     total = sum(social_engagement(r) for r in rows)
     enough = total >= MIN_TOTAL_ENGAGEMENT and overall > 0

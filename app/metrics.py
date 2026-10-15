@@ -137,6 +137,7 @@ def collect(today: date) -> dict:
         links = p["publish_links"]
         row = {"type": p.get("type"), "date": p.get("date"), "time": p.get("time"), "title": _title(p),
                "hook": captions.hook_of(p),
+               **({"repost_of": p["repost_of"]} if p.get("repost_of") else {}),
                "links": {k: v for k, v in links.items() if str(v).startswith("http")}}
         if links.get("instagram"):
             row["instagram"] = ig.get(links["instagram"].rstrip("/"))

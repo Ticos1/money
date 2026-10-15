@@ -89,6 +89,12 @@
   "time": "12:00",
   "minutes": 10
  },
+ "repost": {
+  "enabled": true,
+  "weekday": 6,
+  "time": "19:15",
+  "days": 7
+ },
  "adapt": {
   "enabled": true,
   "zero_days": 14,

@@ -10,7 +10,7 @@ import os
 import random
 import re
 
-from . import bible, config, youtube_seo
+from . import bible, config, keywords, youtube_seo
 from .config import CONTENT_DIR
 from .groq_client import GroqClient, GroqUnavailable
 
@@ -58,7 +58,8 @@ QUIZ_CTAS = [
 def _hashtags(kind: str, item: dict, platform: str, rng: random.Random) -> str:
     cfg = json.loads((CONTENT_DIR / "hashtags.json").read_text(encoding="utf-8"))
     limit = cfg["platform_limits"][platform]
-    own = [t for t in item.get("tags", []) if t]
+    # tema de busca primeiro (#versiculoparaansiedade), depois as tags do próprio conteúdo
+    own = list(dict.fromkeys(keywords.hashtags(kind, item) + [t for t in item.get("tags", []) if t]))
     pool = list(dict.fromkeys(own + cfg[kind] + cfg["base"]))
     head, tail = pool[: len(own) + 2], pool[len(own) + 2:]
     rng.shuffle(tail)
@@ -93,8 +94,10 @@ def hook_label(caps: dict, caption_source: str | None) -> str | None:
     text = (caps or {}).get("instagram") or (caps or {}).get("facebook") or ""
     if not isinstance(text, str):
         return None
-    hooks = VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS
-    return next((h for h in sorted(hooks, key=len, reverse=True) if text.startswith(h)), None)
+    hooks = sorted(VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS, key=len, reverse=True)
+    # a 1ª linha pode ser a palavra-chave de busca ("Versículo para ansiedade: …"); o gancho vem logo depois
+    starts = [text, text.split("\n", 1)[1] if "\n" in text else ""]
+    return next((h for h in hooks if any(t.startswith(h) for t in starts)), None)
 
 
 def hook_of(post: dict) -> str | None:
@@ -187,15 +190,20 @@ def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Rando
     follow = f"Siga {handle} para mais." if handle else ""
     swipe = f"\n\n{CAROUSEL_LINE}" if carousel else ""
     yt_title = youtube_seo.short_title(kind, item, rng)  # curto, palavra-chave na frente, sem a resposta
+    # busca: "Versículo para ansiedade: Filipenses 4:6" na 1ª linha (o WhatsApp não tem busca)
+    key = keywords.first_line(kind, item)
+    top = f"{key}\n" if key else ""
+    phrase = keywords.search_phrase(kind, item)  # legenda curta já traz a referência
+    top_short = f"{phrase}\n" if phrase else ""
     return {
-        "instagram": f"{texts['long']}{swipe}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
-        "facebook": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
-        "tiktok": f"{texts['short']}\n{tag('tiktok')}",
-        "kwai": f"{texts['short']}\n{tag('kwai')}",
+        "instagram": f"{top}{texts['long']}{swipe}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
+        "facebook": f"{top}{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
+        "tiktok": f"{top_short}{texts['short']}\n{tag('tiktok')}",
+        "kwai": f"{top_short}{texts['short']}\n{tag('kwai')}",
         "whatsapp": whatsapp_caption(kind, texts),
         "youtube": {
             "title": yt_title,
-            "description": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",
+            "description": f"{top}{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",
             "tags": youtube_seo.tags(kind, item),
         },
     }
