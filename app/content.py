@@ -129,6 +129,22 @@ def _groq_curiosity(groq: GroqClient, avoid_refs: list[str]) -> dict:
 GROQ_GENERATORS = {"verse": _groq_verse, "quiz": _groq_quiz, "curiosity": _groq_curiosity}
 
 
+def bank_status(kind: str, today: date, used: dict,
+                log: list[str] | None = None) -> tuple[list[dict], list[dict]]:
+    """(banco válido, itens ainda não usados): a mesma regra vale para pick e para a saturação."""
+    used_ids = used.get(kind, {})
+    recent_refs = _recent(used.get("refs", {}), today, REUSE_REF_DAYS)
+    bank = []
+    for item in validate.load_bank(kind):
+        try:
+            bank.append(validate.validate(kind, item))
+        except validate.ContentError as exc:
+            if log is not None:
+                log.append(f"banco {item.get('id')} ignorado: {exc}")
+    fresh = [i for i in bank if i["id"] not in used_ids and i["ref_key"] not in recent_refs]
+    return bank, fresh
+
+
 def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
          rng: random.Random, log: list[str]) -> tuple[dict, dict]:
     """Devolve (conteúdo validado, atualizações para used.json)."""
@@ -136,14 +152,7 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
     recent_refs = _recent(used.get("refs", {}), today, REUSE_REF_DAYS)
     used_fps = set(used.get("fingerprints", {}))
     stamp = today.isoformat()
-
-    bank = []
-    for item in validate.load_bank(kind):
-        try:
-            bank.append(validate.validate(kind, item))
-        except validate.ContentError as exc:
-            log.append(f"banco {item.get('id')} ignorado: {exc}")
-    fresh = [i for i in bank if i["id"] not in used_ids and i["ref_key"] not in recent_refs]
+    bank, fresh = bank_status(kind, today, used, log)
 
     ratio = float(settings.get("groq", {}).get("new_content_ratio", 0.3))
     want_new = groq.available() and (not fresh or rng.random() < ratio)

@@ -690,5 +690,66 @@ class StateTests(unittest.TestCase):
             self.assertNotIn("media", hist[0])
 
 
+class SaturationTests(unittest.TestCase):
+    SETTINGS = {"schedule": {"slots": [{"time": "08:00", "type": "quiz"}, {"time": "10:00", "type": "quiz"},
+                                       {"time": "12:00", "type": "truefalse"},
+                                       {"time": "14:00", "type": "verse"}]}}
+
+    def test_counts_used_items_and_shared_consumption(self):
+        from app import saturation
+        empty = {k["kind"]: k for k in saturation.status(TODAY, {}, self.SETTINGS)}
+        quiz_ids = [q["id"] for q in validate.load_bank("quiz")[:10]]
+        used = {"quiz": {i: "2026-10-01" for i in quiz_ids}}
+        rows = {k["kind"]: k for k in saturation.status(TODAY, used, self.SETTINGS)}
+        self.assertEqual(rows["quiz"]["fresh"], empty["quiz"]["fresh"] - 10)
+        # quiz e Verdadeiro ou falso gastam o mesmo banco: 3 por dia
+        self.assertEqual(rows["quiz"]["days_left"], rows["quiz"]["fresh"] // 3)
+        self.assertEqual(rows["verse"]["days_left"], rows["verse"]["fresh"])
+        self.assertIsNone(rows["curiosity"]["days_left"])  # fora da agenda
+        self.assertEqual(saturation.warnings(rows.values()), [])
+
+    def test_warns_when_running_out(self):
+        from app import saturation
+        rows = [{"kind": "quiz", "bank": 100, "fresh": 20, "saturation": 80, "per_day": 4,
+                 "days_left": 5, "repeats_after": None}]
+        self.assertEqual(len(saturation.warnings(rows)), 1)
+        self.assertIn("⚠️ 5", "\n".join(saturation.markdown(rows)))
+
+
+class FormatAnalysisTests(unittest.TestCase):
+    SLOTS = [{"time": "06:30", "type": "verse"}, {"time": "08:00", "type": "quiz"},
+             {"time": "13:30", "type": "curiosity"}, {"time": "20:00", "type": "quiz"}]
+
+    @staticmethod
+    def _metrics(per_type: dict[str, list[int]]) -> dict:
+        posts = {}
+        for t, likes in per_type.items():
+            for i, n in enumerate(likes):
+                posts[f"{t}-{i}"] = {"type": t, "date": "2026-10-05", "instagram": {"likes": n},
+                                     "youtube": {"views": 1000, "likes": 50}}
+        return {"posts": posts}
+
+    def test_cuts_weak_format_and_keeps_verse(self):
+        from app import report
+        m = self._metrics({"quiz": [5] * 8, "curiosity": [0] * 8, "verse": [0] * 8})
+        result = report.analyze(m, TODAY, 28)
+        verdicts = {f["type"]: f["verdict"] for f in result["formats"]}
+        self.assertEqual(verdicts, {"quiz": "concentrar", "curiosity": "cortar", "verse": "cortar"})
+        slots = report.proposed_slots(self.SLOTS, result)
+        # o YouTube não entra na conta (senão favoreceria quem vai para lá)
+        self.assertEqual(result["formats"][0]["avg"], 5)
+        self.assertEqual([s["type"] for s in slots], ["verse", "quiz", "quiz"])
+        self.assertIn("de 4 para 3 posts", report.analysis_text(result, self.SLOTS))
+
+    def test_little_data_changes_nothing(self):
+        from app import report
+        m = self._metrics({"quiz": [1] * 8, "curiosity": [0] * 8})
+        result = report.analyze(m, TODAY, 28)
+        self.assertFalse(result["enough"])
+        self.assertTrue(all(f["verdict"] == "insuficiente" for f in result["formats"]))
+        self.assertEqual(report.proposed_slots(self.SLOTS, result), self.SLOTS)
+        self.assertIn("Ainda não dá para decidir", report.analysis_text(result, self.SLOTS))
+
+
 if __name__ == "__main__":
     unittest.main()

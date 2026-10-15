@@ -263,10 +263,23 @@ no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos 
 dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
 Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
 
-A agenda padrão tem **10 posts por dia: 1 versículo (imagem) e 9 vídeos**:
-06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz · 13:30 Você sabia? (vídeo) ·
+A agenda padrão tem **9 posts por dia: 1 versículo (imagem) e 8 vídeos**:
+06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz ·
 15:00 Verdadeiro ou falso · 17:00 Quiz · 18:30 Complete o versículo · 20:00 Quiz · 21:30 Verdadeiro ou falso
-(até 12 por dia no painel).
+(até 12 por dia no painel). O "Você sabia?" saiu da agenda em 15/10/2026: em 13 posts teve zero
+interação, enquanto o quiz rendeu 1,8× a média. Ele continua disponível para voltar pelo painel.
+
+### Cortar o que não rende: `python -m app.report --analysis`
+Compara os formatos nos últimos 28 dias (`--days` muda o período) usando curtidas, comentários,
+salvamentos e compartilhamentos do **Instagram e do Facebook**, onde todos os formatos saem (o
+YouTube só recebe alguns tipos e distorceria a comparação; as views dele aparecem à parte).
+- rende menos da **metade** da média → **cortar**; 30% acima da média → **concentrar**;
+- com menos de 30 interações no período, ou menos de 6 posts do formato, não decide nada
+  (seria acaso);
+- propõe a agenda atual **sem** os horários dos formatos a cortar (menos posts, só os que rendem).
+  O Versículo do dia nunca sai por inteiro. `--apply` grava a proposta em `config/settings.json`.
+
+Rode a cada 2 ou 4 semanas, principalmente depois de um formato novo juntar alguns posts.
 
 Todos os vídeos vão para Reels, Facebook e Stories. Para o **YouTube** vão só os tipos em
 `publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).

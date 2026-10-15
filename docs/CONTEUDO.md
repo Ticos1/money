@@ -52,6 +52,23 @@ Edite os JSON seguindo o formato dos itens existentes (IDs únicos), rode
 `python -m app.validate` e faça o commit. Também posso gerar mais lotes aqui no
 chat, já validados.
 
+### Saturação: quando o conteúdo vai começar a repetir
+`python -m app.saturation` cruza o banco com o `state/used.json` (mesmas regras da
+geração) e divide o que sobra pelo consumo diário da agenda:
+
+| Coluna | O que é |
+|---|---|
+| Na agenda/dia | quantos posts desse formato saem por dia |
+| Inéditos | itens que ainda não saíram nesse formato |
+| Saturação | % do banco já usado |
+| Dias até repetir | inéditos ÷ consumo diário (sem contar a IA) |
+
+O quiz e o "Verdadeiro ou falso" gastam o **mesmo** banco de perguntas, então os dois
+somam no consumo. O "Complete o versículo" só conta versículos curtos (até 220
+caracteres) com uma palavra-chave que dá para esconder. A mesma tabela sai no resumo
+semanal, com aviso quando algum formato tiver menos de 30 dias de inéditos: aí é hora
+de ampliar o banco (ou tirar esse formato de alguns horários).
+
 ## A IA (Groq), como complemento
 - **Conteúdo novo:** em cerca de 30% dos dias (`groq.new_content_ratio`), ou
   sempre que o banco acabar, a Groq propõe um versículo + reflexão ou uma

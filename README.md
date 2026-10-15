@@ -16,7 +16,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 ## O que o sistema faz todo dia
 
-1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **10 posts** — 1 Versículo do dia e 9 vídeos: 4 quizzes, 2 "Complete o versículo", 2 "Verdadeiro ou falso" e 1 "Você sabia?"; até 12, configurável no painel).
+1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **9 posts** — 1 Versículo do dia e 8 vídeos: 4 quizzes, 2 "Complete o versículo" e 2 "Verdadeiro ou falso"; até 12, configurável no painel). O "Você sabia?" saiu da agenda porque não rendeu (veja `python -m app.report --analysis`).
 2. Escolhe o conteúdo:
    - **banco próprio** (304 versículos com reflexão, 671 perguntas de quiz e 267 curiosidades, ou seja, vários meses);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
@@ -143,6 +143,8 @@ docs/                 guias
 ```bash
 pip install -r requirements.txt          # precisa também do ffmpeg instalado
 python -m app.validate                   # confere o banco inteiro contra a Bíblia
+python -m app.saturation                 # quantos dias de conteúdo inédito restam por formato
+python -m app.report --analysis          # quais formatos rendem, quais cortar (--apply grava a agenda)
 python -m unittest -v                    # testes
 python -m app.generate run --no-groq     # gera os posts de hoje em ./media
 python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)
