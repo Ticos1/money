@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-15-4-quiz",
+   "date": "2026-10-15",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-15T08:25:22+00:00",
+   "source": "bank",
+   "bank_id": "q124",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 34:1",
+    "ref_label": "Deuteronômio 34:1",
+    "question": "De qual monte Moisés viu a terra prometida antes de morrer?",
+    "options": [
+     "Monte Sinai",
+     "Monte Carmelo",
+     "Monte Moriá",
+     "Monte Nebo"
+    ],
+    "answer": 3,
+    "evidence": "ao monte Nebo",
+    "passage": "Moisés subiu das campinas de Moabe ao monte Nebo, ao topo de Pisga, que fica em frente a Jericó. O SENHOR lhe mostrou toda a terra de Gileade até Dã,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #conhecimentobiblico #palavradedeus #biblia #deus #cristao #jesus #gospel #teste",
+    "facebook": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #evangelico",
+    "tiktok": "Qual monte Moisés viu antes de morrer? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #jesus #fe",
+    "kwai": "Qual monte Moisés viu antes de morrer? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #biblia #teste #conhecimentobiblico",
+    "youtube": {
+     "title": "Quiz Bíblico: O Monte que Moisés Viu antes de Falecer #shorts",
+     "description": "Vamos testar seu conhecimento bíblico! 🤔 De qual monte Moisés contemplou a terra prometida nos seus últimos dias? Escolha entre as opções abaixo e compartilhe sua resposta nos comentários. Participe e descubra quantos acertam essa curiosidade da história sagrada. Boa sorte!\n\nDe qual monte Moisés viu a terra prometida antes de morrer?\nA) Monte Sinai\nB) Monte Carmelo\nC) Monte Moriá\nD) Monte Nebo\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-15T15:01:05+00:00",
+    "instagram": "2026-10-15T15:01:39+00:00",
+    "facebook": "2026-10-15T15:01:42+00:00",
+    "stories": "2026-10-15T15:02:30+00:00"
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em Êxodo 20:13: 'Não matarás'",
+    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/AVZBbG3q0Jw",
+    "instagram": "https://www.instagram.com/reel/DehO1xxEW3N/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1617248473177093",
+    "stories": "story 18002100473808439"
+   }
+  },
+  {
    "id": "2026-10-15-3-fill",
    "date": "2026-10-15",
    "slot": 3,
