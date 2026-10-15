@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-15T13:03:35+00:00",
+ "updated_at": "2026-10-15T13:20:54+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-3-fill": {
+   "type": "fill",
+   "date": "2026-10-15",
+   "time": "10:00",
+   "title": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/gXuwZa53AO4",
+    "instagram": "https://www.instagram.com/reel/DehBK5YkjRT/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4447900862093673"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-15-2-quiz": {
    "type": "quiz",
    "date": "2026-10-15",
@@ -101,7 +130,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 77,
+    "views": 76,
     "likes": 2,
     "comments": 0
    }
