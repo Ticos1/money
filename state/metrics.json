@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-15T18:03:45+00:00",
+ "updated_at": "2026-10-15T18:13:28+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-15",
+   "time": "15:00",
+   "title": "Junto com o manto e a túnica, o que Jônatas deu a Davi?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/Dehjf5bjvsY/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/925804037055659"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-15-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-15",
@@ -78,7 +101,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -107,7 +130,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -257,7 +280,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
     "views": 9,
