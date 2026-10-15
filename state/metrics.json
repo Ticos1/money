@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:19:55+00:00",
+ "updated_at": "2026-10-15T09:31:57+00:00",
  "notes": [],
  "posts": {
   "2026-10-14-10-truefalse": {
@@ -14,10 +14,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
@@ -185,87 +185,6 @@
     "views": 1,
     "likes": 0,
     "comments": 0
-   }
-  },
-  "2026-10-14-3-fill": {
-   "type": "fill",
-   "date": "2026-10-14",
-   "time": "10:00",
-   "title": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.",
-   "links": {
-    "youtube": "https://youtube.com/shorts/VrCSeeaTC-s",
-    "instagram": "https://www.instagram.com/reel/DeecVQyin7r/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1678829830622935"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 9,
-    "saved": 0,
-    "shares": 0,
-    "views": 11,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": {
-    "views": 9,
-    "likes": 2,
-    "comments": 0
-   }
-  },
-  "2026-10-14-2-quiz": {
-   "type": "quiz",
-   "date": "2026-10-14",
-   "time": "08:00",
-   "title": "Qual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?",
-   "links": {
-    "youtube": "https://youtube.com/shorts/dbBg841UQVw",
-    "instagram": "https://www.instagram.com/reel/DeeOmu0jQtU/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1124311613279126"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": {
-    "views": 11,
-    "likes": 3,
-    "comments": 0
-   }
-  },
-  "2026-10-14-1-verse": {
-   "type": "verse",
-   "date": "2026-10-14",
-   "time": "06:30",
-   "title": "2 Coríntios 4:18",
-   "links": {
-    "instagram": "https://www.instagram.com/p/DeeEWwxmeAY/",
-    "facebook": "https://www.facebook.com/1405324152662027_122097046419513774"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
    }
   },
   "2026-10-13-10-truefalse": {

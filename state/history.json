@@ -1,6 +1,73 @@
 {
  "posts": [
   {
+   "id": "2026-10-15-1-verse",
+   "date": "2026-10-15",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-15T08:21:30+00:00",
+   "source": "bank",
+   "bank_id": "v288",
+   "model": null,
+   "content": {
+    "ref": "Colossenses 2:7",
+    "ref_label": "Colossenses 2:7",
+    "verse_text": "Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.",
+    "on_screen": "Enraizados em Cristo, transbordando de gratidão.",
+    "reflection": "Raízes firmes em Jesus produzem um coração grato.",
+    "theme": "gratidão",
+    "mood": "alegria",
+    "tags": [
+     "gratidao",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo #oracao #jesus #biblia #palavradedeus #gospel #reflexao #deus #devocional",
+    "facebook": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo",
+    "tiktok": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #cristao",
+    "kwai": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #evangelico",
+    "youtube": {
+     "title": "Como raízes firmes em Jesus geram gratidão #shorts",
+     "description": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #fe #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-15T09:30:58+00:00",
+    "facebook": "2026-10-15T09:31:02+00:00",
+    "stories": "2026-10-15T09:31:18+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DegpC3jgSeX/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097884121513774",
+    "stories": "story 17911157115492128"
+   }
+  },
+  {
    "id": "2026-10-14-10-truefalse",
    "date": "2026-10-14",
    "slot": 10,
