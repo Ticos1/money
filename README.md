@@ -18,7 +18,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **9 posts** — 1 Versículo do dia e 8 vídeos: 4 quizzes, 2 "Complete o versículo" e 2 "Verdadeiro ou falso"; até 12, configurável no painel). O "Você sabia?" saiu da agenda porque não rendeu (veja `python -m app.report --analysis`).
 2. Escolhe o conteúdo:
-   - **banco próprio** (304 versículos com reflexão, 671 perguntas de quiz e 267 curiosidades, ou seja, vários meses);
+   - **banco próprio** (457 versículos com reflexão, 948 perguntas de quiz e 267 curiosidades, ou seja, vários meses);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
 3. **Confere toda referência bíblica** contra a Bíblia salva no projeto. Se o livro, capítulo ou versículo não existir, ou se a resposta do quiz não estiver no texto, **descarta**.
 4. Monta o **vídeo** com texto animado em **duas versões**:
