@@ -18,7 +18,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **9 posts** — 1 Versículo do dia e 8 vídeos: 4 quizzes, 2 "Complete o versículo" e 2 "Verdadeiro ou falso"; até 12, configurável no painel). O "Você sabia?" saiu da agenda porque não rendeu (veja `python -m app.report --analysis`).
 2. Escolhe o conteúdo:
-   - **banco próprio** (457 versículos com reflexão, 948 perguntas de quiz e 267 curiosidades, ou seja, vários meses);
+   - **banco próprio** (607 versículos com reflexão, 1.248 perguntas de quiz e 267 curiosidades: o versículo do dia rende mais de um ano; os 6 vídeos de pergunta por dia, cerca de 6 meses só com o banco e mais com o conteúdo novo da IA; veja `python -m app.saturation`);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
 3. **Confere toda referência bíblica** contra a Bíblia salva no projeto. Se o livro, capítulo ou versículo não existir, ou se a resposta do quiz não estiver no texto, **descarta**.
 4. Monta o **vídeo** com texto animado em **duas versões**:
@@ -37,6 +37,10 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 - **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar.
 - **Grade adaptativa** (`app/adapt.py`): se um formato passa 2 semanas com alcance zero, 1 horário dele vai para o formato que mais alcança. O total de posts não muda, o Versículo continua no primeiro horário e há no máximo 1 ajuste a cada 14 dias. Desligue com `"adapt": {"enabled": false}`.
 - **Carrossel de versículo no Instagram**: o Versículo do dia sai como carrossel 4:5 de 4 slides (versículo → reflexão → aplicação prática → chamada para salvar, enviar e seguir). A aplicação é escrita pela IA (validada) ou vem de frases prontas, e dá para editar no painel. Desligue com `publishing.verse_carousel: false`.
+
+**Capas e títulos para o YouTube**: cada Short ganha uma capa 9:16 com texto grande ("SÓ 1% ACERTA" + a pergunta, sem a resposta) e um título curto com a palavra-chave na frente ("Quiz Bíblico: …"), além de tags. O vídeo longo ganha miniatura 16:9 no mesmo estilo → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#capas-e-títulos-do-youtube).
+
+**Mini-site público** em `/hoje/`: versículo do dia + quiz de hoje (com placar), uma página por dia para o Google e o link para pôr na bio → [docs/SITE.md](docs/SITE.md).
 
 **Toda semana** (sábado, 12:00) também monta um **vídeo longo de ~10 min com ~40 perguntas de quiz** para o YouTube → [docs/PUBLICACAO.md](docs/PUBLICACAO.md#vídeo-longo-de-quiz-no-youtube-10-minutos).
 
@@ -132,9 +136,11 @@ app/                  código Python
   content.py          escolha do conteúdo (banco + Groq, sem repetir)
   captions.py         legendas e hashtags por rede
   music.py            biblioteca de músicas e sugestões gospel
-  render/             artes e vídeos (verse.py, quiz.py, design.py, video.py)
+  render/             artes e vídeos (verse.py, quiz.py, design.py, video.py, cover.py = capas do YouTube)
   generate.py         comando principal (gerar / re-renderizar / aplicar / vídeo longo)
   compilation.py      vídeo longo de quiz (16:9, ~10 min) para o YouTube
+  youtube_seo.py      títulos e tags do YouTube
+  site.py             mini-site público (/hoje/ e /dia/AAAA-MM-DD/)
   publishers/         (fases 2–4) postagem automática
 content/bank/         banco: verses.json, quizzes.json, curiosities.json
 content/              hashtags.json, gospel_suggestions.json
@@ -158,6 +164,7 @@ python -m app.health                     # checagem de saúde: publicação para
 python -m unittest -v                    # testes
 python -m app.generate run --no-groq     # gera os posts de hoje em ./media
 python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)
+python -m app.site --out /tmp/site       # gera o mini-site público (versículo + quiz de hoje)
 python scripts/make_music.py             # recria as faixas instrumentais
 ```
 
@@ -165,5 +172,4 @@ python scripts/make_music.py             # recria as faixas instrumentais
 
 - Fase 2: YouTube Shorts automático · Fase 3: Instagram/Facebook · Fase 4: TikTok → [docs/FASES.md](docs/FASES.md)
 - Tipo "Você sabia?" (o banco já está pronto e validado) e reflexões em vídeo
-- Ampliar o banco para 365 dias
 - Futuro: Telegram/WhatsApp, ofertas de afiliados (com aviso "link de afiliado") e divulgação do jogo de quiz (veja `app/types.py`)

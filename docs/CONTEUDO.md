@@ -28,9 +28,9 @@ gerado por `scripts/build_bible.py` a partir do arquivo oficial do eBible.org.
 
 | Arquivo | Itens | Campos principais |
 |---|---|---|
-| `verses.json` | 95 | `ref`, `on_screen` (frase do vídeo, até 110 caracteres), `reflection` (legenda), `mood`, `tags` |
-| `quizzes.json` | 95 | `question`, `options` (4), `answer` (0 a 3), `ref`, `evidence` (trecho literal do versículo) |
-| `curiosities.json` | 102 | `title`, `text`, `ref`, `evidence` |
+| `verses.json` | 607 | `ref`, `on_screen` (frase do vídeo, até 110 caracteres), `reflection` (legenda), `mood`, `tags` |
+| `quizzes.json` | 1.248 | `question`, `options` (4), `answer` (0 a 3), `ref`, `evidence` (trecho literal do versículo) |
+| `curiosities.json` | 267 | `title`, `text`, `ref`, `evidence` |
 
 O sistema **não repete**: `state/used.json` guarda o que já saiu, e o mesmo
 versículo não volta antes de 180 dias. Quando o banco acaba, ele recorre à

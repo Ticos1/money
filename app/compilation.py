@@ -22,8 +22,8 @@ from zoneinfo import ZoneInfo
 
 from PIL import Image
 
-from . import bible, config, music, state, validate
-from .render import design, quiz, video
+from . import bible, config, music, state, validate, youtube_seo
+from .render import cover, design, quiz, video
 
 KIND = "compilation"
 SIZE = (1280, 720)
@@ -207,16 +207,7 @@ def render_outro(seed: int, handle: str, out: Path, work: Path) -> float:
 
 
 def render_thumbnail(total_n: int, minutes: int, seed: int, handle: str, out: Path) -> None:
-    w, h = SIZE
-    pal = design.palette_for("desafio", seed)
-    img = design.background(w, h, pal, seed)
-    img.alpha_composite(design.bokeh(w, h, pal, seed + 1, count=14))
-    design.text_block(img, ["SÓ 1% ACERTA"], design.font("sans_black", 150), 170, w // 2, 140,
-                      fill=pal.accent + (255,))
-    design.text_block(img, [f"{total_n} PERGUNTAS DA BÍBLIA"], design.font("sans_black", 62), 80, w // 2, 340)
-    design.text_block(img, [f"Desafio de {minutes} minutos"], design.font("sans_bold", 44), 60, w // 2, 440)
-    design.watermark(img, handle, h - 50, 32)
-    img.convert("RGB").save(out, quality=90)
+    cover.long_cover(total_n, minutes, seed, handle, out)
 
 
 def _ffprobe_duration(path: Path) -> float:
@@ -270,7 +261,7 @@ def _stamp(seconds: float) -> str:
 
 
 def youtube_captions(total_n: int, minutes: int, chapters: list[tuple[float, str]], handle: str) -> dict:
-    title = f"Quiz Bíblico: {total_n} perguntas | Só 1% acerta todas"
+    title = youtube_seo.long_title(total_n, minutes)
     lines = "\n".join(f"{_stamp(t)} {name}" for t, name in chapters)
     follow = f"Inscreva-se no canal e siga {handle} para mais." if handle else "Inscreva-se no canal para mais."
     desc = (f"Você conhece mesmo a Bíblia? Responda {total_n} perguntas neste desafio de {minutes} minutos!\n"
@@ -279,7 +270,7 @@ def youtube_captions(total_n: int, minutes: int, chapters: list[tuple[float, str
             "Quantas você acertou? Conte nos comentários!\n\n"
             f"{follow}\nTexto bíblico: {bible.TRANSLATION_NAME} (domínio público).\n\n"
             + " ".join(f"#{t}" for t in TAGS))
-    return {"title": title[:100], "description": desc[:4900]}
+    return {"title": title[:100], "description": desc[:4900], "tags": youtube_seo.tags(KIND)}
 
 
 # ---------- montagem completa

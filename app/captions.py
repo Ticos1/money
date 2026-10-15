@@ -9,7 +9,7 @@ import json
 import random
 import re
 
-from . import bible, config
+from . import bible, config, youtube_seo
 from .config import CONTENT_DIR
 from .groq_client import GroqClient, GroqUnavailable
 
@@ -151,17 +151,16 @@ def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Rando
     tag = lambda p: _hashtags(kind, item, p, rng)  # noqa: E731
     follow = f"Siga {handle} para mais." if handle else ""
     swipe = f"\n\n{CAROUSEL_LINE}" if carousel else ""
-    yt_title = texts["youtube_title"]
-    if len(yt_title) > 90:
-        yt_title = yt_title[:87].rsplit(" ", 1)[0] + "…"
+    yt_title = youtube_seo.short_title(kind, item, rng)  # curto, palavra-chave na frente, sem a resposta
     return {
         "instagram": f"{texts['long']}{swipe}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
         "facebook": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
         "tiktok": f"{texts['short']}\n{tag('tiktok')}",
         "kwai": f"{texts['short']}\n{tag('kwai')}",
         "youtube": {
-            "title": f"{yt_title} #shorts"[:100],
+            "title": yt_title,
             "description": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",
+            "tags": youtube_seo.tags(kind, item),
         },
     }
 

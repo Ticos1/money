@@ -938,5 +938,79 @@ class VerseCarouselTests(unittest.TestCase):
         self.assertTrue(log)
 
 
+class YouTubeSeoTests(unittest.TestCase):
+    def test_titles_short_keyword_first_and_no_answer(self):
+        from app import derived, youtube_seo
+        for raw in validate.load_bank("quiz")[:200]:
+            item = validate.validate("quiz", dict(raw))
+            title = youtube_seo.short_title("quiz", item, random.Random(1))
+            self.assertTrue(title.endswith("#shorts"))
+            self.assertLessEqual(len(title), 100)
+            body = title[: -len(" #shorts")]
+            self.assertNotIn(f" {bible.normalize(item['options'][item['answer']])} ",
+                             f" {bible.normalize(body.replace(item['question'], ''))} ")
+        verse = validate.validate("verse", dict(validate.load_bank("verse")[13]))
+        fill = derived.make_fill(verse, random.Random(0))
+        self.assertTrue(youtube_seo.short_title("fill", fill).startswith("Complete o versículo"))
+        self.assertLessEqual(len(youtube_seo.long_title(40, 10)), 70)
+        self.assertLessEqual(sum(len(t) + 1 for t in youtube_seo.tags("quiz", fill)), 500)
+
+    def test_captions_carry_title_and_tags(self):
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        caps, _ = captions.build("quiz", item, {**SETTINGS, "groq": {"enabled": False}},
+                                 GroqClient(None, SETTINGS, {}, TODAY), random.Random(1), [])
+        self.assertTrue(caps["youtube"]["title"].startswith("Quiz Bíblico"))
+        self.assertIn("quiz bíblico", caps["youtube"]["tags"])
+
+    def test_covers_render(self):
+        from PIL import Image
+        from app.render import cover
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[5]))
+        with tempfile.TemporaryDirectory() as tmp:
+            cover.short_cover("quiz", item, 3, "@teste", Path(tmp) / "a.jpg")
+            cover.long_cover(40, 10, 3, "@teste", Path(tmp) / "b.jpg")
+            for name, size in (("a.jpg", (1080, 1920)), ("b.jpg", (1280, 720))):
+                with Image.open(Path(tmp) / name) as img:
+                    self.assertEqual(img.size, size)
+
+
+class PublicSiteTests(unittest.TestCase):
+    def _posts(self):
+        verse = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        quiz = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        other = validate.validate("quiz", dict(validate.load_bank("quiz")[1]))
+        return [
+            {"id": "2026-10-09-1-verse", "date": "2026-10-09", "slot": 1, "type": "verse", "status": "approved",
+             "content": verse, "media": {"base": "media/2026-10-09/2026-10-09-1-verse/",
+                                         "images": ["imagem_quadrada.jpg"]}},
+            {"id": "2026-10-09-2-quiz", "date": "2026-10-09", "slot": 2, "type": "quiz", "status": "approved",
+             "content": quiz},
+            {"id": "2026-10-09-3-quiz", "date": "2026-10-09", "slot": 3, "type": "quiz", "status": "rejected",
+             "content": other},
+            {"id": "2026-10-10-2-quiz", "date": "2026-10-10", "slot": 2, "type": "quiz", "status": "approved",
+             "content": other},
+        ], verse, quiz, other
+
+    def test_build_pages(self):
+        from app import site
+        posts, verse, quiz, other = self._posts()
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp)
+            urls = site.build(out, "https://x.pages.dev/", TODAY, posts, {"name": "Teste", "handle": "@t"})
+            self.assertEqual(urls, ["/hoje/", "/dia/2026-10-09/", "/dia/"])  # dia 10 é futuro
+            page = (out / "hoje" / "index.html").read_text(encoding="utf-8")
+            self.assertIn(verse["ref_label"], page)
+            self.assertIn(html_escape(quiz["question"]), page)
+            self.assertNotIn(html_escape(other["question"]), page)  # rejeitado não entra
+            self.assertIn("https://x.pages.dev/media/2026-10-09/2026-10-09-1-verse/imagem_quadrada.jpg", page)
+            self.assertIn("https://x.pages.dev/dia/2026-10-09/", (out / "sitemap.xml").read_text())
+            self.assertIn("Disallow: /", (out / "robots.txt").read_text())
+
+
+def html_escape(text):
+    import html
+    return html.escape(text)
+
+
 if __name__ == "__main__":
     unittest.main()

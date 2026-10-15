@@ -59,6 +59,7 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       CF_PAGES_PROJECT: ${{ vars.CF_PAGES_PROJECT }}
+      PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL || format('https://{0}.pages.dev', vars.CF_PAGES_PROJECT) }}
     steps:
       - uses: actions/checkout@v5
 
@@ -138,6 +139,7 @@ jobs:
           mkdir -p dist
           cp -r dashboard/public/. dist/
           cp -r media_repo/media dist/media
+          python -m app.site --out dist --base-url "$PUBLIC_BASE_URL"   # mini-site público (/hoje/)
           cd dashboard
           npx --yes wrangler@4.140.0 pages deploy ../dist --project-name "$CF_PAGES_PROJECT" --branch main --commit-dirty=true
 

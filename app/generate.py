@@ -25,6 +25,7 @@ from zoneinfo import ZoneInfo
 
 from . import captions, compilation, config, content, derived, music, state, validate
 from .groq_client import GroqClient
+from .render import cover
 from .render import curiosity as curiosity_render
 from .render import fill as fill_render
 from .render import quiz as quiz_render
@@ -76,6 +77,11 @@ def _render(kind: str, item: dict, post_id: str, day: str, settings: dict, media
         info = RENDERERS[kind].render(item, settings, out_dir, _seed(post_id) + version,
                                       config.MUSIC_DIR / track["file"] if track else None, rng,
                                       Path(work))
+    if info.get("video_music"):
+        # capa do YouTube com texto grande (o "poster" continua sendo um quadro do vídeo)
+        cover.short_cover(kind, item, seed=_seed(post_id) + version,
+                          handle=settings.get("brand", {}).get("handle", ""), out=out_dir / cover.SHORT_FILE)
+        info["thumbnail"] = cover.SHORT_FILE
     return {**info, "base": f"media/{day}/{post_id}/", "version": version}
 
 
