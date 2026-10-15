@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-15T16:33:35+00:00",
+ "updated_at": "2026-10-15T18:03:45+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-15",
+   "time": "13:30",
+   "title": "O fim da serpente de bronze",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DehZHXYjUon/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1408021864266601"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0
+   }
+  },
   "2026-10-15-4-quiz": {
    "type": "quiz",
    "date": "2026-10-15",
@@ -237,7 +260,7 @@
     "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 9,
     "total_interactions": 0
    },
    "facebook": {
