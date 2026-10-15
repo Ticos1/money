@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-15T00:33:21+00:00",
+ "updated_at": "2026-10-15T01:24:39+00:00",
  "notes": [],
  "posts": {
+  "2026-10-14-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-14",
+   "time": "21:30",
+   "title": "Que animal falou com o profeta Balaão?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DefrWFvjP6H/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1443036901109915"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-14-9-quiz": {
    "type": "quiz",
    "date": "2026-10-14",
@@ -26,7 +49,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 17,
     "likes": 0,
     "comments": 0
    }
@@ -101,10 +124,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0
    },
    "facebook": {
@@ -151,7 +174,7 @@
     "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
