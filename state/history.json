@@ -1,6 +1,77 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-6-truefalse",
+   "date": "2026-10-16",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-16T08:27:49+00:00",
+   "source": "bank",
+   "bank_id": "q412",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 21:1",
+    "ref_label": "2 Reis 21:1",
+    "question": "Com quantos anos Manassés começou a reinar?",
+    "shown": "Dezesseis",
+    "is_true": false,
+    "correct": "Doze",
+    "evidence": "Manassés tinha doze anos de idade",
+    "passage": "Manassés tinha doze anos de idade quando começou a reinar, e reinou cinquenta e cinco anos em Jerusalém. O nome de sua mãe era Hefzibá.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #gospel #perguntasbiblicas #palavradedeus #jesus #conhecimentobiblico #deus #evangelico #cristao #biblia",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #biblia",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #gospel #fe #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #jesus #deus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Com quantos anos Manassés começou a reinar? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-16T18:06:47+00:00",
+    "facebook": "2026-10-16T18:06:52+00:00",
+    "stories": "2026-10-16T18:07:25+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DekI0kiESvB/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1626141078994210",
+    "stories": "story 17959957635251664"
+   }
+  },
+  {
    "id": "2026-10-16-5-curiosity",
    "date": "2026-10-16",
    "slot": 5,
