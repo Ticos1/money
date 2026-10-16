@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-16T13:04:10+00:00",
+ "updated_at": "2026-10-16T13:12:33+00:00",
  "notes": [],
  "posts": {
+  "2026-10-16-3-fill": {
+   "type": "fill",
+   "date": "2026-10-16",
+   "time": "10:00",
+   "title": "Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/2xUOh6sg_Ic",
+    "instagram": "https://www.instagram.com/reel/Dejl9bsk-oC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1454804146826559"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-16-2-quiz": {
    "type": "quiz",
    "date": "2026-10-16",
