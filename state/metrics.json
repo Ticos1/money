@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-16T21:33:12+00:00",
+ "updated_at": "2026-10-16T23:03:33+00:00",
  "notes": [],
  "posts": {
+  "2026-10-16-8-fill": {
+   "type": "fill",
+   "date": "2026-10-16",
+   "time": "18:30",
+   "title": "Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+   "links": {
+    "youtube": "https://youtube.com/shorts/A0rOOTK100M",
+    "instagram": "https://www.instagram.com/reel/DekgSt5iTGs/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1804777680649490"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 2,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-16-7-quiz": {
    "type": "quiz",
    "date": "2026-10-16",
@@ -26,7 +55,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -159,8 +188,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 7,
-    "likes": 0,
+    "views": 8,
+    "likes": 1,
     "comments": 0
    }
   },
