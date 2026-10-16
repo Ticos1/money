@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-16T00:32:52+00:00",
+ "updated_at": "2026-10-16T01:12:52+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-15",
+   "time": "21:30",
+   "title": "Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DeiQEMZAItZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1616510463309685"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-15-9-quiz": {
    "type": "quiz",
    "date": "2026-10-15",
@@ -55,7 +78,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 5,
+    "views": 10,
     "likes": 1,
     "comments": 0
    }
@@ -84,7 +107,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 4,
+    "views": 8,
     "likes": 1,
     "comments": 0
    }
@@ -159,7 +182,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 14,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -188,7 +211,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 16,
+    "views": 18,
     "likes": 1,
     "comments": 0
    }
@@ -350,7 +373,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
