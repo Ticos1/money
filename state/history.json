@@ -1,6 +1,84 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-4-quiz",
+   "date": "2026-10-16",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:26:03+00:00",
+   "source": "bank",
+   "bank_id": "q515",
+   "model": null,
+   "content": {
+    "ref": "Lucas 9:58",
+    "ref_label": "Lucas 9:58",
+    "question": "Segundo Jesus, quem tem tocas?",
+    "options": [
+     "As raposas",
+     "Os coelhos",
+     "As serpentes",
+     "Os lobos"
+    ],
+    "answer": 0,
+    "evidence": "As raposas têm tocas",
+    "passage": "Jesus lhe disse: “As raposas têm tocas e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste #perguntasbiblicas #jesus #deus #evangelico #gospel #desafio #fe #conhecimentobiblico",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #evangelico #gospel",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #gospel",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Segundo Jesus, quem tem tocas? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-16T15:01:23+00:00",
+    "instagram": "2026-10-16T15:02:12+00:00",
+    "facebook": "2026-10-16T15:02:17+00:00",
+    "stories": "2026-10-16T15:02:49+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sK6MVP2pNdw",
+    "instagram": "https://www.instagram.com/reel/DejzsLlgvSy/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1098036966294098",
+    "stories": "story 17913041511497518"
+   }
+  },
+  {
    "id": "2026-10-16-3-fill",
    "date": "2026-10-16",
    "slot": 3,
