@@ -1,6 +1,84 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-7-quiz",
+   "date": "2026-10-16",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:29:11+00:00",
+   "source": "bank",
+   "bank_id": "q297",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 22:13",
+    "ref_label": "Apocalipse 22:13",
+    "question": "Jesus diz em Apocalipse: 'Eu sou o Alfa e o...'",
+    "options": [
+     "Beta",
+     "Ômega",
+     "Sigma",
+     "Delta"
+    ],
+    "answer": 1,
+    "evidence": "Eu sou o Alfa e o Ômega",
+    "passage": "Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia #palavradedeus #conhecimentobiblico #desafio #deus #jesus #teste #fe #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #fe #evangelico #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico #biblia",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Jesus diz em Apocalipse: 'Eu sou o Alfa e o...' #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-16T20:01:21+00:00",
+    "instagram": "2026-10-16T20:02:06+00:00",
+    "facebook": "2026-10-16T20:02:11+00:00",
+    "stories": "2026-10-16T20:02:43+00:00"
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/-J9T6xBIBl4",
+    "instagram": "https://www.instagram.com/reel/DekWAHfCPYQ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2563291444176464",
+    "stories": "story 18639645721034543"
+   }
+  },
+  {
    "id": "2026-10-16-6-truefalse",
    "date": "2026-10-16",
    "slot": 6,
