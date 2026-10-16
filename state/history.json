@@ -1,6 +1,85 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-8-fill",
+   "date": "2026-10-16",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-16T08:30:49+00:00",
+   "source": "bank",
+   "bank_id": "v024",
+   "model": null,
+   "content": {
+    "ref": "Tiago 1:5",
+    "ref_label": "Tiago 1:5",
+    "verse_text": "Mas, se algum de vocês precisa de sabedoria, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+    "question": "Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+    "options": [
+     "luz",
+     "sabedoria",
+     "alma",
+     "liberdade"
+    ],
+    "answer": 1,
+    "answer_word": "sabedoria",
+    "tags": [
+     "sabedoria",
+     "oracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sabedoria #oracao #completeoversiculo #versiculo #deus #cristao #gospel #desafiobiblico #jesus #fe #evangelico #biblia",
+    "facebook": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sabedoria #oracao #completeoversiculo #versiculo",
+    "tiktok": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#sabedoria #oracao #completeoversiculo #versiculo #evangelico",
+    "kwai": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#sabedoria #oracao #completeoversiculo #versiculo #deus",
+    "youtube": {
+     "title": "Qual palavra falta nesse versículo? (Tiago 1:5) #shorts",
+     "description": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sabedoria #oracao #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-16T21:31:17+00:00",
+    "instagram": "2026-10-16T21:31:52+00:00",
+    "facebook": "2026-10-16T21:31:56+00:00",
+    "stories": "2026-10-16T21:32:29+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/A0rOOTK100M",
+    "instagram": "https://www.instagram.com/reel/DekgSt5iTGs/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1804777680649490",
+    "stories": "story 18143396002607518"
+   }
+  },
+  {
    "id": "2026-10-16-7-quiz",
    "date": "2026-10-16",
    "slot": 7,
