@@ -1,6 +1,82 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-2-quiz",
+   "date": "2026-10-16",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:23:12+00:00",
+   "source": "bank",
+   "bank_id": "q150",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 2:24",
+    "ref_label": "2 Reis 2:24",
+    "question": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
+    "options": [
+     "Doze",
+     "Vinte",
+     "Quarenta e dois",
+     "Cem"
+    ],
+    "answer": 2,
+    "evidence": "despedaçaram quarenta e dois daqueles jovens",
+    "passage": "Ele olhou para trás, viu-os e os amaldiçoou em nome do SENHOR. Então, duas ursas saíram do bosque e despedaçaram quarenta e dois daqueles jovens.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico #fe #biblia #cristao #desafio #perguntasbiblicas #jesus #palavradedeus #teste",
+    "facebook": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #jesus",
+    "kwai": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #desafio #gospel #fe",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos jovens foram despedaçados pelas ursas? #shorts",
+     "description": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-16T11:01:32+00:00",
+    "instagram": "2026-10-16T11:02:07+00:00",
+    "facebook": "2026-10-16T11:02:12+00:00",
+    "stories": "2026-10-16T11:03:34+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/1QF_6k46f7s",
+    "instagram": "https://www.instagram.com/reel/DejYOM-DTJV/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1149730891046952",
+    "stories": "story 18068120645784859"
+   }
+  },
+  {
    "id": "2026-10-16-1-verse",
    "date": "2026-10-16",
    "slot": 1,

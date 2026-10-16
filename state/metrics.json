@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-16T09:32:32+00:00",
+ "updated_at": "2026-10-16T11:04:05+00:00",
  "notes": [],
  "posts": {
+  "2026-10-16-1-verse": {
+   "type": "verse",
+   "date": "2026-10-16",
+   "time": "06:30",
+   "title": "Filipenses 4:13",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DejN69dF8fd/",
+    "facebook": "https://www.facebook.com/1405324152662027_122098612479513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
   "2026-10-15-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-15",
