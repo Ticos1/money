@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-15T23:03:36+00:00",
+ "updated_at": "2026-10-16T00:32:52+00:00",
  "notes": [],
  "posts": {
+  "2026-10-15-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-15",
+   "time": "20:00",
+   "title": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7KuQc_MBwOg",
+    "instagram": "https://www.instagram.com/reel/DeiFzCCgu3d/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1786034719191369"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-15-8-fill": {
    "type": "fill",
    "date": "2026-10-15",
@@ -26,8 +55,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 5,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -55,8 +84,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 4,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -130,7 +159,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 12,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -159,8 +188,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 8,
-    "likes": 0,
+    "views": 16,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -188,7 +217,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }

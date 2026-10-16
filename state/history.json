@@ -1,6 +1,77 @@
 {
  "posts": [
   {
+   "id": "2026-10-15-10-truefalse",
+   "date": "2026-10-15",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-15T08:31:52+00:00",
+   "source": "bank",
+   "bank_id": "q211",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:3",
+    "ref_label": "Marcos 14:3",
+    "question": "Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia?",
+    "shown": "Óleo de oliva",
+    "is_true": false,
+    "correct": "Nardo puro",
+    "evidence": "perfume de nardo puro",
+    "passage": "Enquanto Jesus estava em Betânia, na casa de Simão, o leproso, sentado à mesa, veio uma mulher trazendo um frasco de alabastro com perfume de nardo puro, muito caro. Ela quebrou o frasco e o derramou sobre a cabeça dele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #cristao #gospel #evangelico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #biblia #deus #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #gospel #conhecimentobiblico #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #evangelico",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue perfume a mulher derramou sobre a cabeça de Jesus em Betânia?\nResposta: Óleo de oliva\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-16T00:31:35+00:00",
+    "facebook": "2026-10-16T00:31:40+00:00",
+    "stories": "2026-10-16T00:32:14+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DeiQEMZAItZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1616510463309685",
+    "stories": "story 17923984563435694"
+   }
+  },
+  {
    "id": "2026-10-15-9-quiz",
    "date": "2026-10-15",
    "slot": 9,
