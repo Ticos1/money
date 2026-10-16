@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-16T16:34:58+00:00",
+ "updated_at": "2026-10-16T17:58:55+00:00",
  "notes": [],
  "posts": {
+  "2026-10-16-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-16",
+   "time": "13:30",
+   "title": "Quarenta anos de maná",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/Dej-EfgCNJZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28306748165674303"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-16-4-quiz": {
    "type": "quiz",
    "date": "2026-10-16",
