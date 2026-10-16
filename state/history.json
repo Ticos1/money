@@ -1,6 +1,78 @@
 {
  "posts": [
   {
+   "id": "2026-10-16-5-curiosity",
+   "date": "2026-10-16",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-16T08:26:45+00:00",
+   "source": "bank",
+   "bank_id": "c012",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 16:35",
+    "ref_label": "Êxodo 16:35",
+    "title": "Quarenta anos de maná",
+    "text": "O povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã.",
+    "evidence": "comeram o maná por quarenta anos",
+    "passage": "Os filhos de Israel comeram o maná por quarenta anos, até chegarem a uma terra habitada. Eles comeram o maná até chegarem às fronteiras da terra de Canaã.",
+    "tags": [
+     "exodo",
+     "provisao"
+    ]
+   },
+   "captions": {
+    "instagram": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#exodo #provisao #vocesabia #curiosidadesbiblicas #cristao #fe #palavradedeus #biblia #estudobiblico #evangelico #gospel #jesus",
+    "facebook": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#exodo #provisao #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Maná alimentou Israel por 40 anos no deserto, sinal da fidelidade de Deus. 🙏\n#exodo #provisao #vocesabia #curiosidadesbiblicas #evangelico",
+    "kwai": "Maná alimentou Israel por 40 anos no deserto, sinal da fidelidade de Deus. 🙏\n#exodo #provisao #vocesabia #curiosidadesbiblicas #biblia",
+    "youtube": {
+     "title": "40 anos de maná: o milagre da provisão divina #shorts",
+     "description": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #exodo #provisao #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-16T16:32:57+00:00",
+    "facebook": "2026-10-16T16:33:01+00:00",
+    "stories": "2026-10-16T16:34:09+00:00"
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/Dej-EfgCNJZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28306748165674303",
+    "stories": "story 17872143141642973"
+   }
+  },
+  {
    "id": "2026-10-16-4-quiz",
    "date": "2026-10-16",
    "slot": 4,

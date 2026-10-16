@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-10-16T15:03:27+00:00",
+ "updated_at": "2026-10-16T16:34:58+00:00",
  "notes": [],
  "posts": {
+  "2026-10-16-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-16",
+   "time": "12:00",
+   "title": "Segundo Jesus, quem tem tocas?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sK6MVP2pNdw",
+    "instagram": "https://www.instagram.com/reel/DejzsLlgvSy/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1098036966294098"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-16-3-fill": {
    "type": "fill",
    "date": "2026-10-16",
@@ -22,7 +51,7 @@
     "total_interactions": 0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    },
    "youtube": {
@@ -55,7 +84,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 1,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -130,7 +159,7 @@
     "comments": 0
    },
    "youtube": {
-    "views": 14,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -264,7 +293,7 @@
    },
    "youtube": {
     "views": 19,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -374,7 +403,7 @@
    },
    "youtube": {
     "views": 5,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
