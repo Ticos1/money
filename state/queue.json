@@ -1,3 +1,804 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-16-10-truefalse",
+   "date": "2026-10-16",
+   "slot": 10,
+   "time": "21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-16T08:33:34+00:00",
+   "source": "bank",
+   "bank_id": "q391",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 15:6",
+    "ref_label": "2 Samuel 15:6",
+    "question": "O que Absalão roubou, ao agir assim com todo o Israel?",
+    "shown": "O trono",
+    "is_true": false,
+    "correct": "Os corações dos homens de Israel",
+    "evidence": "Absalão roubou os corações dos homens de Israel",
+    "passage": "Absalão agia desta forma com todo o Israel que vinha ao rei para julgamento. Assim, Absalão roubou os corações dos homens de Israel.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Absalão roubou, ao agir assim com todo o Israel?\nResposta: O trono\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #fe #desafiobiblico #jesus #evangelico #perguntasbiblicas #conhecimentobiblico #cristao #palavradedeus #deus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Absalão roubou, ao agir assim com todo o Israel?\nResposta: O trono\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #biblia",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #evangelico #jesus #gospel",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #biblia #deus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que Absalão roubou, ao agir assim com todo o Israel? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Absalão roubou, ao agir assim com todo o Israel?\nResposta: O trono\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-16/2026-10-16-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-9-quiz",
+   "date": "2026-10-16",
+   "slot": 9,
+   "time": "20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:32:30+00:00",
+   "source": "bank",
+   "bank_id": "q483",
+   "model": null,
+   "content": {
+    "ref": "Mateus 20:1",
+    "ref_label": "Mateus 20:1",
+    "question": "Para que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?",
+    "options": [
+     "Contratar trabalhadores para a vinha",
+     "Comprar ovelhas",
+     "Colher figos",
+     "Construir um celeiro"
+    ],
+    "answer": 0,
+    "evidence": "saiu de manhã cedo para contratar trabalhadores para a sua vinha",
+    "passage": "“Pois o Reino dos Céus é semelhante a um homem, dono de uma casa, que saiu de manhã cedo para contratar trabalhadores para a sua vinha.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Vamos refletir juntos sobre a parábola dos trabalhadores? Na história, o dono da casa sai de manhã bem cedo. Qual seria a razão dessa saída? Pense nas alternativas e compartilhe sua opinião nos comentários. Essa pergunta nos ajuda a aprofundar a compreensão das lições de fé e dedicação. 🙏✨\n\nPara que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?\nA) Contratar trabalhadores para a vinha\nB) Comprar ovelhas\nC) Colher figos\nD) Construir um celeiro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus #deus #cristao #evangelico #perguntasbiblicas #conhecimentobiblico #palavradedeus #teste #gospel",
+    "facebook": "Vamos refletir juntos sobre a parábola dos trabalhadores? Na história, o dono da casa sai de manhã bem cedo. Qual seria a razão dessa saída? Pense nas alternativas e compartilhe sua opinião nos comentários. Essa pergunta nos ajuda a aprofundar a compreensão das lições de fé e dedicação. 🙏✨\n\nPara que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?\nA) Contratar trabalhadores para a vinha\nB) Comprar ovelhas\nC) Colher figos\nD) Construir um celeiro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao",
+    "tiktok": "Por que o dono da casa saiu cedo na parábola? 🤔\n#quizbiblico #desafiobiblico #teste #biblia #desafio",
+    "kwai": "Por que o dono da casa saiu cedo na parábola? 🤔\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico #teste",
+    "youtube": {
+     "title": "Quiz Bíblico: Por que o dono da casa saiu cedo? #shorts",
+     "description": "Vamos refletir juntos sobre a parábola dos trabalhadores? Na história, o dono da casa sai de manhã bem cedo. Qual seria a razão dessa saída? Pense nas alternativas e compartilhe sua opinião nos comentários. Essa pergunta nos ajuda a aprofundar a compreensão das lições de fé e dedicação. 🙏✨\n\nPara que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?\nA) Contratar trabalhadores para a vinha\nB) Comprar ovelhas\nC) Colher figos\nD) Construir um celeiro\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 25.45,
+    "base": "media/2026-10-16/2026-10-16-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-8-fill",
+   "date": "2026-10-16",
+   "slot": 8,
+   "time": "18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-16T08:30:49+00:00",
+   "source": "bank",
+   "bank_id": "v024",
+   "model": null,
+   "content": {
+    "ref": "Tiago 1:5",
+    "ref_label": "Tiago 1:5",
+    "verse_text": "Mas, se algum de vocês precisa de sabedoria, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+    "question": "Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+    "options": [
+     "luz",
+     "sabedoria",
+     "alma",
+     "liberdade"
+    ],
+    "answer": 1,
+    "answer_word": "sabedoria",
+    "tags": [
+     "sabedoria",
+     "oracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sabedoria #oracao #completeoversiculo #versiculo #deus #cristao #gospel #desafiobiblico #jesus #fe #evangelico #biblia",
+    "facebook": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sabedoria #oracao #completeoversiculo #versiculo",
+    "tiktok": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#sabedoria #oracao #completeoversiculo #versiculo #evangelico",
+    "kwai": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#sabedoria #oracao #completeoversiculo #versiculo #deus",
+    "youtube": {
+     "title": "Qual palavra falta nesse versículo? (Tiago 1:5) #shorts",
+     "description": "Qual palavra falta nesse versículo? 📖\n\n“Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.”\n\nA) luz\nB) sabedoria\nC) alma\nD) liberdade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sabedoria #oracao #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 25.45,
+    "base": "media/2026-10-16/2026-10-16-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-7-quiz",
+   "date": "2026-10-16",
+   "slot": 7,
+   "time": "17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:29:11+00:00",
+   "source": "bank",
+   "bank_id": "q297",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 22:13",
+    "ref_label": "Apocalipse 22:13",
+    "question": "Jesus diz em Apocalipse: 'Eu sou o Alfa e o...'",
+    "options": [
+     "Beta",
+     "Ômega",
+     "Sigma",
+     "Delta"
+    ],
+    "answer": 1,
+    "evidence": "Eu sou o Alfa e o Ômega",
+    "passage": "Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia #palavradedeus #conhecimentobiblico #desafio #deus #jesus #teste #fe #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #fe #evangelico #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico #biblia",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Jesus diz em Apocalipse: 'Eu sou o Alfa e o...' #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nJesus diz em Apocalipse: 'Eu sou o Alfa e o...'\n\nA) Beta\nB) Ômega\nC) Sigma\nD) Delta\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 20.85,
+    "base": "media/2026-10-16/2026-10-16-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-6-truefalse",
+   "date": "2026-10-16",
+   "slot": 6,
+   "time": "15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-16T08:27:49+00:00",
+   "source": "bank",
+   "bank_id": "q412",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 21:1",
+    "ref_label": "2 Reis 21:1",
+    "question": "Com quantos anos Manassés começou a reinar?",
+    "shown": "Dezesseis",
+    "is_true": false,
+    "correct": "Doze",
+    "evidence": "Manassés tinha doze anos de idade",
+    "passage": "Manassés tinha doze anos de idade quando começou a reinar, e reinou cinquenta e cinco anos em Jerusalém. O nome de sua mãe era Hefzibá.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #gospel #perguntasbiblicas #palavradedeus #jesus #conhecimentobiblico #deus #evangelico #cristao #biblia",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #biblia",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #gospel #fe #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #jesus #deus",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Com quantos anos Manassés começou a reinar? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom quantos anos Manassés começou a reinar?\nResposta: Dezesseis\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "base": "media/2026-10-16/2026-10-16-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-5-curiosity",
+   "date": "2026-10-16",
+   "slot": 5,
+   "time": "13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-16T08:26:45+00:00",
+   "source": "bank",
+   "bank_id": "c012",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 16:35",
+    "ref_label": "Êxodo 16:35",
+    "title": "Quarenta anos de maná",
+    "text": "O povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã.",
+    "evidence": "comeram o maná por quarenta anos",
+    "passage": "Os filhos de Israel comeram o maná por quarenta anos, até chegarem a uma terra habitada. Eles comeram o maná até chegarem às fronteiras da terra de Canaã.",
+    "tags": [
+     "exodo",
+     "provisao"
+    ]
+   },
+   "captions": {
+    "instagram": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#exodo #provisao #vocesabia #curiosidadesbiblicas #cristao #fe #palavradedeus #biblia #estudobiblico #evangelico #gospel #jesus",
+    "facebook": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#exodo #provisao #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Maná alimentou Israel por 40 anos no deserto, sinal da fidelidade de Deus. 🙏\n#exodo #provisao #vocesabia #curiosidadesbiblicas #evangelico",
+    "kwai": "Maná alimentou Israel por 40 anos no deserto, sinal da fidelidade de Deus. 🙏\n#exodo #provisao #vocesabia #curiosidadesbiblicas #biblia",
+    "youtube": {
+     "title": "40 anos de maná: o milagre da provisão divina #shorts",
+     "description": "Quarenta anos de maná\n\nO povo de Israel comeu maná por quarenta anos no deserto, até chegar às fronteiras de Canaã. (Êxodo 16:35)\n\nNo deserto, o povo de Israel recebeu o maná como alimento diário durante quarenta anos, até alcançar as fronteiras de Canaã. Esse milagre mostrou a fidelidade de Deus, que provê o necessário em cada passo da jornada. Que possamos confiar na providência divina em nossas próprias caminhadas, lembrando que Ele sempre tem o sustento que precisamos. 🙏🌾\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #exodo #provisao #vocesabia"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.0,
+    "base": "media/2026-10-16/2026-10-16-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-4-quiz",
+   "date": "2026-10-16",
+   "slot": 4,
+   "time": "12:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:26:03+00:00",
+   "source": "bank",
+   "bank_id": "q515",
+   "model": null,
+   "content": {
+    "ref": "Lucas 9:58",
+    "ref_label": "Lucas 9:58",
+    "question": "Segundo Jesus, quem tem tocas?",
+    "options": [
+     "As raposas",
+     "Os coelhos",
+     "As serpentes",
+     "Os lobos"
+    ],
+    "answer": 0,
+    "evidence": "As raposas têm tocas",
+    "passage": "Jesus lhe disse: “As raposas têm tocas e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste #perguntasbiblicas #jesus #deus #evangelico #gospel #desafio #fe #conhecimentobiblico",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #evangelico #gospel",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #gospel",
+    "youtube": {
+     "title": "Só 1% acerta essa pergunta da Bíblia! Segundo Jesus, quem tem tocas? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nSegundo Jesus, quem tem tocas?\n\nA) As raposas\nB) Os coelhos\nC) As serpentes\nD) Os lobos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 21.12,
+    "base": "media/2026-10-16/2026-10-16-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-3-fill",
+   "date": "2026-10-16",
+   "slot": 3,
+   "time": "10:00",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-16T08:24:39+00:00",
+   "source": "bank",
+   "bank_id": "v216",
+   "model": null,
+   "content": {
+    "ref": "Salmos 113:3",
+    "ref_label": "Salmos 113:3",
+    "verse_text": "Desde o nascer do sol até o seu poente, seja louvado o nome do SENHOR.",
+    "question": "Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.",
+    "options": [
+     "pastor",
+     "nome",
+     "reino",
+     "escudo"
+    ],
+    "answer": 1,
+    "answer_word": "nome",
+    "tags": [
+     "louvor",
+     "dia"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #dia #completeoversiculo #versiculo #gospel #evangelico #desafiobiblico #palavradedeus #jesus #biblia #quizbiblico #cristao",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #dia #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#louvor #dia #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#louvor #dia #completeoversiculo #versiculo #quizbiblico",
+    "youtube": {
+     "title": "Você sabe esse versículo de cor? (Salmos 113:3) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #louvor #dia #completeoversiculo"
+    }
+   },
+   "caption_source": "template",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 22.58,
+    "base": "media/2026-10-16/2026-10-16-3-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-2-quiz",
+   "date": "2026-10-16",
+   "slot": 2,
+   "time": "08:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-16T08:23:12+00:00",
+   "source": "bank",
+   "bank_id": "q150",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 2:24",
+    "ref_label": "2 Reis 2:24",
+    "question": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
+    "options": [
+     "Doze",
+     "Vinte",
+     "Quarenta e dois",
+     "Cem"
+    ],
+    "answer": 2,
+    "evidence": "despedaçaram quarenta e dois daqueles jovens",
+    "passage": "Ele olhou para trás, viu-os e os amaldiçoou em nome do SENHOR. Então, duas ursas saíram do bosque e despedaçaram quarenta e dois daqueles jovens.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico #fe #biblia #cristao #desafio #perguntasbiblicas #jesus #palavradedeus #teste",
+    "facebook": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #jesus",
+    "kwai": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #desafio #gospel #fe",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos jovens foram despedaçados pelas ursas? #shorts",
+     "description": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
+    }
+   },
+   "caption_source": "groq",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.85,
+    "base": "media/2026-10-16/2026-10-16-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-16-1-verse",
+   "date": "2026-10-16",
+   "slot": 1,
+   "time": "06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-16T08:21:41+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Filipenses 4:13",
+    "ref_label": "Filipenses 4:13",
+    "verse_text": "Posso todas as coisas por meio de Cristo que me fortalece.",
+    "on_screen": "Posso tudo em Cristo que me fortalece",
+    "reflection": "Mesmo nos momentos de fraqueza, lembramos que nossa força vem de Cristo. Ele nos capacita a enfrentar desafios e a superar obstáculos, renovando nossa confiança a cada dia. Confie no poder que Ele oferece e siga firme.",
+    "theme": "força",
+    "mood": "reflexao",
+    "tags": [
+     "coragem",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo #evangelico #esperanca #gospel #biblia #cristao #palavradedeus #devocional #jesus",
+    "facebook": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo",
+    "tiktok": "Mesmo fraco, sou forte porque Cristo me sustenta. Confie e siga firme! 💪\n#coragem #fe #versiculododia #versiculo #jesus",
+    "kwai": "Mesmo fraco, sou forte porque Cristo me sustenta. Confie e siga firme! 💪\n#coragem #fe #versiculododia #versiculo #biblia",
+    "youtube": {
+     "title": "Como encontrar força em Cristo nos dias de fraqueza #shorts",
+     "description": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coragem #fe #versiculododia"
+    }
+   },
+   "caption_source": "groq",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "poster": "imagem_story.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 0,
+    "base": "media/2026-10-16/2026-10-16-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  }
+ ]
 }
