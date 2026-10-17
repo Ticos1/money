@@ -79,15 +79,34 @@ class ContentTests(unittest.TestCase):
     def test_groq_quiz_accepted_when_valid(self):
         groq = FakeGroq([{"question": "Em que rio Jesus foi batizado por João?",
                           "options": ["Jordão", "Nilo", "Tigre", "Eufrates"], "answer": 0,
-                          "ref": "Mateus 3:13", "difficulty": "facil"}])
-        item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
+                          "verse": "13", "difficulty": "facil"}])
+        with mock.patch.object(content, "chapter_pool", return_value=[("MAT", 3)]):
+            item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
         self.assertEqual(item["source"], "groq")
+        self.assertEqual(item["ref_label"], "Mateus 3:13")
+
+    def test_groq_quiz_prompt_carries_unused_chapter_text(self):
+        prompts = []
+        groq = FakeGroq([{"question": "Em que rio Jesus foi batizado por João?",
+                          "options": ["Jordão", "Nilo", "Tigre", "Eufrates"], "answer": 0, "verse": 13}])
+        orig = groq.chat_json
+        groq.chat_json = lambda system, user, **k: (prompts.append(user), orig(system, user))[1]
+        with mock.patch.object(content, "chapter_pool", return_value=[("MAT", 3)]):
+            content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
+        self.assertIn("Mateus 3", prompts[0])
+        self.assertIn("Jordão", prompts[0])  # o texto do capítulo vai no prompt
+
+    def test_chapter_pool_skips_used_and_long_chapters(self):
+        pool = content.chapter_pool({("MAT", 3)})
+        self.assertNotIn(("MAT", 3), pool)
+        self.assertNotIn(("PSA", 119), pool)  # grande demais para o prompt
+        self.assertIn(("MAT", 4), pool)
 
     def test_groq_quiz_with_wrong_reference_falls_back_to_bank(self):
         groq = FakeGroq([
             {"question": "Quem matou Golias?", "options": ["Davi", "Saul", "Jônatas", "Samuel"],
-             "answer": 0, "ref": "Gênesis 1:1"},          # resposta não está no versículo
-            {"question": "X?", "options": ["a", "b", "c", "d"], "answer": 0, "ref": "Livro 99:1"},
+             "answer": 0, "verse": "1"},                  # resposta não está no versículo
+            {"question": "X?", "options": ["a", "b", "c", "d"], "answer": 0, "verse": "999"},
         ])
         log = []
         item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), log)
@@ -114,12 +133,15 @@ class ContentTests(unittest.TestCase):
 
 class CuriosityTests(unittest.TestCase):
     def test_groq_curiosity_needs_keyword_in_verse(self):
-        good = {"title": "Gigante de Gate", "text": "Golias era de Gate.", "ref": "1 Samuel 17:4",
+        good = {"title": "Gigante de Gate", "text": "Golias era de Gate.", "verse": "4",
                 "keyword": "Golias", "tags": ["golias"]}
         bad = {**good, "keyword": "Sansão"}
-        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([good]), SETTINGS, random.Random(1), [])
-        self.assertEqual(item["source"], "groq")
-        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([bad, bad]), SETTINGS, random.Random(1), [])
+        with mock.patch.object(content, "chapter_pool", side_effect=lambda _: [("1SA", 17), ("1SA", 17)]):
+            item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([good]), SETTINGS, random.Random(1), [])
+            self.assertEqual(item["source"], "groq")
+            self.assertEqual(item["ref_label"], "1 Samuel 17:4")
+            item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([bad, bad]), SETTINGS,
+                                   random.Random(1), [])
         self.assertEqual(item["source"], "bank")
 
     def test_curiosity_caption_has_text_and_reference(self):
@@ -134,15 +156,23 @@ class CaptionTests(unittest.TestCase):
     def _quiz(self):
         return validate.validate("quiz", validate.load_bank("quiz")[0])
 
-    def test_groq_caption_revealing_answer_is_rejected(self):
+    def test_quiz_caption_never_uses_groq(self):
         item = self._quiz()
         answer = item["options"][item["answer"]]
         groq = FakeGroq([{"hook": "Desafio!", "long": f"A resposta é {answer} dias", "short": "Responda!",
                           "youtube_title": "Quiz"}])
-        log = []
-        caps, source = captions.build("quiz", item, SETTINGS, groq, random.Random(1), log)
+        caps, source = captions.build("quiz", item, SETTINGS, groq, random.Random(1), [])
         self.assertEqual(source, "template")
+        self.assertEqual(groq.calls, 0)  # nem gasta chamada do dia
         self.assertNotIn(f"A resposta é {answer}", caps["instagram"])
+
+    def test_groq_caption_without_youtube_title_is_kept(self):
+        item = validate.validate("verse", validate.load_bank("verse")[0])
+        groq = FakeGroq([{"hook": "Uma palavra para hoje", "long": "Deus cuida de você.",
+                          "short": "Deus cuida de você."}])
+        caps, source = captions.build("verse", item, SETTINGS, groq, random.Random(1), [])
+        self.assertEqual(source, "groq")
+        self.assertIn("Deus cuida de você.", caps["instagram"])
 
     def test_template_caption_has_hashtags_and_attribution(self):
         item = validate.validate("verse", validate.load_bank("verse")[0])

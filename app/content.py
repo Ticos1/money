@@ -2,7 +2,9 @@
 
 Ordem de decisão:
 1. Às vezes (config groq.new_content_ratio) tenta gerar conteúdo NOVO na Groq.
-   Ele só é aceito se passar na mesma validação bíblica do banco.
+   Ele só é aceito se passar na mesma validação bíblica do banco. Quiz e
+   curiosidade partem de um capítulo sorteado (ainda não usado) da Bíblia local,
+   enviado no prompt: a IA não repete os versículos famosos e a evidência existe.
 2. Senão (ou se a Groq falhar), pega um item do banco ainda não usado.
 3. Se o banco acabou e a Groq falhou, reutiliza o item usado há mais tempo,
    para o post do dia nunca deixar de sair.
@@ -24,6 +26,7 @@ SYSTEM_PROMPT = (
 )
 REF_IN_TEXT = re.compile(r"\d+\s*[:.]\s*\d+")
 REUSE_REF_DAYS = 180
+MAX_CHAPTER_CHARS = 4500  # capítulo vai inteiro no prompt: limita os tokens do plano grátis
 
 
 def fingerprint(text: str) -> str:
@@ -68,17 +71,42 @@ def _groq_verse(groq: GroqClient, avoid_refs: list[str]) -> dict:
     return item
 
 
-def _groq_quiz(groq: GroqClient, avoid_refs: list[str]) -> dict:
+def chapter_pool(avoid_chapters: set[tuple[str, int]]) -> list[tuple[str, int]]:
+    """Capítulos da Bíblia local que ainda não foram usados e cabem no prompt."""
+    return [(book, int(ch)) for book, chapters in bible._data().items()
+            for ch, verses in chapters.items()
+            if (book, int(ch)) not in avoid_chapters
+            and 0 < sum(len(v) for v in verses) <= MAX_CHAPTER_CHARS]
+
+
+def _chapter_prompt(book: str, chapter: int) -> str:
+    verses = bible._data()[book][str(chapter)]
+    lines = "\n".join(f"{n} {v}" for n, v in enumerate(verses, 1)
+                      if v and not bible.SUSPICIOUS.search(v))
+    return f"Capítulo {bible.BOOK_NAMES[book]} {chapter} (número do versículo no começo da linha):\n{lines}\n"
+
+
+def _chapter_ref(data: dict, book: str, chapter: int) -> str:
+    """Referência dentro do capítulo enviado: a IA devolve só o número do versículo."""
+    verse = str(data.get("verse", "")).strip()
+    if not re.fullmatch(r"\d+(?:\s*-\s*\d+)?", verse):
+        raise validate.ContentError(f"versículo inválido: {verse!r}")
+    return f"{bible.BOOK_NAMES[book]} {chapter}:{verse.replace(' ', '')}"
+
+
+def _groq_quiz(groq: GroqClient, avoid_refs: list[str], chapter: tuple[str, int]) -> dict:
+    book, ch = chapter
     user = (
-        "Crie UMA pergunta de quiz bíblico no estilo 'Só 1% acerta', com 4 alternativas e "
-        "UMA correta. A resposta correta deve ser uma palavra ou expressão curta que aparece "
-        "LITERALMENTE no versículo indicado (nome, número por extenso, lugar ou objeto). "
-        "As alternativas erradas devem ser plausíveis, mas NÃO podem aparecer no versículo.\n"
-        f"Não use estas referências: {', '.join(avoid_refs[:80]) or 'nenhuma'}.\n"
-        "Use nomes de livros em português. Pergunta com até 120 caracteres; alternativas com até 40.\n"
+        _chapter_prompt(book, ch)
+        + "Com base SÓ nesse capítulo, crie UMA pergunta de quiz bíblico no estilo 'Só 1% acerta', "
+        "com 4 alternativas e UMA correta, sobre um versículo específico dele. A resposta correta "
+        "deve ser uma palavra ou expressão curta copiada LITERALMENTE desse versículo (nome, número "
+        "por extenso, lugar ou objeto). As 3 alternativas erradas devem ser plausíveis, mas NÃO podem "
+        "aparecer em nenhum lugar do capítulo.\n"
+        "Pergunta com até 120 caracteres; alternativas com até 40.\n"
         "Responda neste formato JSON:\n"
         '{"question": "...", "options": ["A", "B", "C", "D"], "answer": 0, '
-        '"ref": "Livro capítulo:versículo", "difficulty": "facil, medio ou dificil"}'
+        '"verse": "número do versículo onde está a resposta", "difficulty": "facil, medio ou dificil"}'
     )
     data = groq.chat_json(SYSTEM_PROMPT, user)
     options = [str(o).strip() for o in data.get("options", [])][:4]
@@ -92,24 +120,24 @@ def _groq_quiz(groq: GroqClient, avoid_refs: list[str]) -> dict:
         "question": str(data.get("question", "")).strip(),
         "options": options,
         "answer": answer,
-        "ref": str(data.get("ref", "")),
+        "ref": _chapter_ref(data, book, ch),
         "evidence": options[answer],  # a própria resposta precisa estar no texto bíblico
         "difficulty": data.get("difficulty", "medio"),
     }
 
 
-def _groq_curiosity(groq: GroqClient, avoid_refs: list[str]) -> dict:
+def _groq_curiosity(groq: GroqClient, avoid_refs: list[str], chapter: tuple[str, int]) -> dict:
+    book, ch = chapter
     user = (
-        "Escreva UMA curiosidade bíblica curta no estilo 'Você sabia?' (personagens, lugares, "
-        "números, costumes da época), baseada em UM versículo específico, sem inventar nada além "
-        "do que o versículo diz.\n"
-        f"Não use estas referências: {', '.join(avoid_refs[:80]) or 'nenhuma'}.\n"
-        "Use nomes de livros em português.\n"
+        _chapter_prompt(book, ch)
+        + "Com base SÓ nesse capítulo, escreva UMA curiosidade bíblica curta no estilo 'Você sabia?' "
+        "(personagens, lugares, números, costumes da época) sobre um versículo específico dele, "
+        "sem inventar nada além do que o texto diz.\n"
         "Responda neste formato JSON:\n"
         '{"title": "título curto e chamativo, até 45 caracteres", '
         '"text": "explicação de 1 a 2 frases, até 220 caracteres", '
-        '"ref": "Livro capítulo:versículo", '
-        '"keyword": "nome, número por extenso ou palavra-chave que aparece LITERALMENTE no versículo", '
+        '"verse": "número do versículo da curiosidade", '
+        '"keyword": "nome, número por extenso ou palavra-chave copiada LITERALMENTE desse versículo", '
         '"tags": ["duas", "hashtags sem # e sem acento"]}'
     )
     data = groq.chat_json(SYSTEM_PROMPT, user)
@@ -117,7 +145,7 @@ def _groq_curiosity(groq: GroqClient, avoid_refs: list[str]) -> dict:
         "id": f"g-{fingerprint(str(data.get('title')))}",
         "title": str(data.get("title", "")).strip()[:60],
         "text": str(data.get("text", "")).strip(),
-        "ref": str(data.get("ref", "")),
+        "ref": _chapter_ref(data, book, ch),
         "evidence": str(data.get("keyword", "")).strip(),
         "tags": [re.sub(r"[^a-z0-9]", "", bible.normalize(t)) for t in data.get("tags", [])][:3],
     }
@@ -148,6 +176,7 @@ def application(item: dict, groq: GroqClient, log: list[str]) -> str:
 
 
 GROQ_GENERATORS = {"verse": _groq_verse, "quiz": _groq_quiz, "curiosity": _groq_curiosity}
+CHAPTER_KINDS = ("quiz", "curiosity")  # geradores que recebem um capítulo sorteado
 
 
 def bank_status(kind: str, today: date, used: dict,
@@ -183,9 +212,19 @@ def pick(kind: str, today: date, used: dict, groq: GroqClient, settings: dict,
     if want_new:
         avoid = sorted({bible.parse_reference(i["ref"]).label for i in bank}
                        | {_label_from_key(k) for k in recent_refs})
+        # capítulos já usados (banco ou qualquer post anterior) não são sorteados de novo
+        used_chapters = {(i["ref_key"].split(".")[0], int(i["ref_key"].split(".")[1])) for i in bank} \
+            | {(k.split(".")[0], int(k.split(".")[1])) for k in used.get("refs", {})}
+        chapters = chapter_pool(used_chapters) if kind in CHAPTER_KINDS else []
         for attempt in range(2):
             try:
-                raw = GROQ_GENERATORS[kind](groq, avoid)
+                if kind in CHAPTER_KINDS:
+                    if not chapters:
+                        raise validate.ContentError("nenhum capítulo novo disponível")
+                    chapter = chapters.pop(rng.randrange(len(chapters)))
+                    raw = GROQ_GENERATORS[kind](groq, avoid, chapter)
+                else:
+                    raw = GROQ_GENERATORS[kind](groq, avoid)
                 item = validate.validate(kind, raw)
                 fp = fingerprint(item.get("question") or item.get("title") or item["ref_key"])
                 if item["ref_key"] in recent_refs or fp in used_fps:

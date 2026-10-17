@@ -238,12 +238,9 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
         about = (f"Versículo do dia: {item['ref_label']} — “{item['verse_text']}”. "
                  f"Reflexão: {item['reflection']}")
         rules = "NÃO escreva o texto do versículo (ele é adicionado automaticamente, exato)."
-    elif kind == "curiosity":
+    else:
         about = f"Curiosidade bíblica: {item['title']}. {item['text']} ({item['ref_label']})"
         rules = "Não invente fatos novos além da curiosidade informada."
-    else:
-        about = f"Quiz bíblico. Pergunta: {item['question']} Alternativas: {item['options']}"
-        rules = "NÃO revele nem dê pistas da resposta certa."
     user = (
         f"Escreva variações de legenda para redes sociais sobre este post. {about}\n"
         f"Regras: {rules} Não cite outros versículos ou referências bíblicas. Não use hashtags. "
@@ -261,8 +258,9 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
         temperature=0.9,
     )
     texts = {k: str(data.get(k, "")).strip() for k in ("hook", "long", "short", "youtube_title")}
-    if not all(texts.values()):
+    if not all(texts[k] for k in ("hook", "long", "short")):
         raise ValueError("legenda incompleta")
+    texts["youtube_title"] = texts["youtube_title"] or base["youtube_title"]  # só esse campo cai no modelo
     if len(texts["long"]) > 900 or len(texts["short"]) > 220:
         raise ValueError("legenda longa demais")
     joined = " ".join(texts.values())
@@ -272,20 +270,12 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
     allowed = item["ref_label"].split(" ")[-1]
     if any(r.replace(" ", "") not in allowed for r in refs_found):
         raise ValueError("legenda cita outra referência")
-    if kind == "quiz":
-        answer = bible.normalize(item["options"][item["answer"]])
-        if f" {answer} " in f" {bible.normalize(joined)} ":
-            raise ValueError("legenda revela a resposta")
     if kind == "verse":
         # a legenda longa sempre leva o versículo exato da Bíblia local
         texts["long"] = f"“{item['verse_text']}” ({item['ref_label']})\n\n{texts['long']}"
-    elif kind == "curiosity":
+    else:
         # o texto da curiosidade (já validado na Bíblia) sempre vai junto
         texts["long"] = f"{item['title']}\n\n{item['text']} ({item['ref_label']})\n\n{texts['long']}"
-    else:
-        letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
-        texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}\n\n{base['cta']}"
-        texts["short"] = f"{texts['short']}\n{base['cta']}"
     texts["cta"] = base["cta"]
     return texts
 
@@ -296,8 +286,9 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
     handle = settings.get("brand", {}).get("handle", "")
     texts = template_captions(kind, item, handle, rng)
     source = "template"
-    # formatos com resposta escondida usam só o modelo fixo (a IA poderia entregar a resposta)
-    if kind in ("verse", "quiz", "curiosity") and settings.get("groq", {}).get("caption_variations", True) \
+    # formatos com resposta escondida (quiz, fill, book, truefalse) usam só o modelo fixo:
+    # a IA quase sempre entregava a resposta
+    if kind in ("verse", "curiosity") and settings.get("groq", {}).get("caption_variations", True) \
             and groq.available():
         try:
             texts = _groq_texts(kind, item, groq, texts)
