@@ -791,6 +791,93 @@
    "error": null
   },
   {
+   "id": "2026-10-17-3-truefalse",
+   "date": "2026-10-17",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-17T10:08",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-17T06:01:26+00:00",
+   "source": "bank",
+   "bank_id": "q994",
+   "model": null,
+   "content": {
+    "ref": "Josué 7:26",
+    "ref_label": "Josué 7:26",
+    "question": "Que nome recebeu o lugar onde Acã foi apedrejado?",
+    "shown": "Vale de Hinom",
+    "is_true": false,
+    "correct": "Vale de Acor",
+    "evidence": "O vale de Acor",
+    "passage": "Eles levantaram sobre ele um grande monte de pedras que permanece até o dia de hoje. O SENHOR se afastou do furor da sua ira. Por isso o nome daquele lugar foi chamado “O vale de Acor” até o dia de hoje.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #evangelico #gospel #jesus #palavradedeus #deus #fe #perguntasbiblicas #desafiobiblico #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #fe",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #deus #evangelico #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #cristao #desafiobiblico #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que nome recebeu o lugar onde Acã foi apedrejado? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-17T13:10:31+00:00",
+    "stories": "2026-10-17T13:11:04+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4119577088342876",
+    "stories": "story 17934157332145314"
+   }
+  },
+  {
    "id": "2026-10-17-2-quiz",
    "date": "2026-10-17",
    "slot": 2,
