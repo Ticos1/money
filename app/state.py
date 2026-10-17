@@ -131,6 +131,8 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
             prev = history.get(p["id"])
             if prev and _was_published(prev) and not _was_published(p):
                 continue  # uma cópia não publicada nunca apaga o registro do post que saiu nas redes
+            if p.get("status") == "pending" and not _was_published(p):
+                continue  # nunca aprovado nem publicado: não vale guardar (só enchia o histórico)
             history[p["id"]] = p
         save_history(sorted(history.values(), key=lambda p: (p["date"], p["slot"]), reverse=True))
 
