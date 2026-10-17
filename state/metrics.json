@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T20:33:13+00:00",
+ "updated_at": "2026-10-17T21:31:52+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -12,6 +12,21 @@
    "hook": null,
    "links": {
     "youtube": "https://youtu.be/85sTRwfSOPk"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-17-7-fill": {
+   "type": "fill",
+   "date": "2026-10-17",
+   "time": "18:30",
+   "title": "Combati o bom combate. Terminei a corrida. Guardei a _____.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Fj80nwEvRxY"
    },
    "youtube": {
     "views": 0,
@@ -61,12 +76,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 230,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 727.2
+    "views": 261,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 840.1
    },
    "youtube": {
-    "views": 0,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -96,12 +111,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 285,
+    "views": 286,
     "avg_watch_s": 2.3,
     "watch_time_s": 611.3
    },
    "youtube": {
-    "views": 1,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -141,7 +156,7 @@
     "watch_time_s": 573.5
    },
    "youtube": {
-    "views": 12,
+    "views": 15,
     "likes": 0,
     "comments": 0
    }
@@ -248,7 +263,7 @@
     "watch_time_s": 3.5
    },
    "youtube": {
-    "views": 19,
+    "views": 20,
     "likes": 1,
     "comments": 0
    }
@@ -376,7 +391,7 @@
     "watch_time_s": 947.6
    },
    "youtube": {
-    "views": 25,
+    "views": 26,
     "likes": 3,
     "comments": 0
    }
@@ -411,7 +426,7 @@
     "watch_time_s": 501.3
    },
    "youtube": {
-    "views": 6,
+    "views": 7,
     "likes": 3,
     "comments": 0
    }
@@ -446,7 +461,7 @@
     "watch_time_s": 1.0
    },
    "youtube": {
-    "views": 15,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
