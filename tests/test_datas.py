@@ -83,17 +83,33 @@ class BookFormatTests(unittest.TestCase):
 
 
 class AnalysisTests(unittest.TestCase):
-    def test_analysis_over_whole_history(self):
-        posts = {
-            "a": {"type": "quiz", "date": "2026-10-10", "time": "08:00", "instagram": {"likes": 5, "reach": 40}},
-            "b": {"type": "curiosity", "date": "2026-10-11", "time": "12:00", "instagram": {"likes": 0, "reach": 0}},
-        }
-        text = report.analyze({"posts": posts})
-        self.assertIn("Desafio de quiz", text)
-        self.assertIn("08:00", text)
-        self.assertIn("Posts com alcance zero: **1** de 2", text)
-        self.assertLess(text.index("Desafio de quiz"), text.index("Você sabia?"))  # melhor primeiro
-        self.assertIsNone(report.analyze({"posts": {}}))
+    def test_formats_ranked_by_watch_time(self):
+        posts = {}
+        for i in range(10):
+            posts[f"q{i}"] = {"type": "quiz", "date": "2026-10-10", "time": "08:00",
+                              "facebook": {"views": 300, "avg_watch_s": 2.0, "likes": 9}}
+            posts[f"c{i}"] = {"type": "curiosity", "date": "2026-10-10", "time": "13:30",
+                              "facebook": {"views": 200, "avg_watch_s": 5.0, "likes": 0}}
+        posts["v"] = {"type": "verse", "date": "2026-10-10", "time": "06:30", "instagram": {"likes": 3}}
+        result = report.analyze({"posts": posts}, date(2026, 10, 17), 28)
+        by_type = {f["type"]: f for f in result["formats"]}
+        # o Você sabia? tem menos curtidas, mas prende mais tempo: vem primeiro e não é cortado
+        self.assertEqual(result["formats"][0]["type"], "curiosity")
+        self.assertEqual(by_type["curiosity"]["watch"], 1000.0)
+        self.assertNotEqual(by_type["curiosity"]["verdict"], "cortar")
+        self.assertEqual(by_type["verse"]["verdict"], "sem vídeo")
+
+    def test_youtube_without_avg_uses_facebook_avg(self):
+        row = {"facebook": {"views": 100, "avg_watch_s": 3.0}, "youtube": {"views": 50}}
+        self.assertEqual(report.watch_seconds(row), 450.0)
+        self.assertIsNone(report.watch_seconds({"instagram": {"likes": 2}}))
+
+    def test_frozen_grid(self):
+        settings = {"schedule": {"slots": [], "frozen_until": "2026-10-31"}}
+        self.assertEqual(report.frozen_until(settings, date(2026, 10, 20)), "2026-10-31")
+        self.assertIsNone(report.frozen_until(settings, date(2026, 11, 1)))
+        recs = report.recommendations({"posts": {}}, date(2026, 10, 20), settings)
+        self.assertTrue(recs[0].startswith("**Grade congelada até 31/10**"))
 
 
 if __name__ == "__main__":
