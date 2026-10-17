@@ -1,14 +1,14 @@
 # Pipeline diário: gera os posts, salva o estado, publica as mídias e o painel.
 #
-# Roda sozinho todo dia (schedule) e também pode ser disparado:
+# Não tem "schedule": quem dispara a geração diária é o agendador (scheduler/worker.js, Cloudflare),
+# às 05:20 de Brasília. O cron do GitHub chegava horas atrasado e refazia posts já publicados.
+# Também pode ser disparado:
 #  - pelo painel (botão "Gerar agora" e edição de post → re-render)
 #  - manualmente em Actions → "Pipeline de conteúdo" → Run workflow
 #  - automaticamente quando o código do painel muda (deploy)
 name: Pipeline de conteúdo
 
 on:
-  schedule:
-    - cron: "17 8 * * *" # 05:17 no horário de Brasília (08:17 UTC)
   push:
     branches: [main]
     paths: ["dashboard/**", "scheduler/**", ".github/workflows/pipeline.yml"]
@@ -51,7 +51,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 60
     env:
-      MODE: ${{ github.event_name == 'schedule' && 'generate' || (github.event_name == 'push' && 'deploy' || inputs.mode) }}
+      MODE: ${{ github.event_name == 'push' && 'deploy' || inputs.mode }}
       POST_ID: ${{ inputs.post_id }}
       FORCE: ${{ inputs.force == 'true' && '--force' || '' }}
       CLEAR: ${{ inputs.clear == 'true' && '--clear' || '' }}

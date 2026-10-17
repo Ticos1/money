@@ -53,7 +53,7 @@ def check_posts(queue: list[dict], history: list[dict], settings: dict, now: dat
     today = now.date().isoformat()
     if now.strftime("%H:%M") >= cfg["generate_by"] and not any(p.get("date") == today for p in queue + history):
         out.append(("geracao", f"Os posts de hoje ({now.strftime('%d/%m')}) não foram gerados. Veja em Actions → "
-                               "\"Pipeline de conteúdo\" se a execução das 05:17 falhou, ou toque em Gerar agora "
+                               "\"Pipeline de conteúdo\" se a execução das 05:20 falhou, ou toque em Gerar agora "
                                "no painel."))
     enabled = [n for n in NETS if pub.get(n)]
     if not enabled:

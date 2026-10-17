@@ -141,7 +141,8 @@ Depois de corrigir a configuração, desmarque e marque de novo, ou rode o workf
 O agendamento do GitHub Actions **atrasa e pula execuções** em horários de muito
 uso. Por isso, quem dispara a publicação no horário é um pequeno **Worker do
 Cloudflare** (`scheduler/`), que roda a cada 5 minutos, de graça. Ele também
-garante a geração diária, se a das 05:17 não rodar.
+dispara a geração diária às 05:20 (o pipeline não tem mais cron próprio: o do GitHub
+chegava horas atrasado e refazia posts que já tinham sido publicados).
 
 Configuração (uma vez):
 1. **Permissão do token:** Cloudflare → My Profile → API Tokens → edite o token
