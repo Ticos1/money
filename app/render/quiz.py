@@ -1,5 +1,5 @@
 """Template "Desafio de quiz": gancho "SÓ 1% ACERTA" → pergunta → alternativas →
-contagem regressiva → resposta revelada → chamada final.
+contagem regressiva (3s) → resposta revelada → volta ao gancho, para o vídeo repetir sem emenda.
 Imagens: pergunta (1:1 e 4:5) + resposta (1:1 e 4:5) para carrossel."""
 from __future__ import annotations
 
@@ -151,22 +151,43 @@ def still_answer(size, item, pal, seed, handle) -> Image.Image:
     return img.convert("RGB")
 
 
+LOOP_MUSIC_FADES = {"fade_in": 0.3, "fade_out": 0.4}
+LOOP_TAIL = 0.5  # depois da resposta, o gancho volta e fecha igual ao primeiro quadro
+
+
 def timeline(item: dict, max_s: float) -> dict:
     read = min(9.0, max(3.5, (len(item["question"]) + sum(len(o) for o in item["options"])) / 15))
-    count = 5
+    count = 3
     q_in = 2.4
     opts_in = [3.1 + 0.35 * i for i in range(4)]
     count_in = opts_in[-1] + 0.5 + read
     reveal = count_in + count
-    end_in = reveal + 4.0
-    total = end_in + 2.8
-    if total > max_s:
-        count = 3
-        reveal = count_in + count
-        end_in = reveal + 3.5
-        total = end_in + 2.5
+    end_in = reveal + 3.0
+    if end_in + LOOP_TAIL > max_s:
+        end_in = reveal + 2.5
+    total = end_in + LOOP_TAIL
     return {"q_in": q_in, "opts_in": opts_in, "count_in": count_in, "count": count, "reveal": reveal,
             "end_in": end_in, "total": round(total, 2)}
+
+
+def loop_layers(size, pal, seed, hook_canvas, q_in: float, end_in: float, total: float
+                ) -> tuple[list[video.Layer], list[video.Layer]]:
+    """Fundo e gancho montados para o vídeo emendar no começo ao repetir: o primeiro quadro já
+    mostra o gancho (sem fade) e o último volta a ser fundo + bokeh 1 + gancho.
+    Devolve (camadas de fundo, que vão por baixo de tudo; camadas do gancho)."""
+    w, h = size
+    b1 = design.bokeh(w, h, pal, seed + 1)
+    back = [
+        video.Layer(b1, 0, total * 0.6, fade_in=0, fade_out=2.5, slide=0),
+        video.Layer(design.bokeh(w, h, pal, seed + 2), total * 0.45, total - 0.1, fade_in=2.5,
+                    fade_out=1.2, slide=0),
+        video.Layer(b1, total - 1.3, total, fade_in=1.2, slide=0),
+    ]
+    hook = [
+        video.layer(hook_canvas, 0, q_in, fade_in=0, fade_out=0.3, slide=0),
+        video.layer(hook_canvas, end_in - 0.1, total, fade_in=0.4, slide=0),
+    ]
+    return back, hook
 
 
 def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, label: str = "DESAFIO BÍBLICO",
@@ -178,17 +199,14 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, l
     tl = timeline(item, settings.get("video", {}).get("max_seconds", 30))
     total = tl["total"]
     bg = design.background(*size, pal, seed)
-    layers = [
-        video.Layer(design.bokeh(*size, pal, seed + 1), 0, total * 0.6, fade_in=1.2, fade_out=2.5, slide=0),
-        video.Layer(design.bokeh(*size, pal, seed + 2), total * 0.45, total, fade_in=2.5, slide=0),
-    ]
 
     hook_canvas = _canvas(size)
     big, small = hook
     design.text_block(hook_canvas, [big], design.font("sans_black", 250 if len(big) <= 6 else 150),
                       280 if len(big) <= 6 else 180, w // 2, 560, fill=pal.accent + (255,))
     design.text_block(hook_canvas, small, design.font("sans_black", 72), 92, w // 2, 860)
-    layers.append(video.layer(hook_canvas, 0.15, tl["q_in"], fade_in=0.35, fade_out=0.3, slide=60))
+    layers, hook_layers = loop_layers(size, pal, seed, hook_canvas, tl["q_in"], tl["end_in"], total)
+    layers += hook_layers
 
     lab = _canvas(size)
     design.label(lab, label, L["label_y"], L["label_size"], pal.accent)
@@ -223,19 +241,9 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, l
     design.text_block(ans, [item["ref_label"]], design.font("sans_bold", 40), 52, w // 2, y)
     layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.35))
 
-    end = _canvas(size)
-    ImageDraw.Draw(end).rectangle([0, 0, w, h], fill=(0, 0, 0, 165))
-    design.text_block(end, ["Você acertou?"], design.font("serif_bold", 104), 130, w // 2, 640,
-                      fill=pal.accent + (255,))
-    fnt, lines, lh = design.fit("Comente sua resposta e desafie um amigo!", "sans_bold", 820, 220, 56, 40)
-    yy = design.text_block(end, lines, fnt, lh, w // 2, 810)
-    if handle:
-        design.text_block(end, [f"Siga {handle} para mais"], design.font("sans_bold", 46), 60, w // 2, yy + 40)
-    layers.append(video.Layer(end, tl["end_in"], total, fade_in=0.4, slide=0))
-
     wm = _canvas(size)
     design.watermark(wm, handle, L["wm_y"], L["wm_size"])
-    layers.append(video.layer(wm, 0.0, tl["end_in"], fade_in=0.01, slide=0))
+    layers.append(video.layer(wm, 0.0, total, fade_in=0, slide=0))
 
     out = out_dir / "video_sem_musica.mp4"
     video.compose(bg, layers, total, out, work)
@@ -249,7 +257,7 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
     silent, total, poster_at = render_video(item, pal, seed, handle, settings, out_dir, work)
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
-                    with_music, rng)
+                    with_music, rng, **LOOP_MUSIC_FADES)
     video.poster(silent, poster_at, out_dir / "capa.jpg")
     files = []
     for name, size, fn in (("pergunta_quadrada.jpg", (1080, 1080), still_question),

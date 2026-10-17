@@ -56,10 +56,12 @@ def compose(background: Image.Image, layers: list[Layer], duration: float, out: 
     chains = ["[0:v]format=rgba,setsar=1[b0]"]
     for i, lyr in enumerate(layers, start=1):
         end = min(lyr.end, duration)
-        fades = f"fade=t=in:st={lyr.start:.2f}:d={lyr.fade_in:.2f}:alpha=1"
+        fades = ["format=rgba"]
+        if lyr.fade_in > 0:  # fade_in=0: a camada já entra inteira (ex.: no primeiro quadro)
+            fades.append(f"fade=t=in:st={lyr.start:.2f}:d={lyr.fade_in:.2f}:alpha=1")
         if end < duration - 0.05 and lyr.fade_out > 0:
-            fades += f",fade=t=out:st={end - lyr.fade_out:.2f}:d={lyr.fade_out:.2f}:alpha=1"
-        chains.append(f"[{i}:v]format=rgba,{fades}[l{i}]")
+            fades.append(f"fade=t=out:st={end - lyr.fade_out:.2f}:d={lyr.fade_out:.2f}:alpha=1")
+        chains.append(f"[{i}:v]{','.join(fades)}[l{i}]")
         slide_t = max(0.01, lyr.fade_in * 1.4)
         y_expr = f"{lyr.y}+{lyr.slide}*max(0\\,1-(t-{lyr.start:.2f})/{slide_t:.2f})" if lyr.slide else str(lyr.y)
         chains.append(
@@ -77,12 +79,14 @@ def compose(background: Image.Image, layers: list[Layer], duration: float, out: 
 
 
 def add_music(silent: Path, track: Path, duration: float, volume: float, out: Path,
-              rng: random.Random) -> None:
-    """Versão COM música: mesma imagem, instrumental em volume baixo com fade."""
+              rng: random.Random, fade_in: float = 1.0, fade_out: float = 1.5) -> None:
+    """Versão COM música: mesma imagem, instrumental em volume baixo com fade.
+    Vídeos em loop usam fades curtos para a volta ao início não ter um buraco de silêncio."""
     offset = rng.uniform(0, 6)
-    fade_out_at = max(0.0, duration - 1.5)
+    fade_out_at = max(0.0, duration - fade_out)
     af = (f"[1:a]atrim=start={offset:.2f}:duration={duration:.2f},asetpts=PTS-STARTPTS,"
-          f"volume={volume:.3f},afade=t=in:st=0:d=1,afade=t=out:st={fade_out_at:.2f}:d=1.5[a]")
+          f"volume={volume:.3f},afade=t=in:st=0:d={fade_in:.2f},"
+          f"afade=t=out:st={fade_out_at:.2f}:d={fade_out:.2f}[a]")
     _run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(silent), "-stream_loop", "-1",
           "-i", str(track), "-filter_complex", af, "-map", "0:v", "-map", "[a]",
           "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-t", f"{duration:.2f}",

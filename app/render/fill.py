@@ -17,7 +17,7 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
         hook=("90%", ["ERRA A PALAVRA QUE", "FALTA NESTE VERSÍCULO"]))
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
-                    with_music, rng)
+                    with_music, rng, **quiz.LOOP_MUSIC_FADES)
     video.poster(silent, poster_at, out_dir / "capa.jpg")
     return {"video_music": "video_com_musica.mp4", "video_silent": "video_sem_musica.mp4",
             "poster": "capa.jpg", "images": [], "duration": total}

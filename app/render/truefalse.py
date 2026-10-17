@@ -1,5 +1,5 @@
 """Template "Verdadeiro ou falso?": pergunta do banco + uma resposta mostrada; contagem
-regressiva; revela se é verdade e qual é a resposta certa. Vídeo 9:16 com música."""
+regressiva de 3s; revela se é verdade e qual é a resposta certa e volta ao gancho (loop). Vídeo 9:16 com música."""
 from __future__ import annotations
 
 import random
@@ -31,8 +31,8 @@ def _button(size, box, text, color, state="normal"):
 
 
 def timeline() -> dict:
-    return {"q_in": 2.4, "claim_in": 3.4, "buttons_in": 4.0, "count_in": 5.2, "count": 5,
-            "reveal": 10.2, "end_in": 14.5, "total": 17.0}
+    return {"q_in": 2.4, "claim_in": 3.4, "buttons_in": 4.0, "count_in": 5.2, "count": 3,
+            "reveal": 8.2, "end_in": 11.2, "total": 11.2 + quiz.LOOP_TAIL}
 
 
 def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -> tuple[Path, float]:
@@ -42,15 +42,12 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -
     tl = timeline()
     total = tl["total"]
     bg = design.background(w, h, pal, seed)
-    layers = [
-        video.Layer(design.bokeh(w, h, pal, seed + 1), 0, total * 0.6, fade_in=1.2, fade_out=2.5, slide=0),
-        video.Layer(design.bokeh(w, h, pal, seed + 2), total * 0.45, total, fade_in=2.5, slide=0),
-    ]
     hook = quiz._canvas(size)
     design.text_block(hook, ["VERDADEIRO"], design.font("sans_black", 140), 160, w // 2, 600, fill=GREEN + (255,))
     design.text_block(hook, ["OU FALSO?"], design.font("sans_black", 140), 160, w // 2, 770, fill=RED + (255,))
     design.text_block(hook, ["Só 1% acerta de primeira"], design.font("sans_bold", 54), 70, w // 2, 980)
-    layers.append(video.layer(hook, 0.15, tl["q_in"], fade_in=0.3, fade_out=0.3, slide=60))
+    layers, hook_layers = quiz.loop_layers(size, pal, seed, hook, tl["q_in"], tl["end_in"], total)
+    layers += hook_layers
 
     lab = quiz._canvas(size)
     design.label(lab, "VERDADEIRO OU FALSO?", L["label_y"], L["label_size"], pal.accent)
@@ -97,18 +94,9 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -
     design.text_block(ans, lines, fnt, lh, w // 2, y + 6)
     layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.3))
 
-    end = quiz._canvas(size)
-    ImageDraw.Draw(end).rectangle([0, 0, w, h], fill=(0, 0, 0, 165))
-    design.text_block(end, ["Você acertou?"], design.font("serif_bold", 104), 130, w // 2, 640, fill=pal.accent + (255,))
-    fnt, lines, lh = design.fit("Comente V ou F e desafie um amigo!", "sans_bold", 820, 220, 56, 40)
-    yy = design.text_block(end, lines, fnt, lh, w // 2, 810)
-    if handle:
-        design.text_block(end, [f"Siga {handle} para mais"], design.font("sans_bold", 46), 60, w // 2, yy + 40)
-    layers.append(video.Layer(end, tl["end_in"], total, fade_in=0.4, slide=0))
-
     wm = quiz._canvas(size)
     design.watermark(wm, handle, L["wm_y"], L["wm_size"])
-    layers.append(video.layer(wm, 0.0, tl["end_in"], fade_in=0.01, slide=0))
+    layers.append(video.layer(wm, 0.0, total, fade_in=0, slide=0))
     out = out_dir / "video_sem_musica.mp4"
     video.compose(bg, layers, total, out, work)
     return out, total
@@ -121,7 +109,7 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
     silent, total = render_video(item, pal, seed, handle, settings, out_dir, work)
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
-                    with_music, rng)
+                    with_music, rng, **quiz.LOOP_MUSIC_FADES)
     video.poster(silent, timeline()["count_in"], out_dir / "capa.jpg")
     return {"video_music": "video_com_musica.mp4", "video_silent": "video_sem_musica.mp4",
             "poster": "capa.jpg", "images": [], "duration": total}
