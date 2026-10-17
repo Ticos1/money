@@ -924,6 +924,95 @@
    "error": null
   },
   {
+   "id": "2026-10-17-1-verse-v2",
+   "date": "2026-10-17",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-17T06:27",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-17T06:00:00+00:00",
+   "source": "bank",
+   "bank_id": "v508",
+   "model": null,
+   "content": {
+    "ref": "Isaías 26:12",
+    "ref_label": "Isaías 26:12",
+    "verse_text": "SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.",
+    "on_screen": "Deus é quem estabelece a paz na sua vida.",
+    "reflection": "Isaías reconhece que tudo o que o povo conquistou foi obra de Deus. Entregue seus planos ao Senhor e confie que Ele traz a paz que você não consegue produzir.",
+    "theme": "paz",
+    "mood": "reflexao",
+    "tags": [
+     "paz",
+     "confianca"
+    ],
+    "application": "Reserve alguns minutos agora para entregar suas preocupações a Deus em oração, pedindo que Ele guie seus passos e conceda a paz que só Ele pode dar."
+   },
+   "captions": {
+    "instagram": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\n➡️ Arraste para o lado: tem uma aplicação prática para hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #confianca #versiculododia #versiculo #gospel #cristao #devocional #biblia #palavradedeus #evangelico #esperanca",
+    "facebook": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #confianca #versiculododia",
+    "tiktok": "Versículo de paz\nConfie no Senhor e descubra a paz que Ele tem para você. 🙏\n#versiculodepaz #paz #confianca #versiculododia #versiculo",
+    "kwai": "Versículo de paz\nConfie no Senhor e descubra a paz que Ele tem para você. 🙏\n#versiculodepaz #paz #confianca #versiculododia #versiculo",
+    "whatsapp": "“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de paz: Isaías 26:12 🙏 #shorts",
+     "description": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodepaz #paz #confianca",
+     "tags": [
+      "versículo de paz",
+      "versículos de paz",
+      "paz",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "confianca",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": null,
+   "gospel_suggestions": [
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-17T09:30:36+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18139170376621510"
+   }
+  },
+  {
    "id": "2026-10-16-10-truefalse",
    "date": "2026-10-16",
    "slot": 10,
