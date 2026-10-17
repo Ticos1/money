@@ -6,10 +6,11 @@ variações de texto; a saída passa por checagens e, se reprovada, fica o model
 from __future__ import annotations
 
 import json
+import os
 import random
 import re
 
-from . import bible
+from . import bible, config, keywords, youtube_seo
 from .config import CONTENT_DIR
 from .groq_client import GroqClient, GroqUnavailable
 
@@ -57,7 +58,8 @@ QUIZ_CTAS = [
 def _hashtags(kind: str, item: dict, platform: str, rng: random.Random) -> str:
     cfg = json.loads((CONTENT_DIR / "hashtags.json").read_text(encoding="utf-8"))
     limit = cfg["platform_limits"][platform]
-    own = [t for t in item.get("tags", []) if t]
+    # tema de busca primeiro (#versiculoparaansiedade), depois as tags do próprio conteúdo
+    own = list(dict.fromkeys(keywords.hashtags(kind, item) + [t for t in item.get("tags", []) if t]))
     pool = list(dict.fromkeys(own + cfg[kind] + cfg["base"]))
     head, tail = pool[: len(own) + 2], pool[len(own) + 2:]
     rng.shuffle(tail)
@@ -78,6 +80,28 @@ TF_HOOKS = [
     "Verdade ou mentira? Teste o seu conhecimento bíblico",
     "Verdadeiro ou falso: você acerta essa?",
 ]
+
+
+AI_HOOK = "Legenda da IA"  # a Groq escreve a abertura inteira: entra no teste como um gancho só
+CAROUSEL_LINE = "➡️ Arraste para o lado: tem uma aplicação prática para hoje."
+
+
+def hook_label(caps: dict, caption_source: str | None) -> str | None:
+    """Qual gancho abriu a legenda (teste A/B de ganchos). Serve também para posts antigos,
+    gravados antes de o gancho ser registrado: é deduzido do começo da legenda."""
+    if caption_source == "groq":
+        return AI_HOOK
+    text = (caps or {}).get("instagram") or (caps or {}).get("facebook") or ""
+    if not isinstance(text, str):
+        return None
+    hooks = sorted(VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS, key=len, reverse=True)
+    # a 1ª linha pode ser a palavra-chave de busca ("Versículo para ansiedade: …"); o gancho vem logo depois
+    starts = [text, text.split("\n", 1)[1] if "\n" in text else ""]
+    return next((h for h in hooks if any(t.startswith(h) for t in starts)), None)
+
+
+def hook_of(post: dict) -> str | None:
+    return post.get("hook") or hook_label(post.get("captions") or {}, post.get("caption_source"))
 
 
 def template_captions(kind: str, item: dict, handle: str, rng: random.Random) -> dict:
@@ -126,20 +150,61 @@ def template_captions(kind: str, item: dict, handle: str, rng: random.Random) ->
     }
 
 
-def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Random) -> dict:
+# Canal do WhatsApp: ninguém comenta (só reage) e hashtag não serve para nada.
+WHATSAPP_CTAS = {
+    "verse": "Reaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.",
+    "curiosity": "Reaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.",
+}
+WHATSAPP_QUIZ_CTA = "Reaja com ✅ se você acertou e encaminhe para desafiar alguém!"
+
+
+def _site_url() -> str:
+    """Endereço do mini-site (/hoje/), se o workflow informou um válido."""
+    base = os.environ.get("PUBLIC_BASE_URL", "").strip().rstrip("/")
+    return f"{base}/hoje/" if base.startswith("https://") and "://." not in base else ""
+
+
+def whatsapp_caption(kind: str, texts: dict) -> str:
+    body = texts["long"].replace(" (ou arraste para o lado no carrossel)", "")
+    if texts.get("cta"):
+        body = body.replace(texts["cta"], "")
+    for line in ("Comente a letra antes de ver a resposta!", "Comente a palavra que falta antes de ver a resposta!",
+                 "Comente V ou F antes de ver a resposta!"):
+        body = body.replace(line, "")
+    body = re.sub(r"[ \t]+\n", "\n", re.sub(r"\n{3,}", "\n\n", body)).strip()
+    hook = texts.get("hook", "")
+    if hook and body.startswith(hook):  # negrito do WhatsApp na abertura
+        body = f"*{hook}*{body[len(hook):]}"
+    parts = [body, WHATSAPP_CTAS.get(kind, WHATSAPP_QUIZ_CTA)]
+    site = _site_url()
+    if site:
+        parts.append(f"🎯 Quiz de hoje com placar: {site}" if kind != "verse"
+                     else f"📖 Versículo e quiz de hoje: {site}")
+    parts.append(ATTRIBUTION)
+    return "\n\n".join(parts)
+
+
+def _assemble(kind: str, item: dict, texts: dict, handle: str, rng: random.Random,
+              carousel: bool = False) -> dict:
     tag = lambda p: _hashtags(kind, item, p, rng)  # noqa: E731
     follow = f"Siga {handle} para mais." if handle else ""
-    yt_title = texts["youtube_title"]
-    if len(yt_title) > 90:
-        yt_title = yt_title[:87].rsplit(" ", 1)[0] + "…"
+    swipe = f"\n\n{CAROUSEL_LINE}" if carousel else ""
+    yt_title = youtube_seo.short_title(kind, item, rng)  # curto, palavra-chave na frente, sem a resposta
+    # busca: "Versículo para ansiedade: Filipenses 4:6" na 1ª linha (o WhatsApp não tem busca)
+    key = keywords.first_line(kind, item)
+    top = f"{key}\n" if key else ""
+    phrase = keywords.search_phrase(kind, item)  # legenda curta já traz a referência
+    top_short = f"{phrase}\n" if phrase else ""
     return {
-        "instagram": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
-        "facebook": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
-        "tiktok": f"{texts['short']}\n{tag('tiktok')}",
-        "kwai": f"{texts['short']}\n{tag('kwai')}",
+        "instagram": f"{top}{texts['long']}{swipe}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('instagram')}".strip(),
+        "facebook": f"{top}{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('facebook')}".strip(),
+        "tiktok": f"{top_short}{texts['short']}\n{tag('tiktok')}",
+        "kwai": f"{top_short}{texts['short']}\n{tag('kwai')}",
+        "whatsapp": whatsapp_caption(kind, texts),
         "youtube": {
-            "title": f"{yt_title} #shorts"[:100],
-            "description": f"{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",
+            "title": yt_title,
+            "description": f"{top}{texts['long']}\n\n{follow}\n{ATTRIBUTION}\n\n{tag('youtube')}",
+            "tags": youtube_seo.tags(kind, item),
         },
     }
 
@@ -212,4 +277,5 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
             source = "groq"
         except (GroqUnavailable, ValueError, TypeError, AttributeError, KeyError) as exc:
             log.append(f"legenda Groq descartada: {exc}")
-    return _assemble(kind, item, texts, handle, rng), source
+    carousel = kind == "verse" and config.verse_carousel(settings)
+    return _assemble(kind, item, texts, handle, rng, carousel), source

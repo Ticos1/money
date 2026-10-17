@@ -28,9 +28,9 @@ gerado por `scripts/build_bible.py` a partir do arquivo oficial do eBible.org.
 
 | Arquivo | Itens | Campos principais |
 |---|---|---|
-| `verses.json` | 95 | `ref`, `on_screen` (frase do vídeo, até 110 caracteres), `reflection` (legenda), `mood`, `tags` |
-| `quizzes.json` | 95 | `question`, `options` (4), `answer` (0 a 3), `ref`, `evidence` (trecho literal do versículo) |
-| `curiosities.json` | 102 | `title`, `text`, `ref`, `evidence` |
+| `verses.json` | 607 | `ref`, `on_screen` (frase do vídeo, até 110 caracteres), `reflection` (legenda), `mood`, `tags` |
+| `quizzes.json` | 1.248 | `question`, `options` (4), `answer` (0 a 3), `ref`, `evidence` (trecho literal do versículo) |
+| `curiosities.json` | 267 | `title`, `text`, `ref`, `evidence` |
 
 O sistema **não repete**: `state/used.json` guarda o que já saiu, e o mesmo
 versículo não volta antes de 180 dias. Quando o banco acaba, ele recorre à
@@ -51,6 +51,23 @@ workflow "Testes".
 Edite os JSON seguindo o formato dos itens existentes (IDs únicos), rode
 `python -m app.validate` e faça o commit. Também posso gerar mais lotes aqui no
 chat, já validados.
+
+### Saturação: quando o conteúdo vai começar a repetir
+`python -m app.saturation` cruza o banco com o `state/used.json` (mesmas regras da
+geração) e divide o que sobra pelo consumo diário da agenda:
+
+| Coluna | O que é |
+|---|---|
+| Na agenda/dia | quantos posts desse formato saem por dia |
+| Inéditos | itens que ainda não saíram nesse formato |
+| Saturação | % do banco já usado |
+| Dias até repetir | inéditos ÷ consumo diário (sem contar a IA) |
+
+O quiz e o "Verdadeiro ou falso" gastam o **mesmo** banco de perguntas, então os dois
+somam no consumo. O "Complete o versículo" só conta versículos curtos (até 220
+caracteres) com uma palavra-chave que dá para esconder. A mesma tabela sai no resumo
+semanal, com aviso quando algum formato tiver menos de 30 dias de inéditos: aí é hora
+de ampliar o banco (ou tirar esse formato de alguns horários).
 
 ## A IA (Groq), como complemento
 - **Conteúdo novo:** em cerca de 30% dos dias (`groq.new_content_ratio`), ou

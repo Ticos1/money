@@ -153,6 +153,23 @@ class CaptionTests(unittest.TestCase):
         self.assertLessEqual(len(caps["youtube"]["title"]), 100)
         self.assertLessEqual(caps["tiktok"].count("#"), 5)
 
+    def test_whatsapp_caption_has_no_hashtags_or_comment_cta(self):
+        item = self._quiz()
+        no_groq = {**SETTINGS, "groq": {"enabled": False}}
+        with mock.patch.dict("os.environ", {"PUBLIC_BASE_URL": "https://x.pages.dev"}):
+            caps, _ = captions.build("quiz", item, no_groq, GroqClient(None, SETTINGS, {}, TODAY),
+                                     random.Random(1), [])
+        wa = caps["whatsapp"]
+        self.assertNotIn("#", wa)
+        self.assertNotIn("Comente", wa)  # canal não tem comentários, só reações
+        self.assertTrue(wa.startswith("*"))  # gancho em negrito
+        self.assertIn(item["question"], wa)
+        self.assertIn("https://x.pages.dev/hoje/", wa)
+        with mock.patch.dict("os.environ", {"PUBLIC_BASE_URL": "https://.pages.dev"}):
+            caps, _ = captions.build("quiz", item, no_groq, GroqClient(None, SETTINGS, {}, TODAY),
+                                     random.Random(1), [])
+        self.assertNotIn("pages.dev", caps["whatsapp"])  # projeto sem nome: sem link quebrado
+
 
 class GroqRobustnessTests(unittest.TestCase):
     def test_parse_json_formats(self):
@@ -201,6 +218,22 @@ class PublishTests(unittest.TestCase):
         self.assertTrue(is_due(self.POST, datetime(2026, 10, 9, 7, 5, tzinfo=tz), tz))
         self.assertFalse(is_due(self.POST, datetime(2026, 10, 9, 6, 59, tzinfo=tz), tz))
         self.assertFalse(is_due({**self.POST, "status": "pending"}, datetime(2026, 10, 9, 9, 0, tzinfo=tz), tz))
+
+    def test_publish_time_varies_up_to_ten_minutes_and_is_respected(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app.publish import is_due, publish_at
+        tz = ZoneInfo("America/Sao_Paulo")
+        times = {publish_at(f"2026-10-09-{i}-quiz", "2026-10-09", "07:00", {}) for i in range(40)}
+        offsets = {(datetime.fromisoformat(t) - datetime(2026, 10, 9, 7, 0)).total_seconds() / 60 for t in times}
+        self.assertTrue(all(-10 <= o <= 10 for o in offsets))
+        self.assertGreater(len(offsets), 5)  # varia de post para post
+        self.assertEqual(publish_at("x", "2026-10-09", "07:00", {}), publish_at("x", "2026-10-09", "07:00", {}))
+        self.assertEqual(publish_at("x", "2026-10-09", "00:00", {"publishing": {"time_jitter_minutes": 0}}),
+                         "2026-10-09T00:00")
+        post = {**self.POST, "publish_at": "2026-10-09T07:08"}
+        self.assertFalse(is_due(post, datetime(2026, 10, 9, 7, 5, tzinfo=tz), tz))
+        self.assertTrue(is_due(post, datetime(2026, 10, 9, 7, 8, tzinfo=tz), tz))
 
     def test_publish_run_records_success_and_errors(self):
         from app import publish
@@ -292,7 +325,8 @@ class PublishTests(unittest.TestCase):
             res = publish.run(Path(tmp), future["id"], "youtube", True)["publish_results"]
             self.assertEqual(list(res[future["id"]]), ["youtube"])
             self.assertEqual(bp.call_args[0][0], {"tiktok": False, "kwai": False, "youtube": True,
-                                                  "instagram": False, "facebook": False, "stories": False})
+                                                  "instagram": False, "facebook": False, "stories": False,
+                                                  "whatsapp": False})
 
 
 class TikTokTests(unittest.TestCase):
@@ -445,6 +479,13 @@ class MetricsTests(unittest.TestCase):
                                   "media_product_type": "REELS", "like_count": 7, "comments_count": 2}]}
             if url.endswith("/insights"):
                 raise PublishError("(#10) permission")
+            if url.endswith("/V9/video_insights"):
+                return {"data": [
+                    {"name": "total_video_views", "values": [{"value": 120}]},
+                    {"name": "total_video_views_unique", "values": [{"value": 90}]},
+                    {"name": "total_video_complete_views", "values": [{"value": 30}]},
+                    {"name": "total_video_avg_time_watched", "values": [{"value": 8450}]},
+                    {"name": "total_video_view_time_by_age_bucket_and_gender", "values": [{"value": {"F.65+": 9}}]}]}
             if url.endswith("/posts"):
                 return {"data": []}
             if url.endswith("/videos"):
@@ -463,9 +504,73 @@ class MetricsTests(unittest.TestCase):
             data = metrics.collect(date(2026, 10, 10))
         row = data["posts"][post["id"]]
         self.assertEqual(row["instagram"], {"likes": 7, "comments": 2})
-        self.assertEqual(row["facebook"], {"likes": 3, "comments": 1})
+        self.assertEqual(row["facebook"], {"likes": 3, "comments": 1, "views": 120, "views_3s": 120,
+                                           "viewers": 90, "complete_views": 30, "avg_watch_s": 8.4})
         self.assertEqual(row["youtube"]["views"], 64)
         self.assertTrue(any("instagram_manage_insights" in n for n in data["notes"]))
+        self.assertFalse(any("read_insights" in n for n in data["notes"]))
+
+    def test_instagram_insights_too_much_data_falls_back_to_one_metric_at_a_time(self):
+        from app import metrics
+        from app.publishers import PublishError
+
+        def fake_get(url, **params):
+            if "," in params["metric"]:
+                raise PublishError("Please reduce the amount of data you're asking for, then retry your request")
+            if params["metric"] == "saved":
+                raise PublishError("Please reduce the amount of data you're asking for, then retry your request")
+            return {"data": [{"name": params["metric"], "values": [{"value": 5}]}]}
+
+        failed = []
+        with mock.patch.object(metrics, "_get", side_effect=fake_get):
+            row = metrics.ig_insights("M1", "reach,saved,shares", "T", failed)
+        self.assertEqual(row, {"reach": 5, "shares": 5})
+        self.assertEqual(len(failed), 1)
+        with mock.patch.object(metrics, "_get", side_effect=PublishError("(#10) Application does not have permission")):
+            with self.assertRaises(PublishError):
+                metrics.ig_insights("M1", "reach,saved", "T", [])
+
+    def test_facebook_video_insights_without_permission_keep_likes_and_warn(self):
+        from app import metrics
+        from app.publishers import PublishError, meta
+        post = {"id": "2026-10-10-3-quiz", "date": "2026-10-10", "time": "12:00", "type": "quiz",
+                "content": {"question": "Quem?"},
+                "publish_links": {"facebook": "https://www.facebook.com/P1/videos/V9"}}
+        calls = []
+
+        def fake_get(url, **params):
+            calls.append(url)
+            if url.endswith("/video_insights"):
+                raise PublishError("(#200) requires read_insights")
+            if url.endswith("/videos"):
+                return {"data": [{"id": "V9", "likes": {"summary": {"total_count": 4}},
+                                  "comments": {"summary": {"total_count": 0}}}]}
+            return {"data": []}
+
+        acc = mock.Mock(ig_id=None, page_id="P1", page_token="T")
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.dict("os.environ", {"META_ACCESS_TOKEN": "T"}, clear=False), \
+                mock.patch.object(meta, "MetaAccount", return_value=acc), \
+                mock.patch.object(metrics, "_get", side_effect=fake_get), \
+                mock.patch.object(metrics, "collect_youtube", return_value={}):
+            state.save_history([post])
+            data = metrics.collect(date(2026, 10, 10))
+        self.assertEqual(data["posts"][post["id"]]["facebook"], {"likes": 4, "comments": 0})
+        self.assertTrue(any("read_insights" in n for n in data["notes"]))
+        self.assertEqual(sum(u.endswith("/video_insights") for u in calls), 1)
+
+
+class RetentionReportTests(unittest.TestCase):
+    def test_weekly_report_lists_videos_by_average_watch_time(self):
+        from app import report
+        rows = [{"id": f"p{i}", "title": f"Quiz {i}", "type": "quiz",
+                 "facebook": {"views": 10 * i, "avg_watch_s": float(i)}} for i in range(1, 6)]
+        rows.append({"id": "img", "title": "Versículo", "type": "verse", "facebook": {"likes": 3}})
+        lines = report.retention_lines(rows)
+        self.assertIn("5.0 s", lines[3])
+        self.assertIn("Quiz 5", lines[3])
+        self.assertTrue(lines[-1].startswith("- Mais fraco: 1.0 s"))
+        self.assertEqual(report.retention_lines([rows[-1]]), [])
 
 
 class CompilationTests(unittest.TestCase):
@@ -688,6 +793,447 @@ class StateTests(unittest.TestCase):
             hist = state.load_history()
             self.assertEqual(hist[0]["id"], old["id"])
             self.assertNotIn("media", hist[0])
+
+
+class SaturationTests(unittest.TestCase):
+    SETTINGS = {"schedule": {"slots": [{"time": "08:00", "type": "quiz"}, {"time": "10:00", "type": "quiz"},
+                                       {"time": "12:00", "type": "truefalse"},
+                                       {"time": "14:00", "type": "verse"}]}}
+
+    def test_counts_used_items_and_shared_consumption(self):
+        from app import saturation
+        empty = {k["kind"]: k for k in saturation.status(TODAY, {}, self.SETTINGS)}
+        quiz_ids = [q["id"] for q in validate.load_bank("quiz")[:10]]
+        used = {"quiz": {i: "2026-10-01" for i in quiz_ids}}
+        rows = {k["kind"]: k for k in saturation.status(TODAY, used, self.SETTINGS)}
+        self.assertEqual(rows["quiz"]["fresh"], empty["quiz"]["fresh"] - 10)
+        # quiz e Verdadeiro ou falso gastam o mesmo banco: 3 por dia
+        self.assertEqual(rows["quiz"]["days_left"], rows["quiz"]["fresh"] // 3)
+        self.assertEqual(rows["verse"]["days_left"], rows["verse"]["fresh"])
+        self.assertIsNone(rows["curiosity"]["days_left"])  # fora da agenda
+        self.assertEqual(saturation.warnings(rows.values()), [])
+
+    def test_warns_when_running_out(self):
+        from app import saturation
+        rows = [{"kind": "quiz", "bank": 100, "fresh": 20, "saturation": 80, "per_day": 4,
+                 "days_left": 5, "repeats_after": None}]
+        self.assertEqual(len(saturation.warnings(rows)), 1)
+        self.assertIn("⚠️ 5", "\n".join(saturation.markdown(rows)))
+
+
+class FormatAnalysisTests(unittest.TestCase):
+    SLOTS = [{"time": "06:30", "type": "verse"}, {"time": "08:00", "type": "quiz"},
+             {"time": "13:30", "type": "curiosity"}, {"time": "20:00", "type": "quiz"}]
+
+    @staticmethod
+    def _metrics(per_type: dict[str, list[int]]) -> dict:
+        posts = {}
+        for t, likes in per_type.items():
+            for i, n in enumerate(likes):
+                posts[f"{t}-{i}"] = {"type": t, "date": "2026-10-05", "instagram": {"likes": n},
+                                     "youtube": {"views": 1000, "likes": 50}}
+        return {"posts": posts}
+
+    def test_cuts_weak_format_and_keeps_verse(self):
+        from app import report
+        m = self._metrics({"quiz": [5] * 8, "curiosity": [0] * 8, "verse": [0] * 8})
+        result = report.analyze(m, TODAY, 28)
+        verdicts = {f["type"]: f["verdict"] for f in result["formats"]}
+        self.assertEqual(verdicts, {"quiz": "concentrar", "curiosity": "cortar", "verse": "cortar"})
+        slots = report.proposed_slots(self.SLOTS, result)
+        # o YouTube não entra na conta (senão favoreceria quem vai para lá)
+        self.assertEqual(result["formats"][0]["avg"], 5)
+        self.assertEqual([s["type"] for s in slots], ["verse", "quiz", "quiz"])
+        self.assertIn("de 4 para 3 posts", report.analysis_text(result, self.SLOTS))
+
+    def test_little_data_changes_nothing(self):
+        from app import report
+        m = self._metrics({"quiz": [1] * 8, "curiosity": [0] * 8})
+        result = report.analyze(m, TODAY, 28)
+        self.assertFalse(result["enough"])
+        self.assertTrue(all(f["verdict"] == "insuficiente" for f in result["formats"]))
+        self.assertEqual(report.proposed_slots(self.SLOTS, result), self.SLOTS)
+        self.assertIn("Ainda não dá para decidir", report.analysis_text(result, self.SLOTS))
+
+
+class HookABTests(unittest.TestCase):
+    def test_hook_is_recorded_and_inferred_for_old_posts(self):
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        caps, source = captions.build("quiz", item, {**SETTINGS, "groq": {"enabled": False}},
+                                      FakeGroq([]), random.Random(2), [])
+        hook = captions.hook_label(caps, source)
+        self.assertIn(hook, captions.QUIZ_HOOKS)
+        self.assertEqual(captions.hook_of({"captions": caps, "caption_source": source}), hook)
+        self.assertEqual(captions.hook_label(caps, "groq"), captions.AI_HOOK)
+        self.assertEqual(captions.hook_of({"hook": "X", "captions": caps}), "X")
+
+    def test_report_compares_hooks_by_reach_and_recommends(self):
+        from app import report
+        posts = {}
+        for i in range(4):
+            posts[f"a{i}"] = {"type": "quiz", "date": "2026-10-05", "time": "08:00", "hook": "Gancho A",
+                              "instagram": {"likes": 2, "reach": 300}}
+            posts[f"b{i}"] = {"type": "quiz", "date": "2026-10-06", "time": "12:00", "hook": "Gancho B",
+                              "instagram": {"likes": 2, "reach": 50}}
+        posts["c"] = {"type": "quiz", "date": "2026-10-06", "hook": "Gancho C", "instagram": {"reach": 900}}
+        hooks = report.hook_analysis({"posts": posts}, TODAY)["quiz"]
+        self.assertEqual([h["hook"] for h in hooks], ["Gancho A", "Gancho B", "Gancho C"])  # C: em teste
+        self.assertEqual(hooks[0]["reach"], 300)
+        recs = report.recommendations({"posts": posts}, TODAY, {})
+        self.assertTrue(any("“Gancho A”" in r and "“Gancho B”" in r for r in recs))
+        self.assertIn("(em teste)", "\n".join(report.hooks_text({"quiz": hooks})))
+
+
+class RecommendationTests(unittest.TestCase):
+    def test_weekly_report_says_cut_and_increase_only_for_formats_in_the_grid(self):
+        from app import report
+        m = FormatAnalysisTests._metrics({"quiz": [5] * 8, "fill": [0] * 8, "curiosity": [0] * 8})
+        settings = {"schedule": {"slots": [{"time": "08:00", "type": "quiz"}, {"time": "09:00", "type": "fill"}]}}
+        recs = "\n".join(report.recommendations(m, TODAY, settings))
+        self.assertIn("**Aumente Desafio de quiz**", recs)
+        self.assertIn("**Corte Complete o versículo**", recs)
+        self.assertNotIn("Você sabia", recs)  # já fora da grade
+
+
+class AdaptTests(unittest.TestCase):
+    SETTINGS = {"schedule": {"slots": [{"time": "06:30", "type": "verse"}, {"time": "08:00", "type": "quiz"},
+                                       {"time": "10:00", "type": "fill"}, {"time": "12:00", "type": "quiz"},
+                                       {"time": "18:00", "type": "fill"}]}}
+
+    @staticmethod
+    def _metrics(fill_reach: int, days: int = 14) -> dict:
+        posts = {}
+        for d in range(1, days + 1):
+            day = date.fromordinal(TODAY.toordinal() - d).isoformat()
+            posts[f"f{d}"] = {"type": "fill", "date": day, "instagram": {"likes": 0, "reach": fill_reach}}
+            posts[f"q{d}"] = {"type": "quiz", "date": day, "instagram": {"likes": 3, "reach": 120}}
+        return {"posts": posts}
+
+    def test_two_weeks_of_zero_reach_moves_one_slot_to_the_best_format(self):
+        from app import adapt
+        with mock.patch.object(adapt, "_bank_ok", return_value=True):
+            result = adapt.plan(self._metrics(0), self.SETTINGS, TODAY, {"changes": []})
+        self.assertEqual(result["change"]["from"], "fill")
+        self.assertEqual(result["change"]["to"], "quiz")
+        self.assertEqual(result["change"]["time"], "18:00")  # o último horário do formato fraco
+        types = [s["type"] for s in result["slots"]]
+        self.assertEqual(types, ["verse", "quiz", "fill", "quiz", "quiz"])  # mesmo total, versículo primeiro
+
+    def test_no_change_with_reach_little_history_cooldown_or_last_slot(self):
+        from app import adapt
+        with mock.patch.object(adapt, "_bank_ok", return_value=True):
+            self.assertIn("skip", adapt.plan(self._metrics(5), self.SETTINGS, TODAY, {"changes": []}))
+            self.assertIn("skip", adapt.plan(self._metrics(0, days=7), self.SETTINGS, TODAY, {"changes": []}))
+            recent = {"changes": [{"date": "2026-10-01"}]}
+            self.assertIn("skip", adapt.plan(self._metrics(0), self.SETTINGS, TODAY, recent))
+            one = {"schedule": {"slots": self.SETTINGS["schedule"]["slots"][:3]}}
+            self.assertIn("skip", adapt.plan(self._metrics(0), one, TODAY, {"changes": []}))
+            off = {**self.SETTINGS, "adapt": {"enabled": False}}
+            self.assertIn("skip", adapt.plan(self._metrics(0), off, TODAY, {"changes": []}))
+        # sem dado de alcance (ex.: token sem insights) não conta como zero
+        no_data = {"posts": {k: {**v, "instagram": {"likes": 0}} for k, v in self._metrics(0)["posts"].items()}}
+        self.assertIn("skip", adapt.plan(no_data, self.SETTINGS, TODAY, {"changes": []}))
+
+    def test_apply_writes_settings_and_history(self):
+        from app import adapt, config
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(config, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "CONFIG_PATH", Path(tmp) / "settings.json"), \
+                mock.patch.object(adapt, "_bank_ok", return_value=True):
+            result = adapt.plan(self._metrics(0), self.SETTINGS, TODAY, {"changes": []})
+            adapt.apply(result, self.SETTINGS)
+            saved = json.loads((Path(tmp) / "settings.json").read_text())
+            self.assertEqual(saved["schedule"]["slots"][4]["type"], "quiz")
+            self.assertEqual(adapt.load_history()["changes"][0]["from"], "fill")
+
+
+class HealthTests(unittest.TestCase):
+    def _now(self, hhmm: str):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        return datetime.fromisoformat(f"2026-10-09T{hhmm}").replace(tzinfo=ZoneInfo("America/Sao_Paulo"))
+
+    def test_stalled_publishing_late_posts_and_missing_generation(self):
+        from app import health
+        settings = {"publishing": {"instagram": True, "max_attempts": 3}}
+        ok_post = {"id": "p0", "date": "2026-10-09", "time": "06:30", "status": "approved", "media": {"base": "m/"},
+                   "published": {"instagram": "2026-10-09T09:40:00+00:00"}}
+        self.assertEqual(health.check_posts([ok_post], [], settings, self._now("10:00")), [])
+        late = {"id": "p1", "date": "2026-10-09", "time": "07:00", "status": "approved", "media": {"base": "m/"},
+                "published": {}, "publish_errors": {"instagram": {"attempts": 3}}}
+        found = dict(health.check_posts([ok_post, late], [], settings, self._now("10:00")))
+        self.assertIn("p1", found["atrasados"])
+        self.assertIn("desistiu", found["atrasados"])
+        old = {**ok_post, "date": "2026-10-08", "published": {"instagram": "2026-10-08T12:00:00+00:00"}}
+        found = dict(health.check_posts([old], [], settings, self._now("10:00")))
+        self.assertIn("parada", found)
+        self.assertIn("geracao", found)  # passou das 08:00 sem posts de hoje
+        self.assertNotIn("geracao", dict(health.check_posts([old], [], settings, self._now("07:00"))))
+
+    def test_token_checks(self):
+        from app import health
+        now = 1_000_000_000
+        resp = mock.Mock()
+        resp.json.return_value = {"data": {"is_valid": True, "expires_at": now + 3 * 86400,
+                                           "data_access_expires_at": now + 60 * 86400}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            found = health.check_meta("t", 7, now)
+        self.assertEqual([k for k, _ in found], ["token-meta"])
+        self.assertIn("3 dia", found[0][1])
+        resp.json.return_value = {"data": {"is_valid": True, "expires_at": 0}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            self.assertEqual(health.check_meta("t", 7, now), [])
+        resp.json.return_value = {"error": {"code": 190, "message": "expired"}}
+        with mock.patch("app.health.requests.get", return_value=resp):
+            self.assertEqual(health.check_meta("t", 7, now)[0][0], "token-meta")
+        resp.json.return_value = {"error": "invalid_grant"}
+        with mock.patch("app.health.requests.post", return_value=resp):
+            self.assertEqual(health.check_youtube("a", "b", "c")[0][0], "token-youtube")
+        self.assertEqual(health.check_tiktok({"refresh_expires_at": now + 86400}, 7, now)[0][0], "token-tiktok")
+        sig = health.signature([("parada", "x")])
+        self.assertEqual(sig, health.signature([("parada", "outra mensagem")]))
+        self.assertTrue(health.text([("parada", "x")], self._now("10:00")).startswith(f"<!-- {sig} -->"))
+
+
+class VerseCarouselTests(unittest.TestCase):
+    def test_carousel_rendered_captioned_and_published_as_carousel(self):
+        from app.publishers.meta import InstagramPublisher
+        from app.render import verse
+        item = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        settings = {"brand": {"handle": "@t"}, "video": {"video_types": ["quiz"]}}
+        with tempfile.TemporaryDirectory() as tmp:
+            info = verse.render(item, settings, Path(tmp), 1, None, random.Random(1), Path(tmp))
+            self.assertEqual(info["carousel"], [f"carrossel_{i}.jpg" for i in range(1, 5)])
+            self.assertTrue(all((Path(tmp) / f).exists() for f in info["carousel"]))
+            off = verse.render(item, {**settings, "publishing": {"verse_carousel": False}}, Path(tmp), 1, None,
+                               random.Random(1), Path(tmp))
+            self.assertNotIn("carousel", off)
+        caps, _ = captions.build("verse", item, {**settings, "groq": {"enabled": False}}, FakeGroq([]),
+                                 random.Random(1), [])
+        self.assertIn(captions.CAROUSEL_LINE, caps["instagram"])
+        self.assertNotIn(captions.CAROUSEL_LINE, caps["facebook"])
+
+        calls = []
+
+        def fake_call(method, path, **params):
+            calls.append((method, path, params))
+            if path.endswith("/media"):
+                return {"id": f"c{len(calls)}"}
+            if path.endswith("media_publish"):
+                return {"id": "m1"}
+            if "status_code" in params.get("fields", ""):
+                return {"status_code": "FINISHED"}
+            return {"permalink": "https://ig/p/1"}
+
+        acc = mock.Mock(page_token="tok", ig_id="ig")
+        post = {"captions": caps, "media": {**info, "images": info["images"]}}
+        with mock.patch("app.publishers.meta._call", side_effect=fake_call):
+            url = InstagramPublisher(acc).publish(post, Path("."), lambda f: f"https://x/{f}")
+        self.assertEqual(url, "https://ig/p/1")
+        children = [c for c in calls if c[2].get("is_carousel_item") == "true"]
+        self.assertEqual(len(children), 4)
+        parent = next(c for c in calls if c[2].get("media_type") == "CAROUSEL")
+        self.assertEqual(parent[2]["children"].count(","), 3)
+
+    def test_groq_application_is_validated(self):
+        item = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        good = content.application(item, FakeGroq([{"application": "Ligue hoje para alguém que você ama e diga isso."}]), [])
+        self.assertTrue(good.startswith("Ligue"))
+        log = []
+        self.assertEqual(content.application(item, FakeGroq([{"application": "Leia João 3:16 hoje e ore muito."}]), log), "")
+        self.assertTrue(log)
+
+
+class YouTubeSeoTests(unittest.TestCase):
+    def test_titles_short_keyword_first_and_no_answer(self):
+        from app import derived, youtube_seo
+        for raw in validate.load_bank("quiz")[:200]:
+            item = validate.validate("quiz", dict(raw))
+            title = youtube_seo.short_title("quiz", item, random.Random(1))
+            self.assertTrue(title.endswith("#shorts"))
+            self.assertLessEqual(len(title), 100)
+            body = title[: -len(" #shorts")]
+            self.assertNotIn(f" {bible.normalize(item['options'][item['answer']])} ",
+                             f" {bible.normalize(body.replace(item['question'], ''))} ")
+        verse = validate.validate("verse", dict(validate.load_bank("verse")[13]))
+        fill = derived.make_fill(verse, random.Random(0))
+        self.assertTrue(youtube_seo.short_title("fill", fill).startswith("Complete o versículo"))
+        self.assertLessEqual(len(youtube_seo.long_title(40, 10)), 70)
+        self.assertLessEqual(sum(len(t) + 1 for t in youtube_seo.tags("quiz", fill)), 500)
+
+    def test_captions_carry_title_and_tags(self):
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        caps, _ = captions.build("quiz", item, {**SETTINGS, "groq": {"enabled": False}},
+                                 GroqClient(None, SETTINGS, {}, TODAY), random.Random(1), [])
+        self.assertTrue(caps["youtube"]["title"].startswith("Quiz Bíblico"))
+        self.assertIn("quiz bíblico", caps["youtube"]["tags"])
+
+    def test_covers_render(self):
+        from PIL import Image
+        from app.render import cover
+        item = validate.validate("quiz", dict(validate.load_bank("quiz")[5]))
+        with tempfile.TemporaryDirectory() as tmp:
+            cover.short_cover("quiz", item, 3, "@teste", Path(tmp) / "a.jpg")
+            cover.long_cover(40, 10, 3, "@teste", Path(tmp) / "b.jpg")
+            for name, size in (("a.jpg", (1080, 1920)), ("b.jpg", (1280, 720))):
+                with Image.open(Path(tmp) / name) as img:
+                    self.assertEqual(img.size, size)
+
+
+class PublicSiteTests(unittest.TestCase):
+    def _posts(self):
+        verse = validate.validate("verse", dict(validate.load_bank("verse")[0]))
+        quiz = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        other = validate.validate("quiz", dict(validate.load_bank("quiz")[1]))
+        return [
+            {"id": "2026-10-09-1-verse", "date": "2026-10-09", "slot": 1, "type": "verse", "status": "approved",
+             "content": verse, "media": {"base": "media/2026-10-09/2026-10-09-1-verse/",
+                                         "images": ["imagem_quadrada.jpg"]}},
+            {"id": "2026-10-09-2-quiz", "date": "2026-10-09", "slot": 2, "type": "quiz", "status": "approved",
+             "content": quiz},
+            {"id": "2026-10-09-3-quiz", "date": "2026-10-09", "slot": 3, "type": "quiz", "status": "rejected",
+             "content": other},
+            {"id": "2026-10-10-2-quiz", "date": "2026-10-10", "slot": 2, "type": "quiz", "status": "approved",
+             "content": other},
+        ], verse, quiz, other
+
+    def test_build_pages(self):
+        from app import site
+        posts, verse, quiz, other = self._posts()
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp)
+            urls = site.build(out, "https://x.pages.dev/", TODAY, posts, {"name": "Teste", "handle": "@t"})
+            self.assertEqual(urls, ["/hoje/", "/dia/2026-10-09/", "/dia/"])  # dia 10 é futuro
+            page = (out / "hoje" / "index.html").read_text(encoding="utf-8")
+            self.assertIn(verse["ref_label"], page)
+            self.assertIn(html_escape(quiz["question"]), page)
+            self.assertNotIn(html_escape(other["question"]), page)  # rejeitado não entra
+            self.assertIn("https://x.pages.dev/media/2026-10-09/2026-10-09-1-verse/imagem_quadrada.jpg", page)
+            self.assertIn("https://x.pages.dev/dia/2026-10-09/", (out / "sitemap.xml").read_text())
+            self.assertIn("Disallow: /", (out / "robots.txt").read_text())
+
+
+class SearchKeywordTests(unittest.TestCase):
+    """Tema do banco vira palavra-chave de busca: 1ª linha da legenda, título do YouTube e hashtags."""
+
+    def _verse(self, theme):
+        raw = next(i for i in validate.load_bank("verse") if i.get("theme") == theme)
+        return validate.validate("verse", dict(raw))
+
+    def test_theme_goes_to_first_line_title_and_hashtags(self):
+        item = self._verse("ansiedade")
+        caps, source = captions.build("verse", item, {**SETTINGS, "groq": {"enabled": False}},
+                                      FakeGroq([]), random.Random(1), [])
+        first = f"Versículo para ansiedade: {item['ref_label']}"
+        for net in ("instagram", "facebook"):
+            self.assertTrue(caps[net].startswith(first + "\n"), caps[net][:80])
+        self.assertTrue(caps["tiktok"].startswith("Versículo para ansiedade\n"))
+        self.assertTrue(caps["youtube"]["description"].startswith(first))
+        self.assertTrue(caps["youtube"]["title"].startswith("Versículo para ansiedade:"))
+        self.assertEqual(caps["youtube"]["tags"][0], "versículo para ansiedade")
+        self.assertIn("#versiculoparaansiedade #ansiedade", caps["instagram"])
+        self.assertNotIn("Versículo para", caps["whatsapp"])  # canal do WhatsApp não tem busca
+        # o teste A/B continua achando o gancho logo depois da linha de busca
+        self.assertIn(captions.hook_label(caps, source), captions.VERSE_HOOKS)
+
+    def test_unknown_theme_and_quiz_have_no_keyword_line(self):
+        from app import keywords
+        item = {**self._verse("ansiedade"), "theme": "tema inventado"}
+        self.assertEqual(keywords.first_line("verse", item), "")
+        self.assertEqual(keywords.first_line("quiz", {"theme": "ansiedade"}), "")
+
+    def test_fill_keyword_never_reveals_the_hidden_word(self):
+        from app import keywords
+        item = {**self._verse("paz"), "answer_word": "paz"}
+        self.assertEqual(keywords.search_phrase("fill", item), "")
+        self.assertEqual(keywords.hashtags("fill", item), [])
+        self.assertEqual(keywords.search_phrase("fill", {**item, "answer_word": "coração"}), "Versículo de paz")
+
+
+class RepostTests(unittest.TestCase):
+    """Domingo: o post com mais engajamento da semana volta em outro formato."""
+    SUNDAY = date(2026, 10, 11)
+
+    def _setup(self, tmp):
+        raw = validate.load_bank("quiz")[0]
+        quiz = {"id": "2026-10-08-2-quiz", "date": "2026-10-08", "slot": 2, "type": "quiz", "bank_id": raw["id"],
+                "content": {k: raw[k] for k in ("question", "options", "answer", "ref", "evidence", "difficulty")}}
+        verse_raw = validate.load_bank("verse")[0]
+        verse = {"id": "2026-10-09-1-verse", "date": "2026-10-09", "slot": 1, "type": "verse",
+                 "bank_id": verse_raw["id"], "content": dict(verse_raw)}
+        state.save_history([quiz, verse])
+        state.save_queue([])
+        metrics = {"posts": {
+            quiz["id"]: {"type": "quiz", "date": quiz["date"], "instagram": {"likes": 5, "comments": 3}},
+            verse["id"]: {"type": "verse", "date": verse["date"], "instagram": {"likes": 2}},
+            "2026-10-03-2-quiz": {"type": "quiz", "date": "2026-10-03", "instagram": {"likes": 99}},  # semana passada
+            "2026-10-10-11-quiz": {"type": "quiz", "date": "2026-10-10", "repost_of": "x",
+                                   "instagram": {"likes": 99}},  # repost não vira repost
+        }}
+        (Path(tmp) / "metrics.json").write_text(json.dumps(metrics), encoding="utf-8")
+        return quiz, verse
+
+    def test_picks_best_of_week_in_new_format_and_never_twice(self):
+        from app import config, repost
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "STATE_DIR", Path(tmp)):
+            quiz, verse = self._setup(tmp)
+            original, kind, item = repost.pick(self.SUNDAY, {}, {}, random.Random(1), [])
+            self.assertEqual((original["id"], kind), (quiz["id"], "truefalse"))
+            self.assertEqual(item["question"], quiz["content"]["question"])
+            self.assertIn(item["shown"], quiz["content"]["options"])
+            # já reaproveitado: vai para o segundo melhor (versículo → Complete o versículo)
+            original, kind, item = repost.pick(self.SUNDAY, {}, {"repost": {quiz["id"]: "2026-10-04"}},
+                                               random.Random(1), [])
+            self.assertEqual((original["id"], kind), (verse["id"], "fill"))
+            self.assertIn("_____", item["question"])
+            self.assertIsNone(repost.pick(self.SUNDAY, {}, {"repost": {quiz["id"]: "x", verse["id"]: "x"}},
+                                          random.Random(1), []))
+
+    def test_conversions_back_from_derived_formats(self):
+        from app import derived, repost
+        quiz = validate.validate("quiz", dict(validate.load_bank("quiz")[0]))
+        tf = derived.make_truefalse(quiz, random.Random(1))
+        kind, item = repost.convert({"type": "truefalse", "bank_id": quiz["id"], "content": tf}, random.Random(1))
+        self.assertEqual((kind, item["question"], len(item["options"])), ("quiz", quiz["question"], 4))
+        verse = validate.load_bank("verse")[0]
+        kind, item = repost.convert({"type": "fill", "bank_id": verse["id"], "content": {}}, random.Random(1))
+        self.assertEqual((kind, item["id"]), ("verse", verse["id"]))
+        self.assertIsNone(repost.convert({"type": "curiosity", "content": {}}, random.Random(1)))
+
+    def test_generate_adds_repost_only_on_sunday(self):
+        from app import config, generate
+        settings = {**SETTINGS, "groq": {"enabled": False}, "schedule": {"slots": [{"time": "07:00", "type": "verse"}]},
+                    "repost": {"enabled": True, "weekday": 6, "time": "19:15"}}
+        fake_media = {"base": "media/x/", "version": 1, "duration": 20, "images": []}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(config, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(generate, "_render", return_value=fake_media):
+            quiz, _ = self._setup(tmp)
+            groq = GroqClient(None, settings, {}, self.SUNDAY)
+            now = generate.datetime(2026, 10, 11, 6, 0, tzinfo=generate.ZoneInfo("America/Sao_Paulo"))
+            args = (settings, TODAY, {}, groq, Path(tmp), {}, set(), False, {"used": {}}, [], 3, now)
+            self.assertIsNone(generate._repost_post(*args))  # sexta-feira
+            patch = {"used": {}}
+            post = generate._repost_post(settings, self.SUNDAY, {}, groq, Path(tmp), {}, set(), False, patch,
+                                         [], 3, now)
+            self.assertEqual((post["id"], post["type"], post["repost_of"]),
+                             ("2026-10-11-3-truefalse", "truefalse", quiz["id"]))
+            self.assertEqual(post["time"], "19:15")
+            self.assertEqual(patch["used"]["repost"], {quiz["id"]: "2026-10-11"})
+            # já na fila: não gera de novo
+            self.assertIsNone(generate._repost_post(settings, self.SUNDAY, {}, groq, Path(tmp), {post["id"]: post},
+                                                    {post["id"]}, False, {"used": {}}, [], 3, now))
+
+    def test_reposts_stay_out_of_format_analysis(self):
+        from app import report
+        metrics = {"posts": {"a": {"type": "quiz", "date": "2026-10-08"},
+                             "b": {"type": "quiz", "date": "2026-10-08", "repost_of": "a"}}}
+        self.assertEqual(len(report._window(metrics, TODAY, 7)), 1)
+
+
+def html_escape(text):
+    import html
+    return html.escape(text)
 
 
 if __name__ == "__main__":

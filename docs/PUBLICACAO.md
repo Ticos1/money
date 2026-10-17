@@ -5,6 +5,11 @@ publica sozinho no horário do post** (ou na hora, se o horário já passou).
 Uma rotina roda de hora em hora (das 05:07 às 23:07) e publica o que estiver
 aprovado e no horário.
 
+**Variação de horário:** cada post sai até **10 minutos antes ou depois** do horário
+da grade (ex.: o das 08:00 pode sair às 07:53 ou às 08:06), sorteado na geração, para
+não parecer automação. O painel mostra o horário real. Ajuste em
+`publishing.time_jitter_minutes` no `config/settings.json` (0 desliga).
+
 | Rede | O que é publicado | Situação |
 |---|---|---|
 | Instagram | Versículo → foto 4:5 no feed · Quiz → Reels (com música) | ✅ funciona logo após configurar |
@@ -12,6 +17,7 @@ aprovado e no horário.
 | YouTube Shorts | Quiz (vídeo) | ⚠️ funciona, mas fica **privado** até a auditoria do YouTube |
 | TikTok | — | precisa da auditoria do app no TikTok (próxima etapa) |
 | Kwai | — | sem API pública: continua manual |
+| Canal do WhatsApp | — | sem API oficial para canais: manual pelo botão 📲 do painel ([WHATSAPP.md](WHATSAPP.md)) |
 
 > Se você ativar **"Aprovar automaticamente"** em Configurações, nem a aprovação
 > é necessária: o sistema gera e publica 100% sozinho.
@@ -149,18 +155,20 @@ Configuração (uma vez):
 ## Métricas (aba "Métricas" do painel)
 
 As métricas são coletadas a cada publicação e a cada 3 horas: curtidas e
-comentários (Instagram e Facebook) e visualizações (YouTube). O painel mostra a
+comentários (Instagram e Facebook), visualizações (YouTube) e, nos vídeos do Facebook,
+visualizações, views de 3 s, quantos assistiram até o fim e o **tempo médio assistido**
+(o quadro *Vídeos que prendem a atenção* mostra quais seguram mais o público). O painel mostra a
 média por **tipo de post** e por **horário**, além do **Top 10**, para você
 descobrir o que funciona melhor.
 
 ### Liberar as métricas completas (passo a passo)
 
-**A) Instagram: alcance, salvamentos e compartilhamentos** (cerca de 5 min)
+**A) Instagram (alcance, salvamentos) e Facebook (views e tempo médio dos vídeos)** (cerca de 5 min)
 1. Abra <https://developers.facebook.com/tools/explorer> (no celular, use "Site para computador").
 2. **Meta App:** `Palavra Diaria Publicador` · **User or Page:** *Get User Access Token*.
-3. Em **Permissions**, deixe as que já usava e **adicione** `instagram_manage_insights`:
+3. Em **Permissions**, deixe as que já usava e **adicione** `instagram_manage_insights` e `read_insights`:
    `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
-   `instagram_content_publish`, `business_management`, `instagram_manage_insights`
+   `instagram_content_publish`, `business_management`, `instagram_manage_insights`, `read_insights`
 4. **Generate Access Token** → confirme a sua Página e o seu Instagram.
 5. Copie o token → abra <https://developers.facebook.com/tools/debug/accesstoken> → cole →
    **Debug** → **Extend Access Token** → copie o token longo.
@@ -206,6 +214,7 @@ que o YouTube mais valoriza.
 Observações:
 - A **miniatura personalizada** só é aceita pelo YouTube em canais **verificados** (youtube.com/verify,
   é só confirmar o telefone). Sem isso, o vídeo sai igual, com uma miniatura escolhida pelo YouTube.
+- A miniatura (`miniatura.jpg`) segue as regras da seção [Capas e títulos do YouTube](#capas-e-títulos-do-youtube).
 - Cada envio ao YouTube gasta 1.600 dos 10.000 pontos diários da cota gratuita da API. Com 4 Shorts
   por dia, o vídeo longo cabe (4 × 1.600 + 1.600 = 8.000). Evite várias publicações manuais no mesmo dia.
 
@@ -219,10 +228,10 @@ marcar todas de novo, não só a que você quer acrescentar.
 
 1. Explorador (<https://developers.facebook.com/tools/explorer>) → Meta App `Palavra Diaria Publicador` →
    *Get User Access Token*.
-2. Em **Permissions**, confira que as **oito** estão marcadas (se faltar alguma, adicione):
+2. Em **Permissions**, confira que as **nove** estão marcadas (se faltar alguma, adicione):
    `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
    `instagram_content_publish`, `business_management`, `instagram_manage_insights`,
-   `pages_manage_metadata`
+   `pages_manage_metadata`, `read_insights`
 3. **Generate Access Token** e, na janela da Meta, **marque a Página e o Instagram** (escolha "todas" se aparecer a opção).
 4. Depurador (<https://developers.facebook.com/tools/debug/accesstoken>) → **Extend Access Token** → copie o token longo.
 5. No Explorador, cole o token longo e consulte
@@ -255,6 +264,41 @@ virarem vídeo vertical com música (em vez de só imagem). Eles passam a sair c
 pontos diários, então 6 vídeos por dia (4 quizzes + 2 curiosidades) já usam 9.600, e o vídeo longo de
 sábado passaria do limite. Se quiser os dois, peça o aumento de cota (gratuito) no Google Cloud.
 
+## Capas e títulos do YouTube
+
+Nos Shorts e no vídeo longo, o que faz a pessoa clicar é a **capa** e o **título**. O sistema cria
+os dois sozinho:
+
+**Capa com texto grande** (`app/render/cover.py`)
+- **Short** (`capa_youtube.jpg`, 1080×1920): selo "QUIZ BÍBLICO", chamada gigante com contorno
+  ("SÓ 1% ACERTA", "VERDADE OU MENTIRA?", "COMPLETE O VERSÍCULO"), a pergunta num cartão branco,
+  o nível (fácil/médio/difícil) e "VOCÊ SABE?". Tudo fica na faixa do meio, que é o que aparece no
+  recorte da busca e da grade do canal. Ela **nunca mostra a resposta**.
+- **Vídeo longo** (`miniatura.jpg`, 1280×720): "40 PERGUNTAS" enorme à esquerda, "SÓ 1% ACERTA
+  TODAS!" à direita e a faixa "FÁCIL ATÉ DIFÍCIL · 10 MIN" embaixo, longe do canto onde o YouTube
+  mostra a duração.
+- A publicação automática envia a capa logo depois do vídeo (gasta 50 pontos da cota; 6 Shorts por
+  dia continuam cabendo: 6 × 1.650 = 9.900). Exige **canal verificado** (youtube.com/verify). Se o
+  YouTube recusar a capa de um Short, o vídeo sai do mesmo jeito e o log diz "miniatura não
+  aplicada". Nesse caso, baixe a capa no painel (botão **⬇ Capa do YouTube**) e troque à mão no
+  app do YouTube ou no YouTube Studio (editar o vídeo → miniatura), se a opção aparecer na sua conta.
+
+**Título otimizado** (`app/youtube_seo.py`)
+- Palavra-chave que as pessoas buscam **no começo** ("Quiz Bíblico:", "Verdadeiro ou falso?",
+  "Complete o versículo:").
+- Até **70 caracteres**, que aparecem inteiros no celular. Se a pergunta for longa, entra um título
+  curto de curiosidade ("Quiz Bíblico (nível difícil 🔥): você acerta essa?").
+- A pergunta no título dá curiosidade, mas a **resposta nunca aparece** (há um teste para isso).
+- No máximo 1 emoji, sem caixa alta no título inteiro, `#shorts` no final.
+- O vídeo vai com **tags** (quiz bíblico, perguntas bíblicas, o livro da Bíblia etc.) e com o idioma
+  pt-BR, o que ajuda a busca do YouTube.
+- Vídeo longo: `QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min`.
+
+Exemplos de título:
+`Quiz Bíblico: Quantos dias Jonas ficou no ventre do grande peixe? #shorts` ·
+`Verdadeiro ou falso? Qual rei edificou o templo (a casa) em Jerusalém? #shorts` ·
+`Complete o versículo: 2 Timóteo 1:7 📖 Você sabe de cor? #shorts`
+
 ## Limite diário do YouTube (proteção automática)
 
 A cota grátis da API do YouTube é de 10.000 pontos por dia, e cada vídeo enviado gasta 1.600, ou
@@ -263,10 +307,23 @@ no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos 
 dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
 Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
 
-A agenda padrão tem **10 posts por dia: 1 versículo (imagem) e 9 vídeos**:
-06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz · 13:30 Você sabia? (vídeo) ·
+A agenda padrão tem **9 posts por dia: 1 versículo (imagem) e 8 vídeos**:
+06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz ·
 15:00 Verdadeiro ou falso · 17:00 Quiz · 18:30 Complete o versículo · 20:00 Quiz · 21:30 Verdadeiro ou falso
-(até 12 por dia no painel).
+(até 12 por dia no painel). O "Você sabia?" saiu da agenda em 15/10/2026: em 13 posts teve zero
+interação, enquanto o quiz rendeu 1,8× a média. Ele continua disponível para voltar pelo painel.
+
+### Cortar o que não rende: `python -m app.report --analysis`
+Compara os formatos nos últimos 28 dias (`--days` muda o período) usando curtidas, comentários,
+salvamentos e compartilhamentos do **Instagram e do Facebook**, onde todos os formatos saem (o
+YouTube só recebe alguns tipos e distorceria a comparação; as views dele aparecem à parte).
+- rende menos da **metade** da média → **cortar**; 30% acima da média → **concentrar**;
+- com menos de 30 interações no período, ou menos de 6 posts do formato, não decide nada
+  (seria acaso);
+- propõe a agenda atual **sem** os horários dos formatos a cortar (menos posts, só os que rendem).
+  O Versículo do dia nunca sai por inteiro. `--apply` grava a proposta em `config/settings.json`.
+
+Rode a cada 2 ou 4 semanas, principalmente depois de um formato novo juntar alguns posts.
 
 Todos os vídeos vão para Reels, Facebook e Stories. Para o **YouTube** vão só os tipos em
 `publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).

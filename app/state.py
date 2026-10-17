@@ -13,7 +13,8 @@ from pathlib import Path
 
 from .config import STATE_DIR
 
-PLATFORMS = ("tiktok", "kwai", "youtube", "instagram", "facebook", "stories")  # stories = Stories do Instagram
+PLATFORMS = ("tiktok", "kwai", "youtube", "instagram", "facebook", "stories", "whatsapp")
+# stories = Stories do Instagram · whatsapp = canal do WhatsApp (manual, pelo painel)
 
 
 def _read(name: str, default):

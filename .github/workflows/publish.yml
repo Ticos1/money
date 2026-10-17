@@ -79,7 +79,9 @@ jobs:
             git reset -q --hard "origin/$GITHUB_REF_NAME"
             python -m app.generate apply "$RUNNER_TEMP/patch.json"
             if [ -s "$RUNNER_TEMP/metrics.json" ]; then cp "$RUNNER_TEMP/metrics.json" state/metrics.json; fi
-            git add state
+            # grade adaptativa: formato com alcance zero por 2 semanas cede 1 horário (app/adapt.py)
+            python -m app.adapt --apply || echo "::warning::ajuste automático da grade falhou"
+            git add state config
             if git diff --cached --quiet; then echo "Nada para salvar."; break; fi
             git commit -q -m "publicação $(date -u +'%F %H:%M')"
             if git push -q origin "HEAD:$GITHUB_REF_NAME"; then echo "Salvo."; break; fi
@@ -105,3 +107,29 @@ jobs:
       - name: Avisar se alguma publicação falhou (e-mail do GitHub)
         if: always()
         run: python -m app.alert "$RUNNER_TEMP/patch.json"
+
+      - name: Alerta de automação parada ou token expirando (abre issue → e-mail)
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          title="⚠️ Alerta: a automação precisa de atenção"
+          open=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+          set +e
+          python -m app.health --out "$RUNNER_TEMP/alerta.md" --mention "$OWNER"
+          rc=$?
+          set -e
+          if [ "$rc" = "0" ]; then
+            if [ -n "$open" ]; then gh issue close "$open" --comment "✅ Tudo normal de novo: publicação em dia e tokens válidos."; fi
+          elif [ "$rc" = "3" ]; then
+            sig=$(head -n 1 "$RUNNER_TEMP/alerta.md")
+            if [ -z "$open" ]; then
+              gh issue create --title "$title" --body-file "$RUNNER_TEMP/alerta.md"
+            elif ! gh issue view "$open" --json body,comments --jq '[.body] + [.comments[].body] | join("\n")' | grep -qF "$sig"; then
+              gh issue comment "$open" --body-file "$RUNNER_TEMP/alerta.md"   # o problema mudou
+            fi
+          else
+            echo "::warning::a verificação de saúde falhou (código $rc)"
+          fi

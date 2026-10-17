@@ -3,6 +3,8 @@
 Segredos: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN (veja docs/PUBLICACAO.md).
 Só posts com vídeo: o quiz (vertical, até 60 s, vira Short) e o vídeo longo de quiz
 (16:9, ~10 min, vira vídeo normal, com miniatura e capítulos na descrição).
+Os dois levam capa com texto grande (app/render/cover.py), título curto e tags
+(app/youtube_seo.py).
 
 Atenção: enquanto o projeto no Google Cloud não passar pela auditoria do
 YouTube, os vídeos enviados pela API ficam PRIVADOS (regra do YouTube).
@@ -45,7 +47,9 @@ class YouTubePublisher(Publisher):
         long_video = post.get("type") == "compilation"
         meta = {
             "snippet": {"title": yt["title"][:100], "description": yt["description"][:4900],
-                        "categoryId": "27" if long_video else "22", "defaultLanguage": "pt-BR"},
+                        "tags": yt.get("tags") or [],
+                        "categoryId": "27" if long_video else "22", "defaultLanguage": "pt-BR",
+                        "defaultAudioLanguage": "pt-BR"},
             "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False},
         }
         headers = {"Authorization": f"Bearer {self.token}"}
@@ -61,8 +65,10 @@ class YouTubePublisher(Publisher):
             if up.status_code not in (200, 201):
                 raise PublishError(f"YouTube: {up.text[:300]}")
             video_id = up.json()["id"]
+            thumb = post["media"].get("thumbnail")
+            if thumb:  # capa com texto grande (no Short, o YouTube pode ignorar: aí fica o quadro do vídeo)
+                self._thumbnail(video_id, media_dir / thumb)
             if long_video:
-                self._thumbnail(video_id, media_dir / post["media"].get("thumbnail", "miniatura.jpg"))
                 return f"https://youtu.be/{video_id}"
             return f"https://youtube.com/shorts/{video_id}"
         except requests.RequestException as exc:

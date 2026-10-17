@@ -23,8 +23,9 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import captions, compilation, config, content, derived, music, state, validate
+from . import captions, compilation, config, content, derived, music, publish, repost, state, validate
 from .groq_client import GroqClient
+from .render import cover
 from .render import curiosity as curiosity_render
 from .render import fill as fill_render
 from .render import quiz as quiz_render
@@ -35,7 +36,7 @@ RENDERERS = {"verse": verse_render, "quiz": quiz_render, "curiosity": curiosity_
              "fill": fill_render, "truefalse": truefalse_render}
 CONTENT_FIELDS = {
     "verse": ["ref", "skip_prefix", "ref_label", "verse_text", "on_screen", "reflection", "theme",
-              "mood", "tags"],
+              "mood", "tags", "application"],
     "quiz": ["ref", "ref_label", "question", "options", "answer", "evidence", "passage", "difficulty",
              "tags"],
     "curiosity": ["ref", "ref_label", "title", "text", "evidence", "passage", "tags"],
@@ -76,6 +77,11 @@ def _render(kind: str, item: dict, post_id: str, day: str, settings: dict, media
         info = RENDERERS[kind].render(item, settings, out_dir, _seed(post_id) + version,
                                       config.MUSIC_DIR / track["file"] if track else None, rng,
                                       Path(work))
+    if info.get("video_music"):
+        # capa do YouTube com texto grande (o "poster" continua sendo um quadro do vídeo)
+        cover.short_cover(kind, item, seed=_seed(post_id) + version,
+                          handle=settings.get("brand", {}).get("handle", ""), out=out_dir / cover.SHORT_FILE)
+        info["thumbnail"] = cover.SHORT_FILE
     return {**info, "base": f"media/{day}/{post_id}/", "version": version}
 
 
@@ -89,7 +95,6 @@ def build(args) -> dict:
                       state.load_groq_usage(), today)
     media_root = Path(args.media_dir)
     recent_tracks = [(p.get("music") or {}).get("id") for p in sorted(queue.values(), key=lambda p: p["id"])]
-    auto = settings.get("approval", {}).get("auto_approve", False)
 
     patch = {"mode": "generate", "date": day, "posts": [], "used": {}}
     taken = set(queue) | {p["id"] for p in state.load_history()}
@@ -120,55 +125,125 @@ def build(args) -> dict:
         for section, values in used_updates.items():
             used.setdefault(section, {}).update(values)
             patch["used"].setdefault(section, {}).update(values)
-
-        caps, caption_source = captions.build(kind, item, settings, groq, rng, log)
-        mood = music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao"))
-        track = None
-        if _has_video(kind, settings):
-            track = music.pick_track(mood, recent_tracks, rng)
-            recent_tracks.append(track["id"])
-        version = int((old or {}).get("media", {}).get("version", 0)) + 1  # novo ?v= evita cache
-        media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
-
-        status = "approved" if auto else "pending"
-        slot_time = datetime.fromisoformat(f"{day}T{slot['time']}").replace(tzinfo=tz)
-        if auto and slot_time <= now:
-            # horário já passou: não sai sozinho (evita publicar vários de uma vez);
-            # use "Publicar agora" no painel se quiser
-            status = "pending"
-            log.append("horário já passou: aguardando você (aprovar ou Publicar agora)")
-        post = {
-            "id": post_id,
-            "date": day,
-            "slot": idx,
-            "time": slot["time"],
-            "type": kind,
-            "status": status,
-            "created_at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"),
-            "source": item.get("source"),
-            "bank_id": item.get("id") if item.get("source") == "bank" else None,
-            "model": item.get("model"),
-            "content": {k: item[k] for k in CONTENT_FIELDS[kind] if k in item},
-            "captions": caps,
-            "caption_source": caption_source,
-            "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")}
-                     if track else None,
-            "gospel_suggestions": music.gospel_suggestions(mood, item.get("tags", []), rng),
-            "media": media,
-            "published": {p: None for p in state.PLATFORMS},
-            "log": log,
-            "error": None,
-        }
+        post = _make_post(kind, item, post_id, day, idx, slot["time"], old, settings, groq, media_root,
+                          recent_tracks, rng, log, now)
         patch["posts"].append(post)
-        print(f"{post_id}: ok ({item.get('source')}, legenda {caption_source}, {media['duration']}s)")
+        print(f"{post_id}: ok ({item.get('source')}, legenda {post['caption_source']}, {post['media']['duration']}s)")
         for line in log:
             print(f"   · {line}")
     post = _compilation_post(settings, today, used, media_root, queue, taken, args.force or args.clear,
                              patch, len(settings["schedule"]["slots"]) + 1)
     if post:
         patch["posts"].append(post)
+    post = _repost_post(settings, today, used, groq, media_root, queue, taken, args.force or args.clear,
+                        patch, recent_tracks, len(settings["schedule"]["slots"]) + 2, now)
+    if post:
+        patch["posts"].append(post)
     patch["groq_usage"] = groq.usage
     return patch
+
+
+def _make_post(kind: str, item: dict, post_id: str, day: str, idx: int, slot_time: str, old: dict | None,
+               settings: dict, groq: GroqClient, media_root: Path, recent_tracks: list, rng: random.Random,
+               log: list[str], now: datetime) -> dict:
+    """Legendas, música, mídias e o registro do post para a fila."""
+    tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
+    auto = settings.get("approval", {}).get("auto_approve", False)
+    if kind == "verse" and config.verse_carousel(settings) and not item.get("application"):
+        app_text = content.application(item, groq, log)
+        if app_text:
+            item = {**item, "application": app_text}
+    caps, caption_source = captions.build(kind, item, settings, groq, rng, log)
+    mood = music.MOOD_BY_TYPE.get(kind, item.get("mood", "reflexao"))
+    track = None
+    if _has_video(kind, settings):
+        track = music.pick_track(mood, recent_tracks, rng)
+        recent_tracks.append(track["id"])
+    version = int((old or {}).get("media", {}).get("version", 0)) + 1  # novo ?v= evita cache
+    media = _render(kind, item, post_id, day, settings, media_root, track, rng, version)
+
+    status = "approved" if auto else "pending"
+    when = publish.publish_at(post_id, day, slot_time, settings)
+    if auto and datetime.fromisoformat(when).replace(tzinfo=tz) <= now:
+        # horário já passou: não sai sozinho (evita publicar vários de uma vez);
+        # use "Publicar agora" no painel se quiser
+        status = "pending"
+        log.append("horário já passou: aguardando você (aprovar ou Publicar agora)")
+    return {
+        "id": post_id,
+        "date": day,
+        "slot": idx,
+        "time": slot_time,
+        "publish_at": when,
+        "type": kind,
+        "status": status,
+        "created_at": datetime.now(ZoneInfo("UTC")).isoformat(timespec="seconds"),
+        "source": item.get("source"),
+        "bank_id": item.get("id") if item.get("source") == "bank" else None,
+        "model": item.get("model"),
+        "content": {k: item[k] for k in CONTENT_FIELDS[kind] if k in item},
+        "captions": caps,
+        "caption_source": caption_source,
+        "hook": captions.hook_label(caps, caption_source),
+        "music": {k: track.get(k, "") for k in ("id", "title", "source", "license", "url")}
+                 if track else None,
+        "gospel_suggestions": music.gospel_suggestions(mood, item.get("tags", []), rng),
+        "media": media,
+        "published": {p: None for p in state.PLATFORMS},
+        "log": log,
+        "error": None,
+    }
+
+
+def _repost_post(settings: dict, today: date, used: dict, groq: GroqClient, media_root: Path, queue: dict,
+                 taken: set, redo: bool, patch: dict, recent_tracks: list, slot: int,
+                 now: datetime) -> dict | None:
+    """Domingo: o post com mais engajamento da semana volta em outro formato (app/repost.py).
+    Se não houver candidato ou algo falhar, os posts do dia seguem normalmente."""
+    cfg = repost.settings_of(settings)
+    if not (cfg["enabled"] and today.weekday() == cfg["weekday"]):
+        return None
+    day = today.isoformat()
+    prefix = f"{day}-{slot}-"
+    if any(p["id"].startswith(prefix) for p in state.load_history()):
+        print(f"repost de {day}: já existe, pulando")
+        return None
+    old = next((p for pid, p in queue.items() if pid.startswith(prefix)), None)
+    if old and not ((redo and not any((old.get("published") or {}).values())) or _replaceable(old)):
+        print(f"{old['id']}: já existe, pulando (use --force para refazer)")
+        return None
+    log: list[str] = []
+    try:
+        # refazendo: o post original do repost anterior pode ser escolhido de novo
+        choice = repost.pick(today, settings, used, rng=random.Random(_seed(f"{day}|repost")), log=log,
+                             allow=(old or {}).get("repost_of"))
+        if not choice:
+            print(f"repost de {day}: nenhum post da semana com engajamento para reaproveitar")
+            for line in log:
+                print(f"   · {line}")
+            return None
+        original, kind, item = choice
+        post_id = old["id"] if old else f"{prefix}{kind}"
+        n = 2
+        while not old and post_id in taken:  # nunca reaproveita o ID de um post antigo
+            post_id = f"{prefix}{kind}-v{n}"
+            n += 1
+        log.insert(0, f"repost do melhor post da semana ({original['id']}, {original['type']} → {kind})")
+        post = _make_post(kind, item, post_id, day, slot, cfg["time"], old, settings, groq,
+                          media_root, recent_tracks, random.Random(_seed(post_id)), log, now)
+    except Exception as exc:  # noqa: BLE001 - nunca derruba a geração diária
+        print(f"repost de {day}: NÃO gerado: {exc}")
+        return None
+    post.update({"source": "repost", "repost_of": original["id"], "bank_id": original.get("bank_id"),
+                 "model": original.get("model")})
+    updates = {"repost": {original["id"]: day}}
+    for section, values in updates.items():
+        used.setdefault(section, {}).update(values)
+        patch["used"].setdefault(section, {}).update(values)
+    print(f"{post_id}: ok (repost de {original['id']}, legenda {post['caption_source']})")
+    for line in log:
+        print(f"   · {line}")
+    return post
 
 
 def _compilation_post(settings: dict, today: date, used: dict, media_root: Path, queue: dict,

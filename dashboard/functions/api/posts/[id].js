@@ -1,8 +1,8 @@
 import { GitHub, json } from "../../../lib/github.js";
 
-const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook", "stories"];
+const PLATFORMS = ["tiktok", "kwai", "youtube", "instagram", "facebook", "stories", "whatsapp"];
 const VISUAL_FIELDS = {
-  verse: ["on_screen", "reflection"],
+  verse: ["on_screen", "reflection", "application"],
   quiz: ["question", "options", "answer"],
   curiosity: ["title", "text"],
 };
@@ -53,7 +53,7 @@ export async function onRequestPost({ request, env, params }) {
           }
           case "edit": {
             const caps = body.captions || {};
-            for (const k of ["instagram", "facebook", "tiktok", "kwai"]) {
+            for (const k of ["instagram", "facebook", "tiktok", "kwai", "whatsapp"]) {
               if (k in caps) p.captions[k] = clean(caps[k], 2200);
             }
             if (caps.youtube) {
@@ -66,7 +66,7 @@ export async function onRequestPost({ request, env, params }) {
               let value = changes[field];
               if (field === "options") value = (Array.isArray(value) ? value : []).slice(0, 4).map((o) => clean(o, 60));
               else if (field === "answer") value = Math.max(0, Math.min(3, Number(value) || 0));
-              else value = clean(value, field === "reflection" || field === "text" ? 600 : 160);
+              else value = clean(value, field === "reflection" || field === "text" ? 600 : field === "application" ? 240 : 160);
               if (JSON.stringify(p.content[field]) !== JSON.stringify(value)) {
                 p.content[field] = value;
                 rerender = true;

@@ -72,21 +72,41 @@ def make_truefalse(item: dict, rng: random.Random) -> dict:
     return {**item, "shown": shown, "is_true": is_true, "correct": correct}
 
 
+def _valid_bank(source: str) -> list[dict]:
+    bank = []
+    for raw in validate.load_bank(source):
+        try:
+            bank.append(validate.validate(source, dict(raw)))
+        except (validate.ContentError, bible.BibleError):
+            continue
+    return bank
+
+
+def fill_ready(item: dict) -> bool:
+    """O versículo serve para 'Complete o versículo'? (tamanho e palavra-chave escondível)"""
+    return make_fill(item, random.Random(0)) is not None
+
+
+def bank_status(kind: str, today: date, used: dict) -> tuple[list[dict], list[dict]]:
+    """(banco válido, itens que ainda não saíram neste formato): usado por pick e pela saturação."""
+    seen = _recent(used.get(kind, {}), today, RECENT_DAYS)
+    recent_refs = _recent(used.get("refs", {}), today, 3)  # não repete o versículo dos últimos dias
+    if kind == "fill":
+        bank = _valid_bank("verse")
+        return bank, [i for i in bank if i["id"] not in seen and i["ref_key"] not in recent_refs]
+    bank = _valid_bank("quiz")
+    recent_quiz = _recent(used.get("quiz", {}), today, 60)
+    return bank, [i for i in bank if i["id"] not in seen and i["id"] not in recent_quiz
+                  and i["ref_key"] not in recent_refs]
+
+
 def pick(kind: str, today: date, used: dict, groq, settings: dict, rng: random.Random,
          log: list[str]) -> tuple[dict, dict]:
     """Mesmo formato de content.pick: (conteúdo pronto, atualizações para used.json)."""
     stamp = today.isoformat()
     seen = used.get(kind, {})
-    recent_refs = _recent(used.get("refs", {}), today, 3)  # não repete o versículo dos últimos dias
+    bank, fresh = bank_status(kind, today, used)
     if kind == "fill":
-        bank = []
-        for raw in validate.load_bank("verse"):
-            try:
-                bank.append(validate.validate("verse", dict(raw)))
-            except (validate.ContentError, bible.BibleError):
-                continue
-        fresh = [i for i in bank if i["id"] not in _recent(seen, today, RECENT_DAYS)
-                 and i["ref_key"] not in recent_refs]
         rng.shuffle(fresh)
         for item in fresh + sorted(bank, key=lambda i: seen.get(i["id"], "")):
             built = make_fill(item, rng)
@@ -94,15 +114,6 @@ def pick(kind: str, today: date, used: dict, groq, settings: dict, rng: random.R
                 return {**built, "source": "bank"}, {kind: {item["id"]: stamp}}
         raise RuntimeError("nenhum versículo do banco serve para 'Complete o versículo'")
 
-    bank = []
-    for raw in validate.load_bank("quiz"):
-        try:
-            bank.append(validate.validate("quiz", dict(raw)))
-        except (validate.ContentError, bible.BibleError):
-            continue
-    recent_quiz = _recent(used.get("quiz", {}), today, 60)
-    fresh = [i for i in bank if i["id"] not in _recent(seen, today, RECENT_DAYS)
-             and i["id"] not in recent_quiz and i["ref_key"] not in recent_refs]
     item = rng.choice(fresh) if fresh else min(bank, key=lambda i: seen.get(i["id"], ""))
     if not fresh:
         log.append(f"{kind}: banco esgotado, reaproveitando {item['id']}")

@@ -15,9 +15,10 @@ import hashlib
 import hmac
 import json
 import os
+import random
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -25,6 +26,23 @@ from . import config, state
 from .publishers import PublishError
 
 MEDIA_URL_TTL = 3 * 3600  # links temporários valem 3 horas
+JITTER_MINUTES = 10  # padrão de publishing.time_jitter_minutes
+
+
+def publish_at(post_id: str, day: str, slot_time: str, settings: dict) -> str:
+    """Horário real de publicação: o do slot ± até N minutos (publishing.time_jitter_minutes),
+    para os posts não saírem sempre no minuto exato e não parecerem automação.
+    Sorteio fixo por post (refazer o post mantém o horário). Formato "AAAA-MM-DDTHH:MM", fuso local."""
+    minutes = max(0, int(settings.get("publishing", {}).get("time_jitter_minutes", JITTER_MINUTES)))
+    offset = random.Random(f"{post_id}|horario").randint(-minutes, minutes)
+    when = datetime.fromisoformat(f"{day}T{slot_time}") + timedelta(minutes=offset)
+    return when.strftime("%Y-%m-%dT%H:%M")
+
+
+def scheduled_at(post: dict, tz: ZoneInfo) -> datetime:
+    """Quando o post deve sair (posts antigos, sem publish_at, usam o horário do slot)."""
+    local = post.get("publish_at") or f"{post['date']}T{post.get('time', '00:00')}"
+    return datetime.fromisoformat(local).replace(tzinfo=tz)
 
 
 def sign_media_path(path: str, exp: int, secret: str) -> str:
@@ -49,8 +67,7 @@ def media_url_factory(post: dict):
 def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
     if post.get("status") != "approved" or not post.get("media", {}).get("base"):
         return False
-    when = datetime.fromisoformat(f"{post['date']}T{post.get('time', '00:00')}").replace(tzinfo=tz)
-    return when <= now
+    return scheduled_at(post, tz) <= now
 
 
 def applies(platform: str, post: dict, cfg: dict | None = None) -> bool:

@@ -5,7 +5,8 @@
 Roda junto da publicação (GitHub Actions) e grava state/metrics.json, que o
 painel mostra na aba "Métricas". Tudo pelas APIs oficiais e com os mesmos
 tokens já configurados. Se faltar alguma permissão (ex.: alcance/salvamentos do
-Instagram precisam de instagram_manage_insights), coleta o que der e avisa.
+Instagram precisam de instagram_manage_insights; visualizações e tempo médio dos
+vídeos do Facebook precisam de read_insights), coleta o que der e avisa.
 """
 from __future__ import annotations
 
@@ -20,7 +21,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-from . import state
+from . import captions, state
 from .publishers import PublishError
 
 KEEP_DAYS = 60
@@ -30,6 +31,18 @@ IG_INSIGHTS = {
 }
 
 
+# insights de vídeo da Página: nome na API -> campo no metrics.json (o primeiro que vier ganha)
+FB_VIDEO_FIELDS = {
+    "views": ("fb_reels_total_plays", "blue_reels_play_count", "total_video_views"),
+    "views_3s": ("total_video_views",),
+    "viewers": ("total_video_views_unique", "post_impressions_unique"),
+    "complete_views": ("total_video_complete_views",),
+    "avg_watch_s": ("total_video_avg_time_watched", "post_video_avg_time_watched"),  # vem em ms
+    "watch_time_s": ("total_video_view_total_time", "post_video_view_time"),  # vem em ms
+}
+FB_VIDEO_FALLBACK = ("total_video_views,total_video_views_unique,total_video_complete_views,"
+                     "total_video_avg_time_watched,total_video_view_total_time")
+FB_VIDEO_ID = re.compile(r"/videos/(\w+)")
 YT_ID = re.compile(r"(?:shorts/|youtu\.be/|watch\?v=)([\w-]+)")
 
 
@@ -47,8 +60,60 @@ def _get(url: str, **params) -> dict:
     return data
 
 
-def collect_meta(token: str, page_id: str | None, notes: list[str]) -> tuple[dict, dict]:
-    """Devolve ({permalink_ig: métricas}, {id_fb: métricas})."""
+def _is_permission_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    return "permission" in msg or "(#10)" in msg or "(#200)" in msg
+
+
+def ig_insights(media_id: str, metrics: str, token: str, failed: list[str]) -> dict:
+    """Insights de um post do Instagram. Se a Meta recusar o pedido junto (ex.: "Please reduce the
+    amount of data"), tenta métrica por métrica e pula as que falharem. Só a falta de permissão
+    sobe como erro (aí não adianta continuar)."""
+    from .publishers.meta import GRAPH
+
+    url = f"{GRAPH}/{media_id}/insights"
+    try:
+        items = _get(url, metric=metrics, access_token=token).get("data", [])
+    except PublishError as exc:
+        if _is_permission_error(exc):
+            raise
+        items = []
+        for metric in metrics.split(","):
+            try:
+                items += _get(url, metric=metric, access_token=token).get("data", [])
+            except PublishError as one:
+                if _is_permission_error(one):
+                    raise
+                failed.append(f"{media_id}: {one}")
+    return {item["name"]: (item.get("values") or [{}])[0].get("value", 0) for item in items}
+
+
+def fb_video_insights(video_id: str, token: str) -> dict:
+    """Visualizações, views de 3 s, pessoas, vídeos assistidos até o fim e tempo médio (s)."""
+    from .publishers.meta import GRAPH
+
+    data = _get(f"{GRAPH}/{video_id}/video_insights", access_token=token).get("data") or []
+    if not data:
+        data = _get(f"{GRAPH}/{video_id}/video_insights", metric=FB_VIDEO_FALLBACK,
+                    access_token=token).get("data") or []
+    raw = {}
+    for item in data:
+        value = (item.get("values") or [{}])[0].get("value")
+        if isinstance(value, (int, float)) and item.get("name") not in raw:
+            raw[item["name"]] = value
+    out = {}
+    for field, names in FB_VIDEO_FIELDS.items():
+        value = next((raw[n] for n in names if n in raw), None)
+        if value is None:
+            continue
+        out[field] = round(value / 1000, 1) if field.endswith("_s") else int(value)
+    return out
+
+
+def collect_meta(token: str, page_id: str | None, notes: list[str],
+                 video_ids: set[str] | None = None) -> tuple[dict, dict]:
+    """Devolve ({permalink_ig: métricas}, {id_fb: métricas}). Para os vídeos em video_ids
+    (os publicados pelo sistema) busca também visualizações e tempo médio assistido."""
     from .publishers.meta import GRAPH, MetaAccount
 
     acc = MetaAccount(token, page_id)
@@ -57,19 +122,21 @@ def collect_meta(token: str, page_id: str | None, notes: list[str]) -> tuple[dic
         data = _get(f"{GRAPH}/{acc.ig_id}/media", access_token=acc.page_token, limit=100,
                     fields="id,permalink,timestamp,media_product_type,like_count,comments_count")
         insights_ok = True
+        failed: list[str] = []
         for m in data.get("data", []):
             row = {"likes": m.get("like_count", 0), "comments": m.get("comments_count", 0)}
             metrics = IG_INSIGHTS.get(m.get("media_product_type"))
             if insights_ok and metrics:
                 try:
-                    ins = _get(f"{GRAPH}/{m['id']}/insights", metric=metrics, access_token=acc.page_token)
-                    for item in ins.get("data", []):
-                        row[item["name"]] = (item.get("values") or [{}])[0].get("value", 0)
+                    row.update(ig_insights(m["id"], metrics, acc.page_token, failed))
                 except PublishError as exc:
                     insights_ok = False
                     notes.append("Instagram: alcance, salvamentos e visualizações precisam da permissão "
                                  f"instagram_manage_insights no token (erro: {str(exc)[:120]})")
             ig[m.get("permalink", "").rstrip("/")] = row
+        if failed:
+            notes.append(f"Instagram: a Meta não devolveu algumas métricas de {len(set(failed))} post(s) "
+                         f"(erro: {failed[-1][:120]})")
     fb: dict[str, dict] = {}
     posts = _get(f"{GRAPH}/{acc.page_id}/posts", access_token=acc.page_token, limit=100,
                  fields="id,reactions.summary(true).limit(0),comments.summary(true).limit(0),shares")
@@ -85,6 +152,15 @@ def collect_meta(token: str, page_id: str | None, notes: list[str]) -> tuple[dic
                            "comments": v.get("comments", {}).get("summary", {}).get("total_count", 0)}
     except PublishError as exc:
         notes.append(f"Facebook (vídeos): {str(exc)[:120]}")
+    for vid in sorted(video_ids or ()):
+        try:
+            extra = fb_video_insights(vid, acc.page_token)
+        except PublishError as exc:
+            notes.append("Facebook: visualizações e tempo médio dos vídeos precisam da permissão "
+                         f"read_insights no token (erro: {str(exc)[:120]})")
+            break
+        if extra:
+            fb[vid] = {**fb.get(vid, {}), **extra}
     return ig, fb
 
 
@@ -120,9 +196,12 @@ def collect(today: date) -> dict:
     posts = [p for p in state.load_queue() + state.load_history()
              if p.get("date", "") >= limit and p.get("publish_links")]
     ig, fb = {}, {}
+    fb_videos = {m.group(1) for p in posts
+                 if (m := FB_VIDEO_ID.search(p["publish_links"].get("facebook", "") or ""))}
     if os.environ.get("META_ACCESS_TOKEN"):
         try:
-            ig, fb = collect_meta(os.environ["META_ACCESS_TOKEN"], os.environ.get("META_PAGE_ID") or None, notes)
+            ig, fb = collect_meta(os.environ["META_ACCESS_TOKEN"], os.environ.get("META_PAGE_ID") or None,
+                                  notes, fb_videos)
         except PublishError as exc:
             notes.append(f"Meta: {str(exc)[:160]}")
     yt_ids = {}
@@ -136,6 +215,8 @@ def collect(today: date) -> dict:
     for p in posts:
         links = p["publish_links"]
         row = {"type": p.get("type"), "date": p.get("date"), "time": p.get("time"), "title": _title(p),
+               "hook": captions.hook_of(p),
+               **({"repost_of": p["repost_of"]} if p.get("repost_of") else {}),
                "links": {k: v for k, v in links.items() if str(v).startswith("http")}}
         if links.get("instagram"):
             row["instagram"] = ig.get(links["instagram"].rstrip("/"))

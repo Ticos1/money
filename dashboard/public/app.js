@@ -3,7 +3,7 @@
 
 const PLATFORMS = [
   ["instagram", "Instagram"], ["facebook", "Facebook"], ["tiktok", "TikTok"],
-  ["kwai", "Kwai"], ["youtube", "YouTube"],
+  ["kwai", "Kwai"], ["youtube", "YouTube"], ["whatsapp", "Canal WhatsApp"],
 ];
 // redes de publicação (as legendas usam PLATFORMS; Stories não tem legenda)
 const NETS = [...PLATFORMS, ["stories", "Stories IG"]];
@@ -17,6 +17,8 @@ const IMG_NAME = {
   "imagem_quadrada.jpg": "Imagem 1:1", "imagem_vertical.jpg": "Imagem 4:5", "imagem_story.jpg": "Imagem 9:16",
   "pergunta_quadrada.jpg": "Pergunta 1:1", "pergunta_vertical.jpg": "Pergunta 4:5",
   "resposta_quadrada.jpg": "Resposta 1:1", "resposta_vertical.jpg": "Resposta 4:5",
+  "carrossel_1.jpg": "Carrossel 1/4", "carrossel_2.jpg": "Carrossel 2/4",
+  "carrossel_3.jpg": "Carrossel 3/4", "carrossel_4.jpg": "Carrossel 4/4",
 };
 
 let STATE = { posts: [], settings: {} };
@@ -73,7 +75,12 @@ function mediaUrl(post, file) {
 function fmtDate(post) {
   const d = new Date(`${post.date}T12:00:00`);
   const day = d.toLocaleDateString("pt-BR", { weekday: "short", day: "2-digit", month: "2-digit" });
-  return `${day} · ${post.time}`;
+  return `${day} · ${postTime(post)}`;
+}
+
+// horário real de saída (o do slot ± alguns minutos, para não parecer automação)
+function postTime(post) {
+  return post.publish_at?.slice(11, 16) || post.time;
 }
 
 function titleOf(post) {
@@ -86,6 +93,43 @@ function titleOf(post) {
 }
 
 // ---------- fila
+// Canal do WhatsApp não tem API: o painel entrega mídia + legenda pelo "Compartilhar" do celular.
+function whatsappMedia(post) {
+  const m = post.media || {};
+  if (m.video_music) return m.video_music; // canal não tem biblioteca de músicas
+  return (m.images || []).find((f) => f === "imagem_vertical.jpg") || (m.images || [])[0] || m.poster;
+}
+
+function whatsappButton(post, text) {
+  let file = null;
+  const btn = h("button", { class: "btn small", onclick: async () => {
+    await copy(text);
+    const name = whatsappMedia(post);
+    try {
+      if (!file && name) {
+        btn.textContent = "⏳ Preparando…";
+        const res = await fetch(mediaUrl(post, name));
+        if (!res.ok) throw new Error("falha ao baixar a mídia");
+        const blob = await res.blob();
+        file = new File([blob], `${post.id}-${name}`, { type: blob.type || (name.endsWith(".mp4") ? "video/mp4" : "image/jpeg") });
+      }
+      const data = file ? { files: [file], text } : { text };
+      if (!navigator.share || (navigator.canShare && !navigator.canShare(data))) {
+        toast("Este navegador não envia arquivos. Legenda copiada: baixe a mídia acima e poste no canal.");
+        btn.textContent = "📲 Enviar no canal";
+        return;
+      }
+      await navigator.share(data);
+      btn.textContent = "📲 Enviar no canal";
+    } catch (e) {
+      // o download demorou e o navegador exigiu um novo toque
+      btn.textContent = e.name === "NotAllowedError" ? "📲 Pronto! Toque de novo" : "📲 Enviar no canal";
+      if (e.name !== "AbortError" && e.name !== "NotAllowedError") toast(e.message);
+    }
+  } }, "📲 Enviar no canal");
+  return btn;
+}
+
 function captionBox(post) {
   const box = h("div");
   const tabs = h("div", { class: "tabs" });
@@ -105,10 +149,13 @@ function captionBox(post) {
       const text = post.captions[key];
       body.append(h("pre", { class: "caption" }, text),
         h("button", { class: "btn small primary", onclick: () => copy(text) }, "Copiar legenda"));
+      if (key === "whatsapp") body.append(" ", whatsappButton(post, text),
+        h("p", { class: "muted" }, "Abre o WhatsApp com a mídia e a legenda: escolha o seu canal na lista. Se a legenda não vier junto, ela já está copiada: é só colar."));
     }
   };
   for (const [k, name] of PLATFORMS) {
     if (k === "youtube" && !post.media?.video_music) continue; // Shorts precisa de vídeo
+    if (k === "whatsapp" && !post.captions?.whatsapp) continue; // posts antigos não têm
     if (post.type === "compilation" && k !== "youtube") continue; // vídeo longo: só YouTube
     tabs.append(h("button", { "data-k": k, onclick: () => show(k) }, name));
   }
@@ -155,8 +202,10 @@ function mediaSection(post) {
     h("div", {}, video, which),
     h("div", {},
       h("h3", {}, "Baixar"),
-      h("div", { class: "row" }, dl(m.video_music, "Vídeo com música"), dl(m.video_silent, "Vídeo sem música")),
+      h("div", { class: "row" }, dl(m.video_music, "Vídeo com música"), dl(m.video_silent, "Vídeo sem música"),
+        m.thumbnail ? dl(m.thumbnail, "Capa do YouTube") : null),
       h("p", { class: "muted" }, "Com música → YouTube, Facebook (e Instagram, se quiser). Sem música → TikTok, Kwai e Instagram, escolhendo a música no próprio app."),
+      m.thumbnail ? h("p", { class: "muted" }, "Capa do YouTube: texto grande para o Short. A publicação automática já tenta aplicar; se não pegar, troque no app do YouTube ou no YouTube Studio.") : null,
       thumbs,
       h("div", { class: "row" }, m.images.map((f) => dl(f, IMG_NAME[f] || f))),
       h("p", { class: "muted" }, `Duração: ${m.duration}s`),
@@ -173,7 +222,7 @@ function imageSection(post) {
     h("div", {},
       h("h3", {}, "Baixar"),
       h("div", { class: "row" }, m.images.map(dl)),
-      h("p", { class: "muted" }, "9:16 → Stories, Status e TikTok/Kwai (modo foto, com música do app). 4:5 e 1:1 → feed do Instagram e do Facebook."),
+      h("p", { class: "muted" }, "9:16 → Stories, Status e TikTok/Kwai (modo foto, com música do app). 4:5 e 1:1 → feed do Instagram e do Facebook. Carrossel 1 a 4 → Instagram (poste as 4 juntas, nessa ordem)."),
     ));
 }
 
@@ -246,8 +295,10 @@ function editForm(post, card) {
     f.append(h("p", { class: "muted" }, `Versículo (não editável, vem da Bíblia): ${post.content.ref_label}`));
     fields.on_screen = h("input", { type: "text", maxlength: 110, value: post.content.on_screen });
     fields.reflection = h("textarea", {}, post.content.reflection);
-    f.append(h("label", {}, "Frase de reflexão (aparece no vídeo)", fields.on_screen),
-      h("label", {}, "Reflexão (legenda base)", fields.reflection));
+    fields.application = h("textarea", { maxlength: 240, style: "min-height:70px" }, post.content.application || "");
+    f.append(h("label", {}, "Frase de reflexão (aparece no vídeo e no carrossel)", fields.on_screen),
+      h("label", {}, "Reflexão (legenda base e carrossel)", fields.reflection),
+      h("label", {}, "Aplicação prática (slide 3 do carrossel; vazio = frase padrão)", fields.application));
   } else if (post.type === "curiosity") {
     f.append(h("p", { class: "muted" }, `Referência (não editável): ${post.content.ref_label}`));
     fields.title = h("input", { type: "text", maxlength: 60, value: post.content.title });
@@ -285,12 +336,13 @@ function editForm(post, card) {
     e.preventDefault();
     save.disabled = true;
     const content = (post.type === "fill" || post.type === "truefalse") ? {} : post.type === "verse"
-      ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value }
+      ? { on_screen: fields.on_screen.value, reflection: fields.reflection.value, application: fields.application.value }
       : post.type === "curiosity"
         ? { title: fields.title.value, text: fields.text.value }
         : { question: fields.question.value, options: fields.options.map((i) => i.value), answer: Number(fields.answer.value) };
     const captions = {
       instagram: caps.instagram.value, facebook: caps.facebook.value, tiktok: caps.tiktok.value, kwai: caps.kwai.value,
+      whatsapp: caps.whatsapp.value,
       youtube: { title: caps.yt_title.value, description: caps.yt_desc.value },
     };
     try {
@@ -357,7 +409,7 @@ async function setStatus(post, action) {
     Object.assign(post, r.post);
     const auto = Object.entries(STATE.settings?.publishing || {}).filter(([k, v]) => v === true).map(([k]) => k);
     toast(action === "approve"
-      ? (auto.length ? `Aprovado! Será publicado em ${auto.join(", ")} no horário (${post.time}).` : "Aprovado!")
+      ? (auto.length ? `Aprovado! Será publicado em ${auto.join(", ")} no horário (${postTime(post)}).` : "Aprovado!")
       : action === "reject" ? "Rejeitado" : "Atualizado");
     render();
   } catch (e) { toast(e.message); }
@@ -381,6 +433,7 @@ function postCard(post) {
     h("button", { class: "btn", onclick: () => editForm(post, card) }, "✎ Editar"));
   const long = post.type === "compilation";
   const origin = long ? `${post.content.count} perguntas do banco e dos últimos posts`
+    : post.repost_of ? `♻️ repost do melhor post da semana (${post.repost_of}), em formato novo`
     : post.source === "groq" ? `gerado pela IA (${post.model})` : `banco (${post.bank_id})`;
   card.append(head,
     h("div", { class: "sec" }, alerts, h("p", { style: "margin:0 0 4px;font-weight:600" }, titleOf(post)),
@@ -408,7 +461,7 @@ function renderQueue(main) {
 // ---------- histórico
 async function renderHistory(main) {
   const table = h("table", {}, h("thead", {}, h("tr", {}, h("th", {}, "Data"), h("th", {}, "Post"),
-    ...NETS.map(([, n]) => h("th", {}, n.slice(0, 2))))));
+    ...NETS.map(([k, n]) => h("th", {}, k === "whatsapp" ? "WA" : n.slice(0, 2))))));
   const tbody = h("tbody");
   table.append(tbody);
   main.append(h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Publicações por rede"),
@@ -416,7 +469,7 @@ async function renderHistory(main) {
   let older = [];
   try { older = (await api("/api/history")).posts; } catch (e) { toast(e.message); }
   const all = [...STATE.posts, ...older].filter((p) => Object.values(p.published || {}).some(Boolean));
-  if (!all.length) tbody.append(h("tr", {}, h("td", { colspan: 7, class: "muted" }, "Nada publicado ainda. Marque as redes em cada post da fila.")));
+  if (!all.length) tbody.append(h("tr", {}, h("td", { colspan: NETS.length + 2, class: "muted" }, "Nada publicado ainda. Marque as redes em cada post da fila.")));
   for (const p of all) {
     tbody.append(h("tr", {}, h("td", { class: "p" }, p.date.split("-").reverse().join("/")),
       h("td", {}, h("div", {}, titleOf(p)), h("div", { class: "muted" }, typeName(p.type))),
@@ -447,13 +500,38 @@ function groupTable(title, rows, keyFn, label) {
   const groups = {};
   for (const r of rows) (groups[keyFn(r)] ||= []).push(r);
   const hasReach = rows.some((r) => typeof r.instagram?.reach === "number");
-  const head = ["", "Posts", "Engaj. médio", "Curtidas IG", hasReach && "Alcance IG", "Curtidas FB", "Views YT"].filter(Boolean);
+  const hasFbViews = rows.some((r) => typeof r.facebook?.views === "number");
+  const head = ["", "Posts", "Engaj. médio", "Curtidas IG", hasReach && "Alcance IG", "Curtidas FB",
+    hasFbViews && "Views FB", hasFbViews && "Tempo médio FB", "Views YT"].filter(Boolean);
   const body = Object.entries(groups).sort((a, b) => avg(b[1], engagement) - avg(a[1], engagement)).map(([k, list]) =>
     h("tr", {}, h("td", {}, label(k)), h("td", {}, list.length), h("td", {}, h("b", {}, avg(list, engagement))),
       h("td", {}, avg(list, (r) => r.instagram?.likes)), hasReach && h("td", {}, avg(list, (r) => r.instagram?.reach)),
-      h("td", {}, avg(list, (r) => r.facebook?.likes)), h("td", {}, avg(list, (r) => r.youtube?.views))));
+      h("td", {}, avg(list, (r) => r.facebook?.likes)),
+      hasFbViews && h("td", {}, avg(list, (r) => r.facebook?.views)),
+      hasFbViews && h("td", {}, secs(avg(list, (r) => r.facebook?.avg_watch_s))),
+      h("td", {}, avg(list, (r) => r.youtube?.views))));
   return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, title),
     h("div", { style: "overflow-x:auto" }, h("table", {}, h("thead", {}, h("tr", {}, head.map((t) => h("th", {}, t)))), h("tbody", {}, body)))));
+}
+
+const secs = (v) => (typeof v === "number" ? `${String(v).replace(".", ",")} s` : "—");
+// quais vídeos prendem a atenção: tempo médio assistido no Facebook (precisa de read_insights)
+function retentionTable(rows) {
+  const vids = rows.filter((r) => typeof r.facebook?.avg_watch_s === "number")
+    .sort((a, b) => b.facebook.avg_watch_s - a.facebook.avg_watch_s);
+  if (!vids.length) return null;
+  const pct = (r) => (r.facebook.views ? `${Math.round((num(r.facebook.complete_views) / r.facebook.views) * 100)}%` : "—");
+  const line = (r) => h("tr", {},
+    h("td", {}, h("b", {}, secs(r.facebook.avg_watch_s))),
+    h("td", {}, h("div", {}, r.title), h("div", { class: "muted" }, `${typeName(r.type)} · ${r.date?.split("-").reverse().join("/")} ${r.time || ""}`)),
+    h("td", {}, r.facebook.views ?? "—"), h("td", {}, r.facebook.views_3s ?? "—"), h("td", {}, pct(r)),
+    h("td", { class: "p" }, r.links?.facebook ? h("a", { href: r.links.facebook, target: "_blank", rel: "noopener" }, "FB↗") : ""));
+  const shown = vids.length > 10 ? [...vids.slice(0, 5), ...vids.slice(-5)] : vids;
+  return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Vídeos que prendem a atenção (Facebook)"),
+    h("p", { class: "muted" }, vids.length > 10 ? "Os 5 com maior e os 5 com menor tempo médio assistido." : "Ordenados pelo tempo médio assistido."),
+    h("div", { style: "overflow-x:auto" }, h("table", {},
+      h("thead", {}, h("tr", {}, ["Tempo médio", "Vídeo", "Views", "Views 3 s", "Até o fim", ""].map((t) => h("th", {}, t)))),
+      h("tbody", {}, shown.map(line))))));
 }
 
 // gráficos simples em HTML/CSS (sem biblioteca): colunas por dia e barras por horário
@@ -553,6 +631,7 @@ async function renderMetrics(main) {
   main.append(h("p", { class: "muted" }, `${rows.length} posts dos últimos 60 dias · atualizado em ${when}. Engajamento = curtidas + 2×comentários + 3×salvamentos/compartilhamentos.`));
   for (const n of data.notes || []) main.append(h("div", { class: "alert warn" }, n));
   main.append(dailyChart(rows) || "", hourChart(rows) || "");
+  main.append(retentionTable(rows) || "");
   main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => typeName(k)));
   main.append(groupTable("Por horário", rows, (r) => r.time, (k) => k));
   const top = [...rows].sort((a, b) => engagement(b) - engagement(a)).slice(0, 10);
@@ -570,6 +649,7 @@ function renderConfig(main) {
   const f = h("form", { class: "stack" });
   const name = h("input", { type: "text", value: s.brand?.name || "" });
   const handle = h("input", { type: "text", value: s.brand?.handle || "", placeholder: "@seuperfil" });
+  const channel = h("input", { type: "url", value: s.brand?.whatsapp_channel || "", placeholder: "https://whatsapp.com/channel/..." });
   const slotBox = h("div", { class: "stack" });
   const slotRows = [];
   const addSlot = (slot) => {
@@ -612,6 +692,7 @@ function renderConfig(main) {
   f.append(
     h("label", {}, "Nome da página", name),
     h("label", {}, "Seu @ (marca d'água nos vídeos e imagens)", handle),
+    h("label", {}, "Link do canal do WhatsApp (aparece no site /hoje/; vazio = sem botão)", channel),
     h("h3", {}, "Posts por dia (horários sugeridos para postar)"),
     slotBox,
     h("button", { type: "button", class: "btn small", onclick: () => addSlot() }, "+ Adicionar horário"),
@@ -628,7 +709,7 @@ function renderConfig(main) {
         ? h("span", { class: "muted" }, `TikTok conectado${STATE.tiktok.name ? `: ${STATE.tiktok.name}` : ""} ✔`)
         : h("span", { class: "muted" }, "TikTok não conectado."),
       h("a", { class: "btn small", href: "/api/tiktok/connect" }, STATE.tiktok?.connected ? "Reconectar TikTok" : "Conectar TikTok")),
-    h("p", { class: "muted" }, "Kwai continua manual. Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md e docs/TIKTOK.md)."),
+    h("p", { class: "muted" }, "Kwai e o canal do WhatsApp continuam manuais (no canal, use o botão 📲 da legenda). Cada rede precisa das chaves configuradas (veja docs/PUBLICACAO.md e docs/TIKTOK.md)."),
     h("h3", {}, "Vídeo longo de quiz (YouTube)"),
     h("label", { class: "check" }, compOn, "Gerar toda semana um vídeo de ~10 min com várias perguntas (sai só no YouTube)"),
     h("div", { class: "row" }, h("label", {}, "Dia", compDay), h("label", {}, "Horário", compTime), h("label", {}, "Minutos", compMin)),
@@ -652,7 +733,7 @@ function renderConfig(main) {
     save.disabled = true;
     try {
       const r = await api("/api/settings", { method: "PUT", body: {
-        name: name.value, handle: handle.value,
+        name: name.value, handle: handle.value, whatsapp_channel: channel.value,
         slots: slotRows.map((r) => ({ time: r.time.value, type: r.type.value }))
           .sort((a, b) => a.time.localeCompare(b.time)),
         auto_approve: auto.checked, groq_enabled: groqOn.checked, model: model.value.trim(),

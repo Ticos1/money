@@ -11,6 +11,14 @@ const SECURITY_HEADERS = {
   "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
 };
 
+// páginas geradas por app/site.py; das mídias, só as imagens do Versículo do dia são públicas
+const PUBLIC_SITE = /^\/(hoje|dia)(\/|$)|^\/(robots\.txt|sitemap\.xml)$|^\/google[\w-]+\.html$/;
+const PUBLIC_VERSE_IMAGE = /^\/media\/\d{4}-\d{2}-\d{2}\/\d{4}-\d{2}-\d{2}-\d+-verse(-v\d+)?\/imagem_[a-z]+\.jpg$/;
+
+function isPublicSite(pathname) {
+  return PUBLIC_SITE.test(pathname) || PUBLIC_VERSE_IMAGE.test(pathname);
+}
+
 function withHeaders(res) {
   const out = new Response(res.body, res);
   for (const [k, v] of Object.entries(SECURITY_HEADERS)) out.headers.set(k, v);
@@ -37,12 +45,18 @@ export async function onRequest(ctx) {
   // arquivos de verificação de domínio do TikTok (ex.: /tiktokAbC123.txt) também são públicos
   if (PUBLIC.has(url.pathname) || /^\/tiktok[\w-]+\.txt$/.test(url.pathname)) return withHeaders(await ctx.next());
 
+  // mini-site público (versículo do dia + quiz de hoje) e a imagem do versículo usada na prévia do link
+  if (["GET", "HEAD"].includes(request.method) && isPublicSite(url.pathname)) return withHeaders(await ctx.next());
+
   // Instagram/Facebook baixam a mídia por um link assinado que expira em poucas horas.
   if (["GET", "HEAD"].includes(request.method) && (await hasValidMediaSignature(url, env.MEDIA_SIGNING_SECRET))) {
     return withHeaders(await ctx.next());
   }
 
   if (await hasValidSession(request, env.SESSION_SECRET)) return withHeaders(await ctx.next());
+
+  // visitante sem login no endereço principal (ex.: link da bio) vai para o versículo do dia
+  if (url.pathname === "/" && request.method === "GET") return Response.redirect(`${url.origin}/hoje/`, 302);
 
   if (url.pathname.startsWith("/api/")) {
     return new Response(JSON.stringify({ error: "login necessário" }), {

@@ -6,7 +6,8 @@ Também aceita um token de usuário; nesse caso a Página é descoberta sozinha
 (use META_PAGE_ID se você tiver mais de uma Página).
 
 O que vai para cada rede:
-  Versículo (imagem) → Instagram: foto 4:5 no feed · Facebook: foto
+  Versículo (imagem) → Instagram: carrossel 4:5 (versículo, reflexão, aplicação, chamada)
+                       ou foto 4:5 · Facebook: foto
   Quiz (vídeo)       → Instagram: Reels (com música) · Facebook: vídeo
 """
 from __future__ import annotations
@@ -104,6 +105,13 @@ class InstagramPublisher(Publisher):
             container = _call("POST", f"{ig}/media", media_type="REELS", share_to_feed="true",
                               video_url=media_url(media["video_music"]), caption=caption,
                               access_token=token)["id"]
+        elif len(media.get("carousel") or []) >= 2:
+            children = [_call("POST", f"{ig}/media", image_url=media_url(name), is_carousel_item="true",
+                              access_token=token)["id"] for name in media["carousel"][:10]]
+            for child in children:
+                _wait_container(child, token)
+            container = _call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children),
+                              caption=caption, access_token=token)["id"]
         else:
             image = "imagem_vertical.jpg" if "imagem_vertical.jpg" in media["images"] else media["images"][0]
             container = _call("POST", f"{ig}/media", image_url=media_url(image), caption=caption,
