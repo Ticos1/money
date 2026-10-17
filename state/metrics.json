@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-17T13:12:35+00:00",
+ "updated_at": "2026-10-17T14:56:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-17-10-compilation": {
+   "type": "compilation",
+   "date": "2026-10-17",
+   "time": "12:00",
+   "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+   "hook": null,
+   "links": {
+    "youtube": "https://youtu.be/85sTRwfSOPk"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-17-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-17",
@@ -16,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 220,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 440.3
    }
   },
   "2026-10-17-2-quiz-v2": {
@@ -34,9 +49,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 232,
-    "avg_watch_s": 2.0,
-    "watch_time_s": 400.4
+    "views": 248,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 566.6
    },
    "youtube": {
     "views": 0,
@@ -111,7 +126,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 6,
+    "views": 7,
     "likes": 1,
     "comments": 0
    }
@@ -146,7 +161,7 @@
     "watch_time_s": 3.5
    },
    "youtube": {
-    "views": 11,
+    "views": 15,
     "likes": 1,
     "comments": 0
    }
@@ -181,7 +196,7 @@
     "watch_time_s": 555.0
    },
    "youtube": {
-    "views": 15,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -502,7 +517,7 @@
     "watch_time_s": 696.5
    },
    "youtube": {
-    "views": 11,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -1267,9 +1282,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 201,
-    "avg_watch_s": 2.5,
-    "watch_time_s": 464.2
+    "views": 202,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 465.1
    },
    "youtube": {
     "views": 15,
