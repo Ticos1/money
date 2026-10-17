@@ -123,7 +123,7 @@ def carousel(item: dict, pal: design.Palette, seed: int, handle: str) -> list[Im
     design.text_block(cta, ["Amém?"], design.font("serif_bold", 130), 160, size[0] // 2, 250,
                       fill=pal.accent + (255,))
     steps = ["Salve para ler de novo quando precisar", "Envie para quem precisa ouvir isso hoje",
-             f"Siga {handle} para receber a Palavra todo dia" if handle else "Comente AMÉM se você recebe"]
+             f"Siga {handle} para receber a Palavra todo dia" if handle else "Volte amanhã para mais uma palavra"]
     y = 520
     for text in steps:
         design.rounded_card(cta, (110, y, 970, y + 150), 36, (255, 255, 255, 34),

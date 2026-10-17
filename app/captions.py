@@ -25,10 +25,9 @@ VERSE_HOOKS = [
     "Comece o dia com a Palavra",
 ]
 VERSE_CTAS = [
-    "Digite AMÉM se você recebe essa palavra.",
     "Compartilhe com alguém que precisa ler isso hoje.",
     "Salve para ler de novo quando precisar.",
-    "Marque alguém para abençoar o dia dessa pessoa.",
+    "Envie para quem precisa ouvir isso hoje.",
 ]
 QUIZ_HOOKS = [
     "Só 1% acerta essa pergunta da Bíblia!",
@@ -223,6 +222,8 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
     user = (
         f"Escreva variações de legenda para redes sociais sobre este post. {about}\n"
         f"Regras: {rules} Não cite outros versículos ou referências bíblicas. Não use hashtags. "
+        "Não peça para digitar ou comentar palavras (ex.: AMÉM) nem para marcar pessoas; "
+        "se quiser uma chamada, peça para salvar ou compartilhar. "
         "Tom respeitoso, acolhedor, linguagem simples. Pode usar até 2 emojis por texto.\n"
         "Responda em JSON: {\"hook\": \"frase de abertura até 70 caracteres\", "
         "\"long\": \"legenda para Instagram/Facebook, até 600 caracteres\", "

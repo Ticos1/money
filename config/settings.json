@@ -7,10 +7,6 @@
  "schedule": {
   "slots": [
    {
-    "time": "06:30",
-    "type": "verse"
-   },
-   {
     "time": "08:00",
     "type": "quiz"
    },
@@ -25,14 +21,6 @@
    {
     "time": "15:00",
     "type": "truefalse"
-   },
-   {
-    "time": "17:00",
-    "type": "quiz"
-   },
-   {
-    "time": "18:30",
-    "type": "fill"
    },
    {
     "time": "20:00",
@@ -95,13 +83,13 @@
   "minutes": 10
  },
  "repost": {
-  "enabled": true,
+  "enabled": false,
   "weekday": 6,
   "time": "19:15",
   "days": 7
  },
  "adapt": {
-  "enabled": true,
+  "enabled": false,
   "zero_days": 14,
   "cooldown_days": 14,
   "min_posts": 6
