@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-17T19:56:57+00:00",
+ "updated_at": "2026-10-17T21:31:55+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-17-7-fill",
+   "date": "2026-10-17",
+   "slot": 7,
+   "time": "18:30",
+   "publish_at": "2026-10-17T18:29",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-17T21:30:24+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-17T21:30:55+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Fj80nwEvRxY",
+    "stories": "story 18129853897694085"
+   },
+   "title": "Combati o bom combate. Terminei a corrida. Guardei a _____."
   },
   {
    "id": "2026-10-17-6-quiz",
