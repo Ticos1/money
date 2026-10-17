@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-17T17:52:30+00:00",
+ "updated_at": "2026-10-17T18:03:36+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-17-5-truefalse",
+   "date": "2026-10-17",
+   "slot": 5,
+   "time": "15:00",
+   "publish_at": "2026-10-17T15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-17T18:00:24+00:00",
+    "instagram": "2026-10-17T18:01:08+00:00",
+    "facebook": "2026-10-17T18:01:12+00:00",
+    "stories": "2026-10-17T18:01:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/uyMKZ4hG0iw",
+    "instagram": "https://www.instagram.com/reel/Dems9v3gn83/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1032437106472378",
+    "stories": "story 18163860394505603"
+   },
+   "title": "Sambalate, que se opôs a Neemias, era chamado de quê?"
   },
   {
    "id": "2026-10-17-4-quiz-v2",
