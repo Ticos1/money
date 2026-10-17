@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T21:31:52+00:00",
+ "updated_at": "2026-10-17T23:04:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,35 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-17-8-quiz": {
+   "type": "quiz",
+   "date": "2026-10-17",
+   "time": "20:00",
+   "title": "Mostrando hospitalidade, quem alguns hospedaram sem saber?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DenPWMRilIv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2537140247092634"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-17-7-fill": {
@@ -76,12 +105,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 261,
+    "views": 264,
     "avg_watch_s": 3.7,
-    "watch_time_s": 840.1
+    "watch_time_s": 880.0
    },
    "youtube": {
-    "views": 8,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -112,11 +141,11 @@
     "likes": 1,
     "comments": 0,
     "views": 286,
-    "avg_watch_s": 2.3,
-    "watch_time_s": 611.3
+    "avg_watch_s": 2.4,
+    "watch_time_s": 620.7
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -263,7 +292,7 @@
     "watch_time_s": 3.5
    },
    "youtube": {
-    "views": 20,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -298,7 +327,7 @@
     "watch_time_s": 555.0
    },
    "youtube": {
-    "views": 22,
+    "views": 23,
     "likes": 1,
     "comments": 0
    }
@@ -391,7 +420,7 @@
     "watch_time_s": 947.6
    },
    "youtube": {
-    "views": 26,
+    "views": 29,
     "likes": 3,
     "comments": 0
    }
@@ -712,7 +741,7 @@
     "watch_time_s": 719.1
    },
    "youtube": {
-    "views": 26,
+    "views": 28,
     "likes": 1,
     "comments": 0
    }
@@ -905,7 +934,7 @@
     "watch_time_s": 14.0
    },
    "youtube": {
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -2086,7 +2115,7 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 469,
+    "views": 470,
     "avg_watch_s": 2.8,
     "watch_time_s": 1194.1
    },
