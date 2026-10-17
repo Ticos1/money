@@ -6,7 +6,8 @@ Roda junto da publicação (GitHub Actions) e grava state/metrics.json, que o
 painel mostra na aba "Métricas". Tudo pelas APIs oficiais e com os mesmos
 tokens já configurados. Se faltar alguma permissão (ex.: alcance/salvamentos do
 Instagram precisam de instagram_manage_insights; visualizações e tempo médio dos
-vídeos do Facebook precisam de read_insights), coleta o que der e avisa.
+vídeos do Facebook precisam de read_insights; tempo assistido do YouTube precisa do escopo
+yt-analytics.readonly), coleta o que der e avisa.
 """
 from __future__ import annotations
 
@@ -26,7 +27,7 @@ from .publishers import PublishError
 
 KEEP_DAYS = 60
 IG_INSIGHTS = {
-    "REELS": "reach,saved,shares,views,total_interactions",
+    "REELS": "reach,saved,shares,views,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time",
     "FEED": "reach,saved,shares,total_interactions",
 }
 
@@ -42,6 +43,8 @@ FB_VIDEO_FIELDS = {
 }
 FB_VIDEO_FALLBACK = ("total_video_views,total_video_views_unique,total_video_complete_views,"
                      "total_video_avg_time_watched,total_video_view_total_time")
+IG_WATCH = {"ig_reels_avg_watch_time": "avg_watch_s", "ig_reels_video_view_total_time": "watch_time_s"}  # ms
+MAX_PAGES = 10  # 100 itens por página: cobre os 60 dias guardados mesmo com 10+ posts por dia
 FB_VIDEO_ID = re.compile(r"/videos/(\w+)")
 YT_ID = re.compile(r"(?:shorts/|youtu\.be/|watch\?v=)([\w-]+)")
 
@@ -58,6 +61,19 @@ def _get(url: str, **params) -> dict:
         err = data.get("error", {}) if isinstance(data, dict) else {}
         raise PublishError(err.get("message") or resp.text[:200])
     return data
+
+
+def _pages(url: str, **params) -> list[dict]:
+    """Todos os itens de uma lista da Graph API, seguindo a paginação (até MAX_PAGES páginas)."""
+    items: list[dict] = []
+    data = _get(url, **params)
+    for _ in range(MAX_PAGES):
+        items += data.get("data", [])
+        nxt = (data.get("paging") or {}).get("next")
+        if not nxt:
+            break
+        data = _get(nxt)
+    return items
 
 
 def _is_permission_error(exc: Exception) -> bool:
@@ -85,7 +101,11 @@ def ig_insights(media_id: str, metrics: str, token: str, failed: list[str]) -> d
                 if _is_permission_error(one):
                     raise
                 failed.append(f"{media_id}: {one}")
-    return {item["name"]: (item.get("values") or [{}])[0].get("value", 0) for item in items}
+    out = {item["name"]: (item.get("values") or [{}])[0].get("value", 0) for item in items}
+    for name, field in IG_WATCH.items():  # tempo assistido dos Reels vem em ms
+        if isinstance(out.get(name), (int, float)):
+            out[field] = round(out.pop(name) / 1000, 1)
+    return out
 
 
 def fb_video_insights(video_id: str, token: str) -> dict:
@@ -119,11 +139,11 @@ def collect_meta(token: str, page_id: str | None, notes: list[str],
     acc = MetaAccount(token, page_id)
     ig: dict[str, dict] = {}
     if acc.ig_id:
-        data = _get(f"{GRAPH}/{acc.ig_id}/media", access_token=acc.page_token, limit=100,
-                    fields="id,permalink,timestamp,media_product_type,like_count,comments_count")
+        media = _pages(f"{GRAPH}/{acc.ig_id}/media", access_token=acc.page_token, limit=100,
+                       fields="id,permalink,timestamp,media_product_type,like_count,comments_count")
         insights_ok = True
         failed: list[str] = []
-        for m in data.get("data", []):
+        for m in media:
             row = {"likes": m.get("like_count", 0), "comments": m.get("comments_count", 0)}
             metrics = IG_INSIGHTS.get(m.get("media_product_type"))
             if insights_ok and metrics:
@@ -138,16 +158,16 @@ def collect_meta(token: str, page_id: str | None, notes: list[str],
             notes.append(f"Instagram: a Meta não devolveu algumas métricas de {len(set(failed))} post(s) "
                          f"(erro: {failed[-1][:120]})")
     fb: dict[str, dict] = {}
-    posts = _get(f"{GRAPH}/{acc.page_id}/posts", access_token=acc.page_token, limit=100,
-                 fields="id,reactions.summary(true).limit(0),comments.summary(true).limit(0),shares")
-    for p in posts.get("data", []):
+    posts = _pages(f"{GRAPH}/{acc.page_id}/posts", access_token=acc.page_token, limit=100,
+                   fields="id,reactions.summary(true).limit(0),comments.summary(true).limit(0),shares")
+    for p in posts:
         fb[p["id"]] = {"likes": p.get("reactions", {}).get("summary", {}).get("total_count", 0),
                        "comments": p.get("comments", {}).get("summary", {}).get("total_count", 0),
                        "shares": (p.get("shares") or {}).get("count", 0)}
     try:
-        vids = _get(f"{GRAPH}/{acc.page_id}/videos", access_token=acc.page_token, limit=100,
-                    fields="id,likes.summary(true).limit(0),comments.summary(true).limit(0)")
-        for v in vids.get("data", []):
+        vids = _pages(f"{GRAPH}/{acc.page_id}/videos", access_token=acc.page_token, limit=100,
+                      fields="id,likes.summary(true).limit(0),comments.summary(true).limit(0)")
+        for v in vids:
             fb[v["id"]] = {"likes": v.get("likes", {}).get("summary", {}).get("total_count", 0),
                            "comments": v.get("comments", {}).get("summary", {}).get("total_count", 0)}
     except PublishError as exc:
@@ -187,6 +207,33 @@ def collect_youtube(ids: list[str], notes: list[str]) -> dict:
             st = item.get("statistics", {})
             out[item["id"]] = {"views": int(st.get("viewCount", 0)), "likes": int(st.get("likeCount", 0)),
                                "comments": int(st.get("commentCount", 0))}
+    for vid, extra in youtube_watch_time(ids, tok["access_token"], notes).items():
+        if vid in out:
+            out[vid].update(extra)
+    return out
+
+
+def youtube_watch_time(ids: list[str], access_token: str, notes: list[str]) -> dict:
+    """Tempo médio e total assistido de cada vídeo (YouTube Analytics; os números chegam com
+    1 a 2 dias de atraso). Precisa do escopo yt-analytics.readonly no refresh token."""
+    out = {}
+    today = date.today().isoformat()
+    for i in range(0, len(ids), 200):
+        resp = requests.get("https://youtubeanalytics.googleapis.com/v2/reports", timeout=30, params={
+            "ids": "channel==MINE", "startDate": "2026-01-01", "endDate": today, "dimensions": "video",
+            "metrics": "views,averageViewDuration,estimatedMinutesWatched",
+            "filters": "video==" + ",".join(ids[i:i + 200])},
+            headers={"Authorization": f"Bearer {access_token}"})
+        if resp.status_code != 200:
+            notes.append("YouTube: para ver o tempo assistido, gere o refresh token também com o escopo "
+                         "yt-analytics.readonly (veja docs/PUBLICACAO.md)")
+            return out
+        data = resp.json()
+        cols = [c["name"] for c in data.get("columnHeaders", [])]
+        for row in data.get("rows") or []:
+            r = dict(zip(cols, row))
+            out[r["video"]] = {"avg_watch_s": round(float(r.get("averageViewDuration") or 0), 1),
+                               "watch_time_s": round(float(r.get("estimatedMinutesWatched") or 0) * 60, 1)}
     return out
 
 

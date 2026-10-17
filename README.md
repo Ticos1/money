@@ -17,7 +17,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 ## O que o sistema faz todo dia
 
-1. Às **05:20 (Brasília)**, o agendador (Cloudflare Worker) dispara o GitHub Actions, que gera os posts do dia (**9 posts**: 1 Versículo do dia, 4 quizzes, 3 "Verdadeiro ou falso" e 1 "Complete o versículo"; até 12, configurável no painel). A grade fica **congelada** para os testes terem dados suficientes: o repost de domingo e a grade adaptativa estão desligados.
+1. Às **05:20 (Brasília)**, o agendador (Cloudflare Worker) dispara o GitHub Actions, que gera os posts do dia (**10 posts**: 1 Versículo do dia, 4 quizzes, 3 "Verdadeiro ou falso", 1 "Complete o versículo" e 1 "Você sabia?", que sai só no Facebook). A grade está **congelada até 31/10/2026** (`schedule.frozen_until`) para os testes terem dados suficientes: o painel não muda horários, e o repost de domingo e a grade adaptativa estão desligados. O que vai para cada rede: [docs/PUBLICACAO.md](docs/PUBLICACAO.md#o-que-vai-para-cada-rede).
 2. Escolhe o conteúdo:
    - **banco próprio** (607 versículos com reflexão, 1.248 perguntas de quiz e 267 curiosidades: o versículo do dia rende mais de um ano; os 6 vídeos de pergunta por dia, cerca de 6 meses só com o banco e mais com o conteúdo novo da IA; veja `python -m app.saturation`);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
@@ -29,13 +29,17 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 6. Escreve **legendas e hashtags diferentes para cada rede**.
 7. Coloca tudo no **painel** (fila), aguardando sua aprovação.
 
+**Datas especiais** (Natal, Sexta-feira Santa, Páscoa, Pentecostes, Dia das Mães, Dia dos Pais, Dia das Crianças, Dia da Reforma, Dia da Bíblia, Ano Novo e domingos): o sistema escolhe conteúdo do tema, com saudação na legenda. Veja `app/datas.py`.
+
+**Formatos de vídeo:** quiz, "Complete o versículo", "Verdadeiro ou falso" e **"Em qual livro está?"** (versículo + 4 livros; use `book` nos horários em `config/settings.json` ou no painel).
+
 Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamente**. O post do dia nunca deixa de sair.
 
 ### Medir → ajustar (sozinho)
 
 - **Alerta de automação parada / token vencendo** (`app/health.py`, de hora em hora): se nada for publicado há 12h, se um post aprovado atrasar mais de 2h, se os posts do dia não forem gerados até as 08:00 ou se o token da Meta, do YouTube ou do TikTok estiver vencido ou para vencer em até 7 dias, abre uma **issue no GitHub** (chega no seu e-mail). Ela fecha sozinha quando tudo volta ao normal. Limites em `alerts` no `config/settings.json`.
-- **Teste A/B de ganchos**: cada post registra qual frase abriu a legenda (`hook`; legenda escrita pela IA conta como "Legenda da IA"). O resumo semanal compara o alcance médio de cada gancho por formato.
-- **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar.
+- **Teste A/B de ganchos**: cada post registra qual frase abriu a legenda (`hook`; legenda escrita pela IA conta como "Legenda da IA"). O resumo semanal compara o tempo assistido médio de cada gancho por formato (só conclui com 10+ posts por gancho).
+- **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar. O indicador principal é o **tempo assistido** (visualizações × tempo médio assistido, somando Facebook, Instagram e YouTube), não curtidas.
 - **Grade adaptativa** (`app/adapt.py`): se um formato passa 2 semanas com alcance zero, 1 horário dele vai para o formato que mais alcança. O total de posts não muda, o Versículo continua no primeiro horário e há no máximo 1 ajuste a cada 14 dias. Desligue com `"adapt": {"enabled": false}`.
 - **Carrossel de versículo no Instagram**: o Versículo do dia sai como carrossel 4:5 de 4 slides (versículo → reflexão → aplicação prática → chamada para salvar, enviar e seguir). A aplicação é escrita pela IA (validada) ou vem de frases prontas, e dá para editar no painel. Desligue com `publishing.verse_carousel: false`.
 
@@ -171,10 +175,14 @@ python -m app.generate run --no-groq     # gera os posts de hoje em ./media
 python -m app.generate compilation       # gera o vídeo longo de quiz (leva ~10 min)
 python -m app.site --out /tmp/site       # gera o mini-site público (versículo + quiz de hoje)
 python scripts/make_music.py             # recria as faixas instrumentais
+python -m app.report --analysis           # desempenho de todo o histórico (por tipo e horário)
+python scripts/audit_bible.py            # procura restos de tradução automática na Bíblia local
 ```
 
 ## Próximos passos
 
 - Fase 2: YouTube Shorts automático · Fase 3: Instagram/Facebook · Fase 4: TikTok → [docs/FASES.md](docs/FASES.md)
 - Tipo "Você sabia?" (o banco já está pronto e validado) e reflexões em vídeo
+- Ampliar o banco para 365 dias
+- Monetização por fases (metas, opções e regras): [docs/MONETIZACAO.md](docs/MONETIZACAO.md)
 - Futuro: Telegram, ofertas de afiliados (com aviso "link de afiliado") e divulgação do jogo de quiz (veja `app/types.py`)

@@ -436,6 +436,30 @@ class ClearQueueTests(unittest.TestCase):
             self.assertEqual(hist[done["id"]]["publish_links"], {"instagram": "u"})
 
 
+class NetworkFilterTests(unittest.TestCase):
+    def test_types_and_times_limit_each_network(self):
+        from app import publish
+        cfg = {"facebook_types": ["quiz", "curiosity"], "instagram_times": ["12:00", "20:00"],
+               "youtube_types": ["quiz", "compilation"], "youtube_times": ["12:00"]}
+        verse = {"type": "verse", "time": "06:30", "media": {"images": ["a.jpg"]}}
+        quiz = {"type": "quiz", "time": "12:00", "media": {"video_music": "v.mp4"}}
+        late = {**quiz, "time": "17:00"}
+        comp = {"type": "compilation", "time": "15:00", "media": {"video_music": "v.mp4"}}
+        self.assertFalse(publish.applies("facebook", verse, cfg))  # facebook_types
+        self.assertFalse(publish.applies("instagram", verse, cfg))  # instagram_times
+        self.assertTrue(publish.applies("instagram", quiz, cfg))
+        self.assertFalse(publish.applies("youtube", late, cfg))
+        self.assertTrue(publish.applies("youtube", comp, cfg))  # o vídeo longo não segue a grade
+
+    def test_archive_drops_never_approved_posts(self):
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_queue([{"id": "a", "date": "2026-10-01", "slot": 1, "status": "pending"},
+                              {"id": "b", "date": "2026-10-01", "slot": 2, "status": "approved",
+                               "published": {"facebook": "t"}}])
+            state.apply_patch({"posts": []}, date(2026, 10, 17), 3)
+            self.assertEqual([p["id"] for p in state.load_history()], ["b"])
+
+
 class CompletedPostsTests(unittest.TestCase):
     def test_fully_published_post_leaves_queue(self):
         from app import publish
@@ -788,15 +812,16 @@ class UpgradesTests(unittest.TestCase):
     def test_weekly_report_has_best_hour_top_posts_and_links(self):
         from app import report
         posts = {}
-        for i, (t, likes) in enumerate([("09:00", 1), ("09:00", 3), ("21:00", 20), ("21:00", 30), ("12:00", 5)]):
+        for i, (t, views) in enumerate([("09:00", 1), ("09:00", 3), ("21:00", 20), ("21:00", 30), ("12:00", 5)]):
             posts[f"p{i}"] = {"type": "quiz", "date": "2026-10-08", "time": t, "title": f"Post {i}",
-                              "links": {"instagram": f"https://ig/{i}"}, "instagram": {"likes": likes, "comments": 0}}
+                              "links": {"instagram": f"https://ig/{i}"}, "instagram": {"likes": 0, "comments": 0},
+                              "facebook": {"views": views, "avg_watch_s": 3.0}}
         posts["old"] = {"type": "quiz", "date": "2026-08-01", "time": "07:00", "title": "Velho", "instagram": {"likes": 999}}
         text = report.build({"posts": posts, "notes": ["falta permissão"]}, date(2026, 10, 12), "fulano")
         self.assertIn("@fulano", text)
         self.assertIn("Melhor: **21:00**", text)
         self.assertIn("Mais fraco: **09:00**", text)  # 12:00 tem só 1 post: fica de fora
-        self.assertIn("[instagram](https://ig/3)", text.split("Os 3 melhores")[1].split("\n")[2])
+        self.assertIn("[instagram](https://ig/3)", text.split("Os 3 vídeos mais assistidos")[1].split("\n")[2])
         self.assertNotIn("Velho", text)
         self.assertIn("falta permissão", text)
         self.assertIsNone(report.build({"posts": {}}, date(2026, 10, 12)))
@@ -865,29 +890,30 @@ class FormatAnalysisTests(unittest.TestCase):
              {"time": "13:30", "type": "curiosity"}, {"time": "20:00", "type": "quiz"}]
 
     @staticmethod
-    def _metrics(per_type: dict[str, list[int]]) -> dict:
+    def _metrics(per_type: dict[str, list[float]]) -> dict:
+        """Cada número é o tempo médio assistido (s) no Facebook de um post com 100 views."""
         posts = {}
-        for t, likes in per_type.items():
-            for i, n in enumerate(likes):
-                posts[f"{t}-{i}"] = {"type": t, "date": "2026-10-05", "instagram": {"likes": n},
-                                     "youtube": {"views": 1000, "likes": 50}}
+        for t, watch in per_type.items():
+            for i, n in enumerate(watch):
+                posts[f"{t}-{i}"] = {"type": t, "date": "2026-10-05", "instagram": {"likes": 50},
+                                     "facebook": {"views": 100, "avg_watch_s": n}}
         return {"posts": posts}
 
     def test_cuts_weak_format_and_keeps_verse(self):
         from app import report
-        m = self._metrics({"quiz": [5] * 8, "curiosity": [0] * 8, "verse": [0] * 8})
+        m = self._metrics({"quiz": [5] * 12, "curiosity": [0.5] * 12, "verse": [0.5] * 12})
         result = report.analyze(m, TODAY, 28)
         verdicts = {f["type"]: f["verdict"] for f in result["formats"]}
         self.assertEqual(verdicts, {"quiz": "concentrar", "curiosity": "cortar", "verse": "cortar"})
         slots = report.proposed_slots(self.SLOTS, result)
-        # o YouTube não entra na conta (senão favoreceria quem vai para lá)
-        self.assertEqual(result["formats"][0]["avg"], 5)
+        # curtidas não entram na conta: o que vale é o tempo assistido
+        self.assertEqual(result["formats"][0]["watch"], 500)
         self.assertEqual([s["type"] for s in slots], ["verse", "quiz", "quiz"])
         self.assertIn("de 4 para 3 posts", report.analysis_text(result, self.SLOTS))
 
     def test_little_data_changes_nothing(self):
         from app import report
-        m = self._metrics({"quiz": [1] * 8, "curiosity": [0] * 8})
+        m = self._metrics({"quiz": [1] * 8, "curiosity": [0.5] * 8})
         result = report.analyze(m, TODAY, 28)
         self.assertFalse(result["enough"])
         self.assertTrue(all(f["verdict"] == "insuficiente" for f in result["formats"]))
@@ -906,18 +932,19 @@ class HookABTests(unittest.TestCase):
         self.assertEqual(captions.hook_label(caps, "groq"), captions.AI_HOOK)
         self.assertEqual(captions.hook_of({"hook": "X", "captions": caps}), "X")
 
-    def test_report_compares_hooks_by_reach_and_recommends(self):
+    def test_report_compares_hooks_by_watch_time_and_recommends(self):
         from app import report
         posts = {}
-        for i in range(4):
+        for i in range(report.MIN_POSTS_PER_HOOK):
             posts[f"a{i}"] = {"type": "quiz", "date": "2026-10-05", "time": "08:00", "hook": "Gancho A",
-                              "instagram": {"likes": 2, "reach": 300}}
+                              "facebook": {"views": 100, "avg_watch_s": 3.0}}
             posts[f"b{i}"] = {"type": "quiz", "date": "2026-10-06", "time": "12:00", "hook": "Gancho B",
-                              "instagram": {"likes": 2, "reach": 50}}
-        posts["c"] = {"type": "quiz", "date": "2026-10-06", "hook": "Gancho C", "instagram": {"reach": 900}}
+                              "facebook": {"views": 50, "avg_watch_s": 1.0}}
+        posts["c"] = {"type": "quiz", "date": "2026-10-06", "hook": "Gancho C",
+                      "facebook": {"views": 900, "avg_watch_s": 5.0}}
         hooks = report.hook_analysis({"posts": posts}, TODAY)["quiz"]
         self.assertEqual([h["hook"] for h in hooks], ["Gancho A", "Gancho B", "Gancho C"])  # C: em teste
-        self.assertEqual(hooks[0]["reach"], 300)
+        self.assertEqual(hooks[0]["watch"], 300)
         recs = report.recommendations({"posts": posts}, TODAY, {})
         self.assertTrue(any("“Gancho A”" in r and "“Gancho B”" in r for r in recs))
         self.assertIn("(em teste)", "\n".join(report.hooks_text({"quiz": hooks})))
@@ -926,7 +953,7 @@ class HookABTests(unittest.TestCase):
 class RecommendationTests(unittest.TestCase):
     def test_weekly_report_says_cut_and_increase_only_for_formats_in_the_grid(self):
         from app import report
-        m = FormatAnalysisTests._metrics({"quiz": [5] * 8, "fill": [0] * 8, "curiosity": [0] * 8})
+        m = FormatAnalysisTests._metrics({"quiz": [5] * 12, "fill": [0.5] * 12, "curiosity": [0.5] * 12})
         settings = {"schedule": {"slots": [{"time": "08:00", "type": "quiz"}, {"time": "09:00", "type": "fill"}]}}
         recs = "\n".join(report.recommendations(m, TODAY, settings))
         self.assertIn("**Aumente Desafio de quiz**", recs)

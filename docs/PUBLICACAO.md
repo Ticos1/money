@@ -178,13 +178,14 @@ descobrir o que funciona melhor.
 7. Copie o `access_token` da Página (no Depurador deve aparecer **Expires: Never**).
 8. GitHub → Settings → Secrets and variables → Actions → `META_ACCESS_TOKEN` → **Update** → cole → Save.
 
-**B) YouTube: visualizações dos Shorts** (cerca de 3 min)
+**B) YouTube: visualizações, tempo assistido e comentário automático dos Shorts** (cerca de 3 min)
 1. Abra <https://developers.google.com/oauthplayground>.
 2. Engrenagem ⚙ → marque **Use your own OAuth credentials** → cole o mesmo ID do cliente e a chave secreta de antes.
-3. Em *Step 1*, apague o que estiver na caixa e cole os dois escopos (com um espaço entre eles):
-   `https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly`
-   → **Authorize APIs**.
-4. Entre com a conta do **canal**. Se aparecer "app não verificado": *Avançado → Acessar*. Marque as duas permissões.
+3. Em *Step 1*, apague o que estiver na caixa e cole os três escopos (com um espaço entre eles):
+   `https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl https://www.googleapis.com/auth/yt-analytics.readonly`
+   → **Authorize APIs**. (`youtube.force-ssl` lê as visualizações e publica o primeiro comentário de cada Short;
+   `yt-analytics.readonly` traz o tempo médio assistido, que o resumo semanal usa para comparar formatos.)
+4. Entre com a conta do **canal**. Se aparecer "app não verificado": *Avançado → Acessar*. Marque todas as permissões.
 5. *Step 2* → **Exchange authorization code for tokens** → copie o **Refresh token**.
 6. GitHub → Secrets → `YT_REFRESH_TOKEN` → **Update** → cole → Save.
 
@@ -308,31 +309,45 @@ no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos 
 dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
 Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
 
-A agenda padrão tem **9 posts por dia: 1 versículo (imagem) e 8 vídeos**:
-06:30 Versículo · 08:00 Quiz · 10:00 Complete o versículo · 12:00 Quiz ·
-15:00 Verdadeiro ou falso · 17:00 Quiz · 18:30 Complete o versículo · 20:00 Quiz · 21:30 Verdadeiro ou falso
-(até 12 por dia no painel). O "Você sabia?" saiu da agenda em 15/10/2026: em 13 posts teve zero
-interação, enquanto o quiz rendeu 1,8× a média. Ele continua disponível para voltar pelo painel.
+A agenda tem **10 posts por dia** e está **congelada até 31/10/2026** (`schedule.frozen_until`):
+06:30 Versículo · 08:00 Quiz · 10:00 Verdadeiro ou falso · 12:00 Quiz · 13:30 Você sabia? ·
+15:00 Verdadeiro ou falso · 17:00 Quiz · 18:30 Complete o versículo · 20:00 Quiz · 21:30 Verdadeiro ou falso.
+Enquanto congelada, o painel recusa mudar horários, a grade adaptativa não mexe e
+`report --analysis --apply` não grava. Motivo: a grade mudou 3 vezes em 5 dias e, com tão pouco dado
+por formato e por gancho, nenhuma comparação chegava a uma conclusão.
 
-### Cortar o que não rende: `python -m app.report --analysis`
-Compara os formatos nos últimos 28 dias (`--days` muda o período) usando curtidas, comentários,
-salvamentos e compartilhamentos do **Instagram e do Facebook**, onde todos os formatos saem (o
-YouTube só recebe alguns tipos e distorceria a comparação; as views dele aparecem à parte).
-- rende menos da **metade** da média → **cortar**; 30% acima da média → **concentrar**;
-- com menos de 30 interações no período, ou menos de 6 posts do formato, não decide nada
-  (seria acaso);
-- propõe a agenda atual **sem** os horários dos formatos a cortar (menos posts, só os que rendem).
-  O Versículo do dia nunca sai por inteiro. `--apply` grava a proposta em `config/settings.json`.
+### O que vai para cada rede
+- **Facebook**: só os tipos em `publishing.facebook_types` (quiz, Verdadeiro ou falso e Você sabia?).
+  O Você sabia? das 13:30 sai só no Facebook, onde tem o maior tempo médio assistido (≈4 s).
+- **Instagram**: só os horários em `publishing.instagram_times` (12:00, 15:00 e 20:00) e **sem Stories
+  automáticos** (`publishing.stories: false`). Conta nova postando 9 ou 10 vezes por dia, mais Stories,
+  tudo por API, teve alcance de 0 a 1 por post. Se for postar à mão no app (versão **sem música**,
+  baixada no painel, com um áudio em alta do próprio Instagram), desligue o Instagram em Configurações
+  para não sair duplicado.
+- **YouTube**: tipos em `publishing.youtube_types` (quiz, Verdadeiro ou falso, Complete o versículo e o
+  vídeo longo) e horários em `publishing.youtube_times` (08:00, 10:00, 12:00, 15:00, 18:30 e 20:00 =
+  6 por dia, dentro da cota). Cada Short ganha um primeiro comentário do canal pedindo a resposta
+  ("Comente a letra: A, B, C ou D"); **fixe-o no app do YouTube** (⋮ no comentário → Fixar), a API não
+  permite fixar.
 
-Rode a cada 2 ou 4 semanas, principalmente depois de um formato novo juntar alguns posts.
+Qualquer rede aceita `<rede>_types`, `<rede>_times` e `<rede>_max_per_day` em `publishing`.
 
-Todos os vídeos vão para Reels e Stories. Para o **YouTube** vão só os tipos em
-`publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).
-Para o **Facebook** vão só os tipos em `publishing.facebook_types` (hoje: quiz, Verdadeiro ou falso e
-Você sabia? em vídeo). No Facebook quase todas as visualizações vêm de Reels: o Versículo do dia em
-imagem e o Complete o versículo (3 views de média) ficam de fora. Para voltar a mandar tudo, apague a linha.
+### Cortar o que não prende: `python -m app.report --analysis`
+Compara os formatos nos últimos 28 dias (`--days` muda o período) pelo **tempo assistido por post**:
+visualizações × tempo médio assistido, somando Facebook, Instagram e YouTube (sem o tempo médio do
+YouTube, usa o do mesmo vídeo no Facebook). Curtidas e comentários aparecem só como apoio: com tão
+poucas interações, eles mandavam cortar o Você sabia?, que é o vídeo que as pessoas mais assistem.
+- prende menos da **metade** da média → **cortar**; 30% acima da média → **concentrar**;
+- com menos de 3.000 visualizações no período, ou menos de 10 vídeos do formato, não decide nada
+  (seria acaso); post de imagem fica fora da comparação;
+- propõe a agenda atual **sem** os horários dos formatos a cortar. `--apply` grava a proposta em
+  `config/settings.json` (só depois do congelamento).
+
+Rode a cada 2 ou 4 semanas.
 
 ### Formatos de vídeo
+Quiz, Complete o versículo e Verdadeiro ou falso mostram a pergunta já no primeiro quadro, pedem
+"Comente a letra: A, B, C ou D" (ou "V ou F") e duram de 8 a 12 s (`video.loop_max_seconds`), em loop.
 - **Desafio de quiz** — pergunta, 4 alternativas, contagem e resposta.
 - **Complete o versículo** — um versículo conhecido do banco com uma palavra escondida e 4 opções.
 - **Verdadeiro ou falso?** — uma pergunta do banco com uma resposta mostrada (certa ou errada); o vídeo revela.

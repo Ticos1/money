@@ -1,6 +1,8 @@
 // Conexão com o TikTok (Login Kit). O token de renovação é guardado no repositório
 // CRIPTOGRAFADO (AES-GCM), com chave derivada de MEDIA_SIGNING_SECRET — a mesma
 // derivação usada em app/publishers/tiktok.py.
+import { safeEqual } from "./auth.js";
+
 const enc = new TextEncoder();
 export const SCOPES = "user.info.basic,video.upload";
 
@@ -39,5 +41,5 @@ export async function makeState(secret) {
 export async function checkState(state, secret) {
   const [exp, sig] = String(state || "").split(".");
   if (!exp || Number(exp) < Date.now()) return false;
-  return sig === (await hmacHex(secret, `tiktok-state:${exp}`));
+  return safeEqual(sig || "", await hmacHex(secret, `tiktok-state:${exp}`));
 }

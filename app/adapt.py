@@ -77,6 +77,9 @@ def plan(metrics: dict, settings: dict, today: date, history: dict) -> dict:
     cfg = settings_for(settings)
     if not cfg["enabled"]:
         return {"skip": "ajuste automático desligado (adapt.enabled)"}
+    frozen = report.frozen_until(settings, today)
+    if frozen:
+        return {"skip": f"grade congelada até {frozen} (schedule.frozen_until)"}
     last = max((c.get("date", "") for c in history.get("changes", [])), default="")
     if last and last > (today - timedelta(days=int(cfg["cooldown_days"]))).isoformat():
         return {"skip": f"último ajuste em {last}; o próximo só depois de {cfg['cooldown_days']} dias"}

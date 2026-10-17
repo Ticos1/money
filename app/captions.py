@@ -23,6 +23,9 @@ VERSE_HOOKS = [
     "Para guardar no coração",
     "Se esse versículo chegou até você, não é por acaso",
     "Comece o dia com a Palavra",
+    "Pare um minuto e leia isto",
+    "Esse versículo é para quem está cansado hoje",
+    "Se você precisava de uma palavra, ela chegou",
 ]
 VERSE_CTAS = [
     "Compartilhe com alguém que precisa ler isso hoje.",
@@ -35,23 +38,28 @@ QUIZ_HOOKS = [
     "Pergunta bíblica que poucos acertam",
     "Desafio bíblico do dia",
     "Teste rápido: você acerta de primeira?",
+    "Duvido você acertar sem pesquisar!",
+    "Quem sabe de cabeça? Responda antes da contagem!",
 ]
 CURIOSITY_HOOKS = [
     "Você sabia disso?",
     "Curiosidade bíblica que pouca gente conhece",
     "Isso está na Bíblia e muita gente não sabe",
     "Aprenda algo novo sobre a Bíblia hoje",
+    "Poucos sabem disso sobre a Bíblia",
+    "Essa você provavelmente nunca ouviu",
 ]
 CURIOSITY_CTAS = [
     "Você já sabia? Comente SIM ou NÃO.",
     "Salve para lembrar e compartilhe com quem ama a Palavra.",
-    "Marque alguém que vai gostar de saber disso.",
+    "Compartilhe com quem vai gostar de saber disso.",
 ]
-QUIZ_CTAS = [
-    "Comente a letra antes de ver a resposta!",
-    "Responda nos comentários e desafie um amigo.",
-    "Comente sua resposta e marque quem você acha que acerta.",
-]
+# formatos de pergunta: o mesmo pedido de comentário do vídeo ("Comente a letra"), sempre
+LETTER_CTA = "Comente a letra: A, B, C ou D 👇"
+FILL_CTAS = [LETTER_CTA]
+TF_CTAS = ["Comente V ou F antes de ver a resposta 👇"]
+BOOK_CTAS = [LETTER_CTA]
+QUIZ_CTAS = [LETTER_CTA]
 
 
 def _hashtags(kind: str, item: dict, platform: str, rng: random.Random) -> str:
@@ -79,6 +87,12 @@ TF_HOOKS = [
     "Verdade ou mentira? Teste o seu conhecimento bíblico",
     "Verdadeiro ou falso: você acerta essa?",
 ]
+BOOK_HOOKS = [
+    "Em qual livro da Bíblia está este versículo?",
+    "Você sabe de onde é este versículo?",
+    "Desafio: descubra o livro deste versículo!",
+    "Só 1% acerta o livro deste versículo",
+]
 
 
 AI_HOOK = "Legenda da IA"  # a Groq escreve a abertura inteira: entra no teste como um gancho só
@@ -93,9 +107,12 @@ def hook_label(caps: dict, caption_source: str | None) -> str | None:
     text = (caps or {}).get("instagram") or (caps or {}).get("facebook") or ""
     if not isinstance(text, str):
         return None
-    hooks = sorted(VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS, key=len, reverse=True)
-    # a 1ª linha pode ser a palavra-chave de busca ("Versículo para ansiedade: …"); o gancho vem logo depois
-    starts = [text, text.split("\n", 1)[1] if "\n" in text else ""]
+    hooks = sorted(VERSE_HOOKS + QUIZ_HOOKS + CURIOSITY_HOOKS + FILL_HOOKS + TF_HOOKS + BOOK_HOOKS,
+                   key=len, reverse=True)
+    # antes do gancho podem vir a saudação de data especial e a palavra-chave de busca
+    # ("Versículo para ansiedade: …"), cada uma na sua linha
+    lines = [line for line in text.split("\n") if line.strip()]
+    starts = ["\n".join(lines[i:]) for i in range(min(3, len(lines)))]
     return next((h for h in hooks if any(t.startswith(h) for t in starts)), None)
 
 
@@ -106,15 +123,24 @@ def hook_of(post: dict) -> str | None:
 def template_captions(kind: str, item: dict, handle: str, rng: random.Random) -> dict:
     if kind == "fill":
         hook = rng.choice(FILL_HOOKS)
-        cta = "Comente a palavra que falta antes de ver a resposta!"
+        cta = rng.choice(FILL_CTAS)
         letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
         long_text = (f"{hook} 📖\n\n“{item['question']}”\n\n{letters}\n\n{cta}\n"
                      "A resposta está no final do vídeo.")
         return {"hook": hook, "long": long_text, "short": f"{hook} 📖\n{cta}",
                 "youtube_title": f"{hook} ({item['ref_label']})", "cta": cta}
+    if kind == "book":
+        hook = rng.choice(BOOK_HOOKS)
+        cta = rng.choice(BOOK_CTAS)
+        letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
+        long_text = (f"{hook} 📖\n\n{item['question']}\n\n{letters}\n\n{cta}\n"
+                     "A resposta está no final do vídeo.")
+        return {"hook": hook, "long": long_text, "short": f"{hook} 📖\n{cta}",
+                "youtube_title": hook,
+                "cta": cta}
     if kind == "truefalse":
         hook = rng.choice(TF_HOOKS)
-        cta = "Comente V ou F antes de ver a resposta!"
+        cta = rng.choice(TF_CTAS)
         long_text = (f"{hook} 🤔\n\n{item['question']}\nResposta: {item['shown']}\n\n"
                      f"Verdadeiro ou falso? {cta}\nA resposta está no final do vídeo.")
         return {"hook": hook, "long": long_text, "short": f"{hook} 🤔\n{cta}",
@@ -167,8 +193,7 @@ def whatsapp_caption(kind: str, texts: dict) -> str:
     body = texts["long"].replace(" (ou arraste para o lado no carrossel)", "")
     if texts.get("cta"):
         body = body.replace(texts["cta"], "")
-    for line in ("Comente a letra antes de ver a resposta!", "Comente a palavra que falta antes de ver a resposta!",
-                 "Comente V ou F antes de ver a resposta!"):
+    for line in (LETTER_CTA, *TF_CTAS):
         body = body.replace(line, "")
     body = re.sub(r"[ \t]+\n", "\n", re.sub(r"\n{3,}", "\n\n", body)).strip()
     hook = texts.get("hook", "")
@@ -259,7 +284,8 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
         texts["long"] = f"{item['title']}\n\n{item['text']} ({item['ref_label']})\n\n{texts['long']}"
     else:
         letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
-        texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}"
+        texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}\n\n{base['cta']}"
+        texts["short"] = f"{texts['short']}\n{base['cta']}"
     texts["cta"] = base["cta"]
     return texts
 
@@ -278,5 +304,8 @@ def build(kind: str, item: dict, settings: dict, groq: GroqClient, rng: random.R
             source = "groq"
         except (GroqUnavailable, ValueError, TypeError, AttributeError, KeyError) as exc:
             log.append(f"legenda Groq descartada: {exc}")
+    if item.get("date_hook"):  # data especial (Natal, Páscoa...): saudação no começo
+        hook = item["date_hook"]
+        texts = {**texts, "long": f"{hook}\n\n{texts['long']}", "short": f"{hook}\n{texts['short']}"}
     carousel = kind == "verse" and config.verse_carousel(settings)
     return _assemble(kind, item, texts, handle, rng, carousel), source

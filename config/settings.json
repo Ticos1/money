@@ -23,6 +23,10 @@
     "type": "quiz"
    },
    {
+    "time": "13:30",
+    "type": "curiosity"
+   },
+   {
     "time": "15:00",
     "type": "truefalse"
    },
@@ -42,7 +46,8 @@
     "time": "21:30",
     "type": "truefalse"
    }
-  ]
+  ],
+  "frozen_until": "2026-10-31"
  },
  "approval": {
   "auto_approve": true
@@ -74,11 +79,13 @@
   "youtube": true,
   "max_attempts": 3,
   "time_jitter_minutes": 10,
-  "stories": true,
+  "stories": false,
   "youtube_max_per_day": 6,
   "youtube_types": [
    "quiz",
+   "truefalse",
    "fill",
+   "book",
    "compilation"
   ],
   "tiktok": false,
@@ -87,6 +94,19 @@
    "quiz",
    "truefalse",
    "curiosity"
+  ],
+  "instagram_times": [
+   "12:00",
+   "15:00",
+   "20:00"
+  ],
+  "youtube_times": [
+   "08:00",
+   "10:00",
+   "12:00",
+   "15:00",
+   "18:30",
+   "20:00"
   ]
  },
  "compilation": {

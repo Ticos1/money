@@ -6,12 +6,18 @@
 Usa o state/metrics.json (curtidas, comentários, visualizações) dos últimos 7 dias
 e mostra quanto conteúdo inédito ainda resta no banco (app/saturation.py).
 
+Indicador principal: TEMPO ASSISTIDO (visualizações × tempo médio assistido), somando
+Facebook, Instagram e YouTube. É o que os algoritmos de vídeo curto premiam; curtidas e
+comentários aparecem só como apoio. Quando o YouTube não informa o tempo médio, usa o tempo
+médio do mesmo vídeo no Facebook (estimativa).
+
 --analysis compara os formatos no período (padrão: 28 dias), diz quais cortar e
 quais concentrar, e propõe uma agenda mais enxuta. Com --apply, grava essa agenda
-em config/settings.json (só quando há dados suficientes para decidir).
+em config/settings.json (só com dados suficientes e fora do congelamento da grade,
+schedule.frozen_until).
 
 O resumo também traz o teste A/B de ganchos (qual frase de abertura da legenda
-rende mais alcance em cada formato) e uma lista de recomendações ("corte X,
+prende mais tempo em cada formato) e uma lista de recomendações ("corte X,
 aumente Y"), além dos ajustes automáticos da grade (app/adapt.py).
 """
 from __future__ import annotations
@@ -25,15 +31,15 @@ from pathlib import Path
 from . import config
 
 TYPE_NAME = {"verse": "Versículo do dia", "quiz": "Desafio de quiz", "curiosity": "Você sabia?",
-             "fill": "Complete o versículo", "truefalse": "Verdadeiro ou falso",
+             "fill": "Complete o versículo", "truefalse": "Verdadeiro ou falso", "book": "Em qual livro está?",
              "compilation": "Vídeo longo de quiz"}
 MIN_POSTS_PER_HOUR = 2
 # análise de formatos: abaixo disso a diferença entre formatos é ruído
-MIN_POSTS_PER_TYPE = 6
-MIN_TOTAL_ENGAGEMENT = 30
-CUT_BELOW = 0.5     # rende menos da metade da média: cortar
-FOCUS_ABOVE = 1.3   # rende 30% acima da média: concentrar
-MIN_POSTS_PER_HOOK = 3   # teste A/B: abaixo disso o gancho fica "em teste"
+MIN_POSTS_PER_TYPE = 10
+MIN_TOTAL_VIEWS = 3000   # visualizações no período, somando as redes
+CUT_BELOW = 0.5     # prende menos da metade da média: cortar
+FOCUS_ABOVE = 1.3   # prende 30% acima da média: concentrar
+MIN_POSTS_PER_HOOK = 10  # teste A/B: abaixo disso o gancho fica "em teste" (3 ou 4 posts é acaso)
 HOOK_GAP = 0.6           # o pior gancho rende até 60% do melhor: vale trocar
 
 
@@ -46,6 +52,38 @@ def engagement(row: dict) -> int:
     return (_n(ig.get("likes")) + 2 * _n(ig.get("comments")) + 3 * _n(ig.get("saved")) + 3 * _n(ig.get("shares"))
             + _n(fb.get("likes")) + 2 * _n(fb.get("comments")) + 3 * _n(fb.get("shares"))
             + _n(yt.get("likes")) + 2 * _n(yt.get("comments")))
+
+
+NETS = ("facebook", "instagram", "youtube")
+
+
+def views(row: dict) -> int:
+    """Visualizações somando as três redes."""
+    return sum(_n((row.get(n) or {}).get("views")) for n in NETS)
+
+
+def watch_seconds(row: dict) -> float | None:
+    """Tempo assistido (s) somando as redes: o total informado ou visualizações × tempo médio.
+    No YouTube sem tempo médio, usa o tempo médio do mesmo vídeo no Facebook.
+    None quando nenhuma rede informou visualizações (ex.: post de imagem)."""
+    fb_avg = (row.get("facebook") or {}).get("avg_watch_s")
+    total, seen = 0.0, False
+    for net in NETS:
+        d = row.get(net) or {}
+        if not isinstance(d.get("views"), (int, float)):
+            continue
+        seen = True
+        if isinstance(d.get("watch_time_s"), (int, float)) and d["watch_time_s"] > 0:
+            total += d["watch_time_s"]
+        elif isinstance(d.get("avg_watch_s"), (int, float)):
+            total += d["views"] * d["avg_watch_s"]
+        elif isinstance(fb_avg, (int, float)):
+            total += d["views"] * fb_avg
+    return round(total, 1) if seen else None
+
+
+def comments(row: dict) -> int:
+    return sum(_n((row.get(n) or {}).get("comments")) for n in NETS)
 
 
 def social_engagement(row: dict) -> int:
@@ -74,24 +112,27 @@ def _window(metrics: dict, today: date, days: int) -> list[dict]:
             if v.get("date", "") >= limit and v.get("type") not in (None, "compilation") and not v.get("repost_of")]
 
 
+def _avg_watch(rows: list[dict]) -> float | None:
+    vals = [w for w in (watch_seconds(r) for r in rows) if w is not None]
+    return round(sum(vals) / len(vals), 1) if vals else None
+
+
 def hook_analysis(metrics: dict, today: date, days: int = 28) -> dict[str, list[dict]]:
-    """Teste A/B de ganchos: para cada formato, cada frase de abertura com alcance e engajamento
-    médios. A nota ("score") é o alcance médio; sem dado de alcance, o engajamento."""
+    """Teste A/B de ganchos: para cada formato, cada frase de abertura com tempo assistido e
+    engajamento médios. A nota ("score") é o tempo assistido médio; sem ele, o engajamento."""
     groups: dict[tuple[str, str], list[dict]] = {}
     for r in _window(metrics, today, days):
         if r.get("hook"):
             groups.setdefault((r["type"], r["hook"]), []).append(r)
     out: dict[str, list[dict]] = {}
     for (t, hook), rows in groups.items():
-        with_reach = [x for x in rows if reach(x) is not None]
-        reach_avg = round(sum(reach(x) for x in with_reach) / len(with_reach), 1) if with_reach else None
-        eng = _avg(rows, social_engagement)
-        out.setdefault(t, []).append({"hook": hook, "posts": len(rows), "reach": reach_avg, "engagement": eng})
+        out.setdefault(t, []).append({"hook": hook, "posts": len(rows), "watch": _avg_watch(rows),
+                                      "engagement": _avg(rows, social_engagement)})
     for t, hooks in out.items():
-        use_reach = any(h["reach"] for h in hooks)
+        use_watch = any(h["watch"] for h in hooks)
         for h in hooks:
-            h["score"] = (h["reach"] or 0) if use_reach else h["engagement"]
-            h["metric"] = "alcance" if use_reach else "engajamento"
+            h["score"] = (h["watch"] or 0) if use_watch else h["engagement"]
+            h["metric"] = "tempo assistido" if use_watch else "engajamento"
         hooks.sort(key=lambda h: (h["posts"] >= MIN_POSTS_PER_HOOK, h["score"]), reverse=True)
     return out
 
@@ -102,35 +143,53 @@ def hooks_text(result: dict[str, list[dict]], days: int = 28) -> list[str]:
                 "Ainda sem posts com gancho registrado e métricas. O teste começa a aparecer em alguns dias."]
     lines = ["", f"### Ganchos (teste A/B, últimos {days} dias)", "",
              f"Cada post abre a legenda com um gancho sorteado. Com {MIN_POSTS_PER_HOOK}+ posts, o gancho entra "
-             "na comparação; com menos, fica \"em teste\".", ""]
+             "na comparação; com menos, fica \"em teste\" (a diferença ainda é acaso).", ""]
     for t, hooks in sorted(result.items(), key=lambda kv: TYPE_NAME.get(kv[0], kv[0])):
-        lines += [f"**{TYPE_NAME.get(t, t)}**", "", "| Gancho | Posts | Alcance médio | Engajamento médio |",
+        lines += [f"**{TYPE_NAME.get(t, t)}**", "", "| Gancho | Posts | Tempo assistido por post | Engajamento médio |",
                   "|---|---|---|---|"]
         for h in hooks:
             mark = "" if h["posts"] >= MIN_POSTS_PER_HOOK else " _(em teste)_"
-            lines.append(f"| {h['hook']}{mark} | {h['posts']} | {'—' if h['reach'] is None else h['reach']} "
-                         f"| {h['engagement']} |")
+            lines.append(f"| {h['hook']}{mark} | {h['posts']} | {_fmt_time(h['watch'])} | {h['engagement']} |")
         lines.append("")
     return lines
 
 
+def _fmt_time(seconds: float | None) -> str:
+    if seconds is None:
+        return "—"
+    if seconds >= 3600:
+        return f"{seconds / 3600:.1f} h"
+    return f"{seconds / 60:.1f} min" if seconds >= 120 else f"{seconds:.0f} s"
+
+
+def frozen_until(settings: dict, today: date) -> str | None:
+    """Data até quando a grade está congelada (schedule.frozen_until), se ainda vale."""
+    until = (settings.get("schedule") or {}).get("frozen_until")
+    return until if isinstance(until, str) and until >= today.isoformat() else None
+
+
 def recommendations(metrics: dict, today: date, settings: dict, days: int = 28) -> list[str]:
-    """O que mudar, em frases diretas: formatos, ganchos e horários."""
+    """O que mudar, em frases diretas: formatos, ganchos e horários (pelo tempo assistido)."""
     recs: list[str] = []
+    frozen = frozen_until(settings, today)
+    if frozen:
+        recs.append(f"**Grade congelada até {date.fromisoformat(frozen).strftime('%d/%m')}**: as sugestões abaixo "
+                    "são para anotar. Não mude horários nem formatos antes disso, senão nenhum teste conclui.")
     result = analyze(metrics, today, days)
     if not result["enough"]:
-        recs.append(f"Formatos: ainda poucos dados para cortar ou aumentar ({result['total']} interações em "
-                    f"{days} dias; mínimo {MIN_TOTAL_ENGAGEMENT}). Mantenha a grade.")
+        recs.append(f"Formatos: ainda poucos dados para cortar ou aumentar ({result['views']} visualizações em "
+                    f"{days} dias; mínimo {MIN_TOTAL_VIEWS}, e {MIN_POSTS_PER_TYPE} posts por formato). "
+                    "Mantenha a grade.")
     in_grid = {s["type"] for s in settings.get("schedule", {}).get("slots", [])}
     for f in result["formats"]:
         name = TYPE_NAME.get(f["type"], f["type"])
         if in_grid and f["type"] not in in_grid:
             continue  # já saiu da grade
         if f["verdict"] == "cortar":
-            recs.append(f"**Corte {name}**: rende {f['index']}× a média ({f['posts']} posts). "
-                        "Troque esses horários por um formato que rende mais.")
+            recs.append(f"**Corte {name}**: prende {f['index']}× a média de tempo assistido ({f['posts']} posts). "
+                        "Troque esses horários por um formato que prende mais.")
         elif f["verdict"] == "concentrar":
-            recs.append(f"**Aumente {name}**: rende {f['index']}× a média ({f['posts']} posts).")
+            recs.append(f"**Aumente {name}**: prende {f['index']}× a média de tempo assistido ({f['posts']} posts).")
     for t, hooks in hook_analysis(metrics, today, days).items():
         tested = [h for h in hooks if h["posts"] >= MIN_POSTS_PER_HOOK]
         if len(tested) < 2:
@@ -142,13 +201,14 @@ def recommendations(metrics: dict, today: date, settings: dict, days: int = 28) 
                         "aposente o segundo (em app/captions.py).")
     by_hour: dict[str, list[dict]] = {}
     for r in _window(metrics, today, days):
-        if r.get("time"):
+        if r.get("time") and watch_seconds(r) is not None:
             by_hour.setdefault(r["time"], []).append(r)
-    hours = sorted(((h, _avg(v, social_engagement)) for h, v in by_hour.items() if len(v) >= MIN_POSTS_PER_TYPE),
+    hours = sorted(((h, _avg_watch(v)) for h, v in by_hour.items() if len(v) >= MIN_POSTS_PER_TYPE),
                    key=lambda x: x[1], reverse=True)
     if len(hours) >= 2 and hours[0][1] > 0 and hours[-1][1] <= hours[0][1] * CUT_BELOW:
-        recs.append(f"Horário: o post das **{hours[-1][0]}** rende {hours[-1][1]} de engajamento médio, contra "
-                    f"{hours[0][1]} das **{hours[0][0]}**. Mude o das {hours[-1][0]} para perto das {hours[0][0]}.")
+        recs.append(f"Horário: o post das **{hours[-1][0]}** soma {_fmt_time(hours[-1][1])} assistidos, contra "
+                    f"{_fmt_time(hours[0][1])} das **{hours[0][0]}**. Mude o das {hours[-1][0]} para perto das "
+                    f"{hours[0][0]}.")
     if not any(r.startswith(("**Corte", "**Aumente", "Gancho", "Horário")) for r in recs):
         recs.append("Nada para mudar nesta semana além do que já está acima: siga com a grade atual.")
     return recs
@@ -206,18 +266,19 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
     rows = [{"id": k, **v} for k, v in (metrics.get("posts") or {}).items() if v.get("date", "") >= limit]
     if not rows:
         return None
-    yt_views = sum(_n((r.get("youtube") or {}).get("views")) for r in rows)
-    reach = sum(_n((r.get("instagram") or {}).get("reach")) for r in rows)
-    likes = sum(_n((r.get("instagram") or {}).get("likes")) + _n((r.get("facebook") or {}).get("likes"))
-                + _n((r.get("youtube") or {}).get("likes")) for r in rows)
+    net_views = {n: sum(_n((r.get(n) or {}).get("views")) for r in rows) for n in NETS}
+    watched = sum(w for w in (watch_seconds(r) for r in rows) if w)
+    reach_ig = sum(_n((r.get("instagram") or {}).get("reach")) for r in rows)
     lines = []
     if mention:
         lines.append(f"@{mention}, o resumo da semana está pronto.\n")
     lines += [f"## Semana até {today.strftime('%d/%m/%Y')}", "",
               f"- **{len(rows)} posts** com números coletados",
-              f"- **{yt_views}** visualizações no YouTube",
-              f"- **{reach}** pessoas alcançadas no Instagram" if reach else "- Alcance do Instagram: indisponível",
-              f"- **{likes}** curtidas somando as três redes", ""]
+              f"- **{_fmt_time(watched)}** de tempo assistido somando as redes (o indicador principal)",
+              f"- Visualizações: **{net_views['facebook']}** no Facebook, **{net_views['instagram']}** no Instagram "
+              f"e **{net_views['youtube']}** no YouTube",
+              f"- **{reach_ig}** pessoas alcançadas no Instagram" if reach_ig else "- Alcance do Instagram: indisponível",
+              f"- **{sum(comments(r) for r in rows)}** comentários somando as três redes", ""]
 
     try:
         settings = config.load_settings()
@@ -230,36 +291,41 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
     by_type: dict[str, list[dict]] = {}
     for r in rows:
         by_type.setdefault(r.get("type") or "?", []).append(r)
-    lines += ["### Por tipo de post", "", "| Tipo | Posts | Engajamento médio |", "|---|---|---|"]
-    for t, items in sorted(by_type.items(), key=lambda kv: _avg(kv[1]), reverse=True):
-        lines.append(f"| {TYPE_NAME.get(t, t)} | {len(items)} | {_avg(items)} |")
+    lines += ["### Por tipo de post", "",
+              "| Tipo | Posts | Tempo assistido por post | Views por post | Comentários por post |", "|---|---|---|---|---|"]
+    for t, items in sorted(by_type.items(), key=lambda kv: _avg_watch(kv[1]) or -1, reverse=True):
+        vids = [r for r in items if watch_seconds(r) is not None]
+        per_view = round(sum(views(r) for r in vids) / len(vids), 1) if vids else "—"
+        lines.append(f"| {TYPE_NAME.get(t, t)} | {len(items)} | {_fmt_time(_avg_watch(items))} | {per_view} "
+                     f"| {round(sum(comments(r) for r in items) / len(items), 2)} |")
 
     by_hour: dict[str, list[dict]] = {}
     for r in rows:
-        if r.get("time"):
+        if r.get("time") and watch_seconds(r) is not None:
             by_hour.setdefault(r["time"], []).append(r)
-    hours = [(h, _avg(v), len(v)) for h, v in by_hour.items() if len(v) >= MIN_POSTS_PER_HOUR]
+    hours = [(h, _avg_watch(v), len(v)) for h, v in by_hour.items() if len(v) >= MIN_POSTS_PER_HOUR]
     if hours:
         hours.sort(key=lambda x: x[1], reverse=True)
         best, worst = hours[0], hours[-1]
         lines += ["", "### Horários", "",
-                  f"- Melhor: **{best[0]}** (engajamento médio {best[1]}, {best[2]} posts)"]
+                  f"- Melhor: **{best[0]}** ({_fmt_time(best[1])} assistidos por post, {best[2]} posts)"]
         if worst[0] != best[0]:
-            lines.append(f"- Mais fraco: **{worst[0]}** (engajamento médio {worst[1]}, {worst[2]} posts)")
+            lines.append(f"- Mais fraco: **{worst[0]}** ({_fmt_time(worst[1])} assistidos por post, {worst[2]} posts)")
 
-    top = sorted(rows, key=engagement, reverse=True)[:3]
-    lines += ["", "### Os 3 melhores posts", ""]
+    top = sorted(rows, key=lambda r: watch_seconds(r) or 0, reverse=True)[:3]
+    lines += ["", "### Os 3 vídeos mais assistidos", ""]
     for i, r in enumerate(top, start=1):
         links = " · ".join(f"[{k}]({u})" for k, u in (r.get("links") or {}).items())
-        lines.append(f"{i}. **{r.get('title', r['id'])}** — engajamento {engagement(r)} "
-                     f"({TYPE_NAME.get(r.get('type'), r.get('type'))}, {r.get('date')} {r.get('time')}) {links}")
+        lines.append(f"{i}. **{r.get('title', r['id'])}** — {_fmt_time(watch_seconds(r))} assistidos, "
+                     f"{views(r)} views ({TYPE_NAME.get(r.get('type'), r.get('type'))}, {r.get('date')} "
+                     f"{r.get('time')}) {links}")
 
     lines += retention_lines(rows)
 
     long_videos = [r for r in rows if r.get("type") == "compilation"]
     for r in long_videos:
-        views = _n((r.get("youtube") or {}).get("views"))
-        lines += ["", f"### Vídeo longo\n\n**{r.get('title')}**: {views} visualizações até agora."]
+        yt = _n((r.get("youtube") or {}).get("views"))
+        lines += ["", f"### Vídeo longo\n\n**{r.get('title')}**: {yt} visualizações até agora."]
     lines += hooks_text(hook_analysis(metrics, today))
     if settings:
         lines += _adapt_lines(metrics, today, settings)
@@ -271,21 +337,27 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
 
 
 def analyze(metrics: dict, today: date, days: int) -> dict:
-    """Engajamento por formato no período e o veredito de cada um (cortar/manter/concentrar)."""
-    limit = (today - timedelta(days=days)).isoformat()
+    """Tempo assistido por formato no período e o veredito de cada um (cortar/manter/concentrar).
+    Formatos sem vídeo (imagem) ficam fora da comparação: não têm tempo assistido."""
     rows = _window(metrics, today, days)
-    overall = _avg(rows, social_engagement)
-    total = sum(social_engagement(r) for r in rows)
-    enough = total >= MIN_TOTAL_ENGAGEMENT and overall > 0
+    videos = [r for r in rows if watch_seconds(r) is not None]
+    overall = _avg_watch(videos) or 0.0
+    total_views = sum(views(r) for r in videos)
+    enough = total_views >= MIN_TOTAL_VIEWS and overall > 0
     formats = []
     by_type: dict[str, list[dict]] = {}
     for r in rows:
         by_type.setdefault(r["type"], []).append(r)
     for t, items in by_type.items():
-        avg = _avg(items, social_engagement)
-        index = round(avg / overall, 2) if overall else 0.0
-        yt = [r for r in items if r.get("youtube")]
-        if not enough or len(items) < MIN_POSTS_PER_TYPE:
+        vids = [r for r in items if watch_seconds(r) is not None]
+        watch = _avg_watch(vids)
+        index = round(watch / overall, 2) if watch is not None and overall else 0.0
+        fb_avg = [r["facebook"]["avg_watch_s"] for r in vids
+                  if isinstance((r.get("facebook") or {}).get("avg_watch_s"), (int, float))
+                  and _n(r["facebook"].get("views")) > 0]
+        if watch is None:
+            verdict = "sem vídeo"
+        elif not enough or len(vids) < MIN_POSTS_PER_TYPE:
             verdict = "insuficiente"
         elif index < CUT_BELOW:
             verdict = "cortar"
@@ -293,11 +365,16 @@ def analyze(metrics: dict, today: date, days: int) -> dict:
             verdict = "concentrar"
         else:
             verdict = "manter"
-        formats.append({"type": t, "posts": len(items), "avg": avg, "index": index, "verdict": verdict,
-                        "yt_views": round(sum(_n(r["youtube"].get("views")) for r in yt) / len(yt), 1)
-                        if yt else None})
-    formats.sort(key=lambda f: f["avg"], reverse=True)
-    return {"days": days, "posts": len(rows), "total": total, "overall": overall,
+        net_views = {n: round(sum(_n((r.get(n) or {}).get("views")) for r in vids) / len(vids), 1)
+                     for n in NETS if any(isinstance((r.get(n) or {}).get("views"), (int, float)) for r in vids)}
+        formats.append({"type": t, "posts": len(items), "watch": watch, "index": index, "verdict": verdict,
+                        "views": round(sum(views(r) for r in vids) / len(vids), 1) if vids else 0.0,
+                        "net_views": net_views,
+                        "fb_avg_watch": round(sum(fb_avg) / len(fb_avg), 1) if fb_avg else None,
+                        "comments": round(sum(comments(r) for r in items) / len(items), 2),
+                        "engagement": _avg(items, social_engagement)})
+    formats.sort(key=lambda f: (f["watch"] is not None, f["watch"] or 0), reverse=True)
+    return {"days": days, "posts": len(rows), "views": total_views, "overall": overall,
             "enough": enough, "formats": formats}
 
 
@@ -313,36 +390,38 @@ def proposed_slots(slots: list[dict], result: dict) -> list[dict]:
 
 def analysis_text(result: dict, slots: list[dict]) -> str:
     lines = [f"## Análise de formatos (últimos {result['days']} dias)", "",
-             f"{result['posts']} posts com métricas, engajamento médio {result['overall']} por post "
-             "(Instagram + Facebook: curtida 1, comentário 2, salvamento e compartilhamento 3).", "",
-             "| Formato | Posts | Engajamento médio | Vs. média | Views médias no YouTube | Veredito |",
-             "|---|---|---|---|---|---|"]
+             f"{result['posts']} posts com métricas, {result['views']} visualizações. Indicador: **tempo assistido "
+             f"por post** (visualizações × tempo médio, somando Facebook, Instagram e YouTube); média "
+             f"{_fmt_time(result['overall'])}.", "",
+             "| Formato | Posts | Tempo assistido por post | Vs. média | Views por post (FB / IG / YT) "
+             "| Tempo médio no FB | Comentários por post | Veredito |",
+             "|---|---|---|---|---|---|---|---|"]
     label = {"cortar": "✂️ cortar", "concentrar": "⭐ concentrar", "manter": "manter",
-             "insuficiente": "poucos dados"}
+             "insuficiente": "poucos dados", "sem vídeo": "imagem (fora da comparação)"}
     for f in result["formats"]:
-        yt = "—" if f["yt_views"] is None else f["yt_views"]
-        lines.append(f"| {TYPE_NAME.get(f['type'], f['type'])} | {f['posts']} | {f['avg']} "
-                     f"| {f['index']}× | {yt} | {label[f['verdict']]} |")
+        nv = " / ".join(str(f["net_views"].get(n, "—")) for n in NETS)
+        fb = "—" if f["fb_avg_watch"] is None else f"{f['fb_avg_watch']} s"
+        lines.append(f"| {TYPE_NAME.get(f['type'], f['type'])} | {f['posts']} | {_fmt_time(f['watch'])} "
+                     f"| {f['index']}× | {nv} | {fb} | {f['comments']} | {label[f['verdict']]} |")
     measured = {f["type"] for f in result["formats"]}
     for t in dict.fromkeys(s["type"] for s in slots):
         if t not in measured:
-            lines.append(f"| {TYPE_NAME.get(t, t)} | 0 | — | — | — | sem métricas ainda (fica) |")
+            lines.append(f"| {TYPE_NAME.get(t, t)} | 0 | — | — | — | — | — | sem métricas ainda (fica) |")
     if not result["enough"]:
-        lines += ["", f"**Ainda não dá para decidir:** são {result['total']} interações no período "
-                  f"(mínimo {MIN_TOTAL_ENGAGEMENT}). Com tão pouco, a diferença entre formatos é acaso. "
-                  "Mantenha a agenda e rode de novo daqui a 1 ou 2 semanas."]
+        lines += ["", f"**Ainda não dá para decidir:** são {result['views']} visualizações no período "
+                  f"(mínimo {MIN_TOTAL_VIEWS}). Mantenha a agenda e rode de novo daqui a 1 ou 2 semanas."]
         return "\n".join(lines)
     new = proposed_slots(slots, result)
     if len(new) == len(slots):
-        lines += ["", "Nenhum formato rende muito abaixo da média: a agenda atual pode ficar."]
+        lines += ["", "Nenhum formato prende muito abaixo da média: a agenda atual pode ficar."]
     else:
         lines += ["", f"**Proposta:** de {len(slots)} para {len(new)} posts por dia, sem os formatos marcados "
-                  "para cortar. Menos posts, todos dos formatos que rendem, costuma ajudar o alcance.", "",
+                  "para cortar. Menos posts, todos dos formatos que prendem, costuma ajudar o alcance.", "",
                   "```json", json.dumps(new, ensure_ascii=False), "```", "",
-                  "Para aplicar: `python -m app.report --analysis --apply` (ou ajuste os horários no painel)."]
+                  "Para aplicar (depois do congelamento da grade): `python -m app.report --analysis --apply`."]
     focus = [TYPE_NAME.get(f["type"], f["type"]) for f in result["formats"] if f["verdict"] == "concentrar"]
     if focus:
-        lines += ["", f"Formatos que mais rendem: **{', '.join(focus)}**. Se for trocar algum horário, "
+        lines += ["", f"Formatos que mais prendem: **{', '.join(focus)}**. Se for trocar algum horário, "
                   "troque por eles."]
     return "\n".join(lines)
 
@@ -368,8 +447,11 @@ def main(argv: list[str] | None = None) -> int:
         print("\n### Recomendações\n")
         print("\n".join(f"- {r}" for r in recommendations(metrics, today, settings, args.days)))
         new = proposed_slots(slots, result)
-        if args.apply and result["enough"] and len(new) < len(slots):
-            settings["schedule"]["slots"] = new
+        frozen = frozen_until(settings, today)
+        if args.apply and frozen:
+            print(f"\nNada gravado: a grade está congelada até {frozen} (schedule.frozen_until).")
+        elif args.apply and result["enough"] and len(new) < len(slots):
+            settings["schedule"] = {**settings["schedule"], "slots": new}
             config.CONFIG_PATH.write_text(json.dumps(settings, ensure_ascii=False, indent=1) + "\n",
                                           encoding="utf-8")
             print(f"\nAgenda gravada em {config.CONFIG_PATH.relative_to(config.ROOT)}: {len(new)} posts por dia.")
