@@ -102,7 +102,7 @@ def build(args) -> dict:
     archived = {p["id"] for p in state.load_history()}
     taken = set(queue) | archived
     if args.clear:
-        # "Gerar agora" com limpeza: a fila atual vai para o histórico e o dia é refeito do zero
+        # "Refazer o dia do zero" (Configurações do painel): a fila atual vai para o histórico e o dia é refeito do zero
         patch["clear_queue"] = True
         queue = {}
     tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))

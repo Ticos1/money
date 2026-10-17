@@ -22,6 +22,10 @@ export async function onRequestPost({ request, env, params }) {
   }
   try {
     const gh = new GitHub(env);
+    if (body.action === "publish_now") {
+      const { data: settings } = await gh.getJson("config/settings.json", {});
+      if (settings.publishing?.paused) throw new Error("As publicações estão pausadas. Retome no topo do painel antes de publicar.");
+    }
     let rerender = false;
     const post = await gh.update(
       "state/queue.json",

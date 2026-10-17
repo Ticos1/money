@@ -127,6 +127,9 @@ uma vez só: criar as contas grátis, colar as chaves e rodar a primeira geraç�
 
 ## Uso diário (5 minutos)
 
+0. O painel abre na aba **Hoje**: problemas encontrados pela verificação (`app/health.py`), os posts do dia em linha do tempo (✅ publicado, ⏳ aguardando, ❌ erro, ⏭ pulado; toque para abrir o card), envios ao YouTube, chamadas da Groq e dias de banco por formato. A aba **Agenda** mostra os próximos 7 dias (datas especiais, vídeo longo, repost). Enquanto o GitHub Actions roda, o painel se atualiza sozinho.
+   - **⏸ Pausar publicações** (no topo): para dias de luto, tragédia ou viagem. Nada é publicado até retomar; ao retomar, os posts que perderam o horário são pulados (ou publicados, se você escolher).
+   - Gerar fora do horário: **Configurações → Gerar só o que falta** (não apaga nada) ou **Refazer o dia do zero** (apaga a fila; pede para digitar REFAZER).
 1. Abra o painel no celular → aba **Fila**.
 2. Veja o vídeo, toque em **Aprovar** (ou **Editar**).
 3. **Baixe**:

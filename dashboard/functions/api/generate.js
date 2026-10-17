@@ -1,6 +1,7 @@
 import { GitHub, json } from "../../lib/github.js";
 
-// Botão "Gerar agora": dispara o GitHub Actions fora do horário agendado.
+// Configurações → "Gerar só o que falta" (clear: false, padrão) ou "Refazer o dia do zero"
+// (clear: true, apaga a fila): dispara o GitHub Actions fora do horário agendado.
 export async function onRequestPost({ request, env }) {
   try {
     const body = await request.json().catch(() => ({}));
@@ -11,7 +12,7 @@ export async function onRequestPost({ request, env }) {
     await new GitHub(env).dispatch({
       mode: "generate",
       force: body.force ? "true" : "false",
-      clear: body.clear === false ? "false" : "true",
+      clear: body.clear === true ? "true" : "false",
     });
     return json({ ok: true });
   } catch (err) {

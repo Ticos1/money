@@ -3,7 +3,7 @@
 # Não tem "schedule": quem dispara a geração diária é o agendador (scheduler/worker.js, Cloudflare),
 # às 05:20 de Brasília. O cron do GitHub chegava horas atrasado e refazia posts já publicados.
 # Também pode ser disparado:
-#  - pelo painel (botão "Gerar agora" e edição de post → re-render)
+#  - pelo painel (Configurações → "Gerar só o que falta" / "Refazer o dia do zero", e edição de post → re-render)
 #  - manualmente em Actions → "Pipeline de conteúdo" → Run workflow
 #  - automaticamente quando o código do painel muda (deploy)
 name: Pipeline de conteúdo
@@ -29,7 +29,7 @@ on:
         options: ["false", "true"]
         default: "false"
       clear:
-        description: "Limpar a fila e refazer o dia do zero? (botão Gerar agora)"
+        description: "Limpar a fila e refazer o dia do zero? (Configurações → Refazer o dia do zero)"
         type: choice
         options: ["false", "true"]
         default: "false"

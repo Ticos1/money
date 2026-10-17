@@ -34,6 +34,7 @@ main { max-width: 760px; margin: 0 auto; padding: 16px; }
 .card-h { padding: 12px 14px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; border-bottom: 1px solid var(--line); }
 .card-h .when { font-weight: 700; flex: 1; min-width: 150px; }
 .chip { background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; font-weight: 600; }
+.chip.special { color: var(--accent); }
 .chip.pending { color: var(--warn); } .chip.approved { color: var(--ok); } .chip.rejected { color: var(--bad); }
 .sec { padding: 12px 14px; border-bottom: 1px solid var(--line); }
 .sec:last-child { border-bottom: 0; }
@@ -98,3 +99,52 @@ img.preview { width: 100%; aspect-ratio: 9/16; object-fit: cover; border-radius:
 .ch-hval { font-size: 13px; font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
 .ch-tip { position: absolute; z-index: 3; transform: translate(-50%, -100%); background: var(--card); color: var(--text); border: 1px solid var(--line); box-shadow: 0 4px 16px rgba(0,0,0,.18); border-radius: 10px; padding: 6px 10px; font-size: 13px; pointer-events: none; opacity: 0; transition: opacity .12s; white-space: nowrap; }
 .ch-tip.on { opacity: 1; }
+
+/* faixas do topo: pausado e GitHub Actions rodando */
+#banners:empty { display: none; }
+.banner { max-width: 760px; margin: 0 auto; padding: 8px 16px; display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 14px; }
+.banner.bad { background: var(--bad); color: #fff; max-width: none; justify-content: center; }
+.banner.bad .btn { background: #fff; color: var(--bad); border-color: #fff; }
+.banner.run { border-top: 1px solid var(--line); }
+.spin { width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--line); border-top-color: var(--brand); animation: spin 1s linear infinite; flex: none; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spin { animation: none; } }
+.bar .btn.bad { white-space: nowrap; }
+@media (max-width: 420px) { .bar h1 span { display: none; } }
+
+/* aba Hoje */
+.small { font-size: 12px; }
+.ok-line { margin: 0 0 6px; color: var(--ok); font-weight: 600; }
+.ok-t { color: var(--ok); } .bad-t { color: var(--bad); } .warn-t { color: var(--warn); }
+.tl { display: grid; gap: 4px; }
+.tl-row { width: 100%; display: grid; grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; align-items: center; text-align: left;
+  background: none; border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; cursor: pointer; }
+.tl-row:hover, .tl-row[aria-expanded="true"] { border-color: var(--brand); }
+.tl-row.past .tl-time { color: var(--muted); }
+.tl-time { font-weight: 700; font-variant-numeric: tabular-nums; }
+.tl-what { display: grid; min-width: 0; }
+.tl-what small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tl-nets { display: flex; flex-wrap: wrap; gap: 4px; justify-content: flex-end; }
+.net { background: var(--chip); border-radius: 6px; padding: 2px 6px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+.net.bad { color: var(--bad); } .net.ok { color: var(--ok); }
+.tl-card:not(:empty) { margin: 8px 0 12px; }
+.tl-card .card { margin-bottom: 0; }
+@media (max-width: 560px) { .tl-row { grid-template-columns: 42px minmax(0, 1fr); } .tl-nets { grid-column: 2; justify-content: flex-start; } }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.stat-n { font-size: 22px; font-variant-numeric: tabular-nums; }
+.track { height: 8px; background: var(--chip); border-radius: 999px; overflow: hidden; margin: 4px 0; }
+.track .fill { height: 100%; border-radius: 999px; }
+.fill.ok { background: var(--ok); } .fill.warn { background: var(--warn); } .fill.bad { background: var(--bad); }
+.bank { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+.bank-i { border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; display: grid; gap: 2px; font-size: 14px; }
+.bank-i b { font-size: 18px; font-variant-numeric: tabular-nums; }
+.bank-i.warn { border-color: var(--warn); }
+
+/* agenda */
+.agenda { display: grid; gap: 2px; }
+.ag-row { display: grid; grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 5px 0; border-bottom: 1px dashed var(--line); font-size: 14px; }
+.ag-row:last-child { border-bottom: 0; }
+
+/* filtros do histórico */
+.filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin-bottom: 10px; align-items: end; }
+.filters label { display: grid; gap: 4px; font-size: 13px; font-weight: 600; }

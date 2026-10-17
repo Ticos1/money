@@ -50,6 +50,40 @@ export class GitHub {
     return { data: JSON.parse(fromBase64(content)), sha: meta.sha };
   }
 
+  // Vários arquivos numa chamada só (GraphQL). files = { nome: [caminho, padrão] }.
+  // Se o GraphQL falhar (ou o arquivo for grande demais para ele), lê aquele arquivo pela API REST.
+  async getMany(files) {
+    const names = Object.keys(files);
+    const result = {};
+    let repo = null;
+    try {
+      const [owner, name] = this.repo.split("/");
+      const vars = { owner, name };
+      const fields = names.map((n, i) => {
+        vars[`e${i}`] = `${this.branch}:${files[n][0]}`;
+        return `f${i}: object(expression: $e${i}) { ... on Blob { oid text isTruncated } }`;
+      });
+      const decl = names.map((_, i) => `$e${i}: String!`).join(", ");
+      const res = await this.call("/graphql", { method: "POST", body: JSON.stringify({
+        query: `query($owner: String!, $name: String!, ${decl}) { repository(owner: $owner, name: $name) { ${fields.join(" ")} } }`,
+        variables: vars,
+      }) });
+      const out = res.ok ? await res.json() : {};
+      // qualquer erro (ex.: token sem acesso ao GraphQL): melhor ler pela REST do que achar que o arquivo sumiu
+      repo = out.errors?.length ? null : out.data?.repository || null;
+    } catch {
+      repo = null;
+    }
+    await Promise.all(names.map(async (n, i) => {
+      const [path, fallback] = files[n];
+      const blob = repo ? repo[`f${i}`] : undefined;
+      if (repo && blob === null) result[n] = { data: fallback, sha: null }; // arquivo não existe
+      else if (blob?.text != null && !blob.isTruncated) result[n] = { data: JSON.parse(blob.text), sha: blob.oid };
+      else result[n] = await this.getJson(path, fallback);
+    }));
+    return result;
+  }
+
   async putJson(path, data, sha, message) {
     const body = {
       message,

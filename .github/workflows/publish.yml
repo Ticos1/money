@@ -138,7 +138,7 @@ jobs:
           title="⚠️ Alerta: a automação precisa de atenção"
           open=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
           set +e
-          python -m app.health --out "$RUNNER_TEMP/alerta.md" --mention "$OWNER"
+          python -m app.health --out "$RUNNER_TEMP/alerta.md" --mention "$OWNER" --snapshot "$RUNNER_TEMP/health.json"
           rc=$?
           set -e
           if [ "$rc" = "0" ]; then
@@ -153,3 +153,23 @@ jobs:
           else
             echo "::warning::a verificação de saúde falhou (código $rc)"
           fi
+
+      # Resumo da aba "Hoje" do painel (state/health.json): problemas, contadores e o calendário.
+      - name: Salvar resumo de saúde no painel
+        if: always()
+        continue-on-error: true
+        run: |
+          if [ ! -s "$RUNNER_TEMP/health.json" ]; then echo "Sem resumo para salvar."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin "$GITHUB_REF_NAME"
+            git reset -q --hard "origin/$GITHUB_REF_NAME"
+            python -m app.health --install "$RUNNER_TEMP/health.json"
+            git add state/health.json
+            if git diff --cached --quiet; then echo "Nada para salvar."; exit 0; fi
+            git commit -q -m "saúde $(date -u +'%F %H:%M')"
+            if git push -q origin "HEAD:$GITHUB_REF_NAME"; then echo "Salvo."; exit 0; fi
+            sleep $((attempt * 3))
+          done
+          echo "::warning::resumo de saúde não salvo depois de 5 tentativas"

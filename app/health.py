@@ -9,6 +9,14 @@ Roda junto da publicação (de hora em hora). Confere:
 - tokens: o da Meta (vencido, inválido ou vencendo em até alerts.token_warn_days, padrão 7 dias),
   o do YouTube (renovação recusada) e a conexão do TikTok (vencendo).
 
+Com publishing.paused (botão "Pausar publicações" do painel) não alerta publicação parada nem
+posts atrasados: a pausa é de propósito.
+
+--snapshot grava um resumo para a aba "Hoje" do painel (problemas, posts do dia que já saíram da
+fila, envios ao YouTube, chamadas da Groq, dias de banco por formato e datas especiais dos
+próximos dias). --install copia esse resumo para state/health.json, mas só quando algo mudou ou
+o arquivo tem mais de 1 hora (evita um commit a cada rodada só pelo horário).
+
 Saída: 0 = tudo certo · 3 = há problema (o texto do alerta fica em --out).
 A primeira linha do texto traz uma "assinatura" dos problemas: o workflow só comenta de novo
 na issue aberta quando ela muda, e fecha a issue quando tudo volta ao normal.
@@ -17,6 +25,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import json
 import os
 import sys
 import time
@@ -26,8 +35,8 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-from . import config, state
-from .publish import scheduled_at
+from . import config, datas, state
+from .publish import scheduled_at, uploads_today
 
 PROBLEM = 3
 DEFAULTS = {"stalled_hours": 12, "late_hours": 2, "generate_by": "08:00", "token_warn_days": 7}
@@ -53,10 +62,10 @@ def check_posts(queue: list[dict], history: list[dict], settings: dict, now: dat
     today = now.date().isoformat()
     if now.strftime("%H:%M") >= cfg["generate_by"] and not any(p.get("date") == today for p in queue + history):
         out.append(("geracao", f"Os posts de hoje ({now.strftime('%d/%m')}) não foram gerados. Veja em Actions → "
-                               "\"Pipeline de conteúdo\" se a execução das 05:20 falhou, ou toque em Gerar agora "
+                               "\"Pipeline de conteúdo\" se a execução das 05:20 falhou, ou use Configurações → Gerar só o que falta "
                                "no painel."))
     enabled = [n for n in NETS if pub.get(n)]
-    if not enabled:
+    if not enabled or pub.get("paused"):
         return out
     stamps = [w for p in queue + history for v in (p.get("published") or {}).values() if v and (w := _when(v))]
     if stamps:
@@ -178,14 +187,101 @@ def text(found: list[tuple[str, str]], now: datetime, mention: str = "") -> str:
     return "\n".join(lines)
 
 
+SNAPSHOT_MAX_AGE = 3600  # s: regrava o state/health.json pelo menos de hora em hora
+SPECIAL_DAYS = 8         # datas especiais de hoje até 7 dias à frente (calendário do painel)
+SLIM_KEYS = ("id", "date", "slot", "time", "publish_at", "type", "status", "published", "publish_skipped",
+             "publish_errors", "publish_links", "repost_of")
+
+
+def _title(post: dict) -> str:
+    c = post.get("content") or {}
+    return c.get("title") or c.get("question") or c.get("ref_label") or post.get("id", "")
+
+
+def _bank(today) -> list[dict]:
+    from . import saturation  # import tardio: saturation puxa o banco inteiro
+
+    try:
+        rows = saturation.status(today, state.load_used(), config.load_settings())
+    except (OSError, ValueError, KeyError):
+        return []
+    return [{"kind": r["kind"], "per_day": r["per_day"], "fresh": r["fresh"], "days_left": r["days_left"],
+             "warn": bool(r["per_day"] and r["days_left"] is not None and r["days_left"] < saturation.WARN_DAYS)}
+            for r in rows]
+
+
+def snapshot(settings: dict, now: datetime, found: list[tuple[str, str]], queue: list[dict] | None = None,
+             history: list[dict] | None = None, bank: list[dict] | None = None) -> dict:
+    """Resumo para a aba "Hoje" do painel (lido junto da fila em /api/state)."""
+    queue = state.load_queue() if queue is None else queue
+    history = state.load_history() if history is None else history
+    pub = settings.get("publishing", {})
+    groq_cfg = settings.get("groq", {})
+    usage = state.load_groq_usage()
+    today = now.date()
+    in_queue = {p.get("id") for p in queue}
+    done = [{**{k: p[k] for k in SLIM_KEYS if k in p}, "title": _title(p)}
+            for p in history if p.get("date") == today.isoformat() and p.get("id") not in in_queue
+            and any((p.get("published") or {}).values())]  # "Refazer o dia" arquiva os não publicados
+    specials = {}
+    for i in range(SPECIAL_DAYS):
+        day = today + timedelta(days=i)
+        theme = datas.theme_for(day)
+        if theme and theme.key != "domingo":  # todo domingo já é "Domingo": o painel mostra sozinho
+            specials[day.isoformat()] = {"key": theme.key, "name": theme.name, "hook": theme.hook}
+    return {
+        "updated_at": now.astimezone(ZoneInfo("UTC")).isoformat(timespec="seconds"),
+        "date": today.isoformat(),
+        "paused": bool(pub.get("paused")),
+        "problems": [{"key": k, "message": m} for k, m in found],
+        "youtube": {"used": uploads_today(queue + history, now, now.tzinfo),
+                    "max": int(pub.get("youtube_max_per_day", 5))},
+        "groq": {"used": usage.get("calls", 0) if usage.get("date") == today.isoformat() else 0,
+                 "max": int(groq_cfg.get("max_calls_per_day", 6)), "enabled": groq_cfg.get("enabled", True) is not False},
+        "bank": _bank(today) if bank is None else bank,
+        "today_done": done,
+        "specials": specials,
+    }
+
+
+def install(src: Path, dst: Path, now: float | None = None) -> bool:
+    """Copia o resumo novo para dst se algo mudou (fora o horário) ou se o atual tem mais de 1 hora."""
+    new = json.loads(src.read_text(encoding="utf-8"))
+    if dst.exists():
+        try:
+            old = json.loads(dst.read_text(encoding="utf-8"))
+        except ValueError:
+            old = {}
+        same = {k: v for k, v in old.items() if k != "updated_at"} == {k: v for k, v in new.items() if k != "updated_at"}
+        stamp = _when(old.get("updated_at", ""))
+        fresh = stamp is not None and (now or time.time()) - stamp.timestamp() < SNAPSHOT_MAX_AGE
+        if same and fresh:
+            return False
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    dst.write_text(json.dumps(new, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return True
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="python -m app.health")
     parser.add_argument("--out", default="alerta.md")
     parser.add_argument("--mention", default="")
+    parser.add_argument("--snapshot", help="grava o resumo para o painel neste arquivo")
+    parser.add_argument("--install", help="copia o resumo deste arquivo para state/health.json (se mudou)")
     args = parser.parse_args(argv)
+    if args.install:
+        changed = install(Path(args.install), config.STATE_DIR / "health.json")
+        print("state/health.json atualizado." if changed else "state/health.json sem mudança.")
+        return 0
     settings = config.load_settings()
     now = datetime.now(ZoneInfo(settings.get("timezone", "America/Sao_Paulo")))
     found = collect(settings, now)
+    if args.snapshot:
+        try:
+            Path(args.snapshot).write_text(json.dumps(snapshot(settings, now, found), ensure_ascii=False, indent=1),
+                                           encoding="utf-8")
+        except (OSError, ValueError, KeyError) as exc:
+            print(f"::warning::resumo do painel não gerado: {exc}")
     if not found:
         print("Automação em dia: nada a alertar.")
         return 0

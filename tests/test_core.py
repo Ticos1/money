@@ -337,6 +337,17 @@ class PublishTests(unittest.TestCase):
             # na rodada seguinte ninguém tenta o YouTube de novo
             self.assertEqual(publish.run(Path(tmp))["publish_results"], {})
 
+    def test_paused_publishes_nothing(self):
+        from app import publish
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(publish, "build_publishers") as build, \
+                mock.patch.object(publish.config, "load_settings", return_value={
+                    "timezone": "America/Sao_Paulo", "publishing": {"instagram": True, "paused": True}}):
+            state.save_queue([{**self.POST, "date": "2026-01-01"}])
+            patch = publish.run(Path(tmp), self.POST["id"], None, True)  # nem o "Publicar agora"
+            self.assertEqual(patch["publish_results"], {})
+            build.assert_not_called()
+
     def test_publish_now_single_platform_ignores_schedule(self):
         from app import publish
 
@@ -1088,6 +1099,51 @@ class HealthTests(unittest.TestCase):
         sig = health.signature([("parada", "x")])
         self.assertEqual(sig, health.signature([("parada", "outra mensagem")]))
         self.assertTrue(health.text([("parada", "x")], self._now("10:00")).startswith(f"<!-- {sig} -->"))
+
+
+    def test_paused_publishing_is_not_an_alert(self):
+        from app import health
+        settings = {"publishing": {"instagram": True, "paused": True}}
+        late = {"id": "p1", "date": "2026-10-09", "time": "07:00", "status": "approved", "media": {"base": "m/"},
+                "published": {}}
+        old = {**late, "id": "p0", "date": "2026-10-08", "published": {"instagram": "2026-10-08T12:00:00+00:00"}}
+        self.assertEqual(health.check_posts([late, old], [], settings, self._now("10:00")), [])
+
+    def test_snapshot_for_dashboard_and_install_only_on_change(self):
+        from app import health
+        now = self._now("10:00")
+        settings = {"publishing": {"youtube": True, "youtube_max_per_day": 5}, "groq": {"max_calls_per_day": 20}}
+        done = {"id": "d1", "date": "2026-10-09", "time": "08:00", "type": "quiz", "status": "approved",
+                "content": {"question": "Quem?"}, "captions": {"instagram": "longa"},
+                "published": {"youtube": "2026-10-09T11:00:00+00:00"}}
+        cleared = {**done, "id": "d2", "published": {}}  # "Refazer o dia" arquivou sem publicar
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_groq_usage({"date": "2026-10-09", "calls": 7})
+            snap = health.snapshot(settings, now, [("parada", "x")], queue=[], history=[done, cleared], bank=[])
+            self.assertEqual(snap["youtube"], {"used": 1, "max": 5})
+            self.assertEqual(snap["groq"]["used"], 7)
+            self.assertEqual([p["id"] for p in snap["today_done"]], ["d1"])
+            self.assertEqual(snap["today_done"][0]["title"], "Quem?")
+            self.assertNotIn("captions", snap["today_done"][0])
+            self.assertEqual(snap["problems"], [{"key": "parada", "message": "x"}])
+            src, dst = Path(tmp) / "new.json", Path(tmp) / "health.json"
+            src.write_text(json.dumps(snap))
+            self.assertTrue(health.install(src, dst, now.timestamp()))
+            later = {**snap, "updated_at": "2026-10-09T13:20:00+00:00"}
+            src.write_text(json.dumps(later))
+            self.assertFalse(health.install(src, dst, now.timestamp() + 600))  # só o horário mudou
+            self.assertTrue(health.install(src, dst, now.timestamp() + 2 * 3600))  # mais de 1 h
+            src.write_text(json.dumps({**later, "problems": []}))
+            self.assertTrue(health.install(src, dst, now.timestamp() + 2 * 3600 + 60))
+
+    def test_specials_in_next_days(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app import health
+        now = datetime(2026, 10, 27, 9, tzinfo=ZoneInfo("America/Sao_Paulo"))
+        snap = health.snapshot({}, now, [], queue=[], history=[], bank=[])
+        self.assertEqual(snap["specials"]["2026-10-31"]["key"], "reforma")
+        self.assertNotIn("2026-11-01", snap["specials"])  # domingo comum fica de fora
 
 
 class VerseCarouselTests(unittest.TestCase):

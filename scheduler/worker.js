@@ -2,34 +2,14 @@
 // então quem decide QUANDO rodar é este Worker (Cloudflare Cron, a cada 5 min).
 // Precisa das variáveis GITHUB_TOKEN e GITHUB_REPO (as mesmas do painel).
 import { GitHub } from "../dashboard/lib/github.js";
+import { NETS, applies, dueAt, nowIn } from "../dashboard/lib/rules.js";
 
-const NETS = ["instagram", "facebook", "youtube", "stories", "tiktok"];
 const GENERATE_AFTER = "05:20"; // horário de Brasília: se ainda não gerou o dia, gera
 
-function nowIn(tz) {
-  const parts = Object.fromEntries(new Intl.DateTimeFormat("en-CA", {
-    timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23",
-  }).formatToParts(new Date()).map((p) => [p.type, p.value]));
-  return { date: `${parts.year}-${parts.month}-${parts.day}`, time: `${parts.hour}:${parts.minute}` };
-}
-
-function applies(net, post, pub = {}) {
-  const only = pub[`${net}_types`]; // ex.: youtube_types, facebook_types
-  if (Array.isArray(only) && !only.includes(post.type)) return false;
-  if (post.type === "compilation") return net === "youtube" && Boolean(post.media?.video_music);
-  const times = pub[`${net}_times`]; // ex.: instagram_times: só nesses horários da grade
-  if (Array.isArray(times) && !times.includes(post.time)) return false;
-  if (net === "youtube") return Boolean(post.media?.video_music);
-  if (net === "tiktok") return Boolean(post.media?.video_silent);
-  if (net === "stories") return Boolean(post.media?.video_music || post.media?.images?.includes("imagem_story.jpg"));
-  return true;
-}
-
-// Horário real do post: publish_at (slot ± alguns minutos, sorteado na geração) ou o do slot.
-const dueAt = (post) => (post.publish_at || `${post.date}T${post.time}`).replace("T", " ");
-
 // Post aprovado, no horário, com alguma rede ligada ainda sem publicar (e sem erro esgotado).
+// Com publishing.paused (botão "Pausar publicações" do painel) nada é publicado.
 export function needsPublishing(post, settings, now) {
+  if (settings.publishing?.paused) return false;
   if (post.status !== "approved" || !post.media?.base) return false;
   if (dueAt(post) > `${now.date} ${now.time}`) return false;
   const pub = settings.publishing || {};

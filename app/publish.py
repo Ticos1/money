@@ -7,6 +7,9 @@ no painel. Cada rede só é tentada se estiver ligada em config/settings.json
 (publishing) e se as chaves dela existirem nos Secrets. Se der erro, tenta de
 novo nas próximas execuções (até publishing.max_attempts vezes) e o painel
 mostra o motivo.
+
+Com publishing.paused (botão "Pausar publicações" do painel, para dias de luto, tragédia
+ou viagem) nada é publicado, nem pelo "Publicar agora".
 """
 from __future__ import annotations
 
@@ -185,6 +188,9 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
     now = datetime.now(tz)
     log: list[str] = []
+    if cfg.get("paused"):
+        print("Publicações pausadas no painel (publishing.paused): nada é publicado.")
+        return {"mode": "publish", "publish_results": {}, "completed": []}
 
     # "agora" (teste manual) ignora o horário, mas só vale para um post específico
     check_time = not (now_ignore_time and only_post)
