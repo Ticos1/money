@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:04:07+00:00",
+ "updated_at": "2026-10-17T23:06:20+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
