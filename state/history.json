@@ -304,6 +304,260 @@
    "error": null
   },
   {
+   "id": "2026-10-17-10-compilation",
+   "date": "2026-10-17",
+   "slot": 10,
+   "time": "12:00",
+   "publish_at": "2026-10-17T11:54",
+   "type": "compilation",
+   "status": "approved",
+   "created_at": "2026-10-17T06:12:04+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 39,
+    "duration": 602,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Segundo Miqueias, para onde Deus lançará todos os pecados?",
+      "ref_label": "Miqueias 7:19"
+     },
+     {
+      "n": 2,
+      "question": "Quais oficiais do Faraó foram presos junto com José?",
+      "ref_label": "Gênesis 40:2"
+     },
+     {
+      "n": 3,
+      "question": "Que animal os irmãos mataram para mergulhar a túnica de José no sangue?",
+      "ref_label": "Gênesis 37:31"
+     },
+     {
+      "n": 4,
+      "question": "Segundo Efésios, por meio de quê fomos salvos, mediante a fé?",
+      "ref_label": "Efésios 2:8"
+     },
+     {
+      "n": 5,
+      "question": "Quantas vezes Pedro negou Jesus antes do galo cantar?",
+      "ref_label": "Mateus 26:75"
+     },
+     {
+      "n": 6,
+      "question": "Como se chamavam os dois eunucos que tramaram contra o rei Assuero?",
+      "ref_label": "Ester 2:21"
+     },
+     {
+      "n": 7,
+      "question": "Quanto tempo Maria ficou com Isabel antes de voltar para casa?",
+      "ref_label": "Lucas 1:56"
+     },
+     {
+      "n": 8,
+      "question": "Segundo Provérbios, o orgulho precede o quê?",
+      "ref_label": "Provérbios 16:18"
+     },
+     {
+      "n": 9,
+      "question": "De quem era a queixa dos helenistas, por serem negligenciadas no serviço diário?",
+      "ref_label": "Atos 6:1"
+     },
+     {
+      "n": 10,
+      "question": "No Salmo 23, junto a que o Senhor conduz o salmista?",
+      "ref_label": "Salmos 23:2"
+     },
+     {
+      "n": 11,
+      "question": "Que cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?",
+      "ref_label": "Ester 8:15"
+     },
+     {
+      "n": 12,
+      "question": "De qual cidade Terá saiu com Abrão rumo a Canaã?",
+      "ref_label": "Gênesis 11:31"
+     },
+     {
+      "n": 13,
+      "question": "De quem Eliú, o buzita, era filho?",
+      "ref_label": "Jó 32:2"
+     },
+     {
+      "n": 14,
+      "question": "Para qual terra Deus mandou Abraão levar Isaque?",
+      "ref_label": "Gênesis 22:2"
+     },
+     {
+      "n": 15,
+      "question": "Quem venceu para abrir o livro e os seus sete selos?",
+      "ref_label": "Apocalipse 5:5"
+     },
+     {
+      "n": 16,
+      "question": "Segundo Habacuque, o justo viverá pelo quê?",
+      "ref_label": "Habacuque 2:4"
+     },
+     {
+      "n": 17,
+      "question": "Quais dos espias rasgaram as roupas ao ouvir o povo se rebelar?",
+      "ref_label": "Números 14:6"
+     },
+     {
+      "n": 18,
+      "question": "Segundo o anjo, o que João não beberia, além de bebida forte?",
+      "ref_label": "Lucas 1:15"
+     },
+     {
+      "n": 19,
+      "question": "De onde Salomão pediu a Hirão que cortassem cedros para o templo?",
+      "ref_label": "1 Reis 5:6"
+     },
+     {
+      "n": 20,
+      "question": "Onde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?",
+      "ref_label": "Mateus 27:60"
+     },
+     {
+      "n": 21,
+      "question": "Para qual terra Moisés fugiu da presença do faraó?",
+      "ref_label": "Êxodo 2:15"
+     },
+     {
+      "n": 22,
+      "question": "Na oração de Jonas, o que se enrolou na sua cabeça?",
+      "ref_label": "Jonas 2:5"
+     },
+     {
+      "n": 23,
+      "question": "De que material era o portão da cidade que se abriu sozinho para Pedro e o anjo?",
+      "ref_label": "Atos 12:10"
+     },
+     {
+      "n": 24,
+      "question": "De que era a casa onde o rei Davi disse ao profeta Natã que morava?",
+      "ref_label": "2 Samuel 7:2"
+     },
+     {
+      "n": 25,
+      "question": "Qual destes homens foi escolhido junto com Estêvão para servir?",
+      "ref_label": "Atos 6:5"
+     },
+     {
+      "n": 26,
+      "question": "O que o rei Uzias amava, segundo 2 Crônicas 26?",
+      "ref_label": "2 Crônicas 26:10"
+     },
+     {
+      "n": 27,
+      "question": "Segundo Êxodo 16, um ômer equivale a que parte de um efa?",
+      "ref_label": "Êxodo 16:36"
+     },
+     {
+      "n": 28,
+      "question": "Em qual região Jesus e os discípulos atracaram depois que ele andou sobre o mar?",
+      "ref_label": "Marcos 6:53"
+     },
+     {
+      "n": 29,
+      "question": "O que foi comprado com as moedas devolvidas por Judas?",
+      "ref_label": "Mateus 27:7"
+     },
+     {
+      "n": 30,
+      "question": "Em quem Davi encontrou forças quando o povo falava em apedrejá-lo?",
+      "ref_label": "1 Samuel 30:6"
+     },
+     {
+      "n": 31,
+      "question": "Em quem Moisés colocou as vestes de Arão no topo do monte?",
+      "ref_label": "Números 20:28"
+     },
+     {
+      "n": 32,
+      "question": "Com o que Zípora circuncidou seu filho no caminho para o Egito?",
+      "ref_label": "Êxodo 4:25"
+     },
+     {
+      "n": 33,
+      "question": "Que nome Samuel deu à pedra que colocou entre Mispá e Sem?",
+      "ref_label": "1 Samuel 7:12"
+     },
+     {
+      "n": 34,
+      "question": "O que a igreja em Éfeso havia abandonado, segundo Apocalipse?",
+      "ref_label": "Apocalipse 2:4"
+     },
+     {
+      "n": 35,
+      "question": "O que Jesus mandou observar para aprender a confiar no Pai celestial?",
+      "ref_label": "Mateus 6:26"
+     },
+     {
+      "n": 36,
+      "question": "Quem saiu a semear na parábola contada por Jesus?",
+      "ref_label": "Mateus 13:3"
+     },
+     {
+      "n": 37,
+      "question": "Qual era o nome do mendigo na história do rico e Lázaro?",
+      "ref_label": "Lucas 16:20"
+     },
+     {
+      "n": 38,
+      "question": "Como Moisés chamou o filho que Zípora lhe deu em Midiã?",
+      "ref_label": "Êxodo 2:22"
+     },
+     {
+      "n": 39,
+      "question": "Segundo o mensageiro, o que caiu do céu e queimou as ovelhas de Jó?",
+      "ref_label": "Jó 1:16"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 39 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:23 Pergunta 2\n0:39 Pergunta 3\n0:55 Pergunta 4\n1:09 Pergunta 5\n1:23 Pergunta 6\n1:39 Pergunta 7\n1:56 Pergunta 8\n2:10 Pergunta 9\n2:26 Pergunta 10\n2:41 Pergunta 11\n2:58 Pergunta 12\n3:12 Pergunta 13\n3:26 Pergunta 14\n3:39 Pergunta 15\n3:55 Pergunta 16\n4:10 Pergunta 17\n4:26 Pergunta 18\n4:40 Pergunta 19\n4:55 Pergunta 20\n5:11 Pergunta 21\n5:24 Pergunta 22\n5:39 Pergunta 23\n5:54 Pergunta 24\n6:09 Pergunta 25\n6:23 Pergunta 26\n6:37 Pergunta 27\n6:53 Pergunta 28\n7:08 Pergunta 29\n7:24 Pergunta 30\n7:40 Pergunta 31\n7:54 Pergunta 32\n8:10 Pergunta 33\n8:24 Pergunta 34\n8:40 Pergunta 35\n8:55 Pergunta 36\n9:10 Pergunta 37\n9:24 Pergunta 38\n9:38 Pergunta 39\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-17T14:55:28+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtu.be/85sTRwfSOPk"
+   }
+  },
+  {
    "id": "2026-10-17-9-quiz",
    "date": "2026-10-17",
    "slot": 9,
