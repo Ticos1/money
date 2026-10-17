@@ -835,6 +835,100 @@
    "error": null
   },
   {
+   "id": "2026-10-17-6-quiz",
+   "date": "2026-10-17",
+   "slot": 6,
+   "time": "17:00",
+   "publish_at": "2026-10-17T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-17T06:03:43+00:00",
+   "source": "bank",
+   "bank_id": "q1223",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:2",
+    "ref_label": "Lucas 2:2",
+    "question": "Quem era governador da Síria quando foi feito o primeiro recenseamento?",
+    "options": [
+     "Félix",
+     "Festo",
+     "Quirino",
+     "Pilatos"
+    ],
+    "answer": 2,
+    "evidence": "quando Quirino era governador da Síria",
+    "passage": "Este foi o primeiro recenseamento feito quando Quirino era governador da Síria.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #perguntasbiblicas #desafio #deus #evangelico #palavradedeus #teste #conhecimentobiblico #biblia",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #cristao",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #evangelico #perguntasbiblicas",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #fe #palavradedeus #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-17T19:55:29+00:00",
+    "stories": "2026-10-17T19:56:01+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1165999009481761",
+    "stories": "story 18157846921543387"
+   }
+  },
+  {
    "id": "2026-10-17-5-curiosity",
    "date": "2026-10-17",
    "slot": 5,
