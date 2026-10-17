@@ -1,240 +1,251 @@
 {
  "posts": [
   {
-   "id": "2026-10-17-11-compilation",
+   "id": "2026-10-17-10-compilation",
    "date": "2026-10-17",
-   "slot": 11,
+   "slot": 10,
    "time": "12:00",
+   "publish_at": "2026-10-17T11:54",
    "type": "compilation",
    "status": "approved",
-   "created_at": "2026-10-17T03:53:10+00:00",
+   "created_at": "2026-10-17T06:12:04+00:00",
    "source": "bank",
    "bank_id": null,
    "model": null,
    "content": {
-    "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
-    "count": 40,
-    "duration": 605,
+    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 39,
+    "duration": 602,
     "questions": [
      {
       "n": 1,
-      "question": "O que Moisés feriu em Horebe para que saísse água?",
-      "ref_label": "Êxodo 17:6"
+      "question": "Segundo Miqueias, para onde Deus lançará todos os pecados?",
+      "ref_label": "Miqueias 7:19"
      },
      {
       "n": 2,
-      "question": "Jesus diz em Apocalipse: 'Eu sou o Alfa e o...'",
-      "ref_label": "Apocalipse 22:13"
+      "question": "Quais oficiais do Faraó foram presos junto com José?",
+      "ref_label": "Gênesis 40:2"
      },
      {
       "n": 3,
-      "question": "Para quem Paulo apelou no seu julgamento?",
-      "ref_label": "Atos 25:11"
+      "question": "Que animal os irmãos mataram para mergulhar a túnica de José no sangue?",
+      "ref_label": "Gênesis 37:31"
      },
      {
       "n": 4,
-      "question": "Sobre o que Jesus dormia na popa do barco?",
-      "ref_label": "Marcos 4:38"
+      "question": "Segundo Efésios, por meio de quê fomos salvos, mediante a fé?",
+      "ref_label": "Efésios 2:8"
      },
      {
       "n": 5,
-      "question": "A quem foi escrita a terceira carta de João?",
-      "ref_label": "3 João 1:1"
+      "question": "Quantas vezes Pedro negou Jesus antes do galo cantar?",
+      "ref_label": "Mateus 26:75"
      },
      {
       "n": 6,
-      "question": "Com o tamanho de qual semente a fé poderia mover um monte?",
-      "ref_label": "Mateus 17:20"
+      "question": "Como se chamavam os dois eunucos que tramaram contra o rei Assuero?",
+      "ref_label": "Ester 2:21"
      },
      {
       "n": 7,
-      "question": "Qual palavra aparece em João 3:16 que descreve quem enviou o Filho?",
-      "ref_label": "João 3:16"
+      "question": "Quanto tempo Maria ficou com Isabel antes de voltar para casa?",
+      "ref_label": "Lucas 1:56"
      },
      {
       "n": 8,
-      "question": "O que Jesus pediu ao Pai na cruz, pelos que o crucificavam?",
-      "ref_label": "Lucas 23:34"
+      "question": "Segundo Provérbios, o orgulho precede o quê?",
+      "ref_label": "Provérbios 16:18"
      },
      {
       "n": 9,
-      "question": "Por quanto tempo o dragão foi amarrado?",
-      "ref_label": "Apocalipse 20:2"
+      "question": "De quem era a queixa dos helenistas, por serem negligenciadas no serviço diário?",
+      "ref_label": "Atos 6:1"
      },
      {
       "n": 10,
-      "question": "No Salmo 119, as promessas de Deus são mais doces do que o quê?",
-      "ref_label": "Salmos 119:103"
+      "question": "No Salmo 23, junto a que o Senhor conduz o salmista?",
+      "ref_label": "Salmos 23:2"
      },
      {
       "n": 11,
-      "question": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?",
-      "ref_label": "João 20:1"
+      "question": "Que cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?",
+      "ref_label": "Ester 8:15"
      },
      {
       "n": 12,
-      "question": "Qual festa dura sete dias a partir do décimo quinto dia do sétimo mês?",
-      "ref_label": "Levítico 23:34"
+      "question": "De qual cidade Terá saiu com Abrão rumo a Canaã?",
+      "ref_label": "Gênesis 11:31"
      },
      {
       "n": 13,
-      "question": "Na parábola, o que o homem encontrou e vendeu tudo o que tinha para comprar?",
-      "ref_label": "Mateus 13:46"
+      "question": "De quem Eliú, o buzita, era filho?",
+      "ref_label": "Jó 32:2"
      },
      {
       "n": 14,
-      "question": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
-      "ref_label": "2 Samuel 12:1"
+      "question": "Para qual terra Deus mandou Abraão levar Isaque?",
+      "ref_label": "Gênesis 22:2"
      },
      {
       "n": 15,
-      "question": "De que eram feitas as roupas de João Batista?",
-      "ref_label": "Marcos 1:6"
+      "question": "Quem venceu para abrir o livro e os seus sete selos?",
+      "ref_label": "Apocalipse 5:5"
      },
      {
       "n": 16,
-      "question": "Quantas vezes o menino ressuscitado por Eliseu espirrou?",
-      "ref_label": "2 Reis 4:35"
+      "question": "Segundo Habacuque, o justo viverá pelo quê?",
+      "ref_label": "Habacuque 2:4"
      },
      {
       "n": 17,
-      "question": "Por quanto tempo não choveu depois da oração de Elias?",
-      "ref_label": "Tiago 5:17"
+      "question": "Quais dos espias rasgaram as roupas ao ouvir o povo se rebelar?",
+      "ref_label": "Números 14:6"
      },
      {
       "n": 18,
-      "question": "Segundo Romanos, qual é o salário do pecado?",
-      "ref_label": "Romanos 6:23"
+      "question": "Segundo o anjo, o que João não beberia, além de bebida forte?",
+      "ref_label": "Lucas 1:15"
      },
      {
       "n": 19,
-      "question": "O que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?",
-      "ref_label": "2 Reis 25:7"
+      "question": "De onde Salomão pediu a Hirão que cortassem cedros para o templo?",
+      "ref_label": "1 Reis 5:6"
      },
      {
       "n": 20,
-      "question": "Para que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?",
-      "ref_label": "Mateus 20:1"
+      "question": "Onde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?",
+      "ref_label": "Mateus 27:60"
      },
      {
       "n": 21,
-      "question": "Em qual terra do Egito José disse que sua família habitaria?",
-      "ref_label": "Gênesis 45:10"
+      "question": "Para qual terra Moisés fugiu da presença do faraó?",
+      "ref_label": "Êxodo 2:15"
      },
      {
       "n": 22,
-      "question": "Que nome babilônico deram a Daniel?",
-      "ref_label": "Daniel 1:7"
+      "question": "Na oração de Jonas, o que se enrolou na sua cabeça?",
+      "ref_label": "Jonas 2:5"
      },
      {
       "n": 23,
-      "question": "Qual era o nome do filho de Alfeu que Jesus viu sentado na coletoria de impostos?",
-      "ref_label": "Marcos 2:14"
+      "question": "De que material era o portão da cidade que se abriu sozinho para Pedro e o anjo?",
+      "ref_label": "Atos 12:10"
      },
      {
       "n": 24,
-      "question": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
-      "ref_label": "Marcos 11:7"
+      "question": "De que era a casa onde o rei Davi disse ao profeta Natã que morava?",
+      "ref_label": "2 Samuel 7:2"
      },
      {
       "n": 25,
-      "question": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
-      "ref_label": "2 Reis 2:24"
+      "question": "Qual destes homens foi escolhido junto com Estêvão para servir?",
+      "ref_label": "Atos 6:5"
      },
      {
       "n": 26,
-      "question": "Quantos apóstolos Jesus escolheu dentre os discípulos?",
-      "ref_label": "Lucas 6:13"
+      "question": "O que o rei Uzias amava, segundo 2 Crônicas 26?",
+      "ref_label": "2 Crônicas 26:10"
      },
      {
       "n": 27,
-      "question": "Quais eram os três amigos que vieram consolar Jó?",
-      "ref_label": "Jó 2:11"
+      "question": "Segundo Êxodo 16, um ômer equivale a que parte de um efa?",
+      "ref_label": "Êxodo 16:36"
      },
      {
       "n": 28,
-      "question": "Qual era o nome do falso profeta encontrado em Pafos?",
-      "ref_label": "Atos 13:6"
+      "question": "Em qual região Jesus e os discípulos atracaram depois que ele andou sobre o mar?",
+      "ref_label": "Marcos 6:53"
      },
      {
       "n": 29,
-      "question": "De qual monte Moisés viu a terra prometida antes de morrer?",
-      "ref_label": "Deuteronômio 34:1"
+      "question": "O que foi comprado com as moedas devolvidas por Judas?",
+      "ref_label": "Mateus 27:7"
      },
      {
       "n": 30,
-      "question": "Segundo Jesus, quem tem tocas?",
-      "ref_label": "Lucas 9:58"
+      "question": "Em quem Davi encontrou forças quando o povo falava em apedrejá-lo?",
+      "ref_label": "1 Samuel 30:6"
      },
      {
       "n": 31,
-      "question": "Quantos filhos homens Jacó teve?",
-      "ref_label": "Gênesis 35:22"
+      "question": "Em quem Moisés colocou as vestes de Arão no topo do monte?",
+      "ref_label": "Números 20:28"
      },
      {
       "n": 32,
-      "question": "Em qual lugar Eliseu fez um ensopado para os filhos dos profetas em tempo de fome?",
-      "ref_label": "2 Reis 4:38"
+      "question": "Com o que Zípora circuncidou seu filho no caminho para o Egito?",
+      "ref_label": "Êxodo 4:25"
      },
      {
       "n": 33,
-      "question": "Quantos seres viventes Ezequiel viu saírem do meio da visão?",
-      "ref_label": "Ezequiel 1:5"
+      "question": "Que nome Samuel deu à pedra que colocou entre Mispá e Sem?",
+      "ref_label": "1 Samuel 7:12"
      },
      {
       "n": 34,
-      "question": "O que Deus prometeu restituir, que o gafanhoto comeu?",
-      "ref_label": "Joel 2:25"
+      "question": "O que a igreja em Éfeso havia abandonado, segundo Apocalipse?",
+      "ref_label": "Apocalipse 2:4"
      },
      {
       "n": 35,
-      "question": "Esdras tinha disposto o coração para buscar o quê?",
-      "ref_label": "Esdras 7:10"
+      "question": "O que Jesus mandou observar para aprender a confiar no Pai celestial?",
+      "ref_label": "Mateus 6:26"
      },
      {
       "n": 36,
-      "question": "Em que lugar Miriã, irmã de Moisés, morreu?",
-      "ref_label": "Números 20:1"
+      "question": "Quem saiu a semear na parábola contada por Jesus?",
+      "ref_label": "Mateus 13:3"
      },
      {
       "n": 37,
-      "question": "Otniel, o primeiro libertador de Israel, era irmão mais novo de quem?",
-      "ref_label": "Juízes 3:9"
+      "question": "Qual era o nome do mendigo na história do rico e Lázaro?",
+      "ref_label": "Lucas 16:20"
      },
      {
       "n": 38,
-      "question": "Quem escondeu o menino Joás para que Atalia não o matasse?",
-      "ref_label": "2 Reis 11:2"
+      "question": "Como Moisés chamou o filho que Zípora lhe deu em Midiã?",
+      "ref_label": "Êxodo 2:22"
      },
      {
       "n": 39,
-      "question": "Como devemos amar ao Senhor, segundo o maior mandamento?",
-      "ref_label": "Mateus 22:37"
-     },
-     {
-      "n": 40,
-      "question": "Onde o menino Samuel estava deitado quando Deus o chamou?",
-      "ref_label": "1 Samuel 3:3"
+      "question": "Segundo o mensageiro, o que caiu do céu e queimou as ovelhas de Jó?",
+      "ref_label": "Jó 1:16"
      }
     ]
    },
    "captions": {
     "youtube": {
-     "title": "Quiz Bíblico: 40 perguntas | Só 1% acerta todas",
-     "description": "Você conhece mesmo a Bíblia? Responda 40 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:34 Pergunta 3\n0:48 Pergunta 4\n1:03 Pergunta 5\n1:16 Pergunta 6\n1:32 Pergunta 7\n1:46 Pergunta 8\n2:01 Pergunta 9\n2:15 Pergunta 10\n2:30 Pergunta 11\n2:45 Pergunta 12\n3:00 Pergunta 13\n3:17 Pergunta 14\n3:32 Pergunta 15\n3:47 Pergunta 16\n4:01 Pergunta 17\n4:16 Pergunta 18\n4:30 Pergunta 19\n4:45 Pergunta 20\n5:02 Pergunta 21\n5:16 Pergunta 22\n5:30 Pergunta 23\n5:45 Pergunta 24\n6:01 Pergunta 25\n6:16 Pergunta 26\n6:29 Pergunta 27\n6:46 Pergunta 28\n7:00 Pergunta 29\n7:16 Pergunta 30\n7:29 Pergunta 31\n7:43 Pergunta 32\n7:58 Pergunta 33\n8:12 Pergunta 34\n8:26 Pergunta 35\n8:41 Pergunta 36\n8:54 Pergunta 37\n9:09 Pergunta 38\n9:23 Pergunta 39\n9:40 Pergunta 40\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus"
+     "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 39 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:23 Pergunta 2\n0:39 Pergunta 3\n0:55 Pergunta 4\n1:09 Pergunta 5\n1:23 Pergunta 6\n1:39 Pergunta 7\n1:56 Pergunta 8\n2:10 Pergunta 9\n2:26 Pergunta 10\n2:41 Pergunta 11\n2:58 Pergunta 12\n3:12 Pergunta 13\n3:26 Pergunta 14\n3:39 Pergunta 15\n3:55 Pergunta 16\n4:10 Pergunta 17\n4:26 Pergunta 18\n4:40 Pergunta 19\n4:55 Pergunta 20\n5:11 Pergunta 21\n5:24 Pergunta 22\n5:39 Pergunta 23\n5:54 Pergunta 24\n6:09 Pergunta 25\n6:23 Pergunta 26\n6:37 Pergunta 27\n6:53 Pergunta 28\n7:08 Pergunta 29\n7:24 Pergunta 30\n7:40 Pergunta 31\n7:54 Pergunta 32\n8:10 Pergunta 33\n8:24 Pergunta 34\n8:40 Pergunta 35\n8:55 Pergunta 36\n9:10 Pergunta 37\n9:24 Pergunta 38\n9:38 Pergunta 39\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
     }
    },
    "caption_source": "template",
    "music": null,
    "gospel_suggestions": [],
    "media": {
-    "base": "media/2026-10-17/2026-10-17-11-compilation/",
+    "base": "media/2026-10-17/2026-10-17-10-compilation/",
     "version": 1,
     "video_music": "video_longo.mp4",
     "poster": "miniatura.jpg",
     "thumbnail": "miniatura.jpg",
     "images": [],
-    "duration": 604.9,
+    "duration": 601.9,
     "long": true
    },
    "published": {
@@ -243,44 +254,468 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
    "log": [],
    "error": null
   },
   {
-   "id": "2026-10-17-10-truefalse",
+   "id": "2026-10-17-9-truefalse",
    "date": "2026-10-17",
-   "slot": 10,
+   "slot": 9,
    "time": "21:30",
+   "publish_at": "2026-10-17T21:33",
    "type": "truefalse",
    "status": "approved",
-   "created_at": "2026-10-17T03:43:15+00:00",
+   "created_at": "2026-10-17T06:05:55+00:00",
    "source": "bank",
-   "bank_id": "q107",
+   "bank_id": "q721",
    "model": null,
    "content": {
-    "ref": "Gênesis 39:1",
-    "ref_label": "Gênesis 39:1",
-    "question": "Qual oficial do Faraó comprou José como escravo?",
-    "shown": "Potifar",
-    "is_true": true,
-    "correct": "Potifar",
-    "evidence": "Potifar, um oficial do Faraó",
-    "passage": "José foi levado para o Egito. Potifar, um oficial do Faraó, capitão da guarda, um egípcio, comprou-o das mãos dos ismaelitas que o tinham levado para lá.",
-    "difficulty": "facil"
+    "ref": "1 Samuel 16:12",
+    "ref_label": "1 Samuel 16:12",
+    "question": "Como Davi é descrito quando foi trazido diante de Samuel?",
+    "shown": "Moreno e calado",
+    "is_true": false,
+    "correct": "Ruivo, de belos olhos",
+    "evidence": "ele era ruivo, de belos olhos",
+    "passage": "Jessé mandou buscá-lo e o trouxe. Ora, ele era ruivo, de belos olhos e de boa aparência. Então o SENHOR disse: “Levante-se e unja-o, pois é este.”",
+    "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual oficial do Faraó comprou José como escravo?\nResposta: Potifar\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #perguntasbiblicas #conhecimentobiblico #fe #jesus #deus #cristao #palavradedeus #desafiobiblico #gospel",
-    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual oficial do Faraó comprou José como escravo?\nResposta: Potifar\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #cristao",
-    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #gospel #fe",
-    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #fe #gospel #biblia",
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Davi é descrito quando foi trazido diante de Samuel?\nResposta: Moreno e calado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #evangelico #deus #gospel #palavradedeus #biblia #fe #cristao",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Davi é descrito quando foi trazido diante de Samuel?\nResposta: Moreno e calado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #fe",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #gospel",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComo Davi é descrito quando foi trazido diante de Samuel?\nResposta: Moreno e calado\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
     "youtube": {
-     "title": "Verdadeiro ou falso? Qual oficial do Faraó comprou José como escravo? #shorts",
-     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual oficial do Faraó comprou José como escravo?\nResposta: Potifar\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe"
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Davi é descrito quando foi trazido diante de Samuel?\nResposta: Moreno e calado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
     }
    },
    "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 17.0,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-9-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-17-8-quiz",
+   "date": "2026-10-17",
+   "slot": 8,
+   "time": "20:00",
+   "publish_at": "2026-10-17T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-17T06:05:20+00:00",
+   "source": "bank",
+   "bank_id": "q915",
+   "model": null,
+   "content": {
+    "ref": "Hebreus 13:2",
+    "ref_label": "Hebreus 13:2",
+    "question": "Mostrando hospitalidade, quem alguns hospedaram sem saber?",
+    "options": [
+     "Reis",
+     "Profetas",
+     "Anjos",
+     "Apóstolos"
+    ],
+    "answer": 2,
+    "evidence": "alguns hospedaram anjos sem o saber",
+    "passage": "Não se esqueçam de mostrar hospitalidade aos estranhos, pois, ao fazerem isso, alguns hospedaram anjos sem o saber.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus #desafio #jesus #teste #perguntasbiblicas #biblia #gospel #conhecimentobiblico #fe",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #palavradedeus #cristao #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #biblia #teste",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Mostrando hospitalidade, quem alguns hospedaram sem saber? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "hebreus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-8-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-17-7-fill",
+   "date": "2026-10-17",
+   "slot": 7,
+   "time": "18:30",
+   "publish_at": "2026-10-17T18:29",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-17T06:04:29+00:00",
+   "source": "bank",
+   "bank_id": "v443",
+   "model": null,
+   "content": {
+    "ref": "2 Timóteo 4:7",
+    "ref_label": "2 Timóteo 4:7",
+    "verse_text": "Combati o bom combate. Terminei a corrida. Guardei a fé.",
+    "question": "Combati o bom combate. Terminei a corrida. Guardei a _____.",
+    "options": [
+     "promessa",
+     "fé",
+     "verdade",
+     "bondade"
+    ],
+    "answer": 1,
+    "answer_word": "fé",
+    "tags": [
+     "perseveranca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: 2 Timóteo 4:7\nVocê sabe esse versículo de cor? 📖\n\n“Combati o bom combate. Terminei a corrida. Guardei a _____.”\n\nA) promessa\nB) fé\nC) verdade\nD) bondade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo #jesus #biblia #palavradedeus #desafiobiblico #quizbiblico #gospel #deus",
+    "facebook": "Versículo para não desistir: 2 Timóteo 4:7\nVocê sabe esse versículo de cor? 📖\n\n“Combati o bom combate. Terminei a corrida. Guardei a _____.”\n\nA) promessa\nB) fé\nC) verdade\nD) bondade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo",
+    "tiktok": "Versículo para não desistir\nVocê sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "kwai": "Versículo para não desistir\nVocê sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Combati o bom combate. Terminei a corrida. Guardei a _____.”\n\nA) promessa\nB) fé\nC) verdade\nD) bondade\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo para não desistir: 2 Timóteo 4:7 📖 #shorts",
+     "description": "Versículo para não desistir: 2 Timóteo 4:7\nVocê sabe esse versículo de cor? 📖\n\n“Combati o bom combate. Terminei a corrida. Guardei a _____.”\n\nA) promessa\nB) fé\nC) verdade\nD) bondade\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #fe",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "fe",
+      "2 timóteo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 21.98,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-7-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-17-6-quiz",
+   "date": "2026-10-17",
+   "slot": 6,
+   "time": "17:00",
+   "publish_at": "2026-10-17T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-17T06:03:43+00:00",
+   "source": "bank",
+   "bank_id": "q1223",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:2",
+    "ref_label": "Lucas 2:2",
+    "question": "Quem era governador da Síria quando foi feito o primeiro recenseamento?",
+    "options": [
+     "Félix",
+     "Festo",
+     "Quirino",
+     "Pilatos"
+    ],
+    "answer": 2,
+    "evidence": "quando Quirino era governador da Síria",
+    "passage": "Este foi o primeiro recenseamento feito quando Quirino era governador da Síria.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #perguntasbiblicas #desafio #deus #evangelico #palavradedeus #teste #conhecimentobiblico #biblia",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #cristao",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #evangelico #perguntasbiblicas",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #fe #palavradedeus #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuem era governador da Síria quando foi feito o primeiro recenseamento?\n\nA) Félix\nB) Festo\nC) Quirino\nD) Pilatos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 22.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-6-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda revela a resposta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-17-5-truefalse",
+   "date": "2026-10-17",
+   "slot": 5,
+   "time": "15:00",
+   "publish_at": "2026-10-17T15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-17T06:02:53+00:00",
+   "source": "bank",
+   "bank_id": "q939",
+   "model": null,
+   "content": {
+    "ref": "Neemias 2:10",
+    "ref_label": "Neemias 2:10",
+    "question": "Sambalate, que se opôs a Neemias, era chamado de quê?",
+    "shown": "Horonita",
+    "is_true": true,
+    "correct": "Horonita",
+    "evidence": "Sambalate, o horonita",
+    "passage": "Quando Sambalate, o horonita, e Tobias, o servo amonita, ouviram isso, ficaram extremamente desgostosos, porque um homem tinha vindo para buscar o bem-estar dos filhos de Israel.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSambalate, que se opôs a Neemias, era chamado de quê?\nResposta: Horonita\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #biblia #fe #evangelico #desafiobiblico #cristao #palavradedeus #deus #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSambalate, que se opôs a Neemias, era chamado de quê?\nResposta: Horonita\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #deus #fe #evangelico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #jesus #fe #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nSambalate, que se opôs a Neemias, era chamado de quê?\nResposta: Horonita\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSambalate, que se opôs a Neemias, era chamado de quê?\nResposta: Horonita\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
    "music": {
     "id": "gen-desafio-2",
     "title": "Será Que Você Sabe?",
@@ -294,12 +729,12 @@
      "artist": "Fernandinho"
     },
     {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
     },
     {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
     }
    ],
    "media": {
@@ -308,7 +743,8 @@
     "poster": "capa.jpg",
     "images": [],
     "duration": 17.0,
-    "base": "media/2026-10-17/2026-10-17-10-truefalse/",
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-5-truefalse/",
     "version": 1
    },
    "published": {
@@ -317,226 +753,74 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
    "log": [],
    "error": null
   },
   {
-   "id": "2026-10-17-9-quiz",
+   "id": "2026-10-17-4-quiz-v2",
    "date": "2026-10-17",
-   "slot": 9,
-   "time": "20:00",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-17T12:08",
    "type": "quiz",
    "status": "approved",
-   "created_at": "2026-10-17T03:42:11+00:00",
+   "created_at": "2026-10-17T06:02:17+00:00",
    "source": "bank",
-   "bank_id": "q492",
+   "bank_id": "q675",
    "model": null,
    "content": {
-    "ref": "Mateus 27:60",
-    "ref_label": "Mateus 27:60",
-    "question": "Onde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?",
+    "ref": "Gênesis 35:19",
+    "ref_label": "Gênesis 35:19",
+    "question": "Onde Raquel foi sepultada?",
     "options": [
-     "Numa caverna natural",
-     "Na areia",
-     "Na rocha",
-     "Num jardim"
-    ],
-    "answer": 2,
-    "evidence": "que ele havia escavado na rocha",
-    "passage": "e o colocou em seu próprio túmulo novo, que ele havia escavado na rocha. Então, rolou uma grande pedra para a porta do túmulo e foi embora.",
-    "difficulty": "medio"
-   },
-   "captions": {
-    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nOnde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?\n\nA) Numa caverna natural\nB) Na areia\nC) Na rocha\nD) Num jardim\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #teste #perguntasbiblicas #palavradedeus #gospel #deus #biblia #desafio #cristao #jesus",
-    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nOnde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?\n\nA) Numa caverna natural\nB) Na areia\nC) Na rocha\nD) Num jardim\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #evangelico",
-    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #cristao #fe",
-    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #evangelico #deus #conhecimentobiblico",
-    "youtube": {
-     "title": "Você conhece mesmo a Bíblia? Prove! Onde José de Arimateia havia escavado o túmulo… #shorts",
-     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nOnde José de Arimateia havia escavado o túmulo novo em que colocou Jesus?\n\nA) Numa caverna natural\nB) Na areia\nC) Na rocha\nD) Num jardim\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Todavia Me Alegrarei",
-     "artist": "Samuel Messias"
-    },
-    {
-     "title": "Grandes Coisas",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Algo Novo",
-     "artist": "Kemuel e Lukas Agustinho"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 24.38,
-    "base": "media/2026-10-17/2026-10-17-9-quiz/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [
-    "legenda Groq descartada: legenda incompleta"
-   ],
-   "error": null
-  },
-  {
-   "id": "2026-10-17-8-fill",
-   "date": "2026-10-17",
-   "slot": 8,
-   "time": "18:30",
-   "type": "fill",
-   "status": "approved",
-   "created_at": "2026-10-17T03:40:35+00:00",
-   "source": "bank",
-   "bank_id": "v015",
-   "model": null,
-   "content": {
-    "ref": "Lamentações 3:22-23",
-    "ref_label": "Lamentações 3:22-23",
-    "verse_text": "É por causa das bondades do SENHOR que não somos consumidos, porque as suas misericórdias não falham. Elas se renovam a cada manhã. Grande é a sua fidelidade.",
-    "question": "É por causa das bondades do SENHOR que não somos consumidos, porque as suas misericórdias não falham. Elas se renovam a cada manhã. Grande é a sua _____.",
-    "options": [
-     "palavra",
-     "fidelidade",
-     "presença",
-     "alegria"
+     "Na caverna de Macpela",
+     "No caminho para Efrata",
+     "Junto ao poço de Harã",
+     "No monte Moriá"
     ],
     "answer": 1,
-    "answer_word": "fidelidade",
-    "tags": [
-     "misericordia",
-     "fidelidade"
-    ]
-   },
-   "captions": {
-    "instagram": "Qual palavra falta nesse versículo? 📖\n\n“É por causa das bondades do SENHOR que não somos consumidos, porque as suas misericórdias não falham. Elas se renovam a cada manhã. Grande é a sua _____.”\n\nA) palavra\nB) fidelidade\nC) presença\nD) alegria\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#misericordia #fidelidade #completeoversiculo #versiculo #desafiobiblico #gospel #jesus #quizbiblico #palavradedeus #deus #fe #cristao",
-    "facebook": "Qual palavra falta nesse versículo? 📖\n\n“É por causa das bondades do SENHOR que não somos consumidos, porque as suas misericórdias não falham. Elas se renovam a cada manhã. Grande é a sua _____.”\n\nA) palavra\nB) fidelidade\nC) presença\nD) alegria\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#misericordia #fidelidade #completeoversiculo #versiculo",
-    "tiktok": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#misericordia #fidelidade #completeoversiculo #versiculo #cristao",
-    "kwai": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#misericordia #fidelidade #completeoversiculo #versiculo #deus",
-    "youtube": {
-     "title": "Qual palavra falta nesse versículo? (Lamentações 3:22-23) #shorts",
-     "description": "Qual palavra falta nesse versículo? 📖\n\n“É por causa das bondades do SENHOR que não somos consumidos, porque as suas misericórdias não falham. Elas se renovam a cada manhã. Grande é a sua _____.”\n\nA) palavra\nB) fidelidade\nC) presença\nD) alegria\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #misericordia #fidelidade #completeoversiculo"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-reflexao-1",
-    "title": "Águas Tranquilas",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
-    },
-    {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
-    },
-    {
-     "title": "Advogado Fiel",
-     "artist": "Bruna Karla"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [],
-    "duration": 25.45,
-    "base": "media/2026-10-17/2026-10-17-8-fill/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-17-7-quiz",
-   "date": "2026-10-17",
-   "slot": 7,
-   "time": "17:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-17T03:38:56+00:00",
-   "source": "bank",
-   "bank_id": "q396",
-   "model": null,
-   "content": {
-    "ref": "1 Reis 5:6",
-    "ref_label": "1 Reis 5:6",
-    "question": "De onde Salomão pediu a Hirão que cortassem cedros para o templo?",
-    "options": [
-     "Do Carmelo",
-     "De Basã",
-     "Do Líbano",
-     "De Gileade"
-    ],
-    "answer": 2,
-    "evidence": "cedros do Líbano",
-    "passage": "Agora, portanto, ordene que cortem para mim cedros do Líbano. Meus servos estarão com os seus servos; e eu lhe pagarei o salário dos seus servos de acordo com tudo o que você disser. Pois você sabe que não há ninguém entre nós que saiba cortar madeira como os sidônios.”",
+    "evidence": "foi sepultada no caminho para Efrata",
+    "passage": "Raquel morreu, e foi sepultada no caminho para Efrata (também chamada Belém).",
     "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Prepare-se para testar seu saber das Escrituras! 🎓 Qual região foi mencionada quando Salomão pediu a Hirão que cortasse cedros para o templo? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos crescer juntos na fé enquanto descobrimos mais sobre a história da construção do sagrado!\n\nDe onde Salomão pediu a Hirão que cortassem cedros para o templo?\nA) Do Carmelo\nB) De Basã\nC) Do Líbano\nD) De Gileade\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #teste #jesus #fe #gospel #perguntasbiblicas #cristao #palavradedeus #conhecimentobiblico #deus",
-    "facebook": "Prepare-se para testar seu saber das Escrituras! 🎓 Qual região foi mencionada quando Salomão pediu a Hirão que cortasse cedros para o templo? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos crescer juntos na fé enquanto descobrimos mais sobre a história da construção do sagrado!\n\nDe onde Salomão pediu a Hirão que cortassem cedros para o templo?\nA) Do Carmelo\nB) De Basã\nC) Do Líbano\nD) De Gileade\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus",
-    "tiktok": "Quiz bíblico: Onde Salomão pediu cedros a Hirão? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #gospel #fe #palavradedeus",
-    "kwai": "Quiz bíblico: Onde Salomão pediu cedros a Hirão? 🤔 Escolha e comente!\n#quizbiblico #desafiobiblico #teste #gospel #biblia",
+    "instagram": "Vamos testar sua memória das histórias sagradas? 🤔 Pergunta do dia: Onde Raquel foi sepultada? Escolha uma das opções e compartilhe sua resposta nos comentários. Aproveite para refletir sobre a importância dos lugares sagrados na jornada da fé. Estamos curiosos para ver quem acerta!\n\nOnde Raquel foi sepultada?\nA) Na caverna de Macpela\nB) No caminho para Efrata\nC) Junto ao poço de Harã\nD) No monte Moriá\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #desafio #teste #fe #biblia #evangelico #cristao #palavradedeus #gospel",
+    "facebook": "Vamos testar sua memória das histórias sagradas? 🤔 Pergunta do dia: Onde Raquel foi sepultada? Escolha uma das opções e compartilhe sua resposta nos comentários. Aproveite para refletir sobre a importância dos lugares sagrados na jornada da fé. Estamos curiosos para ver quem acerta!\n\nOnde Raquel foi sepultada?\nA) Na caverna de Macpela\nB) No caminho para Efrata\nC) Junto ao poço de Harã\nD) No monte Moriá\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #gospel",
+    "tiktok": "Quiz rápido: Onde Raquel foi sepultada? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #biblia",
+    "kwai": "Quiz rápido: Onde Raquel foi sepultada? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #evangelico #biblia #perguntasbiblicas",
+    "whatsapp": "Vamos testar sua memória das histórias sagradas? 🤔 Pergunta do dia: Onde Raquel foi sepultada? Escolha uma das opções e compartilhe sua resposta nos comentários. Aproveite para refletir sobre a importância dos lugares sagrados na jornada da fé. Estamos curiosos para ver quem acerta!\n\nOnde Raquel foi sepultada?\nA) Na caverna de Macpela\nB) No caminho para Efrata\nC) Junto ao poço de Harã\nD) No monte Moriá\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
     "youtube": {
-     "title": "Quiz Bíblico: De onde vieram os cedros de Salomão? #shorts",
-     "description": "Prepare-se para testar seu saber das Escrituras! 🎓 Qual região foi mencionada quando Salomão pediu a Hirão que cortasse cedros para o templo? Escolha entre as opções e compartilhe sua resposta nos comentários. Vamos crescer juntos na fé enquanto descobrimos mais sobre a história da construção do sagrado!\n\nDe onde Salomão pediu a Hirão que cortassem cedros para o templo?\nA) Do Carmelo\nB) De Basã\nC) Do Líbano\nD) De Gileade\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
+     "title": "Quiz Bíblico: Onde Raquel foi sepultada? #shorts",
+     "description": "Vamos testar sua memória das histórias sagradas? 🤔 Pergunta do dia: Onde Raquel foi sepultada? Escolha uma das opções e compartilhe sua resposta nos comentários. Aproveite para refletir sobre a importância dos lugares sagrados na jornada da fé. Estamos curiosos para ver quem acerta!\n\nOnde Raquel foi sepultada?\nA) Na caverna de Macpela\nB) No caminho para Efrata\nC) Junto ao poço de Harã\nD) No monte Moriá\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
     }
    },
    "caption_source": "groq",
+   "hook": "Legenda da IA",
    "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
    },
    "gospel_suggestions": [
-    {
-     "title": "Casa do Pai",
-     "artist": "Aline Barros"
-    },
     {
      "title": "Quão Grande És Tu (hino)",
      "artist": "Cantor Cristão / vários intérpretes"
@@ -544,6 +828,10 @@
     {
      "title": "Deus de Promessas",
      "artist": "Davi Sacer"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
     }
    ],
    "media": {
@@ -556,8 +844,9 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 23.18,
-    "base": "media/2026-10-17/2026-10-17-7-quiz/",
+    "duration": 23.38,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-4-quiz-v2/",
     "version": 1
    },
    "published": {
@@ -566,201 +855,61 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
    "log": [],
    "error": null
   },
   {
-   "id": "2026-10-17-6-truefalse",
+   "id": "2026-10-17-3-truefalse",
    "date": "2026-10-17",
-   "slot": 6,
-   "time": "15:00",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-17T10:08",
    "type": "truefalse",
    "status": "approved",
-   "created_at": "2026-10-17T03:37:25+00:00",
+   "created_at": "2026-10-17T06:01:26+00:00",
    "source": "bank",
-   "bank_id": "q322",
+   "bank_id": "q994",
    "model": null,
    "content": {
-    "ref": "Gênesis 42:3",
-    "ref_label": "Gênesis 42:3",
-    "question": "Quantos irmãos de José desceram ao Egito para comprar cereal?",
-    "shown": "Doze",
+    "ref": "Josué 7:26",
+    "ref_label": "Josué 7:26",
+    "question": "Que nome recebeu o lugar onde Acã foi apedrejado?",
+    "shown": "Vale de Hinom",
     "is_true": false,
-    "correct": "Dez",
-    "evidence": "dez dos irmãos de José",
-    "passage": "Então, dez dos irmãos de José desceram para comprar cereal do Egito.",
-    "difficulty": "medio"
+    "correct": "Vale de Acor",
+    "evidence": "O vale de Acor",
+    "passage": "Eles levantaram sobre ele um grande monte de pedras que permanece até o dia de hoje. O SENHOR se afastou do furor da sua ira. Por isso o nome daquele lugar foi chamado “O vale de Acor” até o dia de hoje.",
+    "difficulty": "dificil"
    },
    "captions": {
-    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos irmãos de José desceram ao Egito para comprar cereal?\nResposta: Doze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #palavradedeus #desafiobiblico #evangelico #perguntasbiblicas #cristao #gospel #jesus #deus",
-    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos irmãos de José desceram ao Egito para comprar cereal?\nResposta: Doze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #evangelico",
-    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #cristao #jesus #fe",
-    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #cristao #gospel #perguntasbiblicas",
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #evangelico #gospel #jesus #palavradedeus #deus #fe #perguntasbiblicas #desafiobiblico #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #fe",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #deus #evangelico #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta!\n#verdadeirooufalso #quizbiblico #cristao #desafiobiblico #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
     "youtube": {
-     "title": "Verdadeiro ou falso? Quantos irmãos de José desceram ao Egito para comprar cereal? #shorts",
-     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos irmãos de José desceram ao Egito para comprar cereal?\nResposta: Doze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe"
+     "title": "Verdadeiro ou falso? Que nome recebeu o lugar onde Acã foi apedrejado? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome recebeu o lugar onde Acã foi apedrejado?\nResposta: Vale de Hinom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "josué"
+     ]
     }
    },
    "caption_source": "template",
-   "music": {
-    "id": "gen-desafio-2",
-    "title": "Será Que Você Sabe?",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
-    },
-    {
-     "title": "Uma Nova História",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [],
-    "duration": 17.0,
-    "base": "media/2026-10-17/2026-10-17-6-truefalse/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-17-5-curiosity",
-   "date": "2026-10-17",
-   "slot": 5,
-   "time": "13:30",
-   "type": "curiosity",
-   "status": "approved",
-   "created_at": "2026-10-17T03:36:21+00:00",
-   "source": "bank",
-   "bank_id": "c015",
-   "model": null,
-   "content": {
-    "ref": "Josué 10:13",
-    "ref_label": "Josué 10:13",
-    "title": "O dia em que o sol parou",
-    "text": "Durante uma batalha de Josué, o sol parou no meio do céu e não se apressou a se pôr por quase um dia inteiro.",
-    "evidence": "O sol parou",
-    "passage": "O sol parou, e a lua se deteve, até que a nação se vingasse dos seus inimigos. Isso não está escrito no livro de Jasar? O sol se deteve no meio do céu, e não se apressou a se pôr por quase um dia inteiro.",
-    "tags": [
-     "josue",
-     "milagre"
-    ]
-   },
-   "captions": {
-    "instagram": "O dia em que o sol parou\n\nDurante uma batalha de Josué, o sol parou no meio do céu e não se apressou a se pôr por quase um dia inteiro. (Josué 10:13)\n\nEm Josué 10:13 lemos que, durante uma batalha, o sol parou no céu e ficou firme, como se o tempo fosse suspenso. Imagine a cena: o céu clareando enquanto a vitória se aproximava, mostrando o poder de Deus sobre a criação. Essa curiosidade nos lembra que, quando confiamos n'Ele, até o tempo pode se curvar ao nosso favor. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#josue #milagre #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #palavradedeus #evangelico #deus #gospel #cristao #jesus",
-    "facebook": "O dia em que o sol parou\n\nDurante uma batalha de Josué, o sol parou no meio do céu e não se apressou a se pôr por quase um dia inteiro. (Josué 10:13)\n\nEm Josué 10:13 lemos que, durante uma batalha, o sol parou no céu e ficou firme, como se o tempo fosse suspenso. Imagine a cena: o céu clareando enquanto a vitória se aproximava, mostrando o poder de Deus sobre a criação. Essa curiosidade nos lembra que, quando confiamos n'Ele, até o tempo pode se curvar ao nosso favor. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#josue #milagre #vocesabia #curiosidadesbiblicas",
-    "tiktok": "Josué conta que o sol parou no céu durante a batalha. Um sinal da soberania divina! ☀️\n#josue #milagre #vocesabia #curiosidadesbiblicas #deus",
-    "kwai": "Josué conta que o sol parou no céu durante a batalha. Um sinal da soberania divina! ☀️\n#josue #milagre #vocesabia #curiosidadesbiblicas #evangelico",
-    "youtube": {
-     "title": "O dia em que o sol parou: curiosidade bíblica #shorts",
-     "description": "O dia em que o sol parou\n\nDurante uma batalha de Josué, o sol parou no meio do céu e não se apressou a se pôr por quase um dia inteiro. (Josué 10:13)\n\nEm Josué 10:13 lemos que, durante uma batalha, o sol parou no céu e ficou firme, como se o tempo fosse suspenso. Imagine a cena: o céu clareando enquanto a vitória se aproximava, mostrando o poder de Deus sobre a criação. Essa curiosidade nos lembra que, quando confiamos n'Ele, até o tempo pode se curvar ao nosso favor. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #josue #milagre #vocesabia"
-    }
-   },
-   "caption_source": "groq",
-   "music": {
-    "id": "gen-alegria-1",
-    "title": "Manhã de Graça",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Galileu",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
-    },
-    {
-     "title": "Algo Novo",
-     "artist": "Kemuel e Lukas Agustinho"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "imagem_story.jpg",
-     "imagem_vertical.jpg",
-     "imagem_quadrada.jpg"
-    ],
-    "duration": 15.78,
-    "base": "media/2026-10-17/2026-10-17-5-curiosity/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [],
-   "error": null
-  },
-  {
-   "id": "2026-10-17-4-quiz",
-   "date": "2026-10-17",
-   "slot": 4,
-   "time": "12:00",
-   "type": "quiz",
-   "status": "approved",
-   "created_at": "2026-10-17T03:35:36+00:00",
-   "source": "bank",
-   "bank_id": "q017",
-   "model": null,
-   "content": {
-    "ref": "Mateus 26:75",
-    "ref_label": "Mateus 26:75",
-    "question": "Quantas vezes Pedro negou Jesus antes do galo cantar?",
-    "options": [
-     "Três",
-     "Uma",
-     "Duas",
-     "Sete"
-    ],
-    "answer": 0,
-    "evidence": "você me negará três vezes",
-    "passage": "Pedro lembrou-se da palavra que Jesus lhe havia dito: “Antes que o galo cante, você me negará três vezes.” Então ele saiu e chorou amargamente.",
-    "difficulty": "facil"
-   },
-   "captions": {
-    "instagram": "Vamos testar seu conhecimento bíblico com um quiz simples! 📖 Quantas vezes Pedro negou Jesus antes do galo cantar? Escolha uma das opções abaixo e veja se você acerta. Compartilhe sua resposta nos comentários e convide amigos para participar também. Boa reflexão!\n\nQuantas vezes Pedro negou Jesus antes do galo cantar?\nA) Três\nB) Uma\nC) Duas\nD) Sete\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #deus #jesus #evangelico #conhecimentobiblico #biblia #palavradedeus #fe #desafio #teste",
-    "facebook": "Vamos testar seu conhecimento bíblico com um quiz simples! 📖 Quantas vezes Pedro negou Jesus antes do galo cantar? Escolha uma das opções abaixo e veja se você acerta. Compartilhe sua resposta nos comentários e convide amigos para participar também. Boa reflexão!\n\nQuantas vezes Pedro negou Jesus antes do galo cantar?\nA) Três\nB) Uma\nC) Duas\nD) Sete\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste",
-    "tiktok": "Quiz: quantas vezes Pedro negou Jesus antes do galo cantar? 🤔\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #conhecimentobiblico",
-    "kwai": "Quiz: quantas vezes Pedro negou Jesus antes do galo cantar? 🤔\n#quizbiblico #desafiobiblico #fe #deus #biblia",
-    "youtube": {
-     "title": "Quiz Bíblico: Quantas negações de Pedro? #shorts",
-     "description": "Vamos testar seu conhecimento bíblico com um quiz simples! 📖 Quantas vezes Pedro negou Jesus antes do galo cantar? Escolha uma das opções abaixo e veja se você acerta. Compartilhe sua resposta nos comentários e convide amigos para participar também. Boa reflexão!\n\nQuantas vezes Pedro negou Jesus antes do galo cantar?\nA) Três\nB) Uma\nC) Duas\nD) Sete\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
-    }
-   },
-   "caption_source": "groq",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
    "music": {
     "id": "gen-desafio-1",
     "title": "Contagem",
@@ -770,105 +919,16 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Todavia Me Alegrarei",
-     "artist": "Samuel Messias"
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
     },
     {
      "title": "Ele Continua Sendo Bom",
      "artist": "Paulo César Baruk"
     },
     {
-     "title": "Ninguém Explica Deus",
-     "artist": "Preto no Branco"
-    }
-   ],
-   "media": {
-    "video_music": "video_com_musica.mp4",
-    "video_silent": "video_sem_musica.mp4",
-    "poster": "capa.jpg",
-    "images": [
-     "pergunta_quadrada.jpg",
-     "pergunta_vertical.jpg",
-     "resposta_quadrada.jpg",
-     "resposta_vertical.jpg"
-    ],
-    "duration": 20.98,
-    "base": "media/2026-10-17/2026-10-17-4-quiz/",
-    "version": 1
-   },
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
-   },
-   "log": [
-    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
-    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)"
-   ],
-   "error": null
-  },
-  {
-   "id": "2026-10-17-3-fill",
-   "date": "2026-10-17",
-   "slot": 3,
-   "time": "10:00",
-   "type": "fill",
-   "status": "approved",
-   "created_at": "2026-10-17T03:34:11+00:00",
-   "source": "bank",
-   "bank_id": "v148",
-   "model": null,
-   "content": {
-    "ref": "João 6:35",
-    "ref_label": "João 6:35",
-    "verse_text": "Jesus lhes disse: Eu sou o pão da vida. Aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede.",
-    "question": "Jesus lhes disse: Eu sou o pão da _____. Aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede.",
-    "options": [
-     "paz",
-     "fidelidade",
-     "graça",
-     "vida"
-    ],
-    "answer": 3,
-    "answer_word": "vida",
-    "tags": [
-     "jesus",
-     "eusou"
-    ]
-   },
-   "captions": {
-    "instagram": "Qual palavra falta nesse versículo? 📖\n\n“Jesus lhes disse: Eu sou o pão da _____. Aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede.”\n\nA) paz\nB) fidelidade\nC) graça\nD) vida\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #eusou #completeoversiculo #versiculo #deus #desafiobiblico #evangelico #quizbiblico #fe #gospel #cristao #biblia",
-    "facebook": "Qual palavra falta nesse versículo? 📖\n\n“Jesus lhes disse: Eu sou o pão da _____. Aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede.”\n\nA) paz\nB) fidelidade\nC) graça\nD) vida\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #eusou #completeoversiculo #versiculo",
-    "tiktok": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#jesus #eusou #completeoversiculo #versiculo #biblia",
-    "kwai": "Qual palavra falta nesse versículo? 📖\nComente a palavra que falta antes de ver a resposta!\n#jesus #eusou #completeoversiculo #versiculo #cristao",
-    "youtube": {
-     "title": "Qual palavra falta nesse versículo? (João 6:35) #shorts",
-     "description": "Qual palavra falta nesse versículo? 📖\n\n“Jesus lhes disse: Eu sou o pão da _____. Aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede.”\n\nA) paz\nB) fidelidade\nC) graça\nD) vida\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #eusou #completeoversiculo"
-    }
-   },
-   "caption_source": "template",
-   "music": {
-    "id": "gen-reflexao-1",
-    "title": "Águas Tranquilas",
-    "source": "Composição original gerada por scripts/make_music.py",
-    "license": "Própria (domínio público / CC0)",
-    "url": ""
-   },
-   "gospel_suggestions": [
-    {
-     "title": "Oh Quão Lindo Esse Nome É",
-     "artist": "Ana Nóbrega"
-    },
-    {
-     "title": "Galileu",
-     "artist": "Fernandinho"
-    },
-    {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
     }
    ],
    "media": {
@@ -876,8 +936,9 @@
     "video_silent": "video_sem_musica.mp4",
     "poster": "capa.jpg",
     "images": [],
-    "duration": 25.45,
-    "base": "media/2026-10-17/2026-10-17-3-fill/",
+    "duration": 17.0,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-3-truefalse/",
     "version": 1
    },
    "published": {
@@ -886,48 +947,66 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
    "log": [],
    "error": null
   },
   {
-   "id": "2026-10-17-2-quiz",
+   "id": "2026-10-17-2-quiz-v2",
    "date": "2026-10-17",
    "slot": 2,
    "time": "08:00",
+   "publish_at": "2026-10-17T08:06",
    "type": "quiz",
    "status": "approved",
-   "created_at": "2026-10-17T03:32:34+00:00",
+   "created_at": "2026-10-17T06:00:51+00:00",
    "source": "bank",
-   "bank_id": "q429",
+   "bank_id": "q1069",
    "model": null,
    "content": {
-    "ref": "Ester 8:15",
-    "ref_label": "Ester 8:15",
-    "question": "Que cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?",
+    "ref": "Jonas 3:3",
+    "ref_label": "Jonas 3:3",
+    "question": "Nínive era uma cidade de quantos dias de caminhada?",
     "options": [
-     "Azul e branco",
-     "Vermelho e dourado",
-     "Verde e prata",
-     "Preto e cinza"
+     "Sete dias",
+     "Três dias",
+     "Dez dias",
+     "Cinco dias"
     ],
-    "answer": 0,
-    "evidence": "vestes reais de azul e branco",
-    "passage": "Mardoqueu saiu da presença do rei com vestes reais de azul e branco, com uma grande coroa de ouro, e com um manto de linho fino e púrpura; e a cidade de Susã deu gritos de alegria e se alegrou.",
-    "difficulty": "dificil"
+    "answer": 1,
+    "evidence": "de três dias de caminhada",
+    "passage": "Então Jonas se levantou e foi a Nínive, de acordo com a palavra do SENHOR. Ora, Nínive era uma cidade extremamente grande, de três dias de caminhada.",
+    "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Vamos testar seu conhecimento bíblico! 🎯 Quando Mardoqueu saiu da presença do rei, ele usava vestes reais de cores específicas. Qual será a combinação correta? Escolha entre as opções e compartilhe sua resposta nos comentários. Boa sorte!\n\nQue cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?\nA) Azul e branco\nB) Vermelho e dourado\nC) Verde e prata\nD) Preto e cinza\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #desafio #cristao #evangelico #conhecimentobiblico #fe #jesus #biblia #teste #perguntasbiblicas",
-    "facebook": "Vamos testar seu conhecimento bíblico! 🎯 Quando Mardoqueu saiu da presença do rei, ele usava vestes reais de cores específicas. Qual será a combinação correta? Escolha entre as opções e compartilhe sua resposta nos comentários. Boa sorte!\n\nQue cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?\nA) Azul e branco\nB) Vermelho e dourado\nC) Verde e prata\nD) Preto e cinza\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico",
-    "tiktok": "Qual a cor das vestes de Mardoqueu? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #evangelico",
-    "kwai": "Qual a cor das vestes de Mardoqueu? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #teste #fe #gospel",
+    "instagram": "Vamos testar seu conhecimento bíblico! 📖 Quantos dias de jornada levaria para chegar à antiga Nínive? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos ver quem acerta! 🌟\n\nNínive era uma cidade de quantos dias de caminhada?\nA) Sete dias\nB) Três dias\nC) Dez dias\nD) Cinco dias\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe #jesus #palavradedeus #cristao #deus #gospel #conhecimentobiblico #teste #evangelico",
+    "facebook": "Vamos testar seu conhecimento bíblico! 📖 Quantos dias de jornada levaria para chegar à antiga Nínive? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos ver quem acerta! 🌟\n\nNínive era uma cidade de quantos dias de caminhada?\nA) Sete dias\nB) Três dias\nC) Dez dias\nD) Cinco dias\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Quantos dias de caminhada até Nínive? Responda nos comentários!\n#quizbiblico #desafiobiblico #cristao #desafio #conhecimentobiblico",
+    "kwai": "Quantos dias de caminhada até Nínive? Responda nos comentários!\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #desafio",
+    "whatsapp": "Vamos testar seu conhecimento bíblico! 📖 Quantos dias de jornada levaria para chegar à antiga Nínive? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos ver quem acerta! 🌟\n\nNínive era uma cidade de quantos dias de caminhada?\nA) Sete dias\nB) Três dias\nC) Dez dias\nD) Cinco dias\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
     "youtube": {
-     "title": "Quiz Bíblico: As cores das vestes de Mardoqueu #shorts",
-     "description": "Vamos testar seu conhecimento bíblico! 🎯 Quando Mardoqueu saiu da presença do rei, ele usava vestes reais de cores específicas. Qual será a combinação correta? Escolha entre as opções e compartilhe sua resposta nos comentários. Boa sorte!\n\nQue cores tinham as vestes reais com que Mardoqueu saiu da presença do rei?\nA) Azul e branco\nB) Vermelho e dourado\nC) Verde e prata\nD) Preto e cinza\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus"
+     "title": "Quiz Bíblico: Nínive era uma cidade de quantos dias de caminhada? #shorts",
+     "description": "Vamos testar seu conhecimento bíblico! 📖 Quantos dias de jornada levaria para chegar à antiga Nínive? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos ver quem acerta! 🌟\n\nNínive era uma cidade de quantos dias de caminhada?\nA) Sete dias\nB) Três dias\nC) Dez dias\nD) Cinco dias\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jonas"
+     ]
     }
    },
    "caption_source": "groq",
+   "hook": "Legenda da IA",
    "music": {
     "id": "gen-desafio-2",
     "title": "Será Que Você Sabe?",
@@ -937,16 +1016,16 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Grandes Coisas",
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Uma Nova História",
      "artist": "Fernandinho"
     },
     {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
-    },
-    {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
     }
    ],
    "media": {
@@ -959,8 +1038,9 @@
      "resposta_quadrada.jpg",
      "resposta_vertical.jpg"
     ],
-    "duration": 25.25,
-    "base": "media/2026-10-17/2026-10-17-2-quiz/",
+    "duration": 22.25,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-17/2026-10-17-2-quiz-v2/",
     "version": 1
    },
    "published": {
@@ -969,49 +1049,70 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
-   "log": [
-    "quiz: Groq tentativa 1 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)",
-    "quiz: Groq tentativa 2 descartada: evidência não encontrada em João 3:16: 'amor'"
-   ],
+   "log": [],
    "error": null
   },
   {
-   "id": "2026-10-17-1-verse",
+   "id": "2026-10-17-1-verse-v2",
    "date": "2026-10-17",
    "slot": 1,
    "time": "06:30",
+   "publish_at": "2026-10-17T06:27",
    "type": "verse",
    "status": "approved",
-   "created_at": "2026-10-17T03:30:52+00:00",
+   "created_at": "2026-10-17T06:00:00+00:00",
    "source": "bank",
-   "bank_id": "v143",
+   "bank_id": "v508",
    "model": null,
    "content": {
-    "ref": "Mateus 6:34",
-    "ref_label": "Mateus 6:34",
-    "verse_text": "Portanto, não andem ansiosos com o dia de amanhã, pois o amanhã terá suas próprias preocupações. Cada dia já tem os seus próprios males.",
-    "on_screen": "Viva um dia de cada vez.",
-    "reflection": "Jesus nos ensina a não carregar hoje o peso de amanhã. A graça de Deus vem na medida de cada dia.",
-    "theme": "ansiedade",
+    "ref": "Isaías 26:12",
+    "ref_label": "Isaías 26:12",
+    "verse_text": "SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.",
+    "on_screen": "Deus é quem estabelece a paz na sua vida.",
+    "reflection": "Isaías reconhece que tudo o que o povo conquistou foi obra de Deus. Entregue seus planos ao Senhor e confie que Ele traz a paz que você não consegue produzir.",
+    "theme": "paz",
     "mood": "reflexao",
     "tags": [
-     "ansiedade",
+     "paz",
      "confianca"
-    ]
+    ],
+    "application": "Reserve alguns minutos agora para entregar suas preocupações a Deus em oração, pedindo que Ele guie seus passos e conceda a paz que só Ele pode dar."
    },
    "captions": {
-    "instagram": "“Portanto, não andem ansiosos com o dia de amanhã, pois o amanhã terá suas próprias preocupações. Cada dia já tem os seus próprios males.” (Mateus 6:34)\n\nJesus nos lembra que cada dia traz suas próprias necessidades. Ao confiar na graça de Deus, podemos descansar nas promessas de hoje e deixar o futuro nas mãos do Senhor. Respire, entregue suas preocupações e aproveite o presente com paz e gratidão. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ansiedade #confianca #versiculododia #versiculo #esperanca #gospel #cristao #biblia #oracao #palavradedeus #reflexao #devocional",
-    "facebook": "“Portanto, não andem ansiosos com o dia de amanhã, pois o amanhã terá suas próprias preocupações. Cada dia já tem os seus próprios males.” (Mateus 6:34)\n\nJesus nos lembra que cada dia traz suas próprias necessidades. Ao confiar na graça de Deus, podemos descansar nas promessas de hoje e deixar o futuro nas mãos do Senhor. Respire, entregue suas preocupações e aproveite o presente com paz e gratidão. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ansiedade #confianca #versiculododia #versiculo",
-    "tiktok": "Deixe o amanhã nas mãos de Deus e viva o hoje com paz. 🙏\n#ansiedade #confianca #versiculododia #versiculo #evangelico",
-    "kwai": "Deixe o amanhã nas mãos de Deus e viva o hoje com paz. 🙏\n#ansiedade #confianca #versiculododia #versiculo #reflexao",
+    "instagram": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\n➡️ Arraste para o lado: tem uma aplicação prática para hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #confianca #versiculododia #versiculo #gospel #cristao #devocional #biblia #palavradedeus #evangelico #esperanca",
+    "facebook": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #confianca #versiculododia",
+    "tiktok": "Versículo de paz\nConfie no Senhor e descubra a paz que Ele tem para você. 🙏\n#versiculodepaz #paz #confianca #versiculododia #versiculo",
+    "kwai": "Versículo de paz\nConfie no Senhor e descubra a paz que Ele tem para você. 🙏\n#versiculodepaz #paz #confianca #versiculododia #versiculo",
+    "whatsapp": "“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
     "youtube": {
-     "title": "Como viver o presente sem ansiedade #shorts",
-     "description": "“Portanto, não andem ansiosos com o dia de amanhã, pois o amanhã terá suas próprias preocupações. Cada dia já tem os seus próprios males.” (Mateus 6:34)\n\nJesus nos lembra que cada dia traz suas próprias necessidades. Ao confiar na graça de Deus, podemos descansar nas promessas de hoje e deixar o futuro nas mãos do Senhor. Respire, entregue suas preocupações e aproveite o presente com paz e gratidão. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ansiedade #confianca #versiculododia"
+     "title": "Versículo de paz: Isaías 26:12 🙏 #shorts",
+     "description": "Versículo de paz: Isaías 26:12\n“SENHOR, você estabelecerá a paz para nós, pois você também realizou todas as nossas obras por nós.” (Isaías 26:12)\n\nIsaías nos lembra que toda conquista vem da mão de Deus. Quando entregamos nossos projetos a Ele, encontramos uma paz que vai além do que podemos alcançar por nós mesmos. Confie no Senhor, deixe que Ele guie seus passos e experimente a tranquilidade que nasce da fé. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodepaz #paz #confianca",
+     "tags": [
+      "versículo de paz",
+      "versículos de paz",
+      "paz",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "confianca",
+      "isaías"
+     ]
     }
    },
    "caption_source": "groq",
+   "hook": "Legenda da IA",
    "music": null,
    "gospel_suggestions": [
     {
@@ -1032,10 +1133,20 @@
     "images": [
      "imagem_story.jpg",
      "imagem_vertical.jpg",
-     "imagem_quadrada.jpg"
+     "imagem_quadrada.jpg",
+     "carrossel_1.jpg",
+     "carrossel_2.jpg",
+     "carrossel_3.jpg",
+     "carrossel_4.jpg"
     ],
     "duration": 0,
-    "base": "media/2026-10-17/2026-10-17-1-verse/",
+    "carousel": [
+     "carrossel_1.jpg",
+     "carrossel_2.jpg",
+     "carrossel_3.jpg",
+     "carrossel_4.jpg"
+    ],
+    "base": "media/2026-10-17/2026-10-17-1-verse-v2/",
     "version": 1
    },
    "published": {
@@ -1044,7 +1155,8 @@
     "youtube": null,
     "instagram": null,
     "facebook": null,
-    "stories": null
+    "stories": null,
+    "whatsapp": null
    },
    "log": [],
    "error": null
