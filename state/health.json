@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-17T09:32:07+00:00",
+ "updated_at": "2026-10-17T11:12:20+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-17-2-quiz-v2",
+   "date": "2026-10-17",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-17T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-17T11:10:26+00:00",
+    "instagram": null,
+    "facebook": "2026-10-17T11:10:31+00:00",
+    "stories": "2026-10-17T11:11:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/oYmUvj9D7f8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1117093877391403",
+    "stories": "story 18091594436229680"
+   },
+   "title": "Nínive era uma cidade de quantos dias de caminhada?"
+  },
   {
    "id": "2026-10-17-1-verse-v2",
    "date": "2026-10-17",
