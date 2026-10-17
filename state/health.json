@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T12:57:08+00:00",
+ "updated_at": "2026-10-17T13:12:38+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-17-3-truefalse",
+   "date": "2026-10-17",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-17T10:08",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-17T13:10:31+00:00",
+    "stories": "2026-10-17T13:11:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4119577088342876",
+    "stories": "story 17934157332145314"
+   },
+   "title": "Que nome recebeu o lugar onde Acã foi apedrejado?"
+  },
   {
    "id": "2026-10-17-2-quiz-v2",
    "date": "2026-10-17",
