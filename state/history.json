@@ -701,6 +701,106 @@
    "error": null
   },
   {
+   "id": "2026-10-17-8-quiz",
+   "date": "2026-10-17",
+   "slot": 8,
+   "time": "20:00",
+   "publish_at": "2026-10-17T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-17T06:05:20+00:00",
+   "source": "bank",
+   "bank_id": "q915",
+   "model": null,
+   "content": {
+    "ref": "Hebreus 13:2",
+    "ref_label": "Hebreus 13:2",
+    "question": "Mostrando hospitalidade, quem alguns hospedaram sem saber?",
+    "options": [
+     "Reis",
+     "Profetas",
+     "Anjos",
+     "Apóstolos"
+    ],
+    "answer": 2,
+    "evidence": "alguns hospedaram anjos sem o saber",
+    "passage": "Não se esqueçam de mostrar hospitalidade aos estranhos, pois, ao fazerem isso, alguns hospedaram anjos sem o saber.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus #desafio #jesus #teste #perguntasbiblicas #biblia #gospel #conhecimentobiblico #fe",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #palavradedeus #cristao #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #desafio #biblia #teste",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Mostrando hospitalidade, quem alguns hospedaram sem saber? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nMostrando hospitalidade, quem alguns hospedaram sem saber?\n\nA) Reis\nB) Profetas\nC) Anjos\nD) Apóstolos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "hebreus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-17T23:01:34+00:00",
+    "facebook": "2026-10-17T23:01:39+00:00",
+    "stories": "2026-10-17T23:02:14+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DenPWMRilIv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2537140247092634",
+    "stories": "story 18108678242192052"
+   }
+  },
+  {
    "id": "2026-10-17-7-quiz",
    "date": "2026-10-17",
    "slot": 7,
