@@ -17,7 +17,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 ## O que o sistema faz todo dia
 
-1. Às **05:20 (Brasília)**, o agendador (Cloudflare Worker) dispara o GitHub Actions, que gera os posts do dia (**9 posts**: 1 Versículo do dia, 4 quizzes, 3 "Verdadeiro ou falso" e 1 "Complete o versículo"; até 12, configurável no painel). A grade fica **congelada** para os testes terem dados suficientes: o repost de domingo e a grade adaptativa estão desligados.
+1. Às **05:20 (Brasília)**, o agendador (Cloudflare Worker) dispara o GitHub Actions, que gera os posts do dia (**10 posts**: 1 Versículo do dia, 4 quizzes, 3 "Verdadeiro ou falso", 1 "Complete o versículo" e 1 "Você sabia?", que sai só no Facebook). A grade está **congelada até 31/10/2026** (`schedule.frozen_until`) para os testes terem dados suficientes: o painel não muda horários, e o repost de domingo e a grade adaptativa estão desligados. O que vai para cada rede: [docs/PUBLICACAO.md](docs/PUBLICACAO.md#o-que-vai-para-cada-rede).
 2. Escolhe o conteúdo:
    - **banco próprio** (607 versículos com reflexão, 1.248 perguntas de quiz e 267 curiosidades: o versículo do dia rende mais de um ano; os 6 vídeos de pergunta por dia, cerca de 6 meses só com o banco e mais com o conteúdo novo da IA; veja `python -m app.saturation`);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
@@ -38,8 +38,8 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 ### Medir → ajustar (sozinho)
 
 - **Alerta de automação parada / token vencendo** (`app/health.py`, de hora em hora): se nada for publicado há 12h, se um post aprovado atrasar mais de 2h, se os posts do dia não forem gerados até as 08:00 ou se o token da Meta, do YouTube ou do TikTok estiver vencido ou para vencer em até 7 dias, abre uma **issue no GitHub** (chega no seu e-mail). Ela fecha sozinha quando tudo volta ao normal. Limites em `alerts` no `config/settings.json`.
-- **Teste A/B de ganchos**: cada post registra qual frase abriu a legenda (`hook`; legenda escrita pela IA conta como "Legenda da IA"). O resumo semanal compara o alcance médio de cada gancho por formato.
-- **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar.
+- **Teste A/B de ganchos**: cada post registra qual frase abriu a legenda (`hook`; legenda escrita pela IA conta como "Legenda da IA"). O resumo semanal compara o tempo assistido médio de cada gancho por formato (só conclui com 10+ posts por gancho).
+- **Resumo semanal com recomendação** (segunda-feira): além dos números, diz "corte X, aumente Y", qual gancho aposentar e qual horário mudar. O indicador principal é o **tempo assistido** (visualizações × tempo médio assistido, somando Facebook, Instagram e YouTube), não curtidas.
 - **Grade adaptativa** (`app/adapt.py`): se um formato passa 2 semanas com alcance zero, 1 horário dele vai para o formato que mais alcança. O total de posts não muda, o Versículo continua no primeiro horário e há no máximo 1 ajuste a cada 14 dias. Desligue com `"adapt": {"enabled": false}`.
 - **Carrossel de versículo no Instagram**: o Versículo do dia sai como carrossel 4:5 de 4 slides (versículo → reflexão → aplicação prática → chamada para salvar, enviar e seguir). A aplicação é escrita pela IA (validada) ou vem de frases prontas, e dá para editar no painel. Desligue com `publishing.verse_carousel: false`.
 

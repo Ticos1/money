@@ -363,6 +363,8 @@ function pendingNets(post) {
     .filter((k) => post.type !== "compilation" || k === "youtube")
     .filter((k) => !Array.isArray(STATE.settings?.publishing?.[`${k}_types`])
       || STATE.settings.publishing[`${k}_types`].includes(post.type))
+    .filter((k) => post.type === "compilation" || !Array.isArray(STATE.settings?.publishing?.[`${k}_times`])
+      || STATE.settings.publishing[`${k}_times`].includes(post.time))
     .filter((k) => k !== "tiktok" || post.media?.video_silent);
   return on.filter((k) => !post.published?.[k] && !post.publish_skipped?.[k] && (k !== "youtube" || post.media?.video_music)
     && (k !== "stories" || post.media?.video_music || post.media?.images?.includes("imagem_story.jpg")));

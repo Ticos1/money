@@ -17,6 +17,8 @@ function applies(net, post, pub = {}) {
   const only = pub[`${net}_types`]; // ex.: youtube_types, facebook_types
   if (Array.isArray(only) && !only.includes(post.type)) return false;
   if (post.type === "compilation") return net === "youtube" && Boolean(post.media?.video_music);
+  const times = pub[`${net}_times`]; // ex.: instagram_times: só nesses horários da grade
+  if (Array.isArray(times) && !times.includes(post.time)) return false;
   if (net === "youtube") return Boolean(post.media?.video_music);
   if (net === "tiktok") return Boolean(post.media?.video_silent);
   if (net === "stories") return Boolean(post.media?.video_music || post.media?.images?.includes("imagem_story.jpg"));

@@ -4,6 +4,12 @@ const TIME = /^([01]\d|2[0-3]):[0-5]\d$/;
 const TYPES = ["verse", "quiz", "curiosity", "fill", "truefalse", "book"];
 const MODEL = /^[\w./:-]{3,80}$/;
 
+class Frozen extends Error {}
+
+function today(tz) {
+  return new Intl.DateTimeFormat("en-CA", { timeZone: tz || "America/Sao_Paulo" }).format(new Date());
+}
+
 // Salva as configurações editáveis pelo painel em config/settings.json.
 export async function onRequestPut({ request, env }) {
   let body;
@@ -37,7 +43,13 @@ export async function onRequestPut({ request, env }) {
         s.brand = { ...(s.brand || {}), name: String(body.name || s.brand?.name || "").slice(0, 40) };
         s.brand.handle = handle ? (handle.startsWith("@") ? handle : `@${handle}`) : "";
         s.brand.whatsapp_channel = channel;
-        s.schedule = { slots: slots.map((x) => ({ time: x.time, type: x.type })) };
+        const wanted = slots.map((x) => ({ time: x.time, type: x.type }));
+        const frozen = s.schedule?.frozen_until;
+        // grade congelada (schedule.frozen_until): os horários só mudam depois dessa data
+        if (frozen && frozen >= today(s.timezone) && JSON.stringify(wanted) !== JSON.stringify(s.schedule.slots || [])) {
+          throw new Frozen(`A grade está congelada até ${frozen.split("-").reverse().join("/")} para os testes terem dados. Mude os horários depois dessa data.`);
+        }
+        s.schedule = { ...(s.schedule || {}), slots: wanted };
         s.approval = { ...(s.approval || {}), auto_approve: Boolean(body.auto_approve) };
         if (body.publishing && typeof body.publishing === "object") {
           s.publishing = { ...(s.publishing || {}) };
@@ -64,6 +76,6 @@ export async function onRequestPut({ request, env }) {
     );
     return json({ ok: true, settings: saved });
   } catch (err) {
-    return json({ error: err.message }, 500);
+    return json({ error: err.message }, err instanceof Frozen ? 409 : 500);
   }
 }
