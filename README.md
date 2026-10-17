@@ -74,7 +74,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
                 └──────┬────────────┬──────────┘
                        │            │
         state/*.json   │            │  vídeos e imagens
-        (fila, histórico)           │  (branch "media", só últimos 30 dias)
+        (fila, histórico)           │  (branch "media", imagens de 30 dias)
                        ▼            ▼
                 ┌──────────────────────────────┐
                 │ Cloudflare Pages (grátis)    │  https://SEU-PROJETO.pages.dev
@@ -88,7 +88,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 | **GitHub Actions** | Agenda diária e "computador" para montar vídeos com FFmpeg, de graça. |
 | **Python + Pillow + FFmpeg** | Desenho das artes e montagem de vídeo, tudo livre e sem serviço pago. |
 | **Arquivos JSON no repositório** | Banco de dados simples, gratuito, com histórico de tudo e fácil de editar. |
-| **Branch `media` sem histórico** | Guarda só os últimos 30 dias de vídeos, para o repositório não inchar. |
+| **Branch `media` sem histórico** | Guarda as imagens dos últimos 30 dias (`media_retention_days`), para o Histórico e as páginas do mini-site; os vídeos saem assim que o post deixa a fila, para o repositório não inchar. |
 | **Cloudflare Pages + Functions** | Hospeda o painel e as mídias de graça, com uso comercial permitido (ao contrário do plano grátis da Vercel). |
 | **Login com senha própria** | Só você entra. Funciona sem cartão. O Cloudflare Access é uma camada extra opcional. |
 | **Groq (opcional)** | IA grátis para variar legendas e criar conteúdo novo, sempre validado. |
@@ -127,6 +127,9 @@ uma vez só: criar as contas grátis, colar as chaves e rodar a primeira geraç�
 
 ## Uso diário (5 minutos)
 
+0. O painel abre na aba **Hoje**: problemas encontrados pela verificação (`app/health.py`), os posts do dia em linha do tempo (✅ publicado, ⏳ aguardando, ❌ erro, ⏭ pulado; toque para abrir o card), envios ao YouTube, chamadas da Groq e dias de banco por formato. A aba **Agenda** mostra os próximos 7 dias (datas especiais, vídeo longo, repost). Enquanto o GitHub Actions roda, o painel se atualiza sozinho.
+   - **⏸ Pausar publicações** (no topo): para dias de luto, tragédia ou viagem. Nada é publicado até retomar; ao retomar, os posts que perderam o horário são pulados (ou publicados, se você escolher).
+   - Gerar fora do horário: **Configurações → Gerar só o que falta** (não apaga nada) ou **Refazer o dia do zero** (apaga a fila; pede para digitar REFAZER).
 1. Abra o painel no celular → aba **Fila**.
 2. Veja o vídeo, toque em **Aprovar** (ou **Editar**).
 3. **Baixe**:

@@ -79,15 +79,34 @@ class ContentTests(unittest.TestCase):
     def test_groq_quiz_accepted_when_valid(self):
         groq = FakeGroq([{"question": "Em que rio Jesus foi batizado por João?",
                           "options": ["Jordão", "Nilo", "Tigre", "Eufrates"], "answer": 0,
-                          "ref": "Mateus 3:13", "difficulty": "facil"}])
-        item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
+                          "verse": "13", "difficulty": "facil"}])
+        with mock.patch.object(content, "chapter_pool", return_value=[("MAT", 3)]):
+            item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
         self.assertEqual(item["source"], "groq")
+        self.assertEqual(item["ref_label"], "Mateus 3:13")
+
+    def test_groq_quiz_prompt_carries_unused_chapter_text(self):
+        prompts = []
+        groq = FakeGroq([{"question": "Em que rio Jesus foi batizado por João?",
+                          "options": ["Jordão", "Nilo", "Tigre", "Eufrates"], "answer": 0, "verse": 13}])
+        orig = groq.chat_json
+        groq.chat_json = lambda system, user, **k: (prompts.append(user), orig(system, user))[1]
+        with mock.patch.object(content, "chapter_pool", return_value=[("MAT", 3)]):
+            content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), [])
+        self.assertIn("Mateus 3", prompts[0])
+        self.assertIn("Jordão", prompts[0])  # o texto do capítulo vai no prompt
+
+    def test_chapter_pool_skips_used_and_long_chapters(self):
+        pool = content.chapter_pool({("MAT", 3)})
+        self.assertNotIn(("MAT", 3), pool)
+        self.assertNotIn(("PSA", 119), pool)  # grande demais para o prompt
+        self.assertIn(("MAT", 4), pool)
 
     def test_groq_quiz_with_wrong_reference_falls_back_to_bank(self):
         groq = FakeGroq([
             {"question": "Quem matou Golias?", "options": ["Davi", "Saul", "Jônatas", "Samuel"],
-             "answer": 0, "ref": "Gênesis 1:1"},          # resposta não está no versículo
-            {"question": "X?", "options": ["a", "b", "c", "d"], "answer": 0, "ref": "Livro 99:1"},
+             "answer": 0, "verse": "1"},                  # resposta não está no versículo
+            {"question": "X?", "options": ["a", "b", "c", "d"], "answer": 0, "verse": "999"},
         ])
         log = []
         item, _ = content.pick("quiz", TODAY, {}, groq, SETTINGS, random.Random(1), log)
@@ -114,12 +133,15 @@ class ContentTests(unittest.TestCase):
 
 class CuriosityTests(unittest.TestCase):
     def test_groq_curiosity_needs_keyword_in_verse(self):
-        good = {"title": "Gigante de Gate", "text": "Golias era de Gate.", "ref": "1 Samuel 17:4",
+        good = {"title": "Gigante de Gate", "text": "Golias era de Gate.", "verse": "4",
                 "keyword": "Golias", "tags": ["golias"]}
         bad = {**good, "keyword": "Sansão"}
-        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([good]), SETTINGS, random.Random(1), [])
-        self.assertEqual(item["source"], "groq")
-        item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([bad, bad]), SETTINGS, random.Random(1), [])
+        with mock.patch.object(content, "chapter_pool", side_effect=lambda _: [("1SA", 17), ("1SA", 17)]):
+            item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([good]), SETTINGS, random.Random(1), [])
+            self.assertEqual(item["source"], "groq")
+            self.assertEqual(item["ref_label"], "1 Samuel 17:4")
+            item, _ = content.pick("curiosity", TODAY, {}, FakeGroq([bad, bad]), SETTINGS,
+                                   random.Random(1), [])
         self.assertEqual(item["source"], "bank")
 
     def test_curiosity_caption_has_text_and_reference(self):
@@ -134,15 +156,23 @@ class CaptionTests(unittest.TestCase):
     def _quiz(self):
         return validate.validate("quiz", validate.load_bank("quiz")[0])
 
-    def test_groq_caption_revealing_answer_is_rejected(self):
+    def test_quiz_caption_never_uses_groq(self):
         item = self._quiz()
         answer = item["options"][item["answer"]]
         groq = FakeGroq([{"hook": "Desafio!", "long": f"A resposta é {answer} dias", "short": "Responda!",
                           "youtube_title": "Quiz"}])
-        log = []
-        caps, source = captions.build("quiz", item, SETTINGS, groq, random.Random(1), log)
+        caps, source = captions.build("quiz", item, SETTINGS, groq, random.Random(1), [])
         self.assertEqual(source, "template")
+        self.assertEqual(groq.calls, 0)  # nem gasta chamada do dia
         self.assertNotIn(f"A resposta é {answer}", caps["instagram"])
+
+    def test_groq_caption_without_youtube_title_is_kept(self):
+        item = validate.validate("verse", validate.load_bank("verse")[0])
+        groq = FakeGroq([{"hook": "Uma palavra para hoje", "long": "Deus cuida de você.",
+                          "short": "Deus cuida de você."}])
+        caps, source = captions.build("verse", item, SETTINGS, groq, random.Random(1), [])
+        self.assertEqual(source, "groq")
+        self.assertIn("Deus cuida de você.", caps["instagram"])
 
     def test_template_caption_has_hashtags_and_attribution(self):
         item = validate.validate("verse", validate.load_bank("verse")[0])
@@ -306,6 +336,17 @@ class PublishTests(unittest.TestCase):
             self.assertFalse(any(p.get("publish_errors") for p in skipped))
             # na rodada seguinte ninguém tenta o YouTube de novo
             self.assertEqual(publish.run(Path(tmp))["publish_results"], {})
+
+    def test_paused_publishes_nothing(self):
+        from app import publish
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(publish, "build_publishers") as build, \
+                mock.patch.object(publish.config, "load_settings", return_value={
+                    "timezone": "America/Sao_Paulo", "publishing": {"instagram": True, "paused": True}}):
+            state.save_queue([{**self.POST, "date": "2026-01-01"}])
+            patch = publish.run(Path(tmp), self.POST["id"], None, True)  # nem o "Publicar agora"
+            self.assertEqual(patch["publish_results"], {})
+            build.assert_not_called()
 
     def test_publish_now_single_platform_ignores_schedule(self):
         from app import publish
@@ -1060,6 +1101,51 @@ class HealthTests(unittest.TestCase):
         self.assertTrue(health.text([("parada", "x")], self._now("10:00")).startswith(f"<!-- {sig} -->"))
 
 
+    def test_paused_publishing_is_not_an_alert(self):
+        from app import health
+        settings = {"publishing": {"instagram": True, "paused": True}}
+        late = {"id": "p1", "date": "2026-10-09", "time": "07:00", "status": "approved", "media": {"base": "m/"},
+                "published": {}}
+        old = {**late, "id": "p0", "date": "2026-10-08", "published": {"instagram": "2026-10-08T12:00:00+00:00"}}
+        self.assertEqual(health.check_posts([late, old], [], settings, self._now("10:00")), [])
+
+    def test_snapshot_for_dashboard_and_install_only_on_change(self):
+        from app import health
+        now = self._now("10:00")
+        settings = {"publishing": {"youtube": True, "youtube_max_per_day": 5}, "groq": {"max_calls_per_day": 20}}
+        done = {"id": "d1", "date": "2026-10-09", "time": "08:00", "type": "quiz", "status": "approved",
+                "content": {"question": "Quem?"}, "captions": {"instagram": "longa"},
+                "published": {"youtube": "2026-10-09T11:00:00+00:00"}}
+        cleared = {**done, "id": "d2", "published": {}}  # "Refazer o dia" arquivou sem publicar
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)):
+            state.save_groq_usage({"date": "2026-10-09", "calls": 7})
+            snap = health.snapshot(settings, now, [("parada", "x")], queue=[], history=[done, cleared], bank=[])
+            self.assertEqual(snap["youtube"], {"used": 1, "max": 5})
+            self.assertEqual(snap["groq"]["used"], 7)
+            self.assertEqual([p["id"] for p in snap["today_done"]], ["d1"])
+            self.assertEqual(snap["today_done"][0]["title"], "Quem?")
+            self.assertNotIn("captions", snap["today_done"][0])
+            self.assertEqual(snap["problems"], [{"key": "parada", "message": "x"}])
+            src, dst = Path(tmp) / "new.json", Path(tmp) / "health.json"
+            src.write_text(json.dumps(snap))
+            self.assertTrue(health.install(src, dst, now.timestamp()))
+            later = {**snap, "updated_at": "2026-10-09T13:20:00+00:00"}
+            src.write_text(json.dumps(later))
+            self.assertFalse(health.install(src, dst, now.timestamp() + 600))  # só o horário mudou
+            self.assertTrue(health.install(src, dst, now.timestamp() + 2 * 3600))  # mais de 1 h
+            src.write_text(json.dumps({**later, "problems": []}))
+            self.assertTrue(health.install(src, dst, now.timestamp() + 2 * 3600 + 60))
+
+    def test_specials_in_next_days(self):
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        from app import health
+        now = datetime(2026, 10, 27, 9, tzinfo=ZoneInfo("America/Sao_Paulo"))
+        snap = health.snapshot({}, now, [], queue=[], history=[], bank=[])
+        self.assertEqual(snap["specials"]["2026-10-31"]["key"], "reforma")
+        self.assertNotIn("2026-11-01", snap["specials"])  # domingo comum fica de fora
+
+
 class VerseCarouselTests(unittest.TestCase):
     def test_carousel_rendered_captioned_and_published_as_carousel(self):
         from app.publishers.meta import InstagramPublisher
@@ -1300,6 +1386,24 @@ class RepostTests(unittest.TestCase):
 def html_escape(text):
     import html
     return html.escape(text)
+
+
+class PruneMediaTests(unittest.TestCase):
+    def test_keeps_images_of_published_posts_and_drops_videos_and_old_days(self):
+        from app import generate
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for day, pid in (("2026-10-09", "na-fila"), ("2026-10-08", "publicado"), ("2026-09-01", "velho")):
+                d = root / day / pid
+                d.mkdir(parents=True)
+                (d / "imagem_feed.jpg").write_bytes(b"x")
+                (d / "video.mp4").write_bytes(b"x")
+            with mock.patch.object(state, "load_queue", return_value=[{"id": "na-fila"}]):
+                generate.prune_media(root, TODAY, 30)
+            self.assertTrue((root / "2026-10-09" / "na-fila" / "video.mp4").exists())
+            self.assertTrue((root / "2026-10-08" / "publicado" / "imagem_feed.jpg").exists())
+            self.assertFalse((root / "2026-10-08" / "publicado" / "video.mp4").exists())
+            self.assertFalse((root / "2026-09-01").exists())
 
 
 if __name__ == "__main__":

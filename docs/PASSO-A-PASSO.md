@@ -156,7 +156,7 @@ A partir daí, **todo dia às 05:20** os posts novos aparecem sozinhos na fila.
 |---|---|
 | Painel mostra "Painel ainda não configurado" | Falta `DASHBOARD_PASSWORD` ou `SESSION_SECRET` (mínimo 32 caracteres) no Cloudflare. Depois de adicionar, rode o workflow com mode `deploy`. |
 | Painel mostra erro do GitHub | Confira `GITHUB_TOKEN` (permissões Contents e Actions: Read and write) e `GITHUB_REPO`. |
-| "Gerar agora" dá erro | O token precisa da permissão **Actions: Read and write**. |
+| "Gerar só o que falta" ou "Pausar publicações" dá erro | O token precisa da permissão **Actions: Read and write**. |
 | Workflow falha no passo "Publicar painel" | Confira `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` e `CF_PAGES_PROJECT` (nome exato). |
 | Workflow falha em "Salvar estado" | Parte 1.3: permissão *Read and write* do Actions. |
 | Post com aviso vermelho "Edição inválida" | A resposta editada do quiz não aparece no versículo. Ajuste a edição. |

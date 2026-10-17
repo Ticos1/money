@@ -12,15 +12,18 @@
 <header>
   <div class="bar">
     <h1><img src="/icon.svg" alt=""> <span id="brand">Painel</span></h1>
-    <button class="btn small" id="gen" title="Gerar os posts de hoje agora">Gerar agora</button>
+    <button class="btn small bad" id="pause" title="Para dias de luto, tragédia ou viagem: nada é publicado até retomar">⏸ Pausar publicações</button>
     <button class="btn small" id="logout" title="Sair">Sair</button>
   </div>
   <nav>
-    <button data-tab="fila" class="on">Fila</button>
+    <button data-tab="hoje" class="on">Hoje</button>
+    <button data-tab="fila">Fila</button>
+    <button data-tab="agenda">Agenda</button>
     <button data-tab="historico">Histórico</button>
     <button data-tab="metricas">Métricas</button>
     <button data-tab="config">Configurações</button>
   </nav>
+  <div id="banners"></div>
 </header>
 <main id="main"><p class="empty">Carregando…</p></main>
 <div id="toast" role="status"></div>

@@ -7,6 +7,9 @@ no painel. Cada rede só é tentada se estiver ligada em config/settings.json
 (publishing) e se as chaves dela existirem nos Secrets. Se der erro, tenta de
 novo nas próximas execuções (até publishing.max_attempts vezes) e o painel
 mostra o motivo.
+
+Com publishing.paused (botão "Pausar publicações" do painel, para dias de luto, tragédia
+ou viagem) nada é publicado, nem pelo "Publicar agora".
 """
 from __future__ import annotations
 
@@ -185,6 +188,9 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     tz = ZoneInfo(settings.get("timezone", "America/Sao_Paulo"))
     now = datetime.now(tz)
     log: list[str] = []
+    if cfg.get("paused"):
+        print("Publicações pausadas no painel (publishing.paused): nada é publicado.")
+        return {"mode": "publish", "publish_results": {}, "completed": []}
 
     # "agora" (teste manual) ignora o horário, mas só vale para um post específico
     check_time = not (now_ignore_time and only_post)
@@ -211,10 +217,10 @@ def run(media_dir: Path, only_post: str | None = None, only_platform: str | None
     pubs, config_errors = build_publishers(enabled, log)
     for line in log:
         print("·", line)
-    # limite por dia em cada rede ("<rede>_max_per_day"). YouTube: a cota grátis da API dá 6 envios
-    # (cada um gasta 1.600 de 10.000 pontos)
+    # limite por dia em cada rede ("<rede>_max_per_day"). YouTube: a cota grátis da API dá 5 envios
+    # (cada Short gasta 1.700 de 10.000 pontos: envio 1.600 + capa 50 + comentário 50)
     caps = {p: int(cfg[f"{p}_max_per_day"]) for p in state.PLATFORMS if f"{p}_max_per_day" in cfg}
-    caps.setdefault("youtube", 6)
+    caps.setdefault("youtube", 5)
     posted = state.load_queue() + state.load_history()
     used = {p: uploads_today(posted, now, tz, p) for p in caps}
     for post, platform in pending:
