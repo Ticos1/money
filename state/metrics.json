@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-17T08:02:32+00:00",
+ "updated_at": "2026-10-17T09:32:05+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-17-1-verse-v2": {
+   "type": "verse",
+   "date": "2026-10-17",
+   "time": "06:30",
+   "title": "Isaías 26:12",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-16-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-16",
