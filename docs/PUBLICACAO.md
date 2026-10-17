@@ -155,18 +155,20 @@ Configuração (uma vez):
 ## Métricas (aba "Métricas" do painel)
 
 As métricas são coletadas a cada publicação e a cada 3 horas: curtidas e
-comentários (Instagram e Facebook) e visualizações (YouTube). O painel mostra a
+comentários (Instagram e Facebook), visualizações (YouTube) e, nos vídeos do Facebook,
+visualizações, views de 3 s, quantos assistiram até o fim e o **tempo médio assistido**
+(o quadro *Vídeos que prendem a atenção* mostra quais seguram mais o público). O painel mostra a
 média por **tipo de post** e por **horário**, além do **Top 10**, para você
 descobrir o que funciona melhor.
 
 ### Liberar as métricas completas (passo a passo)
 
-**A) Instagram: alcance, salvamentos e compartilhamentos** (cerca de 5 min)
+**A) Instagram (alcance, salvamentos) e Facebook (views e tempo médio dos vídeos)** (cerca de 5 min)
 1. Abra <https://developers.facebook.com/tools/explorer> (no celular, use "Site para computador").
 2. **Meta App:** `Palavra Diaria Publicador` · **User or Page:** *Get User Access Token*.
-3. Em **Permissions**, deixe as que já usava e **adicione** `instagram_manage_insights`:
+3. Em **Permissions**, deixe as que já usava e **adicione** `instagram_manage_insights` e `read_insights`:
    `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
-   `instagram_content_publish`, `business_management`, `instagram_manage_insights`
+   `instagram_content_publish`, `business_management`, `instagram_manage_insights`, `read_insights`
 4. **Generate Access Token** → confirme a sua Página e o seu Instagram.
 5. Copie o token → abra <https://developers.facebook.com/tools/debug/accesstoken> → cole →
    **Debug** → **Extend Access Token** → copie o token longo.
@@ -226,10 +228,10 @@ marcar todas de novo, não só a que você quer acrescentar.
 
 1. Explorador (<https://developers.facebook.com/tools/explorer>) → Meta App `Palavra Diaria Publicador` →
    *Get User Access Token*.
-2. Em **Permissions**, confira que as **oito** estão marcadas (se faltar alguma, adicione):
+2. Em **Permissions**, confira que as **nove** estão marcadas (se faltar alguma, adicione):
    `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `instagram_basic`,
    `instagram_content_publish`, `business_management`, `instagram_manage_insights`,
-   `pages_manage_metadata`
+   `pages_manage_metadata`, `read_insights`
 3. **Generate Access Token** e, na janela da Meta, **marque a Página e o Instagram** (escolha "todas" se aparecer a opção).
 4. Depurador (<https://developers.facebook.com/tools/debug/accesstoken>) → **Extend Access Token** → copie o token longo.
 5. No Explorador, cole o token longo e consulte

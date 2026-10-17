@@ -184,6 +184,23 @@ def _saturation_lines(today: date) -> list[str]:
     return lines + [f"\n> Aviso: {w}" for w in saturation.warnings(rows)]
 
 
+def retention_lines(rows: list[dict]) -> list[str]:
+    """Tempo médio assistido dos vídeos no Facebook: mostra qual vídeo prende a atenção."""
+    vids = [r for r in rows if isinstance((r.get("facebook") or {}).get("avg_watch_s"), (int, float))]
+    if not vids:
+        return []
+    vids.sort(key=lambda r: r["facebook"]["avg_watch_s"], reverse=True)
+    lines = ["", "### Vídeos que prendem a atenção (Facebook)", ""]
+    for r in vids[:3]:
+        fb = r["facebook"]
+        lines.append(f"- **{fb['avg_watch_s']:.1f} s** de média: {r.get('title', r['id'])} "
+                     f"({TYPE_NAME.get(r.get('type'), r.get('type'))}, {_n(fb.get('views'))} views)")
+    if len(vids) > 3:
+        worst = vids[-1]
+        lines.append(f"- Mais fraco: {worst['facebook']['avg_watch_s']:.1f} s ({worst.get('title', worst['id'])})")
+    return lines
+
+
 def build(metrics: dict, today: date, mention: str = "") -> str | None:
     limit = (today - timedelta(days=7)).isoformat()
     rows = [{"id": k, **v} for k, v in (metrics.get("posts") or {}).items() if v.get("date", "") >= limit]
@@ -236,6 +253,8 @@ def build(metrics: dict, today: date, mention: str = "") -> str | None:
         links = " · ".join(f"[{k}]({u})" for k, u in (r.get("links") or {}).items())
         lines.append(f"{i}. **{r.get('title', r['id'])}** — engajamento {engagement(r)} "
                      f"({TYPE_NAME.get(r.get('type'), r.get('type'))}, {r.get('date')} {r.get('time')}) {links}")
+
+    lines += retention_lines(rows)
 
     long_videos = [r for r in rows if r.get("type") == "compilation"]
     for r in long_videos:

@@ -479,6 +479,13 @@ class MetricsTests(unittest.TestCase):
                                   "media_product_type": "REELS", "like_count": 7, "comments_count": 2}]}
             if url.endswith("/insights"):
                 raise PublishError("(#10) permission")
+            if url.endswith("/V9/video_insights"):
+                return {"data": [
+                    {"name": "total_video_views", "values": [{"value": 120}]},
+                    {"name": "total_video_views_unique", "values": [{"value": 90}]},
+                    {"name": "total_video_complete_views", "values": [{"value": 30}]},
+                    {"name": "total_video_avg_time_watched", "values": [{"value": 8450}]},
+                    {"name": "total_video_view_time_by_age_bucket_and_gender", "values": [{"value": {"F.65+": 9}}]}]}
             if url.endswith("/posts"):
                 return {"data": []}
             if url.endswith("/videos"):
@@ -497,9 +504,53 @@ class MetricsTests(unittest.TestCase):
             data = metrics.collect(date(2026, 10, 10))
         row = data["posts"][post["id"]]
         self.assertEqual(row["instagram"], {"likes": 7, "comments": 2})
-        self.assertEqual(row["facebook"], {"likes": 3, "comments": 1})
+        self.assertEqual(row["facebook"], {"likes": 3, "comments": 1, "views": 120, "views_3s": 120,
+                                           "viewers": 90, "complete_views": 30, "avg_watch_s": 8.4})
         self.assertEqual(row["youtube"]["views"], 64)
         self.assertTrue(any("instagram_manage_insights" in n for n in data["notes"]))
+        self.assertFalse(any("read_insights" in n for n in data["notes"]))
+
+    def test_facebook_video_insights_without_permission_keep_likes_and_warn(self):
+        from app import metrics
+        from app.publishers import PublishError, meta
+        post = {"id": "2026-10-10-3-quiz", "date": "2026-10-10", "time": "12:00", "type": "quiz",
+                "content": {"question": "Quem?"},
+                "publish_links": {"facebook": "https://www.facebook.com/P1/videos/V9"}}
+        calls = []
+
+        def fake_get(url, **params):
+            calls.append(url)
+            if url.endswith("/video_insights"):
+                raise PublishError("(#200) requires read_insights")
+            if url.endswith("/videos"):
+                return {"data": [{"id": "V9", "likes": {"summary": {"total_count": 4}},
+                                  "comments": {"summary": {"total_count": 0}}}]}
+            return {"data": []}
+
+        acc = mock.Mock(ig_id=None, page_id="P1", page_token="T")
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.dict("os.environ", {"META_ACCESS_TOKEN": "T"}, clear=False), \
+                mock.patch.object(meta, "MetaAccount", return_value=acc), \
+                mock.patch.object(metrics, "_get", side_effect=fake_get), \
+                mock.patch.object(metrics, "collect_youtube", return_value={}):
+            state.save_history([post])
+            data = metrics.collect(date(2026, 10, 10))
+        self.assertEqual(data["posts"][post["id"]]["facebook"], {"likes": 4, "comments": 0})
+        self.assertTrue(any("read_insights" in n for n in data["notes"]))
+        self.assertEqual(sum(u.endswith("/video_insights") for u in calls), 1)
+
+
+class RetentionReportTests(unittest.TestCase):
+    def test_weekly_report_lists_videos_by_average_watch_time(self):
+        from app import report
+        rows = [{"id": f"p{i}", "title": f"Quiz {i}", "type": "quiz",
+                 "facebook": {"views": 10 * i, "avg_watch_s": float(i)}} for i in range(1, 6)]
+        rows.append({"id": "img", "title": "Versículo", "type": "verse", "facebook": {"likes": 3}})
+        lines = report.retention_lines(rows)
+        self.assertIn("5.0 s", lines[3])
+        self.assertIn("Quiz 5", lines[3])
+        self.assertTrue(lines[-1].startswith("- Mais fraco: 1.0 s"))
+        self.assertEqual(report.retention_lines([rows[-1]]), [])
 
 
 class CompilationTests(unittest.TestCase):

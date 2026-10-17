@@ -500,13 +500,38 @@ function groupTable(title, rows, keyFn, label) {
   const groups = {};
   for (const r of rows) (groups[keyFn(r)] ||= []).push(r);
   const hasReach = rows.some((r) => typeof r.instagram?.reach === "number");
-  const head = ["", "Posts", "Engaj. médio", "Curtidas IG", hasReach && "Alcance IG", "Curtidas FB", "Views YT"].filter(Boolean);
+  const hasFbViews = rows.some((r) => typeof r.facebook?.views === "number");
+  const head = ["", "Posts", "Engaj. médio", "Curtidas IG", hasReach && "Alcance IG", "Curtidas FB",
+    hasFbViews && "Views FB", hasFbViews && "Tempo médio FB", "Views YT"].filter(Boolean);
   const body = Object.entries(groups).sort((a, b) => avg(b[1], engagement) - avg(a[1], engagement)).map(([k, list]) =>
     h("tr", {}, h("td", {}, label(k)), h("td", {}, list.length), h("td", {}, h("b", {}, avg(list, engagement))),
       h("td", {}, avg(list, (r) => r.instagram?.likes)), hasReach && h("td", {}, avg(list, (r) => r.instagram?.reach)),
-      h("td", {}, avg(list, (r) => r.facebook?.likes)), h("td", {}, avg(list, (r) => r.youtube?.views))));
+      h("td", {}, avg(list, (r) => r.facebook?.likes)),
+      hasFbViews && h("td", {}, avg(list, (r) => r.facebook?.views)),
+      hasFbViews && h("td", {}, secs(avg(list, (r) => r.facebook?.avg_watch_s))),
+      h("td", {}, avg(list, (r) => r.youtube?.views))));
   return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, title),
     h("div", { style: "overflow-x:auto" }, h("table", {}, h("thead", {}, h("tr", {}, head.map((t) => h("th", {}, t)))), h("tbody", {}, body)))));
+}
+
+const secs = (v) => (typeof v === "number" ? `${String(v).replace(".", ",")} s` : "—");
+// quais vídeos prendem a atenção: tempo médio assistido no Facebook (precisa de read_insights)
+function retentionTable(rows) {
+  const vids = rows.filter((r) => typeof r.facebook?.avg_watch_s === "number")
+    .sort((a, b) => b.facebook.avg_watch_s - a.facebook.avg_watch_s);
+  if (!vids.length) return null;
+  const pct = (r) => (r.facebook.views ? `${Math.round((num(r.facebook.complete_views) / r.facebook.views) * 100)}%` : "—");
+  const line = (r) => h("tr", {},
+    h("td", {}, h("b", {}, secs(r.facebook.avg_watch_s))),
+    h("td", {}, h("div", {}, r.title), h("div", { class: "muted" }, `${typeName(r.type)} · ${r.date?.split("-").reverse().join("/")} ${r.time || ""}`)),
+    h("td", {}, r.facebook.views ?? "—"), h("td", {}, r.facebook.views_3s ?? "—"), h("td", {}, pct(r)),
+    h("td", { class: "p" }, r.links?.facebook ? h("a", { href: r.links.facebook, target: "_blank", rel: "noopener" }, "FB↗") : ""));
+  const shown = vids.length > 10 ? [...vids.slice(0, 5), ...vids.slice(-5)] : vids;
+  return h("div", { class: "card" }, h("div", { class: "sec" }, h("h3", {}, "Vídeos que prendem a atenção (Facebook)"),
+    h("p", { class: "muted" }, vids.length > 10 ? "Os 5 com maior e os 5 com menor tempo médio assistido." : "Ordenados pelo tempo médio assistido."),
+    h("div", { style: "overflow-x:auto" }, h("table", {},
+      h("thead", {}, h("tr", {}, ["Tempo médio", "Vídeo", "Views", "Views 3 s", "Até o fim", ""].map((t) => h("th", {}, t)))),
+      h("tbody", {}, shown.map(line))))));
 }
 
 // gráficos simples em HTML/CSS (sem biblioteca): colunas por dia e barras por horário
@@ -606,6 +631,7 @@ async function renderMetrics(main) {
   main.append(h("p", { class: "muted" }, `${rows.length} posts dos últimos 60 dias · atualizado em ${when}. Engajamento = curtidas + 2×comentários + 3×salvamentos/compartilhamentos.`));
   for (const n of data.notes || []) main.append(h("div", { class: "alert warn" }, n));
   main.append(dailyChart(rows) || "", hourChart(rows) || "");
+  main.append(retentionTable(rows) || "");
   main.append(groupTable("Por tipo de post", rows, (r) => r.type, (k) => typeName(k)));
   main.append(groupTable("Por horário", rows, (r) => r.time, (k) => k));
   const top = [...rows].sort((a, b) => engagement(b) - engagement(a)).slice(0, 10);
