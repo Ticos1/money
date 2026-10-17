@@ -14,7 +14,8 @@ function nowIn(tz) {
 }
 
 function applies(net, post, pub = {}) {
-  if (net === "youtube" && Array.isArray(pub.youtube_types) && !pub.youtube_types.includes(post.type)) return false;
+  const only = pub[`${net}_types`]; // ex.: youtube_types, facebook_types
+  if (Array.isArray(only) && !only.includes(post.type)) return false;
   if (post.type === "compilation") return net === "youtube" && Boolean(post.media?.video_music);
   if (net === "youtube") return Boolean(post.media?.video_music);
   if (net === "tiktok") return Boolean(post.media?.video_silent);

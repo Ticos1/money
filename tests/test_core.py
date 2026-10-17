@@ -463,6 +463,19 @@ class StoriesTests(unittest.TestCase):
         self.assertEqual(creates[1], {"media_type": "STORIES", "video_url": "https://x/v.mp4"})
 
 
+class NetworkTypeFilterTests(unittest.TestCase):
+    def test_facebook_types_keeps_verse_image_off_facebook_only(self):
+        from app.publish import applies
+        cfg = {"facebook_types": ["quiz", "truefalse"], "youtube_types": ["quiz"]}
+        verse = {"type": "verse", "media": {"images": ["imagem.jpg", "imagem_story.jpg"]}}
+        quiz = {"type": "quiz", "media": {"video_music": "v.mp4", "images": []}}
+        self.assertFalse(applies("facebook", verse, cfg))
+        self.assertTrue(applies("instagram", verse, cfg))
+        self.assertTrue(applies("stories", verse, cfg))
+        self.assertTrue(applies("facebook", quiz, cfg))
+        self.assertTrue(applies("facebook", verse, {}))
+
+
 class MetricsTests(unittest.TestCase):
     def test_metrics_matched_to_posts_and_missing_permission_is_reported(self):
         from app import metrics

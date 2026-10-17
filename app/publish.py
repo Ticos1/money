@@ -71,10 +71,11 @@ def is_due(post: dict, now: datetime, tz: ZoneInfo) -> bool:
 
 
 def applies(platform: str, post: dict, cfg: dict | None = None) -> bool:
-    """A rede aceita este tipo de post? (YouTube/TikTok só vídeo; YouTube só os tipos escolhidos.)"""
+    """A rede aceita este tipo de post? (YouTube/TikTok só vídeo; "<rede>_types" nas configurações,
+    ex.: youtube_types ou facebook_types, limita a rede aos tipos escolhidos.)"""
     media = post.get("media", {})
-    yt_types = (cfg or {}).get("youtube_types")
-    if platform == "youtube" and yt_types and post.get("type") not in yt_types:
+    only = (cfg or {}).get(f"{platform}_types")
+    if isinstance(only, list) and post.get("type") not in only:
         return False
     if post.get("type") == "compilation":  # vídeo longo 16:9: só YouTube
         return platform == "youtube" and bool(media.get("video_music"))

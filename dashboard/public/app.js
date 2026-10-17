@@ -359,8 +359,8 @@ function editForm(post, card) {
 function pendingNets(post) {
   const on = Object.entries(STATE.settings?.publishing || {}).filter(([, v]) => v === true).map(([k]) => k)
     .filter((k) => post.type !== "compilation" || k === "youtube")
-    .filter((k) => k !== "youtube" || !Array.isArray(STATE.settings?.publishing?.youtube_types)
-      || STATE.settings.publishing.youtube_types.includes(post.type))
+    .filter((k) => !Array.isArray(STATE.settings?.publishing?.[`${k}_types`])
+      || STATE.settings.publishing[`${k}_types`].includes(post.type))
     .filter((k) => k !== "tiktok" || post.media?.video_silent);
   return on.filter((k) => !post.published?.[k] && !post.publish_skipped?.[k] && (k !== "youtube" || post.media?.video_music)
     && (k !== "stories" || post.media?.video_music || post.media?.images?.includes("imagem_story.jpg")));
