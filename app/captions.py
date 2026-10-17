@@ -52,28 +52,14 @@ CURIOSITY_HOOKS = [
 CURIOSITY_CTAS = [
     "Você já sabia? Comente SIM ou NÃO.",
     "Salve para lembrar e compartilhe com quem ama a Palavra.",
-    "Marque alguém que vai gostar de saber disso.",
+    "Compartilhe com quem vai gostar de saber disso.",
 ]
-FILL_CTAS = [
-    "Comente a palavra que falta antes de ver a resposta!",
-    "Qual palavra você escolheu? Responda nos comentários e marque um amigo.",
-    "Salve este versículo para decorar e compartilhe com quem ama a Palavra.",
-]
-TF_CTAS = [
-    "Comente V ou F antes de ver a resposta!",
-    "V ou F? Responda nos comentários e desafie um amigo.",
-    "Marque alguém que você acha que erra essa!",
-]
-BOOK_CTAS = [
-    "Comente o livro antes de ver a resposta!",
-    "Qual livro você escolheu? Responda e marque um amigo para desafiar.",
-    "Salve para estudar esse livro depois e compartilhe com quem ama a Bíblia.",
-]
-QUIZ_CTAS = [
-    "Comente a letra antes de ver a resposta!",
-    "Responda nos comentários e desafie um amigo.",
-    "Comente sua resposta e marque quem você acha que acerta.",
-]
+# formatos de pergunta: o mesmo pedido de comentário do vídeo ("Comente a letra"), sempre
+LETTER_CTA = "Comente a letra: A, B, C ou D 👇"
+FILL_CTAS = [LETTER_CTA]
+TF_CTAS = ["Comente V ou F antes de ver a resposta 👇"]
+BOOK_CTAS = [LETTER_CTA]
+QUIZ_CTAS = [LETTER_CTA]
 
 
 def _hashtags(kind: str, item: dict, platform: str, rng: random.Random) -> str:
@@ -207,8 +193,7 @@ def whatsapp_caption(kind: str, texts: dict) -> str:
     body = texts["long"].replace(" (ou arraste para o lado no carrossel)", "")
     if texts.get("cta"):
         body = body.replace(texts["cta"], "")
-    for line in ("Comente a letra antes de ver a resposta!", "Comente a palavra que falta antes de ver a resposta!",
-                 "Comente V ou F antes de ver a resposta!"):
+    for line in (LETTER_CTA, *TF_CTAS):
         body = body.replace(line, "")
     body = re.sub(r"[ \t]+\n", "\n", re.sub(r"\n{3,}", "\n\n", body)).strip()
     hook = texts.get("hook", "")
@@ -299,7 +284,8 @@ def _groq_texts(kind: str, item: dict, groq: GroqClient, base: dict) -> dict:
         texts["long"] = f"{item['title']}\n\n{item['text']} ({item['ref_label']})\n\n{texts['long']}"
     else:
         letters = "\n".join(f"{'ABCD'[i]}) {o}" for i, o in enumerate(item["options"]))
-        texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}"
+        texts["long"] = f"{texts['long']}\n\n{item['question']}\n{letters}\n\n{base['cta']}"
+        texts["short"] = f"{texts['short']}\n{base['cta']}"
     texts["cta"] = base["cta"]
     return texts
 

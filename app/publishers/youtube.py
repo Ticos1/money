@@ -18,6 +18,14 @@ import requests
 from . import PublishError, Publisher
 
 TOKEN_URL = "https://oauth2.googleapis.com/token"
+# primeiro comentário do canal em cada Short (para fixar: no app do YouTube, ⋮ no comentário → Fixar;
+# a API não permite fixar)
+COMMENTS = {
+    "quiz": "Qual é a sua resposta? Comente a letra: A, B, C ou D 👇",
+    "fill": "Qual palavra completa o versículo? Comente a letra: A, B, C ou D 👇",
+    "book": "Em qual livro está? Comente a letra: A, B, C ou D 👇",
+    "truefalse": "Verdadeiro ou falso? Comente V ou F antes de ver a resposta 👇",
+}
 UPLOAD_URL = "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status"
 
 
@@ -68,6 +76,9 @@ class YouTubePublisher(Publisher):
             thumb = post["media"].get("thumbnail")
             if thumb:  # capa com texto grande (no Short, o YouTube pode ignorar: aí fica o quadro do vídeo)
                 self._thumbnail(video_id, media_dir / thumb)
+            comment = COMMENTS.get(post.get("type"))
+            if comment:
+                self._comment(video_id, comment)
             if long_video:
                 return f"https://youtu.be/{video_id}"
             return f"https://youtube.com/shorts/{video_id}"
@@ -86,3 +97,16 @@ class YouTubePublisher(Publisher):
                 print(f"· miniatura não aplicada ({resp.status_code}): verifique o canal em youtube.com/verify")
         except requests.RequestException as exc:
             print(f"· miniatura não aplicada: {exc}")
+
+    def _comment(self, video_id: str, text: str) -> None:
+        """Comentário do canal pedindo a resposta. Sem o escopo youtube.force-ssl o YouTube recusa: segue sem."""
+        try:
+            resp = requests.post("https://www.googleapis.com/youtube/v3/commentThreads", params={"part": "snippet"},
+                                 json={"snippet": {"videoId": video_id,
+                                                   "topLevelComment": {"snippet": {"textOriginal": text}}}},
+                                 timeout=60, headers={"Authorization": f"Bearer {self.token}"})
+            if resp.status_code != 200:
+                print(f"· comentário não publicado ({resp.status_code}): gere o refresh token com o escopo "
+                      "youtube.force-ssl (docs/PUBLICACAO.md)")
+        except requests.RequestException as exc:
+            print(f"· comentário não publicado: {exc}")
