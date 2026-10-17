@@ -1,7 +1,8 @@
 {
  "brand": {
   "name": "Palavra Diária",
-  "handle": "@versoerocha"
+  "handle": "@versoerocha",
+  "whatsapp_channel": ""
  },
  "timezone": "America/Sao_Paulo",
  "schedule": {
@@ -58,6 +59,7 @@
   "music_volume": 0.16,
   "video_types": [
    "quiz",
+   "verse",
    "curiosity"
   ],
   "loop_max_seconds": 12
@@ -79,7 +81,7 @@
   "youtube": true,
   "max_attempts": 3,
   "time_jitter_minutes": 10,
-  "stories": false,
+  "stories": true,
   "youtube_max_per_day": 5,
   "youtube_types": [
    "quiz",
