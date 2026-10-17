@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T21:31:55+00:00",
+ "updated_at": "2026-10-17T23:04:09+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
@@ -72,6 +72,34 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-17-8-quiz",
+   "date": "2026-10-17",
+   "slot": 8,
+   "time": "20:00",
+   "publish_at": "2026-10-17T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-17T23:01:34+00:00",
+    "facebook": "2026-10-17T23:01:39+00:00",
+    "stories": "2026-10-17T23:02:14+00:00",
+    "whatsapp": null
+   },
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DenPWMRilIv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2537140247092634",
+    "stories": "story 18108678242192052"
+   },
+   "title": "Mostrando hospitalidade, quem alguns hospedaram sem saber?"
   },
   {
    "id": "2026-10-17-7-fill",
