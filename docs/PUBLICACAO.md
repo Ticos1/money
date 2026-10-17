@@ -325,8 +325,11 @@ YouTube só recebe alguns tipos e distorceria a comparação; as views dele apar
 
 Rode a cada 2 ou 4 semanas, principalmente depois de um formato novo juntar alguns posts.
 
-Todos os vídeos vão para Reels, Facebook e Stories. Para o **YouTube** vão só os tipos em
+Todos os vídeos vão para Reels e Stories. Para o **YouTube** vão só os tipos em
 `publishing.youtube_types` (padrão: quiz, Complete o versículo e o vídeo longo = 6 por dia, dentro da cota).
+Para o **Facebook** vão só os tipos em `publishing.facebook_types` (hoje: quiz, Verdadeiro ou falso e
+Você sabia? em vídeo). No Facebook quase todas as visualizações vêm de Reels: o Versículo do dia em
+imagem e o Complete o versículo (3 views de média) ficam de fora. Para voltar a mandar tudo, apague a linha.
 
 ### Formatos de vídeo
 - **Desafio de quiz** — pergunta, 4 alternativas, contagem e resposta.

@@ -16,7 +16,7 @@
    },
    {
     "time": "10:00",
-    "type": "fill"
+    "type": "truefalse"
    },
    {
     "time": "12:00",
@@ -81,7 +81,12 @@
    "compilation"
   ],
   "tiktok": false,
-  "verse_carousel": true
+  "verse_carousel": true,
+  "facebook_types": [
+   "quiz",
+   "truefalse",
+   "curiosity"
+  ]
  },
  "compilation": {
   "enabled": true,
