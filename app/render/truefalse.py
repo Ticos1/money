@@ -1,5 +1,6 @@
-"""Template "Verdadeiro ou falso?": pergunta do banco + uma resposta mostrada; contagem
-regressiva de 3s; revela se é verdade e qual é a resposta certa e volta ao gancho (loop). Vídeo 9:16 com música."""
+"""Template "Verdadeiro ou falso?": pergunta do banco + uma resposta mostrada, já no primeiro quadro;
+"Comente: V ou F"; contagem regressiva de 3s; revela se é verdade e qual é a resposta certa e volta à
+pergunta sem marcação (loop de 8 a 12 s). Vídeo 9:16 com música."""
 from __future__ import annotations
 
 import random
@@ -30,31 +31,33 @@ def _button(size, box, text, color, state="normal"):
     return img
 
 
-def timeline() -> dict:
-    return {"q_in": 2.4, "claim_in": 3.4, "buttons_in": 4.0, "count_in": 5.2, "count": 3,
-            "reveal": 8.2, "end_in": 11.2, "total": 11.2 + quiz.LOOP_TAIL}
+COMMENT_CTA = "Comente: V ou F"
+
+
+def timeline(item: dict | None = None) -> dict:
+    """Pergunta, resposta mostrada e botões já no primeiro quadro; o vídeo fica entre 8 e 12 s."""
+    chars = len(item["question"]) + len(item["shown"]) if item else 120
+    read = min(4.5, max(2.5, chars / 22))
+    count_in = read
+    reveal = count_in + 3
+    end_in = reveal + 2.5
+    return {"count_in": count_in, "count": 3, "reveal": reveal, "end_in": end_in,
+            "total": round(end_in + quiz.LOOP_TAIL, 2)}
 
 
 def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -> tuple[Path, float]:
     size = (1080, 1920)
     w, h = size
     L = quiz.LAYOUTS[size]
-    tl = timeline()
+    tl = timeline(item)
     total = tl["total"]
     bg = design.background(w, h, pal, seed)
-    hook = quiz._canvas(size)
-    design.text_block(hook, ["VERDADEIRO"], design.font("sans_black", 140), 160, w // 2, 600, fill=GREEN + (255,))
-    design.text_block(hook, ["OU FALSO?"], design.font("sans_black", 140), 160, w // 2, 770, fill=RED + (255,))
-    design.text_block(hook, ["Só 1% acerta de primeira"], design.font("sans_bold", 54), 70, w // 2, 980)
-    layers, hook_layers = quiz.loop_layers(size, pal, seed, hook, tl["q_in"], tl["end_in"], total)
-    layers += hook_layers
-
-    lab = quiz._canvas(size)
-    design.label(lab, "VERDADEIRO OU FALSO?", L["label_y"], L["label_size"], pal.accent)
-    layers.append(video.layer(lab, tl["q_in"] - 0.1, tl["end_in"], slide=0))
+    layers = quiz.loop_layers(size, pal, seed, total)
+    first = dict(fade_in=0, slide=0)  # entra inteira já no primeiro quadro e fica até o fim
+    layers.append(video.layer(quiz.hook_layer(size, "VERDADEIRO OU FALSO?", pal), 0, total, **first))
 
     geo = quiz._geometry(size, item)
-    layers.append(video.layer(quiz._question_layer(size, item, geo), tl["q_in"], tl["end_in"], slide=50))
+    layers.append(video.layer(quiz._question_layer(size, item, geo), 0, total, **first))
 
     # a "resposta" que o vídeo afirma (pode ser verdade ou não)
     claim = quiz._canvas(size)
@@ -63,36 +66,33 @@ def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path) -
     box = (110, top, 970, top + len(lines) * lh + 70)
     design.rounded_card(claim, box, 40, pal.accent + (250,))
     design.text_block(claim, lines, fnt, lh, w // 2, top + 35, fill=DARK, shadow=0)
-    layers.append(video.layer(claim, tl["claim_in"], tl["end_in"], fade_in=0.4, slide=30))
+    layers.append(video.layer(claim, 0, total, **first))
 
     by = box[3] + 60
     left, right = (110, by, 520, by + 140), (560, by, 970, by + 140)
-    layers.append(video.layer(_button(size, left, "VERDADEIRO", GREEN), tl["buttons_in"], tl["reveal"], slide=20))
-    layers.append(video.layer(_button(size, right, "FALSO", RED), tl["buttons_in"] + 0.2, tl["reveal"], slide=20))
+    for start, end in ((0, tl["reveal"]), (tl["end_in"] - 0.1, total)):  # some na revelação e volta no fim
+        fx = first if start == 0 else dict(fade_in=0.3, slide=0)
+        layers.append(video.layer(_button(size, left, "VERDADEIRO", GREEN), start, end, fade_out=0, **fx))
+        layers.append(video.layer(_button(size, right, "FALSO", RED), start, end, fade_out=0, **fx))
 
     cy = min(by + 140 + 150, L["wm_y"] - 130)
-    for k in range(tl["count"]):
-        c = quiz._canvas(size)
-        d = ImageDraw.Draw(c)
-        r = 78
-        d.ellipse([w // 2 - r, cy - r, w // 2 + r, cy + r], outline=pal.accent + (255,), width=8, fill=(0, 0, 0, 90))
-        d.text((w // 2, cy + 4), str(tl["count"] - k), font=design.font("sans_black", 92),
-               fill=(255, 255, 255, 255), anchor="mm")
-        start = tl["count_in"] + k
-        layers.append(video.layer(c, start, start + 1.0, fade_in=0.12, fade_out=0.12, slide=0))
+    cta_img = quiz.cta_layer(size, COMMENT_CTA, cy, pal)
+    layers.append(video.layer(cta_img, 0, tl["count_in"], fade_in=0, fade_out=0.2, slide=0))
+    layers += quiz.countdown_layers(size, tl, cy, pal)
 
     true_state, false_state = ("right", "wrong") if item["is_true"] else ("wrong", "right")
     layers.append(video.layer(_button(size, left, "VERDADEIRO", GREEN, true_state), tl["reveal"], tl["end_in"],
-                              fade_in=0.2, slide=0))
+                              fade_in=0.2, fade_out=0.3, slide=0))
     layers.append(video.layer(_button(size, right, "FALSO", RED, false_state), tl["reveal"], tl["end_in"],
-                              fade_in=0.2, slide=0))
+                              fade_in=0.2, fade_out=0.3, slide=0))
     ans = quiz._canvas(size)
     verdict = "É VERDADE!" if item["is_true"] else "É FALSO!"
     y = design.text_block(ans, [verdict], design.font("sans_black", 64), 76, w // 2, cy - 90,
                           fill=(GREEN if item["is_true"] else RED) + (255,))
     fnt, lines, lh = design.fit(f"Certo: {item['correct']} ({item['ref_label']})", "sans_bold", 880, 200, 44, 32)
     design.text_block(ans, lines, fnt, lh, w // 2, y + 6)
-    layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.3))
+    layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.3, fade_out=0.3))
+    layers.append(video.layer(cta_img, tl["end_in"] - 0.1, total, fade_in=0.3, slide=0))
 
     wm = quiz._canvas(size)
     design.watermark(wm, handle, L["wm_y"], L["wm_size"])
@@ -110,6 +110,6 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
                     with_music, rng, **quiz.LOOP_MUSIC_FADES)
-    video.poster(silent, timeline()["count_in"], out_dir / "capa.jpg")
+    video.poster(silent, timeline(item)["count_in"] - 0.5, out_dir / "capa.jpg")
     return {"video_music": "video_com_musica.mp4", "video_silent": "video_sem_musica.mp4",
             "poster": "capa.jpg", "images": [], "duration": total}

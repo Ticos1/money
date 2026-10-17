@@ -7,6 +7,10 @@
  "schedule": {
   "slots": [
    {
+    "time": "06:30",
+    "type": "verse"
+   },
+   {
     "time": "08:00",
     "type": "quiz"
    },
@@ -21,6 +25,14 @@
    {
     "time": "15:00",
     "type": "truefalse"
+   },
+   {
+    "time": "17:00",
+    "type": "quiz"
+   },
+   {
+    "time": "18:30",
+    "type": "fill"
    },
    {
     "time": "20:00",
@@ -42,7 +54,8 @@
   "video_types": [
    "quiz",
    "curiosity"
-  ]
+  ],
+  "loop_max_seconds": 12
  },
  "groq": {
   "enabled": true,
