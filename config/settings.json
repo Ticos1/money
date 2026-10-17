@@ -80,7 +80,7 @@
   "max_attempts": 3,
   "time_jitter_minutes": 10,
   "stories": false,
-  "youtube_max_per_day": 6,
+  "youtube_max_per_day": 5,
   "youtube_types": [
    "quiz",
    "truefalse",
@@ -102,7 +102,6 @@
   ],
   "youtube_times": [
    "08:00",
-   "10:00",
    "12:00",
    "15:00",
    "18:30",

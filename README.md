@@ -74,7 +74,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
                 └──────┬────────────┬──────────┘
                        │            │
         state/*.json   │            │  vídeos e imagens
-        (fila, histórico)           │  (branch "media", só últimos 30 dias)
+        (fila, histórico)           │  (branch "media", imagens de 30 dias)
                        ▼            ▼
                 ┌──────────────────────────────┐
                 │ Cloudflare Pages (grátis)    │  https://SEU-PROJETO.pages.dev
@@ -88,7 +88,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 | **GitHub Actions** | Agenda diária e "computador" para montar vídeos com FFmpeg, de graça. |
 | **Python + Pillow + FFmpeg** | Desenho das artes e montagem de vídeo, tudo livre e sem serviço pago. |
 | **Arquivos JSON no repositório** | Banco de dados simples, gratuito, com histórico de tudo e fácil de editar. |
-| **Branch `media` sem histórico** | Guarda só os últimos 30 dias de vídeos, para o repositório não inchar. |
+| **Branch `media` sem histórico** | Guarda as imagens dos últimos 30 dias (`media_retention_days`), para o Histórico e as páginas do mini-site; os vídeos saem assim que o post deixa a fila, para o repositório não inchar. |
 | **Cloudflare Pages + Functions** | Hospeda o painel e as mídias de graça, com uso comercial permitido (ao contrário do plano grátis da Vercel). |
 | **Login com senha própria** | Só você entra. Funciona sem cartão. O Cloudflare Access é uma camada extra opcional. |
 | **Groq (opcional)** | IA grátis para variar legendas e criar conteúdo novo, sempre validado. |

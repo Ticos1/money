@@ -1332,5 +1332,23 @@ def html_escape(text):
     return html.escape(text)
 
 
+class PruneMediaTests(unittest.TestCase):
+    def test_keeps_images_of_published_posts_and_drops_videos_and_old_days(self):
+        from app import generate
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for day, pid in (("2026-10-09", "na-fila"), ("2026-10-08", "publicado"), ("2026-09-01", "velho")):
+                d = root / day / pid
+                d.mkdir(parents=True)
+                (d / "imagem_feed.jpg").write_bytes(b"x")
+                (d / "video.mp4").write_bytes(b"x")
+            with mock.patch.object(state, "load_queue", return_value=[{"id": "na-fila"}]):
+                generate.prune_media(root, TODAY, 30)
+            self.assertTrue((root / "2026-10-09" / "na-fila" / "video.mp4").exists())
+            self.assertTrue((root / "2026-10-08" / "publicado" / "imagem_feed.jpg").exists())
+            self.assertFalse((root / "2026-10-08" / "publicado" / "video.mp4").exists())
+            self.assertFalse((root / "2026-09-01").exists())
+
+
 if __name__ == "__main__":
     unittest.main()

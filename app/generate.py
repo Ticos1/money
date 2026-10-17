@@ -337,9 +337,13 @@ def rerender(args) -> dict:
     return patch
 
 
+VIDEO_SUFFIXES = {".mp4", ".mov", ".webm", ".m4v"}
+
+
 def prune_media(media_root: Path, today: date, keep_days: int) -> None:
-    """Apaga mídias de dias antigos e de posts que já saíram da fila (publicados,
-    rejeitados na limpeza etc.), para o site não acumular arquivos."""
+    """Apaga as mídias de dias com mais de keep_days. Dos posts que já saíram da fila
+    (publicados, rejeitados na limpeza etc.) apaga só os vídeos, que são o que pesa: as
+    imagens ficam pelos keep_days para o Histórico e as páginas do mini-site (prévia no WhatsApp)."""
     limit = (today - timedelta(days=keep_days)).isoformat()
     if not media_root.exists():
         return
@@ -352,9 +356,15 @@ def prune_media(media_root: Path, today: date, keep_days: int) -> None:
             print(f"mídia antiga removida: {day_dir.name}")
             continue
         for post_dir in day_dir.iterdir():
-            if post_dir.is_dir() and post_dir.name not in in_queue:
-                shutil.rmtree(post_dir)
-                print(f"mídia removida (post fora da fila): {post_dir.name}")
+            if not post_dir.is_dir() or post_dir.name in in_queue:
+                continue
+            videos = [f for f in post_dir.iterdir() if f.suffix.lower() in VIDEO_SUFFIXES]
+            for f in videos:
+                f.unlink()
+            if videos:
+                print(f"vídeos removidos (post fora da fila): {post_dir.name}")
+            if not any(post_dir.iterdir()):
+                post_dir.rmdir()
         if not any(day_dir.iterdir()):
             day_dir.rmdir()
 

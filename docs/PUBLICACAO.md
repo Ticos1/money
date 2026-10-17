@@ -2,8 +2,10 @@
 
 Depois de configurado, o fluxo é este: **você aprova no painel → o sistema
 publica sozinho no horário do post** (ou na hora, se o horário já passou).
-Uma rotina roda de hora em hora (das 05:07 às 23:07) e publica o que estiver
-aprovado e no horário.
+Quem dispara a publicação no horário de cada post é o agendador da Cloudflare
+(veja [Agendador confiável](#agendador-confiável-cloudflare--importante)); ele também
+pede as métricas quando ficam com mais de 3 h. O cron do GitHub roda a cada 3 h só
+como reserva, caso o agendador pare.
 
 **Variação de horário:** cada post sai até **10 minutos antes ou depois** do horário
 da grade (ex.: o das 08:00 pode sair às 07:53 ou às 08:06), sorteado na geração, para
@@ -131,8 +133,9 @@ Depois de corrigir a configuração, desmarque e marque de novo, ou rode o workf
 
 ## Limites (todos grátis)
 - Instagram: até 50 posts por API a cada 24 h (usamos 1 a 2).
-- GitHub Actions: a rotina de hora em hora usa cerca de 10 min/dia, que somados à
-  geração ficam bem abaixo dos 2.000 min/mês grátis.
+- GitHub Actions: a publicação roda nos horários dos posts (agendador) mais o cron de
+  reserva a cada 3 h (8 por dia), cerca de 700 min/mês a menos que o antigo cron de hora em
+  hora (19 por dia), o que deixa o total com folga dentro dos 2.000 min/mês grátis.
 
 ---
 
@@ -217,8 +220,10 @@ Observações:
 - A **miniatura personalizada** só é aceita pelo YouTube em canais **verificados** (youtube.com/verify,
   é só confirmar o telefone). Sem isso, o vídeo sai igual, com uma miniatura escolhida pelo YouTube.
 - A miniatura (`miniatura.jpg`) segue as regras da seção [Capas e títulos do YouTube](#capas-e-títulos-do-youtube).
-- Cada envio ao YouTube gasta 1.600 dos 10.000 pontos diários da cota gratuita da API. Com 4 Shorts
-  por dia, o vídeo longo cabe (4 × 1.600 + 1.600 = 8.000). Evite várias publicações manuais no mesmo dia.
+- Cada Short gasta 1.700 dos 10.000 pontos diários da cota gratuita da API (envio 1.600 + capa 50 +
+  primeiro comentário 50); o vídeo longo, 1.650 (sem comentário). O limite de 5 por dia (o vídeo longo
+  conta) dá no máximo 5 × 1.700 = 8.500, com folga para as leituras de métricas. Evite várias
+  publicações manuais no mesmo dia.
 
 ---
 
@@ -262,9 +267,9 @@ marcar todas de novo, não só a que você quer acrescentar.
 
 Em **Configurações → Vídeos (Reels e Shorts)**, marque para o "Você sabia?" e/ou o Versículo
 virarem vídeo vertical com música (em vez de só imagem). Eles passam a sair como Reels, Shorts
-(YouTube), vídeo no Facebook e Stories. Atenção à cota do YouTube: cada envio gasta 1.600 dos 10.000
-pontos diários, então 6 vídeos por dia (4 quizzes + 2 curiosidades) já usam 9.600, e o vídeo longo de
-sábado passaria do limite. Se quiser os dois, peça o aumento de cota (gratuito) no Google Cloud.
+(YouTube), vídeo no Facebook e Stories. Atenção à cota do YouTube: cada Short gasta 1.700 dos 10.000
+pontos diários (envio + capa + comentário), então cabem 5 por dia, já contando o vídeo longo de
+sábado. Se quiser mais, peça o aumento de cota (gratuito) no Google Cloud.
 
 ## Capas e títulos do YouTube
 
@@ -279,8 +284,8 @@ os dois sozinho:
 - **Vídeo longo** (`miniatura.jpg`, 1280×720): "40 PERGUNTAS" enorme à esquerda, "SÓ 1% ACERTA
   TODAS!" à direita e a faixa "FÁCIL ATÉ DIFÍCIL · 10 MIN" embaixo, longe do canto onde o YouTube
   mostra a duração.
-- A publicação automática envia a capa logo depois do vídeo (gasta 50 pontos da cota; 6 Shorts por
-  dia continuam cabendo: 6 × 1.650 = 9.900). Exige **canal verificado** (youtube.com/verify). Se o
+- A publicação automática envia a capa logo depois do vídeo (gasta 50 pontos da cota; com o primeiro
+  comentário, mais 50, cada Short custa 1.700, e 5 por dia somam 8.500). Exige **canal verificado** (youtube.com/verify). Se o
   YouTube recusar a capa de um Short, o vídeo sai do mesmo jeito e o log diz "miniatura não
   aplicada". Nesse caso, baixe a capa no painel (botão **⬇ Capa do YouTube**) e troque à mão no
   app do YouTube ou no YouTube Studio (editar o vídeo → miniatura), se a opção aparecer na sua conta.
@@ -303,9 +308,11 @@ Exemplos de título:
 
 ## Limite diário do YouTube (proteção automática)
 
-A cota grátis da API do YouTube é de 10.000 pontos por dia, e cada vídeo enviado gasta 1.600, ou
-seja, cabem **6 vídeos por dia**. O sistema conta os envios do dia (horário de Brasília) e, ao chegar
-no limite (`publishing.youtube_max_per_day`, padrão 6), **pula** o YouTube nos posts seguintes sem
+A cota grátis da API do YouTube é de 10.000 pontos por dia, e cada Short gasta 1.700 (envio 1.600 +
+capa 50 + primeiro comentário 50). Com 6 seriam 10.200, acima do limite, e o último Short do dia (ou
+o comentário dele) falharia por `quotaExceeded`; por isso cabem **5 vídeos por dia** (8.500, com folga
+para as leituras de métricas). O sistema conta os envios do dia (horário de Brasília, o vídeo longo
+conta) e, ao chegar no limite (`publishing.youtube_max_per_day`, padrão 5), **pula** o YouTube nos posts seguintes sem
 dar erro: eles saem normalmente nas outras redes e o painel mostra "⏭ pulado: limite...".
 Se você pedir aumento de cota ao Google, é só subir esse número em `config/settings.json`.
 
@@ -325,8 +332,9 @@ por formato e por gancho, nenhuma comparação chegava a uma conclusão.
   baixada no painel, com um áudio em alta do próprio Instagram), desligue o Instagram em Configurações
   para não sair duplicado.
 - **YouTube**: tipos em `publishing.youtube_types` (quiz, Verdadeiro ou falso, Complete o versículo e o
-  vídeo longo) e horários em `publishing.youtube_times` (08:00, 10:00, 12:00, 15:00, 18:30 e 20:00 =
-  6 por dia, dentro da cota). Cada Short ganha um primeiro comentário do canal pedindo a resposta
+  vídeo longo) e horários em `publishing.youtube_times` (08:00, 12:00, 15:00, 18:30 e 20:00 =
+  5 por dia, dentro da cota; aos sábados o vídeo longo ocupa uma das 5 vagas e o último Short do dia
+  é pulado). Cada Short ganha um primeiro comentário do canal pedindo a resposta
   ("Comente a letra: A, B, C ou D"); **fixe-o no app do YouTube** (⋮ no comentário → Fixar), a API não
   permite fixar.
 
