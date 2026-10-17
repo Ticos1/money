@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T08:02:35+00:00",
+ "updated_at": "2026-10-17T09:32:07+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-17-1-verse-v2",
+   "date": "2026-10-17",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-17T06:27",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-17T09:30:36+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18139170376621510"
+   },
+   "title": "Isaías 26:12"
+  }
+ ],
  "specials": {}
 }
