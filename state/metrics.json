@@ -1,6 +1,8 @@
 {
- "updated_at": "2026-10-17T04:15:19+00:00",
- "notes": [],
+ "updated_at": "2026-10-17T08:02:32+00:00",
+ "notes": [
+  "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
+ ],
  "posts": {
   "2026-10-16-10-truefalse": {
    "type": "truefalse",
@@ -19,7 +21,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -47,7 +51,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -80,17 +86,19 @@
     "saved": 0,
     "shares": 0,
     "views": 2,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.5,
+    "watch_time_s": 0.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 3,
+    "views": 4,
     "avg_watch_s": 1.2,
-    "watch_time_s": 2.4
+    "watch_time_s": 3.5
    },
    "youtube": {
-    "views": 10,
+    "views": 11,
     "likes": 1,
     "comments": 0
    }
@@ -113,7 +121,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -145,7 +155,9 @@
     "saved": 0,
     "shares": 0,
     "views": 1,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 6.2
    },
    "facebook": {
     "likes": 1,
@@ -172,7 +184,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -200,7 +214,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -210,9 +226,103 @@
     "watch_time_s": 947.6
    },
    "youtube": {
-    "views": 14,
+    "views": 18,
     "likes": 3,
     "comments": 0
+   }
+  },
+  "2026-10-16-3-fill": {
+   "type": "fill",
+   "date": "2026-10-16",
+   "time": "10:00",
+   "title": "Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/2xUOh6sg_Ic",
+    "instagram": "https://www.instagram.com/reel/Dejl9bsk-oC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1454804146826559"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0,
+    "views": 184,
+    "avg_watch_s": 3.0,
+    "watch_time_s": 500.6
+   },
+   "youtube": {
+    "views": 6,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-16-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-16",
+   "time": "08:00",
+   "title": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
+   "hook": "Legenda da IA",
+   "links": {
+    "youtube": "https://youtube.com/shorts/1QF_6k46f7s",
+    "instagram": "https://www.instagram.com/reel/DejYOM-DTJV/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1149730891046952"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 13,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-16-1-verse": {
+   "type": "verse",
+   "date": "2026-10-16",
+   "time": "06:30",
+   "title": "Filipenses 4:13",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DejN69dF8fd/",
+    "facebook": "https://www.facebook.com/1405324152662027_122098612479513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-15-10-truefalse": {
@@ -232,7 +342,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -260,7 +372,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -293,7 +407,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -326,14 +442,16 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 313,
+    "views": 314,
     "avg_watch_s": 2.4,
-    "watch_time_s": 695.6
+    "watch_time_s": 696.5
    },
    "youtube": {
     "views": 10,
@@ -358,14 +476,16 @@
     "saved": 0,
     "shares": 0,
     "views": 3,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.8,
+    "watch_time_s": 2.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 438,
+    "views": 440,
     "avg_watch_s": 3.3,
-    "watch_time_s": 1326.3
+    "watch_time_s": 1328.4
    }
   },
   "2026-10-15-5-curiosity": {
@@ -385,7 +505,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -413,7 +535,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -426,6 +550,100 @@
     "views": 25,
     "likes": 1,
     "comments": 0
+   }
+  },
+  "2026-10-15-3-fill": {
+   "type": "fill",
+   "date": "2026-10-15",
+   "time": "10:00",
+   "title": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/gXuwZa53AO4",
+    "instagram": "https://www.instagram.com/reel/DehBK5YkjRT/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4447900862093673"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 2,
+    "avg_watch_s": 1.8,
+    "watch_time_s": 1.8
+   },
+   "youtube": {
+    "views": 23,
+    "likes": 1,
+    "comments": 0
+   }
+  },
+  "2026-10-15-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-15",
+   "time": "08:00",
+   "title": "Até qual cidade Ló armou sua tenda?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/PbIoB0pLf3Y",
+    "instagram": "https://www.instagram.com/reel/DegzXAWjN1B/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3444290519106855"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0,
+    "views": 464,
+    "avg_watch_s": 2.1,
+    "watch_time_s": 917.8
+   },
+   "youtube": {
+    "views": 9,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-10-15-1-verse": {
+   "type": "verse",
+   "date": "2026-10-15",
+   "time": "06:30",
+   "title": "Colossenses 2:7",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DegpC3jgSeX/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097884121513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-14-10-truefalse": {
@@ -445,7 +663,9 @@
     "saved": 0,
     "shares": 0,
     "views": 2,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.8,
+    "watch_time_s": 1.6
    },
    "facebook": {
     "likes": 0,
@@ -473,7 +693,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -506,7 +728,9 @@
     "saved": 0,
     "shares": 0,
     "views": 1,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 1.0,
+    "watch_time_s": 1.0
    },
    "facebook": {
     "likes": 0,
@@ -539,7 +763,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -571,7 +797,9 @@
     "saved": 0,
     "shares": 0,
     "views": 9,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.7,
+    "watch_time_s": 6.6
    },
    "facebook": {
     "likes": 0,
@@ -598,7 +826,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -626,7 +856,9 @@
     "saved": 0,
     "shares": 0,
     "views": 2,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 1.9
    },
    "facebook": {
     "likes": 0,
@@ -639,6 +871,100 @@
     "views": 3,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-14-3-fill": {
+   "type": "fill",
+   "date": "2026-10-14",
+   "time": "10:00",
+   "title": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/VrCSeeaTC-s",
+    "instagram": "https://www.instagram.com/reel/DeecVQyin7r/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1678829830622935"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 9,
+    "saved": 0,
+    "shares": 0,
+    "views": 11,
+    "total_interactions": 0,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 62.9
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 9,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "2026-10-14-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-14",
+   "time": "08:00",
+   "title": "Qual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/dbBg841UQVw",
+    "instagram": "https://www.instagram.com/reel/DeeOmu0jQtU/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1124311613279126"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 0.9
+   },
+   "youtube": {
+    "views": 13,
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "2026-10-14-1-verse": {
+   "type": "verse",
+   "date": "2026-10-14",
+   "time": "06:30",
+   "title": "2 Coríntios 4:18",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeeEWwxmeAY/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097046419513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-13-10-truefalse": {
@@ -658,7 +984,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -686,7 +1014,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -719,7 +1049,9 @@
     "saved": 0,
     "shares": 0,
     "views": 5,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 3.6
    },
    "facebook": {
     "likes": 0,
@@ -752,7 +1084,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -784,7 +1118,9 @@
     "saved": 0,
     "shares": 0,
     "views": 8,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 7.1
    },
    "facebook": {
     "likes": 4,
@@ -811,7 +1147,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -819,6 +1157,135 @@
     "views": 229,
     "avg_watch_s": 2.6,
     "watch_time_s": 552.3
+   }
+  },
+  "2026-10-13-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-13",
+   "time": "12:00",
+   "title": "Sobre quantos bodes Arão lançava sortes?",
+   "hook": "Legenda da IA",
+   "links": {
+    "youtube": "https://youtube.com/shorts/c7wPbOsk-gU",
+    "instagram": "https://www.instagram.com/reel/DecFfDlAPK-/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1482098440641829"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0,
+    "views": 225,
+    "avg_watch_s": 2.1,
+    "watch_time_s": 421.3
+   },
+   "youtube": {
+    "views": 13,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "2026-10-13-3-fill": {
+   "type": "fill",
+   "date": "2026-10-13",
+   "time": "10:00",
+   "title": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/acx-KQKjy5k",
+    "instagram": "https://www.instagram.com/reel/Deb3veXkr2J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1839237333880450"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 1.8
+   },
+   "facebook": {
+    "likes": 1,
+    "comments": 0,
+    "views": 201,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 464.2
+   },
+   "youtube": {
+    "views": 15,
+    "likes": 4,
+    "comments": 0
+   }
+  },
+  "2026-10-13-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-13",
+   "time": "08:00",
+   "title": "Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?",
+   "hook": "Legenda da IA",
+   "links": {
+    "youtube": "https://youtube.com/shorts/vjQxjayslv4",
+    "instagram": "https://www.instagram.com/reel/DebqEU4DIH0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2224157021784009"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 1,
+    "views": 257,
+    "avg_watch_s": 2.9,
+    "watch_time_s": 697.3
+   },
+   "youtube": {
+    "views": 7,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "2026-10-13-1-verse": {
+   "type": "verse",
+   "date": "2026-10-13",
+   "time": "06:30",
+   "title": "Salmos 56:3",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DebfrAXEVEV/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096365791513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-12-10-curiosity": {
@@ -863,7 +1330,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 5,
@@ -896,7 +1365,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -977,7 +1448,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -1010,7 +1483,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -1115,7 +1590,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -1171,7 +1648,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -1199,7 +1678,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -1212,6 +1693,30 @@
     "views": 8,
     "likes": 3,
     "comments": 0
+   }
+  },
+  "2026-10-12-1-verse": {
+   "type": "verse",
+   "date": "2026-10-12",
+   "time": "06:30",
+   "title": "Provérbios 4:23",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeY6ph7GBP0/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095733325513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-12-1-verse-v2": {
@@ -1280,7 +1785,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -1313,7 +1820,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -1346,7 +1855,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 4,
@@ -1403,7 +1914,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 1,
@@ -1416,6 +1929,30 @@
     "views": 165,
     "likes": 7,
     "comments": 0
+   }
+  },
+  "2026-10-11-1-verse": {
+   "type": "verse",
+   "date": "2026-10-11",
+   "time": "07:00",
+   "title": "Salmos 19:1",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeWZRgtjG8f/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095079961513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-10-7-curiosity-v3": {
@@ -1442,6 +1979,41 @@
     "shares": 0
    }
   },
+  "2026-10-10-6-quiz": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "title": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
+    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 10.2
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 10,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 47.1
+   },
+   "youtube": {
+    "views": 19,
+    "likes": 1,
+    "comments": 0
+   }
+  },
   "2026-10-10-6-quiz-v3": {
    "type": "quiz",
    "date": "2026-10-10",
@@ -1460,7 +2032,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 5,
@@ -1493,7 +2067,9 @@
     "saved": 0,
     "shares": 0,
     "views": 6,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 24.2
    },
    "facebook": {
     "likes": 2,
@@ -1526,7 +2102,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 2,
@@ -1589,6 +2167,41 @@
     "shares": 0
    }
   },
+  "2026-10-10-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-10",
+   "time": "09:00",
+   "title": "A quem Jesus disse: \"vem para fora!\"?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0KYCn4BERM8",
+    "instagram": "https://www.instagram.com/reel/DeT8SergR2C/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3757767331048069"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0,
+    "avg_watch_s": 1.8,
+    "watch_time_s": 3.7
+   },
+   "facebook": {
+    "likes": 2,
+    "comments": 1,
+    "views": 362,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 838.8
+   },
+   "youtube": {
+    "views": 43,
+    "likes": 3,
+    "comments": 0
+   }
+  },
   "2026-10-10-2-quiz-v2": {
    "type": "quiz",
    "date": "2026-10-10",
@@ -1607,7 +2220,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -1640,7 +2255,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 3,
@@ -1653,6 +2270,30 @@
     "views": 80,
     "likes": 7,
     "comments": 0
+   }
+  },
+  "2026-10-10-1-verse": {
+   "type": "verse",
+   "date": "2026-10-10",
+   "time": "07:00",
+   "title": "2 Timóteo 1:7",
+   "hook": "Legenda da IA",
+   "links": {
+    "instagram": "https://www.instagram.com/p/DeT093wGDsP/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094571149513774"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 2,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
    }
   },
   "2026-10-09-7-curiosity": {
@@ -1697,7 +2338,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
@@ -1754,7 +2397,9 @@
     "saved": 0,
     "shares": 0,
     "views": 4,
-    "total_interactions": 2
+    "total_interactions": 2,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 16.2
    },
    "facebook": {
     "likes": 0,
@@ -1787,7 +2432,9 @@
     "saved": 0,
     "shares": 0,
     "views": 2,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 2.9,
+    "watch_time_s": 5.7
    },
    "facebook": {
     "likes": 0,
@@ -1844,7 +2491,9 @@
     "saved": 0,
     "shares": 0,
     "views": 0,
-    "total_interactions": 0
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "facebook": {
     "likes": 0,
