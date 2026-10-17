@@ -60,6 +60,34 @@ def _get(url: str, **params) -> dict:
     return data
 
 
+def _is_permission_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    return "permission" in msg or "(#10)" in msg or "(#200)" in msg
+
+
+def ig_insights(media_id: str, metrics: str, token: str, failed: list[str]) -> dict:
+    """Insights de um post do Instagram. Se a Meta recusar o pedido junto (ex.: "Please reduce the
+    amount of data"), tenta métrica por métrica e pula as que falharem. Só a falta de permissão
+    sobe como erro (aí não adianta continuar)."""
+    from .publishers.meta import GRAPH
+
+    url = f"{GRAPH}/{media_id}/insights"
+    try:
+        items = _get(url, metric=metrics, access_token=token).get("data", [])
+    except PublishError as exc:
+        if _is_permission_error(exc):
+            raise
+        items = []
+        for metric in metrics.split(","):
+            try:
+                items += _get(url, metric=metric, access_token=token).get("data", [])
+            except PublishError as one:
+                if _is_permission_error(one):
+                    raise
+                failed.append(f"{media_id}: {one}")
+    return {item["name"]: (item.get("values") or [{}])[0].get("value", 0) for item in items}
+
+
 def fb_video_insights(video_id: str, token: str) -> dict:
     """Visualizações, views de 3 s, pessoas, vídeos assistidos até o fim e tempo médio (s)."""
     from .publishers.meta import GRAPH
@@ -94,19 +122,21 @@ def collect_meta(token: str, page_id: str | None, notes: list[str],
         data = _get(f"{GRAPH}/{acc.ig_id}/media", access_token=acc.page_token, limit=100,
                     fields="id,permalink,timestamp,media_product_type,like_count,comments_count")
         insights_ok = True
+        failed: list[str] = []
         for m in data.get("data", []):
             row = {"likes": m.get("like_count", 0), "comments": m.get("comments_count", 0)}
             metrics = IG_INSIGHTS.get(m.get("media_product_type"))
             if insights_ok and metrics:
                 try:
-                    ins = _get(f"{GRAPH}/{m['id']}/insights", metric=metrics, access_token=acc.page_token)
-                    for item in ins.get("data", []):
-                        row[item["name"]] = (item.get("values") or [{}])[0].get("value", 0)
+                    row.update(ig_insights(m["id"], metrics, acc.page_token, failed))
                 except PublishError as exc:
                     insights_ok = False
                     notes.append("Instagram: alcance, salvamentos e visualizações precisam da permissão "
                                  f"instagram_manage_insights no token (erro: {str(exc)[:120]})")
             ig[m.get("permalink", "").rstrip("/")] = row
+        if failed:
+            notes.append(f"Instagram: a Meta não devolveu algumas métricas de {len(set(failed))} post(s) "
+                         f"(erro: {failed[-1][:120]})")
     fb: dict[str, dict] = {}
     posts = _get(f"{GRAPH}/{acc.page_id}/posts", access_token=acc.page_token, limit=100,
                  fields="id,reactions.summary(true).limit(0),comments.summary(true).limit(0),shares")

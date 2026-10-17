@@ -510,6 +510,26 @@ class MetricsTests(unittest.TestCase):
         self.assertTrue(any("instagram_manage_insights" in n for n in data["notes"]))
         self.assertFalse(any("read_insights" in n for n in data["notes"]))
 
+    def test_instagram_insights_too_much_data_falls_back_to_one_metric_at_a_time(self):
+        from app import metrics
+        from app.publishers import PublishError
+
+        def fake_get(url, **params):
+            if "," in params["metric"]:
+                raise PublishError("Please reduce the amount of data you're asking for, then retry your request")
+            if params["metric"] == "saved":
+                raise PublishError("Please reduce the amount of data you're asking for, then retry your request")
+            return {"data": [{"name": params["metric"], "values": [{"value": 5}]}]}
+
+        failed = []
+        with mock.patch.object(metrics, "_get", side_effect=fake_get):
+            row = metrics.ig_insights("M1", "reach,saved,shares", "T", failed)
+        self.assertEqual(row, {"reach": 5, "shares": 5})
+        self.assertEqual(len(failed), 1)
+        with mock.patch.object(metrics, "_get", side_effect=PublishError("(#10) Application does not have permission")):
+            with self.assertRaises(PublishError):
+                metrics.ig_insights("M1", "reach,saved", "T", [])
+
     def test_facebook_video_insights_without_permission_keep_likes_and_warn(self):
         from app import metrics
         from app.publishers import PublishError, meta
