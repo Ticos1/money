@@ -1,7 +1,32 @@
 {
- "updated_at": "2026-10-17T00:33:37+00:00",
- "notes": [],
+ "updated_at": "2026-10-17T04:05:50+00:00",
+ "notes": [
+  "Instagram: alcance, salvamentos e visualizações precisam da permissão instagram_manage_insights no token (erro: Please reduce the amount of data you're asking for, then retry your request)"
+ ],
  "posts": {
+  "2026-10-16-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-16",
+   "time": "21:30",
+   "title": "O que Absalão roubou, ao agir assim com todo o Israel?",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/Dek05feAuJg/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2709775876106311"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-16-9-quiz": {
    "type": "quiz",
    "date": "2026-10-16",
@@ -26,8 +51,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 4,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -44,10 +69,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0
    },
    "facebook": {
@@ -55,8 +80,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 10,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -84,8 +109,8 @@
     "comments": 0
    },
    "youtube": {
-    "views": 5,
-    "likes": 0,
+    "views": 11,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -101,10 +126,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0
    },
    "facebook": {
@@ -159,90 +184,9 @@
     "comments": 0
    },
    "youtube": {
-    "views": 7,
-    "likes": 0,
+    "views": 14,
+    "likes": 3,
     "comments": 0
-   }
-  },
-  "2026-10-16-3-fill": {
-   "type": "fill",
-   "date": "2026-10-16",
-   "time": "10:00",
-   "title": "Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.",
-   "links": {
-    "youtube": "https://youtube.com/shorts/2xUOh6sg_Ic",
-    "instagram": "https://www.instagram.com/reel/Dejl9bsk-oC/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1454804146826559"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 1,
-    "comments": 0
-   },
-   "youtube": {
-    "views": 2,
-    "likes": 1,
-    "comments": 0
-   }
-  },
-  "2026-10-16-2-quiz": {
-   "type": "quiz",
-   "date": "2026-10-16",
-   "time": "08:00",
-   "title": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
-   "links": {
-    "youtube": "https://youtube.com/shorts/1QF_6k46f7s",
-    "instagram": "https://www.instagram.com/reel/DejYOM-DTJV/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1149730891046952"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0
-   },
-   "youtube": {
-    "views": 8,
-    "likes": 1,
-    "comments": 0
-   }
-  },
-  "2026-10-16-1-verse": {
-   "type": "verse",
-   "date": "2026-10-16",
-   "time": "06:30",
-   "title": "Filipenses 4:13",
-   "links": {
-    "instagram": "https://www.instagram.com/p/DejN69dF8fd/",
-    "facebook": "https://www.facebook.com/1405324152662027_122098612479513774"
-   },
-   "instagram": {
-    "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
    }
   },
   "2026-10-15-10-truefalse": {
@@ -425,7 +369,7 @@
     "comments": 1
    },
    "youtube": {
-    "views": 24,
+    "views": 25,
     "likes": 1,
     "comments": 0
    }
@@ -441,12 +385,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 2,
-    "saved": 0,
-    "shares": 0,
-    "views": 2,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -465,19 +404,14 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
    "youtube": {
-    "views": 79,
+    "views": 81,
     "likes": 2,
     "comments": 0
    }
@@ -494,12 +428,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "views": 1,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -523,19 +452,14 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
    "youtube": {
-    "views": 6,
+    "views": 8,
     "likes": 1,
     "comments": 0
    }
@@ -551,12 +475,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 9,
-    "saved": 0,
-    "shares": 0,
-    "views": 9,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -574,12 +493,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -598,12 +512,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "views": 2,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -626,12 +535,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -650,12 +554,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -679,19 +578,14 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 4,
-    "saved": 0,
-    "shares": 0,
-    "views": 5,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
     "comments": 0
    },
    "youtube": {
-    "views": 85,
+    "views": 83,
     "likes": 6,
     "comments": 0
    }
@@ -708,12 +602,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -736,12 +625,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 8,
-    "saved": 0,
-    "shares": 0,
-    "views": 8,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 4,
@@ -759,12 +643,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -782,11 +661,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -806,12 +681,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 5,
@@ -835,12 +705,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -863,11 +728,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -886,11 +747,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -910,12 +767,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -939,12 +791,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -967,11 +814,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -990,11 +833,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1013,11 +852,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1037,12 +872,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -1065,11 +895,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1088,12 +914,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1112,12 +933,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1140,11 +956,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1163,11 +975,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1187,12 +995,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -1216,12 +1019,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -1245,12 +1043,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 4,
@@ -1273,11 +1066,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1297,12 +1086,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 1,
@@ -1325,11 +1109,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1349,12 +1129,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 5,
@@ -1378,12 +1153,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 5,
-    "saved": 0,
-    "shares": 0,
-    "views": 6,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -1407,12 +1177,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 2,
@@ -1435,11 +1200,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1458,11 +1219,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1482,12 +1239,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1511,12 +1263,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 3,
@@ -1539,11 +1286,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 1
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1563,12 +1306,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1591,11 +1329,7 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 2
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1615,12 +1349,7 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "views": 4,
-    "total_interactions": 2
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1644,12 +1373,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "views": 2,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1672,11 +1396,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1696,12 +1416,7 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0,
-    "reach": 0,
-    "saved": 0,
-    "shares": 0,
-    "views": 0,
-    "total_interactions": 0
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
@@ -1724,11 +1439,7 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0,
-    "reach": 1,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 2
+    "comments": 0
    },
    "facebook": {
     "likes": 0,
