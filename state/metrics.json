@@ -1,14 +1,13 @@
 {
- "updated_at": "2026-10-17T04:05:50+00:00",
- "notes": [
-  "Instagram: alcance, salvamentos e visualizações precisam da permissão instagram_manage_insights no token (erro: Please reduce the amount of data you're asking for, then retry your request)"
- ],
+ "updated_at": "2026-10-17T04:14:00+00:00",
+ "notes": [],
  "posts": {
   "2026-10-16-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-16",
    "time": "21:30",
    "title": "O que Absalão roubou, ao agir assim com todo o Israel?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
    "links": {
     "instagram": "https://www.instagram.com/reel/Dek05feAuJg/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/2709775876106311"
@@ -24,7 +23,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-16-9-quiz": {
@@ -32,6 +34,7 @@
    "date": "2026-10-16",
    "time": "20:00",
    "title": "Para que o dono da casa saiu de manhã cedo, na parábola dos trabalhadores?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/TsKSAZZVVpI",
     "instagram": "https://www.instagram.com/reel/Dekqm9YFD5L/",
@@ -48,7 +51,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "youtube": {
     "views": 4,
@@ -61,6 +67,7 @@
    "date": "2026-10-16",
    "time": "18:30",
    "title": "Mas, se algum de vocês precisa de _____, peça-a a Deus, que dá generosamente a todos, sem censurar, e ela lhe será dada.",
+   "hook": "Qual palavra falta nesse versículo?",
    "links": {
     "youtube": "https://youtube.com/shorts/A0rOOTK100M",
     "instagram": "https://www.instagram.com/reel/DekgSt5iTGs/",
@@ -77,7 +84,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 3,
+    "avg_watch_s": 1.2,
+    "watch_time_s": 2.4
    },
    "youtube": {
     "views": 10,
@@ -90,6 +100,7 @@
    "date": "2026-10-16",
    "time": "17:00",
    "title": "Jesus diz em Apocalipse: 'Eu sou o Alfa e o...'",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/-J9T6xBIBl4",
     "instagram": "https://www.instagram.com/reel/DekWAHfCPYQ/",
@@ -106,7 +117,10 @@
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 226,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 526.9
    },
    "youtube": {
     "views": 11,
@@ -119,6 +133,7 @@
    "date": "2026-10-16",
    "time": "15:00",
    "title": "Com quantos anos Manassés começou a reinar?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
    "links": {
     "instagram": "https://www.instagram.com/reel/DekI0kiESvB/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1626141078994210"
@@ -134,7 +149,10 @@
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 214,
+    "avg_watch_s": 3.0,
+    "watch_time_s": 591.0
    }
   },
   "2026-10-16-5-curiosity": {
@@ -142,6 +160,7 @@
    "date": "2026-10-16",
    "time": "13:30",
    "title": "Quarenta anos de maná",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/reel/Dej-EfgCNJZ/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/28306748165674303"
@@ -157,7 +176,10 @@
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 223,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 845.0
    }
   },
   "2026-10-16-4-quiz": {
@@ -165,6 +187,7 @@
    "date": "2026-10-16",
    "time": "12:00",
    "title": "Segundo Jesus, quem tem tocas?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/sK6MVP2pNdw",
     "instagram": "https://www.instagram.com/reel/DejzsLlgvSy/",
@@ -181,7 +204,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 357,
+    "avg_watch_s": 3.0,
+    "watch_time_s": 947.6
    },
    "youtube": {
     "views": 14,
@@ -194,6 +220,7 @@
    "date": "2026-10-15",
    "time": "21:30",
    "title": "Que perfume a mulher derramou sobre a cabeça de Jesus em Betânia?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
    "links": {
     "instagram": "https://www.instagram.com/reel/DeiQEMZAItZ/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1616510463309685"
@@ -209,7 +236,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-15-9-quiz": {
@@ -217,6 +247,7 @@
    "date": "2026-10-15",
    "time": "20:00",
    "title": "Quem foi ao sepulcro bem cedo, ainda escuro, no primeiro dia da semana?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/7KuQc_MBwOg",
     "instagram": "https://www.instagram.com/reel/DeiFzCCgu3d/",
@@ -233,7 +264,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "youtube": {
     "views": 13,
@@ -246,6 +280,7 @@
    "date": "2026-10-15",
    "time": "18:30",
    "title": "O SENHOR me apareceu no passado, dizendo: Sim, eu amei você com um amor eterno. Portanto, eu a atraí com _____.",
+   "hook": "Você sabe esse versículo de cor?",
    "links": {
     "youtube": "https://youtube.com/shorts/p_KygHsEaYM",
     "instagram": "https://www.instagram.com/reel/Deh7fDmD_gP/",
@@ -262,7 +297,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 3,
+    "avg_watch_s": 0.3,
+    "watch_time_s": 0.7
    },
    "youtube": {
     "views": 13,
@@ -275,6 +313,7 @@
    "date": "2026-10-15",
    "time": "17:00",
    "title": "Por quanto tempo não choveu depois da oração de Elias?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/0y_qs7a3nk4",
     "instagram": "https://www.instagram.com/reel/DehxK9ZFO8W/",
@@ -291,7 +330,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 313,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 695.6
    },
    "youtube": {
     "views": 10,
@@ -304,6 +346,7 @@
    "date": "2026-10-15",
    "time": "15:00",
    "title": "Junto com o manto e a túnica, o que Jônatas deu a Davi?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
    "links": {
     "instagram": "https://www.instagram.com/reel/Dehjf5bjvsY/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/925804037055659"
@@ -319,7 +362,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 438,
+    "avg_watch_s": 3.3,
+    "watch_time_s": 1326.3
    }
   },
   "2026-10-15-5-curiosity": {
@@ -327,6 +373,7 @@
    "date": "2026-10-15",
    "time": "13:30",
    "title": "O fim da serpente de bronze",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
    "links": {
     "instagram": "https://www.instagram.com/reel/DehZHXYjUon/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1408021864266601"
@@ -342,7 +389,10 @@
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 314,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 1054.0
    }
   },
   "2026-10-15-4-quiz": {
@@ -350,6 +400,7 @@
    "date": "2026-10-15",
    "time": "12:00",
    "title": "De qual monte Moisés viu a terra prometida antes de morrer?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/AVZBbG3q0Jw",
     "instagram": "https://www.instagram.com/reel/DehO1xxEW3N/",
@@ -366,7 +417,10 @@
    },
    "facebook": {
     "likes": 0,
-    "comments": 1
+    "comments": 1,
+    "views": 280,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 719.1
    },
    "youtube": {
     "views": 25,
@@ -379,17 +433,26 @@
    "date": "2026-10-14",
    "time": "21:30",
    "title": "Que animal falou com o profeta Balaão?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
    "links": {
     "instagram": "https://www.instagram.com/reel/DefrWFvjP6H/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1443036901109915"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 2,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.1,
+    "watch_time_s": 0.1
    }
   },
   "2026-10-14-9-quiz": {
@@ -397,6 +460,7 @@
    "date": "2026-10-14",
    "time": "20:00",
    "title": "Em que lugar Miriã, irmã de Moisés, morreu?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/KDN_gYm0fG8",
     "instagram": "https://www.instagram.com/reel/DefhA4Pj4YO/",
@@ -404,11 +468,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "youtube": {
     "views": 81,
@@ -421,6 +493,7 @@
    "date": "2026-10-14",
    "time": "18:30",
    "title": "Mas vocês receberão _____ quando o Espírito Santo descer sobre vocês. E serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
    "links": {
     "youtube": "https://youtube.com/shorts/8lBZa5LiplM",
     "instagram": "https://www.instagram.com/reel/DefWrlpEVwO/",
@@ -428,11 +501,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 1,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 6,
+    "avg_watch_s": 2.3,
+    "watch_time_s": 14.0
    },
    "youtube": {
     "views": 1,
@@ -445,6 +526,7 @@
    "date": "2026-10-14",
    "time": "17:00",
    "title": "O que fizeram com os olhos do rei Zedequias antes de levá-lo para a Babilônia?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/F9I_iJeux_A",
     "instagram": "https://www.instagram.com/reel/DefMbcigqD4/",
@@ -452,11 +534,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 234,
+    "avg_watch_s": 2.7,
+    "watch_time_s": 572.9
    },
    "youtube": {
     "views": 8,
@@ -469,17 +559,26 @@
    "date": "2026-10-14",
    "time": "15:00",
    "title": "O que o povo pediu a Samuel, para ser como as outras nações?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
    "links": {
     "instagram": "https://www.instagram.com/reel/Dee-sUdjJVv/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/2347984272634038"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 9,
+    "saved": 0,
+    "shares": 0,
+    "views": 9,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 366,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 1151.6
    }
   },
   "2026-10-14-5-curiosity": {
@@ -487,17 +586,26 @@
    "date": "2026-10-14",
    "time": "13:30",
    "title": "O melhor vinho por último",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/reel/Dee0ZI8DJot/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/2801903793538562"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 111,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 495.3
    }
   },
   "2026-10-14-4-quiz": {
@@ -505,6 +613,7 @@
    "date": "2026-10-14",
    "time": "12:00",
    "title": "Esdras tinha disposto o coração para buscar o quê?",
+   "hook": "Teste rápido: você acerta de primeira?",
    "links": {
     "youtube": "https://youtube.com/shorts/DhEgNjgySew",
     "instagram": "https://www.instagram.com/reel/Deeqnkhja9V/",
@@ -512,11 +621,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 226,
+    "avg_watch_s": 2.7,
+    "watch_time_s": 564.7
    },
    "youtube": {
     "views": 3,
@@ -529,17 +646,26 @@
    "date": "2026-10-13",
    "time": "21:30",
    "title": "Segundo Jesus, quem são os bem-aventurados, pois deles é o Reino dos Céus?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
    "links": {
     "instagram": "https://www.instagram.com/reel/DedGeBvGi-I/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1615096120069846"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-13-9-quiz": {
@@ -547,6 +673,7 @@
    "date": "2026-10-13",
    "time": "20:00",
    "title": "Qual palavra aparece em João 3:16 que descreve quem enviou o Filho?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/CXI4aqtVeAI",
     "instagram": "https://www.instagram.com/reel/Dec8VSslIK2/",
@@ -554,11 +681,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "youtube": {
     "views": 41,
@@ -571,6 +706,7 @@
    "date": "2026-10-13",
    "time": "18:30",
    "title": "Os passos do homem são firmados pelo SENHOR; ele se agrada do seu _____.",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/hItGPpk7cBE",
     "instagram": "https://www.instagram.com/reel/DecyBYOEdN_/",
@@ -578,11 +714,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 4,
+    "saved": 0,
+    "shares": 0,
+    "views": 5,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.1,
+    "watch_time_s": 0.1
    },
    "youtube": {
     "views": 83,
@@ -595,6 +739,7 @@
    "date": "2026-10-13",
    "time": "17:00",
    "title": "O que Moisés feriu em Horebe para que saísse água?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/UCYx3mOwYEA",
     "instagram": "https://www.instagram.com/reel/Decnz_lAXKS/",
@@ -602,11 +747,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 792,
+    "avg_watch_s": 2.6,
+    "watch_time_s": 1904.4
    },
    "youtube": {
     "views": 7,
@@ -619,17 +772,26 @@
    "date": "2026-10-13",
    "time": "15:00",
    "title": "Em forma de que ave o Espírito de Deus desceu sobre Jesus no batismo?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
    "links": {
     "instagram": "https://www.instagram.com/reel/DecaITWEQ2V/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1124188887144921"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 8,
+    "saved": 0,
+    "shares": 0,
+    "views": 8,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 4,
-    "comments": 2
+    "comments": 2,
+    "views": 948,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 3091.2
    }
   },
   "2026-10-13-5-curiosity": {
@@ -637,17 +799,26 @@
    "date": "2026-10-13",
    "time": "13:30",
    "title": "O primeiro ferreiro",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/reel/DecPvR8CEuq/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/951075310958868"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 229,
+    "avg_watch_s": 2.6,
+    "watch_time_s": 552.3
    }
   },
   "2026-10-12-10-curiosity": {
@@ -655,13 +826,18 @@
    "date": "2026-10-12",
    "time": "21:30",
    "title": "Um ano de tratamento de beleza",
+   "hook": "Aprenda algo novo sobre a Bíblia hoje",
    "links": {
     "instagram": "https://www.instagram.com/p/DeahnfEHSU5/",
     "facebook": "https://www.facebook.com/1405324152662027_122096149449513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -674,6 +850,7 @@
    "date": "2026-10-12",
    "time": "20:00",
    "title": "No Salmo 119, as promessas de Deus são mais doces do que o quê?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/h-e03zh9lh8",
     "instagram": "https://www.instagram.com/reel/DeaXVp4kpqR/",
@@ -681,11 +858,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 5,
-    "comments": 2
+    "comments": 2,
+    "views": 1093,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 2544.2
    },
    "youtube": {
     "views": 171,
@@ -698,6 +883,7 @@
    "date": "2026-10-12",
    "time": "20:00",
    "title": "O que Deus prometeu restituir, que o gafanhoto comeu?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/0YmPXuIu_8k",
     "instagram": "https://www.instagram.com/reel/DeZCBGTDyNK/",
@@ -705,11 +891,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 233,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 545.7
    },
    "youtube": {
     "views": 213,
@@ -722,13 +916,18 @@
    "date": "2026-10-12",
    "time": "18:30",
    "title": "Onde surgiu o nome \"cristão\"",
+   "hook": "Aprenda algo novo sobre a Bíblia hoje",
    "links": {
     "instagram": "https://www.instagram.com/p/DeaNBgeG8NJ/",
     "facebook": "https://www.facebook.com/1405324152662027_122096091819513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -741,13 +940,18 @@
    "date": "2026-10-12",
    "time": "18:30",
    "title": "Acharam que era um anjo",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
    "links": {
     "instagram": "https://www.instagram.com/p/DeZCXt8jDJo/",
     "facebook": "https://www.facebook.com/1405324152662027_122095771365513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -760,6 +964,7 @@
    "date": "2026-10-12",
    "time": "17:00",
    "title": "Sobre o que Jesus dormia na popa do barco?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/ncbbYAnOu4o",
     "instagram": "https://www.instagram.com/reel/DeaC-0ZFJEH/",
@@ -767,11 +972,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 583,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 1346.0
    },
    "youtube": {
     "views": 8,
@@ -784,6 +997,7 @@
    "date": "2026-10-12",
    "time": "17:00",
    "title": "Quantos apóstolos Jesus escolheu dentre os discípulos?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/jI2WUTjEzU0",
     "instagram": "https://www.instagram.com/reel/DeaCv9kimpw/",
@@ -791,11 +1005,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 471,
+    "avg_watch_s": 2.2,
+    "watch_time_s": 946.2
    },
    "youtube": {
     "views": 27,
@@ -808,13 +1030,18 @@
    "date": "2026-10-12",
    "time": "15:00",
    "title": "As letras grandes de Paulo",
+   "hook": "Aprenda algo novo sobre a Bíblia hoje",
    "links": {
     "instagram": "https://www.instagram.com/p/DeaYCOkDBht/",
     "facebook": "https://www.facebook.com/1405324152662027_122096124141513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -827,13 +1054,18 @@
    "date": "2026-10-12",
    "time": "15:00",
    "title": "A restauração de Jó",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
    "links": {
     "instagram": "https://www.instagram.com/p/DeZ1BLrDGav/",
     "facebook": "https://www.facebook.com/1405324152662027_122095994847513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -846,13 +1078,18 @@
    "date": "2026-10-12",
    "time": "13:30",
    "title": "1 Coríntios 15:58",
+   "hook": "Leia com calma e receba",
    "links": {
     "instagram": "https://www.instagram.com/p/DeZqs55HLej/",
     "facebook": "https://www.facebook.com/1405324152662027_122095947231513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -865,6 +1102,7 @@
    "date": "2026-10-12",
    "time": "12:00",
    "title": "Que nome babilônico deram a Daniel?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/BC6MkB_I2jg",
     "instagram": "https://www.instagram.com/reel/DeZgbeJksMS/",
@@ -872,11 +1110,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "views": 217,
+    "avg_watch_s": 2.2,
+    "watch_time_s": 441.8
    },
    "youtube": {
     "views": 5,
@@ -889,13 +1135,18 @@
    "date": "2026-10-12",
    "time": "10:00",
    "title": "Jesus cantou",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
    "links": {
     "instagram": "https://www.instagram.com/p/DeZSrOEDN76/",
     "facebook": "https://www.facebook.com/1405324152662027_122095848111513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -908,17 +1159,26 @@
    "date": "2026-10-12",
    "time": "08:00",
    "title": "De que eram feitas as roupas de João Batista?",
+   "hook": "Pergunta bíblica que poucos acertam",
    "links": {
     "instagram": "https://www.instagram.com/reel/DeaXxngEvYu/",
     "facebook": "https://www.facebook.com/1405324152662027/videos/1067904776291918"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-12-2-quiz-v3": {
@@ -926,6 +1186,7 @@
    "date": "2026-10-12",
    "time": "08:00",
    "title": "Segundo Romanos, qual é o salário do pecado?",
+   "hook": "Teste rápido: você acerta de primeira?",
    "links": {
     "youtube": "https://youtube.com/shorts/q4a5Hr-53Ww",
     "instagram": "https://www.instagram.com/reel/DeZE8IKFooR/",
@@ -933,11 +1194,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 1
+    "comments": 1,
+    "views": 343,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 769.6
    },
    "youtube": {
     "views": 8,
@@ -950,13 +1219,18 @@
    "date": "2026-10-12",
    "time": "06:30",
    "title": "Salmos 37:4",
+   "hook": "Para guardar no coração",
    "links": {
     "instagram": "https://www.instagram.com/p/DeY7M0ul2Uc/",
     "facebook": "https://www.facebook.com/1405324152662027_122095735893513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -969,13 +1243,18 @@
    "date": "2026-10-11",
    "time": "21:00",
    "title": "Você sabia? A sarça que não se consumia",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/p/DeX5ZfeGDyB/",
     "facebook": "https://www.facebook.com/1405324152662027_122095468971513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -988,6 +1267,7 @@
    "date": "2026-10-11",
    "time": "19:00",
    "title": "Que profeta o Senhor enviou a Davi para contar a história de dois homens, um rico e um pobre?",
+   "hook": "Desafio bíblico do dia",
    "links": {
     "youtube": "https://youtube.com/shorts/g4OL6XLVz0w",
     "instagram": "https://www.instagram.com/reel/DeXrrAHiIaa/",
@@ -995,11 +1275,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 1066,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 2423.5
    },
    "youtube": {
     "views": 30,
@@ -1012,6 +1300,7 @@
    "date": "2026-10-11",
    "time": "17:00",
    "title": "Com o tamanho de qual semente a fé poderia mover um monte?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/IetigKQgqyI",
     "instagram": "https://www.instagram.com/reel/DeXd8cKlb9j/",
@@ -1019,11 +1308,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 1
+    "comments": 1,
+    "views": 780,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 1957.3
    },
    "youtube": {
     "views": 12,
@@ -1036,6 +1333,7 @@
    "date": "2026-10-11",
    "time": "14:00",
    "title": "O que os discípulos lançaram sobre o jumentinho antes de Jesus montar?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/4qhBZwSjJiY",
     "instagram": "https://www.instagram.com/reel/DeXJcOmCKo3/",
@@ -1043,11 +1341,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 4,
-    "comments": 0
+    "comments": 0,
+    "views": 915,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 2641.8
    },
    "youtube": {
     "views": 10,
@@ -1060,13 +1366,18 @@
    "date": "2026-10-11",
    "time": "12:00",
    "title": "Negócio fechado com sandália",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/p/DeW7mytlEjo/",
     "facebook": "https://www.facebook.com/1405324152662027_122095218579513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -1079,6 +1390,7 @@
    "date": "2026-10-11",
    "time": "09:00",
    "title": "Quem escondeu o menino Joás para que Atalia não o matasse?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/ck5uL6QDvJo",
     "instagram": "https://www.instagram.com/reel/DeXJxVdgoL0/",
@@ -1086,11 +1398,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 1,
-    "comments": 1
+    "comments": 1,
+    "views": 467,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 1191.0
    },
    "youtube": {
     "views": 165,
@@ -1103,13 +1423,18 @@
    "date": "2026-10-10",
    "time": "21:00",
    "title": "As 300 raposas",
+   "hook": "Curiosidade bíblica que pouca gente conhece",
    "links": {
     "instagram": "https://www.instagram.com/p/DeVUm-Wl8lU/",
     "facebook": "https://www.facebook.com/1405324152662027_122094863643513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -1122,6 +1447,7 @@
    "date": "2026-10-10",
    "time": "19:00",
    "title": "Além de ouro, prata e marfim, que animais a frota de Salomão trazia?",
+   "hook": "Teste rápido: você acerta de primeira?",
    "links": {
     "youtube": "https://youtube.com/shorts/x1YgxHhlX7M",
     "instagram": "https://www.instagram.com/reel/DeVG3ybFbvA/",
@@ -1129,11 +1455,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "views": 1346,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 3176.3
    },
    "youtube": {
     "views": 65,
@@ -1146,6 +1480,7 @@
    "date": "2026-10-10",
    "time": "17:00",
    "title": "Quantos anos Calebe tinha quando foi enviado para espiar a terra?",
+   "hook": "Desafio bíblico do dia",
    "links": {
     "youtube": "https://youtube.com/shorts/TcvmENGSeY8",
     "instagram": "https://www.instagram.com/reel/DeU5LYhFLel/",
@@ -1153,11 +1488,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 5,
+    "saved": 0,
+    "shares": 0,
+    "views": 6,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 330,
+    "avg_watch_s": 2.3,
+    "watch_time_s": 700.5
    },
    "youtube": {
     "views": 122,
@@ -1170,6 +1513,7 @@
    "date": "2026-10-10",
    "time": "14:00",
    "title": "Quantos anos viveu Matusalém, o homem mais velho da Bíblia?",
+   "hook": "Pergunta bíblica que poucos acertam",
    "links": {
     "youtube": "https://youtube.com/shorts/Gs-B_vyaS5M",
     "instagram": "https://www.instagram.com/reel/DeUkj5tkl1s/",
@@ -1177,11 +1521,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 2,
-    "comments": 0
+    "comments": 0,
+    "views": 232,
+    "avg_watch_s": 1.9,
+    "watch_time_s": 399.6
    },
    "youtube": {
     "views": 87,
@@ -1194,13 +1546,18 @@
    "date": "2026-10-10",
    "time": "12:00",
    "title": "Aba, Pai",
+   "hook": "Curiosidade bíblica que pouca gente conhece",
    "links": {
     "instagram": "https://www.instagram.com/p/DeUF3ShmDyL/",
     "facebook": "https://www.facebook.com/1405324152662027_122094628065513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -1213,13 +1570,18 @@
    "date": "2026-10-10",
    "time": "12:00",
    "title": "Leão numa cova, em dia de neve",
+   "hook": "Curiosidade bíblica que pouca gente conhece",
    "links": {
     "instagram": "https://www.instagram.com/p/DeUZIBcl61S/",
     "facebook": "https://www.facebook.com/1405324152662027_122094691509513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -1232,6 +1594,7 @@
    "date": "2026-10-10",
    "time": "09:00",
    "title": "Por quantas moedas de prata Judas entregou Jesus?",
+   "hook": "Pergunta bíblica que poucos acertam",
    "links": {
     "youtube": "https://youtube.com/shorts/0IsGIgs76SE",
     "instagram": "https://www.instagram.com/reel/DeUCRbtDtKG/",
@@ -1239,11 +1602,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 1
+    "comments": 1,
+    "views": 278,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 626.2
    },
    "youtube": {
     "views": 33,
@@ -1256,6 +1627,7 @@
    "date": "2026-10-10",
    "time": "09:00",
    "title": "Qual nome o espírito imundo do homem de Gadara disse ter?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/HPgKH6DUeio",
     "instagram": "https://www.instagram.com/reel/DeUZTJSlGlN/",
@@ -1263,11 +1635,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 3,
-    "comments": 1
+    "comments": 1,
+    "views": 595,
+    "avg_watch_s": 2.3,
+    "watch_time_s": 1288.1
    },
    "youtube": {
     "views": 80,
@@ -1280,13 +1660,18 @@
    "date": "2026-10-09",
    "time": "21:00",
    "title": "O cardápio de João Batista",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/p/DeS7WL5D4H8/",
     "facebook": "https://www.facebook.com/1405324152662027_122094354219513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
    },
    "facebook": {
     "likes": 0,
@@ -1299,6 +1684,7 @@
    "date": "2026-10-09",
    "time": "19:00",
    "title": "Qual rei teve sonhos que perturbaram o seu espírito no segundo ano do seu reinado, no livro de Daniel?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/9yDSFzQWo9w",
     "instagram": "https://www.instagram.com/reel/DeS7ZD_AiCs/",
@@ -1306,11 +1692,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 3,
+    "avg_watch_s": 0.5,
+    "watch_time_s": 1.6
    },
    "youtube": {
     "views": 5,
@@ -1323,13 +1717,18 @@
    "date": "2026-10-09",
    "time": "17:00",
    "title": "Salmos 16:11",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/p/DeSfS-riYcW/",
     "facebook": "https://www.facebook.com/1405324152662027_122094258273513774"
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
@@ -1342,6 +1741,7 @@
    "date": "2026-10-09",
    "time": "17:00",
    "title": "Lídia, que ouvia Paulo em Filipos, era vendedora de quê?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
    "links": {
     "youtube": "https://youtube.com/shorts/ufQTmQZw5iw",
     "instagram": "https://www.instagram.com/reel/DeSfVGxD3x2/",
@@ -1349,11 +1749,19 @@
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 4,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 2,
+    "avg_watch_s": 3.4,
+    "watch_time_s": 6.9
    },
    "youtube": {
     "views": 72,
@@ -1366,6 +1774,7 @@
    "date": "2026-10-09",
    "time": "14:00",
    "title": "Quem foi apedrejado enquanto dizia: \"Senhor Jesus, recebe o meu espírito\"?",
+   "hook": "Legenda da IA",
    "links": {
     "youtube": "https://youtube.com/shorts/HboTxvAMYeQ",
     "instagram": "https://www.instagram.com/reel/DeSfbF5js5J/",
@@ -1373,11 +1782,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 2,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 2,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 8.7
    },
    "youtube": {
     "views": 24,
@@ -1390,13 +1807,18 @@
    "date": "2026-10-09",
    "time": "12:00",
    "title": "Mais de 500 testemunhas",
+   "hook": "Legenda da IA",
    "links": {
     "instagram": "https://www.instagram.com/p/DeR_YbtAX7n/",
     "facebook": "https://www.facebook.com/1405324152662027_122094157875513774"
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
@@ -1409,6 +1831,7 @@
    "date": "2026-10-09",
    "time": "19:00",
    "title": "Qual profeta subiu ao céu em um redemoinho?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
    "links": {
     "youtube": "https://youtube.com/shorts/6YmkbnI-li4",
     "instagram": "https://www.instagram.com/reel/DeS7d4vkkaE/",
@@ -1416,11 +1839,19 @@
    },
    "instagram": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0
    },
    "facebook": {
     "likes": 0,
-    "comments": 0
+    "comments": 0,
+    "views": 2,
+    "avg_watch_s": 0.3,
+    "watch_time_s": 0.6
    },
    "youtube": {
     "views": 9,
@@ -1433,13 +1864,18 @@
    "date": "2026-10-09",
    "time": "07:00",
    "title": "Salmos 34:18",
+   "hook": "Deus tem uma palavra pra você hoje",
    "links": {
     "facebook": "https://www.facebook.com/1405324152662027_122094033165513774",
     "instagram": "https://www.instagram.com/p/DeResKNDijL/"
    },
    "instagram": {
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
    },
    "facebook": {
     "likes": 0,
