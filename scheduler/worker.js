@@ -52,7 +52,7 @@ export async function tick(env) {
   const now = nowIn(settings.timezone || "America/Sao_Paulo");
   const log = [];
 
-  // 1) geração diária (caso o cron das 05:17 do GitHub não tenha rodado)
+  // 1) geração diária (o pipeline.yml não tem mais cron próprio: só este Worker dispara)
   if (now.time >= GENERATE_AFTER) {
     let generated = queue.posts.some((p) => p.date === now.date);
     if (!generated) {

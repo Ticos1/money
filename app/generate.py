@@ -97,7 +97,8 @@ def build(args) -> dict:
     recent_tracks = [(p.get("music") or {}).get("id") for p in sorted(queue.values(), key=lambda p: p["id"])]
 
     patch = {"mode": "generate", "date": day, "posts": [], "used": {}}
-    taken = set(queue) | {p["id"] for p in state.load_history()}
+    archived = {p["id"] for p in state.load_history()}
+    taken = set(queue) | archived
     if args.clear:
         # "Gerar agora" com limpeza: a fila atual vai para o histórico e o dia é refeito do zero
         patch["clear_queue"] = True
@@ -112,6 +113,11 @@ def build(args) -> dict:
             while post_id in taken:  # nunca reaproveita o ID de um post antigo
                 post_id = f"{day}-{idx}-{kind}-v{n}"
                 n += 1
+        if post_id in archived:
+            # já publicado em todas as redes e saiu da fila: refazer criaria uma cópia que
+            # sobrescreve o original no histórico (e as métricas dele)
+            print(f"{post_id}: já está no histórico, pulando")
+            continue
         old = queue.get(post_id)
         if old and not args.force and not _replaceable(old):
             print(f"{post_id}: já existe, pulando (use --force para refazer)")

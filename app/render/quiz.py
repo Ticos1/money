@@ -1,5 +1,6 @@
-"""Template "Desafio de quiz": gancho "SÓ 1% ACERTA" → pergunta → alternativas →
-contagem regressiva → resposta revelada → chamada final.
+"""Template "Desafio de quiz": gancho "SÓ 1% ACERTA", pergunta e alternativas já no primeiro quadro
+→ "Comente a letra" → contagem regressiva (3s) → resposta revelada → volta à pergunta sem marcação,
+para o vídeo (8 a 12 s) repetir sem emenda.
 Imagens: pergunta (1:1 e 4:5) + resposta (1:1 e 4:5) para carrossel."""
 from __future__ import annotations
 
@@ -151,95 +152,109 @@ def still_answer(size, item, pal, seed, handle) -> Image.Image:
     return img.convert("RGB")
 
 
+LOOP_MUSIC_FADES = {"fade_in": 0.3, "fade_out": 0.4}
+LOOP_TAIL = 0.6  # depois da resposta, a pergunta volta sem marcação e fecha igual ao primeiro quadro
+COMMENT_CTA = "Comente a letra: A, B, C ou D"
+
+
 def timeline(item: dict, max_s: float) -> dict:
-    read = min(9.0, max(3.5, (len(item["question"]) + sum(len(o) for o in item["options"])) / 15))
-    count = 5
-    q_in = 2.4
-    opts_in = [3.1 + 0.35 * i for i in range(4)]
-    count_in = opts_in[-1] + 0.5 + read
+    """Pergunta e alternativas já no primeiro quadro; o vídeo fica entre 8 e 12 s."""
+    read = min(5.0, max(2.5, (len(item["question"]) + sum(len(o) for o in item["options"])) / 22))
+    count = 3
+    count_in = read
     reveal = count_in + count
-    end_in = reveal + 4.0
-    total = end_in + 2.8
-    if total > max_s:
-        count = 3
-        reveal = count_in + count
-        end_in = reveal + 3.5
-        total = end_in + 2.5
-    return {"q_in": q_in, "opts_in": opts_in, "count_in": count_in, "count": count, "reveal": reveal,
+    end_in = reveal + 2.0
+    total = min(end_in + LOOP_TAIL, max(8.0, max_s))
+    return {"q_in": 0.0, "opts_in": [0.0] * 4, "count_in": count_in, "count": count, "reveal": reveal,
             "end_in": end_in, "total": round(total, 2)}
 
 
-def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, label: str = "DESAFIO BÍBLICO",
-                 hook: tuple[str, list[str]] = ("SÓ 1%", ["ACERTA ESSA", "PERGUNTA DA BÍBLIA"])
-                 ) -> tuple[Path, float, float]:
-    size = (1080, 1920)
+def loop_layers(size, pal, seed, total: float) -> list[video.Layer]:
+    """Fundo montado para o vídeo emendar no começo ao repetir: o primeiro e o último quadro
+    têm o mesmo fundo (bokeh 1), sem fade na entrada."""
     w, h = size
-    L = LAYOUTS[size]
-    tl = timeline(item, settings.get("video", {}).get("max_seconds", 30))
-    total = tl["total"]
-    bg = design.background(*size, pal, seed)
-    layers = [
-        video.Layer(design.bokeh(*size, pal, seed + 1), 0, total * 0.6, fade_in=1.2, fade_out=2.5, slide=0),
-        video.Layer(design.bokeh(*size, pal, seed + 2), total * 0.45, total, fade_in=2.5, slide=0),
+    b1 = design.bokeh(w, h, pal, seed + 1)
+    return [
+        video.Layer(b1, 0, total * 0.6, fade_in=0, fade_out=2.0, slide=0),
+        video.Layer(design.bokeh(w, h, pal, seed + 2), total * 0.4, total - 0.1, fade_in=2.0,
+                    fade_out=1.0, slide=0),
+        video.Layer(b1, total - 1.1, total, fade_in=1.0, slide=0),
     ]
 
-    hook_canvas = _canvas(size)
-    big, small = hook
-    design.text_block(hook_canvas, [big], design.font("sans_black", 250 if len(big) <= 6 else 150),
-                      280 if len(big) <= 6 else 180, w // 2, 560, fill=pal.accent + (255,))
-    design.text_block(hook_canvas, small, design.font("sans_black", 72), 92, w // 2, 860)
-    layers.append(video.layer(hook_canvas, 0.15, tl["q_in"], fade_in=0.35, fade_out=0.3, slide=60))
 
-    lab = _canvas(size)
-    design.label(lab, label, L["label_y"], L["label_size"], pal.accent)
-    layers.append(video.layer(lab, tl["q_in"] - 0.1, tl["end_in"], slide=0))
+def hook_layer(size, text: str, pal: design.Palette) -> Image.Image:
+    """Gancho curto em cima do cartão da pergunta (ex.: "SÓ 1% ACERTA")."""
+    img = _canvas(size)
+    L = LAYOUTS[size]
+    fnt, lines, lh = design.fit(text, "sans_black", size[0] - 160, L["card_top"] - 130, 84, 52)
+    design.text_block(img, lines, fnt, lh, size[0] // 2, 120, fill=pal.accent + (255,))
+    return img
 
-    geo = _geometry(size, item)
-    layers.append(video.layer(_question_layer(size, item, geo), tl["q_in"], tl["end_in"], slide=50))
-    for i in range(4):
-        layers.append(video.layer(_option_layer(size, item, geo, i, pal), tl["opts_in"][i], tl["end_in"],
-                                  fade_in=0.3, slide=30))
 
-    cy = min(geo["end"] + 150, L["wm_y"] - 130)
+def cta_layer(size, text: str, cy: int, pal: design.Palette) -> Image.Image:
+    """Pedido de comentário no lugar da contagem (some quando a contagem começa e volta no fim)."""
+    img = _canvas(size)
+    fnt, lines, lh = design.fit(text, "sans_black", size[0] - 200, 150, 54, 36)
+    design.text_block(img, lines, fnt, lh, size[0] // 2, cy - len(lines) * lh // 2, fill=(255, 255, 255, 255))
+    return img
+
+
+def countdown_layers(size, tl: dict, cy: int, pal: design.Palette) -> list[video.Layer]:
+    w = size[0]
+    out = []
     for k in range(tl["count"]):
-        num = tl["count"] - k
         c = _canvas(size)
         d = ImageDraw.Draw(c)
         r = 78
         d.ellipse([w // 2 - r, cy - r, w // 2 + r, cy + r], outline=pal.accent + (255,), width=8,
                   fill=(0, 0, 0, 90))
-        d.text((w // 2, cy + 4), str(num), font=design.font("sans_black", 92), fill=(255, 255, 255, 255),
-               anchor="mm")
+        d.text((w // 2, cy + 4), str(tl["count"] - k), font=design.font("sans_black", 92),
+               fill=(255, 255, 255, 255), anchor="mm")
         start = tl["count_in"] + k
-        layers.append(video.layer(c, start, start + 1.0, fade_in=0.12, fade_out=0.12, slide=0))
+        out.append(video.layer(c, start, start + 1.0, fade_in=0.12, fade_out=0.12, slide=0))
+    return out
+
+
+def render_video(item, pal, seed, handle, settings, out_dir: Path, work: Path, hook: str = "SÓ 1% ACERTA ESSA",
+                 cta: str = COMMENT_CTA) -> tuple[Path, float, float]:
+    size = (1080, 1920)
+    w, h = size
+    L = LAYOUTS[size]
+    tl = timeline(item, settings.get("video", {}).get("loop_max_seconds", 12))
+    total = tl["total"]
+    bg = design.background(*size, pal, seed)
+    layers = loop_layers(size, pal, seed, total)
+    first = dict(fade_in=0, slide=0)  # entra inteira já no primeiro quadro e fica até o fim
+    layers.append(video.layer(hook_layer(size, hook, pal), 0, total, **first))
+
+    geo = _geometry(size, item)
+    layers.append(video.layer(_question_layer(size, item, geo), 0, total, **first))
+    for i in range(4):
+        layers.append(video.layer(_option_layer(size, item, geo, i, pal), 0, total, **first))
+
+    cy = min(geo["end"] + 150, L["wm_y"] - 130)
+    cta_img = cta_layer(size, cta, cy, pal)
+    layers.append(video.layer(cta_img, 0, tl["count_in"], fade_in=0, fade_out=0.2, slide=0))
+    layers += countdown_layers(size, tl, cy, pal)
 
     for i in range(4):
         state = "correct" if i == item["answer"] else "dim"
         layers.append(video.layer(_option_layer(size, item, geo, i, pal, state), tl["reveal"], tl["end_in"],
-                                  fade_in=0.25, slide=0))
+                                  fade_in=0.25, fade_out=0.3, slide=0))
     ans = _canvas(size)
     y = design.text_block(ans, [f"RESPOSTA: {LETTERS[item['answer']]}"], design.font("sans_black", 58), 70,
                           w // 2, cy - 70, fill=pal.accent + (255,))
     design.text_block(ans, [item["ref_label"]], design.font("sans_bold", 40), 52, w // 2, y)
-    layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.35))
-
-    end = _canvas(size)
-    ImageDraw.Draw(end).rectangle([0, 0, w, h], fill=(0, 0, 0, 165))
-    design.text_block(end, ["Você acertou?"], design.font("serif_bold", 104), 130, w // 2, 640,
-                      fill=pal.accent + (255,))
-    fnt, lines, lh = design.fit("Comente sua resposta e desafie um amigo!", "sans_bold", 820, 220, 56, 40)
-    yy = design.text_block(end, lines, fnt, lh, w // 2, 810)
-    if handle:
-        design.text_block(end, [f"Siga {handle} para mais"], design.font("sans_bold", 46), 60, w // 2, yy + 40)
-    layers.append(video.Layer(end, tl["end_in"], total, fade_in=0.4, slide=0))
+    layers.append(video.layer(ans, tl["reveal"] + 0.2, tl["end_in"], fade_in=0.35, fade_out=0.3))
+    layers.append(video.layer(cta_img, tl["end_in"] - 0.1, total, fade_in=0.3, slide=0))
 
     wm = _canvas(size)
     design.watermark(wm, handle, L["wm_y"], L["wm_size"])
-    layers.append(video.layer(wm, 0.0, tl["end_in"], fade_in=0.01, slide=0))
+    layers.append(video.layer(wm, 0.0, total, fade_in=0, slide=0))
 
     out = out_dir / "video_sem_musica.mp4"
     video.compose(bg, layers, total, out, work)
-    return out, total, tl["count_in"] - 0.5
+    return out, total, max(0.0, tl["count_in"] - 0.5)
 
 
 def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Path,
@@ -249,7 +264,7 @@ def render(item: dict, settings: dict, out_dir: Path, seed: int, track_path: Pat
     silent, total, poster_at = render_video(item, pal, seed, handle, settings, out_dir, work)
     with_music = out_dir / "video_com_musica.mp4"
     video.add_music(silent, track_path, total, settings.get("video", {}).get("music_volume", 0.16),
-                    with_music, rng)
+                    with_music, rng, **LOOP_MUSIC_FADES)
     video.poster(silent, poster_at, out_dir / "capa.jpg")
     files = []
     for name, size, fn in (("pergunta_quadrada.jpg", (1080, 1080), still_question),

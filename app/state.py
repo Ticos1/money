@@ -76,6 +76,10 @@ def archive_old(posts: list[dict], today: date, keep_days: int) -> tuple[list[di
     return keep, old
 
 
+def _was_published(post: dict) -> bool:
+    return any((post.get("published") or {}).values())
+
+
 def apply_patch(patch: dict, today: date, keep_days: int) -> None:
     """Aplica o resultado da geração nos arquivos de estado.
 
@@ -124,6 +128,9 @@ def apply_patch(patch: dict, today: date, keep_days: int) -> None:
         history = {p["id"]: p for p in load_history()}
         for p in archived:
             p.pop("media", None)  # mídias antigas são apagadas para economizar espaço
+            prev = history.get(p["id"])
+            if prev and _was_published(prev) and not _was_published(p):
+                continue  # uma cópia não publicada nunca apaga o registro do post que saiu nas redes
             history[p["id"]] = p
         save_history(sorted(history.values(), key=lambda p: (p["date"], p["slot"]), reverse=True))
 

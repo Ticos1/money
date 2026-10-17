@@ -696,7 +696,7 @@ function renderConfig(main) {
     h("h3", {}, "Posts por dia (horários sugeridos para postar)"),
     slotBox,
     h("button", { type: "button", class: "btn small", onclick: () => addSlot() }, "+ Adicionar horário"),
-    h("p", { class: "muted" }, "Os posts do dia são gerados de madrugada (05:17). Com a publicação automática ligada, cada post aprovado sai no horário dele (até ~7 min depois). Use horários cheios (ex.: 12:00)."),
+    h("p", { class: "muted" }, "Os posts do dia são gerados de madrugada (05:20). Com a publicação automática ligada, cada post aprovado sai no horário dele (até ~7 min depois). Use horários cheios (ex.: 12:00)."),
     h("label", { class: "check" }, auto, "Aprovar automaticamente (sem revisão)"),
     h("h3", {}, "Publicação automática (ao aprovar, no horário do post)"),
     h("label", { class: "check" }, pubBoxes.instagram, "Instagram (versículo no feed, quiz no Reels)"),

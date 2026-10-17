@@ -410,6 +410,32 @@ class ClearQueueTests(unittest.TestCase):
                 self.assertEqual(patch["posts"][0]["status"], "pending")
 
 
+    def test_late_run_does_not_redo_posts_already_in_history(self):
+        from app import generate
+        settings = {"timezone": "America/Sao_Paulo", "approval": {"auto_approve": True},
+                    "brand": {"handle": "@t"}, "groq": {"enabled": False},
+                    "schedule": {"slots": [{"time": "07:00", "type": "verse"}, {"time": "23:59", "type": "curiosity"}]},
+                    "video": {"video_types": ["quiz"]}}
+        done = {"id": "2026-10-10-1-verse", "date": "2026-10-10", "slot": 1, "time": "07:00", "status": "approved",
+                "published": {"instagram": "2026-10-10T10:00:00Z"}, "publish_links": {"instagram": "u"}}
+        fake_media = {"base": "m/", "images": ["a.jpg"], "poster": "a.jpg", "duration": 0, "version": 1}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(state, "STATE_DIR", Path(tmp)), \
+                mock.patch.object(generate.config, "load_settings", return_value=settings), \
+                mock.patch.object(generate, "_render", return_value=fake_media):
+            state.save_history([done])  # já saiu em todas as redes e deixou a fila
+            args = generate.argparse.Namespace(date="2026-10-10", force=True, clear=False, no_groq=True,
+                                               media_dir=tmp, out=str(Path(tmp, "p.json")))
+            patch = generate.build(args)
+            self.assertEqual([p["id"] for p in patch["posts"]], ["2026-10-10-2-curiosity"])
+            # mesmo que uma cópia não publicada chegue ao histórico, o original fica
+            copy = {**done, "published": {"instagram": None}, "publish_links": {}}
+            state.apply_patch({"posts": [], "completed": []}, date(2026, 10, 10), 30)
+            state.save_queue([copy])
+            state.apply_patch({"posts": [], "completed": [copy["id"]]}, date(2026, 10, 10), 30)
+            hist = {p["id"]: p for p in state.load_history()}
+            self.assertEqual(hist[done["id"]]["publish_links"], {"instagram": "u"})
+
+
 class CompletedPostsTests(unittest.TestCase):
     def test_fully_published_post_leaves_queue(self):
         from app import publish

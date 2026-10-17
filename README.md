@@ -17,7 +17,7 @@ Custo: **R$ 0/mês**. Tudo roda em planos gratuitos que permitem uso comercial.
 
 ## O que o sistema faz todo dia
 
-1. Às **05:17 (Brasília)**, o GitHub Actions acorda e gera os posts do dia (padrão: **9 posts** — 1 Versículo do dia e 8 vídeos: 4 quizzes, 2 "Complete o versículo" e 2 "Verdadeiro ou falso"; até 12, configurável no painel). O "Você sabia?" saiu da agenda porque não rendeu (veja `python -m app.report --analysis`).
+1. Às **05:20 (Brasília)**, o agendador (Cloudflare Worker) dispara o GitHub Actions, que gera os posts do dia (**9 posts**: 1 Versículo do dia, 4 quizzes, 3 "Verdadeiro ou falso" e 1 "Complete o versículo"; até 12, configurável no painel). A grade fica **congelada** para os testes terem dados suficientes: o repost de domingo e a grade adaptativa estão desligados.
 2. Escolhe o conteúdo:
    - **banco próprio** (607 versículos com reflexão, 1.248 perguntas de quiz e 267 curiosidades: o versículo do dia rende mais de um ano; os 6 vídeos de pergunta por dia, cerca de 6 meses só com o banco e mais com o conteúdo novo da IA; veja `python -m app.saturation`);
    - às vezes pede **conteúdo novo à IA (Groq, grátis)**.
@@ -53,7 +53,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 
 | Versículo do dia | Desafio de quiz |
 |---|---|
-| **Imagem** 9:16, 4:5 e 1:1: versículo + referência + seu @ (reflexão vai na legenda). Para voltar a ter vídeo: `video.video_types` = `["quiz", "verse"]` em `config/settings.json` | "SÓ 1% ACERTA" → pergunta → 4 alternativas → contagem 5…1 → resposta revelada → "Você acertou?" |
+| **Imagem** 9:16, 4:5 e 1:1: versículo + referência + seu @ (reflexão vai na legenda). Para voltar a ter vídeo: `video.video_types` = `["quiz", "verse"]` em `config/settings.json` | "SÓ 1% ACERTA" + pergunta + 4 alternativas já no primeiro quadro → "Comente a letra" → contagem 3…1 → resposta revelada → volta à pergunta (vídeo de 8 a 12 s em loop, sem tela final) |
 
 ---
 
@@ -62,7 +62,7 @@ Se a IA falhar ou o limite grátis acabar, o sistema usa o banco **automaticamen
 ```
                 ┌──────────────────────────────┐
   todo dia ───▶ │ GitHub Actions (grátis)      │
-  05:17         │  Python + FFmpeg             │
+  05:20         │  Python + FFmpeg             │
                 │  1. escolhe conteúdo         │◀── content/bank/*.json (banco)
                 │  2. valida na Bíblia local   │◀── data/bible (domínio público)
                 │  3. legendas (+ Groq, opc.)  │◀── Groq API (grátis)

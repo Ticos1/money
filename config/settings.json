@@ -54,7 +54,8 @@
   "video_types": [
    "quiz",
    "curiosity"
-  ]
+  ],
+  "loop_max_seconds": 12
  },
  "groq": {
   "enabled": true,
@@ -95,13 +96,13 @@
   "minutes": 10
  },
  "repost": {
-  "enabled": true,
+  "enabled": false,
   "weekday": 6,
   "time": "19:15",
   "days": 7
  },
  "adapt": {
-  "enabled": true,
+  "enabled": false,
   "zero_days": 14,
   "cooldown_days": 14,
   "min_posts": 6

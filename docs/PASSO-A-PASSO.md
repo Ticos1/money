@@ -141,7 +141,7 @@ cadastrar cartão, pode pular esta etapa: a senha do painel já protege tudo.
 
 **Dica:** no celular, use "Adicionar à tela inicial" para o painel virar um ícone.
 
-A partir daí, **todo dia às 05:17** os posts novos aparecem sozinhos na fila.
+A partir daí, **todo dia às 05:20** os posts novos aparecem sozinhos na fila.
 
 ---
 

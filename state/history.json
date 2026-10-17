@@ -1454,73 +1454,78 @@
    "slot": 3,
    "time": "10:00",
    "type": "fill",
-   "status": "pending",
-   "created_at": "2026-10-16T13:22:13+00:00",
+   "status": "approved",
+   "created_at": "2026-10-16T08:24:39+00:00",
    "source": "bank",
-   "bank_id": "v235",
+   "bank_id": "v216",
    "model": null,
    "content": {
-    "ref": "Isaías 30:21",
-    "ref_label": "Isaías 30:21",
-    "verse_text": "E quando você se desviar para a direita, e quando se desviar para a esquerda, os seus ouvidos ouvirão uma voz atrás de você, dizendo: “Este é o caminho. Ande nele.”.",
-    "question": "E quando você se desviar para a direita, e quando se desviar para a esquerda, os seus ouvidos ouvirão uma voz atrás de você, dizendo: “Este é o _____. Ande nele.”.",
+    "ref": "Salmos 113:3",
+    "ref_label": "Salmos 113:3",
+    "verse_text": "Desde o nascer do sol até o seu poente, seja louvado o nome do SENHOR.",
+    "question": "Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.",
     "options": [
-     "Espírito",
-     "medo",
-     "caminho",
-     "amor"
+     "pastor",
+     "nome",
+     "reino",
+     "escudo"
     ],
-    "answer": 2,
-    "answer_word": "caminho",
+    "answer": 1,
+    "answer_word": "nome",
     "tags": [
-     "direcao",
-     "caminho"
+     "louvor",
+     "dia"
     ]
    },
    "captions": {
-    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“E quando você se desviar para a direita, e quando se desviar para a esquerda, os seus ouvidos ouvirão uma voz atrás de você, dizendo: “Este é o _____. Ande nele.”.”\n\nA) Espírito\nB) medo\nC) caminho\nD) amor\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #caminho #completeoversiculo #versiculo #fe #quizbiblico #desafiobiblico #palavradedeus #jesus #evangelico #cristao #gospel",
-    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“E quando você se desviar para a direita, e quando se desviar para a esquerda, os seus ouvidos ouvirão uma voz atrás de você, dizendo: “Este é o _____. Ande nele.”.”\n\nA) Espírito\nB) medo\nC) caminho\nD) amor\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #caminho #completeoversiculo #versiculo",
-    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#direcao #caminho #completeoversiculo #versiculo #deus",
-    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#direcao #caminho #completeoversiculo #versiculo #palavradedeus",
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #dia #completeoversiculo #versiculo #gospel #evangelico #desafiobiblico #palavradedeus #jesus #biblia #quizbiblico #cristao",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#louvor #dia #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#louvor #dia #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#louvor #dia #completeoversiculo #versiculo #quizbiblico",
     "youtube": {
-     "title": "Desafio: complete o versículo sem olhar a Bíblia! (Isaías 30:21) #shorts",
-     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“E quando você se desviar para a direita, e quando se desviar para a esquerda, os seus ouvidos ouvirão uma voz atrás de você, dizendo: “Este é o _____. Ande nele.”.”\n\nA) Espírito\nB) medo\nC) caminho\nD) amor\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #direcao #caminho #completeoversiculo"
+     "title": "Você sabe esse versículo de cor? (Salmos 113:3) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“Desde o nascer do sol até o seu poente, seja louvado o _____ do SENHOR.”\n\nA) pastor\nB) nome\nC) reino\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #louvor #dia #completeoversiculo"
     }
    },
    "caption_source": "template",
    "music": {
-    "id": "gen-reflexao-2",
-    "title": "Lugar de Descanso",
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
    },
    "gospel_suggestions": [
     {
-     "title": "Nada Além do Sangue",
-     "artist": "Fernandinho"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
-     "title": "Raridade",
-     "artist": "Anderson Freire"
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
     },
     {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-16T13:01:31+00:00",
+    "instagram": "2026-10-16T13:02:20+00:00",
+    "facebook": "2026-10-16T13:02:33+00:00",
+    "stories": "2026-10-16T13:03:22+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/2xUOh6sg_Ic",
+    "instagram": "https://www.instagram.com/reel/Dejl9bsk-oC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1454804146826559",
+    "stories": "story 18345283120253478"
+   }
   },
   {
    "id": "2026-10-16-2-quiz",
@@ -1528,37 +1533,37 @@
    "slot": 2,
    "time": "08:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-16T13:20:31+00:00",
+   "status": "approved",
+   "created_at": "2026-10-16T08:23:12+00:00",
    "source": "bank",
-   "bank_id": "q151",
+   "bank_id": "q150",
    "model": null,
    "content": {
-    "ref": "2 Reis 4:35",
-    "ref_label": "2 Reis 4:35",
-    "question": "Quantas vezes o menino ressuscitado por Eliseu espirrou?",
+    "ref": "2 Reis 2:24",
+    "ref_label": "2 Reis 2:24",
+    "question": "Quantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?",
     "options": [
-     "Uma",
-     "Três",
-     "Sete",
-     "Doze"
+     "Doze",
+     "Vinte",
+     "Quarenta e dois",
+     "Cem"
     ],
     "answer": 2,
-    "evidence": "o menino espirrou sete vezes",
-    "passage": "Então ele voltou, andou pela casa de um lado para o outro, depois subiu e esticou-se sobre ele. Então o menino espirrou sete vezes, e o menino abriu os olhos.",
+    "evidence": "despedaçaram quarenta e dois daqueles jovens",
+    "passage": "Ele olhou para trás, viu-os e os amaldiçoou em nome do SENHOR. Então, duas ursas saíram do bosque e despedaçaram quarenta e dois daqueles jovens.",
     "difficulty": "dificil"
    },
    "captions": {
-    "instagram": "Desafio bíblico do dia 🤔\n\nQuantas vezes o menino ressuscitado por Eliseu espirrou?\n\nA) Uma\nB) Três\nC) Sete\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico #fe #biblia #cristao #desafio #perguntasbiblicas #jesus #palavradedeus #teste",
-    "facebook": "Desafio bíblico do dia 🤔\n\nQuantas vezes o menino ressuscitado por Eliseu espirrou?\n\nA) Uma\nB) Três\nC) Sete\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
-    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #jesus",
-    "kwai": "Desafio bíblico do dia 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #desafio #gospel #fe",
+    "instagram": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico #fe #biblia #cristao #desafio #perguntasbiblicas #jesus #palavradedeus #teste",
+    "facebook": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #jesus",
+    "kwai": "Quantos jovens foram despedaçados pelas ursas? 🤔 Responda nos comentários!\n#quizbiblico #desafiobiblico #desafio #gospel #fe",
     "youtube": {
-     "title": "Desafio bíblico do dia Quantas vezes o menino ressuscitado por Eliseu espirrou? #shorts",
-     "description": "Desafio bíblico do dia 🤔\n\nQuantas vezes o menino ressuscitado por Eliseu espirrou?\n\nA) Uma\nB) Três\nC) Sete\nD) Doze\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
+     "title": "Quiz Bíblico: Quantos jovens foram despedaçados pelas ursas? #shorts",
+     "description": "Teste seus conhecimentos! No relato, alguns jovens ousaram zombar do profeta Eliseu. Eles enfrentaram uma consequência inesperada das 2 ursas que surgiram. Quantos foram despedaçados? Escolha uma das opções e reflita sobre a importância de respeitar o que é sagrado. Compartilhe sua resposta nos comentários e convide amigos para participar desse quiz!\n\nQuantos jovens que zombaram de Eliseu foram despedaçados pelas ursas?\nA) Doze\nB) Vinte\nC) Quarenta e dois\nD) Cem\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus"
     }
    },
-   "caption_source": "template",
+   "caption_source": "groq",
    "music": {
     "id": "gen-desafio-1",
     "title": "Contagem",
@@ -1583,16 +1588,20 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-16T11:01:32+00:00",
+    "instagram": "2026-10-16T11:02:07+00:00",
+    "facebook": "2026-10-16T11:02:12+00:00",
+    "stories": "2026-10-16T11:03:34+00:00"
    },
-   "log": [
-    "legenda Groq descartada: legenda revela a resposta",
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/1QF_6k46f7s",
+    "instagram": "https://www.instagram.com/reel/DejYOM-DTJV/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1149730891046952",
+    "stories": "story 18068120645784859"
+   }
   },
   {
    "id": "2026-10-16-1-verse",
@@ -1600,32 +1609,32 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-16T13:18:59+00:00",
-   "source": "bank",
-   "bank_id": "v144",
-   "model": null,
+   "status": "approved",
+   "created_at": "2026-10-16T08:21:41+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
    "content": {
-    "ref": "Mateus 19:26",
-    "ref_label": "Mateus 19:26",
-    "verse_text": "Olhando para eles, Jesus disse: “Para os homens isso é impossível, mas para Deus todas as coisas são possíveis.”.",
-    "on_screen": "Para Deus, todas as coisas são possíveis.",
-    "reflection": "O que é impossível para nós não é um problema para Deus. Entregue a Ele aquilo que parece sem saída.",
-    "theme": "fé",
-    "mood": "alegria",
+    "ref": "Filipenses 4:13",
+    "ref_label": "Filipenses 4:13",
+    "verse_text": "Posso todas as coisas por meio de Cristo que me fortalece.",
+    "on_screen": "Posso tudo em Cristo que me fortalece",
+    "reflection": "Mesmo nos momentos de fraqueza, lembramos que nossa força vem de Cristo. Ele nos capacita a enfrentar desafios e a superar obstáculos, renovando nossa confiança a cada dia. Confie no poder que Ele oferece e siga firme.",
+    "theme": "força",
+    "mood": "reflexao",
     "tags": [
-     "fe",
-     "milagre"
+     "coragem",
+     "fe"
     ]
    },
    "captions": {
-    "instagram": "“Olhando para eles, Jesus disse: “Para os homens isso é impossível, mas para Deus todas as coisas são possíveis.”.” (Mateus 19:26)\n\nÀs vezes nos deparamos com situações que parecem não ter solução. Mas o que é impossível para nós não é obstáculo para Deus. Entregue suas preocupações, confie que Ele pode transformar o impossível em vitória. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#fe #milagre #versiculododia #versiculo #oracao #esperanca #reflexao #biblia #gospel #palavradedeus #devocional #jesus",
-    "facebook": "“Olhando para eles, Jesus disse: “Para os homens isso é impossível, mas para Deus todas as coisas são possíveis.”.” (Mateus 19:26)\n\nÀs vezes nos deparamos com situações que parecem não ter solução. Mas o que é impossível para nós não é obstáculo para Deus. Entregue suas preocupações, confie que Ele pode transformar o impossível em vitória. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#fe #milagre #versiculododia #versiculo",
-    "tiktok": "O impossível para nós não é para Deus. Confie e entregue! 🙏\n#fe #milagre #versiculododia #versiculo #jesus",
-    "kwai": "O impossível para nós não é para Deus. Confie e entregue! 🙏\n#fe #milagre #versiculododia #versiculo #biblia",
+    "instagram": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo #evangelico #esperanca #gospel #biblia #cristao #palavradedeus #devocional #jesus",
+    "facebook": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #fe #versiculododia #versiculo",
+    "tiktok": "Mesmo fraco, sou forte porque Cristo me sustenta. Confie e siga firme! 💪\n#coragem #fe #versiculododia #versiculo #jesus",
+    "kwai": "Mesmo fraco, sou forte porque Cristo me sustenta. Confie e siga firme! 💪\n#coragem #fe #versiculododia #versiculo #biblia",
     "youtube": {
-     "title": "Impossível para nós, possível para Deus #shorts",
-     "description": "“Olhando para eles, Jesus disse: “Para os homens isso é impossível, mas para Deus todas as coisas são possíveis.”.” (Mateus 19:26)\n\nÀs vezes nos deparamos com situações que parecem não ter solução. Mas o que é impossível para nós não é obstáculo para Deus. Entregue suas preocupações, confie que Ele pode transformar o impossível em vitória. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #fe #milagre #versiculododia"
+     "title": "Como encontrar força em Cristo nos dias de fraqueza #shorts",
+     "description": "“Posso todas as coisas por meio de Cristo que me fortalece.” (Filipenses 4:13)\n\nNos momentos de fraqueza, a lembrança de que nossa força vem de Cristo renova a esperança. Ele nos capacita a enfrentar cada desafio, a superar os obstáculos e a confiar no caminho que Ele abre. Permita que essa confiança se torne diária, e siga firme, sabendo que o poder de Deus está sempre ao seu lado. ✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coragem #fe #versiculododia"
     }
    },
    "caption_source": "groq",
@@ -1648,16 +1657,21 @@
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-16T09:31:49+00:00",
+    "facebook": "2026-10-16T09:31:53+00:00",
+    "stories": "2026-10-16T09:32:06+00:00"
    },
    "log": [
     "verse: Groq tentativa 1 descartada: conteúdo repetido",
-    "verse: Groq tentativa 2 descartada: conteúdo repetido",
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "verse: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DejN69dF8fd/",
+    "facebook": "https://www.facebook.com/1405324152662027_122098612479513774",
+    "stories": "story 18219807223350008"
+   }
   },
   {
    "id": "2026-10-15-10-truefalse",
@@ -2196,37 +2210,37 @@
    "slot": 3,
    "time": "10:00",
    "type": "fill",
-   "status": "pending",
-   "created_at": "2026-10-15T13:33:27+00:00",
+   "status": "approved",
+   "created_at": "2026-10-15T08:24:02+00:00",
    "source": "bank",
-   "bank_id": "v069",
+   "bank_id": "v173",
    "model": null,
    "content": {
-    "ref": "1 Pedro 2:9",
-    "ref_label": "1 Pedro 2:9",
-    "verse_text": "Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa luz.",
-    "question": "Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.",
+    "ref": "Salmos 86:5",
+    "ref_label": "Salmos 86:5",
+    "verse_text": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em amor leal para com todos os que te invocam.",
+    "question": "Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.",
     "options": [
-     "justiça",
-     "luz",
-     "força",
-     "alma"
+     "amor",
+     "caminho",
+     "Espírito",
+     "escudo"
     ],
-    "answer": 1,
-    "answer_word": "luz",
+    "answer": 0,
+    "answer_word": "amor",
     "tags": [
-     "identidade",
-     "chamado"
+     "perdao",
+     "graca"
     ]
    },
    "captions": {
-    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#identidade #chamado #completeoversiculo #versiculo #gospel #cristao #quizbiblico #desafiobiblico #fe #palavradedeus #biblia #evangelico",
-    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#identidade #chamado #completeoversiculo #versiculo",
-    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#identidade #chamado #completeoversiculo #versiculo #desafiobiblico",
-    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a palavra que falta antes de ver a resposta!\n#identidade #chamado #completeoversiculo #versiculo #jesus",
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#perdao #graca #completeoversiculo #versiculo #fe #jesus #gospel #desafiobiblico #deus #biblia #palavradedeus #quizbiblico",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#perdao #graca #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#perdao #graca #completeoversiculo #versiculo #palavradedeus",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#perdao #graca #completeoversiculo #versiculo #palavradedeus",
     "youtube": {
-     "title": "Complete o versículo! 90% erra essa palavra (1 Pedro 2:9) #shorts",
-     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Mas vocês são raça eleita, sacerdócio real, nação santa, povo de propriedade exclusiva de Deus, para que proclamem as excelências daquele que os chamou das trevas para a sua maravilhosa _____.”\n\nA) justiça\nB) luz\nC) força\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #identidade #chamado #completeoversiculo"
+     "title": "Você sabe esse versículo de cor? (Salmos 86:5) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“Pois tu, Senhor, és bom e pronto a perdoar, abundante em _____ leal para com todos os que te invocam.”\n\nA) amor\nB) caminho\nC) Espírito\nD) escudo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #perdao #graca #completeoversiculo"
     }
    },
    "caption_source": "template",
@@ -2239,12 +2253,12 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Sonda-me, Usa-me",
-     "artist": "Aline Barros"
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
     },
     {
-     "title": "Raridade",
-     "artist": "Anderson Freire"
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
     },
     {
      "title": "Deserto",
@@ -2254,15 +2268,20 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-15T13:01:36+00:00",
+    "instagram": "2026-10-15T13:02:11+00:00",
+    "facebook": "2026-10-15T13:02:17+00:00",
+    "stories": "2026-10-15T13:02:58+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/gXuwZa53AO4",
+    "instagram": "https://www.instagram.com/reel/DehBK5YkjRT/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4447900862093673",
+    "stories": "story 18059058842557225"
+   }
   },
   {
    "id": "2026-10-15-2-quiz",
@@ -2270,34 +2289,34 @@
    "slot": 2,
    "time": "08:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-15T13:31:50+00:00",
+   "status": "approved",
+   "created_at": "2026-10-15T08:22:41+00:00",
    "source": "bank",
-   "bank_id": "q259",
+   "bank_id": "q252",
    "model": null,
    "content": {
-    "ref": "Gênesis 45:10",
-    "ref_label": "Gênesis 45:10",
-    "question": "Em qual terra do Egito José disse que sua família habitaria?",
+    "ref": "Gênesis 13:12",
+    "ref_label": "Gênesis 13:12",
+    "question": "Até qual cidade Ló armou sua tenda?",
     "options": [
-     "Gósen",
-     "Mênfis",
-     "Tebas",
-     "Om"
+     "Hebrom",
+     "Sodoma",
+     "Berseba",
+     "Siquém"
     ],
-    "answer": 0,
-    "evidence": "Você habitará na terra de Gósen",
-    "passage": "Você habitará na terra de Gósen e estará perto de mim, você, seus filhos, os filhos de seus filhos, seus rebanhos, seu gado e tudo o que você tem.",
-    "difficulty": "medio"
+    "answer": 1,
+    "evidence": "armou sua tenda até Sodoma",
+    "passage": "Abrão habitou na terra de Canaã, e Ló habitou nas cidades da planície, e armou sua tenda até Sodoma.",
+    "difficulty": "facil"
    },
    "captions": {
-    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico #teste #perguntasbiblicas #desafio #jesus #fe #biblia #cristao",
-    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao",
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico #teste #perguntasbiblicas #desafio #jesus #fe #biblia #cristao",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao",
     "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #fe #palavradedeus #evangelico",
     "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #perguntasbiblicas",
     "youtube": {
-     "title": "Só 1% acerta essa pergunta da Bíblia! Em qual terra do Egito José disse que sua… #shorts",
-     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm qual terra do Egito José disse que sua família habitaria?\n\nA) Gósen\nB) Mênfis\nC) Tebas\nD) Om\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+     "title": "Só 1% acerta essa pergunta da Bíblia! Até qual cidade Ló armou sua tenda? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nAté qual cidade Ló armou sua tenda?\n\nA) Hebrom\nB) Sodoma\nC) Berseba\nD) Siquém\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
     }
    },
    "caption_source": "template",
@@ -2325,18 +2344,24 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-15T11:00:56+00:00",
+    "instagram": "2026-10-15T11:01:31+00:00",
+    "facebook": "2026-10-15T11:01:37+00:00",
+    "stories": "2026-10-15T11:02:12+00:00"
    },
    "log": [
     "quiz: Groq tentativa 1 descartada: conteúdo repetido",
-    "quiz: Groq tentativa 2 descartada: alternativa errada 'Mundo' também aparece no texto (ambígua)",
-    "legenda Groq descartada: legenda revela a resposta",
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "quiz: Groq tentativa 2 descartada: evidência não encontrada em Mateus 5:9: 'paz'",
+    "legenda Groq descartada: legenda revela a resposta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/PbIoB0pLf3Y",
+    "instagram": "https://www.instagram.com/reel/DegzXAWjN1B/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3444290519106855",
+    "stories": "story 18125999839787434"
+   }
   },
   {
    "id": "2026-10-15-1-verse",
@@ -2344,62 +2369,66 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-15T13:30:23+00:00",
+   "status": "approved",
+   "created_at": "2026-10-15T08:21:30+00:00",
    "source": "bank",
-   "bank_id": "v289",
+   "bank_id": "v288",
    "model": null,
    "content": {
-    "ref": "Colossenses 3:14",
-    "ref_label": "Colossenses 3:14",
-    "verse_text": "Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.",
-    "on_screen": "O amor é o vínculo da perfeição.",
-    "reflection": "Acima de tudo, ame. O amor une todas as outras virtudes.",
-    "theme": "amor",
-    "mood": "reflexao",
+    "ref": "Colossenses 2:7",
+    "ref_label": "Colossenses 2:7",
+    "verse_text": "Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.",
+    "on_screen": "Enraizados em Cristo, transbordando de gratidão.",
+    "reflection": "Raízes firmes em Jesus produzem um coração grato.",
+    "theme": "gratidão",
+    "mood": "alegria",
     "tags": [
-     "amor",
-     "unidade"
+     "gratidao",
+     "fe"
     ]
    },
    "captions": {
-    "instagram": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amor #unidade #versiculododia #versiculo #deus #fe #biblia #oracao #evangelico #gospel #jesus #reflexao",
-    "facebook": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#amor #unidade #versiculododia #versiculo",
-    "tiktok": "Viva guiado pelo amor, a força que une tudo. 🌿\n#amor #unidade #versiculododia #versiculo #palavradedeus",
-    "kwai": "Viva guiado pelo amor, a força que une tudo. 🌿\n#amor #unidade #versiculododia #versiculo #palavradedeus",
+    "instagram": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo #oracao #jesus #biblia #palavradedeus #gospel #reflexao #deus #devocional",
+    "facebook": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #fe #versiculododia #versiculo",
+    "tiktok": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #cristao",
+    "kwai": "Raízes firmes em Cristo = coração cheio de gratidão!\n#gratidao #fe #versiculododia #versiculo #evangelico",
     "youtube": {
-     "title": "O Amor como Vínculo da Perfeição #shorts",
-     "description": "“Acima de todas essas coisas, andem em amor, que é o vínculo da perfeição.” (Colossenses 3:14)\n\nAcima de tudo, permita que o amor seja a base de cada passo. Ele conecta, fortalece e completa todas as virtudes que cultivamos. Quando vivemos em amor, construímos relações verdadeiras e alcançamos a plenitude que Deus deseja para nós. 🌿\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #amor #unidade #versiculododia"
+     "title": "Como raízes firmes em Jesus geram gratidão #shorts",
+     "description": "“Enraizados e edificados nele, e firmados na fé, assim como foram ensinados, transbordando de gratidão nessa fé.” (Colossenses 2:7)\n\nQuando nos enraizamos profundamente em Cristo, nossa fé se fortalece e nosso coração se enche de gratidão. Cada dia é uma oportunidade de reconhecer as bênçãos que recebemos e de viver com alegria, sabendo que estamos firmes no amor de Jesus. Que essa reflexão nos inspire a cultivar raízes que não balancem, e a compartilhar essa gratidão com todos ao nosso redor.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #fe #versiculododia"
     }
    },
    "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Quão Grande És Tu (hino)",
-     "artist": "Cantor Cristão / vários intérpretes"
+     "title": "Galileu",
+     "artist": "Fernandinho"
     },
     {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
     },
     {
-     "title": "Deserto",
-     "artist": "Maria Marçal"
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-15T09:30:58+00:00",
+    "facebook": "2026-10-15T09:31:02+00:00",
+    "stories": "2026-10-15T09:31:18+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DegpC3jgSeX/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097884121513774",
+    "stories": "story 17911157115492128"
+   }
   },
   {
    "id": "2026-10-14-10-truefalse",
@@ -2938,73 +2967,78 @@
    "slot": 3,
    "time": "10:00",
    "type": "fill",
-   "status": "pending",
-   "created_at": "2026-10-14T13:51:19+00:00",
+   "status": "approved",
+   "created_at": "2026-10-14T08:24:35+00:00",
    "source": "bank",
-   "bank_id": "v014",
+   "bank_id": "v194",
    "model": null,
    "content": {
-    "ref": "2 Timóteo 1:7",
-    "ref_label": "2 Timóteo 1:7",
-    "verse_text": "Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de domínio próprio.",
-    "question": "Pois Deus não nos deu um espírito de covardia, mas de _____, de amor e de domínio próprio.",
+    "ref": "Salmos 28:7",
+    "ref_label": "Salmos 28:7",
+    "verse_text": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu cântico eu lhe darei graças.",
+    "question": "O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.",
     "options": [
+     "cântico",
      "poder",
-     "socorro",
-     "coração",
-     "mundo"
+     "caminho",
+     "socorro"
     ],
     "answer": 0,
-    "answer_word": "poder",
+    "answer_word": "cântico",
     "tags": [
-     "coragem",
-     "espiritosanto"
+     "forca",
+     "louvor"
     ]
    },
    "captions": {
-    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Pois Deus não nos deu um espírito de covardia, mas de _____, de amor e de domínio próprio.”\n\nA) poder\nB) socorro\nC) coração\nD) mundo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #espiritosanto #completeoversiculo #versiculo #fe #cristao #gospel #biblia #deus #evangelico #palavradedeus #jesus",
-    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Pois Deus não nos deu um espírito de covardia, mas de _____, de amor e de domínio próprio.”\n\nA) poder\nB) socorro\nC) coração\nD) mundo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #espiritosanto #completeoversiculo #versiculo",
-    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#coragem #espiritosanto #completeoversiculo #versiculo #cristao",
-    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#coragem #espiritosanto #completeoversiculo #versiculo #quizbiblico",
+    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #louvor #completeoversiculo #versiculo #fe #cristao #gospel #biblia #deus #evangelico #palavradedeus #jesus",
+    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #louvor #completeoversiculo #versiculo",
+    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #louvor #completeoversiculo #versiculo #cristao",
+    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #louvor #completeoversiculo #versiculo #quizbiblico",
     "youtube": {
-     "title": "Desafio: complete o versículo sem olhar a Bíblia! (2 Timóteo 1:7) #shorts",
-     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Pois Deus não nos deu um espírito de covardia, mas de _____, de amor e de domínio próprio.”\n\nA) poder\nB) socorro\nC) coração\nD) mundo\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coragem #espiritosanto #completeoversiculo"
+     "title": "Desafio: complete o versículo sem olhar a Bíblia! (Salmos 28:7) #shorts",
+     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR é a minha força e o meu escudo. O meu coração confiou nele, e eu sou ajudado. Por isso o meu coração muito se alegra. Com o meu _____ eu lhe darei graças.”\n\nA) cântico\nB) poder\nC) caminho\nD) socorro\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #forca #louvor #completeoversiculo"
     }
    },
    "caption_source": "template",
    "music": {
-    "id": "gen-reflexao-1",
-    "title": "Águas Tranquilas",
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
    },
    "gospel_suggestions": [
     {
-     "title": "Faz Chover",
-     "artist": "Fernandinho"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
     },
     {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-14T13:01:13+00:00",
+    "instagram": "2026-10-14T13:01:57+00:00",
+    "facebook": "2026-10-14T13:02:02+00:00",
+    "stories": "2026-10-14T13:02:36+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/VrCSeeaTC-s",
+    "instagram": "https://www.instagram.com/reel/DeecVQyin7r/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1678829830622935",
+    "stories": "story 17917086873257594"
+   }
   },
   {
    "id": "2026-10-14-2-quiz",
@@ -3012,37 +3046,37 @@
    "slot": 2,
    "time": "08:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-14T13:49:47+00:00",
+   "status": "approved",
+   "created_at": "2026-10-14T08:22:51+00:00",
    "source": "bank",
-   "bank_id": "q670",
+   "bank_id": "q664",
    "model": null,
    "content": {
-    "ref": "2 Reis 4:38",
-    "ref_label": "2 Reis 4:38",
-    "question": "Em qual lugar Eliseu fez um ensopado para os filhos dos profetas em tempo de fome?",
+    "ref": "Malaquias 4:5",
+    "ref_label": "Malaquias 4:5",
+    "question": "Qual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?",
     "options": [
-     "Jericó",
-     "Samaria",
-     "Betel",
-     "Gilgal"
+     "Samuel",
+     "Isaías",
+     "Elias",
+     "Moisés"
     ],
-    "answer": 3,
-    "evidence": "Eliseu voltou a Gilgal",
-    "passage": "Eliseu voltou a Gilgal. Havia fome na terra; e os filhos dos profetas estavam sentados diante dele; e ele disse a seu servo: “Pegue a panela grande e faça um ensopado para os filhos dos profetas.”",
-    "difficulty": "dificil"
+    "answer": 2,
+    "evidence": "eu lhes enviarei o profeta Elias",
+    "passage": "Eis que eu lhes enviarei o profeta Elias antes que venha o grande e terrível dia do SENHOR.",
+    "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Em tempos de necessidade, Deus usou Eliseu para alimentar os filhos dos profetas. 📖 Você sabe em que lugar ele fez o ensopado? Teste seu conhecimento e compartilhe sua resposta nos comentários. Vamos juntos celebrar a sabedoria das Escrituras!\n\nEm qual lugar Eliseu fez um ensopado para os filhos dos profetas em tempo de fome?\nA) Jericó\nB) Samaria\nC) Betel\nD) Gilgal\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #jesus #biblia #fe #evangelico #palavradedeus #deus #conhecimentobiblico #perguntasbiblicas #teste",
-    "facebook": "Em tempos de necessidade, Deus usou Eliseu para alimentar os filhos dos profetas. 📖 Você sabe em que lugar ele fez o ensopado? Teste seu conhecimento e compartilhe sua resposta nos comentários. Vamos juntos celebrar a sabedoria das Escrituras!\n\nEm qual lugar Eliseu fez um ensopado para os filhos dos profetas em tempo de fome?\nA) Jericó\nB) Samaria\nC) Betel\nD) Gilgal\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
-    "tiktok": "Quiz: Onde Eliseu fez o ensopado? Responda nos comentários! 🙏\n#quizbiblico #desafiobiblico #fe #deus #evangelico",
-    "kwai": "Quiz: Onde Eliseu fez o ensopado? Responda nos comentários! 🙏\n#quizbiblico #desafiobiblico #desafio #biblia #jesus",
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #jesus #biblia #fe #evangelico #palavradedeus #deus #conhecimentobiblico #perguntasbiblicas #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #fe #deus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente sua resposta e marque quem você acha que acerta.\n#quizbiblico #desafiobiblico #desafio #biblia #jesus",
     "youtube": {
-     "title": "Quiz Bíblico: O local do ensopado de Eliseu #shorts",
-     "description": "Em tempos de necessidade, Deus usou Eliseu para alimentar os filhos dos profetas. 📖 Você sabe em que lugar ele fez o ensopado? Teste seu conhecimento e compartilhe sua resposta nos comentários. Vamos juntos celebrar a sabedoria das Escrituras!\n\nEm qual lugar Eliseu fez um ensopado para os filhos dos profetas em tempo de fome?\nA) Jericó\nB) Samaria\nC) Betel\nD) Gilgal\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+     "title": "Teste rápido: você acerta de primeira? Qual profeta Deus prometeu enviar antes do… #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?\n\nA) Samuel\nB) Isaías\nC) Elias\nD) Moisés\n\nComente sua resposta e marque quem você acha que acerta.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
     }
    },
-   "caption_source": "groq",
+   "caption_source": "template",
    "music": {
     "id": "gen-desafio-1",
     "title": "Contagem",
@@ -3067,15 +3101,22 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-14T11:01:18+00:00",
+    "instagram": "2026-10-14T11:01:54+00:00",
+    "facebook": "2026-10-14T11:01:58+00:00",
+    "stories": "2026-10-14T11:02:33+00:00"
    },
    "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "legenda Groq descartada: legenda revela a resposta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/dbBg841UQVw",
+    "instagram": "https://www.instagram.com/reel/DeeOmu0jQtU/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1124311613279126",
+    "stories": "story 18150603505553864"
+   }
   },
   {
    "id": "2026-10-14-1-verse",
@@ -3083,41 +3124,37 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-14T13:48:13+00:00",
+   "status": "approved",
+   "created_at": "2026-10-14T08:21:14+00:00",
    "source": "bank",
-   "bank_id": "v156",
+   "bank_id": "v155",
    "model": null,
    "content": {
-    "ref": "Gálatas 2:20",
-    "ref_label": "Gálatas 2:20",
-    "verse_text": "Fui crucificado com Cristo; e já não sou eu quem vive, mas Cristo vive em mim. A vida que agora vivo na carne, vivo pela fé no Filho de Deus, que me amou e se entregou por mim.",
-    "on_screen": "Já não sou eu quem vive, é Cristo que vive em mim.",
-    "reflection": "A vida cristã não é só melhorar: é deixar Cristo viver em nós. Ele nos amou e se entregou por nós.",
-    "theme": "nova vida",
+    "ref": "2 Coríntios 4:18",
+    "ref_label": "2 Coríntios 4:18",
+    "verse_text": "Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.",
+    "on_screen": "O que não se vê é eterno.",
+    "reflection": "Os problemas visíveis são passageiros. Mantenha os olhos no que é eterno.",
+    "theme": "eternidade",
     "mood": "reflexao",
     "tags": [
-     "novavida",
+     "eternidade",
      "fe"
     ]
    },
    "captions": {
-    "instagram": "“Fui crucificado com Cristo; e já não sou eu quem vive, mas Cristo vive em mim. A vida que agora vivo na carne, vivo pela fé no Filho de Deus, que me amou e se entregou por mim.” (Gálatas 2:20)\n\nA vida cristã vai além de buscar melhorias: é abrir espaço para que Cristo habite em nós. Quando reconhecemos que Ele já deu tudo por nós, nossa existência ganha um novo sentido, guiada pela fé no Filho que nos amou incondicionalmente. Permita que essa verdade transforme seu dia a dia, trazendo paz e propósito que só Ele pode oferecer.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#novavida #fe #versiculododia #versiculo #devocional #jesus #oracao #evangelico #deus #esperanca #biblia #palavradedeus",
-    "facebook": "“Fui crucificado com Cristo; e já não sou eu quem vive, mas Cristo vive em mim. A vida que agora vivo na carne, vivo pela fé no Filho de Deus, que me amou e se entregou por mim.” (Gálatas 2:20)\n\nA vida cristã vai além de buscar melhorias: é abrir espaço para que Cristo habite em nós. Quando reconhecemos que Ele já deu tudo por nós, nossa existência ganha um novo sentido, guiada pela fé no Filho que nos amou incondicionalmente. Permita que essa verdade transforme seu dia a dia, trazendo paz e propósito que só Ele pode oferecer.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#novavida #fe #versiculododia #versiculo",
-    "tiktok": "Viva guiado pela fé: Cristo vive em você! 🌿\n#novavida #fe #versiculododia #versiculo #reflexao",
-    "kwai": "Viva guiado pela fé: Cristo vive em você! 🌿\n#novavida #fe #versiculododia #versiculo #jesus",
+    "instagram": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo #devocional #jesus #oracao #evangelico #deus #esperanca #biblia #palavradedeus",
+    "facebook": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#eternidade #fe #versiculododia #versiculo",
+    "tiktok": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #reflexao",
+    "kwai": "Problemas vêm e vão. Foque no que é eterno e encontre paz. 🙏\n#eternidade #fe #versiculododia #versiculo #jesus",
     "youtube": {
-     "title": "Como deixar Cristo viver em sua vida diária #shorts",
-     "description": "“Fui crucificado com Cristo; e já não sou eu quem vive, mas Cristo vive em mim. A vida que agora vivo na carne, vivo pela fé no Filho de Deus, que me amou e se entregou por mim.” (Gálatas 2:20)\n\nA vida cristã vai além de buscar melhorias: é abrir espaço para que Cristo habite em nós. Quando reconhecemos que Ele já deu tudo por nós, nossa existência ganha um novo sentido, guiada pela fé no Filho que nos amou incondicionalmente. Permita que essa verdade transforme seu dia a dia, trazendo paz e propósito que só Ele pode oferecer.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #novavida #fe #versiculododia"
+     "title": "Foco no eterno: como viver além dos problemas visíveis #shorts",
+     "description": "“Enquanto não fixamos os olhos nas coisas que são vistas, mas nas coisas que não são vistas. Pois as coisas que são vistas são temporais, mas as coisas que não são vistas são eternas.” (2 Coríntios 4:18)\n\nOs desafios que vemos todos os dias são como nuvens passageiras. Quando focamos no que não podemos ver – a esperança, a fé e o amor que Deus nos dá – descobrimos uma paz que não se abala. Lembre-se: o que é visível tem fim, mas o que é eterno permanece. Mantenha o olhar firme no que realmente importa e deixe o tempo cuidar do resto. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #eternidade #fe #versiculododia"
     }
    },
    "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
-    {
-     "title": "Uma Nova História",
-     "artist": "Fernandinho"
-    },
     {
      "title": "Grandes Coisas",
      "artist": "Fernandinho"
@@ -3125,20 +3162,28 @@
     {
      "title": "Todavia Me Alegrarei",
      "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-14T09:31:56+00:00",
+    "facebook": "2026-10-14T09:31:59+00:00",
+    "stories": "2026-10-14T09:32:06+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeeEWwxmeAY/",
+    "facebook": "https://www.facebook.com/1405324152662027_122097046419513774",
+    "stories": "story 18103668509630844"
+   }
   },
   {
    "id": "2026-10-13-10-truefalse",
@@ -3595,40 +3640,40 @@
    "slot": 4,
    "time": "12:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-13T16:08:56+00:00",
+   "status": "approved",
+   "created_at": "2026-10-13T08:26:48+00:00",
    "source": "bank",
-   "bank_id": "q343",
+   "bank_id": "q341",
    "model": null,
    "content": {
-    "ref": "Levítico 23:34",
-    "ref_label": "Levítico 23:34",
-    "question": "Qual festa dura sete dias a partir do décimo quinto dia do sétimo mês?",
+    "ref": "Levítico 16:8",
+    "ref_label": "Levítico 16:8",
+    "question": "Sobre quantos bodes Arão lançava sortes?",
     "options": [
-     "Pentecostes",
-     "Festa dos tabernáculos",
-     "Purim",
-     "Páscoa"
+     "Dois",
+     "Doze",
+     "Sete",
+     "Três"
     ],
-    "answer": 1,
-    "evidence": "é a festa dos tabernáculos por sete dias",
-    "passage": "“Fale aos filhos de Israel e diga: ‘No décimo quinto dia deste sétimo mês é a festa dos tabernáculos por sete dias para o SENHOR.",
+    "answer": 0,
+    "evidence": "lançará sortes sobre os dois bodes",
+    "passage": "Arão lançará sortes sobre os dois bodes: uma sorte para o SENHOR, e a outra sorte para o bode emissário.",
     "difficulty": "dificil"
    },
    "captions": {
-    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual festa dura sete dias a partir do décimo quinto dia do sétimo mês?\n\nA) Pentecostes\nB) Festa dos tabernáculos\nC) Purim\nD) Páscoa\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus #teste #biblia #perguntasbiblicas #palavradedeus #evangelico #cristao #jesus #gospel",
-    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual festa dura sete dias a partir do décimo quinto dia do sétimo mês?\n\nA) Pentecostes\nB) Festa dos tabernáculos\nC) Purim\nD) Páscoa\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste",
-    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #desafio",
-    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #palavradedeus",
+    "instagram": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus #teste #biblia #perguntasbiblicas #palavradedeus #evangelico #cristao #jesus #gospel",
+    "facebook": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste",
+    "tiktok": "Quiz bíblico: quantos bodes Arão lançava? 🤔\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #desafio",
+    "kwai": "Quiz bíblico: quantos bodes Arão lançava? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #palavradedeus",
     "youtube": {
-     "title": "Só 1% acerta essa pergunta da Bíblia! Qual festa dura sete dias a partir do décimo… #shorts",
-     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual festa dura sete dias a partir do décimo quinto dia do sétimo mês?\n\nA) Pentecostes\nB) Festa dos tabernáculos\nC) Purim\nD) Páscoa\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
+     "title": "Quiz Bíblico: Quantos Bodes Arão Lançava? #shorts",
+     "description": "Hoje trazemos um quiz especial para você refletir sobre um momento marcante das Escrituras. A pergunta é: sobre quantos bodes Arão lançava sortes? Escolha uma das opções e compartilhe sua resposta nos comentários. Vamos juntos explorar a riqueza da história bíblica e aprender mais a cada dia. Boa reflexão! 🙏\n\nSobre quantos bodes Arão lançava sortes?\nA) Dois\nB) Doze\nC) Sete\nD) Três\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe"
     }
    },
-   "caption_source": "template",
+   "caption_source": "groq",
    "music": {
-    "id": "gen-desafio-1",
-    "title": "Contagem",
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
     "source": "Composição original gerada por scripts/make_music.py",
     "license": "Própria (domínio público / CC0)",
     "url": ""
@@ -3650,16 +3695,20 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-13T15:03:07+00:00",
+    "instagram": "2026-10-13T15:03:43+00:00",
+    "facebook": "2026-10-13T15:03:47+00:00",
+    "stories": "2026-10-13T15:05:19+00:00"
    },
-   "log": [
-    "legenda Groq descartada: legenda incompleta",
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/c7wPbOsk-gU",
+    "instagram": "https://www.instagram.com/reel/DecFfDlAPK-/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1482098440641829",
+    "stories": "story 18019092167959155"
+   }
   },
   {
    "id": "2026-10-13-3-fill",
@@ -3667,37 +3716,37 @@
    "slot": 3,
    "time": "10:00",
    "type": "fill",
-   "status": "pending",
-   "created_at": "2026-10-13T16:07:38+00:00",
+   "status": "approved",
+   "created_at": "2026-10-13T08:25:27+00:00",
    "source": "bank",
-   "bank_id": "v221",
+   "bank_id": "v236",
    "model": null,
    "content": {
-    "ref": "Salmos 130:5",
-    "ref_label": "Salmos 130:5",
-    "verse_text": "Eu aguardo o SENHOR. Minha alma aguarda. Eu espero na sua palavra.",
-    "question": "Eu aguardo o SENHOR. Minha _____ aguarda. Eu espero na sua palavra.",
+    "ref": "Isaías 33:2",
+    "ref_label": "Isaías 33:2",
+    "verse_text": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa força a cada manhã, a nossa salvação também no tempo da angústia.",
+    "question": "SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.",
     "options": [
-     "liberdade",
-     "esperança",
-     "glória",
-     "alma"
+     "força",
+     "justiça",
+     "promessa",
+     "esperança"
     ],
-    "answer": 3,
-    "answer_word": "alma",
+    "answer": 0,
+    "answer_word": "força",
     "tags": [
-     "espera",
-     "palavra"
+     "forca",
+     "manha"
     ]
    },
    "captions": {
-    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Eu aguardo o SENHOR. Minha _____ aguarda. Eu espero na sua palavra.”\n\nA) liberdade\nB) esperança\nC) glória\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espera #palavra #completeoversiculo #versiculo #quizbiblico #palavradedeus #desafiobiblico #jesus #deus #evangelico #biblia #cristao",
-    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Eu aguardo o SENHOR. Minha _____ aguarda. Eu espero na sua palavra.”\n\nA) liberdade\nB) esperança\nC) glória\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espera #palavra #completeoversiculo #versiculo",
-    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#espera #palavra #completeoversiculo #versiculo #biblia",
-    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#espera #palavra #completeoversiculo #versiculo #quizbiblico",
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo #deus #quizbiblico #gospel #cristao #biblia #evangelico #jesus #fe",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#forca #manha #completeoversiculo #versiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a palavra que falta antes de ver a resposta!\n#forca #manha #completeoversiculo #versiculo #fe",
     "youtube": {
-     "title": "Você sabe esse versículo de cor? (Salmos 130:5) #shorts",
-     "description": "Você sabe esse versículo de cor? 📖\n\n“Eu aguardo o SENHOR. Minha _____ aguarda. Eu espero na sua palavra.”\n\nA) liberdade\nB) esperança\nC) glória\nD) alma\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #espera #palavra #completeoversiculo"
+     "title": "Você sabe esse versículo de cor? (Isaías 33:2) #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“SENHOR, seja gracioso conosco. Temos esperado em ti. Seja a nossa _____ a cada manhã, a nossa salvação também no tempo da angústia.”\n\nA) força\nB) justiça\nC) promessa\nD) esperança\n\nComente a palavra que falta antes de ver a resposta!\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #forca #manha #completeoversiculo"
     }
    },
    "caption_source": "template",
@@ -3710,30 +3759,35 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Bondade de Deus",
-     "artist": "Isaías Saad"
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
     },
     {
-     "title": "Oh Quão Lindo Esse Nome É",
-     "artist": "Ana Nóbrega"
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
     },
     {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-13T13:03:01+00:00",
+    "instagram": "2026-10-13T13:03:38+00:00",
+    "facebook": "2026-10-13T13:03:43+00:00",
+    "stories": "2026-10-13T13:04:17+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/acx-KQKjy5k",
+    "instagram": "https://www.instagram.com/reel/Deb3veXkr2J/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1839237333880450",
+    "stories": "story 18106790902971724"
+   }
   },
   {
    "id": "2026-10-13-2-quiz",
@@ -3741,34 +3795,34 @@
    "slot": 2,
    "time": "08:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-13T16:06:27+00:00",
+   "status": "approved",
+   "created_at": "2026-10-13T08:23:49+00:00",
    "source": "bank",
-   "bank_id": "q477",
+   "bank_id": "q472",
    "model": null,
    "content": {
-    "ref": "Mateus 13:46",
-    "ref_label": "Mateus 13:46",
-    "question": "Na parábola, o que o homem encontrou e vendeu tudo o que tinha para comprar?",
+    "ref": "Mateus 8:32",
+    "ref_label": "Mateus 8:32",
+    "question": "Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?",
     "options": [
-     "Uma vinha",
-     "Um tesouro",
-     "Um campo",
-     "Uma pérola de grande valor"
+     "A manada de porcos",
+     "As cabras",
+     "Os bois",
+     "O rebanho de ovelhas"
     ],
-    "answer": 3,
-    "evidence": "uma pérola de grande valor",
-    "passage": "que, tendo encontrado uma pérola de grande valor, foi, vendeu tudo o que tinha e a comprou.",
+    "answer": 0,
+    "evidence": "a manada de porcos precipitou-se desfiladeiro abaixo",
+    "passage": "Ele lhes disse: “Vão!” Eles saíram e foram para a manada de porcos; e eis que toda a manada de porcos precipitou-se desfiladeiro abaixo, para dentro do mar, e morreu nas águas.",
     "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Na parábola, um homem encontrou algo tão precioso que decidiu vender tudo o que possuía para adquiri‑lo. Você consegue imaginar o que seria? Reflita sobre o que realmente tem valor na sua vida e compartilhe sua opinião nos comentários. Vamos juntos buscar o que realmente importa, com coração aberto e fé! ✨\n\nNa parábola, o que o homem encontrou e vendeu tudo o que tinha para comprar?\nA) Uma vinha\nB) Um tesouro\nC) Um campo\nD) Uma pérola de grande valor\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #jesus #conhecimentobiblico #fe #biblia #cristao #gospel #evangelico #perguntasbiblicas",
-    "facebook": "Na parábola, um homem encontrou algo tão precioso que decidiu vender tudo o que possuía para adquiri‑lo. Você consegue imaginar o que seria? Reflita sobre o que realmente tem valor na sua vida e compartilhe sua opinião nos comentários. Vamos juntos buscar o que realmente importa, com coração aberto e fé! ✨\n\nNa parábola, o que o homem encontrou e vendeu tudo o que tinha para comprar?\nA) Uma vinha\nB) Um tesouro\nC) Um campo\nD) Uma pérola de grande valor\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio",
-    "tiktok": "Um homem encontrou algo tão valioso que vendeu tudo. O que será? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico",
-    "kwai": "Um homem encontrou algo tão valioso que vendeu tudo. O que será? 🤔\n#quizbiblico #desafiobiblico #jesus #deus #biblia",
+    "instagram": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #jesus #conhecimentobiblico #fe #biblia #cristao #gospel #evangelico #perguntasbiblicas",
+    "facebook": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio",
+    "tiktok": "Quiz bíblico: onde os espíritos imundos se precipitaram no mar? 🤔\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico",
+    "kwai": "Quiz bíblico: onde os espíritos imundos se precipitaram no mar? 🤔\n#quizbiblico #desafiobiblico #jesus #deus #biblia",
     "youtube": {
-     "title": "O que vale a pena vender tudo por na parábola? #shorts",
-     "description": "Na parábola, um homem encontrou algo tão precioso que decidiu vender tudo o que possuía para adquiri‑lo. Você consegue imaginar o que seria? Reflita sobre o que realmente tem valor na sua vida e compartilhe sua opinião nos comentários. Vamos juntos buscar o que realmente importa, com coração aberto e fé! ✨\n\nNa parábola, o que o homem encontrou e vendeu tudo o que tinha para comprar?\nA) Uma vinha\nB) Um tesouro\nC) Um campo\nD) Uma pérola de grande valor\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
+     "title": "Quiz Bíblico – Onde os Espíritos Imundos se Dirigiram? #shorts",
+     "description": "Vamos testar seu conhecimento das Escrituras com um quiz especial! 🤔 A pergunta de hoje: Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar? Escolha entre as opções apresentadas e reflita sobre o significado desse evento. Compartilhe sua resposta nos comentários e marque alguém que também gosta de aprender mais sobre a Bíblia. Boa reflexão!\n\nPara dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?\nA) A manada de porcos\nB) As cabras\nC) Os bois\nD) O rebanho de ovelhas\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico"
     }
    },
    "caption_source": "groq",
@@ -3796,15 +3850,20 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-13T11:03:02+00:00",
+    "instagram": "2026-10-13T11:04:11+00:00",
+    "facebook": "2026-10-13T11:04:16+00:00",
+    "stories": "2026-10-13T11:04:48+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/vjQxjayslv4",
+    "instagram": "https://www.instagram.com/reel/DebqEU4DIH0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2224157021784009",
+    "stories": "story 18118541857965705"
+   }
   },
   {
    "id": "2026-10-13-1-verse",
@@ -3812,62 +3871,66 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-13T16:05:07+00:00",
+   "status": "approved",
+   "created_at": "2026-10-13T08:22:09+00:00",
    "source": "bank",
-   "bank_id": "v096",
+   "bank_id": "v094",
    "model": null,
    "content": {
-    "ref": "Gênesis 1:1",
-    "ref_label": "Gênesis 1:1",
-    "verse_text": "No princípio, Deus criou os céus e a terra.",
-    "on_screen": "Tudo começou com Deus.",
-    "reflection": "Antes de qualquer coisa existir, Deus já estava lá. O mesmo Criador do universo conhece o seu nome e cuida do seu começo, do seu meio e do seu fim.",
-    "theme": "criação",
-    "mood": "alegria",
+    "ref": "Salmos 56:3",
+    "ref_label": "Salmos 56:3",
+    "verse_text": "Quando eu tiver medo, colocarei a minha confiança em ti.",
+    "on_screen": "Quando eu tiver medo, confiarei em Ti.",
+    "reflection": "Davi não fingiu que não tinha medo. Ele decidiu o que fazer com o medo: confiar em Deus. Essa decisão também é sua.",
+    "theme": "medo",
+    "mood": "reflexao",
     "tags": [
-     "criacao",
-     "deus"
+     "medo",
+     "confianca"
     ]
    },
    "captions": {
-    "instagram": "“No princípio, Deus criou os céus e a terra.” (Gênesis 1:1)\n\nAntes que o universo existisse, o Criador já estava presente. Ele conhece cada detalhe da sua vida: o início, o meio e o fim. Confie quem cuida de tudo desde o princípio. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #deus #versiculododia #versiculo #gospel #oracao #palavradedeus #biblia #fe #evangelico #reflexao #jesus",
-    "facebook": "“No princípio, Deus criou os céus e a terra.” (Gênesis 1:1)\n\nAntes que o universo existisse, o Criador já estava presente. Ele conhece cada detalhe da sua vida: o início, o meio e o fim. Confie quem cuida de tudo desde o princípio. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #deus #versiculododia #versiculo",
-    "tiktok": "Deus estava antes de tudo e cuida de cada passo seu. 🙏\n#criacao #deus #versiculododia #versiculo #palavradedeus",
-    "kwai": "Deus estava antes de tudo e cuida de cada passo seu. 🙏\n#criacao #deus #versiculododia #versiculo #evangelico",
+    "instagram": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo #evangelico #oracao #biblia #jesus #fe #cristao #reflexao #deus",
+    "facebook": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#medo #confianca #versiculododia #versiculo",
+    "tiktok": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #biblia",
+    "kwai": "Medo vem, mas a confiança em Deus vence. 🙏\n#medo #confianca #versiculododia #versiculo #devocional",
     "youtube": {
-     "title": "Deus antes do início: confiança total #shorts",
-     "description": "“No princípio, Deus criou os céus e a terra.” (Gênesis 1:1)\n\nAntes que o universo existisse, o Criador já estava presente. Ele conhece cada detalhe da sua vida: o início, o meio e o fim. Confie quem cuida de tudo desde o princípio. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #criacao #deus #versiculododia"
+     "title": "Como transformar o medo em confiança em Deus #shorts",
+     "description": "“Quando eu tiver medo, colocarei a minha confiança em ti.” (Salmos 56:3)\n\nDavi não negou seu medo, mas escolheu confiar em Deus. Quando o coração aperta, lembre‑se: você também pode entregar o medo nas mãos do Senhor e encontrar paz. Que hoje sua decisão seja confiar, mesmo nos momentos incertos. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #medo #confianca #versiculododia"
     }
    },
    "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Atos 2",
-     "artist": "Gabriela Rocha"
+     "title": "Deserto",
+     "artist": "Maria Marçal"
     },
     {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
     },
     {
-     "title": "Faz Chover",
-     "artist": "Fernandinho"
+     "title": "Raridade",
+     "artist": "Anderson Freire"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-13T09:32:53+00:00",
+    "facebook": "2026-10-13T09:32:57+00:00",
+    "stories": "2026-10-13T09:33:05+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DebfrAXEVEV/",
+    "facebook": "https://www.facebook.com/1405324152662027_122096365791513774",
+    "stories": "story 18093918869172332"
+   }
   },
   {
    "id": "2026-10-12-10-verse",
@@ -6323,37 +6386,41 @@
    "slot": 1,
    "time": "06:30",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-12T18:00:18+00:00",
+   "status": "approved",
+   "created_at": "2026-10-12T08:21:09+00:00",
    "source": "bank",
-   "bank_id": "v079",
+   "bank_id": "v078",
    "model": null,
    "content": {
-    "ref": "Provérbios 18:10",
-    "ref_label": "Provérbios 18:10",
-    "verse_text": "O nome do SENHOR é uma torre forte: os justos correm para ele e estão seguros.",
-    "on_screen": "O nome do Senhor é uma torre forte.",
-    "reflection": "Nos tempos antigos, a torre era o lugar mais seguro da cidade. Corra para Deus: nEle você está seguro.",
-    "theme": "refúgio",
+    "ref": "Provérbios 4:23",
+    "ref_label": "Provérbios 4:23",
+    "verse_text": "Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.",
+    "on_screen": "Guarde o seu coração.",
+    "reflection": "Aquilo que entra no coração molda as palavras, as atitudes e as escolhas. Cuide do que você ouve, vê e pensa.",
+    "theme": "coração",
     "mood": "reflexao",
     "tags": [
-     "refugio",
-     "protecao"
+     "coracao",
+     "sabedoria"
     ]
    },
    "captions": {
-    "instagram": "Comece o dia com a Palavra 🙏\n\n“O nome do SENHOR é uma torre forte: os justos correm para ele e estão seguros.” (Provérbios 18:10)\n\nNos tempos antigos, a torre era o lugar mais seguro da cidade. Corra para Deus: nEle você está seguro.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#refugio #protecao #versiculododia #versiculo #deus #jesus #biblia #oracao #fe #devocional #esperanca #cristao",
-    "facebook": "Comece o dia com a Palavra 🙏\n\n“O nome do SENHOR é uma torre forte: os justos correm para ele e estão seguros.” (Provérbios 18:10)\n\nNos tempos antigos, a torre era o lugar mais seguro da cidade. Corra para Deus: nEle você está seguro.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#refugio #protecao #versiculododia #versiculo",
-    "tiktok": "Comece o dia com a Palavra 🙏 Provérbios 18:10\nDigite AMÉM se você recebe essa palavra.\n#refugio #protecao #versiculododia #versiculo #devocional",
-    "kwai": "Comece o dia com a Palavra 🙏 Provérbios 18:10\nDigite AMÉM se você recebe essa palavra.\n#refugio #protecao #versiculododia #versiculo #deus",
+    "instagram": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coracao #sabedoria #versiculododia #versiculo #deus #jesus #biblia #oracao #fe #devocional #esperanca #cristao",
+    "facebook": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coracao #sabedoria #versiculododia #versiculo",
+    "tiktok": "Cuide do que entra no seu coração e veja a vida florescer.\n#coracao #sabedoria #versiculododia #versiculo #devocional",
+    "kwai": "Cuide do que entra no seu coração e veja a vida florescer.\n#coracao #sabedoria #versiculododia #versiculo #deus",
     "youtube": {
-     "title": "Provérbios 18:10: O nome do Senhor é uma torre forte. #shorts",
-     "description": "Comece o dia com a Palavra 🙏\n\n“O nome do SENHOR é uma torre forte: os justos correm para ele e estão seguros.” (Provérbios 18:10)\n\nNos tempos antigos, a torre era o lugar mais seguro da cidade. Corra para Deus: nEle você está seguro.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #refugio #protecao #versiculododia"
+     "title": "Cuidando do coração: a fonte da vida #shorts",
+     "description": "“Guarde o seu coração com toda a diligência, pois dele procedem as fontes da vida.” (Provérbios 4:23)\n\nO coração é como um jardim: o que plantamos nele cresce e se manifesta nas nossas palavras, atitudes e escolhas. Cuide do que alimenta sua mente e emoções – seja boa conversa, imagens inspiradoras ou pensamentos positivos. Assim, você cultivará uma vida plena e cheia de graça.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coracao #sabedoria #versiculododia"
     }
    },
-   "caption_source": "template",
+   "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
     {
      "title": "A Casa É Sua",
      "artist": "Casa Worship"
@@ -6361,24 +6428,24 @@
     {
      "title": "Lugar Secreto",
      "artist": "Gabriela Rocha"
-    },
-    {
-     "title": "Nada Além do Sangue",
-     "artist": "Fernandinho"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-12T09:31:02+00:00",
+    "facebook": "2026-10-12T09:31:05+00:00",
+    "stories": "2026-10-12T09:31:21+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeY6ph7GBP0/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095733325513774",
+    "stories": "story 18111117659055793"
+   }
   },
   {
    "id": "2026-10-12-1-verse-v2",
@@ -7024,62 +7091,67 @@
    "slot": 1,
    "time": "07:00",
    "type": "verse",
-   "status": "rejected",
-   "created_at": "2026-10-11T14:57:21+00:00",
+   "status": "approved",
+   "created_at": "2026-10-11T03:15:43+00:00",
    "source": "bank",
-   "bank_id": "v111",
+   "bank_id": "v110",
    "model": null,
    "content": {
-    "ref": "Salmos 32:8",
-    "ref_label": "Salmos 32:8",
-    "verse_text": "Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.",
-    "on_screen": "Deus ensina o caminho em que você deve andar.",
-    "reflection": "Você não precisa adivinhar o futuro. Deus promete instruir, ensinar e aconselhar com os olhos sobre você.",
-    "theme": "direção",
-    "mood": "reflexao",
+    "ref": "Salmos 19:1",
+    "skip_prefix": "Para o mestre de música. Um Salmo de Davi.",
+    "ref_label": "Salmos 19:1",
+    "verse_text": "Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.",
+    "on_screen": "Os céus declaram a glória de Deus.",
+    "reflection": "Cada pôr do sol e cada céu estrelado é um sermão sem palavras. Olhe para cima hoje e lembre-se de quem fez tudo isso.",
+    "theme": "criação",
+    "mood": "alegria",
     "tags": [
-     "direcao",
+     "criacao",
      "salmos"
     ]
    },
    "captions": {
-    "instagram": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #salmos #versiculododia #versiculo #biblia #esperanca #gospel #oracao #cristao #fe #evangelico #devocional",
-    "facebook": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#direcao #salmos #versiculododia #versiculo",
-    "tiktok": "Deus guia seu caminho e cuida de cada passo. Confie! 🙏\n#direcao #salmos #versiculododia #versiculo #deus",
-    "kwai": "Deus guia seu caminho e cuida de cada passo. Confie! 🙏\n#direcao #salmos #versiculododia #versiculo #esperanca",
+    "instagram": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #salmos #versiculododia #versiculo #biblia #esperanca #gospel #oracao #cristao #fe #evangelico #devocional",
+    "facebook": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#criacao #salmos #versiculododia #versiculo",
+    "tiktok": "Olhe o céu, sinta a presença de Deus e agradeça. 🌟\n#criacao #salmos #versiculododia #versiculo #deus",
+    "kwai": "Olhe o céu, sinta a presença de Deus e agradeça. 🌟\n#criacao #salmos #versiculododia #versiculo #esperanca",
     "youtube": {
-     "title": "Deus guia seu futuro: confiança na direção divina #shorts",
-     "description": "“Eu o instruirei e o ensinarei no caminho em que você deve andar. Eu o aconselharei com os meus olhos sobre você.” (Salmos 32:8)\n\nQuando o futuro parece incerto, lembre‑se: o Senhor promete guiar cada passo. Ele está pronto para instruir, ensinar e aconselhar, olhando com amor sobre a sua jornada. Entregue seus planos nas mãos d'Ele e sinta a paz de caminhar sob Sua direção. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #direcao #salmos #versiculododia"
+     "title": "A beleza do céu como testemunho da glória de Deus #shorts",
+     "description": "“Os céus declaram a glória de Deus. O firmamento anuncia a obra das suas mãos.” (Salmos 19:1)\n\nCada pôr do sol pinta o céu com a mão de Deus, lembrando-nos do Seu amor infinito. Ao levantar os olhos, sinta a paz que vem ao reconhecer o Criador de tudo que vemos. Que essa beleza te inspire a viver com gratidão e esperança hoje. 🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #criacao #salmos #versiculododia"
     }
    },
    "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
     {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
      "title": "Deus de Promessas",
      "artist": "Davi Sacer"
     },
     {
-     "title": "Lugar Secreto",
-     "artist": "Gabriela Rocha"
-    },
-    {
-     "title": "Ressuscita-me",
-     "artist": "Aline Barros"
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-11T10:00:53+00:00",
+    "facebook": "2026-10-11T10:00:57+00:00",
+    "stories": "2026-10-11T10:01:13+00:00"
    },
-   "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
-   ],
-   "error": null
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeWZRgtjG8f/",
+    "facebook": "https://www.facebook.com/1405324152662027_122095079961513774",
+    "stories": "story 18131414911796591"
+   }
   },
   {
    "id": "2026-10-10-8-compilation",
@@ -7515,33 +7587,33 @@
    "time": "19:00",
    "type": "quiz",
    "status": "approved",
-   "created_at": "2026-10-10T14:36:14+00:00",
+   "created_at": "2026-10-10T05:21:20+00:00",
    "source": "bank",
-   "bank_id": "q031",
+   "bank_id": "q051",
    "model": null,
    "content": {
-    "ref": "1 Reis 6:14",
-    "ref_label": "1 Reis 6:14",
-    "question": "Qual rei edificou o templo (a casa) em Jerusalém?",
+    "ref": "João 20:27-28",
+    "ref_label": "João 20:27-28",
+    "question": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
     "options": [
-     "Davi",
-     "Saul",
-     "Salomão",
-     "Ezequias"
+     "Pedro",
+     "Filipe",
+     "Tomé",
+     "André"
     ],
     "answer": 2,
-    "evidence": "Salomão edificou a casa",
-    "passage": "Assim Salomão edificou a casa e a terminou.",
-    "difficulty": "facil"
+    "evidence": "Senhor meu e Deus meu",
+    "passage": "Então ele disse a Tomé: “Coloque o seu dedo aqui, e veja as minhas mãos. Estenda a sua mão, e coloque-a no meu lado. Não seja incrédulo, mas crente.” Tomé lhe respondeu: “Senhor meu e Deus meu!”",
+    "difficulty": "medio"
    },
    "captions": {
-    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #biblia #gospel #deus #conhecimentobiblico #fe #teste #desafio #evangelico",
-    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
-    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #cristao #deus",
-    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #gospel #palavradedeus #biblia",
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas #fe #deus #biblia #evangelico #conhecimentobiblico #palavradedeus #teste #cristao",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #jesus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #teste #fe #cristao",
     "youtube": {
-     "title": "Só 1% acerta essa pergunta da Bíblia! Qual rei edificou o templo (a casa) em Jerusalém? #shorts",
-     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual rei edificou o templo (a casa) em Jerusalém?\n\nA) Davi\nB) Saul\nC) Salomão\nD) Ezequias\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus"
+     "title": "Teste rápido: você acerta de primeira? Qual discípulo disse \"Senhor meu e Deus meu!\"… #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?\n\nA) Pedro\nB) Filipe\nC) Tomé\nD) André\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico"
     }
    },
    "caption_source": "template",
@@ -7554,28 +7626,37 @@
    },
    "gospel_suggestions": [
     {
-     "title": "Casa do Pai",
-     "artist": "Aline Barros"
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
     },
     {
-     "title": "Faz Chover",
-     "artist": "Fernandinho"
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
     },
     {
-     "title": "Deus de Promessas",
-     "artist": "Davi Sacer"
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-10T05:28:28+00:00",
+    "instagram": "2026-10-10T05:29:18+00:00",
+    "facebook": "2026-10-10T05:29:22+00:00"
    },
-   "log": [],
-   "error": null
+   "log": [
+    "quiz: Groq tentativa 1 descartada: conteúdo repetido",
+    "quiz: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sygM96c4IKo",
+    "instagram": "https://www.instagram.com/reel/DeTVYDNAcut/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1862028031631135"
+   }
   },
   {
    "id": "2026-10-10-6-quiz-v2",
@@ -8350,34 +8431,34 @@
    "slot": 2,
    "time": "09:00",
    "type": "quiz",
-   "status": "pending",
-   "created_at": "2026-10-10T14:32:04+00:00",
+   "status": "approved",
+   "created_at": "2026-10-10T05:16:44+00:00",
    "source": "bank",
-   "bank_id": "q256",
+   "bank_id": "q022",
    "model": null,
    "content": {
-    "ref": "Gênesis 25:25",
-    "ref_label": "Gênesis 25:25",
-    "question": "Como Esaú nasceu, segundo Gênesis?",
+    "ref": "João 11:43",
+    "ref_label": "João 11:43",
+    "question": "A quem Jesus disse: \"vem para fora!\"?",
     "options": [
-     "Todo vermelho",
-     "Sem cabelos",
-     "Muito pequeno",
-     "Com os olhos abertos"
+     "Jairo",
+     "Lázaro",
+     "Bartimeu",
+     "Nicodemos"
     ],
-    "answer": 0,
-    "evidence": "O primeiro saiu todo vermelho",
-    "passage": "O primeiro saiu todo vermelho, como uma veste de pelos. Eles o chamaram de Esaú.",
-    "difficulty": "medio"
+    "answer": 1,
+    "evidence": "Lázaro, vem para fora",
+    "passage": "Depois de dizer isso, clamou em alta voz: “Lázaro, vem para fora!”",
+    "difficulty": "facil"
    },
    "captions": {
-    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #palavradedeus #evangelico #gospel #cristao #deus #conhecimentobiblico #teste #fe #perguntasbiblicas",
-    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
-    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio",
-    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra antes de ver a resposta!\n#quizbiblico #desafiobiblico #biblia #cristao #conhecimentobiblico",
+    "instagram": "Desafio bíblico do dia 🤔\n\nA quem Jesus disse: \"vem para fora!\"?\n\nA) Jairo\nB) Lázaro\nC) Bartimeu\nD) Nicodemos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #cristao #jesus #desafio #biblia #evangelico #deus #palavradedeus #teste #fe",
+    "facebook": "Desafio bíblico do dia 🤔\n\nA quem Jesus disse: \"vem para fora!\"?\n\nA) Jairo\nB) Lázaro\nC) Bartimeu\nD) Nicodemos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio",
+    "kwai": "Desafio bíblico do dia 🤔\nResponda nos comentários e desafie um amigo.\n#quizbiblico #desafiobiblico #biblia #cristao #conhecimentobiblico",
     "youtube": {
-     "title": "Pergunta bíblica que poucos acertam Como Esaú nasceu, segundo Gênesis? #shorts",
-     "description": "Pergunta bíblica que poucos acertam 🤔\n\nComo Esaú nasceu, segundo Gênesis?\n\nA) Todo vermelho\nB) Sem cabelos\nC) Muito pequeno\nD) Com os olhos abertos\n\nComente a letra antes de ver a resposta!\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
+     "title": "Desafio bíblico do dia A quem Jesus disse: \"vem para fora!\"? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nA quem Jesus disse: \"vem para fora!\"?\n\nA) Jairo\nB) Lázaro\nC) Bartimeu\nD) Nicodemos\n\nResponda nos comentários e desafie um amigo.\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao"
     }
    },
    "caption_source": "template",
@@ -8405,15 +8486,22 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "youtube": "2026-10-10T11:08:51+00:00",
+    "instagram": "2026-10-10T11:09:22+00:00",
+    "facebook": "2026-10-10T11:09:26+00:00",
+    "stories": "2026-10-10T11:09:56+00:00"
    },
    "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "legenda Groq descartada: legenda revela a resposta"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/0KYCn4BERM8",
+    "instagram": "https://www.instagram.com/reel/DeT8SergR2C/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3757767331048069",
+    "stories": "story 18202540846337630"
+   }
   },
   {
    "id": "2026-10-10-2-quiz-v2",
@@ -8577,62 +8665,67 @@
    "slot": 1,
    "time": "07:00",
    "type": "verse",
-   "status": "pending",
-   "created_at": "2026-10-10T14:30:35+00:00",
+   "status": "approved",
+   "created_at": "2026-10-10T05:15:21+00:00",
    "source": "bank",
-   "bank_id": "v072",
+   "bank_id": "v014",
    "model": null,
    "content": {
-    "ref": "Salmos 103:2",
-    "ref_label": "Salmos 103:2",
-    "verse_text": "Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…",
-    "on_screen": "Não se esqueça dos benefícios de Deus.",
-    "reflection": "Davi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.",
-    "theme": "gratidão",
+    "ref": "2 Timóteo 1:7",
+    "ref_label": "2 Timóteo 1:7",
+    "verse_text": "Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de domínio próprio.",
+    "on_screen": "Poder, amor e domínio próprio: é isso que Deus nos deu.",
+    "reflection": "O medo não vem de Deus. O Espírito que Ele nos dá produz coragem, amor e equilíbrio. Viva hoje a partir dessa verdade.",
+    "theme": "coragem",
     "mood": "alegria",
     "tags": [
-     "gratidao",
-     "louvor"
+     "coragem",
+     "espiritosanto"
     ]
    },
    "captions": {
-    "instagram": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo #evangelico #deus #oracao #biblia #jesus #fe #palavradedeus #devocional",
-    "facebook": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#gratidao #louvor #versiculododia #versiculo",
-    "tiktok": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #fe",
-    "kwai": "Comece o dia com a Palavra 🙏 Salmos 103:2\nDigite AMÉM se você recebe essa palavra.\n#gratidao #louvor #versiculododia #versiculo #cristao",
+    "instagram": "“Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de domínio próprio.” (2 Timóteo 1:7)\n\nO medo não tem lugar onde o Espírito de Deus mora. Ele nos deu poder para enfrentar desafios, amor que nos liga ao próximo e domínio próprio para agir com sabedoria. Hoje, escolha viver com essa verdade e sinta a paz que supera qualquer temor. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #espiritosanto #versiculododia #versiculo #reflexao #gospel #biblia #oracao #evangelico #deus #fe #cristao",
+    "facebook": "“Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de domínio próprio.” (2 Timóteo 1:7)\n\nO medo não tem lugar onde o Espírito de Deus mora. Ele nos deu poder para enfrentar desafios, amor que nos liga ao próximo e domínio próprio para agir com sabedoria. Hoje, escolha viver com essa verdade e sinta a paz que supera qualquer temor. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#coragem #espiritosanto #versiculododia #versiculo",
+    "tiktok": "Viva com poder, amor e domínio próprio. O medo não vem de Deus. 🌟\n#coragem #espiritosanto #versiculododia #versiculo #fe",
+    "kwai": "Viva com poder, amor e domínio próprio. O medo não vem de Deus. 🌟\n#coragem #espiritosanto #versiculododia #versiculo #cristao",
     "youtube": {
-     "title": "Salmos 103:2: Não se esqueça dos benefícios de Deus. #shorts",
-     "description": "Comece o dia com a Palavra 🙏\n\n“Louve ao SENHOR, minha alma, e não se esqueça de nenhum de seus benefícios…” (Salmos 103:2)\n\nDavi conversa com a própria alma e a convida a lembrar. Faça hoje uma lista do que Deus já fez por você.\n\nDigite AMÉM se você recebe essa palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #gratidao #louvor #versiculododia"
+     "title": "Coragem e amor: vivendo a verdade do Espírito #shorts",
+     "description": "“Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de domínio próprio.” (2 Timóteo 1:7)\n\nO medo não tem lugar onde o Espírito de Deus mora. Ele nos deu poder para enfrentar desafios, amor que nos liga ao próximo e domínio próprio para agir com sabedoria. Hoje, escolha viver com essa verdade e sinta a paz que supera qualquer temor. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #coragem #espiritosanto #versiculododia"
     }
    },
-   "caption_source": "template",
+   "caption_source": "groq",
    "music": null,
    "gospel_suggestions": [
     {
-     "title": "Quão Grande És Tu (hino)",
-     "artist": "Cantor Cristão / vários intérpretes"
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
     },
     {
-     "title": "A Casa É Sua",
-     "artist": "Casa Worship"
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
     },
     {
-     "title": "Ele Continua Sendo Bom",
-     "artist": "Paulo César Baruk"
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
     }
    ],
    "published": {
     "tiktok": null,
     "kwai": null,
     "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": null
+    "instagram": "2026-10-10T10:05:11+00:00",
+    "facebook": "2026-10-10T10:05:16+00:00"
    },
    "log": [
-    "horário já passou: aguardando você (aprovar ou Publicar agora)"
+    "verse: Groq tentativa 1 descartada: Salmo versículo 1 (pode ter título)",
+    "verse: Groq tentativa 2 descartada: Salmo versículo 1 (pode ter título)"
    ],
-   "error": null
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/p/DeT093wGDsP/",
+    "facebook": "https://www.facebook.com/1405324152662027_122094571149513774"
+   }
   },
   {
    "id": "2026-10-10-1-verse-v2",
