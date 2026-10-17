@@ -1,0 +1,54 @@
+{
+ "updated_at": "2026-10-17T08:02:35+00:00",
+ "date": "2026-10-17",
+ "paused": false,
+ "problems": [],
+ "youtube": {
+  "used": 0,
+  "max": 5
+ },
+ "groq": {
+  "used": 18,
+  "max": 20,
+  "enabled": true
+ },
+ "bank": [
+  {
+   "kind": "verse",
+   "per_day": 1,
+   "fresh": 590,
+   "days_left": 590,
+   "warn": false
+  },
+  {
+   "kind": "fill",
+   "per_day": 1,
+   "fresh": 463,
+   "days_left": 463,
+   "warn": false
+  },
+  {
+   "kind": "quiz",
+   "per_day": 4,
+   "fresh": 1122,
+   "days_left": 160,
+   "warn": false
+  },
+  {
+   "kind": "truefalse",
+   "per_day": 3,
+   "fresh": 1142,
+   "days_left": 163,
+   "warn": false
+  },
+  {
+   "kind": "curiosity",
+   "per_day": 1,
+   "fresh": 256,
+   "days_left": 256,
+   "warn": false
+  }
+ ],
+ "today_done": [],
+ "specials": {}
+}
