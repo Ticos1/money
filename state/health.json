@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-18T00:37:42+00:00",
- "date": "2026-10-17",
+ "updated_at": "2026-10-18T04:24:33+00:00",
+ "date": "2026-10-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 18,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 463,
-   "days_left": 463,
+   "fresh": 464,
+   "days_left": 464,
    "warn": false
   },
   {
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-17-10-compilation",
-   "date": "2026-10-17",
-   "slot": 10,
-   "time": "12:00",
-   "publish_at": "2026-10-17T11:54",
-   "type": "compilation",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-17T14:55:28+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": null,
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtu.be/85sTRwfSOPk"
-   },
-   "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
-  },
-  {
-   "id": "2026-10-17-9-truefalse",
-   "date": "2026-10-17",
-   "slot": 9,
-   "time": "21:30",
-   "publish_at": "2026-10-17T21:33",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-18T00:35:29+00:00",
-    "stories": "2026-10-18T00:36:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1780933450057324",
-    "stories": "story 18165864052470138"
-   },
-   "title": "Como Davi é descrito quando foi trazido diante de Samuel?"
-  },
-  {
-   "id": "2026-10-17-8-quiz",
-   "date": "2026-10-17",
-   "slot": 8,
-   "time": "20:00",
-   "publish_at": "2026-10-17T19:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": "2026-10-17T23:01:34+00:00",
-    "facebook": "2026-10-17T23:01:39+00:00",
-    "stories": "2026-10-17T23:02:14+00:00",
-    "whatsapp": null
-   },
-   "publish_skipped": {
-    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "instagram": "https://www.instagram.com/reel/DenPWMRilIv/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2537140247092634",
-    "stories": "story 18108678242192052"
-   },
-   "title": "Mostrando hospitalidade, quem alguns hospedaram sem saber?"
-  },
-  {
-   "id": "2026-10-17-7-fill",
-   "date": "2026-10-17",
-   "slot": 7,
-   "time": "18:30",
-   "publish_at": "2026-10-17T18:29",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-17T21:30:24+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-17T21:30:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Fj80nwEvRxY",
-    "stories": "story 18129853897694085"
-   },
-   "title": "Combati o bom combate. Terminei a corrida. Guardei a _____."
-  },
-  {
-   "id": "2026-10-17-6-quiz",
-   "date": "2026-10-17",
-   "slot": 6,
-   "time": "17:00",
-   "publish_at": "2026-10-17T16:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-17T19:55:29+00:00",
-    "stories": "2026-10-17T19:56:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1165999009481761",
-    "stories": "story 18157846921543387"
-   },
-   "title": "Quem era governador da Síria quando foi feito o primeiro recenseamento?"
-  },
-  {
-   "id": "2026-10-17-5-truefalse",
-   "date": "2026-10-17",
-   "slot": 5,
-   "time": "15:00",
-   "publish_at": "2026-10-17T15:00",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-17T18:00:24+00:00",
-    "instagram": "2026-10-17T18:01:08+00:00",
-    "facebook": "2026-10-17T18:01:12+00:00",
-    "stories": "2026-10-17T18:01:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/uyMKZ4hG0iw",
-    "instagram": "https://www.instagram.com/reel/Dems9v3gn83/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1032437106472378",
-    "stories": "story 18163860394505603"
-   },
-   "title": "Sambalate, que se opôs a Neemias, era chamado de quê?"
-  },
-  {
-   "id": "2026-10-17-4-quiz-v2",
-   "date": "2026-10-17",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-17T12:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-17T15:10:22+00:00",
-    "instagram": "2026-10-17T15:11:05+00:00",
-    "facebook": "2026-10-17T15:11:11+00:00",
-    "stories": "2026-10-17T15:11:41+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/v2NAIXKShDI",
-    "instagram": "https://www.instagram.com/reel/DemZf00Cp64/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1823395468869371",
-    "stories": "story 18124804627897656"
-   },
-   "title": "Onde Raquel foi sepultada?"
-  },
-  {
-   "id": "2026-10-17-3-truefalse",
-   "date": "2026-10-17",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-17T10:08",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-17T13:10:31+00:00",
-    "stories": "2026-10-17T13:11:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4119577088342876",
-    "stories": "story 17934157332145314"
-   },
-   "title": "Que nome recebeu o lugar onde Acã foi apedrejado?"
-  },
-  {
-   "id": "2026-10-17-2-quiz-v2",
-   "date": "2026-10-17",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-17T08:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-17T11:10:26+00:00",
-    "instagram": null,
-    "facebook": "2026-10-17T11:10:31+00:00",
-    "stories": "2026-10-17T11:11:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/oYmUvj9D7f8",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1117093877391403",
-    "stories": "story 18091594436229680"
-   },
-   "title": "Nínive era uma cidade de quantos dias de caminhada?"
-  },
-  {
-   "id": "2026-10-17-1-verse-v2",
-   "date": "2026-10-17",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-17T06:27",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-17T09:30:36+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18139170376621510"
-   },
-   "title": "Isaías 26:12"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
