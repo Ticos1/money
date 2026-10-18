@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-18-9-quiz",
+   "date": "2026-10-18",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-18T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:24:55+00:00",
+   "source": "bank",
+   "bank_id": "q1217",
+   "model": null,
+   "content": {
+    "ref": "João 4:35",
+    "ref_label": "João 4:35",
+    "question": "Segundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?",
+    "options": [
+     "Seis",
+     "Dois",
+     "Três",
+     "Quatro"
+    ],
+    "answer": 3,
+    "evidence": "Ainda faltam quatro meses",
+    "passage": "Vocês não dizem: 'Ainda faltam quatro meses até a colheita'? Eis que eu lhes digo: levantem os olhos e vejam os campos, pois já estão brancos para a colheita.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #desafio #gospel #fe #biblia #jesus #deus #palavradedeus #evangelico",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #palavradedeus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #palavradedeus #conhecimentobiblico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-18T22:50:26+00:00",
+    "instagram": "2026-10-18T22:51:25+00:00",
+    "facebook": "2026-10-18T22:51:28+00:00",
+    "stories": "2026-10-18T22:52:01+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/df6P40yjFes",
+    "instagram": "https://www.instagram.com/reel/Depy-3olsQb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2185692985681115",
+    "stories": "story 18193196797396226"
+   }
+  },
+  {
    "id": "2026-10-18-8-fill",
    "date": "2026-10-18",
    "slot": 8,
