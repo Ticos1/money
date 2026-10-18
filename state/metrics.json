@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:06:20+00:00",
+ "updated_at": "2026-10-18T00:37:39+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,23 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-17-9-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-17",
+   "time": "21:30",
+   "title": "Como Davi é descrito quando foi trazido diante de Samuel?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1780933450057324"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-17-8-quiz": {
@@ -41,11 +58,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 238,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 558.2
    }
   },
   "2026-10-17-7-fill": {
@@ -58,7 +75,7 @@
     "youtube": "https://youtube.com/shorts/Fj80nwEvRxY"
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -105,12 +122,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 264,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 880.0
+    "views": 272,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 900.1
    },
    "youtube": {
-    "views": 0,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
@@ -140,9 +157,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 286,
+    "views": 287,
     "avg_watch_s": 2.4,
-    "watch_time_s": 620.7
+    "watch_time_s": 623.2
    },
    "youtube": {
     "views": 4,
@@ -162,7 +179,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 247,
+    "views": 248,
     "avg_watch_s": 2.7,
     "watch_time_s": 618.7
    }
@@ -257,7 +274,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 1,
     "comments": 0
    }
@@ -287,12 +304,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 4,
+    "views": 5,
     "avg_watch_s": 1.2,
     "watch_time_s": 3.5
    },
    "youtube": {
-    "views": 21,
+    "views": 22,
     "likes": 1,
     "comments": 0
    }
@@ -421,7 +438,7 @@
    },
    "youtube": {
     "views": 29,
-    "likes": 3,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -490,7 +507,7 @@
     "watch_time_s": 1.0
    },
    "youtube": {
-    "views": 14,
+    "views": 15,
     "likes": 0,
     "comments": 0
    }
@@ -2115,9 +2132,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 470,
-    "avg_watch_s": 2.8,
-    "watch_time_s": 1194.1
+    "views": 474,
+    "avg_watch_s": 2.7,
+    "watch_time_s": 1198.9
    },
    "youtube": {
     "views": 165,
