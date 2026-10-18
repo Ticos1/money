@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-18T20:02:19+00:00",
+ "updated_at": "2026-10-18T21:23:02+00:00",
  "date": "2026-10-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-18-8-fill",
+   "date": "2026-10-18",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-18T18:20",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-18T21:20:26+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-18T21:21:43+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/2UcBS7cAvH4",
+    "stories": "story 17919543321452004"
+   },
+   "title": "O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos."
+  },
   {
    "id": "2026-10-18-7-quiz",
    "date": "2026-10-18",
