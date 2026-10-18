@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-18T10:59:31+00:00",
+ "updated_at": "2026-10-18T13:12:32+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-18",
+   "time": "10:00",
+   "title": "As duas mulheres da visão de Zacarias tinham asas como as de qual ave?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2031530514206966"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-18-2-quiz": {
    "type": "quiz",
    "date": "2026-10-18",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 273,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 907.6
    },
    "youtube": {
     "views": 0,
@@ -45,8 +62,8 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 21,
-    "likes": 1,
+    "views": 22,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -91,9 +108,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 303,
+    "views": 305,
     "avg_watch_s": 2.6,
-    "watch_time_s": 741.1
+    "watch_time_s": 742.9
    }
   },
   "2026-10-17-7-fill": {
@@ -123,9 +140,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 0.1,
+    "watch_time_s": 0.1
    }
   },
   "2026-10-17-5-truefalse": {
@@ -158,7 +175,7 @@
     "watch_time_s": 900.1
    },
    "youtube": {
-    "views": 23,
+    "views": 25,
     "likes": 0,
     "comments": 0
    }
@@ -210,9 +227,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 248,
+    "views": 249,
     "avg_watch_s": 2.7,
-    "watch_time_s": 620.4
+    "watch_time_s": 621.7
    }
   },
   "2026-10-17-2-quiz-v2": {
@@ -233,7 +250,7 @@
     "watch_time_s": 576.3
    },
    "youtube": {
-    "views": 18,
+    "views": 19,
     "likes": 0,
     "comments": 0
    }
@@ -340,7 +357,7 @@
     "watch_time_s": 4.1
    },
    "youtube": {
-    "views": 23,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -947,7 +964,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 81,
+    "views": 83,
     "likes": 2,
     "comments": 0
    }
