@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-18T18:07:43+00:00",
+ "updated_at": "2026-10-18T20:02:16+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-18",
+   "time": "17:00",
+   "title": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1453115543672597"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-18-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-18",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 272,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 871.2
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 252,
+    "views": 253,
     "avg_watch_s": 2.9,
-    "watch_time_s": 687.8
+    "watch_time_s": 688.6
    }
   },
   "2026-10-18-4-quiz": {
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 447,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 1889.7
+    "views": 461,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1939.6
    }
   },
   "2026-10-18-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 438,
+    "views": 440,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1543.9
+    "watch_time_s": 1553.5
    },
    "youtube": {
-    "views": 8,
+    "views": 10,
     "likes": 1,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 46,
+    "views": 64,
     "likes": 2,
     "comments": 0
    }
@@ -184,20 +201,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.5,
-    "watch_time_s": 0.5
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.5
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 306,
+    "views": 307,
     "avg_watch_s": 2.6,
-    "watch_time_s": 744.0
+    "watch_time_s": 744.9
    }
   },
   "2026-10-17-7-fill": {
@@ -257,12 +274,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 272,
+    "views": 278,
     "avg_watch_s": 3.6,
-    "watch_time_s": 900.1
+    "watch_time_s": 903.9
    },
    "youtube": {
-    "views": 26,
+    "views": 27,
     "likes": 1,
     "comments": 0
    }
@@ -337,7 +354,7 @@
     "watch_time_s": 576.3
    },
    "youtube": {
-    "views": 19,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -409,7 +426,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
+    "views": 18,
     "likes": 1,
     "comments": 0
    }
@@ -472,14 +489,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 229,
-    "avg_watch_s": 2.6,
-    "watch_time_s": 555.0
+    "views": 231,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 594.3
    },
    "youtube": {
-    "views": 29,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
@@ -2267,9 +2284,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 478,
+    "views": 479,
     "avg_watch_s": 2.7,
-    "watch_time_s": 1210.3
+    "watch_time_s": 1211.3
    },
    "youtube": {
     "views": 165,
