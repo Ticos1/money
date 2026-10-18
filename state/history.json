@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-18-3-truefalse",
+   "date": "2026-10-18",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-18T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-18T08:22:07+00:00",
+   "source": "bank",
+   "bank_id": "q1127",
+   "model": null,
+   "content": {
+    "ref": "Zacarias 5:9",
+    "ref_label": "Zacarias 5:9",
+    "question": "As duas mulheres da visão de Zacarias tinham asas como as de qual ave?",
+    "shown": "Corvo",
+    "is_true": false,
+    "correct": "Cegonha",
+    "evidence": "asas como as asas de uma cegonha",
+    "passage": "Então levantei os meus olhos e vi, e eis que havia duas mulheres; e o vento estava em suas asas. Ora, elas tinham asas como as asas de uma cegonha, e levantaram o cesto de efa entre a terra e o céu.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #deus #jesus #evangelico #conhecimentobiblico #perguntasbiblicas #fe #cristao #gospel",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico #palavradedeus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #evangelico #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "zacarias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-18T13:10:32+00:00",
+    "stories": "2026-10-18T13:11:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2031530514206966",
+    "stories": "story 17926742268201681"
+   }
+  },
+  {
    "id": "2026-10-18-2-quiz",
    "date": "2026-10-18",
    "slot": 2,
