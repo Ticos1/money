@@ -1,3 +1,1001 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-18-10-truefalse",
+   "date": "2026-10-18",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-18T21:26",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-18T08:25:17+00:00",
+   "source": "bank",
+   "bank_id": "q540",
+   "model": null,
+   "content": {
+    "ref": "João 14:2",
+    "ref_label": "João 14:2",
+    "question": "Quantas moradas há na casa do Pai, segundo Jesus?",
+    "shown": "Muitas",
+    "is_true": true,
+    "correct": "Muitas",
+    "evidence": "Na casa de meu Pai há muitas moradas",
+    "passage": "Na casa de meu Pai há muitas moradas. Se não fosse assim, eu teria dito a vocês. Vou preparar um lugar para vocês.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantas moradas há na casa do Pai, segundo Jesus?\nResposta: Muitas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao #desafiobiblico #gospel #fe #deus #palavradedeus #perguntasbiblicas #conhecimentobiblico #evangelico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantas moradas há na casa do Pai, segundo Jesus?\nResposta: Muitas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #gospel",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #fe #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas #conhecimentobiblico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQuantas moradas há na casa do Pai, segundo Jesus?\nResposta: Muitas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quantas moradas há na casa do Pai, segundo Jesus? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantas moradas há na casa do Pai, segundo Jesus?\nResposta: Muitas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-9-quiz",
+   "date": "2026-10-18",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-18T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:24:55+00:00",
+   "source": "bank",
+   "bank_id": "q1217",
+   "model": null,
+   "content": {
+    "ref": "João 4:35",
+    "ref_label": "João 4:35",
+    "question": "Segundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?",
+    "options": [
+     "Seis",
+     "Dois",
+     "Três",
+     "Quatro"
+    ],
+    "answer": 3,
+    "evidence": "Ainda faltam quatro meses",
+    "passage": "Vocês não dizem: 'Ainda faltam quatro meses até a colheita'? Eis que eu lhes digo: levantem os olhos e vejam os campos, pois já estão brancos para a colheita.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #desafio #gospel #fe #biblia #jesus #deus #palavradedeus #evangelico",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #palavradedeus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #palavradedeus #conhecimentobiblico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?\n\nA) Seis\nB) Dois\nC) Três\nD) Quatro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-8-fill",
+   "date": "2026-10-18",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-18T18:20",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-18T08:24:26+00:00",
+   "source": "bank",
+   "bank_id": "v176",
+   "model": null,
+   "content": {
+    "ref": "Salmos 138:8",
+    "ref_label": "Salmos 138:8",
+    "verse_text": "O SENHOR cumprirá o seu propósito para comigo. O seu amor leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.",
+    "question": "O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.",
+    "options": [
+     "poder",
+     "mundo",
+     "refúgio",
+     "amor"
+    ],
+    "answer": 3,
+    "answer_word": "amor",
+    "tags": [
+     "proposito",
+     "fidelidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo #desafiobiblico #deus #biblia #fe #evangelico #cristao #jesus",
+    "facebook": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo",
+    "tiktok": "Versículo sobre propósito\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre propósito\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre propósito: Salmos 138:8 📖 #shorts",
+     "description": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreproposito #proposito #fidelidade",
+     "tags": [
+      "versículo sobre propósito",
+      "versículos sobre propósito",
+      "propósito",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "proposito",
+      "fidelidade",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-7-quiz",
+   "date": "2026-10-18",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-18T16:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:23:58+00:00",
+   "source": "bank",
+   "bank_id": "q1273",
+   "model": null,
+   "content": {
+    "ref": "Filipenses 3:13-14",
+    "ref_label": "Filipenses 3:13-14",
+    "question": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?",
+    "options": [
+     "O alvo",
+     "O deserto",
+     "O templo",
+     "O mar"
+    ],
+    "answer": 0,
+    "evidence": "prossigo para o alvo",
+    "passage": "Irmãos, não considero que eu mesmo já o tenha alcançado, mas uma coisa faço: esquecendo-me das coisas que ficaram para trás e avançando para as que estão adiante, prossigo para o alvo, pelo prêmio do chamado do alto de Deus em Cristo Jesus.",
+    "difficulty": "medio",
+    "tags": [
+     "anonovo"
+    ]
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #quizbiblico #desafiobiblico #desafio #evangelico #gospel #teste #perguntasbiblicas #cristao #biblia #deus #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #quizbiblico #desafiobiblico #perguntasbiblicas",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#anonovo #quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#anonovo #quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #anonovo #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "anonovo",
+      "filipenses"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-6-truefalse",
+   "date": "2026-10-18",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-18T15:02",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-18T08:23:28+00:00",
+   "source": "bank",
+   "bank_id": "q532",
+   "model": null,
+   "content": {
+    "ref": "João 4:7",
+    "ref_label": "João 4:7",
+    "question": "O que Jesus pediu à mulher de Samaria que veio tirar água?",
+    "shown": "Uma vasilha",
+    "is_true": false,
+    "correct": "De beber",
+    "evidence": "Dê-me de beber",
+    "passage": "Nisso, veio uma mulher de Samaria tirar água. Disse-lhe Jesus: “Dê-me de beber.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Jesus pediu à mulher de Samaria que veio tirar água?\nResposta: Uma vasilha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #jesus #gospel #conhecimentobiblico #cristao #fe #deus #biblia #evangelico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Jesus pediu à mulher de Samaria que veio tirar água?\nResposta: Uma vasilha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #gospel",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #fe #gospel",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #desafiobiblico #deus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que Jesus pediu à mulher de Samaria que veio tirar água?\nResposta: Uma vasilha\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que Jesus pediu à mulher de Samaria que veio tirar água?\nResposta: Uma vasilha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-5-curiosity",
+   "date": "2026-10-18",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-18T13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-18T08:23:04+00:00",
+   "source": "bank",
+   "bank_id": "c021",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 10:9",
+    "ref_label": "Gênesis 10:9",
+    "title": "O primeiro grande caçador",
+    "text": "Ninrode ficou famoso como um poderoso caçador diante do Senhor. Seu nome virou até ditado popular na época.",
+    "evidence": "poderoso caçador",
+    "passage": "Ele foi um poderoso caçador diante do SENHOR. Por isso se diz: “Como Ninrode, um poderoso caçador diante do SENHOR”.",
+    "tags": [
+     "genesis"
+    ]
+   },
+   "captions": {
+    "instagram": "O primeiro grande caçador\n\nNinrode ficou famoso como um poderoso caçador diante do Senhor. Seu nome virou até ditado popular na época. (Gênesis 10:9)\n\nNinrode, mencionado em Gênesis 10:9, ficou conhecido como o primeiro grande caçador diante do Senhor. Seu nome chegou a ser usado como ditado popular na época, mostrando como sua fama se espalhou. Que essa curiosidade nos lembre que, mesmo nas histórias antigas, Deus sempre esteve presente nas vidas das pessoas. Salve e compartilhe para que mais amigos descubram essa curiosa passagem! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#genesis #vocesabia #curiosidadesbiblicas #deus #biblia #palavradedeus #fe #jesus #historiabiblica #gospel #evangelico #cristao",
+    "facebook": "O primeiro grande caçador\n\nNinrode ficou famoso como um poderoso caçador diante do Senhor. Seu nome virou até ditado popular na época. (Gênesis 10:9)\n\nNinrode, mencionado em Gênesis 10:9, ficou conhecido como o primeiro grande caçador diante do Senhor. Seu nome chegou a ser usado como ditado popular na época, mostrando como sua fama se espalhou. Que essa curiosidade nos lembre que, mesmo nas histórias antigas, Deus sempre esteve presente nas vidas das pessoas. Salve e compartilhe para que mais amigos descubram essa curiosa passagem! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#genesis #vocesabia #curiosidadesbiblicas #evangelico",
+    "tiktok": "Ninrode: o primeiro grande caçador mencionado na Bíblia. Salve e compartilhe!\n#genesis #vocesabia #curiosidadesbiblicas #gospel #jesus",
+    "kwai": "Ninrode: o primeiro grande caçador mencionado na Bíblia. Salve e compartilhe!\n#genesis #vocesabia #curiosidadesbiblicas #gospel #palavradedeus",
+    "whatsapp": "O primeiro grande caçador\n\nNinrode ficou famoso como um poderoso caçador diante do Senhor. Seu nome virou até ditado popular na época. (Gênesis 10:9)\n\nNinrode, mencionado em Gênesis 10:9, ficou conhecido como o primeiro grande caçador diante do Senhor. Seu nome chegou a ser usado como ditado popular na época, mostrando como sua fama se espalhou. Que essa curiosidade nos lembre que, mesmo nas histórias antigas, Deus sempre esteve presente nas vidas das pessoas. Salve e compartilhe para que mais amigos descubram essa curiosa passagem! 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? O primeiro grande caçador #shorts",
+     "description": "O primeiro grande caçador\n\nNinrode ficou famoso como um poderoso caçador diante do Senhor. Seu nome virou até ditado popular na época. (Gênesis 10:9)\n\nNinrode, mencionado em Gênesis 10:9, ficou conhecido como o primeiro grande caçador diante do Senhor. Seu nome chegou a ser usado como ditado popular na época, mostrando como sua fama se espalhou. Que essa curiosidade nos lembre que, mesmo nas histórias antigas, Deus sempre esteve presente nas vidas das pessoas. Salve e compartilhe para que mais amigos descubram essa curiosa passagem! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #genesis #vocesabia #curiosidadesbiblicas",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "genesis",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.63,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-4-quiz",
+   "date": "2026-10-18",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-18T12:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:22:36+00:00",
+   "source": "bank",
+   "bank_id": "q1170",
+   "model": null,
+   "content": {
+    "ref": "Mateus 2:18",
+    "ref_label": "Mateus 2:18",
+    "question": "Segundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?",
+    "options": [
+     "Betel",
+     "Hebrom",
+     "Ramá",
+     "Siló"
+    ],
+    "answer": 2,
+    "evidence": "Uma voz se ouviu em Ramá",
+    "passage": "“Uma voz se ouviu em Ramá, lamentação, choro e grande pranto, Raquel chorando por seus filhos; e ela não quis ser consolada, porque eles já não existem.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?\n\nA) Betel\nB) Hebrom\nC) Ramá\nD) Siló\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus #jesus #biblia #fe #desafio #teste #gospel #perguntasbiblicas #cristao",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?\n\nA) Betel\nB) Hebrom\nC) Ramá\nD) Siló\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #palavradedeus #jesus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #biblia",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nSegundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?\n\nA) Betel\nB) Hebrom\nC) Ramá\nD) Siló\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nSegundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?\n\nA) Betel\nB) Hebrom\nC) Ramá\nD) Siló\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-3-truefalse",
+   "date": "2026-10-18",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-18T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-18T08:22:07+00:00",
+   "source": "bank",
+   "bank_id": "q1127",
+   "model": null,
+   "content": {
+    "ref": "Zacarias 5:9",
+    "ref_label": "Zacarias 5:9",
+    "question": "As duas mulheres da visão de Zacarias tinham asas como as de qual ave?",
+    "shown": "Corvo",
+    "is_true": false,
+    "correct": "Cegonha",
+    "evidence": "asas como as asas de uma cegonha",
+    "passage": "Então levantei os meus olhos e vi, e eis que havia duas mulheres; e o vento estava em suas asas. Ora, elas tinham asas como as asas de uma cegonha, e levantaram o cesto de efa entre a terra e o céu.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #deus #jesus #evangelico #conhecimentobiblico #perguntasbiblicas #fe #cristao #gospel",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico #palavradedeus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #evangelico #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nAs duas mulheres da visão de Zacarias tinham asas como as de qual ave?\nResposta: Corvo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "zacarias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-2-quiz",
+   "date": "2026-10-18",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-18T07:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:21:42+00:00",
+   "source": "bank",
+   "bank_id": "q308",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 10:8",
+    "ref_label": "Gênesis 10:8",
+    "question": "Quem começou a ser um homem poderoso na terra, segundo Gênesis?",
+    "options": [
+     "Ninrode",
+     "Gômer",
+     "Tubal",
+     "Mesaque"
+    ],
+    "answer": 0,
+    "evidence": "Cuxe gerou a Ninrode",
+    "passage": "Cuxe gerou a Ninrode. Ele começou a ser um homem poderoso na terra.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQuem começou a ser um homem poderoso na terra, segundo Gênesis?\n\nA) Ninrode\nB) Gômer\nC) Tubal\nD) Mesaque\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #jesus #desafio #palavradedeus #deus #conhecimentobiblico #teste #gospel #cristao #perguntasbiblicas",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQuem começou a ser um homem poderoso na terra, segundo Gênesis?\n\nA) Ninrode\nB) Gômer\nC) Tubal\nD) Mesaque\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #desafio",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #cristao #evangelico",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQuem começou a ser um homem poderoso na terra, segundo Gênesis?\n\nA) Ninrode\nB) Gômer\nC) Tubal\nD) Mesaque\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quem começou a ser um homem poderoso na terra, segundo Gênesis? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQuem começou a ser um homem poderoso na terra, segundo Gênesis?\n\nA) Ninrode\nB) Gômer\nC) Tubal\nD) Mesaque\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-18-1-verse",
+   "date": "2026-10-18",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-18T06:25",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-18T08:21:15+00:00",
+   "source": "bank",
+   "bank_id": "v343",
+   "model": null,
+   "content": {
+    "ref": "Salmos 96:2",
+    "ref_label": "Salmos 96:2",
+    "verse_text": "Cantem ao SENHOR! Bendigam o seu nome! Proclamem a sua salvação dia após dia!",
+    "on_screen": "Proclame a salvação dEle dia após dia.",
+    "reflection": "A salvação não é notícia velha. Todos os dias há motivos para cantar e contar o que Deus fez. Com quem você pode compartilhar hoje uma palavra de esperança?",
+    "theme": "louvor",
+    "mood": "alegria",
+    "tags": [
+     "louvor",
+     "salvacao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de louvor: Salmos 96:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Cantem ao SENHOR! Bendigam o seu nome! Proclamem a sua salvação dia após dia!” (Salmos 96:2)\n\nA cada amanhecer Deus nos convida a celebrar Sua salvação. Não é história antiga; é realidade que se renova a cada instante. Hoje, escolha alguém para compartilhar essa alegria e ser luz na vida dele. Salve este post e espalhe a esperança! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #salvacao #versiculododia #versiculo #deus #esperanca #jesus #gospel #reflexao #devocional #palavradedeus",
+    "facebook": "Versículo de louvor: Salmos 96:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Cantem ao SENHOR! Bendigam o seu nome! Proclamem a sua salvação dia após dia!” (Salmos 96:2)\n\nA cada amanhecer Deus nos convida a celebrar Sua salvação. Não é história antiga; é realidade que se renova a cada instante. Hoje, escolha alguém para compartilhar essa alegria e ser luz na vida dele. Salve este post e espalhe a esperança! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #salvacao #versiculododia",
+    "tiktok": "Versículo de louvor\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nRenove a esperança hoje! Compartilhe uma palavra de fé. 🙏\n#versiculodelouvor #louvor #salvacao #versiculododia #versiculo",
+    "kwai": "Versículo de louvor\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nRenove a esperança hoje! Compartilhe uma palavra de fé. 🙏\n#versiculodelouvor #louvor #salvacao #versiculododia #versiculo",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Cantem ao SENHOR! Bendigam o seu nome! Proclamem a sua salvação dia após dia!” (Salmos 96:2)\n\nA cada amanhecer Deus nos convida a celebrar Sua salvação. Não é história antiga; é realidade que se renova a cada instante. Hoje, escolha alguém para compartilhar essa alegria e ser luz na vida dele. Salve este post e espalhe a esperança! 🙏✨\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de louvor: Salmos 96:2 🙏 #shorts",
+     "description": "Versículo de louvor: Salmos 96:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Cantem ao SENHOR! Bendigam o seu nome! Proclamem a sua salvação dia após dia!” (Salmos 96:2)\n\nA cada amanhecer Deus nos convida a celebrar Sua salvação. Não é história antiga; é realidade que se renova a cada instante. Hoje, escolha alguém para compartilhar essa alegria e ser luz na vida dele. Salve este post e espalhe a esperança! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodelouvor #louvor #salvacao",
+     "tags": [
+      "versículo de louvor",
+      "versículos de louvor",
+      "louvor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salvacao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.82,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-18/2026-10-18-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null
+  }
+ ]
 }
