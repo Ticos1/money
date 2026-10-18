@@ -1,6 +1,106 @@
 {
  "posts": [
   {
+   "id": "2026-10-18-8-fill",
+   "date": "2026-10-18",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-18T18:20",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-18T08:24:26+00:00",
+   "source": "bank",
+   "bank_id": "v176",
+   "model": null,
+   "content": {
+    "ref": "Salmos 138:8",
+    "ref_label": "Salmos 138:8",
+    "verse_text": "O SENHOR cumprirá o seu propósito para comigo. O seu amor leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.",
+    "question": "O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.",
+    "options": [
+     "poder",
+     "mundo",
+     "refúgio",
+     "amor"
+    ],
+    "answer": 3,
+    "answer_word": "amor",
+    "tags": [
+     "proposito",
+     "fidelidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo #desafiobiblico #deus #biblia #fe #evangelico #cristao #jesus",
+    "facebook": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo",
+    "tiktok": "Versículo sobre propósito\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre propósito\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreproposito #proposito #fidelidade #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre propósito: Salmos 138:8 📖 #shorts",
+     "description": "Versículo sobre propósito: Salmos 138:8\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos.”\n\nA) poder\nB) mundo\nC) refúgio\nD) amor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreproposito #proposito #fidelidade",
+     "tags": [
+      "versículo sobre propósito",
+      "versículos sobre propósito",
+      "propósito",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "proposito",
+      "fidelidade",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-18T21:20:26+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-18T21:21:43+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/2UcBS7cAvH4",
+    "stories": "story 17919543321452004"
+   }
+  },
+  {
    "id": "2026-10-18-7-quiz",
    "date": "2026-10-18",
    "slot": 7,
