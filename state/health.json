@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T09:01:29+00:00",
+ "updated_at": "2026-10-18T09:27:30+00:00",
  "date": "2026-10-18",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-18-1-verse",
+   "date": "2026-10-18",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-18T06:25",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-18T09:26:03+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18116508683467626"
+   },
+   "title": "Salmos 96:2"
+  }
+ ],
  "specials": {}
 }
