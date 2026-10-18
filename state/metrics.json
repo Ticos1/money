@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-18T21:22:59+00:00",
+ "updated_at": "2026-10-18T22:53:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-18",
+   "time": "20:00",
+   "title": "Segundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/df6P40yjFes",
+    "instagram": "https://www.instagram.com/reel/Depy-3olsQb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2185692985681115"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-18-8-fill": {
    "type": "fill",
    "date": "2026-10-18",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 381,
-    "avg_watch_s": 7.5,
-    "watch_time_s": 1034.5
+    "views": 1087,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 4350.0
    }
   },
   "2026-10-18-6-truefalse": {
@@ -66,8 +101,8 @@
     "watch_time_s": 872.6
    },
    "youtube": {
-    "views": 62,
-    "likes": 0,
+    "views": 102,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 253,
+    "views": 256,
     "avg_watch_s": 2.9,
-    "watch_time_s": 688.6
+    "watch_time_s": 691.0
    }
   },
   "2026-10-18-4-quiz": {
@@ -102,13 +137,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.5
    },
    "facebook": {
     "likes": 0,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 466,
+    "views": 469,
     "avg_watch_s": 5.7,
-    "watch_time_s": 1949.5
+    "watch_time_s": 1979.2
    }
   },
   "2026-10-18-2-quiz": {
@@ -158,7 +193,7 @@
     "watch_time_s": 1554.6
    },
    "youtube": {
-    "views": 10,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -181,7 +216,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 64,
+    "views": 68,
     "likes": 2,
     "comments": 0
    }
@@ -242,7 +277,7 @@
     "youtube": "https://youtube.com/shorts/Fj80nwEvRxY"
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 1,
     "comments": 0
    }
@@ -1469,9 +1504,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 795,
+    "views": 796,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1906.3
+    "watch_time_s": 1907.6
    },
    "youtube": {
     "views": 7,
