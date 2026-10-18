@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-18T13:12:37+00:00",
+ "updated_at": "2026-10-18T15:09:03+00:00",
  "date": "2026-10-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-18-4-quiz",
+   "date": "2026-10-18",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-18T12:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-18T15:05:31+00:00",
+    "instagram": "2026-10-18T15:06:38+00:00",
+    "facebook": "2026-10-18T15:06:44+00:00",
+    "stories": "2026-10-18T15:07:19+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/5cOx2S8Pzfk",
+    "instagram": "https://www.instagram.com/reel/Deo9yc6FUQd/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1403164924838031",
+    "stories": "story 17955698034030302"
+   },
+   "title": "Segundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?"
+  },
   {
    "id": "2026-10-18-3-truefalse",
    "date": "2026-10-18",
