@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-10-18-7-quiz",
+   "date": "2026-10-18",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-18T16:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-18T08:23:58+00:00",
+   "source": "bank",
+   "bank_id": "q1273",
+   "model": null,
+   "content": {
+    "ref": "Filipenses 3:13-14",
+    "ref_label": "Filipenses 3:13-14",
+    "question": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?",
+    "options": [
+     "O alvo",
+     "O deserto",
+     "O templo",
+     "O mar"
+    ],
+    "answer": 0,
+    "evidence": "prossigo para o alvo",
+    "passage": "Irmãos, não considero que eu mesmo já o tenha alcançado, mas uma coisa faço: esquecendo-me das coisas que ficaram para trás e avançando para as que estão adiante, prossigo para o alvo, pelo prêmio do chamado do alto de Deus em Cristo Jesus.",
+    "difficulty": "medio",
+    "tags": [
+     "anonovo"
+    ]
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #quizbiblico #desafiobiblico #desafio #evangelico #gospel #teste #perguntasbiblicas #cristao #biblia #deus #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #quizbiblico #desafiobiblico #perguntasbiblicas",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#anonovo #quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#anonovo #quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nNo ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?\n\nA) O alvo\nB) O deserto\nC) O templo\nD) O mar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #anonovo #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "anonovo",
+      "filipenses"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-18T20:00:29+00:00",
+    "stories": "2026-10-18T20:01:01+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1453115543672597",
+    "stories": "story 17907261819581750"
+   }
+  },
+  {
    "id": "2026-10-18-6-truefalse",
    "date": "2026-10-18",
    "slot": 6,
