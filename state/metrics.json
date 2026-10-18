@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-18T16:33:05+00:00",
+ "updated_at": "2026-10-18T18:07:43+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-18",
+   "time": "15:00",
+   "title": "O que Jesus pediu à mulher de Samaria que veio tirar água?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/8aY4nv2psyE",
+    "instagram": "https://www.instagram.com/reel/DepSUq8EchF/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1034513399603442"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-18-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-18",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 252,
+    "avg_watch_s": 2.9,
+    "watch_time_s": 687.8
    }
   },
   "2026-10-18-4-quiz": {
@@ -51,7 +86,7 @@
     "watch_time_s": 1.0
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 369,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 1019.8
+    "views": 447,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1889.7
    }
   },
   "2026-10-18-2-quiz": {
@@ -88,7 +123,7 @@
     "comments": 0,
     "views": 438,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1529.4
+    "watch_time_s": 1543.9
    },
    "youtube": {
     "views": 8,
@@ -114,7 +149,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 41,
+    "views": 46,
     "likes": 2,
     "comments": 0
    }
@@ -227,7 +262,7 @@
     "watch_time_s": 900.1
    },
    "youtube": {
-    "views": 27,
+    "views": 26,
     "likes": 1,
     "comments": 0
    }
@@ -262,7 +297,7 @@
     "watch_time_s": 625.3
    },
    "youtube": {
-    "views": 11,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -374,7 +409,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 12,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -409,7 +444,7 @@
     "watch_time_s": 4.1
    },
    "youtube": {
-    "views": 24,
+    "views": 25,
     "likes": 1,
     "comments": 0
    }
@@ -537,7 +572,7 @@
     "watch_time_s": 949.9
    },
    "youtube": {
-    "views": 36,
+    "views": 37,
     "likes": 4,
     "comments": 0
    }
@@ -2232,9 +2267,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 477,
+    "views": 478,
     "avg_watch_s": 2.7,
-    "watch_time_s": 1209.3
+    "watch_time_s": 1210.3
    },
    "youtube": {
     "views": 165,
