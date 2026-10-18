@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:04:09+00:00",
+ "updated_at": "2026-10-18T00:37:42+00:00",
  "date": "2026-10-17",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-17-9-truefalse",
+   "date": "2026-10-17",
+   "slot": 9,
+   "time": "21:30",
+   "publish_at": "2026-10-17T21:33",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-18T00:35:29+00:00",
+    "stories": "2026-10-18T00:36:09+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1780933450057324",
+    "stories": "story 18165864052470138"
+   },
+   "title": "Como Davi é descrito quando foi trazido diante de Samuel?"
   },
   {
    "id": "2026-10-17-8-quiz",
