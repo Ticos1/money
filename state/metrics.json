@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-18T09:27:27+00:00",
+ "updated_at": "2026-10-18T10:57:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-18",
+   "time": "08:00",
+   "title": "Quem começou a ser um homem poderoso na terra, segundo Gênesis?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/jAGsBvWBhyk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/990334007424142"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-18-1-verse": {
    "type": "verse",
    "date": "2026-10-18",
@@ -22,7 +45,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 19,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -70,7 +93,7 @@
     "comments": 0,
     "views": 303,
     "avg_watch_s": 2.6,
-    "watch_time_s": 739.9
+    "watch_time_s": 741.1
    }
   },
   "2026-10-17-7-fill": {
