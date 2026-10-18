@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-18T09:01:27+00:00",
+ "updated_at": "2026-10-18T09:27:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-18-1-verse": {
+   "type": "verse",
+   "date": "2026-10-18",
+   "time": "06:30",
+   "title": "Salmos 96:2",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-17-10-compilation": {
    "type": "compilation",
    "date": "2026-10-17",
@@ -60,7 +68,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 302,
+    "views": 303,
     "avg_watch_s": 2.6,
     "watch_time_s": 739.9
    }
