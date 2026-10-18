@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T18:07:45+00:00",
+ "updated_at": "2026-10-18T20:02:19+00:00",
  "date": "2026-10-18",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-18-7-quiz",
+   "date": "2026-10-18",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-18T16:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-18T20:00:29+00:00",
+    "stories": "2026-10-18T20:01:01+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1453115543672597",
+    "stories": "story 17907261819581750"
+   },
+   "title": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?"
+  },
   {
    "id": "2026-10-18-6-truefalse",
    "date": "2026-10-18",
