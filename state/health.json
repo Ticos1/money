@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-19T00:32:37+00:00",
- "date": "2026-10-18",
+ "updated_at": "2026-10-19T04:34:09+00:00",
+ "date": "2026-10-19",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 2,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 462,
-   "days_left": 462,
+   "fresh": 464,
+   "days_left": 464,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1135,
+   "fresh": 1136,
    "days_left": 162,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-18-10-truefalse",
-   "date": "2026-10-18",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-18T21:26",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-19T00:30:26+00:00",
-    "stories": "2026-10-19T00:31:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2266823564264187",
-    "stories": "story 18039284516838123"
-   },
-   "title": "Quantas moradas há na casa do Pai, segundo Jesus?"
-  },
-  {
-   "id": "2026-10-18-9-quiz",
-   "date": "2026-10-18",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-18T19:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-18T22:50:26+00:00",
-    "instagram": "2026-10-18T22:51:25+00:00",
-    "facebook": "2026-10-18T22:51:28+00:00",
-    "stories": "2026-10-18T22:52:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/df6P40yjFes",
-    "instagram": "https://www.instagram.com/reel/Depy-3olsQb/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2185692985681115",
-    "stories": "story 18193196797396226"
-   },
-   "title": "Segundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?"
-  },
-  {
-   "id": "2026-10-18-8-fill",
-   "date": "2026-10-18",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-18T18:20",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-18T21:20:26+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-18T21:21:43+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/2UcBS7cAvH4",
-    "stories": "story 17919543321452004"
-   },
-   "title": "O SENHOR cumprirá o seu propósito para comigo. O seu _____ leal, SENHOR, dura para sempre. Não abandone as obras das suas próprias mãos."
-  },
-  {
-   "id": "2026-10-18-7-quiz",
-   "date": "2026-10-18",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-18T16:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-18T20:00:29+00:00",
-    "stories": "2026-10-18T20:01:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1453115543672597",
-    "stories": "story 17907261819581750"
-   },
-   "title": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?"
-  },
-  {
-   "id": "2026-10-18-6-truefalse",
-   "date": "2026-10-18",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-18T15:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-18T18:05:26+00:00",
-    "instagram": "2026-10-18T18:05:58+00:00",
-    "facebook": "2026-10-18T18:06:02+00:00",
-    "stories": "2026-10-18T18:06:33+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/8aY4nv2psyE",
-    "instagram": "https://www.instagram.com/reel/DepSUq8EchF/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1034513399603442",
-    "stories": "story 17869123101661021"
-   },
-   "title": "O que Jesus pediu à mulher de Samaria que veio tirar água?"
-  },
-  {
-   "id": "2026-10-18-5-curiosity",
-   "date": "2026-10-18",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-18T13:30",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-18T16:30:30+00:00",
-    "stories": "2026-10-18T16:31:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4490149494556429",
-    "stories": "story 18132920545683647"
-   },
-   "title": "O primeiro grande caçador"
-  },
-  {
-   "id": "2026-10-18-4-quiz",
-   "date": "2026-10-18",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-18T12:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-18T15:05:31+00:00",
-    "instagram": "2026-10-18T15:06:38+00:00",
-    "facebook": "2026-10-18T15:06:44+00:00",
-    "stories": "2026-10-18T15:07:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/5cOx2S8Pzfk",
-    "instagram": "https://www.instagram.com/reel/Deo9yc6FUQd/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1403164924838031",
-    "stories": "story 17955698034030302"
-   },
-   "title": "Segundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?"
-  },
-  {
-   "id": "2026-10-18-3-truefalse",
-   "date": "2026-10-18",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-18T10:06",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-18T13:10:32+00:00",
-    "stories": "2026-10-18T13:11:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2031530514206966",
-    "stories": "story 17926742268201681"
-   },
-   "title": "As duas mulheres da visão de Zacarias tinham asas como as de qual ave?"
-  },
-  {
-   "id": "2026-10-18-2-quiz",
-   "date": "2026-10-18",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-18T07:52",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-18T10:55:23+00:00",
-    "instagram": null,
-    "facebook": "2026-10-18T10:55:28+00:00",
-    "stories": "2026-10-18T10:56:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/jAGsBvWBhyk",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/990334007424142",
-    "stories": "story 17961069042219936"
-   },
-   "title": "Quem começou a ser um homem poderoso na terra, segundo Gênesis?"
-  },
-  {
-   "id": "2026-10-18-1-verse",
-   "date": "2026-10-18",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-18T06:25",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-18T09:26:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18116508683467626"
-   },
-   "title": "Salmos 96:2"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
