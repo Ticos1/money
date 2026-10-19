@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-3-truefalse",
+   "date": "2026-10-19",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-19T10:01",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:22:17+00:00",
+   "source": "bank",
+   "bank_id": "q1245",
+   "model": null,
+   "content": {
+    "ref": "Gálatas 2:1",
+    "ref_label": "Gálatas 2:1",
+    "question": "Depois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?",
+    "shown": "Catorze",
+    "is_true": true,
+    "correct": "Catorze",
+    "evidence": "catorze anos",
+    "passage": "Então, depois de um período de catorze anos, subi novamente a Jerusalém com Barnabé, levando também Tito comigo.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #evangelico #desafiobiblico #jesus #palavradedeus #gospel #deus #biblia #fe #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #desafiobiblico #evangelico",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gálatas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-19T13:01:11+00:00",
+    "stories": "2026-10-19T13:01:44+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1774707833751736",
+    "stories": "story 17914935744470643"
+   }
+  },
+  {
    "id": "2026-10-19-2-quiz",
    "date": "2026-10-19",
    "slot": 2,
