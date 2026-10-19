@@ -1,3 +1,996 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-19-10-truefalse",
+   "date": "2026-10-19",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-19T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:25:30+00:00",
+   "source": "bank",
+   "bank_id": "q1105",
+   "model": null,
+   "content": {
+    "ref": "Ezequiel 8:16",
+    "ref_label": "Ezequiel 8:16",
+    "question": "O que os homens voltados para o oriente estavam adorando?",
+    "shown": "As estrelas",
+    "is_true": false,
+    "correct": "O sol",
+    "evidence": "Eles estavam adorando o sol",
+    "passage": "Ele me levou para o pátio interior da casa do SENHOR; e vi que à porta do templo do SENHOR, entre o pórtico e o altar, havia cerca de vinte e cinco homens com as costas voltadas para o templo do SENHOR e os seus rostos para o oriente. Eles estavam adorando o sol voltados para o oriente.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #jesus #deus #perguntasbiblicas #cristao #biblia #evangelico #conhecimentobiblico #desafiobiblico #fe",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #evangelico #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ezequiel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-9-quiz",
+   "date": "2026-10-19",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-19T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:25:06+00:00",
+   "source": "bank",
+   "bank_id": "q502",
+   "model": null,
+   "content": {
+    "ref": "Marcos 15:17",
+    "ref_label": "Marcos 15:17",
+    "question": "De que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?",
+    "options": [
+     "Azul",
+     "Púrpura",
+     "Branca",
+     "Vermelha"
+    ],
+    "answer": 1,
+    "evidence": "Eles o vestiram de púrpura",
+    "passage": "Eles o vestiram de púrpura; e tecendo uma coroa de espinhos, a colocaram nele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #evangelico #jesus #desafio #deus #conhecimentobiblico #palavradedeus #perguntasbiblicas #teste #cristao",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #jesus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #biblia #conhecimentobiblico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-8-fill",
+   "date": "2026-10-19",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-19T18:36",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-19T08:24:37+00:00",
+   "source": "bank",
+   "bank_id": "v362",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 16:32",
+    "ref_label": "Provérbios 16:32",
+    "verse_text": "Melhor é o homem paciente do que o guerreiro; aquele que controla o seu espírito é melhor do que aquele que conquista uma cidade.",
+    "question": "Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.",
+    "options": [
+     "refúgio",
+     "cântico",
+     "espírito",
+     "descanso"
+    ],
+    "answer": 2,
+    "answer_word": "espírito",
+    "tags": [
+     "paciencia",
+     "dominioproprio"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paciencia #dominioproprio #completeoversiculo #versiculo #cristao #quizbiblico #biblia #gospel #jesus #fe #evangelico #desafiobiblico",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paciencia #dominioproprio #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#paciencia #dominioproprio #completeoversiculo #versiculo #cristao",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#paciencia #dominioproprio #completeoversiculo #versiculo #palavradedeus",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Provérbios 16:32 📖 Você sabe de cor? #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paciencia #dominioproprio #completeoversiculo",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "paciencia",
+      "dominioproprio",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-7-quiz",
+   "date": "2026-10-19",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-19T16:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:24:09+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Juízes 5:24",
+    "ref_label": "Juízes 5:24",
+    "question": "Quem foi bendita entre as mulheres em Juízes 5?",
+    "options": [
+     "Jael",
+     "Débora",
+     "Miriam",
+     "Ester"
+    ],
+    "answer": 0,
+    "evidence": "Jael",
+    "passage": "“Bendita seja Jael entre as mulheres, a mulher de Héber, o queneu; bendita seja ela entre as mulheres na tenda.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #evangelico #perguntasbiblicas #gospel #jesus #conhecimentobiblico #teste #biblia #palavradedeus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #cristao #palavradedeus",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #gospel",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quem foi bendita entre as mulheres em Juízes 5? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "juízes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em Jeremias 15:21: 'o meu Redentor vive'",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-6-truefalse",
+   "date": "2026-10-19",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-19T14:55",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:23:41+00:00",
+   "source": "bank",
+   "bank_id": "q843",
+   "model": null,
+   "content": {
+    "ref": "Mateus 3:4",
+    "ref_label": "Mateus 3:4",
+    "question": "Qual era a comida de João Batista no deserto?",
+    "shown": "Gafanhotos e mel silvestre",
+    "is_true": true,
+    "correct": "Gafanhotos e mel silvestre",
+    "evidence": "Sua comida era gafanhotos e mel silvestre",
+    "passage": "Ora, o próprio João usava roupas feitas de pelos de camelo, com um cinto de couro na cintura. Sua comida era gafanhotos e mel silvestre.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual era a comida de João Batista no deserto?\nResposta: Gafanhotos e mel silvestre\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #evangelico #fe #cristao #palavradedeus #conhecimentobiblico #biblia #jesus #deus #desafiobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual era a comida de João Batista no deserto?\nResposta: Gafanhotos e mel silvestre\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #gospel #jesus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #jesus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQual era a comida de João Batista no deserto?\nResposta: Gafanhotos e mel silvestre\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual era a comida de João Batista no deserto? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual era a comida de João Batista no deserto?\nResposta: Gafanhotos e mel silvestre\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-5-curiosity",
+   "date": "2026-10-19",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-19T13:20",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-19T08:23:16+00:00",
+   "source": "bank",
+   "bank_id": "c044",
+   "model": null,
+   "content": {
+    "ref": "Marcos 6:3",
+    "ref_label": "Marcos 6:3",
+    "title": "Jesus, o carpinteiro",
+    "text": "Em Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia.",
+    "evidence": "Não é este o carpinteiro",
+    "passage": "Não é este o carpinteiro, filho de Maria e irmão de Tiago, José, Judas e Simão? E as suas irmãs não estão aqui conosco?” E escandalizavam-se por causa dele.",
+    "tags": [
+     "jesus",
+     "trabalho"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #evangelico #deus #biblia #gospel #cristao #fe #estudobiblico #palavradedeus",
+    "facebook": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #trabalho #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus, o carpinteiro de Nazaré, sabia da vida cotidiana. Compartilhe!\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #fe",
+    "kwai": "Jesus, o carpinteiro de Nazaré, sabia da vida cotidiana. Compartilhe!\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "whatsapp": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus, o carpinteiro #shorts",
+     "description": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #trabalho #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "trabalho",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-4-quiz",
+   "date": "2026-10-19",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-19T12:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:22:46+00:00",
+   "source": "bank",
+   "bank_id": "q749",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 22:34",
+    "ref_label": "1 Reis 22:34",
+    "question": "Onde a flecha lançada ao acaso atingiu o rei de Israel?",
+    "options": [
+     "No pescoço",
+     "Nas juntas da armadura",
+     "No olho",
+     "Na coxa"
+    ],
+    "answer": 1,
+    "evidence": "entre as juntas da armadura",
+    "passage": "Um certo homem puxou o seu arco ao acaso, e atingiu o rei de Israel entre as juntas da armadura. Portanto, ele disse ao condutor do seu carro: “Dê a volta, e tire-me da batalha, pois estou gravemente ferido.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde a flecha lançada ao acaso atingiu o rei de Israel?\n\nA) No pescoço\nB) Nas juntas da armadura\nC) No olho\nD) Na coxa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #cristao #desafio #fe #deus #jesus #perguntasbiblicas #teste #evangelico #gospel",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde a flecha lançada ao acaso atingiu o rei de Israel?\n\nA) No pescoço\nB) Nas juntas da armadura\nC) No olho\nD) Na coxa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #gospel",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #fe #teste",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nOnde a flecha lançada ao acaso atingiu o rei de Israel?\n\nA) No pescoço\nB) Nas juntas da armadura\nC) No olho\nD) Na coxa\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Onde a flecha lançada ao acaso atingiu o rei de Israel? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nOnde a flecha lançada ao acaso atingiu o rei de Israel?\n\nA) No pescoço\nB) Nas juntas da armadura\nC) No olho\nD) Na coxa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-3-truefalse",
+   "date": "2026-10-19",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-19T10:01",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:22:17+00:00",
+   "source": "bank",
+   "bank_id": "q1245",
+   "model": null,
+   "content": {
+    "ref": "Gálatas 2:1",
+    "ref_label": "Gálatas 2:1",
+    "question": "Depois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?",
+    "shown": "Catorze",
+    "is_true": true,
+    "correct": "Catorze",
+    "evidence": "catorze anos",
+    "passage": "Então, depois de um período de catorze anos, subi novamente a Jerusalém com Barnabé, levando também Tito comigo.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #evangelico #desafiobiblico #jesus #palavradedeus #gospel #deus #biblia #fe #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #desafiobiblico #evangelico",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?\nResposta: Catorze\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gálatas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-2-quiz",
+   "date": "2026-10-19",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-19T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:21:51+00:00",
+   "source": "bank",
+   "bank_id": "q066",
+   "model": null,
+   "content": {
+    "ref": "Jó 1:1",
+    "ref_label": "Jó 1:1",
+    "question": "Em qual terra vivia Jó?",
+    "options": [
+     "Canaã",
+     "Uz",
+     "Egito",
+     "Moabe"
+    ],
+    "answer": 1,
+    "evidence": "na terra de Uz",
+    "passage": "Havia um homem na terra de Uz, cujo nome era Jó. Esse homem era íntegro e reto, e alguém que temia a Deus, e se desviava do mal.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #perguntasbiblicas #desafio #deus #gospel #fe #cristao #biblia #jesus",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #deus #gospel",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #jesus",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em qual terra vivia Jó? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-19-1-verse",
+   "date": "2026-10-19",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-19T06:29",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:21:27+00:00",
+   "source": "bank",
+   "bank_id": "v375",
+   "model": null,
+   "content": {
+    "ref": "Isaías 51:11",
+    "ref_label": "Isaías 51:11",
+    "verse_text": "Os resgatados do SENHOR voltarão, e virão a Sião com cânticos. Alegria eterna estará sobre as suas cabeças. Eles alcançarão contentamento e alegria. A tristeza e o gemido fugirão.",
+    "on_screen": "A tristeza e o gemido fugirão.",
+    "reflection": "Deus promete um dia em que a tristeza vai embora e a alegria eterna fica. Essa esperança sustenta o coração hoje. A última palavra pertence a Deus.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "esperanca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Isaías 51:11\n“Os resgatados do SENHOR voltarão, e virão a Sião com cânticos. Alegria eterna estará sobre as suas cabeças. Eles alcançarão contentamento e alegria. A tristeza e o gemido fugirão.” (Isaías 51:11)\n\nDeus nos assegura que um dia a tristeza será deixada para trás e a alegria eterna reinará em nossos corações. Essa esperança nos sustenta hoje, nos lembrando que a última palavra pertence ao Senhor. Salve esta mensagem para se lembrar desse conforto nos momentos difíceis.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #esperanca #versiculododia #versiculo #gospel #cristao #reflexao #fe #devocional #oracao #jesus",
+    "facebook": "Versículo de alegria: Isaías 51:11\n“Os resgatados do SENHOR voltarão, e virão a Sião com cânticos. Alegria eterna estará sobre as suas cabeças. Eles alcançarão contentamento e alegria. A tristeza e o gemido fugirão.” (Isaías 51:11)\n\nDeus nos assegura que um dia a tristeza será deixada para trás e a alegria eterna reinará em nossos corações. Essa esperança nos sustenta hoje, nos lembrando que a última palavra pertence ao Senhor. Salve esta mensagem para se lembrar desse conforto nos momentos difíceis.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #esperanca #versiculododia",
+    "tiktok": "Versículo de alegria\nA tristeza vai embora, a alegria eterna fica. 🙏\n#versiculodealegria #alegria #esperanca #versiculododia #versiculo",
+    "kwai": "Versículo de alegria\nA tristeza vai embora, a alegria eterna fica. 🙏\n#versiculodealegria #alegria #esperanca #versiculododia #versiculo",
+    "whatsapp": "“Os resgatados do SENHOR voltarão, e virão a Sião com cânticos. Alegria eterna estará sobre as suas cabeças. Eles alcançarão contentamento e alegria. A tristeza e o gemido fugirão.” (Isaías 51:11)\n\nDeus nos assegura que um dia a tristeza será deixada para trás e a alegria eterna reinará em nossos corações. Essa esperança nos sustenta hoje, nos lembrando que a última palavra pertence ao Senhor. Salve esta mensagem para se lembrar desse conforto nos momentos difíceis.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de alegria: Isaías 51:11 🙏 #shorts",
+     "description": "Versículo de alegria: Isaías 51:11\n“Os resgatados do SENHOR voltarão, e virão a Sião com cânticos. Alegria eterna estará sobre as suas cabeças. Eles alcançarão contentamento e alegria. A tristeza e o gemido fugirão.” (Isaías 51:11)\n\nDeus nos assegura que um dia a tristeza será deixada para trás e a alegria eterna reinará em nossos corações. Essa esperança nos sustenta hoje, nos lembrando que a última palavra pertence ao Senhor. Salve esta mensagem para se lembrar desse conforto nos momentos difíceis.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #esperanca",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esperanca",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.49,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-19/2026-10-19-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
