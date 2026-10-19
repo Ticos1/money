@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-9-quiz",
+   "date": "2026-10-19",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-19T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:25:06+00:00",
+   "source": "bank",
+   "bank_id": "q502",
+   "model": null,
+   "content": {
+    "ref": "Marcos 15:17",
+    "ref_label": "Marcos 15:17",
+    "question": "De que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?",
+    "options": [
+     "Azul",
+     "Púrpura",
+     "Branca",
+     "Vermelha"
+    ],
+    "answer": 1,
+    "evidence": "Eles o vestiram de púrpura",
+    "passage": "Eles o vestiram de púrpura; e tecendo uma coroa de espinhos, a colocaram nele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #evangelico #jesus #desafio #deus #conhecimentobiblico #palavradedeus #perguntasbiblicas #teste #cristao",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #jesus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #biblia #conhecimentobiblico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nDe que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?\n\nA) Azul\nB) Púrpura\nC) Branca\nD) Vermelha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-19T23:05:30+00:00",
+    "instagram": "2026-10-19T23:06:07+00:00",
+    "facebook": "2026-10-19T23:06:11+00:00",
+    "stories": "2026-10-19T23:07:02+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/4vT-Xx81P5g",
+    "instagram": "https://www.instagram.com/reel/DesZdiUAjqi/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1625804546009501",
+    "stories": "story 17935107996146619"
+   }
+  },
+  {
    "id": "2026-10-19-8-fill",
    "date": "2026-10-19",
    "slot": 8,
