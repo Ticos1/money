@@ -1,6 +1,96 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-5-curiosity",
+   "date": "2026-10-19",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-19T13:20",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-19T08:23:16+00:00",
+   "source": "bank",
+   "bank_id": "c044",
+   "model": null,
+   "content": {
+    "ref": "Marcos 6:3",
+    "ref_label": "Marcos 6:3",
+    "title": "Jesus, o carpinteiro",
+    "text": "Em Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia.",
+    "evidence": "Não é este o carpinteiro",
+    "passage": "Não é este o carpinteiro, filho de Maria e irmão de Tiago, José, Judas e Simão? E as suas irmãs não estão aqui conosco?” E escandalizavam-se por causa dele.",
+    "tags": [
+     "jesus",
+     "trabalho"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #evangelico #deus #biblia #gospel #cristao #fe #estudobiblico #palavradedeus",
+    "facebook": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #trabalho #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus, o carpinteiro de Nazaré, sabia da vida cotidiana. Compartilhe!\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #fe",
+    "kwai": "Jesus, o carpinteiro de Nazaré, sabia da vida cotidiana. Compartilhe!\n#jesus #trabalho #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "whatsapp": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus, o carpinteiro #shorts",
+     "description": "Jesus, o carpinteiro\n\nEm Nazaré, as pessoas perguntavam: \"Não é este o carpinteiro, filho de Maria?\". Jesus conhecia o trabalho do dia a dia. (Marcos 6:3)\n\nEm Nazaré, muitos o reconheciam como o carpinteiro, filho de Maria (Marcos 6:3). Ele vivia o trabalho cotidiano, sentava-se à mesa de madeira, conhecia o cheiro da serragem e o som dos martelos. Essa proximidade com as tarefas simples nos mostra que o Salvador caminhou entre nós, entendendo nossas lutas e ofícios. Compartilhe para lembrar que Cristo valoriza até o mais humilde dos trabalhos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #trabalho #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "trabalho",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-19T16:20:32+00:00",
+    "stories": "2026-10-19T16:21:31+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/975002561703887",
+    "stories": "story 18113953898132896"
+   }
+  },
+  {
    "id": "2026-10-19-4-quiz",
    "date": "2026-10-19",
    "slot": 4,
