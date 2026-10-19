@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-19T15:13:11+00:00",
+ "updated_at": "2026-10-19T16:22:46+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-19-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-19",
+   "time": "13:30",
+   "title": "Jesus, o carpinteiro",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/975002561703887"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-19-4-quiz": {
    "type": "quiz",
    "date": "2026-10-19",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 130,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 351.5
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 268,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 948.2
+    "views": 278,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1014.2
    }
   },
   "2026-10-19-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 304,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1067.4
+    "views": 311,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1139.4
    },
    "youtube": {
-    "views": 0,
+    "views": 21,
     "likes": 0,
     "comments": 0
    }
@@ -134,7 +151,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 19,
+    "views": 24,
     "likes": 2,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/2UcBS7cAvH4"
    },
    "youtube": {
-    "views": 18,
+    "views": 24,
     "likes": 4,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "watch_time_s": 885.3
    },
    "youtube": {
-    "views": 251,
+    "views": 259,
     "likes": 6,
     "comments": 0
    }
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 1.0,
-    "watch_time_s": 1.0
+    "views": 2,
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.4
    },
    "youtube": {
-    "views": 47,
+    "views": 49,
     "likes": 0,
     "comments": 0
    }
@@ -293,7 +310,7 @@
     "watch_time_s": 1572.7
    },
    "youtube": {
-    "views": 34,
+    "views": 35,
     "likes": 1,
     "comments": 0
    }
@@ -734,9 +751,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 359,
+    "views": 360,
     "avg_watch_s": 2.9,
-    "watch_time_s": 949.9
+    "watch_time_s": 950.9
    },
    "youtube": {
     "views": 37,
