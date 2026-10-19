@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-19T17:57:48+00:00",
+ "updated_at": "2026-10-19T20:02:26+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-19-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "title": "Quem foi bendita entre as mulheres em Juízes 5?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1063616883379113"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-19-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-19",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.1,
+    "watch_time_s": 2.2
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 3,
+    "comments": 1,
+    "views": 462,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1101.3
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 17,
-    "avg_watch_s": 6.1,
-    "watch_time_s": 79.4
+    "views": 213,
+    "avg_watch_s": 3.0,
+    "watch_time_s": 565.6
    }
   },
   "2026-10-19-4-quiz": {
@@ -79,14 +96,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 3,
     "comments": 0,
-    "views": 433,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1411.4
+    "views": 877,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 3656.6
    },
    "youtube": {
-    "views": 1,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 287,
+    "views": 290,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1037.1
+    "watch_time_s": 1040.0
    }
   },
   "2026-10-19-2-quiz": {
@@ -119,14 +136,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1982896815960300"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 321,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1151.7
+    "views": 334,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1221.7
    },
    "youtube": {
-    "views": 25,
+    "views": 27,
     "likes": 0,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 29,
+    "views": 36,
     "likes": 2,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/2UcBS7cAvH4"
    },
    "youtube": {
-    "views": 24,
+    "views": 25,
     "likes": 4,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1545,
+    "views": 1547,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6864.3
+    "watch_time_s": 6865.5
    }
   },
   "2026-10-18-6-truefalse": {
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 276,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 885.3
+    "views": 280,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 909.3
    },
    "youtube": {
-    "views": 262,
+    "views": 264,
     "likes": 6,
     "comments": 0
    }
@@ -305,7 +322,7 @@
     "watch_time_s": 1.4
    },
    "youtube": {
-    "views": 51,
+    "views": 52,
     "likes": 0,
     "comments": 0
    }
@@ -322,9 +339,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 481,
+    "views": 482,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2043.0
+    "watch_time_s": 2043.8
    }
   },
   "2026-10-18-2-quiz": {
@@ -345,7 +362,7 @@
     "watch_time_s": 1577.3
    },
    "youtube": {
-    "views": 35,
+    "views": 36,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 109,
+    "views": 118,
     "likes": 2,
     "comments": 0
    }
@@ -385,9 +402,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 1.4,
+    "watch_time_s": 1.4
    }
   },
   "2026-10-17-8-quiz": {
@@ -533,9 +550,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 249,
-    "avg_watch_s": 2.7,
-    "watch_time_s": 621.7
+    "views": 250,
+    "avg_watch_s": 2.6,
+    "watch_time_s": 622.8
    }
   },
   "2026-10-17-2-quiz-v2": {
@@ -786,9 +803,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 360,
+    "views": 361,
     "avg_watch_s": 2.9,
-    "watch_time_s": 950.9
+    "watch_time_s": 951.3
    },
    "youtube": {
     "views": 37,
