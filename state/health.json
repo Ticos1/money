@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-19T21:42:23+00:00",
+ "updated_at": "2026-10-19T23:08:34+00:00",
  "date": "2026-10-19",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-19-9-quiz",
+   "date": "2026-10-19",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-19T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-19T23:05:30+00:00",
+    "instagram": "2026-10-19T23:06:07+00:00",
+    "facebook": "2026-10-19T23:06:11+00:00",
+    "stories": "2026-10-19T23:07:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/4vT-Xx81P5g",
+    "instagram": "https://www.instagram.com/reel/DesZdiUAjqi/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1625804546009501",
+    "stories": "story 17935107996146619"
+   },
+   "title": "De que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?"
+  },
   {
    "id": "2026-10-19-8-fill",
    "date": "2026-10-19",
