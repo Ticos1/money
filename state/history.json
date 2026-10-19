@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-7-quiz",
+   "date": "2026-10-19",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-19T16:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:24:09+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Juízes 5:24",
+    "ref_label": "Juízes 5:24",
+    "question": "Quem foi bendita entre as mulheres em Juízes 5?",
+    "options": [
+     "Jael",
+     "Débora",
+     "Miriam",
+     "Ester"
+    ],
+    "answer": 0,
+    "evidence": "Jael",
+    "passage": "“Bendita seja Jael entre as mulheres, a mulher de Héber, o queneu; bendita seja ela entre as mulheres na tenda.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #evangelico #perguntasbiblicas #gospel #jesus #conhecimentobiblico #teste #biblia #palavradedeus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #cristao #palavradedeus",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #gospel",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quem foi bendita entre as mulheres em Juízes 5? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQuem foi bendita entre as mulheres em Juízes 5?\n\nA) Jael\nB) Débora\nC) Miriam\nD) Ester\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "juízes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-19T20:00:31+00:00",
+    "stories": "2026-10-19T20:01:13+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em Jeremias 15:21: 'o meu Redentor vive'",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1063616883379113",
+    "stories": "story 18027490067702305"
+   }
+  },
+  {
    "id": "2026-10-19-6-truefalse",
    "date": "2026-10-19",
    "slot": 6,
