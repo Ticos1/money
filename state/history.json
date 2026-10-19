@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-2-quiz",
+   "date": "2026-10-19",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-19T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-19T08:21:51+00:00",
+   "source": "bank",
+   "bank_id": "q066",
+   "model": null,
+   "content": {
+    "ref": "Jó 1:1",
+    "ref_label": "Jó 1:1",
+    "question": "Em qual terra vivia Jó?",
+    "options": [
+     "Canaã",
+     "Uz",
+     "Egito",
+     "Moabe"
+    ],
+    "answer": 1,
+    "evidence": "na terra de Uz",
+    "passage": "Havia um homem na terra de Uz, cujo nome era Jó. Esse homem era íntegro e reto, e alguém que temia a Deus, e se desviava do mal.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #perguntasbiblicas #desafio #deus #gospel #fe #cristao #biblia #jesus",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #deus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #deus #gospel",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #jesus",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em qual terra vivia Jó? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual terra vivia Jó?\n\nA) Canaã\nB) Uz\nC) Egito\nD) Moabe\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-19T11:10:26+00:00",
+    "instagram": null,
+    "facebook": "2026-10-19T11:10:31+00:00",
+    "stories": "2026-10-19T11:11:07+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/UvEAviNSr_I",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1982896815960300",
+    "stories": "story 18637383568043889"
+   }
+  },
+  {
    "id": "2026-10-19-1-verse",
    "date": "2026-10-19",
    "slot": 1,
