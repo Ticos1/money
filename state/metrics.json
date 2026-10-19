@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-19T09:32:37+00:00",
+ "updated_at": "2026-10-19T11:13:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-19-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-19",
+   "time": "08:00",
+   "title": "Em qual terra vivia Jó?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/UvEAviNSr_I",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1982896815960300"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-19-1-verse": {
    "type": "verse",
    "date": "2026-10-19",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
     "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 29.1
+    "avg_watch_s": 3.7,
+    "watch_time_s": 29.5
    },
    "facebook": {
     "likes": 0,
@@ -59,8 +82,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 18,
-    "likes": 1,
+    "views": 19,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -75,7 +98,7 @@
    },
    "youtube": {
     "views": 18,
-    "likes": 3,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1514,
+    "views": 1523,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6709.1
+    "watch_time_s": 6760.4
    }
   },
   "2026-10-18-6-truefalse": {
@@ -126,7 +149,7 @@
     "watch_time_s": 876.1
    },
    "youtube": {
-    "views": 237,
+    "views": 242,
     "likes": 6,
     "comments": 0
    }
@@ -143,9 +166,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 256,
+    "views": 258,
     "avg_watch_s": 2.9,
-    "watch_time_s": 692.8
+    "watch_time_s": 697.9
    }
   },
   "2026-10-18-4-quiz": {
@@ -178,7 +201,7 @@
     "watch_time_s": 1.0
    },
    "youtube": {
-    "views": 45,
+    "views": 47,
     "likes": 0,
     "comments": 0
    }
@@ -241,7 +264,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 101,
+    "views": 102,
     "likes": 2,
     "comments": 0
    }
@@ -429,7 +452,7 @@
     "watch_time_s": 576.3
    },
    "youtube": {
-    "views": 22,
+    "views": 23,
     "likes": 0,
     "comments": 0
    }
