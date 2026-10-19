@@ -1,6 +1,103 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-8-fill",
+   "date": "2026-10-19",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-19T18:36",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-19T08:24:37+00:00",
+   "source": "bank",
+   "bank_id": "v362",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 16:32",
+    "ref_label": "Provérbios 16:32",
+    "verse_text": "Melhor é o homem paciente do que o guerreiro; aquele que controla o seu espírito é melhor do que aquele que conquista uma cidade.",
+    "question": "Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.",
+    "options": [
+     "refúgio",
+     "cântico",
+     "espírito",
+     "descanso"
+    ],
+    "answer": 2,
+    "answer_word": "espírito",
+    "tags": [
+     "paciencia",
+     "dominioproprio"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paciencia #dominioproprio #completeoversiculo #versiculo #cristao #quizbiblico #biblia #gospel #jesus #fe #evangelico #desafiobiblico",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paciencia #dominioproprio #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#paciencia #dominioproprio #completeoversiculo #versiculo #cristao",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#paciencia #dominioproprio #completeoversiculo #versiculo #palavradedeus",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Provérbios 16:32 📖 Você sabe de cor? #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade.”\n\nA) refúgio\nB) cântico\nC) espírito\nD) descanso\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paciencia #dominioproprio #completeoversiculo",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "paciencia",
+      "dominioproprio",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-19T21:40:24+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-19T21:41:06+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/vOKj4qCf-LI",
+    "stories": "story 18147206908604766"
+   }
+  },
+  {
    "id": "2026-10-19-7-quiz",
    "date": "2026-10-19",
    "slot": 7,
