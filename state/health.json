@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-19T09:32:40+00:00",
+ "updated_at": "2026-10-19T11:13:24+00:00",
  "date": "2026-10-19",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-19-2-quiz",
+   "date": "2026-10-19",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-19T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-19T11:10:26+00:00",
+    "instagram": null,
+    "facebook": "2026-10-19T11:10:31+00:00",
+    "stories": "2026-10-19T11:11:07+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/UvEAviNSr_I",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1982896815960300",
+    "stories": "story 18637383568043889"
+   },
+   "title": "Em qual terra vivia Jó?"
+  },
   {
    "id": "2026-10-19-1-verse",
    "date": "2026-10-19",
