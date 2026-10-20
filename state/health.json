@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T15:04:34+00:00",
+ "updated_at": "2026-10-20T16:28:53+00:00",
  "date": "2026-10-20",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-20-5-curiosity",
+   "date": "2026-10-20",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-20T13:21",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-20T16:25:32+00:00",
+    "stories": "2026-10-20T16:27:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2195379927677239",
+    "stories": "story 17903008533372467"
+   },
+   "title": "Você sabia? A bondade ao emprestar"
+  },
   {
    "id": "2026-10-20-4-quiz",
    "date": "2026-10-20",
