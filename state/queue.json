@@ -1,3 +1,1006 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-20-10-truefalse",
+   "date": "2026-10-20",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-20T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-20T08:25:39+00:00",
+   "source": "bank",
+   "bank_id": "q348",
+   "model": null,
+   "content": {
+    "ref": "Números 20:11",
+    "ref_label": "Números 20:11",
+    "question": "Quantas vezes Moisés feriu a rocha com a vara em Meribá?",
+    "shown": "Sete",
+    "is_true": false,
+    "correct": "Duas",
+    "evidence": "feriu a rocha com a sua vara duas vezes",
+    "passage": "Moisés levantou a mão e feriu a rocha com a sua vara duas vezes, e a água jorrou abundantemente. A congregação e os seus rebanhos beberam.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantas vezes Moisés feriu a rocha com a vara em Meribá?\nResposta: Sete\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #cristao #desafiobiblico #perguntasbiblicas #palavradedeus #biblia #jesus #conhecimentobiblico #deus #evangelico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantas vezes Moisés feriu a rocha com a vara em Meribá?\nResposta: Sete\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #jesus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico #biblia",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #deus #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantas vezes Moisés feriu a rocha com a vara em Meribá?\nResposta: Sete\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantas vezes Moisés feriu a rocha com a vara em Meribá?\nResposta: Sete\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "números"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-9-quiz",
+   "date": "2026-10-20",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-20T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-20T08:25:16+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 113:7",
+    "ref_label": "Salmos 113:7",
+    "question": "Qual palavra descreve quem o SENHOR levanta do pó em Salmos 113?",
+    "options": [
+     "Pobre",
+     "Rico",
+     "Ancião",
+     "Rei"
+    ],
+    "answer": 0,
+    "evidence": "Pobre",
+    "passage": "Ele levanta o pobre do pó, e ergue o necessitado do monte de cinzas,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra descreve quem o SENHOR levanta do pó em Salmos 113?\n\nA) Pobre\nB) Rico\nC) Ancião\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #cristao #conhecimentobiblico #desafio #gospel #palavradedeus #fe #teste #deus #evangelico",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra descreve quem o SENHOR levanta do pó em Salmos 113?\n\nA) Pobre\nB) Rico\nC) Ancião\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #teste",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #cristao #evangelico",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus #fe",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQual palavra descreve quem o SENHOR levanta do pó em Salmos 113?\n\nA) Pobre\nB) Rico\nC) Ancião\nD) Rei\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra descreve quem o SENHOR levanta do pó em Salmos 113? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra descreve quem o SENHOR levanta do pó em Salmos 113?\n\nA) Pobre\nB) Rico\nC) Ancião\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-8-fill",
+   "date": "2026-10-20",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-20T18:22",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-20T08:24:48+00:00",
+   "source": "bank",
+   "bank_id": "v003",
+   "model": null,
+   "content": {
+    "ref": "Salmos 23:1",
+    "ref_label": "Salmos 23:1",
+    "verse_text": "O SENHOR é o meu pastor; nada me faltará.",
+    "question": "O SENHOR é o meu _____; nada me faltará.",
+    "options": [
+     "cântico",
+     "pastor",
+     "tesouro",
+     "conselho"
+    ],
+    "answer": 1,
+    "answer_word": "pastor",
+    "tags": [
+     "salmos",
+     "cuidado"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre o cuidado de Deus: Salmos 23:1\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR é o meu _____; nada me faltará.”\n\nA) cântico\nB) pastor\nC) tesouro\nD) conselho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #cuidado #salmos #completeoversiculo #versiculo #desafiobiblico #jesus #gospel #quizbiblico #fe #evangelico #cristao",
+    "facebook": "Versículo sobre o cuidado de Deus: Salmos 23:1\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR é o meu _____; nada me faltará.”\n\nA) cântico\nB) pastor\nC) tesouro\nD) conselho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #cuidado #salmos #completeoversiculo",
+    "tiktok": "Versículo sobre o cuidado de Deus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreocuidadodedeus #cuidado #salmos #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre o cuidado de Deus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreocuidadodedeus #cuidado #salmos #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“O SENHOR é o meu _____; nada me faltará.”\n\nA) cântico\nB) pastor\nC) tesouro\nD) conselho\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre o cuidado de Deus: Salmos 23:1 📖 #shorts",
+     "description": "Versículo sobre o cuidado de Deus: Salmos 23:1\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR é o meu _____; nada me faltará.”\n\nA) cântico\nB) pastor\nC) tesouro\nD) conselho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreocuidadodedeus #cuidado #salmos",
+     "tags": [
+      "versículo sobre o cuidado de Deus",
+      "versículos sobre o cuidado de Deus",
+      "cuidado",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-7-quiz",
+   "date": "2026-10-20",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-20T17:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-20T08:24:25+00:00",
+   "source": "bank",
+   "bank_id": "q771",
+   "model": null,
+   "content": {
+    "ref": "Jó 19:25",
+    "ref_label": "Jó 19:25",
+    "question": "Complete a declaração de Jó: “Eu sei que o meu ___ vive.”",
+    "options": [
+     "Pastor",
+     "Redentor",
+     "Senhor",
+     "Rei"
+    ],
+    "answer": 1,
+    "evidence": "eu sei que o meu Redentor vive",
+    "passage": "Mas quanto a mim, eu sei que o meu Redentor vive. E no fim, ele se levantará sobre a terra.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nComplete a declaração de Jó: “Eu sei que o meu ___ vive.”\n\nA) Pastor\nB) Redentor\nC) Senhor\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #fe #desafio #conhecimentobiblico #deus #jesus #evangelico #cristao #perguntasbiblicas #gospel",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nComplete a declaração de Jó: “Eu sei que o meu ___ vive.”\n\nA) Pastor\nB) Redentor\nC) Senhor\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #jesus #conhecimentobiblico",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas #fe",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nComplete a declaração de Jó: “Eu sei que o meu ___ vive.”\n\nA) Pastor\nB) Redentor\nC) Senhor\nD) Rei\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete a declaração de Jó: “Eu sei que o meu ___ vive.” #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nComplete a declaração de Jó: “Eu sei que o meu ___ vive.”\n\nA) Pastor\nB) Redentor\nC) Senhor\nD) Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-6-truefalse",
+   "date": "2026-10-20",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-20T14:57",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-20T08:23:58+00:00",
+   "source": "bank",
+   "bank_id": "q345",
+   "model": null,
+   "content": {
+    "ref": "Números 12:3",
+    "ref_label": "Números 12:3",
+    "question": "Segundo a Bíblia, como era Moisés, mais do que todos os homens?",
+    "shown": "Muito humilde",
+    "is_true": true,
+    "correct": "Muito humilde",
+    "evidence": "Moisés era muito humilde",
+    "passage": "Ora, o homem Moisés era muito humilde, mais do que todos os homens que havia sobre a face da terra.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo a Bíblia, como era Moisés, mais do que todos os homens?\nResposta: Muito humilde\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #jesus #fe #perguntasbiblicas #deus #biblia #palavradedeus #desafiobiblico #evangelico #gospel",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo a Bíblia, como era Moisés, mais do que todos os homens?\nResposta: Muito humilde\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #gospel #fe",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #fe",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo a Bíblia, como era Moisés, mais do que todos os homens?\nResposta: Muito humilde\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo a Bíblia, como era Moisés, mais do que todos os homens?\nResposta: Muito humilde\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "números"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-5-curiosity",
+   "date": "2026-10-20",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-20T13:21",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-20T08:23:33+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 112:5",
+    "ref_label": "Salmos 112:5",
+    "title": "Você sabia? A bondade ao emprestar",
+    "text": "No versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna.",
+    "evidence": "bondade",
+    "passage": "Tudo vai bem com o homem que trata com bondade e empresta. Ele defenderá a sua causa no juízo.",
+    "tags": [
+     "generosidade",
+     "justica"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#generosidade #justica #vocesabia #curiosidadesbiblicas #gospel #biblia #evangelico #deus #jesus #cristao #estudobiblico #historiabiblica",
+    "facebook": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#generosidade #justica #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Ser generoso protege o caminho que trilhamos. Salve e compartilhe!\n#generosidade #justica #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "kwai": "Ser generoso protege o caminho que trilhamos. Salve e compartilhe!\n#generosidade #justica #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "whatsapp": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Você sabia? A bondade ao emprestar #shorts",
+     "description": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #generosidade #justica #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "generosidade",
+      "justica",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 20.48,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-4-quiz",
+   "date": "2026-10-20",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-20T11:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-20T08:22:56+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 31:5",
+    "ref_label": "Salmos 31:5",
+    "question": "Qual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?",
+    "options": [
+     "alma",
+     "coração",
+     "espírito",
+     "vida"
+    ],
+    "answer": 2,
+    "evidence": "espírito",
+    "passage": "Nas tuas mãos entrego o meu espírito. Tu me resgatas, SENHOR, Deus da verdade.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?\n\nA) alma\nB) coração\nC) espírito\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #biblia #gospel #perguntasbiblicas #teste #conhecimentobiblico #desafio #jesus #palavradedeus #cristao",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?\n\nA) alma\nB) coração\nC) espírito\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #evangelico #conhecimentobiblico",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #desafio #evangelico",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?\n\nA) alma\nB) coração\nC) espírito\nD) vida\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?\n\nA) alma\nB) coração\nC) espírito\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: alternativa errada 'dia da vingança' também aparece no texto (ambígua)",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-3-truefalse",
+   "date": "2026-10-20",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-20T09:52",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-20T08:22:27+00:00",
+   "source": "bank",
+   "bank_id": "q010",
+   "model": null,
+   "content": {
+    "ref": "Números 14:33",
+    "ref_label": "Números 14:33",
+    "question": "Quantos anos o povo de Israel peregrinou no deserto?",
+    "shown": "Quarenta",
+    "is_true": true,
+    "correct": "Quarenta",
+    "evidence": "por quarenta anos",
+    "passage": "Os seus filhos serão peregrinos no deserto por quarenta anos, e levarão sobre si a prostituição de vocês, até que os seus cadáveres sejam consumidos no deserto.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos anos o povo de Israel peregrinou no deserto?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #desafiobiblico #conhecimentobiblico #fe #deus #jesus #cristao #gospel #perguntasbiblicas",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos anos o povo de Israel peregrinou no deserto?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #gospel #perguntasbiblicas",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #jesus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQuantos anos o povo de Israel peregrinou no deserto?\nResposta: Quarenta\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos anos o povo de Israel peregrinou no deserto?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "números"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-2-quiz",
+   "date": "2026-10-20",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-20T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-20T08:22:03+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Eclesiastes 5:12",
+    "ref_label": "Eclesiastes 5:12",
+    "question": "Qual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?",
+    "options": [
+     "Doce",
+     "Amargo",
+     "Leve",
+     "Forte"
+    ],
+    "answer": 0,
+    "evidence": "Doce",
+    "passage": "O sono do trabalhador é doce, quer ele coma pouco ou muito; mas a abundância do rico não lhe permite dormir.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?\n\nA) Doce\nB) Amargo\nC) Leve\nD) Forte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #cristao #palavradedeus #biblia #gospel #fe #perguntasbiblicas #desafio #evangelico #deus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?\n\nA) Doce\nB) Amargo\nC) Leve\nD) Forte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #cristao",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #teste #perguntasbiblicas",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?\n\nA) Doce\nB) Amargo\nC) Leve\nD) Forte\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra do Eclesiastes 5:12 descreve o sono do trabalhador? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?\n\nA) Doce\nB) Amargo\nC) Leve\nD) Forte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "eclesiastes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-20-1-verse",
+   "date": "2026-10-20",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-20T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-20T08:21:36+00:00",
+   "source": "bank",
+   "bank_id": "v169",
+   "model": null,
+   "content": {
+    "ref": "Salmos 18:2",
+    "ref_label": "Salmos 18:2",
+    "verse_text": "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, o poder da minha salvação, a minha torre alta.",
+    "on_screen": "O Senhor é a minha rocha e fortaleza.",
+    "reflection": "Rocha, fortaleza, libertador, escudo, torre alta: Davi usou várias imagens para dizer que em Deus estamos seguros.",
+    "theme": "proteção",
+    "mood": "alegria",
+    "tags": [
+     "protecao",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de proteção: Salmos 18:2\n“O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, o poder da minha salvação, a minha torre alta.” (Salmos 18:2)\n\nDavi descreve Deus como rocha, fortaleza, libertador, escudo e torre alta. Cada imagem revela a proteção firme que recebemos quando nos refugiamos n'Ele. Não importa a tempestade, Ele está sempre presente, firme e inabalável. Salve este lembrete e compartilhe com quem precisa sentir essa paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #protecao #salmos #versiculododia #versiculo #oracao #reflexao #jesus #biblia #cristao #fe #gospel",
+    "facebook": "Versículo de proteção: Salmos 18:2\n“O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, o poder da minha salvação, a minha torre alta.” (Salmos 18:2)\n\nDavi descreve Deus como rocha, fortaleza, libertador, escudo e torre alta. Cada imagem revela a proteção firme que recebemos quando nos refugiamos n'Ele. Não importa a tempestade, Ele está sempre presente, firme e inabalável. Salve este lembrete e compartilhe com quem precisa sentir essa paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #protecao #salmos #versiculododia",
+    "tiktok": "Versículo de proteção\nDeus é nossa rocha e refúgio seguro. Compartilhe essa paz! 🌟\n#versiculodeprotecao #protecao #salmos #versiculododia #versiculo",
+    "kwai": "Versículo de proteção\nDeus é nossa rocha e refúgio seguro. Compartilhe essa paz! 🌟\n#versiculodeprotecao #protecao #salmos #versiculododia #versiculo",
+    "whatsapp": "“O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, o poder da minha salvação, a minha torre alta.” (Salmos 18:2)\n\nDavi descreve Deus como rocha, fortaleza, libertador, escudo e torre alta. Cada imagem revela a proteção firme que recebemos quando nos refugiamos n'Ele. Não importa a tempestade, Ele está sempre presente, firme e inabalável. Salve este lembrete e compartilhe com quem precisa sentir essa paz. 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de proteção: Salmos 18:2 🙏 #shorts",
+     "description": "Versículo de proteção: Salmos 18:2\n“O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, o poder da minha salvação, a minha torre alta.” (Salmos 18:2)\n\nDavi descreve Deus como rocha, fortaleza, libertador, escudo e torre alta. Cada imagem revela a proteção firme que recebemos quando nos refugiamos n'Ele. Não importa a tempestade, Ele está sempre presente, firme e inabalável. Salve este lembrete e compartilhe com quem precisa sentir essa paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeprotecao #protecao #salmos",
+     "tags": [
+      "versículo de proteção",
+      "versículos de proteção",
+      "proteção",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "protecao",
+      "salmos",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-20/2026-10-20-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
