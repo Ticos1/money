@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-10-20-5-curiosity",
+   "date": "2026-10-20",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-20T13:21",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-20T08:23:33+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 112:5",
+    "ref_label": "Salmos 112:5",
+    "title": "Você sabia? A bondade ao emprestar",
+    "text": "No versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna.",
+    "evidence": "bondade",
+    "passage": "Tudo vai bem com o homem que trata com bondade e empresta. Ele defenderá a sua causa no juízo.",
+    "tags": [
+     "generosidade",
+     "justica"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#generosidade #justica #vocesabia #curiosidadesbiblicas #gospel #biblia #evangelico #deus #jesus #cristao #estudobiblico #historiabiblica",
+    "facebook": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#generosidade #justica #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Ser generoso protege o caminho que trilhamos. Salve e compartilhe!\n#generosidade #justica #vocesabia #curiosidadesbiblicas #palavradedeus",
+    "kwai": "Ser generoso protege o caminho que trilhamos. Salve e compartilhe!\n#generosidade #justica #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "whatsapp": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Você sabia? A bondade ao emprestar #shorts",
+     "description": "Você sabia? A bondade ao emprestar\n\nNo versículo 5, o Salmo destaca que quem trata com bondade e empresta tem seu caminho protegido, mostrando que a generosidade era valorizada como sinal de justiça eterna. (Salmos 112:5)\n\nCuriosidade bíblica: no Salmo 112:5 lemos que quem trata com bondade e empresta tem seu caminho protegido. Essa promessa nos lembra que a generosidade não é só um ato, mas um sinal de justiça eterna. Ao abrir o coração e ajudar quem precisa, caminhamos sob a proteção divina. Salve este ensinamento e compartilhe para inspirar mais pessoas a praticarem a bondade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #generosidade #justica #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "generosidade",
+      "justica",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-20T16:25:32+00:00",
+    "stories": "2026-10-20T16:27:08+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2195379927677239",
+    "stories": "story 17903008533372467"
+   }
+  },
+  {
    "id": "2026-10-20-4-quiz",
    "date": "2026-10-20",
    "slot": 4,
