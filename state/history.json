@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-19-10-truefalse",
+   "date": "2026-10-19",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-19T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-19T08:25:30+00:00",
+   "source": "bank",
+   "bank_id": "q1105",
+   "model": null,
+   "content": {
+    "ref": "Ezequiel 8:16",
+    "ref_label": "Ezequiel 8:16",
+    "question": "O que os homens voltados para o oriente estavam adorando?",
+    "shown": "As estrelas",
+    "is_true": false,
+    "correct": "O sol",
+    "evidence": "Eles estavam adorando o sol",
+    "passage": "Ele me levou para o pátio interior da casa do SENHOR; e vi que à porta do templo do SENHOR, entre o pórtico e o altar, havia cerca de vinte e cinco homens com as costas voltadas para o templo do SENHOR e os seus rostos para o oriente. Eles estavam adorando o sol voltados para o oriente.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #jesus #deus #perguntasbiblicas #cristao #biblia #evangelico #conhecimentobiblico #desafiobiblico #fe",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #evangelico #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que os homens voltados para o oriente estavam adorando?\nResposta: As estrelas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ezequiel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-20T00:30:28+00:00",
+    "stories": "2026-10-20T00:31:31+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1791973858682181",
+    "stories": "story 17911160058489216"
+   }
+  },
+  {
    "id": "2026-10-19-9-quiz",
    "date": "2026-10-19",
    "slot": 9,
