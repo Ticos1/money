@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-20T11:07:26+00:00",
+ "updated_at": "2026-10-20T12:58:50+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-20-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-20",
+   "time": "10:00",
+   "title": "Quantos anos o povo de Israel peregrinou no deserto?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4544382715776529"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-20-2-quiz": {
    "type": "quiz",
    "date": "2026-10-20",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 239,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 690.2
    },
    "youtube": {
     "views": 0,
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2202,
+    "views": 2206,
     "avg_watch_s": 7.3,
-    "watch_time_s": 10884.3
+    "watch_time_s": 10896.7
    }
   },
   "2026-10-19-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2117,
+    "views": 2120,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9676.5
+    "watch_time_s": 9686.5
    },
    "youtube": {
     "views": 29,
@@ -168,7 +185,7 @@
     "comments": 0,
     "views": 225,
     "avg_watch_s": 3.1,
-    "watch_time_s": 614.3
+    "watch_time_s": 617.0
    }
   },
   "2026-10-19-4-quiz": {
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 972,
+    "views": 975,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4214.2
+    "watch_time_s": 4218.0
    },
    "youtube": {
     "views": 40,
@@ -438,8 +455,8 @@
     "likes": 0,
     "comments": 1,
     "views": 485,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 2048.2
+    "avg_watch_s": 5.7,
+    "watch_time_s": 2049.6
    }
   },
   "2026-10-18-2-quiz": {
@@ -455,9 +472,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 445,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1577.3
+    "views": 446,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1577.9
    },
    "youtube": {
     "views": 46,
@@ -483,7 +500,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 139,
+    "views": 140,
     "likes": 2,
     "comments": 0
    }
