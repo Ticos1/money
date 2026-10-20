@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-20T14:18:19+00:00",
+ "updated_at": "2026-10-20T15:04:31+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-20-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-20",
+   "time": "12:00",
+   "title": "Qual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/LaQhdwVIhgA",
+    "instagram": "https://www.instagram.com/reel/DeuG2Hgj5Vj/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1418010150419304"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-20-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-20",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4544382715776529"
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 1,
+    "comments": 1,
+    "views": 3,
+    "avg_watch_s": 22.4,
+    "watch_time_s": 22.4
    }
   },
   "2026-10-20-2-quiz": {
@@ -34,9 +69,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 305,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 923.2
+    "views": 311,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1062.3
    },
    "youtube": {
     "views": 0,
@@ -131,7 +166,7 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2209,
+    "views": 2210,
     "avg_watch_s": 7.3,
     "watch_time_s": 10915.4
    }
@@ -153,7 +188,7 @@
     "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 5,
     "total_interactions": 0,
     "avg_watch_s": 2.6,
     "watch_time_s": 10.6
@@ -166,7 +201,7 @@
     "watch_time_s": 9689.6
    },
    "youtube": {
-    "views": 30,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
@@ -254,8 +289,8 @@
     "likes": 3,
     "comments": 0,
     "views": 345,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1236.2
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1237.1
    },
    "youtube": {
     "views": 45,
@@ -350,7 +385,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1551,
+    "views": 1552,
     "avg_watch_s": 5.7,
     "watch_time_s": 6891.2
    }
