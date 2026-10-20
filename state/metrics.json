@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-20T08:27:30+00:00",
+ "updated_at": "2026-10-20T09:22:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-20-1-verse": {
+   "type": "verse",
+   "date": "2026-10-20",
+   "time": "06:30",
+   "title": "Salmos 18:2",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-19-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-19",
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2198,
+    "views": 2199,
     "avg_watch_s": 7.3,
-    "watch_time_s": 10861.4
+    "watch_time_s": 10867.2
    }
   },
   "2026-10-19-6-truefalse": {
@@ -113,9 +121,9 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2106,
+    "views": 2110,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9605.5
+    "watch_time_s": 9629.2
    },
    "youtube": {
     "views": 29,
@@ -135,7 +143,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 221,
+    "views": 223,
     "avg_watch_s": 3.0,
     "watch_time_s": 601.6
    }
@@ -165,9 +173,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 966,
+    "views": 970,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4172.0
+    "watch_time_s": 4178.7
    },
    "youtube": {
     "views": 40,
@@ -1455,7 +1463,7 @@
     "comments": 0,
     "views": 368,
     "avg_watch_s": 3.5,
-    "watch_time_s": 1161.3
+    "watch_time_s": 1165.4
    }
   },
   "2026-10-14-5-curiosity": {
