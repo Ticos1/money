@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-20T14:18:24+00:00",
+ "updated_at": "2026-10-20T15:04:34+00:00",
  "date": "2026-10-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-20-4-quiz",
+   "date": "2026-10-20",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-20T11:56",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-20T15:00:33+00:00",
+    "instagram": "2026-10-20T15:02:13+00:00",
+    "facebook": "2026-10-20T15:02:25+00:00",
+    "stories": "2026-10-20T15:03:00+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/LaQhdwVIhgA",
+    "instagram": "https://www.instagram.com/reel/DeuG2Hgj5Vj/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1418010150419304",
+    "stories": "story 18112207439142467"
+   },
+   "title": "Qual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?"
+  },
   {
    "id": "2026-10-20-3-truefalse",
    "date": "2026-10-20",
