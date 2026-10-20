@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-20T16:28:53+00:00",
+ "updated_at": "2026-10-20T18:03:26+00:00",
  "date": "2026-10-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-20-6-truefalse",
+   "date": "2026-10-20",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-20T14:57",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-20T18:00:30+00:00",
+    "instagram": "2026-10-20T18:01:13+00:00",
+    "facebook": "2026-10-20T18:01:18+00:00",
+    "stories": "2026-10-20T18:01:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/FJb3V2rB7Bc",
+    "instagram": "https://www.instagram.com/reel/DeubWjugk4O/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1643986824050551",
+    "stories": "story 18195443206403287"
+   },
+   "title": "Segundo a Bíblia, como era Moisés, mais do que todos os homens?"
+  },
   {
    "id": "2026-10-20-5-curiosity",
    "date": "2026-10-20",
