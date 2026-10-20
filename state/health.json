@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T19:12:48+00:00",
+ "updated_at": "2026-10-20T20:12:35+00:00",
  "date": "2026-10-20",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-20-7-quiz",
+   "date": "2026-10-20",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-20T17:09",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-20T20:10:27+00:00",
+    "stories": "2026-10-20T20:11:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1408148648149745",
+    "stories": "story 18105863381203957"
+   },
+   "title": "Complete a declaração de Jó: “Eu sei que o meu ___ vive.”"
+  },
   {
    "id": "2026-10-20-6-truefalse",
    "date": "2026-10-20",
