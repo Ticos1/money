@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T11:07:28+00:00",
+ "updated_at": "2026-10-20T12:58:53+00:00",
  "date": "2026-10-20",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-20-3-truefalse",
+   "date": "2026-10-20",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-20T09:52",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-20T12:55:36+00:00",
+    "stories": "2026-10-20T12:56:37+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4544382715776529",
+    "stories": "story 18116437244321181"
+   },
+   "title": "Quantos anos o povo de Israel peregrinou no deserto?"
+  },
   {
    "id": "2026-10-20-2-quiz",
    "date": "2026-10-20",
