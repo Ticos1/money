@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-20T00:33:29+00:00",
- "date": "2026-10-19",
+ "updated_at": "2026-10-20T08:27:35+00:00",
+ "date": "2026-10-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 7,
   "max": 20,
   "enabled": true
  },
@@ -16,29 +16,29 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 587,
-   "days_left": 587,
+   "fresh": 585,
+   "days_left": 585,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 462,
-   "days_left": 462,
+   "fresh": 460,
+   "days_left": 460,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 1109,
-   "days_left": 158,
+   "fresh": 1104,
+   "days_left": 157,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1129,
-   "days_left": 161,
+   "fresh": 1125,
+   "days_left": 160,
    "warn": false
   },
   {
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-19-10-truefalse",
-   "date": "2026-10-19",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-19T21:30",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-20T00:30:28+00:00",
-    "stories": "2026-10-20T00:31:31+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1791973858682181",
-    "stories": "story 17911160058489216"
-   },
-   "title": "O que os homens voltados para o oriente estavam adorando?"
-  },
-  {
-   "id": "2026-10-19-9-quiz",
-   "date": "2026-10-19",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-19T20:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-19T23:05:30+00:00",
-    "instagram": "2026-10-19T23:06:07+00:00",
-    "facebook": "2026-10-19T23:06:11+00:00",
-    "stories": "2026-10-19T23:07:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/4vT-Xx81P5g",
-    "instagram": "https://www.instagram.com/reel/DesZdiUAjqi/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1625804546009501",
-    "stories": "story 17935107996146619"
-   },
-   "title": "De que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?"
-  },
-  {
-   "id": "2026-10-19-8-fill",
-   "date": "2026-10-19",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-19T18:36",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-19T21:40:24+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-19T21:41:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/vOKj4qCf-LI",
-    "stories": "story 18147206908604766"
-   },
-   "title": "Melhor é o homem paciente do que o guerreiro; aquele que controla o seu _____ é melhor do que aquele que conquista uma cidade."
-  },
-  {
-   "id": "2026-10-19-7-quiz",
-   "date": "2026-10-19",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-19T16:57",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-19T20:00:31+00:00",
-    "stories": "2026-10-19T20:01:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1063616883379113",
-    "stories": "story 18027490067702305"
-   },
-   "title": "Quem foi bendita entre as mulheres em Juízes 5?"
-  },
-  {
-   "id": "2026-10-19-6-truefalse",
-   "date": "2026-10-19",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-19T14:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-19T17:55:24+00:00",
-    "instagram": "2026-10-19T17:55:52+00:00",
-    "facebook": "2026-10-19T17:55:56+00:00",
-    "stories": "2026-10-19T17:56:29+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/lOQQUiB_Y6g",
-    "instagram": "https://www.instagram.com/reel/Der1-JbD-K2/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1575500547205996",
-    "stories": "story 18189492646408009"
-   },
-   "title": "Qual era a comida de João Batista no deserto?"
-  },
-  {
-   "id": "2026-10-19-5-curiosity",
-   "date": "2026-10-19",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-19T13:20",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-19T16:20:32+00:00",
-    "stories": "2026-10-19T16:21:31+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/975002561703887",
-    "stories": "story 18113953898132896"
-   },
-   "title": "Jesus, o carpinteiro"
-  },
-  {
-   "id": "2026-10-19-4-quiz",
-   "date": "2026-10-19",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-19T12:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-19T15:10:28+00:00",
-    "instagram": "2026-10-19T15:11:09+00:00",
-    "facebook": "2026-10-19T15:11:15+00:00",
-    "stories": "2026-10-19T15:11:56+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/YuTfkFYDrt0",
-    "instagram": "https://www.instagram.com/reel/DerjGIJCBEs/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1514171760538929",
-    "stories": "story 18134034340708808"
-   },
-   "title": "Onde a flecha lançada ao acaso atingiu o rei de Israel?"
-  },
-  {
-   "id": "2026-10-19-3-truefalse",
-   "date": "2026-10-19",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-19T10:01",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-19T13:01:11+00:00",
-    "stories": "2026-10-19T13:01:44+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1774707833751736",
-    "stories": "story 17914935744470643"
-   },
-   "title": "Depois de quantos anos Paulo subiu novamente a Jerusalém com Barnabé e Tito?"
-  },
-  {
-   "id": "2026-10-19-2-quiz",
-   "date": "2026-10-19",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-19T08:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-19T11:10:26+00:00",
-    "instagram": null,
-    "facebook": "2026-10-19T11:10:31+00:00",
-    "stories": "2026-10-19T11:11:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/UvEAviNSr_I",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1982896815960300",
-    "stories": "story 18637383568043889"
-   },
-   "title": "Em qual terra vivia Jó?"
-  },
-  {
-   "id": "2026-10-19-1-verse",
-   "date": "2026-10-19",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-19T06:29",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-19T09:31:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18144825703588058"
-   },
-   "title": "Isaías 51:11"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
