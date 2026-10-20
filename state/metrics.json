@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-20T16:28:50+00:00",
+ "updated_at": "2026-10-20T18:03:23+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-20-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-20",
+   "time": "15:00",
+   "title": "Segundo a Bíblia, como era Moisés, mais do que todos os homens?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/FJb3V2rB7Bc",
+    "instagram": "https://www.instagram.com/reel/DeubWjugk4O/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1643986824050551"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-20-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-20",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 35,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 98.7
    }
   },
   "2026-10-20-4-quiz": {
@@ -151,7 +186,7 @@
     "watch_time_s": 6.8
    },
    "youtube": {
-    "views": 18,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/vOKj4qCf-LI"
    },
    "youtube": {
-    "views": 22,
+    "views": 26,
     "likes": 0,
     "comments": 0
    }
@@ -213,12 +248,12 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2126,
+    "views": 2136,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9708.7
+    "watch_time_s": 9747.4
    },
    "youtube": {
-    "views": 33,
+    "views": 36,
     "likes": 0,
     "comments": 0
    }
@@ -265,12 +300,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 981,
+    "views": 986,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4262.5
+    "watch_time_s": 4304.7
    },
    "youtube": {
-    "views": 48,
+    "views": 55,
     "likes": 0,
     "comments": 0
    }
@@ -305,12 +340,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 345,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1237.1
+    "views": 350,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1285.4
    },
    "youtube": {
-    "views": 46,
+    "views": 51,
     "likes": 0,
     "comments": 0
    }
@@ -402,9 +437,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1553,
+    "views": 1554,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6902.3
+    "watch_time_s": 6903.3
    }
   },
   "2026-10-18-6-truefalse": {
@@ -437,7 +472,7 @@
     "watch_time_s": 909.3
    },
    "youtube": {
-    "views": 347,
+    "views": 358,
     "likes": 6,
     "comments": 0
    }
@@ -473,13 +508,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 2.8,
-    "watch_time_s": 16.9
+    "avg_watch_s": 2.5,
+    "watch_time_s": 17.5
    },
    "facebook": {
     "likes": 0,
@@ -489,7 +524,7 @@
     "watch_time_s": 1.4
    },
    "youtube": {
-    "views": 67,
+    "views": 68,
     "likes": 0,
     "comments": 0
    }
@@ -552,7 +587,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 140,
+    "views": 143,
     "likes": 2,
     "comments": 0
    }
@@ -1040,7 +1075,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 1.0,
     "watch_time_s": 1.0
    },
@@ -2670,9 +2705,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 480,
+    "views": 481,
     "avg_watch_s": 2.7,
-    "watch_time_s": 1211.9
+    "watch_time_s": 1212.6
    },
    "youtube": {
     "views": 165,
