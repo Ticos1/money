@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-21T15:08:06+00:00",
+ "updated_at": "2026-10-21T16:32:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-21",
+   "time": "13:30",
+   "title": "Cristãos no palácio de César",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1687030579657312"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-21-4-quiz": {
    "type": "quiz",
    "date": "2026-10-21",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 101,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 214.2
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1134323372374158"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 124,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 409.5
+    "views": 189,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 600.9
    }
   },
   "2026-10-21-2-quiz": {
@@ -69,9 +86,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 322,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1113.9
+    "views": 327,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1157.7
    },
    "youtube": {
     "views": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 57,
+    "views": 65,
     "likes": 1,
     "comments": 0
    }
@@ -166,9 +183,9 @@
    "facebook": {
     "likes": 3,
     "comments": 2,
-    "views": 1273,
+    "views": 1275,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5498.0
+    "watch_time_s": 5499.6
    }
   },
   "2026-10-20-6-truefalse": {
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 973,
+    "views": 974,
     "avg_watch_s": 5.3,
-    "watch_time_s": 3954.1
+    "watch_time_s": 3960.1
    },
    "youtube": {
     "views": 46,
@@ -353,7 +370,7 @@
     "watch_time_s": 6.8
    },
    "youtube": {
-    "views": 70,
+    "views": 71,
     "likes": 1,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "watch_time_s": 9852.5
    },
    "youtube": {
-    "views": 59,
+    "views": 60,
     "likes": 0,
     "comments": 0
    }
@@ -604,9 +621,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1560,
+    "views": 1561,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6926.8
+    "watch_time_s": 6936.0
    }
   },
   "2026-10-18-6-truefalse": {
