@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-10-21-7-quiz",
+   "date": "2026-10-21",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-21T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:23:43+00:00",
+   "source": "bank",
+   "bank_id": "q1020",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 22:14",
+    "ref_label": "2 Reis 22:14",
+    "question": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?",
+    "options": [
+     "Débora",
+     "Miriã",
+     "Hulda",
+     "Noadia"
+    ],
+    "answer": 2,
+    "evidence": "foram à profetisa Hulda",
+    "passage": "Então Hilquias, o sacerdote, Aicão, Acbor, Safã e Asaías foram à profetisa Hulda, mulher de Salum, filho de Ticva, filho de Harás, o guarda das vestes (ela morava em Jerusalém, na segunda parte da cidade); e falaram com ela.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #teste #desafio #biblia #palavradedeus #deus #cristao #perguntasbiblicas #gospel #fe",
+    "facebook": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #palavradedeus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus #biblia",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #fe #teste",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-21T19:50:39+00:00",
+    "stories": "2026-10-21T19:51:19+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1844353360317478",
+    "stories": "story 17994427548023254"
+   }
+  },
+  {
    "id": "2026-10-21-6-truefalse",
    "date": "2026-10-21",
    "slot": 6,
