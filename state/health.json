@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T18:14:18+00:00",
+ "updated_at": "2026-10-21T19:52:58+00:00",
  "date": "2026-10-21",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-21-7-quiz",
+   "date": "2026-10-21",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-21T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-21T19:50:39+00:00",
+    "stories": "2026-10-21T19:51:19+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1844353360317478",
+    "stories": "story 17994427548023254"
+   },
+   "title": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?"
+  },
   {
    "id": "2026-10-21-6-truefalse",
    "date": "2026-10-21",
