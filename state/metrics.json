@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-20T23:51:50+00:00",
+ "updated_at": "2026-10-21T00:33:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-20-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-20",
+   "time": "21:30",
+   "title": "Quantas vezes Moisés feriu a rocha com a vara em Meribá?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1083806694464736"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-20-9-quiz": {
    "type": "quiz",
    "date": "2026-10-20",
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 3,
     "comments": 1,
-    "views": 1203,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 4451.0
+    "views": 1234,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 5224.7
    }
   },
   "2026-10-20-6-truefalse": {
@@ -96,13 +113,13 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 933,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 3734.9
+    "views": 940,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 3812.5
    },
    "youtube": {
-    "views": 23,
-    "likes": 1,
+    "views": 20,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -120,7 +137,7 @@
     "comments": 0,
     "views": 258,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1170.8
+    "watch_time_s": 1171.6
    }
   },
   "2026-10-20-4-quiz": {
@@ -153,8 +170,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
-    "likes": 2,
+    "views": 13,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -190,10 +207,10 @@
     "comments": 0,
     "views": 315,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1075.5
+    "watch_time_s": 1076.1
    },
    "youtube": {
-    "views": 10,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -253,7 +270,7 @@
     "watch_time_s": 6.8
    },
    "youtube": {
-    "views": 39,
+    "views": 40,
     "likes": 1,
     "comments": 0
    }
@@ -287,7 +304,7 @@
     "comments": 0,
     "views": 2230,
     "avg_watch_s": 7.3,
-    "watch_time_s": 11005.8
+    "watch_time_s": 11006.6
    }
   },
   "2026-10-19-6-truefalse": {
@@ -320,7 +337,7 @@
     "watch_time_s": 9852.0
    },
    "youtube": {
-    "views": 50,
+    "views": 49,
     "likes": 0,
     "comments": 0
    }
@@ -367,12 +384,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 991,
+    "views": 992,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4311.2
+    "watch_time_s": 4317.2
    },
    "youtube": {
-    "views": 63,
+    "views": 61,
     "likes": 0,
     "comments": 0
    }
@@ -591,7 +608,7 @@
     "watch_time_s": 1.4
    },
    "youtube": {
-    "views": 69,
+    "views": 68,
     "likes": 0,
     "comments": 0
    }
@@ -654,7 +671,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 147,
+    "views": 146,
     "likes": 2,
     "comments": 0
    }
@@ -1302,7 +1319,7 @@
     "comments": 1,
     "views": 316,
     "avg_watch_s": 2.4,
-    "watch_time_s": 698.4
+    "watch_time_s": 699.9
    },
    "youtube": {
     "views": 14,
