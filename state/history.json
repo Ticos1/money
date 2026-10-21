@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-10-21-6-truefalse",
+   "date": "2026-10-21",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-21T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:23:18+00:00",
+   "source": "bank",
+   "bank_id": "q1004",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 25:44",
+    "ref_label": "1 Samuel 25:44",
+    "question": "A quem Saul deu Mical, mulher de Davi?",
+    "shown": "Palti",
+    "is_true": true,
+    "correct": "Palti",
+    "evidence": "a Palti, filho de Laís",
+    "passage": "Ora, Saul havia dado a sua filha Mical, mulher de Davi, a Palti, filho de Laís, que era de Galim.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico #cristao #gospel #evangelico #perguntasbiblicas #jesus #desafiobiblico #fe #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #perguntasbiblicas #gospel",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #fe #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? A quem Saul deu Mical, mulher de Davi? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-21T18:10:32+00:00",
+    "instagram": "2026-10-21T18:11:06+00:00",
+    "facebook": "2026-10-21T18:11:11+00:00",
+    "stories": "2026-10-21T18:12:41+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/uyBxAAJWAQg",
+    "instagram": "https://www.instagram.com/reel/DexBSpsFPCR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107015388793368",
+    "stories": "story 17984550879096384"
+   }
+  },
+  {
    "id": "2026-10-21-5-curiosity",
    "date": "2026-10-21",
    "slot": 5,
