@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-21T16:32:24+00:00",
+ "updated_at": "2026-10-21T18:14:18+00:00",
  "date": "2026-10-21",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-21-6-truefalse",
+   "date": "2026-10-21",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-21T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-21T18:10:32+00:00",
+    "instagram": "2026-10-21T18:11:06+00:00",
+    "facebook": "2026-10-21T18:11:11+00:00",
+    "stories": "2026-10-21T18:12:41+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/uyBxAAJWAQg",
+    "instagram": "https://www.instagram.com/reel/DexBSpsFPCR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107015388793368",
+    "stories": "story 17984550879096384"
+   },
+   "title": "A quem Saul deu Mical, mulher de Davi?"
+  },
   {
    "id": "2026-10-21-5-curiosity",
    "date": "2026-10-21",
