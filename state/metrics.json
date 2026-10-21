@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-21T17:08:37+00:00",
+ "updated_at": "2026-10-21T18:14:15+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-21",
+   "time": "15:00",
+   "title": "A quem Saul deu Mical, mulher de Davi?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/uyBxAAJWAQg",
+    "instagram": "https://www.instagram.com/reel/DexBSpsFPCR/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1107015388793368"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-21-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-21",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 5,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 9.0
+    "views": 104,
+    "avg_watch_s": 2.6,
+    "watch_time_s": 60.0
    }
   },
   "2026-10-21-4-quiz": {
@@ -46,12 +81,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 141,
+    "views": 166,
     "avg_watch_s": 4.9,
-    "watch_time_s": 448.7
+    "watch_time_s": 561.7
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 202,
+    "views": 221,
     "avg_watch_s": 4.3,
-    "watch_time_s": 671.7
+    "watch_time_s": 726.2
    }
   },
   "2026-10-21-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 334,
+    "views": 339,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1198.5
+    "watch_time_s": 1227.6
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -151,7 +186,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 57,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 3,
     "comments": 2,
-    "views": 1275,
+    "views": 1277,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5499.6
+    "watch_time_s": 5510.9
    }
   },
   "2026-10-20-6-truefalse": {
@@ -1510,9 +1545,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 281,
+    "views": 282,
     "avg_watch_s": 2.8,
-    "watch_time_s": 720.1
+    "watch_time_s": 721.2
    },
    "youtube": {
     "views": 28,
