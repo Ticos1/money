@@ -1,3 +1,1000 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-21-10-truefalse",
+   "date": "2026-10-21",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-21T21:39",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:24:51+00:00",
+   "source": "bank",
+   "bank_id": "q1090",
+   "model": null,
+   "content": {
+    "ref": "Jeremias 38:11",
+    "ref_label": "Jeremias 38:11",
+    "question": "O que Ebede-Meleque desceu por cordas para Jeremias na cisterna?",
+    "shown": "Trapos e roupas velhas",
+    "is_true": true,
+    "correct": "Trapos e roupas velhas",
+    "evidence": "trapos e roupas velhas",
+    "passage": "Assim, Ebede-Meleque levou os homens consigo, e foi à casa do rei, debaixo da tesouraria, e pegou dali trapos e roupas velhas, e os desceu por cordas para Jeremias na cisterna.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Ebede-Meleque desceu por cordas para Jeremias na cisterna?\nResposta: Trapos e roupas velhas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #cristao #palavradedeus #fe #conhecimentobiblico #evangelico #jesus #deus #desafiobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Ebede-Meleque desceu por cordas para Jeremias na cisterna?\nResposta: Trapos e roupas velhas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #gospel #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #gospel",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que Ebede-Meleque desceu por cordas para Jeremias na cisterna?\nResposta: Trapos e roupas velhas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Ebede-Meleque desceu por cordas para Jeremias na cisterna?\nResposta: Trapos e roupas velhas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-9-quiz",
+   "date": "2026-10-21",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-21T20:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:24:29+00:00",
+   "source": "bank",
+   "bank_id": "q479",
+   "model": null,
+   "content": {
+    "ref": "Mateus 15:36",
+    "ref_label": "Mateus 15:36",
+    "question": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes?",
+    "options": [
+     "Doze",
+     "Cinco",
+     "Sete",
+     "Três"
+    ],
+    "answer": 2,
+    "evidence": "pegou os sete pães e os peixes",
+    "passage": "e pegou os sete pães e os peixes. Ele deu graças, os partiu e os entregou aos discípulos, e os discípulos às multidões.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #evangelico #fe #gospel #biblia #palavradedeus #perguntasbiblicas #deus #conhecimentobiblico #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #gospel",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #perguntasbiblicas #palavradedeus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #palavradedeus #jesus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-8-fill",
+   "date": "2026-10-21",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-21T18:40",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-21T08:24:06+00:00",
+   "source": "bank",
+   "bank_id": "v102",
+   "model": null,
+   "content": {
+    "ref": "Joel 2:28",
+    "ref_label": "Joel 2:28",
+    "verse_text": "Acontecerá depois disso, que derramarei o meu Espírito sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.",
+    "question": "Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.",
+    "options": [
+     "Descanso",
+     "Conselho",
+     "Reino",
+     "Espírito"
+    ],
+    "answer": 3,
+    "answer_word": "Espírito",
+    "tags": [
+     "espiritosanto",
+     "promessa",
+     "pentecostes"
+    ]
+   },
+   "captions": {
+    "instagram": "Você sabe esse versículo de cor? 📖\n\n“Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.”\n\nA) Descanso\nB) Conselho\nC) Reino\nD) Espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #promessa #pentecostes #completeoversiculo #versiculo #biblia #palavradedeus #deus #jesus #fe #desafiobiblico #gospel",
+    "facebook": "Você sabe esse versículo de cor? 📖\n\n“Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.”\n\nA) Descanso\nB) Conselho\nC) Reino\nD) Espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#espiritosanto #promessa #pentecostes #completeoversiculo",
+    "tiktok": "Você sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#espiritosanto #promessa #pentecostes #completeoversiculo #versiculo",
+    "kwai": "Você sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#espiritosanto #promessa #pentecostes #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.”\n\nA) Descanso\nB) Conselho\nC) Reino\nD) Espírito\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Joel 2:28 📖 Você sabe de cor? #shorts",
+     "description": "Você sabe esse versículo de cor? 📖\n\n“Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões.”\n\nA) Descanso\nB) Conselho\nC) Reino\nD) Espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #espiritosanto #promessa #pentecostes",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "espiritosanto",
+      "promessa",
+      "pentecostes",
+      "joel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-7-quiz",
+   "date": "2026-10-21",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-21T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:23:43+00:00",
+   "source": "bank",
+   "bank_id": "q1020",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 22:14",
+    "ref_label": "2 Reis 22:14",
+    "question": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?",
+    "options": [
+     "Débora",
+     "Miriã",
+     "Hulda",
+     "Noadia"
+    ],
+    "answer": 2,
+    "evidence": "foram à profetisa Hulda",
+    "passage": "Então Hilquias, o sacerdote, Aicão, Acbor, Safã e Asaías foram à profetisa Hulda, mulher de Salum, filho de Ticva, filho de Harás, o guarda das vestes (ela morava em Jerusalém, na segunda parte da cidade); e falaram com ela.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #teste #desafio #biblia #palavradedeus #deus #cristao #perguntasbiblicas #gospel #fe",
+    "facebook": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #palavradedeus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus #biblia",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #fe #teste",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nA qual profetisa os enviados de Josias foram consultar sobre o livro da lei?\n\nA) Débora\nB) Miriã\nC) Hulda\nD) Noadia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-6-truefalse",
+   "date": "2026-10-21",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-21T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:23:18+00:00",
+   "source": "bank",
+   "bank_id": "q1004",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 25:44",
+    "ref_label": "1 Samuel 25:44",
+    "question": "A quem Saul deu Mical, mulher de Davi?",
+    "shown": "Palti",
+    "is_true": true,
+    "correct": "Palti",
+    "evidence": "a Palti, filho de Laís",
+    "passage": "Ora, Saul havia dado a sua filha Mical, mulher de Davi, a Palti, filho de Laís, que era de Galim.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico #cristao #gospel #evangelico #perguntasbiblicas #jesus #desafiobiblico #fe #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #perguntasbiblicas #gospel",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #fe #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? A quem Saul deu Mical, mulher de Davi? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nA quem Saul deu Mical, mulher de Davi?\nResposta: Palti\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-5-curiosity",
+   "date": "2026-10-21",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-21T13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-21T08:22:59+00:00",
+   "source": "bank",
+   "bank_id": "c159",
+   "model": null,
+   "content": {
+    "ref": "Filipenses 4:22",
+    "ref_label": "Filipenses 4:22",
+    "title": "Cristãos no palácio de César",
+    "text": "Paulo manda saudações dos santos \"da casa de César\": o evangelho já tinha chegado até o palácio do imperador!",
+    "evidence": "aqueles que são da casa de César",
+    "passage": "Todos os santos saúdam vocês, especialmente aqueles que são da casa de César.",
+    "tags": [
+     "paulo",
+     "roma"
+    ]
+   },
+   "captions": {
+    "instagram": "Cristãos no palácio de César\n\nPaulo manda saudações dos santos \"da casa de César\": o evangelho já tinha chegado até o palácio do imperador! (Filipenses 4:22)\n\nCuriosidade bíblica: Paulo enviou saudações dos santos \"da casa de César\", mostrando que o evangelho já alcançava o coração do imperador. É impressionante ver como a mensagem de Cristo atravessou fronteiras e chegou até o mais alto poder da época. Compartilhe essa história e inspire mais pessoas a conhecerem o amor que transforma até os lugares mais inesperados.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #roma #vocesabia #curiosidadesbiblicas #palavradedeus #deus #estudobiblico #gospel #jesus #biblia #evangelico #cristao",
+    "facebook": "Cristãos no palácio de César\n\nPaulo manda saudações dos santos \"da casa de César\": o evangelho já tinha chegado até o palácio do imperador! (Filipenses 4:22)\n\nCuriosidade bíblica: Paulo enviou saudações dos santos \"da casa de César\", mostrando que o evangelho já alcançava o coração do imperador. É impressionante ver como a mensagem de Cristo atravessou fronteiras e chegou até o mais alto poder da época. Compartilhe essa história e inspire mais pessoas a conhecerem o amor que transforma até os lugares mais inesperados.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#paulo #roma #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Paulo enviou saudações dos santos \"da casa de César\". O evangelho chegou ao imperador!\n#paulo #roma #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Paulo enviou saudações dos santos \"da casa de César\". O evangelho chegou ao imperador!\n#paulo #roma #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Cristãos no palácio de César\n\nPaulo manda saudações dos santos \"da casa de César\": o evangelho já tinha chegado até o palácio do imperador! (Filipenses 4:22)\n\nCuriosidade bíblica: Paulo enviou saudações dos santos \"da casa de César\", mostrando que o evangelho já alcançava o coração do imperador. É impressionante ver como a mensagem de Cristo atravessou fronteiras e chegou até o mais alto poder da época. Compartilhe essa história e inspire mais pessoas a conhecerem o amor que transforma até os lugares mais inesperados.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Cristãos no palácio de César #shorts",
+     "description": "Cristãos no palácio de César\n\nPaulo manda saudações dos santos \"da casa de César\": o evangelho já tinha chegado até o palácio do imperador! (Filipenses 4:22)\n\nCuriosidade bíblica: Paulo enviou saudações dos santos \"da casa de César\", mostrando que o evangelho já alcançava o coração do imperador. É impressionante ver como a mensagem de Cristo atravessou fronteiras e chegou até o mais alto poder da época. Compartilhe essa história e inspire mais pessoas a conhecerem o amor que transforma até os lugares mais inesperados.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #paulo #roma #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "paulo",
+      "roma",
+      "filipenses"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-4-quiz",
+   "date": "2026-10-21",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-21T12:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:22:35+00:00",
+   "source": "bank",
+   "bank_id": "q390",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 12:7",
+    "ref_label": "2 Samuel 12:7",
+    "question": "Natã disse a Davi: 'Você é esse...'",
+    "options": [
+     "Servo",
+     "Homem",
+     "Profeta",
+     "Pastor"
+    ],
+    "answer": 1,
+    "evidence": "Você é esse homem",
+    "passage": "Natã disse a Davi: “Você é esse homem! Assim diz o SENHOR, o Deus de Israel: 'Eu o ungi rei sobre Israel, e o livrei das mãos de Saul.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nNatã disse a Davi: 'Você é esse...'\n\nA) Servo\nB) Homem\nC) Profeta\nD) Pastor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #biblia #conhecimentobiblico #teste #cristao #jesus #gospel #evangelico #deus #desafio",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nNatã disse a Davi: 'Você é esse...'\n\nA) Servo\nB) Homem\nC) Profeta\nD) Pastor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #jesus #biblia",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #gospel #teste",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nNatã disse a Davi: 'Você é esse...'\n\nA) Servo\nB) Homem\nC) Profeta\nD) Pastor\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Natã disse a Davi: 'Você é esse...' #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nNatã disse a Davi: 'Você é esse...'\n\nA) Servo\nB) Homem\nC) Profeta\nD) Pastor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-3-truefalse",
+   "date": "2026-10-21",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-21T09:56",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:22:14+00:00",
+   "source": "bank",
+   "bank_id": "q1277",
+   "model": null,
+   "content": {
+    "ref": "2 Timóteo 3:16",
+    "ref_label": "2 Timóteo 3:16",
+    "question": "Segundo 2 Timóteo 3:16, a Escritura é soprada por quem?",
+    "shown": "Deus",
+    "is_true": true,
+    "correct": "Deus",
+    "evidence": "soprada por Deus",
+    "passage": "Toda a Escritura é soprada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo 2 Timóteo 3:16, a Escritura é soprada por quem?\nResposta: Deus\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #verdadeirooufalso #quizbiblico #deus #desafiobiblico #conhecimentobiblico #evangelico #cristao #palavradedeus #fe #jesus #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo 2 Timóteo 3:16, a Escritura é soprada por quem?\nResposta: Deus\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #verdadeirooufalso #quizbiblico #jesus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#biblia #verdadeirooufalso #quizbiblico #jesus #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#biblia #verdadeirooufalso #quizbiblico #fe #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nSegundo 2 Timóteo 3:16, a Escritura é soprada por quem?\nResposta: Deus\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo 2 Timóteo 3:16, a Escritura é soprada por quem?\nResposta: Deus\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #biblia #verdadeirooufalso #quizbiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "biblia",
+      "2 timóteo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-2-quiz",
+   "date": "2026-10-21",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-21T07:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:21:54+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Romanos 11:26",
+    "ref_label": "Romanos 11:26",
+    "question": "Qual cidade é citada como origem do Libertador em Romanos 11?",
+    "options": [
+     "Sião",
+     "Jerusalém",
+     "Babilônia",
+     "Edom"
+    ],
+    "answer": 0,
+    "evidence": "Sião",
+    "passage": "e assim todo o Israel será salvo. Como está escrito: “De Sião virá o Libertador, e ele afastará de Jacó a impiedade.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual cidade é citada como origem do Libertador em Romanos 11?\n\nA) Sião\nB) Jerusalém\nC) Babilônia\nD) Edom\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #deus #desafio #evangelico #gospel #fe #biblia #perguntasbiblicas #jesus #conhecimentobiblico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual cidade é citada como origem do Libertador em Romanos 11?\n\nA) Sião\nB) Jerusalém\nC) Babilônia\nD) Edom\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #biblia",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #desafio #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico #deus",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual cidade é citada como origem do Libertador em Romanos 11?\n\nA) Sião\nB) Jerusalém\nC) Babilônia\nD) Edom\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual cidade é citada como origem do Libertador em Romanos 11? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual cidade é citada como origem do Libertador em Romanos 11?\n\nA) Sião\nB) Jerusalém\nC) Babilônia\nD) Edom\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-21-1-verse",
+   "date": "2026-10-21",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-21T06:23",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:21:30+00:00",
+   "source": "bank",
+   "bank_id": "v511",
+   "model": null,
+   "content": {
+    "ref": "Isaías 50:10",
+    "ref_label": "Isaías 50:10",
+    "verse_text": "Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.",
+    "on_screen": "Mesmo no escuro, confie no nome do Senhor.",
+    "reflection": "Isaías fala a quem teme a Deus mas caminha sem enxergar a luz. Quando não entender o que está acontecendo, apoie-se no Senhor: Ele continua fiel no escuro.",
+    "theme": "confiança",
+    "mood": "reflexao",
+    "tags": [
+     "confianca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo #biblia #reflexao #palavradedeus #deus #gospel #evangelico #jesus",
+    "facebook": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia",
+    "tiktok": "Versículo sobre confiar em Deus\nNas trevas, confie no Senhor e sinta Sua luz interior. Salve e compartilhe!\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo",
+    "kwai": "Versículo sobre confiar em Deus\nNas trevas, confie no Senhor e sinta Sua luz interior. Salve e compartilhe!\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo",
+    "whatsapp": "“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre confiar em Deus: Isaías 50:10 🙏 #shorts",
+     "description": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreconfiaremdeus #confianca #fe",
+     "tags": [
+      "versículo sobre confiar em Deus",
+      "versículos sobre confiar em Deus",
+      "confiança",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "confianca",
+      "fe",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.06,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-21/2026-10-21-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
