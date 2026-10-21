@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-21T13:03:06+00:00",
+ "updated_at": "2026-10-21T15:08:08+00:00",
  "date": "2026-10-21",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-21-4-quiz",
+   "date": "2026-10-21",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-21T12:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-21T15:05:26+00:00",
+    "instagram": "2026-10-21T15:05:58+00:00",
+    "facebook": "2026-10-21T15:06:03+00:00",
+    "stories": "2026-10-21T15:06:36+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ikfrGK_O2DE",
+    "instagram": "https://www.instagram.com/reel/DewsHA6gD0Q/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1584599396211509",
+    "stories": "story 18153526378549257"
+   },
+   "title": "Natã disse a Davi: 'Você é esse...'"
+  },
   {
    "id": "2026-10-21-3-truefalse",
    "date": "2026-10-21",
