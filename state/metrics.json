@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-21T21:42:47+00:00",
+ "updated_at": "2026-10-21T23:13:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-21",
+   "time": "20:00",
+   "title": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6-KIL7NEQxU",
+    "instagram": "https://www.instagram.com/reel/DexjnRDFmVJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2362740204552602"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-21-8-fill": {
    "type": "fill",
    "date": "2026-10-21",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1844353360317478"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 371,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1199.1
+    "views": 522,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 2033.4
    }
   },
   "2026-10-21-6-truefalse": {
@@ -61,12 +96,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1121,
+    "views": 1255,
     "avg_watch_s": 5.3,
-    "watch_time_s": 4263.4
+    "watch_time_s": 5026.0
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -81,9 +116,9 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1687030579657312"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 236,
+    "views": 238,
     "avg_watch_s": 2.9,
     "watch_time_s": 633.4
    }
@@ -113,12 +148,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 251,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 940.1
+    "views": 253,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 947.8
    },
    "youtube": {
-    "views": 16,
+    "views": 19,
     "likes": 0,
     "comments": 0
    }
@@ -136,8 +171,8 @@
     "likes": 1,
     "comments": 0,
     "views": 247,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 925.4
+    "avg_watch_s": 4.9,
+    "watch_time_s": 949.7
    }
   },
   "2026-10-21-2-quiz": {
@@ -153,12 +188,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 360,
+    "views": 361,
     "avg_watch_s": 4.8,
     "watch_time_s": 1328.0
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -218,7 +253,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 81,
+    "views": 93,
     "likes": 2,
     "comments": 0
    }
@@ -285,7 +320,7 @@
     "watch_time_s": 3974.5
    },
    "youtube": {
-    "views": 47,
+    "views": 48,
     "likes": 1,
     "comments": 0
    }
@@ -337,7 +372,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 28,
+    "views": 30,
     "likes": 2,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 6.8
    },
    "youtube": {
-    "views": 72,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -499,9 +534,9 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2152,
+    "views": 2153,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9852.5
+    "watch_time_s": 9856.9
    },
    "youtube": {
     "views": 61,
