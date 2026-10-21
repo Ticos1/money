@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-21T11:42:52+00:00",
+ "updated_at": "2026-10-21T13:03:03+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-21",
+   "time": "10:00",
+   "title": "Segundo 2 Timóteo 3:16, a Escritura é soprada por quem?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1134323372374158"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-21-2-quiz": {
    "type": "quiz",
    "date": "2026-10-21",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1783979542825617"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 83,
-    "avg_watch_s": 3.2,
-    "watch_time_s": 128.1
+    "views": 237,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 823.7
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 3.4,
-    "watch_time_s": 30.3
+    "avg_watch_s": 3.5,
+    "watch_time_s": 34.9
    },
    "facebook": {
     "likes": 0,
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 3,
     "comments": 2,
-    "views": 1271,
+    "views": 1272,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5488.3
+    "watch_time_s": 5497.3
    }
   },
   "2026-10-20-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 965,
+    "views": 968,
     "avg_watch_s": 5.3,
-    "watch_time_s": 3911.6
+    "watch_time_s": 3931.2
    },
    "youtube": {
     "views": 44,
@@ -437,9 +454,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 293,
+    "views": 294,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1052.4
+    "watch_time_s": 1055.8
    }
   },
   "2026-10-19-2-quiz": {
@@ -460,7 +477,7 @@
     "watch_time_s": 1285.4
    },
    "youtube": {
-    "views": 60,
+    "views": 61,
     "likes": 0,
     "comments": 0
    }
@@ -552,7 +569,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1558,
+    "views": 1559,
     "avg_watch_s": 5.7,
     "watch_time_s": 6920.1
    }
