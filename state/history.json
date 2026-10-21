@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-21-9-quiz",
+   "date": "2026-10-21",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-21T20:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-21T08:24:29+00:00",
+   "source": "bank",
+   "bank_id": "q479",
+   "model": null,
+   "content": {
+    "ref": "Mateus 15:36",
+    "ref_label": "Mateus 15:36",
+    "question": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes?",
+    "options": [
+     "Doze",
+     "Cinco",
+     "Sete",
+     "Três"
+    ],
+    "answer": 2,
+    "evidence": "pegou os sete pães e os peixes",
+    "passage": "e pegou os sete pães e os peixes. Ele deu graças, os partiu e os entregou aos discípulos, e os discípulos às multidões.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #evangelico #fe #gospel #biblia #palavradedeus #perguntasbiblicas #deus #conhecimentobiblico #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #gospel",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #perguntasbiblicas #palavradedeus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #palavradedeus #jesus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos pães Jesus pegou na segunda multiplicação, além dos peixes?\n\nA) Doze\nB) Cinco\nC) Sete\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-21T23:10:26+00:00",
+    "instagram": "2026-10-21T23:11:02+00:00",
+    "facebook": "2026-10-21T23:11:07+00:00",
+    "stories": "2026-10-21T23:12:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6-KIL7NEQxU",
+    "instagram": "https://www.instagram.com/reel/DexjnRDFmVJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2362740204552602",
+    "stories": "story 17991453396111552"
+   }
+  },
+  {
    "id": "2026-10-21-8-fill",
    "date": "2026-10-21",
    "slot": 8,
