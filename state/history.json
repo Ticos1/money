@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-10-21-1-verse",
+   "date": "2026-10-21",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-21T06:23",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-21T08:21:30+00:00",
+   "source": "bank",
+   "bank_id": "v511",
+   "model": null,
+   "content": {
+    "ref": "Isaías 50:10",
+    "ref_label": "Isaías 50:10",
+    "verse_text": "Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.",
+    "on_screen": "Mesmo no escuro, confie no nome do Senhor.",
+    "reflection": "Isaías fala a quem teme a Deus mas caminha sem enxergar a luz. Quando não entender o que está acontecendo, apoie-se no Senhor: Ele continua fiel no escuro.",
+    "theme": "confiança",
+    "mood": "reflexao",
+    "tags": [
+     "confianca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo #biblia #reflexao #palavradedeus #deus #gospel #evangelico #jesus",
+    "facebook": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia",
+    "tiktok": "Versículo sobre confiar em Deus\nNas trevas, confie no Senhor e sinta Sua luz interior. Salve e compartilhe!\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo",
+    "kwai": "Versículo sobre confiar em Deus\nNas trevas, confie no Senhor e sinta Sua luz interior. Salve e compartilhe!\n#versiculosobreconfiaremdeus #confianca #fe #versiculododia #versiculo",
+    "whatsapp": "“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre confiar em Deus: Isaías 50:10 🙏 #shorts",
+     "description": "Versículo sobre confiar em Deus: Isaías 50:10\n“Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem luz, que ele confie no nome do SENHOR, e se apoie no seu Deus.” (Isaías 50:10)\n\nMesmo quando caminhamos nas trevas e não enxergamos a luz, podemos descansar na fidelidade de Deus. Ele nos convida a confiar no Seu nome e a nos apoiar n'Ele, pois Sua presença ilumina o caminho que não vemos. Salve este post para lembrar que, nos momentos de dúvida, o Senhor permanece firme ao nosso lado.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreconfiaremdeus #confianca #fe",
+     "tags": [
+      "versículo sobre confiar em Deus",
+      "versículos sobre confiar em Deus",
+      "confiança",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "confianca",
+      "fe",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-21T09:26:04+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18211634677366905"
+   }
+  },
+  {
    "id": "2026-10-20-10-truefalse",
    "date": "2026-10-20",
    "slot": 10,
