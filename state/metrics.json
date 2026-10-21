@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-21T18:14:15+00:00",
+ "updated_at": "2026-10-21T19:52:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-21",
+   "time": "17:00",
+   "title": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1844353360317478"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-21-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-21",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 240,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 673.3
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 104,
-    "avg_watch_s": 2.6,
-    "watch_time_s": 60.0
+    "views": 232,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 611.6
    }
   },
   "2026-10-21-4-quiz": {
@@ -81,12 +98,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 166,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 561.7
+    "views": 243,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 882.7
    },
    "youtube": {
-    "views": 5,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 221,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 726.2
+    "views": 244,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 925.4
    }
   },
   "2026-10-21-2-quiz": {
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 339,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1227.6
+    "views": 355,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1296.6
    },
    "youtube": {
     "views": 1,
@@ -186,7 +203,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 73,
+    "views": 78,
     "likes": 1,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/AqkWFW9AbxY"
    },
    "youtube": {
-    "views": 30,
+    "views": 31,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 9852.5
    },
    "youtube": {
-    "views": 60,
+    "views": 61,
     "likes": 0,
     "comments": 0
    }
