@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-21T09:27:16+00:00",
+ "updated_at": "2026-10-21T10:58:43+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-21-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-21",
+   "time": "08:00",
+   "title": "Qual cidade é citada como origem do Libertador em Romanos 11?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/9b_y5lyxFhk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1783979542825617"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-21-1-verse": {
    "type": "verse",
    "date": "2026-10-21",
@@ -93,7 +116,7 @@
     "comments": 2,
     "views": 1270,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5484.9
+    "watch_time_s": 5487.3
    }
   },
   "2026-10-20-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 959,
+    "views": 965,
     "avg_watch_s": 5.3,
-    "watch_time_s": 3887.0
+    "watch_time_s": 3909.9
    },
    "youtube": {
     "views": 44,
@@ -143,9 +166,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
+    "views": 262,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1177.5
+    "watch_time_s": 1180.8
    }
   },
   "2026-10-20-4-quiz": {
@@ -213,9 +236,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 316,
+    "views": 317,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1083.6
+    "watch_time_s": 1084.5
    },
    "youtube": {
     "views": 20,
@@ -1325,9 +1348,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 316,
+    "views": 317,
     "avg_watch_s": 2.4,
-    "watch_time_s": 699.9
+    "watch_time_s": 700.9
    },
    "youtube": {
     "views": 14,
