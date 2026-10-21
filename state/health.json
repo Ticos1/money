@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T15:08:08+00:00",
+ "updated_at": "2026-10-21T16:32:24+00:00",
  "date": "2026-10-21",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-21-5-curiosity",
+   "date": "2026-10-21",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-21T13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-21T16:30:32+00:00",
+    "stories": "2026-10-21T16:31:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1687030579657312",
+    "stories": "story 17913128370542178"
+   },
+   "title": "Cristãos no palácio de César"
+  },
   {
    "id": "2026-10-21-4-quiz",
    "date": "2026-10-21",
