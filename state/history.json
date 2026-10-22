@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-22-4-quiz",
+   "date": "2026-10-22",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-22T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:25:39+00:00",
+   "source": "bank",
+   "bank_id": "q062",
+   "model": null,
+   "content": {
+    "ref": "Lucas 1:26",
+    "ref_label": "Lucas 1:26",
+    "question": "Qual anjo foi enviado por Deus a Nazaré?",
+    "options": [
+     "Miguel",
+     "Gabriel",
+     "Rafael",
+     "Uriel"
+    ],
+    "answer": 1,
+    "evidence": "o anjo Gabriel foi enviado por Deus",
+    "passage": "Ora, no sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #biblia #evangelico #perguntasbiblicas #desafio #conhecimentobiblico #cristao #jesus #fe #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #desafio #deus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual anjo foi enviado por Deus a Nazaré? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T14:55:34+00:00",
+    "instagram": "2026-10-22T14:56:36+00:00",
+    "facebook": "2026-10-22T14:56:49+00:00",
+    "stories": "2026-10-22T14:57:40+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Mc68ohoAkGc",
+    "instagram": "https://www.instagram.com/reel/DezPzIfFDFP/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1431227565775820",
+    "stories": "story 17866694877680632"
+   }
+  },
+  {
    "id": "2026-10-22-3-truefalse",
    "date": "2026-10-22",
    "slot": 3,
