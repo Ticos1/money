@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-22T15:00:23+00:00",
+ "updated_at": "2026-10-22T16:33:02+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-22-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-22",
+   "time": "13:30",
+   "title": "Jesus escreveu no chão",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2174074360150295"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-22-4-quiz": {
    "type": "quiz",
    "date": "2026-10-22",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 39,
+    "avg_watch_s": 6.8,
+    "watch_time_s": 135.1
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 115,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 347.3
+    "views": 176,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 667.5
    }
   },
   "2026-10-22-2-quiz": {
@@ -67,14 +84,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/28727984173539233"
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
-    "views": 312,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 983.4
+    "views": 352,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1247.0
    },
    "youtube": {
-    "views": 14,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 27,
+    "reach": 32,
     "saved": 0,
     "shares": 0,
-    "views": 40,
+    "views": 45,
     "total_interactions": 0,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 143.8
+    "avg_watch_s": 4.8,
+    "watch_time_s": 152.2
    },
    "facebook": {
     "likes": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 20,
+    "views": 23,
     "likes": 2,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/V8ftMUKvn2A"
    },
    "youtube": {
-    "views": 9,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -166,9 +183,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 980,
+    "views": 981,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4301.2
+    "watch_time_s": 4308.9
    }
   },
   "2026-10-21-6-truefalse": {
@@ -437,9 +454,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 264,
+    "views": 265,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1202.3
+    "watch_time_s": 1206.6
    }
   },
   "2026-10-20-4-quiz": {
@@ -567,7 +584,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 6.8,
     "watch_time_s": 6.8
    },
@@ -686,9 +703,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 994,
+    "views": 995,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4319.3
+    "watch_time_s": 4319.7
    },
    "youtube": {
     "views": 65,
