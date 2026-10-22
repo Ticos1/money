@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T09:02:15+00:00",
+ "updated_at": "2026-10-22T09:27:54+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-22-1-verse",
+   "date": "2026-10-22",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-22T06:24",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-22T09:26:18+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18467334247185040"
+   },
+   "title": "João 11:25"
+  }
+ ],
  "specials": {}
 }
