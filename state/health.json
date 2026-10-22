@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-22T00:42:09+00:00",
- "date": "2026-10-21",
+ "updated_at": "2026-10-22T04:37:17+00:00",
+ "date": "2026-10-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 460,
-   "days_left": 460,
+   "fresh": 461,
+   "days_left": 461,
    "warn": false
   },
   {
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-21-10-truefalse",
-   "date": "2026-10-21",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-21T21:39",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-22T00:40:29+00:00",
-    "stories": "2026-10-22T00:41:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/990319680047494",
-    "stories": "story 18108876416462931"
-   },
-   "title": "O que Ebede-Meleque desceu por cordas para Jeremias na cisterna?"
-  },
-  {
-   "id": "2026-10-21-9-quiz",
-   "date": "2026-10-21",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-21T20:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-21T23:10:26+00:00",
-    "instagram": "2026-10-21T23:11:02+00:00",
-    "facebook": "2026-10-21T23:11:07+00:00",
-    "stories": "2026-10-21T23:12:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6-KIL7NEQxU",
-    "instagram": "https://www.instagram.com/reel/DexjnRDFmVJ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2362740204552602",
-    "stories": "story 17991453396111552"
-   },
-   "title": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes?"
-  },
-  {
-   "id": "2026-10-21-8-fill",
-   "date": "2026-10-21",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-21T18:40",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-21T21:40:25+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-21T21:40:59+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/V8ftMUKvn2A",
-    "stories": "story 18147637117541638"
-   },
-   "title": "Acontecerá depois disso, que derramarei o meu _____ sobre toda a carne; e os seus filhos e as suas filhas profetizarão. Os seus velhos sonharão sonhos. Os seus jovens terão visões."
-  },
-  {
-   "id": "2026-10-21-7-quiz",
-   "date": "2026-10-21",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-21T16:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-21T19:50:39+00:00",
-    "stories": "2026-10-21T19:51:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1844353360317478",
-    "stories": "story 17994427548023254"
-   },
-   "title": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?"
-  },
-  {
-   "id": "2026-10-21-6-truefalse",
-   "date": "2026-10-21",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-21T15:09",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-21T18:10:32+00:00",
-    "instagram": "2026-10-21T18:11:06+00:00",
-    "facebook": "2026-10-21T18:11:11+00:00",
-    "stories": "2026-10-21T18:12:41+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/uyBxAAJWAQg",
-    "instagram": "https://www.instagram.com/reel/DexBSpsFPCR/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1107015388793368",
-    "stories": "story 17984550879096384"
-   },
-   "title": "A quem Saul deu Mical, mulher de Davi?"
-  },
-  {
-   "id": "2026-10-21-5-curiosity",
-   "date": "2026-10-21",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-21T13:30",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-21T16:30:32+00:00",
-    "stories": "2026-10-21T16:31:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1687030579657312",
-    "stories": "story 17913128370542178"
-   },
-   "title": "Cristãos no palácio de César"
-  },
-  {
-   "id": "2026-10-21-4-quiz",
-   "date": "2026-10-21",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-21T12:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-21T15:05:26+00:00",
-    "instagram": "2026-10-21T15:05:58+00:00",
-    "facebook": "2026-10-21T15:06:03+00:00",
-    "stories": "2026-10-21T15:06:36+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/ikfrGK_O2DE",
-    "instagram": "https://www.instagram.com/reel/DewsHA6gD0Q/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1584599396211509",
-    "stories": "story 18153526378549257"
-   },
-   "title": "Natã disse a Davi: 'Você é esse...'"
-  },
-  {
-   "id": "2026-10-21-3-truefalse",
-   "date": "2026-10-21",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-21T09:56",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-21T13:00:36+00:00",
-    "stories": "2026-10-21T13:01:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1134323372374158",
-    "stories": "story 18105923966297825"
-   },
-   "title": "Segundo 2 Timóteo 3:16, a Escritura é soprada por quem?"
-  },
-  {
-   "id": "2026-10-21-2-quiz",
-   "date": "2026-10-21",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-21T07:52",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-21T10:55:29+00:00",
-    "instagram": null,
-    "facebook": "2026-10-21T10:55:35+00:00",
-    "stories": "2026-10-21T10:56:44+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/9b_y5lyxFhk",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1783979542825617",
-    "stories": "story 17947192677347917"
-   },
-   "title": "Qual cidade é citada como origem do Libertador em Romanos 11?"
-  },
-  {
-   "id": "2026-10-21-1-verse",
-   "date": "2026-10-21",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-21T06:23",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-21T09:26:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18211634677366905"
-   },
-   "title": "Isaías 50:10"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
