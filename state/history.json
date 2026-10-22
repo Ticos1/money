@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-10-22-6-truefalse",
+   "date": "2026-10-22",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-22T15:03",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:26:33+00:00",
+   "source": "bank",
+   "bank_id": "q1024",
+   "model": null,
+   "content": {
+    "ref": "Rute 4:15",
+    "ref_label": "Rute 4:15",
+    "question": "Segundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?",
+    "shown": "Dez",
+    "is_true": false,
+    "correct": "Sete",
+    "evidence": "lhe é melhor do que sete filhos",
+    "passage": "Ele lhe será um restaurador da vida e a sustentará na sua velhice; pois a sua nora, que a ama, que lhe é melhor do que sete filhos, o deu à luz.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #cristao #jesus #palavradedeus #biblia #gospel #evangelico #fe",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #desafiobiblico #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #biblia #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "rute"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T18:05:28+00:00",
+    "instagram": "2026-10-22T18:06:02+00:00",
+    "facebook": "2026-10-22T18:06:07+00:00",
+    "stories": "2026-10-22T18:06:41+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6LqZNByE9uA",
+    "instagram": "https://www.instagram.com/reel/DezlghiD5J1/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2125134778390522",
+    "stories": "story 18391205764224284"
+   }
+  },
+  {
    "id": "2026-10-22-5-curiosity",
    "date": "2026-10-22",
    "slot": 5,
