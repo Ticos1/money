@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-22T09:02:12+00:00",
+ "updated_at": "2026-10-22T09:27:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-22-1-verse": {
+   "type": "verse",
+   "date": "2026-10-22",
+   "time": "06:30",
+   "title": "João 11:25",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-21-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-21",
@@ -38,7 +46,7 @@
     "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 35,
+    "views": 36,
     "total_interactions": 0,
     "avg_watch_s": 5.2,
     "watch_time_s": 124.4
@@ -188,8 +196,8 @@
     "likes": 1,
     "comments": 0,
     "views": 251,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 952.0
+    "avg_watch_s": 5.0,
+    "watch_time_s": 965.9
    }
   },
   "2026-10-21-2-quiz": {
