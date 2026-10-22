@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T21:27:17+00:00",
+ "updated_at": "2026-10-22T21:33:03+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-8-fill",
+   "date": "2026-10-22",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-22T18:25",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T21:25:27+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-22T21:31:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/LHiIA9KpV4I",
+    "stories": "story 18119037212049395"
+   },
+   "title": "Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus."
+  },
   {
    "id": "2026-10-22-7-quiz",
    "date": "2026-10-22",
