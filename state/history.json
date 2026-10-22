@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-10-22-7-quiz",
+   "date": "2026-10-22",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-22T17:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:27:03+00:00",
+   "source": "bank",
+   "bank_id": "q878",
+   "model": null,
+   "content": {
+    "ref": "João 20:25",
+    "ref_label": "João 20:25",
+    "question": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?",
+    "options": [
+     "Um anel",
+     "Sangue fresco",
+     "A marca dos cravos",
+     "Uma luz"
+    ],
+    "answer": 2,
+    "evidence": "a marca dos cravos",
+    "passage": "Os outros discípulos, portanto, lhe disseram: “Vimos o Senhor!” Mas ele lhes disse: “A menos que eu veja nas suas mãos a marca dos cravos, e coloque o meu dedo na marca dos cravos, e coloque a minha mão no seu lado, de forma alguma crerei.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste #palavradedeus #evangelico #cristao #deus #jesus #biblia #perguntasbiblicas #desafio",
+    "facebook": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus #biblia",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #perguntasbiblicas",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "O que Tomé disse que precisava ver nas mãos de Jesus para crer? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-22T20:05:47+00:00",
+    "stories": "2026-10-22T20:06:23+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306",
+    "stories": "story 18077323280464928"
+   }
+  },
+  {
    "id": "2026-10-22-6-truefalse",
    "date": "2026-10-22",
    "slot": 6,
