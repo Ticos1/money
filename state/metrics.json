@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-22T21:33:00+00:00",
+ "updated_at": "2026-10-22T23:14:42+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-22-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-22",
+   "time": "20:00",
+   "title": "Como o diabo anda ao redor, segundo 1 Pedro?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/tdovl9Gr7TY",
+    "instagram": "https://www.instagram.com/reel/De0IarciNdf/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2910620789311369"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-22-8-fill": {
    "type": "fill",
    "date": "2026-10-22",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 200,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 580.7
+    "views": 840,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 2427.6
    }
   },
   "2026-10-22-6-truefalse": {
@@ -59,14 +94,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 3,
+    "likes": 5,
     "comments": 0,
-    "views": 847,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 2645.9
+    "views": 1344,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5678.8
    },
    "youtube": {
-    "views": 50,
+    "views": 66,
     "likes": 0,
     "comments": 0
    }
@@ -111,14 +146,14 @@
     "watch_time_s": 0.8
    },
    "facebook": {
-    "likes": 8,
+    "likes": 10,
     "comments": 2,
-    "views": 854,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 3324.8
+    "views": 1031,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 3878.6
    },
    "youtube": {
-    "views": 20,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 260,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 1081.6
+    "views": 263,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1098.6
    }
   },
   "2026-10-22-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 367,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1346.2
+    "views": 373,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1370.8
    },
    "youtube": {
     "views": 21,
@@ -233,7 +268,7 @@
     "youtube": "https://youtube.com/shorts/V8ftMUKvn2A"
    },
    "youtube": {
-    "views": 15,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -285,7 +320,7 @@
     "watch_time_s": 5396.0
    },
    "youtube": {
-    "views": 17,
+    "views": 18,
     "likes": 1,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 101,
+    "views": 102,
     "likes": 2,
     "comments": 0
    }
@@ -770,9 +805,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 996,
+    "views": 997,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4319.8
+    "watch_time_s": 4320.1
    },
    "youtube": {
     "views": 66,
@@ -1703,9 +1738,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 317,
+    "views": 318,
     "avg_watch_s": 2.4,
-    "watch_time_s": 700.9
+    "watch_time_s": 701.8
    },
    "youtube": {
     "views": 14,
@@ -2473,9 +2508,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 204,
+    "views": 205,
     "avg_watch_s": 2.4,
-    "watch_time_s": 467.0
+    "watch_time_s": 468.3
    },
    "youtube": {
     "views": 15,
