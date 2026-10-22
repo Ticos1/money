@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T18:09:07+00:00",
+ "updated_at": "2026-10-22T20:09:16+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-7-quiz",
+   "date": "2026-10-22",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-22T17:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-22T20:05:47+00:00",
+    "stories": "2026-10-22T20:06:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306",
+    "stories": "story 18077323280464928"
+   },
+   "title": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?"
+  },
   {
    "id": "2026-10-22-6-truefalse",
    "date": "2026-10-22",
