@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-22T09:27:54+00:00",
+ "updated_at": "2026-10-22T11:07:55+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-2-quiz",
+   "date": "2026-10-22",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-22T08:04",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T11:05:30+00:00",
+    "instagram": null,
+    "facebook": "2026-10-22T11:05:36+00:00",
+    "stories": "2026-10-22T11:06:09+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/0LrsFjRo6SA",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28727984173539233",
+    "stories": "story 17968178796076824"
+   },
+   "title": "Qual expressão Isaías 65:17 usa para descrever a criação divina?"
+  },
   {
    "id": "2026-10-22-1-verse",
    "date": "2026-10-22",
