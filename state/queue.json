@@ -1,3 +1,1001 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-22-10-truefalse",
+   "date": "2026-10-22",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-22T21:29",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:28:26+00:00",
+   "source": "bank",
+   "bank_id": "q537",
+   "model": null,
+   "content": {
+    "ref": "João 9:1",
+    "ref_label": "João 9:1",
+    "question": "Que tipo de pessoa Jesus viu ao passar?",
+    "shown": "Um homem cego de nascença",
+    "is_true": true,
+    "correct": "Um homem cego de nascença",
+    "evidence": "um homem cego de nascença",
+    "passage": "Ao passar, ele viu um homem cego de nascença.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus #biblia #palavradedeus #fe #conhecimentobiblico #gospel #desafiobiblico #perguntasbiblicas #evangelico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que tipo de pessoa Jesus viu ao passar? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-9-quiz",
+   "date": "2026-10-22",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-22T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:28:02+00:00",
+   "source": "bank",
+   "bank_id": "q602",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 5:8",
+    "ref_label": "1 Pedro 5:8",
+    "question": "Como o diabo anda ao redor, segundo 1 Pedro?",
+    "options": [
+     "Como um leão que ruge",
+     "Como um ladrão",
+     "Como uma serpente",
+     "Como um lobo"
+    ],
+    "answer": 0,
+    "evidence": "como um leão que ruge",
+    "passage": "Sejam sóbrios e tenham domínio próprio. Sejam vigilantes. O seu adversário, o diabo, anda ao redor como um leão que ruge, buscando a quem possa devorar.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nComo o diabo anda ao redor, segundo 1 Pedro?\n\nA) Como um leão que ruge\nB) Como um ladrão\nC) Como uma serpente\nD) Como um lobo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #gospel #evangelico #palavradedeus #cristao #fe #conhecimentobiblico #perguntasbiblicas #jesus #deus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nComo o diabo anda ao redor, segundo 1 Pedro?\n\nA) Como um leão que ruge\nB) Como um ladrão\nC) Como uma serpente\nD) Como um lobo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #evangelico",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #deus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #gospel #deus",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nComo o diabo anda ao redor, segundo 1 Pedro?\n\nA) Como um leão que ruge\nB) Como um ladrão\nC) Como uma serpente\nD) Como um lobo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Como o diabo anda ao redor, segundo 1 Pedro? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nComo o diabo anda ao redor, segundo 1 Pedro?\n\nA) Como um leão que ruge\nB) Como um ladrão\nC) Como uma serpente\nD) Como um lobo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-8-fill",
+   "date": "2026-10-22",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-22T18:25",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-22T08:27:32+00:00",
+   "source": "bank",
+   "bank_id": "v551",
+   "model": null,
+   "content": {
+    "ref": "Romanos 5:2",
+    "ref_label": "Romanos 5:2",
+    "verse_text": "Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na esperança da glória de Deus.",
+    "question": "Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus.",
+    "options": [
+     "alma",
+     "força",
+     "alegria",
+     "esperança"
+    ],
+    "answer": 3,
+    "answer_word": "esperança",
+    "tags": [
+     "graca",
+     "esperanca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre graça: Romanos 5:2\nQual palavra falta nesse versículo? 📖\n\n“Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus.”\n\nA) alma\nB) força\nC) alegria\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobregraca #graca #esperanca #completeoversiculo #versiculo #deus #evangelico #fe #biblia #quizbiblico #desafiobiblico #palavradedeus",
+    "facebook": "Versículo sobre graça: Romanos 5:2\nQual palavra falta nesse versículo? 📖\n\n“Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus.”\n\nA) alma\nB) força\nC) alegria\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobregraca #graca #esperanca #completeoversiculo",
+    "tiktok": "Versículo sobre graça\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobregraca #graca #esperanca #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre graça\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobregraca #graca #esperanca #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus.”\n\nA) alma\nB) força\nC) alegria\nD) esperança\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre graça: Romanos 5:2 📖 #shorts",
+     "description": "Versículo sobre graça: Romanos 5:2\nQual palavra falta nesse versículo? 📖\n\n“Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus.”\n\nA) alma\nB) força\nC) alegria\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobregraca #graca #esperanca",
+     "tags": [
+      "versículo sobre graça",
+      "versículos sobre graça",
+      "graça",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "graca",
+      "esperanca",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-7-quiz",
+   "date": "2026-10-22",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-22T17:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:27:03+00:00",
+   "source": "bank",
+   "bank_id": "q878",
+   "model": null,
+   "content": {
+    "ref": "João 20:25",
+    "ref_label": "João 20:25",
+    "question": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?",
+    "options": [
+     "Um anel",
+     "Sangue fresco",
+     "A marca dos cravos",
+     "Uma luz"
+    ],
+    "answer": 2,
+    "evidence": "a marca dos cravos",
+    "passage": "Os outros discípulos, portanto, lhe disseram: “Vimos o Senhor!” Mas ele lhes disse: “A menos que eu veja nas suas mãos a marca dos cravos, e coloque o meu dedo na marca dos cravos, e coloque a minha mão no seu lado, de forma alguma crerei.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste #palavradedeus #evangelico #cristao #deus #jesus #biblia #perguntasbiblicas #desafio",
+    "facebook": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus #biblia",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #perguntasbiblicas",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "O que Tomé disse que precisava ver nas mãos de Jesus para crer? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nO que Tomé disse que precisava ver nas mãos de Jesus para crer?\n\nA) Um anel\nB) Sangue fresco\nC) A marca dos cravos\nD) Uma luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-6-truefalse",
+   "date": "2026-10-22",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-22T15:03",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:26:33+00:00",
+   "source": "bank",
+   "bank_id": "q1024",
+   "model": null,
+   "content": {
+    "ref": "Rute 4:15",
+    "ref_label": "Rute 4:15",
+    "question": "Segundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?",
+    "shown": "Dez",
+    "is_true": false,
+    "correct": "Sete",
+    "evidence": "lhe é melhor do que sete filhos",
+    "passage": "Ele lhe será um restaurador da vida e a sustentará na sua velhice; pois a sua nora, que a ama, que lhe é melhor do que sete filhos, o deu à luz.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #cristao #jesus #palavradedeus #biblia #gospel #evangelico #fe",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #desafiobiblico #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #biblia #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?\nResposta: Dez\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "rute"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-5-curiosity",
+   "date": "2026-10-22",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-22T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-22T08:26:07+00:00",
+   "source": "bank",
+   "bank_id": "c047",
+   "model": null,
+   "content": {
+    "ref": "João 8:6",
+    "ref_label": "João 8:6",
+    "title": "Jesus escreveu no chão",
+    "text": "Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo.",
+    "evidence": "escrevia na terra com o dedo",
+    "passage": "Eles disseram isso para testá-lo, para que tivessem do que o acusar. Mas Jesus inclinou-se e escrevia na terra com o dedo.",
+    "tags": [
+     "jesus",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #graca #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #historiabiblica #cristao #gospel #fe #evangelico #palavradedeus",
+    "facebook": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #graca #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus escreveu no chão ao lidar com a mulher adúltera. Um gesto cheio de amor e sabedoria. Compartilhe!\n#jesus #graca #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Jesus escreveu no chão ao lidar com a mulher adúltera. Um gesto cheio de amor e sabedoria. Compartilhe!\n#jesus #graca #vocesabia #curiosidadesbiblicas #evangelico",
+    "whatsapp": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus escreveu no chão #shorts",
+     "description": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #graca #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "graca",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.0,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-4-quiz",
+   "date": "2026-10-22",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-22T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:25:39+00:00",
+   "source": "bank",
+   "bank_id": "q062",
+   "model": null,
+   "content": {
+    "ref": "Lucas 1:26",
+    "ref_label": "Lucas 1:26",
+    "question": "Qual anjo foi enviado por Deus a Nazaré?",
+    "options": [
+     "Miguel",
+     "Gabriel",
+     "Rafael",
+     "Uriel"
+    ],
+    "answer": 1,
+    "evidence": "o anjo Gabriel foi enviado por Deus",
+    "passage": "Ora, no sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #biblia #evangelico #perguntasbiblicas #desafio #conhecimentobiblico #cristao #jesus #fe #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #desafio #deus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual anjo foi enviado por Deus a Nazaré? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual anjo foi enviado por Deus a Nazaré?\n\nA) Miguel\nB) Gabriel\nC) Rafael\nD) Uriel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-3-truefalse",
+   "date": "2026-10-22",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-22T10:05",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:25:14+00:00",
+   "source": "bank",
+   "bank_id": "q405",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 4:2",
+    "ref_label": "2 Reis 4:2",
+    "question": "O que a viúva disse a Eliseu que tinha em casa?",
+    "shown": "Uma botija de azeite",
+    "is_true": true,
+    "correct": "Uma botija de azeite",
+    "evidence": "exceto uma botija de azeite",
+    "passage": "Eliseu lhe disse: “O que devo fazer por você? Diga-me, o que você tem em casa?” Ela disse: “Sua serva não tem nada em casa, exceto uma botija de azeite.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a viúva disse a Eliseu que tinha em casa?\nResposta: Uma botija de azeite\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus #perguntasbiblicas #gospel #biblia #desafiobiblico #palavradedeus #jesus #fe #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a viúva disse a Eliseu que tinha em casa?\nResposta: Uma botija de azeite\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #cristao #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #deus #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que a viúva disse a Eliseu que tinha em casa?\nResposta: Uma botija de azeite\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que a viúva disse a Eliseu que tinha em casa? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a viúva disse a Eliseu que tinha em casa?\nResposta: Uma botija de azeite\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-2-quiz",
+   "date": "2026-10-22",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-22T08:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-22T08:24:49+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Isaías 65:17",
+    "ref_label": "Isaías 65:17",
+    "question": "Qual expressão Isaías 65:17 usa para descrever a criação divina?",
+    "options": [
+     "novos céus",
+     "velho monte",
+     "grande mar",
+     "pura luz"
+    ],
+    "answer": 0,
+    "evidence": "novos céus",
+    "passage": "“Pois, eis que crio novos céus e nova terra; e as coisas passadas não serão lembradas, nem virão à mente.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual expressão Isaías 65:17 usa para descrever a criação divina?\n\nA) novos céus\nB) velho monte\nC) grande mar\nD) pura luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #biblia #fe #palavradedeus #deus #conhecimentobiblico #jesus #gospel #desafio #perguntasbiblicas",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual expressão Isaías 65:17 usa para descrever a criação divina?\n\nA) novos céus\nB) velho monte\nC) grande mar\nD) pura luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #biblia #jesus",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #conhecimentobiblico #gospel",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual expressão Isaías 65:17 usa para descrever a criação divina?\n\nA) novos céus\nB) velho monte\nC) grande mar\nD) pura luz\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual expressão Isaías 65:17 usa para descrever a criação divina? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual expressão Isaías 65:17 usa para descrever a criação divina?\n\nA) novos céus\nB) velho monte\nC) grande mar\nD) pura luz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-22-1-verse",
+   "date": "2026-10-22",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-22T06:24",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:24:19+00:00",
+   "source": "bank",
+   "bank_id": "v082",
+   "model": null,
+   "content": {
+    "ref": "João 11:25",
+    "ref_label": "João 11:25",
+    "verse_text": "Jesus lhe disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.",
+    "on_screen": "Jesus é a ressurreição e a vida.",
+    "reflection": "Jesus disse isso a Marta pouco antes de ressuscitar Lázaro. Nele, a morte não tem a palavra final.",
+    "theme": "ressurreição",
+    "mood": "alegria",
+    "tags": [
+     "ressurreicao",
+     "vida",
+     "pascoa"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a ressurreição: João 11:25\n“Jesus lhe disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.” (João 11:25)\n\nJesus nos lembra que Ele é a ressurreição e a vida. Mesmo quando enfrentamos perdas, há esperança viva que supera a morte. Confie nEle, entregue suas dores e descubra a paz que vem da certeza de que a vida continua em Cristo. Salve este post para lembrar que a esperança nunca morre.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrearessurreicao #ressurreicao #vida #pascoa #versiculododia #versiculo #biblia #reflexao #jesus #deus #esperanca #fe",
+    "facebook": "Versículo sobre a ressurreição: João 11:25\n“Jesus lhe disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.” (João 11:25)\n\nJesus nos lembra que Ele é a ressurreição e a vida. Mesmo quando enfrentamos perdas, há esperança viva que supera a morte. Confie nEle, entregue suas dores e descubra a paz que vem da certeza de que a vida continua em Cristo. Salve este post para lembrar que a esperança nunca morre.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrearessurreicao #ressurreicao #vida #pascoa",
+    "tiktok": "Versículo sobre a ressurreição\nJesus é a ressurreição e a vida; a morte não tem a palavra final. 🙏\n#versiculosobrearessurreicao #ressurreicao #vida #pascoa #versiculododia",
+    "kwai": "Versículo sobre a ressurreição\nJesus é a ressurreição e a vida; a morte não tem a palavra final. 🙏\n#versiculosobrearessurreicao #ressurreicao #vida #pascoa #versiculododia",
+    "whatsapp": "“Jesus lhe disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.” (João 11:25)\n\nJesus nos lembra que Ele é a ressurreição e a vida. Mesmo quando enfrentamos perdas, há esperança viva que supera a morte. Confie nEle, entregue suas dores e descubra a paz que vem da certeza de que a vida continua em Cristo. Salve este post para lembrar que a esperança nunca morre.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre a ressurreição: João 11:25 🙏 #shorts",
+     "description": "Versículo sobre a ressurreição: João 11:25\n“Jesus lhe disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.” (João 11:25)\n\nJesus nos lembra que Ele é a ressurreição e a vida. Mesmo quando enfrentamos perdas, há esperança viva que supera a morte. Confie nEle, entregue suas dores e descubra a paz que vem da certeza de que a vida continua em Cristo. Salve este post para lembrar que a esperança nunca morre.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobrearessurreicao #ressurreicao #vida",
+     "tags": [
+      "versículo sobre a ressurreição",
+      "versículos sobre a ressurreição",
+      "ressurreição",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ressurreicao",
+      "vida",
+      "pascoa",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.72,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-22/2026-10-22-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
