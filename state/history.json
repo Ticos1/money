@@ -1,6 +1,96 @@
 {
  "posts": [
   {
+   "id": "2026-10-22-5-curiosity",
+   "date": "2026-10-22",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-22T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-22T08:26:07+00:00",
+   "source": "bank",
+   "bank_id": "c047",
+   "model": null,
+   "content": {
+    "ref": "João 8:6",
+    "ref_label": "João 8:6",
+    "title": "Jesus escreveu no chão",
+    "text": "Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo.",
+    "evidence": "escrevia na terra com o dedo",
+    "passage": "Eles disseram isso para testá-lo, para que tivessem do que o acusar. Mas Jesus inclinou-se e escrevia na terra com o dedo.",
+    "tags": [
+     "jesus",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #graca #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #historiabiblica #cristao #gospel #fe #evangelico #palavradedeus",
+    "facebook": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #graca #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus escreveu no chão ao lidar com a mulher adúltera. Um gesto cheio de amor e sabedoria. Compartilhe!\n#jesus #graca #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Jesus escreveu no chão ao lidar com a mulher adúltera. Um gesto cheio de amor e sabedoria. Compartilhe!\n#jesus #graca #vocesabia #curiosidadesbiblicas #evangelico",
+    "whatsapp": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus escreveu no chão #shorts",
+     "description": "Jesus escreveu no chão\n\nQuando trouxeram a mulher pega em adultério, Jesus se inclinou e escrevia na terra com o dedo. (João 8:6)\n\nCuriosidade bíblica: Quando trouxeram a mulher pega em adultério, Jesus se inclinou e escreveu na terra com o dedo (João 8:6). Esse gesto silencioso revela a profundidade de sua sabedoria e compaixão. Reflita sobre o poder do silêncio e da ação cuidadosa de Cristo. Salve este post para lembrar que, às vezes, a resposta vem em um simples gesto.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #graca #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "graca",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-22T16:30:40+00:00",
+    "stories": "2026-10-22T16:31:16+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2174074360150295",
+    "stories": "story 17953985754320658"
+   }
+  },
+  {
    "id": "2026-10-22-4-quiz",
    "date": "2026-10-22",
    "slot": 4,
