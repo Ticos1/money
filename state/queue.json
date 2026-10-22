@@ -290,14 +290,23 @@
    "published": {
     "tiktok": null,
     "kwai": null,
-    "youtube": null,
+    "youtube": "2026-10-22T21:25:27+00:00",
     "instagram": null,
     "facebook": null,
     "stories": null,
     "whatsapp": null
    },
    "log": [],
-   "error": null
+   "error": null,
+   "publish_errors": {
+    "stories": {
+     "message": "Instagram recusou a mídia: Error: Media upload has failed with error code 2207085",
+     "attempts": 1
+    }
+   },
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
+   }
   }
  ]
 }
