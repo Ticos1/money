@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T11:07:52+00:00",
+ "updated_at": "2026-10-22T11:46:02+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,7 +17,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 26,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
@@ -114,9 +114,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 970,
+    "views": 974,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4268.2
+    "watch_time_s": 4273.7
    }
   },
   "2026-10-21-6-truefalse": {
