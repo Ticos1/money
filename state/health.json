@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-22T21:33:03+00:00",
+ "updated_at": "2026-10-22T23:14:45+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-9-quiz",
+   "date": "2026-10-22",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-22T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T23:10:28+00:00",
+    "instagram": "2026-10-22T23:10:57+00:00",
+    "facebook": "2026-10-22T23:11:02+00:00",
+    "stories": "2026-10-22T23:11:46+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/tdovl9Gr7TY",
+    "instagram": "https://www.instagram.com/reel/De0IarciNdf/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2910620789311369",
+    "stories": "story 18147841261491219"
+   },
+   "title": "Como o diabo anda ao redor, segundo 1 Pedro?"
+  },
   {
    "id": "2026-10-22-8-fill",
    "date": "2026-10-22",
