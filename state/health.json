@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-22T16:33:06+00:00",
+ "updated_at": "2026-10-22T18:09:07+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-6-truefalse",
+   "date": "2026-10-22",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-22T15:03",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-22T18:05:28+00:00",
+    "instagram": "2026-10-22T18:06:02+00:00",
+    "facebook": "2026-10-22T18:06:07+00:00",
+    "stories": "2026-10-22T18:06:41+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6LqZNByE9uA",
+    "instagram": "https://www.instagram.com/reel/DezlghiD5J1/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2125134778390522",
+    "stories": "story 18391205764224284"
+   },
+   "title": "Segundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?"
+  },
   {
    "id": "2026-10-22-5-curiosity",
    "date": "2026-10-22",
