@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T16:33:02+00:00",
+ "updated_at": "2026-10-22T17:07:36+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -16,9 +16,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 53,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 1.9
    }
   },
   "2026-10-22-4-quiz": {
@@ -44,15 +44,15 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 2,
-    "comments": 0,
-    "views": 39,
-    "avg_watch_s": 6.8,
-    "watch_time_s": 135.1
+    "likes": 4,
+    "comments": 1,
+    "views": 98,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 221.6
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 3,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -68,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 176,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 667.5
+    "views": 181,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 709.1
    }
   },
   "2026-10-22-2-quiz": {
@@ -86,12 +86,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 352,
+    "views": 356,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1247.0
+    "watch_time_s": 1251.7
    },
    "youtube": {
-    "views": 12,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -166,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/V8ftMUKvn2A"
    },
    "youtube": {
-    "views": 12,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -218,7 +218,7 @@
     "watch_time_s": 5394.4
    },
    "youtube": {
-    "views": 13,
+    "views": 14,
     "likes": 1,
     "comments": 0
    }
@@ -585,8 +585,8 @@
     "likes": 0,
     "comments": 0,
     "views": 2,
-    "avg_watch_s": 6.8,
-    "watch_time_s": 6.8
+    "avg_watch_s": 3.4,
+    "watch_time_s": 6.9
    },
    "youtube": {
     "views": 73,
@@ -1245,7 +1245,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 1,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
