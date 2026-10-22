@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-22T18:09:03+00:00",
+ "updated_at": "2026-10-22T20:09:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-22-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-22",
+   "time": "17:00",
+   "title": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-22-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-22",
@@ -27,14 +44,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 278,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 899.7
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 212,
+    "views": 231,
     "avg_watch_s": 2.7,
-    "watch_time_s": 252.2
+    "watch_time_s": 576.9
    }
   },
   "2026-10-22-4-quiz": {
@@ -70,23 +87,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 0.8
    },
    "facebook": {
-    "likes": 4,
-    "comments": 1,
-    "views": 264,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 804.9
+    "likes": 7,
+    "comments": 2,
+    "views": 728,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 2597.5
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 204,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 784.0
+    "views": 257,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1019.3
    }
   },
   "2026-10-22-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 356,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1272.3
+    "views": 364,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1333.7
    },
    "youtube": {
-    "views": 12,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 23,
+    "views": 27,
     "likes": 2,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/V8ftMUKvn2A"
    },
    "youtube": {
-    "views": 12,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1274,
+    "views": 1275,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5394.4
+    "watch_time_s": 5396.0
    },
    "youtube": {
-    "views": 13,
+    "views": 17,
     "likes": 1,
     "comments": 0
    }
@@ -305,7 +322,7 @@
     "watch_time_s": 947.8
    },
    "youtube": {
-    "views": 29,
+    "views": 34,
     "likes": 1,
     "comments": 0
    }
@@ -405,7 +422,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 98,
+    "views": 99,
     "likes": 2,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "youtube": "https://youtube.com/shorts/AqkWFW9AbxY"
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 3974.5
    },
    "youtube": {
-    "views": 51,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -957,9 +974,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.7,
-    "watch_time_s": 1.4
+    "views": 3,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 2.8
    },
    "youtube": {
     "views": 69,
