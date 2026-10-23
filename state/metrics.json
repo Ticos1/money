@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-23T14:59:16+00:00",
+ "updated_at": "2026-10-23T16:28:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-23",
+   "time": "13:30",
+   "title": "Um rio que dá vida ao mar morto",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1755155282239171"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-23-4-quiz": {
    "type": "quiz",
    "date": "2026-10-23",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 263,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 558.3
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
-    "avg_watch_s": 6.7,
-    "watch_time_s": 1278.9
+    "views": 343,
+    "avg_watch_s": 6.6,
+    "watch_time_s": 1491.6
    }
   },
   "2026-10-23-2-quiz": {
@@ -69,13 +86,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 421,
+    "views": 435,
     "avg_watch_s": 7.0,
-    "watch_time_s": 2053.5
+    "watch_time_s": 2136.3
    },
    "youtube": {
-    "views": 6,
-    "likes": 1,
+    "views": 4,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 33,
     "saved": 0,
     "shares": 0,
-    "views": 40,
+    "views": 41,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 136.4
+    "avg_watch_s": 4.1,
+    "watch_time_s": 136.7
    },
    "facebook": {
     "likes": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 9,
+    "views": 11,
     "likes": 2,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
    },
    "youtube": {
-    "views": 21,
+    "views": 26,
     "likes": 2,
     "comments": 0
    }
@@ -166,7 +183,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1260,
+    "views": 1261,
     "avg_watch_s": 5.1,
     "watch_time_s": 5001.1
    }
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1425,
+    "views": 1428,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6126.0
+    "watch_time_s": 6139.2
    },
    "youtube": {
     "views": 106,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 235,
+    "views": 236,
     "avg_watch_s": 2.8,
-    "watch_time_s": 611.4
+    "watch_time_s": 612.2
    }
   },
   "2026-10-22-4-quiz": {
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 11,
     "comments": 3,
-    "views": 1157,
+    "views": 1158,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4721.1
+    "watch_time_s": 4721.6
    },
    "youtube": {
     "views": 86,
@@ -288,7 +305,7 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 378,
+    "views": 380,
     "avg_watch_s": 4.6,
     "watch_time_s": 1397.6
    },
@@ -512,7 +529,7 @@
     "watch_time_s": 1334.2
    },
    "youtube": {
-    "views": 13,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -1302,7 +1319,7 @@
     "comments": 0,
     "views": 280,
     "avg_watch_s": 3.6,
-    "watch_time_s": 905.8
+    "watch_time_s": 906.7
    },
    "youtube": {
     "views": 31,
