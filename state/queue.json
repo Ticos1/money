@@ -1,3 +1,999 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-23-10-truefalse",
+   "date": "2026-10-23",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-23T21:31",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:24:52+00:00",
+   "source": "bank",
+   "bank_id": "q962",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 25:9",
+    "ref_label": "Gênesis 25:9",
+    "question": "Em que caverna Isaque e Ismael sepultaram Abraão?",
+    "shown": "Macpela",
+    "is_true": true,
+    "correct": "Macpela",
+    "evidence": "o sepultaram na caverna de Macpela",
+    "passage": "Isaque e Ismael, seus filhos, o sepultaram na caverna de Macpela, no campo de Efrom, filho de Zoar, o heteu, que fica perto de Manre,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #deus #perguntasbiblicas #cristao #jesus #desafiobiblico #conhecimentobiblico #evangelico #fe #biblia",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #jesus",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #deus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #deus #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Em que caverna Isaque e Ismael sepultaram Abraão? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-9-quiz",
+   "date": "2026-10-23",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-23T20:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:24:31+00:00",
+   "source": "bank",
+   "bank_id": "q1204",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 21:15",
+    "ref_label": "Apocalipse 21:15",
+    "question": "De que material era a cana usada para medir a cidade santa, suas portas e muralha?",
+    "options": [
+     "Ouro",
+     "Bronze",
+     "Prata",
+     "Cedro"
+    ],
+    "answer": 0,
+    "evidence": "uma cana de ouro",
+    "passage": "Aquele que falava comigo tinha uma cana de ouro para medir a cidade, as suas portas e a sua muralha.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nDe que material era a cana usada para medir a cidade santa, suas portas e muralha?\n\nA) Ouro\nB) Bronze\nC) Prata\nD) Cedro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #deus #biblia #conhecimentobiblico #fe #teste #cristao #evangelico #jesus #perguntasbiblicas",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nDe que material era a cana usada para medir a cidade santa, suas portas e muralha?\n\nA) Ouro\nB) Bronze\nC) Prata\nD) Cedro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #cristao #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico #cristao",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nDe que material era a cana usada para medir a cidade santa, suas portas e muralha?\n\nA) Ouro\nB) Bronze\nC) Prata\nD) Cedro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível fácil): você acerta essa? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nDe que material era a cana usada para medir a cidade santa, suas portas e muralha?\n\nA) Ouro\nB) Bronze\nC) Prata\nD) Cedro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-8-fill",
+   "date": "2026-10-23",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-23T18:25",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-23T08:24:06+00:00",
+   "source": "bank",
+   "bank_id": "v090",
+   "model": null,
+   "content": {
+    "ref": "Salmos 4:8",
+    "ref_label": "Salmos 4:8",
+    "verse_text": "Em paz me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.",
+    "question": "Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.",
+    "options": [
+     "esperança",
+     "paz",
+     "luz",
+     "presença"
+    ],
+    "answer": 1,
+    "answer_word": "paz",
+    "tags": [
+     "descanso",
+     "paz"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de descanso: Salmos 4:8\nVocê sabe esse versículo de cor? 📖\n\n“Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.”\n\nA) esperança\nB) paz\nC) luz\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodedescanso #descanso #paz #completeoversiculo #versiculo #evangelico #jesus #palavradedeus #cristao #desafiobiblico #deus #gospel",
+    "facebook": "Versículo de descanso: Salmos 4:8\nVocê sabe esse versículo de cor? 📖\n\n“Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.”\n\nA) esperança\nB) paz\nC) luz\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodedescanso #descanso #paz #completeoversiculo",
+    "tiktok": "Versículo de descanso\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodedescanso #descanso #paz #completeoversiculo #versiculo",
+    "kwai": "Versículo de descanso\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodedescanso #descanso #paz #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.”\n\nA) esperança\nB) paz\nC) luz\nD) presença\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de descanso: Salmos 4:8 📖 #shorts",
+     "description": "Versículo de descanso: Salmos 4:8\nVocê sabe esse versículo de cor? 📖\n\n“Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.”\n\nA) esperança\nB) paz\nC) luz\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodedescanso #descanso #paz",
+     "tags": [
+      "versículo de descanso",
+      "versículos de descanso",
+      "descanso",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "paz",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-7-quiz",
+   "date": "2026-10-23",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-23T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:23:40+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "João 16:33",
+    "ref_label": "João 16:33",
+    "question": "Qual palavra Jesus afirma ter feito no versículo 33?",
+    "options": [
+     "venci",
+     "salvou",
+     "perdoou",
+     "conquistou"
+    ],
+    "answer": 0,
+    "evidence": "venci",
+    "passage": "Eu lhes disse estas coisas para que em mim vocês tenham paz. No mundo vocês têm aflições; mas tenham bom ânimo! Eu venci o mundo.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra Jesus afirma ter feito no versículo 33?\n\nA) venci\nB) salvou\nC) perdoou\nD) conquistou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #teste #deus #biblia #gospel #perguntasbiblicas #fe #conhecimentobiblico #cristao",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra Jesus afirma ter feito no versículo 33?\n\nA) venci\nB) salvou\nC) perdoou\nD) conquistou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #desafio",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #evangelico #jesus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #evangelico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual palavra Jesus afirma ter feito no versículo 33?\n\nA) venci\nB) salvou\nC) perdoou\nD) conquistou\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual palavra Jesus afirma ter feito no versículo 33? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra Jesus afirma ter feito no versículo 33?\n\nA) venci\nB) salvou\nC) perdoou\nD) conquistou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-6-truefalse",
+   "date": "2026-10-23",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-23T15:01",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:23:15+00:00",
+   "source": "bank",
+   "bank_id": "q922",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 3:20",
+    "ref_label": "Apocalipse 3:20",
+    "question": "Complete: “Eis que estou à porta e ___.”",
+    "shown": "canto",
+    "is_true": false,
+    "correct": "bato",
+    "evidence": "Eis que estou à porta e bato",
+    "passage": "Eis que estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, eu entrarei em sua casa e cearei com ele, e ele comigo.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComplete: “Eis que estou à porta e ___.”\nResposta: canto\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #conhecimentobiblico #deus #cristao #jesus #palavradedeus #evangelico #gospel #biblia #desafiobiblico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComplete: “Eis que estou à porta e ___.”\nResposta: canto\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #perguntasbiblicas",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #palavradedeus #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #desafiobiblico #evangelico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComplete: “Eis que estou à porta e ___.”\nResposta: canto\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Complete: “Eis que estou à porta e ___.” #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComplete: “Eis que estou à porta e ___.”\nResposta: canto\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-5-curiosity",
+   "date": "2026-10-23",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-23T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-23T08:22:55+00:00",
+   "source": "bank",
+   "bank_id": "c185",
+   "model": null,
+   "content": {
+    "ref": "Ezequiel 47:9",
+    "ref_label": "Ezequiel 47:9",
+    "title": "Um rio que dá vida ao mar morto",
+    "text": "Ezequiel viu um rio saindo do templo: onde ele chegava, as águas do mar eram curadas e surgia uma multidão de peixes.",
+    "evidence": "as águas do mar serão curadas",
+    "passage": "Acontecerá que toda criatura vivente que fervilha, em todo lugar aonde os rios chegarem, viverá. Então haverá uma grandíssima multidão de peixes; pois estas águas chegaram lá, e as águas do mar serão curadas, e tudo viverá por onde quer que o rio chegue.",
+    "tags": [
+     "ezequiel",
+     "visoes"
+    ]
+   },
+   "captions": {
+    "instagram": "Um rio que dá vida ao mar morto\n\nEzequiel viu um rio saindo do templo: onde ele chegava, as águas do mar eram curadas e surgia uma multidão de peixes. (Ezequiel 47:9)\n\nVocê sabia que, segundo Ezequiel, um rio brotará do templo e chegará ao Mar Morto, trazendo cura às suas águas e uma abundante vida de peixes? Essa promessa nos lembra que onde Deus começa a agir, a morte dá lugar à vida. Salve essa mensagem e compartilhe a esperança de um futuro renovado. 🙏🌊\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequiel #visoes #vocesabia #curiosidadesbiblicas #evangelico #palavradedeus #biblia #cristao #estudobiblico #fe #historiabiblica #gospel",
+    "facebook": "Um rio que dá vida ao mar morto\n\nEzequiel viu um rio saindo do templo: onde ele chegava, as águas do mar eram curadas e surgia uma multidão de peixes. (Ezequiel 47:9)\n\nVocê sabia que, segundo Ezequiel, um rio brotará do templo e chegará ao Mar Morto, trazendo cura às suas águas e uma abundante vida de peixes? Essa promessa nos lembra que onde Deus começa a agir, a morte dá lugar à vida. Salve essa mensagem e compartilhe a esperança de um futuro renovado. 🙏🌊\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#ezequiel #visoes #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Um rio do templo traz vida ao Mar Morto e multiplica peixes. Compartilhe! 🙏\n#ezequiel #visoes #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Um rio do templo traz vida ao Mar Morto e multiplica peixes. Compartilhe! 🙏\n#ezequiel #visoes #vocesabia #curiosidadesbiblicas #biblia",
+    "whatsapp": "Um rio que dá vida ao mar morto\n\nEzequiel viu um rio saindo do templo: onde ele chegava, as águas do mar eram curadas e surgia uma multidão de peixes. (Ezequiel 47:9)\n\nVocê sabia que, segundo Ezequiel, um rio brotará do templo e chegará ao Mar Morto, trazendo cura às suas águas e uma abundante vida de peixes? Essa promessa nos lembra que onde Deus começa a agir, a morte dá lugar à vida. Salve essa mensagem e compartilhe a esperança de um futuro renovado. 🙏🌊\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Um rio que dá vida ao mar morto #shorts",
+     "description": "Um rio que dá vida ao mar morto\n\nEzequiel viu um rio saindo do templo: onde ele chegava, as águas do mar eram curadas e surgia uma multidão de peixes. (Ezequiel 47:9)\n\nVocê sabia que, segundo Ezequiel, um rio brotará do templo e chegará ao Mar Morto, trazendo cura às suas águas e uma abundante vida de peixes? Essa promessa nos lembra que onde Deus começa a agir, a morte dá lugar à vida. Salve essa mensagem e compartilhe a esperança de um futuro renovado. 🙏🌊\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #ezequiel #visoes #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ezequiel",
+      "visoes",
+      "ezequiel"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.4,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-4-quiz",
+   "date": "2026-10-23",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-23T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:22:28+00:00",
+   "source": "bank",
+   "bank_id": "q1011",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 3:4",
+    "ref_label": "1 Reis 3:4",
+    "question": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?",
+    "options": [
+     "Cem",
+     "Doze",
+     "Setenta",
+     "Mil"
+    ],
+    "answer": 3,
+    "evidence": "Salomão ofereceu mil holocaustos",
+    "passage": "O rei foi a Gibeão para sacrificar lá, pois aquele era o principal lugar alto. Salomão ofereceu mil holocaustos naquele altar.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #jesus #fe #deus #gospel #conhecimentobiblico #perguntasbiblicas #evangelico #cristao",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #fe #biblia",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #biblia",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos holocaustos Salomão ofereceu no altar de Gibeão? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-3-truefalse",
+   "date": "2026-10-23",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-23T09:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:22:05+00:00",
+   "source": "bank",
+   "bank_id": "q1125",
+   "model": null,
+   "content": {
+    "ref": "Ageu 1:8",
+    "ref_label": "Ageu 1:8",
+    "question": "O que Ageu mandou o povo trazer do monte para reconstruir a casa?",
+    "shown": "Madeira",
+    "is_true": true,
+    "correct": "Madeira",
+    "evidence": "Subam ao monte, tragam madeira",
+    "passage": "Subam ao monte, tragam madeira e reconstruam a casa. Terei prazer nela e serei glorificado”, diz o SENHOR.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Ageu mandou o povo trazer do monte para reconstruir a casa?\nResposta: Madeira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #fe #deus #jesus #perguntasbiblicas #biblia #conhecimentobiblico #palavradedeus #gospel #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Ageu mandou o povo trazer do monte para reconstruir a casa?\nResposta: Madeira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #evangelico #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao #fe",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que Ageu mandou o povo trazer do monte para reconstruir a casa?\nResposta: Madeira\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Ageu mandou o povo trazer do monte para reconstruir a casa?\nResposta: Madeira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ageu"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-2-quiz",
+   "date": "2026-10-23",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-23T07:59",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:21:43+00:00",
+   "source": "bank",
+   "bank_id": "q275",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 4:4",
+    "ref_label": "2 Samuel 4:4",
+    "question": "Que idade tinha Mefibosete quando caiu e ficou aleijado?",
+    "options": [
+     "Um ano",
+     "Cinco anos",
+     "Dez anos",
+     "Doze anos"
+    ],
+    "answer": 1,
+    "evidence": "Ele tinha cinco anos de idade",
+    "passage": "Ora, Jônatas, filho de Saul, tinha um filho que era aleijado dos pés. Ele tinha cinco anos de idade quando as notícias sobre Saul e Jônatas chegaram de Jezreel; e a sua ama o pegou e fugiu. Enquanto ela se apressava em fugir, ele caiu e ficou aleijado. Seu nome era Mefibosete.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #desafio #biblia #deus #perguntasbiblicas #teste #palavradedeus #fe #evangelico #cristao",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #palavradedeus #fe",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #cristao #desafio",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Que idade tinha Mefibosete quando caiu e ficou aleijado? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-23-1-verse",
+   "date": "2026-10-23",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-23T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:21:18+00:00",
+   "source": "bank",
+   "bank_id": "v350",
+   "model": null,
+   "content": {
+    "ref": "Salmos 139:23",
+    "ref_label": "Salmos 139:23",
+    "verse_text": "Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.",
+    "on_screen": "Sonda-me, ó Deus, e conhece o meu coração.",
+    "reflection": "É corajoso pedir a Deus que examine o nosso coração. Ele já nos conhece, mas quando abrimos a porta, Ele pode curar e transformar. Faça essa oração com sinceridade hoje.",
+    "theme": "oração",
+    "mood": "reflexao",
+    "tags": [
+     "oracao",
+     "coracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo #biblia #deus #palavradedeus #esperanca #jesus #evangelico #devocional",
+    "facebook": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #coracao #versiculododia",
+    "tiktok": "Versículo sobre oração\nCoragem para abrir o coração a Deus e receber transformação. Salve e compartilhe.\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo",
+    "kwai": "Versículo sobre oração\nCoragem para abrir o coração a Deus e receber transformação. Salve e compartilhe.\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo",
+    "whatsapp": "“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre oração: Salmos 139:23 🙏 #shorts",
+     "description": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreoracao #oracao #coracao",
+     "tags": [
+      "versículo sobre oração",
+      "versículos sobre oração",
+      "oração",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oracao",
+      "coracao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.56,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-23/2026-10-23-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
