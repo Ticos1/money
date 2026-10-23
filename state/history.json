@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-10-23-1-verse",
+   "date": "2026-10-23",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-23T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:21:18+00:00",
+   "source": "bank",
+   "bank_id": "v350",
+   "model": null,
+   "content": {
+    "ref": "Salmos 139:23",
+    "ref_label": "Salmos 139:23",
+    "verse_text": "Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.",
+    "on_screen": "Sonda-me, ó Deus, e conhece o meu coração.",
+    "reflection": "É corajoso pedir a Deus que examine o nosso coração. Ele já nos conhece, mas quando abrimos a porta, Ele pode curar e transformar. Faça essa oração com sinceridade hoje.",
+    "theme": "oração",
+    "mood": "reflexao",
+    "tags": [
+     "oracao",
+     "coracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo #biblia #deus #palavradedeus #esperanca #jesus #evangelico #devocional",
+    "facebook": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #coracao #versiculododia",
+    "tiktok": "Versículo sobre oração\nCoragem para abrir o coração a Deus e receber transformação. Salve e compartilhe.\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo",
+    "kwai": "Versículo sobre oração\nCoragem para abrir o coração a Deus e receber transformação. Salve e compartilhe.\n#versiculosobreoracao #oracao #coracao #versiculododia #versiculo",
+    "whatsapp": "“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre oração: Salmos 139:23 🙏 #shorts",
+     "description": "Versículo sobre oração: Salmos 139:23\n“Sonda-me, ó Deus, e conhece o meu coração. Prova-me, e conhece os meus pensamentos.” (Salmos 139:23)\n\nÉ um ato de coragem pedir a Deus que examine nosso coração. Ele já nos conhece, mas ao abrir a porta da sinceridade, permite que Sua graça cure e transforme nossos pensamentos. Reserve um momento hoje, ore com verdade e deixe que Ele revele o que precisa mudar. Salve para lembrar e compartilhe com quem precisa dessa paz interior.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreoracao #oracao #coracao",
+     "tags": [
+      "versículo sobre oração",
+      "versículos sobre oração",
+      "oração",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oracao",
+      "coracao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-23T09:21:46+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18013523810761382"
+   }
+  },
+  {
    "id": "2026-10-22-10-truefalse",
    "date": "2026-10-22",
    "slot": 10,
