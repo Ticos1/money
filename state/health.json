@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T23:14:45+00:00",
+ "updated_at": "2026-10-23T00:32:32+00:00",
  "date": "2026-10-22",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-22-10-truefalse",
+   "date": "2026-10-22",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-22T21:29",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-23T00:30:30+00:00",
+    "stories": "2026-10-23T00:31:03+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2494055351119944",
+    "stories": "story 17871979218644960"
+   },
+   "title": "Que tipo de pessoa Jesus viu ao passar?"
+  },
   {
    "id": "2026-10-22-9-quiz",
    "date": "2026-10-22",
