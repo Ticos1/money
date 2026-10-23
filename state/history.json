@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-22-10-truefalse",
+   "date": "2026-10-22",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-22T21:29",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-22T08:28:26+00:00",
+   "source": "bank",
+   "bank_id": "q537",
+   "model": null,
+   "content": {
+    "ref": "João 9:1",
+    "ref_label": "João 9:1",
+    "question": "Que tipo de pessoa Jesus viu ao passar?",
+    "shown": "Um homem cego de nascença",
+    "is_true": true,
+    "correct": "Um homem cego de nascença",
+    "evidence": "um homem cego de nascença",
+    "passage": "Ao passar, ele viu um homem cego de nascença.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus #biblia #palavradedeus #fe #conhecimentobiblico #gospel #desafiobiblico #perguntasbiblicas #evangelico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Que tipo de pessoa Jesus viu ao passar? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue tipo de pessoa Jesus viu ao passar?\nResposta: Um homem cego de nascença\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-23T00:30:30+00:00",
+    "stories": "2026-10-23T00:31:03+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2494055351119944",
+    "stories": "story 17871979218644960"
+   }
+  },
+  {
    "id": "2026-10-22-9-quiz",
    "date": "2026-10-22",
    "slot": 9,
