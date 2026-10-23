@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-23T21:28:34+00:00",
+ "updated_at": "2026-10-23T23:14:04+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-9-quiz",
+   "date": "2026-10-23",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-23T20:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T23:10:32+00:00",
+    "instagram": "2026-10-23T23:11:09+00:00",
+    "facebook": "2026-10-23T23:11:14+00:00",
+    "stories": "2026-10-23T23:11:47+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/c9kutsQ3Ygo",
+    "instagram": "https://www.instagram.com/reel/De2tNuCDNyA/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1112113768341342",
+    "stories": "story 18071951678764976"
+   },
+   "title": "De que material era a cana usada para medir a cidade santa, suas portas e muralha?"
+  },
   {
    "id": "2026-10-23-8-fill",
    "date": "2026-10-23",
