@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-23T12:58:31+00:00",
+ "updated_at": "2026-10-23T14:59:18+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-4-quiz",
+   "date": "2026-10-23",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-23T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T14:55:32+00:00",
+    "instagram": "2026-10-23T14:56:09+00:00",
+    "facebook": "2026-10-23T14:56:13+00:00",
+    "stories": "2026-10-23T14:56:49+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/F4Q-enscTwA",
+    "instagram": "https://www.instagram.com/reel/De10kG_Dpu4/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2166897537539772",
+    "stories": "story 17969560055964949"
+   },
+   "title": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?"
+  },
   {
    "id": "2026-10-23-3-truefalse",
    "date": "2026-10-23",
