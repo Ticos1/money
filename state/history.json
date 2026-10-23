@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-10-23-2-quiz",
+   "date": "2026-10-23",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-23T07:59",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:21:43+00:00",
+   "source": "bank",
+   "bank_id": "q275",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 4:4",
+    "ref_label": "2 Samuel 4:4",
+    "question": "Que idade tinha Mefibosete quando caiu e ficou aleijado?",
+    "options": [
+     "Um ano",
+     "Cinco anos",
+     "Dez anos",
+     "Doze anos"
+    ],
+    "answer": 1,
+    "evidence": "Ele tinha cinco anos de idade",
+    "passage": "Ora, Jônatas, filho de Saul, tinha um filho que era aleijado dos pés. Ele tinha cinco anos de idade quando as notícias sobre Saul e Jônatas chegaram de Jezreel; e a sua ama o pegou e fugiu. Enquanto ela se apressava em fugir, ele caiu e ficou aleijado. Seu nome era Mefibosete.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #desafio #biblia #deus #perguntasbiblicas #teste #palavradedeus #fe #evangelico #cristao",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #palavradedeus #fe",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #cristao #desafio",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Que idade tinha Mefibosete quando caiu e ficou aleijado? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQue idade tinha Mefibosete quando caiu e ficou aleijado?\n\nA) Um ano\nB) Cinco anos\nC) Dez anos\nD) Doze anos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T11:00:27+00:00",
+    "instagram": null,
+    "facebook": "2026-10-23T11:00:32+00:00",
+    "stories": "2026-10-23T11:01:06+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IRhJLHM1A5g",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4687088824942982",
+    "stories": "story 17996588310044568"
+   }
+  },
+  {
    "id": "2026-10-23-1-verse",
    "date": "2026-10-23",
    "slot": 1,
