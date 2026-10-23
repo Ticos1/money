@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T14:59:18+00:00",
+ "updated_at": "2026-10-23T16:28:56+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-5-curiosity",
+   "date": "2026-10-23",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-23T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-23T16:25:39+00:00",
+    "stories": "2026-10-23T16:27:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1755155282239171",
+    "stories": "story 17997606675046407"
+   },
+   "title": "Um rio que dá vida ao mar morto"
+  },
   {
    "id": "2026-10-23-4-quiz",
    "date": "2026-10-23",
