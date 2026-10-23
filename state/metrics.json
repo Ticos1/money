@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-23T21:22:48+00:00",
+ "updated_at": "2026-10-23T21:28:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-8-fill": {
+   "type": "fill",
+   "date": "2026-10-23",
+   "time": "18:30",
+   "title": "Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-23-7-quiz": {
    "type": "quiz",
    "date": "2026-10-23",
@@ -16,7 +31,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 481,
+    "views": 537,
     "avg_watch_s": 4.6,
     "watch_time_s": 985.5
    }
@@ -46,12 +61,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 578,
+    "views": 579,
     "avg_watch_s": 4.2,
     "watch_time_s": 1915.2
    },
    "youtube": {
-    "views": 7,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -143,7 +158,7 @@
     "watch_time_s": 2352.2
    },
    "youtube": {
-    "views": 26,
+    "views": 23,
     "likes": 1,
     "comments": 0
    }
@@ -203,7 +218,7 @@
     "watch_time_s": 9.8
    },
    "youtube": {
-    "views": 20,
+    "views": 21,
     "likes": 2,
     "comments": 0
    }
@@ -422,7 +437,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 59,
+    "views": 58,
     "likes": 4,
     "comments": 0
    }
