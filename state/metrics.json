@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T16:28:51+00:00",
+ "updated_at": "2026-10-23T17:02:06+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -16,9 +16,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 19,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 7.3
    }
   },
   "2026-10-23-4-quiz": {
@@ -46,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 263,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 558.3
+    "views": 392,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1192.0
    },
    "youtube": {
     "views": 0,
@@ -68,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 343,
-    "avg_watch_s": 6.6,
-    "watch_time_s": 1491.6
+    "views": 367,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1652.2
    }
   },
   "2026-10-23-2-quiz": {
@@ -86,9 +86,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 435,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 2136.3
+    "views": 440,
+    "avg_watch_s": 6.9,
+    "watch_time_s": 2149.5
    },
    "youtube": {
     "views": 4,
@@ -135,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 33,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
-    "views": 41,
+    "views": 42,
     "total_interactions": 0,
     "avg_watch_s": 4.1,
-    "watch_time_s": 136.7
+    "watch_time_s": 139.0
    },
    "facebook": {
     "likes": 0,
@@ -183,9 +183,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1261,
+    "views": 1262,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5001.1
+    "watch_time_s": 5001.8
    }
   },
   "2026-10-22-6-truefalse": {
@@ -215,7 +215,7 @@
     "comments": 0,
     "views": 1428,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6139.2
+    "watch_time_s": 6144.0
    },
    "youtube": {
     "views": 106,
@@ -235,7 +235,7 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 236,
+    "views": 237,
     "avg_watch_s": 2.8,
     "watch_time_s": 612.2
    }
@@ -307,7 +307,7 @@
     "comments": 0,
     "views": 380,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1397.6
+    "watch_time_s": 1398.7
    },
    "youtube": {
     "views": 26,
@@ -2743,7 +2743,7 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1094,
+    "views": 1095,
     "avg_watch_s": 2.5,
     "watch_time_s": 2545.3
    },
