@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-23T17:02:06+00:00",
+ "updated_at": "2026-10-23T18:09:02+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-23",
+   "time": "15:00",
+   "title": "Complete: “Eis que estou à porta e ___.”",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/c-qOZ2RGPG0",
+    "instagram": "https://www.instagram.com/reel/De2KUfNiRVC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1090082146963313"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-23-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-23",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 19,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 7.3
+    "views": 49,
+    "avg_watch_s": 3.3,
+    "watch_time_s": 112.3
    }
   },
   "2026-10-23-4-quiz": {
@@ -38,17 +73,17 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 392,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1192.0
+    "views": 777,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 2779.7
    },
    "youtube": {
     "views": 0,
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 367,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1652.2
+    "views": 417,
+    "avg_watch_s": 6.1,
+    "watch_time_s": 1874.8
    }
   },
   "2026-10-23-2-quiz": {
@@ -86,9 +121,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 440,
+    "views": 456,
     "avg_watch_s": 6.9,
-    "watch_time_s": 2149.5
+    "watch_time_s": 2218.4
    },
    "youtube": {
     "views": 4,
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1262,
+    "views": 1263,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5001.8
+    "watch_time_s": 5002.4
    }
   },
   "2026-10-22-6-truefalse": {
@@ -233,11 +268,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2174074360150295"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 1,
-    "views": 237,
+    "views": 238,
     "avg_watch_s": 2.8,
-    "watch_time_s": 612.2
+    "watch_time_s": 623.7
    }
   },
   "2026-10-22-4-quiz": {
@@ -265,9 +300,9 @@
    "facebook": {
     "likes": 11,
     "comments": 3,
-    "views": 1158,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 4721.6
+    "views": 1163,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 4726.9
    },
    "youtube": {
     "views": 86,
@@ -432,9 +467,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1277,
+    "views": 1279,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5399.0
+    "watch_time_s": 5405.0
    },
    "youtube": {
     "views": 22,
@@ -1317,9 +1352,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 280,
+    "views": 281,
     "avg_watch_s": 3.6,
-    "watch_time_s": 906.7
+    "watch_time_s": 908.9
    },
    "youtube": {
     "views": 31,
@@ -2745,7 +2780,7 @@
     "comments": 2,
     "views": 1095,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2545.3
+    "watch_time_s": 2546.1
    },
    "youtube": {
     "views": 171,
