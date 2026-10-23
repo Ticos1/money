@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-23T09:23:47+00:00",
+ "updated_at": "2026-10-23T11:03:11+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-2-quiz",
+   "date": "2026-10-23",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-23T07:59",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T11:00:27+00:00",
+    "instagram": null,
+    "facebook": "2026-10-23T11:00:32+00:00",
+    "stories": "2026-10-23T11:01:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IRhJLHM1A5g",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4687088824942982",
+    "stories": "story 17996588310044568"
+   },
+   "title": "Que idade tinha Mefibosete quando caiu e ficou aleijado?"
+  },
   {
    "id": "2026-10-23-1-verse",
    "date": "2026-10-23",
