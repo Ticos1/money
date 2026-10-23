@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-23-4-quiz",
+   "date": "2026-10-23",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-23T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-23T08:22:28+00:00",
+   "source": "bank",
+   "bank_id": "q1011",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 3:4",
+    "ref_label": "1 Reis 3:4",
+    "question": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?",
+    "options": [
+     "Cem",
+     "Doze",
+     "Setenta",
+     "Mil"
+    ],
+    "answer": 3,
+    "evidence": "Salomão ofereceu mil holocaustos",
+    "passage": "O rei foi a Gibeão para sacrificar lá, pois aquele era o principal lugar alto. Salomão ofereceu mil holocaustos naquele altar.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #jesus #fe #deus #gospel #conhecimentobiblico #perguntasbiblicas #evangelico #cristao",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #fe #biblia",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #biblia",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos holocaustos Salomão ofereceu no altar de Gibeão? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQuantos holocaustos Salomão ofereceu no altar de Gibeão?\n\nA) Cem\nB) Doze\nC) Setenta\nD) Mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T14:55:32+00:00",
+    "instagram": "2026-10-23T14:56:09+00:00",
+    "facebook": "2026-10-23T14:56:13+00:00",
+    "stories": "2026-10-23T14:56:49+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/F4Q-enscTwA",
+    "instagram": "https://www.instagram.com/reel/De10kG_Dpu4/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2166897537539772",
+    "stories": "story 17969560055964949"
+   }
+  },
+  {
    "id": "2026-10-23-3-truefalse",
    "date": "2026-10-23",
    "slot": 3,
