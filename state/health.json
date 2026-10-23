@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-23T16:28:56+00:00",
+ "updated_at": "2026-10-23T18:09:05+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-6-truefalse",
+   "date": "2026-10-23",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-23T15:01",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T18:05:32+00:00",
+    "instagram": "2026-10-23T18:06:16+00:00",
+    "facebook": "2026-10-23T18:06:20+00:00",
+    "stories": "2026-10-23T18:06:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/c-qOZ2RGPG0",
+    "instagram": "https://www.instagram.com/reel/De2KUfNiRVC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1090082146963313",
+    "stories": "story 18134330173670332"
+   },
+   "title": "Complete: “Eis que estou à porta e ___.”"
+  },
   {
    "id": "2026-10-23-5-curiosity",
    "date": "2026-10-23",
