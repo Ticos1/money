@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T11:03:11+00:00",
+ "updated_at": "2026-10-23T12:58:31+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-3-truefalse",
+   "date": "2026-10-23",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-23T09:54",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-23T12:55:30+00:00",
+    "stories": "2026-10-23T12:56:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1068890592849768",
+    "stories": "story 18096456773444352"
+   },
+   "title": "O que Ageu mandou o povo trazer do monte para reconstruir a casa?"
+  },
   {
    "id": "2026-10-23-2-quiz",
    "date": "2026-10-23",
