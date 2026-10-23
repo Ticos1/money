@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-23T09:02:01+00:00",
+ "updated_at": "2026-10-23T09:23:44+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-1-verse": {
+   "type": "verse",
+   "date": "2026-10-23",
+   "time": "06:30",
+   "title": "Salmos 139:23",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-22-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-22",
@@ -2525,7 +2533,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 205,
+    "views": 208,
     "avg_watch_s": 2.4,
     "watch_time_s": 468.3
    },
