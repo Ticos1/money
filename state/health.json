@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T09:02:04+00:00",
+ "updated_at": "2026-10-23T09:23:47+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-23-1-verse",
+   "date": "2026-10-23",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-23T06:20",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-23T09:21:46+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18013523810761382"
+   },
+   "title": "Salmos 139:23"
+  }
+ ],
  "specials": {}
 }
