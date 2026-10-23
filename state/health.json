@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-23T00:32:32+00:00",
- "date": "2026-10-22",
+ "updated_at": "2026-10-23T04:42:21+00:00",
+ "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 459,
-   "days_left": 459,
+   "fresh": 460,
+   "days_left": 460,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1113,
+   "fresh": 1114,
    "days_left": 159,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-22-10-truefalse",
-   "date": "2026-10-22",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-22T21:29",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-23T00:30:30+00:00",
-    "stories": "2026-10-23T00:31:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2494055351119944",
-    "stories": "story 17871979218644960"
-   },
-   "title": "Que tipo de pessoa Jesus viu ao passar?"
-  },
-  {
-   "id": "2026-10-22-9-quiz",
-   "date": "2026-10-22",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-22T20:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-22T23:10:28+00:00",
-    "instagram": "2026-10-22T23:10:57+00:00",
-    "facebook": "2026-10-22T23:11:02+00:00",
-    "stories": "2026-10-22T23:11:46+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/tdovl9Gr7TY",
-    "instagram": "https://www.instagram.com/reel/De0IarciNdf/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2910620789311369",
-    "stories": "story 18147841261491219"
-   },
-   "title": "Como o diabo anda ao redor, segundo 1 Pedro?"
-  },
-  {
-   "id": "2026-10-22-8-fill",
-   "date": "2026-10-22",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-22T18:25",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-22T21:25:27+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-22T21:31:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/LHiIA9KpV4I",
-    "stories": "story 18119037212049395"
-   },
-   "title": "Por meio de quem também obtivemos, pela fé, acesso a esta graça na qual estamos firmes. Nós nos alegramos na _____ da glória de Deus."
-  },
-  {
-   "id": "2026-10-22-7-quiz",
-   "date": "2026-10-22",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-22T17:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-22T20:05:47+00:00",
-    "stories": "2026-10-22T20:06:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306",
-    "stories": "story 18077323280464928"
-   },
-   "title": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?"
-  },
-  {
-   "id": "2026-10-22-6-truefalse",
-   "date": "2026-10-22",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-22T15:03",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-22T18:05:28+00:00",
-    "instagram": "2026-10-22T18:06:02+00:00",
-    "facebook": "2026-10-22T18:06:07+00:00",
-    "stories": "2026-10-22T18:06:41+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6LqZNByE9uA",
-    "instagram": "https://www.instagram.com/reel/DezlghiD5J1/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2125134778390522",
-    "stories": "story 18391205764224284"
-   },
-   "title": "Segundo as mulheres de Belém, Rute era melhor para Noemi do que quantos filhos?"
-  },
-  {
-   "id": "2026-10-22-5-curiosity",
-   "date": "2026-10-22",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-22T13:28",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-22T16:30:40+00:00",
-    "stories": "2026-10-22T16:31:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2174074360150295",
-    "stories": "story 17953985754320658"
-   },
-   "title": "Jesus escreveu no chão"
-  },
-  {
-   "id": "2026-10-22-4-quiz",
-   "date": "2026-10-22",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-22T11:55",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-22T14:55:34+00:00",
-    "instagram": "2026-10-22T14:56:36+00:00",
-    "facebook": "2026-10-22T14:56:49+00:00",
-    "stories": "2026-10-22T14:57:40+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Mc68ohoAkGc",
-    "instagram": "https://www.instagram.com/reel/DezPzIfFDFP/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1431227565775820",
-    "stories": "story 17866694877680632"
-   },
-   "title": "Qual anjo foi enviado por Deus a Nazaré?"
-  },
-  {
-   "id": "2026-10-22-3-truefalse",
-   "date": "2026-10-22",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-22T10:05",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-22T13:05:30+00:00",
-    "stories": "2026-10-22T13:06:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1826570141693551",
-    "stories": "story 18002537318806105"
-   },
-   "title": "O que a viúva disse a Eliseu que tinha em casa?"
-  },
-  {
-   "id": "2026-10-22-2-quiz",
-   "date": "2026-10-22",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-22T08:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-22T11:05:30+00:00",
-    "instagram": null,
-    "facebook": "2026-10-22T11:05:36+00:00",
-    "stories": "2026-10-22T11:06:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/0LrsFjRo6SA",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/28727984173539233",
-    "stories": "story 17968178796076824"
-   },
-   "title": "Qual expressão Isaías 65:17 usa para descrever a criação divina?"
-  },
-  {
-   "id": "2026-10-22-1-verse",
-   "date": "2026-10-22",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-22T06:24",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-22T09:26:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18467334247185040"
-   },
-   "title": "João 11:25"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
