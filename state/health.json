@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-23T21:22:51+00:00",
+ "updated_at": "2026-10-23T21:28:34+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-8-fill",
+   "date": "2026-10-23",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-23T18:25",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-23T21:25:29+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-23T21:26:30+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/1CXkCFHn4-0",
+    "stories": "story 18031402985880679"
+   },
+   "title": "Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança."
+  },
   {
    "id": "2026-10-23-7-quiz",
    "date": "2026-10-23",
