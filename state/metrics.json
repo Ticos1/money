@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-23T12:58:28+00:00",
+ "updated_at": "2026-10-23T14:59:16+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-23",
+   "time": "12:00",
+   "title": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/F4Q-enscTwA",
+    "instagram": "https://www.instagram.com/reel/De10kG_Dpu4/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2166897537539772"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-23-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-23",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1068890592849768"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 261,
+    "avg_watch_s": 6.7,
+    "watch_time_s": 1278.9
    }
   },
   "2026-10-23-2-quiz": {
@@ -34,13 +69,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 327,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 1257.4
+    "views": 421,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 2053.5
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 6,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -83,7 +118,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 31,
+    "reach": 32,
     "saved": 0,
     "shares": 0,
     "views": 40,
@@ -100,7 +135,7 @@
    },
    "youtube": {
     "views": 9,
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1257,
+    "views": 1260,
     "avg_watch_s": 5.1,
-    "watch_time_s": 4986.8
+    "watch_time_s": 5001.1
    }
   },
   "2026-10-22-6-truefalse": {
@@ -161,12 +196,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1424,
+    "views": 1425,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6121.2
+    "watch_time_s": 6126.0
    },
    "youtube": {
-    "views": 104,
+    "views": 106,
     "likes": 0,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 233,
-    "avg_watch_s": 2.7,
-    "watch_time_s": 594.7
+    "views": 235,
+    "avg_watch_s": 2.8,
+    "watch_time_s": 611.4
    }
   },
   "2026-10-22-4-quiz": {
@@ -211,11 +246,11 @@
     "watch_time_s": 20.2
    },
    "facebook": {
-    "likes": 10,
+    "likes": 11,
     "comments": 3,
-    "views": 1148,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 4656.9
+    "views": 1157,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 4721.1
    },
    "youtube": {
     "views": 86,
@@ -233,11 +268,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1826570141693551"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 266,
+    "views": 267,
     "avg_watch_s": 5.7,
-    "watch_time_s": 1100.9
+    "watch_time_s": 1108.5
    }
   },
   "2026-10-22-2-quiz": {
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 377,
+    "views": 378,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1389.4
+    "watch_time_s": 1397.6
    },
    "youtube": {
     "views": 26,
@@ -318,7 +353,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 53,
+    "views": 56,
     "likes": 3,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 947.8
    },
    "youtube": {
-    "views": 37,
+    "views": 42,
     "likes": 1,
     "comments": 0
    }
@@ -788,9 +823,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2238,
+    "views": 2240,
     "avg_watch_s": 7.3,
-    "watch_time_s": 11043.6
+    "watch_time_s": 11044.6
    }
   },
   "2026-10-19-6-truefalse": {
@@ -1007,9 +1042,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1572,
+    "views": 1574,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6999.7
+    "watch_time_s": 7014.9
    }
   },
   "2026-10-18-6-truefalse": {
@@ -1265,7 +1300,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 279,
+    "views": 280,
     "avg_watch_s": 3.6,
     "watch_time_s": 905.8
    },
