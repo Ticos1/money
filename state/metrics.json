@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-22T23:14:42+00:00",
+ "updated_at": "2026-10-23T00:32:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-22-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-22",
+   "time": "21:30",
+   "title": "Que tipo de pessoa Jesus viu ao passar?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2494055351119944"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-22-9-quiz": {
    "type": "quiz",
    "date": "2026-10-22",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.9,
+    "watch_time_s": 11.7
    },
    "facebook": {
     "likes": 0,
@@ -49,8 +66,8 @@
     "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 6,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 840,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 2427.6
+    "views": 1199,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 4738.0
    }
   },
   "2026-10-22-6-truefalse": {
@@ -96,9 +113,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1344,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 5678.8
+    "views": 1399,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 5967.3
    },
    "youtube": {
     "views": 66,
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 231,
+    "views": 232,
     "avg_watch_s": 2.7,
-    "watch_time_s": 580.3
+    "watch_time_s": 587.8
    }
   },
   "2026-10-22-4-quiz": {
@@ -148,13 +165,13 @@
    "facebook": {
     "likes": 10,
     "comments": 2,
-    "views": 1031,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 3878.6
+    "views": 1108,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 4485.6
    },
    "youtube": {
-    "views": 12,
-    "likes": 1,
+    "views": 38,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -170,7 +187,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 263,
+    "views": 265,
     "avg_watch_s": 5.8,
     "watch_time_s": 1098.6
    }
@@ -188,12 +205,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 373,
+    "views": 374,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1370.8
+    "watch_time_s": 1381.9
    },
    "youtube": {
-    "views": 21,
+    "views": 25,
     "likes": 1,
     "comments": 0
    }
@@ -253,8 +270,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 28,
-    "likes": 2,
+    "views": 35,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -268,7 +285,7 @@
     "youtube": "https://youtube.com/shorts/V8ftMUKvn2A"
    },
    "youtube": {
-    "views": 16,
+    "views": 19,
     "likes": 0,
     "comments": 0
    }
@@ -315,12 +332,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1275,
+    "views": 1276,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5396.0
+    "watch_time_s": 5398.0
    },
    "youtube": {
-    "views": 18,
+    "views": 19,
     "likes": 1,
     "comments": 0
    }
@@ -372,7 +389,7 @@
     "watch_time_s": 947.8
    },
    "youtube": {
-    "views": 35,
+    "views": 37,
     "likes": 1,
     "comments": 0
    }
@@ -412,7 +429,7 @@
     "watch_time_s": 1334.2
    },
    "youtube": {
-    "views": 12,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 20.0
    },
    "youtube": {
-    "views": 102,
+    "views": 103,
     "likes": 2,
     "comments": 0
    }
@@ -608,9 +625,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 7,
-    "avg_watch_s": 10.1,
-    "watch_time_s": 40.6
+    "views": 8,
+    "avg_watch_s": 8.3,
+    "watch_time_s": 41.4
    }
   },
   "2026-10-20-2-quiz": {
@@ -691,7 +708,7 @@
     "watch_time_s": 6.9
    },
    "youtube": {
-    "views": 73,
+    "views": 74,
     "likes": 1,
     "comments": 0
    }
@@ -850,7 +867,7 @@
     "watch_time_s": 1285.4
    },
    "youtube": {
-    "views": 61,
+    "views": 62,
     "likes": 0,
     "comments": 0
    }
