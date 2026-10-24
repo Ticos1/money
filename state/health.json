@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T23:14:04+00:00",
+ "updated_at": "2026-10-24T00:38:54+00:00",
  "date": "2026-10-23",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-23-10-truefalse",
+   "date": "2026-10-23",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-23T21:31",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T00:35:32+00:00",
+    "stories": "2026-10-24T00:36:40+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118401217824734",
+    "stories": "story 17933914926407263"
+   },
+   "title": "Em que caverna Isaque e Ismael sepultaram Abraão?"
+  },
   {
    "id": "2026-10-23-9-quiz",
    "date": "2026-10-23",
