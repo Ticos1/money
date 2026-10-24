@@ -260,6 +260,102 @@
    }
   },
   {
+   "id": "2026-10-24-9-quiz",
+   "date": "2026-10-24",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-24T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:25:19+00:00",
+   "source": "bank",
+   "bank_id": "q644",
+   "model": null,
+   "content": {
+    "ref": "Isaías 9:2",
+    "ref_label": "Isaías 9:2",
+    "question": "Segundo Isaías, o que o povo que andava nas trevas viu?",
+    "options": [
+     "Uma grande luz",
+     "Uma grande cidade",
+     "Um grande rei",
+     "Um grande exército"
+    ],
+    "answer": 0,
+    "evidence": "O povo que andava nas trevas viu uma grande luz",
+    "passage": "O povo que andava nas trevas viu uma grande luz. A luz brilhou sobre aqueles que viviam na terra da sombra da morte.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #gospel #biblia #palavradedeus #deus #perguntasbiblicas #evangelico #jesus #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #teste",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #cristao #desafio",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #evangelico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Segundo Isaías, o que o povo que andava nas trevas viu? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-24T23:06:00+00:00",
+    "facebook": "2026-10-24T23:06:04+00:00",
+    "stories": "2026-10-24T23:06:36+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/De5RbRHnzmv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2868135223566070",
+    "stories": "story 18168851701478314"
+   }
+  },
+  {
    "id": "2026-10-24-8-fill",
    "date": "2026-10-24",
    "slot": 8,
