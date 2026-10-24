@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-24T16:44:01+00:00",
+ "updated_at": "2026-10-24T18:14:27+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-6-truefalse",
+   "date": "2026-10-24",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-24T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T18:10:27+00:00",
+    "instagram": "2026-10-24T18:11:49+00:00",
+    "facebook": "2026-10-24T18:11:54+00:00",
+    "stories": "2026-10-24T18:12:34+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/_dKJlE4sHis",
+    "instagram": "https://www.instagram.com/reel/De4vw2yml5a/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1357513539649593",
+    "stories": "story 18099070949339198"
+   },
+   "title": "O que Jezabel fez ao saber que Jeú chegava a Jezreel?"
   },
   {
    "id": "2026-10-24-5-curiosity",
