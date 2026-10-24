@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-24T10:54:10+00:00",
+ "updated_at": "2026-10-24T12:52:41+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-24-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-24",
+   "time": "10:00",
+   "title": "O que saiu da nuvem que envolveu os discípulos na transfiguração?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1532147585418093"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-24-2-quiz": {
    "type": "quiz",
    "date": "2026-10-24",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1448899127332945"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 311,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 908.5
    },
    "youtube": {
     "views": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 10.2
    },
    "youtube": {
-    "views": 36,
+    "views": 41,
     "likes": 1,
     "comments": 0
    }
@@ -112,11 +129,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2778769685857145"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 8,
     "comments": 0,
-    "views": 1874,
+    "views": 1885,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8160.5
+    "watch_time_s": 8203.6
    }
   },
   "2026-10-23-6-truefalse": {
@@ -133,24 +150,24 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 36,
+    "reach": 48,
     "saved": 0,
     "shares": 0,
-    "views": 45,
+    "views": 63,
     "total_interactions": 1,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 123.1
+    "avg_watch_s": 4.1,
+    "watch_time_s": 202.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 604,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 2037.0
+    "views": 609,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 2040.6
    },
    "youtube": {
-    "views": 43,
-    "likes": 0,
+    "views": 51,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1427,
+    "views": 1428,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5756.9
+    "watch_time_s": 5763.2
    },
    "youtube": {
     "views": 29,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 480,
+    "views": 481,
     "avg_watch_s": 5.9,
-    "watch_time_s": 2138.5
+    "watch_time_s": 2146.2
    }
   },
   "2026-10-23-2-quiz": {
@@ -241,7 +258,7 @@
     "watch_time_s": 2397.0
    },
    "youtube": {
-    "views": 50,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -301,7 +318,7 @@
     "watch_time_s": 63.2
    },
    "youtube": {
-    "views": 40,
+    "views": 41,
     "likes": 2,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 6171.4
    },
    "youtube": {
-    "views": 132,
+    "views": 131,
     "likes": 0,
     "comments": 0
    }
@@ -656,9 +673,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 251,
+    "views": 252,
     "avg_watch_s": 5.0,
-    "watch_time_s": 965.9
+    "watch_time_s": 972.8
    }
   },
   "2026-10-21-2-quiz": {
@@ -958,7 +975,7 @@
     "watch_time_s": 6.9
    },
    "youtube": {
-    "views": 74,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -1239,9 +1256,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 280,
+    "views": 281,
     "avg_watch_s": 4.2,
-    "watch_time_s": 909.3
+    "watch_time_s": 916.5
    },
    "youtube": {
     "views": 360,
