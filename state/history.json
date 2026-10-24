@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-24-4-quiz",
+   "date": "2026-10-24",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-24T11:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:22:51+00:00",
+   "source": "bank",
+   "bank_id": "q443",
+   "model": null,
+   "content": {
+    "ref": "Cânticos 2:1",
+    "ref_label": "Cânticos 2:1",
+    "question": "'Eu sou a rosa de...', diz a amada em Cânticos.",
+    "options": [
+     "Sião",
+     "Hebrom",
+     "Sarom",
+     "Carmelo"
+    ],
+    "answer": 2,
+    "evidence": "Eu sou a rosa de Sarom",
+    "passage": "Eu sou a rosa de Sarom, o lírio dos vales.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao #gospel #jesus #teste #conhecimentobiblico #perguntasbiblicas #desafio #biblia #deus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #deus #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #jesus #deus",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: 'Eu sou a rosa de...', diz a amada em Cânticos. #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "cânticos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T15:00:33+00:00",
+    "instagram": "2026-10-24T15:01:12+00:00",
+    "facebook": "2026-10-24T15:01:16+00:00",
+    "stories": "2026-10-24T15:01:50+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/vykuYpd7vcY",
+    "instagram": "https://www.instagram.com/reel/De4Z7xrDtJu/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2376630463088240",
+    "stories": "story 18357120496218043"
+   }
+  },
+  {
    "id": "2026-10-24-3-truefalse",
    "date": "2026-10-24",
    "slot": 3,
