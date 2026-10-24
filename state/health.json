@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-24T09:38:20+00:00",
+ "updated_at": "2026-10-24T10:54:13+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-24-2-quiz",
+   "date": "2026-10-24",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-24T07:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T10:51:50+00:00",
+    "instagram": null,
+    "facebook": "2026-10-24T10:51:55+00:00",
+    "stories": "2026-10-24T10:52:38+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/XV0Ol5RXzks",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448899127332945",
+    "stories": "story 18136154227650488"
+   },
+   "title": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?"
+  },
   {
    "id": "2026-10-24-1-verse",
    "date": "2026-10-24",
