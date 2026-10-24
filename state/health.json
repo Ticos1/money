@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-24T00:38:54+00:00",
- "date": "2026-10-23",
+ "updated_at": "2026-10-24T04:31:24+00:00",
+ "date": "2026-10-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 457,
-   "days_left": 457,
+   "fresh": 458,
+   "days_left": 458,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1107,
+   "fresh": 1108,
    "days_left": 158,
    "warn": false
   },
@@ -49,253 +49,12 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-23-10-truefalse",
-   "date": "2026-10-23",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-23T21:31",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-24T00:35:32+00:00",
-    "stories": "2026-10-24T00:36:40+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1118401217824734",
-    "stories": "story 17933914926407263"
-   },
-   "title": "Em que caverna Isaque e Ismael sepultaram Abraão?"
-  },
-  {
-   "id": "2026-10-23-9-quiz",
-   "date": "2026-10-23",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-23T20:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-23T23:10:32+00:00",
-    "instagram": "2026-10-23T23:11:09+00:00",
-    "facebook": "2026-10-23T23:11:14+00:00",
-    "stories": "2026-10-23T23:11:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/c9kutsQ3Ygo",
-    "instagram": "https://www.instagram.com/reel/De2tNuCDNyA/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1112113768341342",
-    "stories": "story 18071951678764976"
-   },
-   "title": "De que material era a cana usada para medir a cidade santa, suas portas e muralha?"
-  },
-  {
-   "id": "2026-10-23-8-fill",
-   "date": "2026-10-23",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-23T18:25",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-23T21:25:29+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-23T21:26:30+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/1CXkCFHn4-0",
-    "stories": "story 18031402985880679"
-   },
-   "title": "Em _____ me deitarei e também dormirei, pois só tu, SENHOR, me fazes viver em segurança."
-  },
-  {
-   "id": "2026-10-23-7-quiz",
-   "date": "2026-10-23",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-23T16:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-23T19:50:30+00:00",
-    "stories": "2026-10-23T19:51:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2778769685857145",
-    "stories": "story 18102792647373854"
-   },
-   "title": "Qual palavra Jesus afirma ter feito no versículo 33?"
-  },
-  {
-   "id": "2026-10-23-6-truefalse",
-   "date": "2026-10-23",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-23T15:01",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-23T18:05:32+00:00",
-    "instagram": "2026-10-23T18:06:16+00:00",
-    "facebook": "2026-10-23T18:06:20+00:00",
-    "stories": "2026-10-23T18:06:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/c-qOZ2RGPG0",
-    "instagram": "https://www.instagram.com/reel/De2KUfNiRVC/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1090082146963313",
-    "stories": "story 18134330173670332"
-   },
-   "title": "Complete: “Eis que estou à porta e ___.”"
-  },
-  {
-   "id": "2026-10-23-5-curiosity",
-   "date": "2026-10-23",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-23T13:23",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-23T16:25:39+00:00",
-    "stories": "2026-10-23T16:27:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1755155282239171",
-    "stories": "story 17997606675046407"
-   },
-   "title": "Um rio que dá vida ao mar morto"
-  },
-  {
-   "id": "2026-10-23-4-quiz",
-   "date": "2026-10-23",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-23T11:55",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-23T14:55:32+00:00",
-    "instagram": "2026-10-23T14:56:09+00:00",
-    "facebook": "2026-10-23T14:56:13+00:00",
-    "stories": "2026-10-23T14:56:49+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/F4Q-enscTwA",
-    "instagram": "https://www.instagram.com/reel/De10kG_Dpu4/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2166897537539772",
-    "stories": "story 17969560055964949"
-   },
-   "title": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?"
-  },
-  {
-   "id": "2026-10-23-3-truefalse",
-   "date": "2026-10-23",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-23T09:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-23T12:55:30+00:00",
-    "stories": "2026-10-23T12:56:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1068890592849768",
-    "stories": "story 18096456773444352"
-   },
-   "title": "O que Ageu mandou o povo trazer do monte para reconstruir a casa?"
-  },
-  {
-   "id": "2026-10-23-2-quiz",
-   "date": "2026-10-23",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-23T07:59",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-23T11:00:27+00:00",
-    "instagram": null,
-    "facebook": "2026-10-23T11:00:32+00:00",
-    "stories": "2026-10-23T11:01:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/IRhJLHM1A5g",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4687088824942982",
-    "stories": "story 17996588310044568"
-   },
-   "title": "Que idade tinha Mefibosete quando caiu e ficou aleijado?"
-  },
-  {
-   "id": "2026-10-23-1-verse",
-   "date": "2026-10-23",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-23T06:20",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-23T09:21:46+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18013523810761382"
-   },
-   "title": "Salmos 139:23"
+ "today_done": [],
+ "specials": {
+  "2026-10-31": {
+   "key": "reforma",
+   "name": "Dia da Reforma",
+   "hook": "31 de outubro: só a graça, só a fé. 📖"
   }
- ],
- "specials": {}
+ }
 }
