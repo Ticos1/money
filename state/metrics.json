@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T20:45:34+00:00",
+ "updated_at": "2026-10-24T21:33:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,21 @@
     "comments": 0
    }
   },
+  "2026-10-24-8-fill": {
+   "type": "fill",
+   "date": "2026-10-24",
+   "time": "18:30",
+   "title": "Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-24-7-quiz": {
    "type": "quiz",
    "date": "2026-10-24",
@@ -31,9 +46,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 274,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 966.9
+    "views": 432,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 1470.4
    }
   },
   "2026-10-24-6-truefalse": {
@@ -66,7 +81,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 3,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +98,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 249,
+    "views": 250,
     "avg_watch_s": 4.2,
-    "watch_time_s": 906.0
+    "watch_time_s": 914.7
    }
   },
   "2026-10-24-4-quiz": {
@@ -102,13 +117,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 11,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 42.7
+    "avg_watch_s": 3.7,
+    "watch_time_s": 44.7
    },
    "facebook": {
     "likes": 0,
@@ -118,7 +133,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 14,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -135,9 +150,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 336,
+    "views": 345,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1126.2
+    "watch_time_s": 1150.6
    }
   },
   "2026-10-24-2-quiz": {
@@ -218,7 +233,7 @@
     "watch_time_s": 11.8
    },
    "youtube": {
-    "views": 49,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -233,7 +248,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 42,
+    "views": 40,
     "likes": 1,
     "comments": 0
    }
@@ -285,7 +300,7 @@
     "watch_time_s": 2153.0
    },
    "youtube": {
-    "views": 70,
+    "views": 71,
     "likes": 1,
     "comments": 0
    }
@@ -332,9 +347,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1433,
+    "views": 1434,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5766.1
+    "watch_time_s": 5787.9
    },
    "youtube": {
     "views": 33,
@@ -354,7 +369,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 483,
+    "views": 484,
     "avg_watch_s": 5.9,
     "watch_time_s": 2154.9
    }
@@ -452,7 +467,7 @@
     "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
    },
    "youtube": {
-    "views": 32,
+    "views": 42,
     "likes": 2,
     "comments": 0
    }
@@ -499,7 +514,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1431,
+    "views": 1432,
     "avg_watch_s": 5.7,
     "watch_time_s": 6171.4
    },
@@ -939,7 +954,7 @@
     "comments": 1,
     "views": 979,
     "avg_watch_s": 5.3,
-    "watch_time_s": 3981.2
+    "watch_time_s": 3982.0
    },
    "youtube": {
     "views": 52,
@@ -2464,7 +2479,7 @@
     "comments": 0,
     "views": 236,
     "avg_watch_s": 2.7,
-    "watch_time_s": 573.9
+    "watch_time_s": 574.5
    },
    "youtube": {
     "views": 9,
