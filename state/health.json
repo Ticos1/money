@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T10:54:13+00:00",
+ "updated_at": "2026-10-24T12:52:43+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-24-3-truefalse",
+   "date": "2026-10-24",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-24T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T12:50:30+00:00",
+    "stories": "2026-10-24T12:51:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1532147585418093",
+    "stories": "story 18637437844003780"
+   },
+   "title": "O que saiu da nuvem que envolveu os discípulos na transfiguração?"
+  },
   {
    "id": "2026-10-24-2-quiz",
    "date": "2026-10-24",
