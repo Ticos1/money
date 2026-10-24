@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:33:01+00:00",
+ "updated_at": "2026-10-24T23:08:17+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,35 @@
     "comments": 0
    }
   },
+  "2026-10-24-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "title": "Segundo Isaías, o que o povo que andava nas trevas viu?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/De5RbRHnzmv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2868135223566070"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-24-8-fill": {
    "type": "fill",
    "date": "2026-10-24",
@@ -29,7 +58,7 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -44,11 +73,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/39487854414162611"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 6,
     "comments": 0,
-    "views": 432,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 1470.4
+    "views": 1296,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 4401.8
    }
   },
   "2026-10-24-6-truefalse": {
@@ -81,7 +110,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -133,7 +162,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
+    "views": 14,
     "likes": 1,
     "comments": 0
    }
@@ -150,9 +179,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 345,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 1150.6
+    "views": 351,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1226.5
    }
   },
   "2026-10-24-2-quiz": {
@@ -233,7 +262,7 @@
     "watch_time_s": 11.8
    },
    "youtube": {
-    "views": 47,
+    "views": 49,
     "likes": 1,
     "comments": 0
    }
@@ -248,7 +277,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 40,
+    "views": 41,
     "likes": 1,
     "comments": 0
    }
@@ -265,9 +294,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1894,
+    "views": 1898,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8233.6
+    "watch_time_s": 8265.4
    }
   },
   "2026-10-23-6-truefalse": {
@@ -347,9 +376,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1434,
+    "views": 1436,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5787.9
+    "watch_time_s": 5800.0
    },
    "youtube": {
     "views": 33,
@@ -371,7 +400,7 @@
     "comments": 0,
     "views": 484,
     "avg_watch_s": 5.9,
-    "watch_time_s": 2154.9
+    "watch_time_s": 2155.5
    }
   },
   "2026-10-23-2-quiz": {
@@ -392,7 +421,7 @@
     "watch_time_s": 2404.5
    },
    "youtube": {
-    "views": 60,
+    "views": 62,
     "likes": 1,
     "comments": 0
    }
@@ -514,9 +543,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1432,
+    "views": 1433,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6171.4
+    "watch_time_s": 6178.2
    },
    "youtube": {
     "views": 136,
@@ -566,9 +595,9 @@
    "facebook": {
     "likes": 11,
     "comments": 3,
-    "views": 1170,
+    "views": 1171,
     "avg_watch_s": 5.6,
-    "watch_time_s": 4755.3
+    "watch_time_s": 4756.7
    },
    "youtube": {
     "views": 124,
@@ -885,9 +914,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 20.0,
-    "watch_time_s": 20.0
+    "views": 4,
+    "avg_watch_s": 10.9,
+    "watch_time_s": 21.8
    },
    "youtube": {
     "views": 102,
@@ -2798,7 +2827,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 797,
+    "views": 798,
     "avg_watch_s": 2.6,
     "watch_time_s": 1908.4
    },
