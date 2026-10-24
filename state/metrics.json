@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-24T09:38:17+00:00",
+ "updated_at": "2026-10-24T10:54:10+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-24-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-24",
+   "time": "08:00",
+   "title": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/XV0Ol5RXzks",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448899127332945"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-24-1-verse": {
    "type": "verse",
    "date": "2026-10-24",
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1873,
+    "views": 1874,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8158.4
+    "watch_time_s": 8160.5
    }
   },
   "2026-10-23-6-truefalse": {
@@ -110,20 +133,20 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 32,
+    "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 39,
+    "views": 45,
     "total_interactions": 1,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 120.0
+    "avg_watch_s": 3.3,
+    "watch_time_s": 123.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 602,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 2030.6
+    "views": 604,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 2037.0
    },
    "youtube": {
     "views": 43,
@@ -195,7 +218,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 479,
+    "views": 480,
     "avg_watch_s": 5.9,
     "watch_time_s": 2138.5
    }
@@ -345,7 +368,7 @@
     "watch_time_s": 6171.4
    },
    "youtube": {
-    "views": 131,
+    "views": 132,
     "likes": 0,
     "comments": 0
    }
@@ -397,7 +420,7 @@
     "watch_time_s": 4748.0
    },
    "youtube": {
-    "views": 115,
+    "views": 117,
     "likes": 5,
     "comments": 0
    }
@@ -529,9 +552,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 982,
+    "views": 983,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4310.6
+    "watch_time_s": 4317.6
    }
   },
   "2026-10-21-6-truefalse": {
