@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-24T15:04:13+00:00",
+ "updated_at": "2026-10-24T15:07:31+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-24-11-compilation": {
+   "type": "compilation",
+   "date": "2026-10-24",
+   "time": "12:00",
+   "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min",
+   "hook": null,
+   "links": {
+    "youtube": "https://youtu.be/bnFOqRYpZxg"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-24-4-quiz": {
    "type": "quiz",
    "date": "2026-10-24",
@@ -52,8 +67,8 @@
     "likes": 1,
     "comments": 0,
     "views": 270,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 890.7
+    "avg_watch_s": 4.2,
+    "watch_time_s": 907.6
    }
   },
   "2026-10-24-2-quiz": {
@@ -188,7 +203,7 @@
     "reach": 75,
     "saved": 0,
     "shares": 0,
-    "views": 103,
+    "views": 106,
     "total_interactions": 2,
     "avg_watch_s": 4.5,
     "watch_time_s": 349.9
