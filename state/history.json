@@ -260,6 +260,106 @@
    }
   },
   {
+   "id": "2026-10-24-8-fill",
+   "date": "2026-10-24",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-24T18:27",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-24T08:24:47+00:00",
+   "source": "bank",
+   "bank_id": "v573",
+   "model": null,
+   "content": {
+    "ref": "1 Timóteo 6:12",
+    "ref_label": "1 Timóteo 6:12",
+    "verse_text": "Combata o bom combate da fé. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.",
+    "question": "Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.",
+    "options": [
+     "fortaleza",
+     "esperança",
+     "fé",
+     "verdade"
+    ],
+    "answer": 2,
+    "answer_word": "fé",
+    "tags": [
+     "perseveranca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo #biblia #desafiobiblico #cristao #evangelico #quizbiblico #deus #gospel",
+    "facebook": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo",
+    "tiktok": "Versículo para não desistir\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "kwai": "Versículo para não desistir\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo para não desistir: 1 Timóteo 6:12 📖 #shorts",
+     "description": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #fe",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "fe",
+      "1 timóteo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T21:30:39+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-24T21:31:12+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/mBz_9uWFGNI",
+    "stories": "story 18118085866957635"
+   }
+  },
+  {
    "id": "2026-10-24-7-quiz",
    "date": "2026-10-24",
    "slot": 7,
