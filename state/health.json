@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T18:14:27+00:00",
+ "updated_at": "2026-10-24T19:57:36+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-7-quiz",
+   "date": "2026-10-24",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-24T16:52",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T19:55:27+00:00",
+    "stories": "2026-10-24T19:56:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/39487854414162611",
+    "stories": "story 18118700248988365"
+   },
+   "title": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?"
   },
   {
    "id": "2026-10-24-6-truefalse",
