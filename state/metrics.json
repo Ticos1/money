@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-24T09:03:45+00:00",
+ "updated_at": "2026-10-24T09:38:17+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-24-1-verse": {
+   "type": "verse",
+   "date": "2026-10-24",
+   "time": "06:30",
+   "title": "Isaías 55:11",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-23-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-23",
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1872,
+    "views": 1873,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8156.9
+    "watch_time_s": 8158.4
    }
   },
   "2026-10-23-6-truefalse": {
@@ -188,8 +196,8 @@
     "likes": 1,
     "comments": 0,
     "views": 479,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 2136.7
+    "avg_watch_s": 5.9,
+    "watch_time_s": 2138.5
    }
   },
   "2026-10-23-2-quiz": {
@@ -285,7 +293,7 @@
     "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
    },
    "youtube": {
-    "views": 29,
+    "views": 30,
     "likes": 2,
     "comments": 0
    }
@@ -429,7 +437,7 @@
     "watch_time_s": 1398.7
    },
    "youtube": {
-    "views": 30,
+    "views": 31,
     "likes": 1,
     "comments": 0
    }
