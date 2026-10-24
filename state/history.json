@@ -260,6 +260,98 @@
    }
   },
   {
+   "id": "2026-10-24-7-quiz",
+   "date": "2026-10-24",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-24T16:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:24:17+00:00",
+   "source": "bank",
+   "bank_id": "q626",
+   "model": null,
+   "content": {
+    "ref": "Salmos 90:4",
+    "ref_label": "Salmos 90:4",
+    "question": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?",
+    "options": [
+     "Uma semana",
+     "Um século",
+     "Um sopro",
+     "O dia de ontem que passou"
+    ],
+    "answer": 3,
+    "evidence": "como o dia de ontem que passou",
+    "passage": "Pois mil anos, aos teus olhos, são como o dia de ontem que passou, como uma vigília da noite.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #palavradedeus #biblia #deus #gospel #teste #cristao #jesus #desafio #perguntasbiblicas",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #cristao #biblia",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #biblia #evangelico",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T19:55:27+00:00",
+    "stories": "2026-10-24T19:56:08+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/39487854414162611",
+    "stories": "story 18118700248988365"
+   }
+  },
+  {
    "id": "2026-10-24-6-truefalse",
    "date": "2026-10-24",
    "slot": 6,
