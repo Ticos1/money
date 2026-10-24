@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-24T15:04:15+00:00",
+ "updated_at": "2026-10-24T15:07:36+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,29 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-24-11-compilation",
+   "date": "2026-10-24",
+   "slot": 11,
+   "time": "12:00",
+   "publish_at": "2026-10-24T12:03",
+   "type": "compilation",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T15:05:34+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtu.be/bnFOqRYpZxg"
+   },
+   "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
   {
    "id": "2026-10-24-4-quiz",
    "date": "2026-10-24",
