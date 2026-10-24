@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T16:43:58+00:00",
+ "updated_at": "2026-10-24T18:14:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,41 @@
     "comments": 0
    }
   },
+  "2026-10-24-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-24",
+   "time": "15:00",
+   "title": "O que Jezabel fez ao saber que Jeú chegava a Jezreel?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/_dKJlE4sHis",
+    "instagram": "https://www.instagram.com/reel/De4vw2yml5a/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1357513539649593"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-24-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-24",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 22,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 38.7
    }
   },
   "2026-10-24-4-quiz": {
@@ -50,13 +85,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 7,
     "total_interactions": 0,
-    "avg_watch_s": 0.9,
-    "watch_time_s": 3.8
+    "avg_watch_s": 3.3,
+    "watch_time_s": 19.6
    },
    "facebook": {
     "likes": 0,
@@ -66,7 +101,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 272,
+    "views": 291,
     "avg_watch_s": 4.1,
-    "watch_time_s": 909.6
+    "watch_time_s": 958.6
    }
   },
   "2026-10-24-2-quiz": {
@@ -101,9 +136,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 428,
+    "views": 439,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1416.3
+    "watch_time_s": 1445.5
    },
    "youtube": {
     "views": 10,
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 114,
+    "reach": 116,
     "saved": 0,
     "shares": 0,
-    "views": 136,
+    "views": 138,
     "total_interactions": 0,
     "avg_watch_s": 3.4,
-    "watch_time_s": 399.2
+    "watch_time_s": 400.2
    },
    "facebook": {
     "likes": 0,
@@ -166,7 +201,7 @@
     "watch_time_s": 10.2
    },
    "youtube": {
-    "views": 47,
+    "views": 49,
     "likes": 1,
     "comments": 0
    }
@@ -181,7 +216,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 39,
+    "views": 42,
     "likes": 1,
     "comments": 0
    }
@@ -200,7 +235,7 @@
     "comments": 0,
     "views": 1892,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8223.6
+    "watch_time_s": 8224.0
    }
   },
   "2026-10-23-6-truefalse": {
@@ -228,12 +263,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 615,
+    "views": 617,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2137.8
+    "watch_time_s": 2146.6
    },
    "youtube": {
-    "views": 70,
+    "views": 71,
     "likes": 1,
     "comments": 0
    }
@@ -285,7 +320,7 @@
     "watch_time_s": 5763.2
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 0,
     "comments": 0
    }
@@ -302,9 +337,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 482,
+    "views": 483,
     "avg_watch_s": 5.9,
-    "watch_time_s": 2147.3
+    "watch_time_s": 2154.9
    }
   },
   "2026-10-23-2-quiz": {
@@ -325,7 +360,7 @@
     "watch_time_s": 2403.8
    },
    "youtube": {
-    "views": 58,
+    "views": 60,
     "likes": 1,
     "comments": 0
    }
@@ -385,7 +420,7 @@
     "watch_time_s": 63.2
    },
    "youtube": {
-    "views": 42,
+    "views": 43,
     "likes": 2,
     "comments": 0
    }
@@ -452,7 +487,7 @@
     "watch_time_s": 6171.4
    },
    "youtube": {
-    "views": 135,
+    "views": 136,
     "likes": 0,
     "comments": 0
    }
