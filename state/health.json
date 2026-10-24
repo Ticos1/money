@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-24T19:57:36+00:00",
+ "updated_at": "2026-10-24T21:33:04+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-8-fill",
+   "date": "2026-10-24",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-24T18:27",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T21:30:39+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-24T21:31:12+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/mBz_9uWFGNI",
+    "stories": "story 18118085866957635"
+   },
+   "title": "Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas."
   },
   {
    "id": "2026-10-24-7-quiz",
