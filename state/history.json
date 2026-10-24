@@ -260,6 +260,97 @@
    }
   },
   {
+   "id": "2026-10-24-5-curiosity",
+   "date": "2026-10-24",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-24T13:37",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-24T08:23:21+00:00",
+   "source": "bank",
+   "bank_id": "c053",
+   "model": null,
+   "content": {
+    "ref": "Atos 17:11",
+    "ref_label": "Atos 17:11",
+    "title": "Os nobres de Bereia",
+    "text": "Os bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam.",
+    "evidence": "examinando as Escrituras diariamente",
+    "passage": "Ora, estes foram mais nobres do que os de Tessalônica, pois receberam a palavra com toda a disposição, examinando as Escrituras diariamente para ver se estas coisas eram assim.",
+    "tags": [
+     "biblia",
+     "estudo"
+    ]
+   },
+   "captions": {
+    "instagram": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #estudo #vocesabia #curiosidadesbiblicas #cristao #evangelico #deus #estudobiblico #jesus #gospel #palavradedeus #fe",
+    "facebook": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #estudo #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Os bereanos eram nobres por estudarem a Bíblia todo dia. Seja como eles! 🙏\n#biblia #estudo #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "kwai": "Os bereanos eram nobres por estudarem a Bíblia todo dia. Seja como eles! 🙏\n#biblia #estudo #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Os nobres de Bereia #shorts",
+     "description": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #biblia #estudo #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "biblia",
+      "estudo",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T16:40:30+00:00",
+    "stories": "2026-10-24T16:42:12+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1159510633264030",
+    "stories": "story 18119559925946748"
+   }
+  },
+  {
    "id": "2026-10-24-4-quiz",
    "date": "2026-10-24",
    "slot": 4,
