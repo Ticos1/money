@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-23-10-truefalse",
+   "date": "2026-10-23",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-23T21:31",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-23T08:24:52+00:00",
+   "source": "bank",
+   "bank_id": "q962",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 25:9",
+    "ref_label": "Gênesis 25:9",
+    "question": "Em que caverna Isaque e Ismael sepultaram Abraão?",
+    "shown": "Macpela",
+    "is_true": true,
+    "correct": "Macpela",
+    "evidence": "o sepultaram na caverna de Macpela",
+    "passage": "Isaque e Ismael, seus filhos, o sepultaram na caverna de Macpela, no campo de Efrom, filho de Zoar, o heteu, que fica perto de Manre,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #deus #perguntasbiblicas #cristao #jesus #desafiobiblico #conhecimentobiblico #evangelico #fe #biblia",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #jesus",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #deus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #deus #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Em que caverna Isaque e Ismael sepultaram Abraão? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que caverna Isaque e Ismael sepultaram Abraão?\nResposta: Macpela\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T00:35:32+00:00",
+    "stories": "2026-10-24T00:36:40+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118401217824734",
+    "stories": "story 17933914926407263"
+   }
+  },
+  {
    "id": "2026-10-23-9-quiz",
    "date": "2026-10-23",
    "slot": 9,
