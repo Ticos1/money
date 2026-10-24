@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-23T23:14:01+00:00",
+ "updated_at": "2026-10-24T00:38:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-23-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-23",
+   "time": "21:30",
+   "title": "Em que caverna Isaque e Ismael sepultaram Abraão?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118401217824734"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-23-9-quiz": {
    "type": "quiz",
    "date": "2026-10-23",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 10.2,
+    "watch_time_s": 10.2
    },
    "youtube": {
     "views": 0,
@@ -49,8 +66,8 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 12,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2778769685857145"
    },
    "facebook": {
-    "likes": 4,
+    "likes": 7,
     "comments": 0,
-    "views": 1308,
+    "views": 1746,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5634.9
+    "watch_time_s": 6772.4
    }
   },
   "2026-10-23-6-truefalse": {
@@ -83,25 +100,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1090082146963313"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 4,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 5,
-    "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 16.3
+    "views": 10,
+    "total_interactions": 1,
+    "avg_watch_s": 2.1,
+    "watch_time_s": 21.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 595,
+    "views": 601,
     "avg_watch_s": 4.3,
-    "watch_time_s": 2006.7
+    "watch_time_s": 2028.2
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 0,
     "comments": 0
    }
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 285,
+    "views": 287,
     "avg_watch_s": 4.0,
-    "watch_time_s": 992.7
+    "watch_time_s": 996.6
    }
   },
   "2026-10-23-4-quiz": {
@@ -137,23 +154,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 16.8
+    "avg_watch_s": 4.1,
+    "watch_time_s": 37.0
    },
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1339,
+    "views": 1422,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5338.7
+    "watch_time_s": 5736.6
    },
    "youtube": {
-    "views": 12,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -170,9 +187,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 474,
+    "views": 478,
     "avg_watch_s": 6.0,
-    "watch_time_s": 2134.2
+    "watch_time_s": 2136.7
    }
   },
   "2026-10-23-2-quiz": {
@@ -188,12 +205,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 482,
+    "views": 485,
     "avg_watch_s": 7.0,
-    "watch_time_s": 2375.9
+    "watch_time_s": 2391.3
    },
    "youtube": {
-    "views": 26,
+    "views": 35,
     "likes": 1,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 10.7,
-    "watch_time_s": 10.7
+    "views": 3,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 11.9
    }
   },
   "2026-10-22-9-quiz": {
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 9.8,
-    "watch_time_s": 9.8
+    "views": 8,
+    "avg_watch_s": 21.1,
+    "watch_time_s": 63.2
    },
    "youtube": {
-    "views": 24,
+    "views": 30,
     "likes": 2,
     "comments": 0
    }
@@ -285,9 +302,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1269,
+    "views": 1272,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5034.3
+    "watch_time_s": 5062.1
    }
   },
   "2026-10-22-6-truefalse": {
@@ -315,12 +332,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1428,
+    "views": 1431,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6144.0
+    "watch_time_s": 6171.4
    },
    "youtube": {
-    "views": 114,
+    "views": 119,
     "likes": 0,
     "comments": 0
    }
@@ -372,8 +389,8 @@
     "watch_time_s": 4748.0
    },
    "youtube": {
-    "views": 91,
-    "likes": 4,
+    "views": 97,
+    "likes": 5,
     "comments": 0
    }
   },
@@ -472,7 +489,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 59,
+    "views": 60,
     "likes": 4,
     "comments": 0
    }
@@ -558,7 +575,7 @@
     "comments": 0,
     "views": 240,
     "avg_watch_s": 2.9,
-    "watch_time_s": 653.9
+    "watch_time_s": 655.9
    }
   },
   "2026-10-21-4-quiz": {
@@ -2278,7 +2295,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 234,
+    "views": 235,
     "avg_watch_s": 2.7,
     "watch_time_s": 572.9
    },
