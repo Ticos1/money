@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T18:14:25+00:00",
+ "updated_at": "2026-10-24T19:57:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,23 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-24-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-24",
+   "time": "17:00",
+   "title": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/39487854414162611"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-24-6-truefalse": {
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 22,
-    "avg_watch_s": 2.4,
-    "watch_time_s": 38.7
+    "views": 247,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 900.9
    }
   },
   "2026-10-24-4-quiz": {
@@ -85,13 +102,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 19.6
+    "avg_watch_s": 3.8,
+    "watch_time_s": 34.5
    },
    "facebook": {
     "likes": 0,
@@ -101,7 +118,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -116,11 +133,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1532147585418093"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 291,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 958.6
+    "views": 326,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1069.0
    }
   },
   "2026-10-24-2-quiz": {
@@ -136,12 +153,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 439,
+    "views": 448,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1445.5
+    "watch_time_s": 1472.1
    },
    "youtube": {
-    "views": 10,
+    "views": 11,
     "likes": 0,
     "comments": 0
    }
@@ -196,7 +213,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 10.2,
     "watch_time_s": 10.2
    },
@@ -233,9 +250,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1892,
+    "views": 1893,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8224.0
+    "watch_time_s": 8233.2
    }
   },
   "2026-10-23-6-truefalse": {
@@ -263,12 +280,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 617,
+    "views": 619,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2146.6
+    "watch_time_s": 2153.0
    },
    "youtube": {
-    "views": 71,
+    "views": 70,
     "likes": 1,
     "comments": 0
    }
@@ -315,12 +332,12 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1429,
+    "views": 1430,
     "avg_watch_s": 5.4,
     "watch_time_s": 5763.2
    },
    "youtube": {
-    "views": 32,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
@@ -355,7 +372,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 489,
+    "views": 490,
     "avg_watch_s": 6.9,
     "watch_time_s": 2403.8
    },
@@ -420,7 +437,7 @@
     "watch_time_s": 63.2
    },
    "youtube": {
-    "views": 43,
+    "views": 44,
     "likes": 2,
     "comments": 0
    }
@@ -435,7 +452,7 @@
     "youtube": "https://youtube.com/shorts/LHiIA9KpV4I"
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 2,
     "comments": 0
    }
@@ -1042,9 +1059,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 4.3
    }
   },
   "2026-10-19-9-quiz": {
