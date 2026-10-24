@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-10-24-2-quiz",
+   "date": "2026-10-24",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-24T07:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:21:59+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Deuteronômio 20:14",
+    "ref_label": "Deuteronômio 20:14",
+    "question": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?",
+    "options": [
+     "mulheres",
+     "animais",
+     "pássaros",
+     "árvores"
+    ],
+    "answer": 0,
+    "evidence": "mulheres",
+    "passage": "mas as mulheres, as crianças, os rebanhos e tudo o que houver na cidade, todos os seus despojos, você tomará como despojo para si mesmo. Você poderá usar os despojos dos seus inimigos, que o SENHOR, o seu Deus, lhe deu.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #desafio #cristao #evangelico #palavradedeus #conhecimentobiblico #biblia #fe #gospel #deus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #cristao",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico #biblia",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-24T10:51:50+00:00",
+    "instagram": null,
+    "facebook": "2026-10-24T10:51:55+00:00",
+    "stories": "2026-10-24T10:52:38+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/XV0Ol5RXzks",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448899127332945",
+    "stories": "story 18136154227650488"
+   }
+  },
+  {
    "id": "2026-10-24-1-verse",
    "date": "2026-10-24",
    "slot": 1,
