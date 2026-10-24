@@ -1,3 +1,1264 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-24-11-compilation",
+   "date": "2026-10-24",
+   "slot": 11,
+   "time": "12:00",
+   "publish_at": "2026-10-24T12:03",
+   "type": "compilation",
+   "status": "approved",
+   "created_at": "2026-10-24T08:33:26+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 40,
+    "duration": 601,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Qual cidade é citada como origem do Libertador em Romanos 11?",
+      "ref_label": "Romanos 11:26"
+     },
+     {
+      "n": 2,
+      "question": "Qual palavra descreve quem o SENHOR levanta do pó em Salmos 113?",
+      "ref_label": "Salmos 113:7"
+     },
+     {
+      "n": 3,
+      "question": "A quem Jesus disse: \"vem para fora!\"?",
+      "ref_label": "João 11:43"
+     },
+     {
+      "n": 4,
+      "question": "Quem era o comandante do exército de Saul quando Davi enfrentou Golias?",
+      "ref_label": "1 Samuel 17:55"
+     },
+     {
+      "n": 5,
+      "question": "Por que o Senhor diz que vomitaria a igreja de Laodiceia da sua boca?",
+      "ref_label": "Apocalipse 3:16"
+     },
+     {
+      "n": 6,
+      "question": "Segundo a profecia citada em Mateus 2, onde se ouviu uma voz de lamentação e choro?",
+      "ref_label": "Mateus 2:18"
+     },
+     {
+      "n": 7,
+      "question": "Complete a declaração de Jó: “Eu sei que o meu ___ vive.”",
+      "ref_label": "Jó 19:25"
+     },
+     {
+      "n": 8,
+      "question": "Quantos pães Jesus pegou na segunda multiplicação, além dos peixes?",
+      "ref_label": "Mateus 15:36"
+     },
+     {
+      "n": 9,
+      "question": "Onde Raquel foi sepultada?",
+      "ref_label": "Gênesis 35:19"
+     },
+     {
+      "n": 10,
+      "question": "O que Tomé disse que precisava ver nas mãos de Jesus para crer?",
+      "ref_label": "João 20:25"
+     },
+     {
+      "n": 11,
+      "question": "Com quem o comandante romano confundiu Paulo, ao ouvi-lo falar grego?",
+      "ref_label": "Atos 21:38"
+     },
+     {
+      "n": 12,
+      "question": "Em qual terra vivia Jó?",
+      "ref_label": "Jó 1:1"
+     },
+     {
+      "n": 13,
+      "question": "O que Gideão colocou na eira para pedir um sinal a Deus?",
+      "ref_label": "Juízes 6:37"
+     },
+     {
+      "n": 14,
+      "question": "Quem começou a ser um homem poderoso na terra, segundo Gênesis?",
+      "ref_label": "Gênesis 10:8"
+     },
+     {
+      "n": 15,
+      "question": "Sobre quantos bodes Arão lançava sortes?",
+      "ref_label": "Levítico 16:8"
+     },
+     {
+      "n": 16,
+      "question": "De que material era a cana usada para medir a cidade santa, suas portas e muralha?",
+      "ref_label": "Apocalipse 21:15"
+     },
+     {
+      "n": 17,
+      "question": "Mostrando hospitalidade, quem alguns hospedaram sem saber?",
+      "ref_label": "Hebreus 13:2"
+     },
+     {
+      "n": 18,
+      "question": "Até qual cidade Ló armou sua tenda?",
+      "ref_label": "Gênesis 13:12"
+     },
+     {
+      "n": 19,
+      "question": "Qual profeta Deus prometeu enviar antes do grande e terrível dia do SENHOR?",
+      "ref_label": "Malaquias 4:5"
+     },
+     {
+      "n": 20,
+      "question": "Para dentro de qual rebanho os espíritos imundos entraram e se precipitaram no mar?",
+      "ref_label": "Mateus 8:32"
+     },
+     {
+      "n": 21,
+      "question": "Com qual antigo discípulo, de Chipre, Paulo e seus companheiros se hospedariam em Jerusalém?",
+      "ref_label": "Atos 21:16"
+     },
+     {
+      "n": 22,
+      "question": "Quem foi bendita entre as mulheres em Juízes 5?",
+      "ref_label": "Juízes 5:24"
+     },
+     {
+      "n": 23,
+      "question": "Quem era governador da Síria quando foi feito o primeiro recenseamento?",
+      "ref_label": "Lucas 2:2"
+     },
+     {
+      "n": 24,
+      "question": "Nínive era uma cidade de quantos dias de caminhada?",
+      "ref_label": "Jonas 3:3"
+     },
+     {
+      "n": 25,
+      "question": "Como o diabo anda ao redor, segundo 1 Pedro?",
+      "ref_label": "1 Pedro 5:8"
+     },
+     {
+      "n": 26,
+      "question": "Onde a flecha lançada ao acaso atingiu o rei de Israel?",
+      "ref_label": "1 Reis 22:34"
+     },
+     {
+      "n": 27,
+      "question": "A qual profetisa os enviados de Josias foram consultar sobre o livro da lei?",
+      "ref_label": "2 Reis 22:14"
+     },
+     {
+      "n": 28,
+      "question": "Qual expressão Isaías 65:17 usa para descrever a criação divina?",
+      "ref_label": "Isaías 65:17"
+     },
+     {
+      "n": 29,
+      "question": "Natã disse a Davi: 'Você é esse...'",
+      "ref_label": "2 Samuel 12:7"
+     },
+     {
+      "n": 30,
+      "question": "No ano novo, Paulo diz: esquecendo o que ficou para trás, eu prossigo para o quê?",
+      "ref_label": "Filipenses 3:13-14"
+     },
+     {
+      "n": 31,
+      "question": "Quantos holocaustos Salomão ofereceu no altar de Gibeão?",
+      "ref_label": "1 Reis 3:4"
+     },
+     {
+      "n": 32,
+      "question": "Qual palavra do Eclesiastes 5:12 descreve o sono do trabalhador?",
+      "ref_label": "Eclesiastes 5:12"
+     },
+     {
+      "n": 33,
+      "question": "Que idade tinha Mefibosete quando caiu e ficou aleijado?",
+      "ref_label": "2 Samuel 4:4"
+     },
+     {
+      "n": 34,
+      "question": "Qual palavra do Salmo 31 descreve o que Davi entrega nas mãos de Deus?",
+      "ref_label": "Salmos 31:5"
+     },
+     {
+      "n": 35,
+      "question": "Segundo o ditado citado por Jesus em Samaria, quantos meses faltavam até a colheita?",
+      "ref_label": "João 4:35"
+     },
+     {
+      "n": 36,
+      "question": "Qual palavra Jesus afirma ter feito no versículo 33?",
+      "ref_label": "João 16:33"
+     },
+     {
+      "n": 37,
+      "question": "Qual discípulo disse \"Senhor meu e Deus meu!\" ao ver Jesus ressuscitado?",
+      "ref_label": "João 20:27-28"
+     },
+     {
+      "n": 38,
+      "question": "De que cor foi a veste com que vestiram Jesus antes da coroa de espinhos?",
+      "ref_label": "Marcos 15:17"
+     },
+     {
+      "n": 39,
+      "question": "Na parábola do bom samaritano, o homem descia de Jerusalém para qual cidade?",
+      "ref_label": "Lucas 10:30"
+     },
+     {
+      "n": 40,
+      "question": "Qual anjo foi enviado por Deus a Nazaré?",
+      "ref_label": "Lucas 1:26"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 40 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:36 Pergunta 3\n0:49 Pergunta 4\n1:04 Pergunta 5\n1:20 Pergunta 6\n1:35 Pergunta 7\n1:49 Pergunta 8\n2:03 Pergunta 9\n2:19 Pergunta 10\n2:34 Pergunta 11\n2:49 Pergunta 12\n3:03 Pergunta 13\n3:17 Pergunta 14\n3:32 Pergunta 15\n3:45 Pergunta 16\n4:00 Pergunta 17\n4:15 Pergunta 18\n4:28 Pergunta 19\n4:43 Pergunta 20\n5:00 Pergunta 21\n5:15 Pergunta 22\n5:29 Pergunta 23\n5:44 Pergunta 24\n5:58 Pergunta 25\n6:14 Pergunta 26\n6:29 Pergunta 27\n6:43 Pergunta 28\n6:59 Pergunta 29\n7:12 Pergunta 30\n7:27 Pergunta 31\n7:41 Pergunta 32\n7:55 Pergunta 33\n8:10 Pergunta 34\n8:25 Pergunta 35\n8:40 Pergunta 36\n8:54 Pergunta 37\n9:08 Pergunta 38\n9:23 Pergunta 39\n9:38 Pergunta 40\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "media": {
+    "base": "media/2026-10-24/2026-10-24-11-compilation/",
+    "version": 1,
+    "video_music": "video_longo.mp4",
+    "poster": "miniatura.jpg",
+    "thumbnail": "miniatura.jpg",
+    "images": [],
+    "duration": 600.9,
+    "long": true
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-10-truefalse",
+   "date": "2026-10-24",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-24T21:31",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-24T08:25:47+00:00",
+   "source": "bank",
+   "bank_id": "q942",
+   "model": null,
+   "content": {
+    "ref": "Daniel 5:25",
+    "ref_label": "Daniel 5:25",
+    "question": "Qual foi a escrita traçada na parede do palácio de Belsazar?",
+    "shown": "Mene, Mene, Tequel, Ufarsim",
+    "is_true": true,
+    "correct": "Mene, Mene, Tequel, Ufarsim",
+    "evidence": "MENE, MENE, TEQUEL, UFARSIM",
+    "passage": "“Esta é a escrita que foi traçada: 'MENE, MENE, TEQUEL, UFARSIM.'",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual foi a escrita traçada na parede do palácio de Belsazar?\nResposta: Mene, Mene, Tequel, Ufarsim\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #fe #desafiobiblico #conhecimentobiblico #perguntasbiblicas #jesus #deus #evangelico #gospel #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual foi a escrita traçada na parede do palácio de Belsazar?\nResposta: Mene, Mene, Tequel, Ufarsim\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #evangelico #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #fe #biblia",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQual foi a escrita traçada na parede do palácio de Belsazar?\nResposta: Mene, Mene, Tequel, Ufarsim\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual foi a escrita traçada na parede do palácio de Belsazar?\nResposta: Mene, Mene, Tequel, Ufarsim\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "daniel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-9-quiz",
+   "date": "2026-10-24",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-24T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:25:19+00:00",
+   "source": "bank",
+   "bank_id": "q644",
+   "model": null,
+   "content": {
+    "ref": "Isaías 9:2",
+    "ref_label": "Isaías 9:2",
+    "question": "Segundo Isaías, o que o povo que andava nas trevas viu?",
+    "options": [
+     "Uma grande luz",
+     "Uma grande cidade",
+     "Um grande rei",
+     "Um grande exército"
+    ],
+    "answer": 0,
+    "evidence": "O povo que andava nas trevas viu uma grande luz",
+    "passage": "O povo que andava nas trevas viu uma grande luz. A luz brilhou sobre aqueles que viviam na terra da sombra da morte.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #gospel #biblia #palavradedeus #deus #perguntasbiblicas #evangelico #jesus #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #teste",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #cristao #desafio",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #evangelico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Segundo Isaías, o que o povo que andava nas trevas viu? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Isaías, o que o povo que andava nas trevas viu?\n\nA) Uma grande luz\nB) Uma grande cidade\nC) Um grande rei\nD) Um grande exército\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-8-fill",
+   "date": "2026-10-24",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-24T18:27",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-24T08:24:47+00:00",
+   "source": "bank",
+   "bank_id": "v573",
+   "model": null,
+   "content": {
+    "ref": "1 Timóteo 6:12",
+    "ref_label": "1 Timóteo 6:12",
+    "verse_text": "Combata o bom combate da fé. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.",
+    "question": "Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.",
+    "options": [
+     "fortaleza",
+     "esperança",
+     "fé",
+     "verdade"
+    ],
+    "answer": 2,
+    "answer_word": "fé",
+    "tags": [
+     "perseveranca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo #biblia #desafiobiblico #cristao #evangelico #quizbiblico #deus #gospel",
+    "facebook": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo",
+    "tiktok": "Versículo para não desistir\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "kwai": "Versículo para não desistir\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #fe #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo para não desistir: 1 Timóteo 6:12 📖 #shorts",
+     "description": "Versículo para não desistir: 1 Timóteo 6:12\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Combata o bom combate da _____. Tome posse da vida eterna para a qual você foi chamado, e você fez a boa confissão diante de muitas testemunhas.”\n\nA) fortaleza\nB) esperança\nC) fé\nD) verdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #fe",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "fe",
+      "1 timóteo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-7-quiz",
+   "date": "2026-10-24",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-24T16:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:24:17+00:00",
+   "source": "bank",
+   "bank_id": "q626",
+   "model": null,
+   "content": {
+    "ref": "Salmos 90:4",
+    "ref_label": "Salmos 90:4",
+    "question": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?",
+    "options": [
+     "Uma semana",
+     "Um século",
+     "Um sopro",
+     "O dia de ontem que passou"
+    ],
+    "answer": 3,
+    "evidence": "como o dia de ontem que passou",
+    "passage": "Pois mil anos, aos teus olhos, são como o dia de ontem que passou, como uma vigília da noite.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #palavradedeus #biblia #deus #gospel #teste #cristao #jesus #desafio #perguntasbiblicas",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #cristao #biblia",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #biblia #evangelico",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nSegundo o Salmo 90, mil anos aos olhos de Deus são como o quê?\n\nA) Uma semana\nB) Um século\nC) Um sopro\nD) O dia de ontem que passou\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-6-truefalse",
+   "date": "2026-10-24",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-24T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-24T08:23:46+00:00",
+   "source": "bank",
+   "bank_id": "q407",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 9:30",
+    "ref_label": "2 Reis 9:30",
+    "question": "O que Jezabel fez ao saber que Jeú chegava a Jezreel?",
+    "shown": "Chamou o exército",
+    "is_true": false,
+    "correct": "Pintou os olhos",
+    "evidence": "ela pintou os olhos, adornou a cabeça",
+    "passage": "Quando Jeú chegou a Jezreel, Jezabel ouviu falar disso; então ela pintou os olhos, adornou a cabeça e olhou pela janela.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Jezabel fez ao saber que Jeú chegava a Jezreel?\nResposta: Chamou o exército\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #biblia #deus #gospel #evangelico #desafiobiblico #fe #cristao #palavradedeus #jesus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Jezabel fez ao saber que Jeú chegava a Jezreel?\nResposta: Chamou o exército\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #perguntasbiblicas",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #evangelico #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que Jezabel fez ao saber que Jeú chegava a Jezreel?\nResposta: Chamou o exército\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que Jezabel fez ao saber que Jeú chegava a Jezreel?\nResposta: Chamou o exército\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-5-curiosity",
+   "date": "2026-10-24",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-24T13:37",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-24T08:23:21+00:00",
+   "source": "bank",
+   "bank_id": "c053",
+   "model": null,
+   "content": {
+    "ref": "Atos 17:11",
+    "ref_label": "Atos 17:11",
+    "title": "Os nobres de Bereia",
+    "text": "Os bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam.",
+    "evidence": "examinando as Escrituras diariamente",
+    "passage": "Ora, estes foram mais nobres do que os de Tessalônica, pois receberam a palavra com toda a disposição, examinando as Escrituras diariamente para ver se estas coisas eram assim.",
+    "tags": [
+     "biblia",
+     "estudo"
+    ]
+   },
+   "captions": {
+    "instagram": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #estudo #vocesabia #curiosidadesbiblicas #cristao #evangelico #deus #estudobiblico #jesus #gospel #palavradedeus #fe",
+    "facebook": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#biblia #estudo #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Os bereanos eram nobres por estudarem a Bíblia todo dia. Seja como eles! 🙏\n#biblia #estudo #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "kwai": "Os bereanos eram nobres por estudarem a Bíblia todo dia. Seja como eles! 🙏\n#biblia #estudo #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Os nobres de Bereia #shorts",
+     "description": "Os nobres de Bereia\n\nOs bereanos foram chamados de nobres porque examinavam as Escrituras todos os dias para conferir o que ouviam. (Atos 17:11)\n\nOs bereanos, mencionados em Atos 17:11, eram conhecidos como nobres porque dedicavam tempo diariamente para examinar as Escrituras e confirmar o que ouviam. Essa prática nos mostra a importância de buscar a verdade com diligência e coração aberto. Que possamos seguir esse exemplo, estudando a Palavra com atenção e discernimento. Salve e compartilhe essa reflexão! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #biblia #estudo #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "biblia",
+      "estudo",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.86,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-4-quiz",
+   "date": "2026-10-24",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-24T11:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:22:51+00:00",
+   "source": "bank",
+   "bank_id": "q443",
+   "model": null,
+   "content": {
+    "ref": "Cânticos 2:1",
+    "ref_label": "Cânticos 2:1",
+    "question": "'Eu sou a rosa de...', diz a amada em Cânticos.",
+    "options": [
+     "Sião",
+     "Hebrom",
+     "Sarom",
+     "Carmelo"
+    ],
+    "answer": 2,
+    "evidence": "Eu sou a rosa de Sarom",
+    "passage": "Eu sou a rosa de Sarom, o lírio dos vales.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #cristao #gospel #jesus #teste #conhecimentobiblico #perguntasbiblicas #desafio #biblia #deus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #deus #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #jesus #deus",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: 'Eu sou a rosa de...', diz a amada em Cânticos. #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\n'Eu sou a rosa de...', diz a amada em Cânticos.\n\nA) Sião\nB) Hebrom\nC) Sarom\nD) Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "cânticos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.74,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-3-truefalse",
+   "date": "2026-10-24",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-24T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-24T08:22:25+00:00",
+   "source": "bank",
+   "bank_id": "q497",
+   "model": null,
+   "content": {
+    "ref": "Marcos 9:7",
+    "ref_label": "Marcos 9:7",
+    "question": "O que saiu da nuvem que envolveu os discípulos na transfiguração?",
+    "shown": "Um trovão",
+    "is_true": false,
+    "correct": "Uma voz",
+    "evidence": "da nuvem saiu uma voz",
+    "passage": "Uma nuvem os envolveu com a sua sombra, e da nuvem saiu uma voz: “Este é o meu Filho amado. Ouçam-no.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que saiu da nuvem que envolveu os discípulos na transfiguração?\nResposta: Um trovão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #desafiobiblico #palavradedeus #evangelico #gospel #conhecimentobiblico #biblia #perguntasbiblicas #cristao #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que saiu da nuvem que envolveu os discípulos na transfiguração?\nResposta: Um trovão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #gospel #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #jesus #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que saiu da nuvem que envolveu os discípulos na transfiguração?\nResposta: Um trovão\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que saiu da nuvem que envolveu os discípulos na transfiguração?\nResposta: Um trovão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-2-quiz",
+   "date": "2026-10-24",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-24T07:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-24T08:21:59+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Deuteronômio 20:14",
+    "ref_label": "Deuteronômio 20:14",
+    "question": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?",
+    "options": [
+     "mulheres",
+     "animais",
+     "pássaros",
+     "árvores"
+    ],
+    "answer": 0,
+    "evidence": "mulheres",
+    "passage": "mas as mulheres, as crianças, os rebanhos e tudo o que houver na cidade, todos os seus despojos, você tomará como despojo para si mesmo. Você poderá usar os despojos dos seus inimigos, que o SENHOR, o seu Deus, lhe deu.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #desafio #cristao #evangelico #palavradedeus #conhecimentobiblico #biblia #fe #gospel #deus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #cristao",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico #biblia",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?\n\nA) mulheres\nB) animais\nC) pássaros\nD) árvores\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-24-1-verse",
+   "date": "2026-10-24",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-24T06:32",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-24T08:21:27+00:00",
+   "source": "bank",
+   "bank_id": "v377",
+   "model": null,
+   "content": {
+    "ref": "Isaías 55:11",
+    "ref_label": "Isaías 55:11",
+    "verse_text": "Assim será a minha palavra que sair da minha boca: ela não voltará para mim vazia, mas realizará o que me agrada, e prosperará naquilo para o qual a enviei.",
+    "on_screen": "A Palavra de Deus nunca volta vazia.",
+    "reflection": "Quando Deus fala, algo acontece. A Palavra dEle cumpre o propósito para o qual foi enviada. Continue semeando e confiando, mesmo que ainda não veja o resultado.",
+    "theme": "Palavra de Deus",
+    "mood": "alegria",
+    "tags": [
+     "palavra",
+     "proposito"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a Palavra de Deus: Isaías 55:11\n“Assim será a minha palavra que sair da minha boca: ela não voltará para mim vazia, mas realizará o que me agrada, e prosperará naquilo para o qual a enviei.” (Isaías 55:11)\n\nQuando Deus fala, algo acontece. Sua palavra tem poder para transformar e cumprir o propósito que lhe foi confiado. Mesmo que ainda não vejamos o fruto, continue semeando e confiando no tempo dEle. Cada palavra lançada é garantia de vida e esperança. Salve para lembrar que a promessa permanece viva!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavra #proposito #versiculododia #versiculo #gospel #esperanca #oracao #evangelico #biblia #cristao #deus",
+    "facebook": "Versículo sobre a Palavra de Deus: Isaías 55:11\n“Assim será a minha palavra que sair da minha boca: ela não voltará para mim vazia, mas realizará o que me agrada, e prosperará naquilo para o qual a enviei.” (Isaías 55:11)\n\nQuando Deus fala, algo acontece. Sua palavra tem poder para transformar e cumprir o propósito que lhe foi confiado. Mesmo que ainda não vejamos o fruto, continue semeando e confiando no tempo dEle. Cada palavra lançada é garantia de vida e esperança. Salve para lembrar que a promessa permanece viva!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavra #proposito #versiculododia",
+    "tiktok": "Versículo sobre a Palavra de Deus\nA palavra de Deus sempre cumpre. Continue semeando e confiando!\n#versiculosobreapalavradedeus #palavra #proposito #versiculododia #versiculo",
+    "kwai": "Versículo sobre a Palavra de Deus\nA palavra de Deus sempre cumpre. Continue semeando e confiando!\n#versiculosobreapalavradedeus #palavra #proposito #versiculododia #versiculo",
+    "whatsapp": "“Assim será a minha palavra que sair da minha boca: ela não voltará para mim vazia, mas realizará o que me agrada, e prosperará naquilo para o qual a enviei.” (Isaías 55:11)\n\nQuando Deus fala, algo acontece. Sua palavra tem poder para transformar e cumprir o propósito que lhe foi confiado. Mesmo que ainda não vejamos o fruto, continue semeando e confiando no tempo dEle. Cada palavra lançada é garantia de vida e esperança. Salve para lembrar que a promessa permanece viva!\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre a Palavra de Deus: Isaías 55:11 🙏 #shorts",
+     "description": "Versículo sobre a Palavra de Deus: Isaías 55:11\n“Assim será a minha palavra que sair da minha boca: ela não voltará para mim vazia, mas realizará o que me agrada, e prosperará naquilo para o qual a enviei.” (Isaías 55:11)\n\nQuando Deus fala, algo acontece. Sua palavra tem poder para transformar e cumprir o propósito que lhe foi confiado. Mesmo que ainda não vejamos o fruto, continue semeando e confiando no tempo dEle. Cada palavra lançada é garantia de vida e esperança. Salve para lembrar que a promessa permanece viva!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapalavradedeus #palavra #proposito",
+     "tags": [
+      "versículo sobre a Palavra de Deus",
+      "versículos sobre a Palavra de Deus",
+      "palavra de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra",
+      "proposito",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 22.31,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-24/2026-10-24-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
