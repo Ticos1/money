@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:54:28+00:00",
+ "updated_at": "2026-10-24T16:43:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-10-24-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-24",
+   "time": "13:30",
+   "title": "Os nobres de Bereia",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1159510633264030"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-24-4-quiz": {
    "type": "quiz",
    "date": "2026-10-24",
@@ -33,13 +50,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 5,
     "total_interactions": 0,
-    "avg_watch_s": 0.5,
-    "watch_time_s": 1.1
+    "avg_watch_s": 0.9,
+    "watch_time_s": 3.8
    },
    "facebook": {
     "likes": 0,
@@ -49,7 +66,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 271,
+    "views": 272,
     "avg_watch_s": 4.1,
-    "watch_time_s": 908.8
+    "watch_time_s": 909.6
    }
   },
   "2026-10-24-2-quiz": {
@@ -84,12 +101,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 426,
+    "views": 428,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1414.2
+    "watch_time_s": 1416.3
    },
    "youtube": {
-    "views": 2,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "watch_time_s": 10.2
    },
    "youtube": {
-    "views": 43,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -164,7 +181,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 35,
+    "views": 39,
     "likes": 1,
     "comments": 0
    }
@@ -181,9 +198,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1891,
+    "views": 1892,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8222.8
+    "watch_time_s": 8223.6
    }
   },
   "2026-10-23-6-truefalse": {
@@ -200,13 +217,13 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 90,
+    "reach": 97,
     "saved": 0,
     "shares": 0,
-    "views": 124,
+    "views": 129,
     "total_interactions": 2,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 394.9
+    "avg_watch_s": 4.5,
+    "watch_time_s": 448.9
    },
    "facebook": {
     "likes": 0,
@@ -216,7 +233,7 @@
     "watch_time_s": 2137.8
    },
    "youtube": {
-    "views": 59,
+    "views": 70,
     "likes": 1,
     "comments": 0
    }
@@ -304,11 +321,11 @@
     "likes": 1,
     "comments": 0,
     "views": 489,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 2402.9
+    "avg_watch_s": 6.9,
+    "watch_time_s": 2403.8
    },
    "youtube": {
-    "views": 53,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 63.2
    },
    "youtube": {
-    "views": 43,
+    "views": 42,
     "likes": 2,
     "comments": 0
    }
@@ -435,7 +452,7 @@
     "watch_time_s": 6171.4
    },
    "youtube": {
-    "views": 133,
+    "views": 135,
     "likes": 0,
     "comments": 0
    }
@@ -487,7 +504,7 @@
     "watch_time_s": 4748.0
    },
    "youtube": {
-    "views": 118,
+    "views": 124,
     "likes": 5,
     "comments": 0
    }
@@ -1139,7 +1156,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1000,
+    "views": 1001,
     "avg_watch_s": 5.7,
     "watch_time_s": 4334.4
    },
