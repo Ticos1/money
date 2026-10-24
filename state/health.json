@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:33:04+00:00",
+ "updated_at": "2026-10-24T23:08:20+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
@@ -72,6 +72,34 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-9-quiz",
+   "date": "2026-10-24",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-24T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-24T23:06:00+00:00",
+    "facebook": "2026-10-24T23:06:04+00:00",
+    "stories": "2026-10-24T23:06:36+00:00",
+    "whatsapp": null
+   },
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/De5RbRHnzmv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2868135223566070",
+    "stories": "story 18168851701478314"
+   },
+   "title": "Segundo Isaías, o que o povo que andava nas trevas viu?"
   },
   {
    "id": "2026-10-24-8-fill",
