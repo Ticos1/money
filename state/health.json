@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:07:36+00:00",
+ "updated_at": "2026-10-24T16:44:01+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-5-curiosity",
+   "date": "2026-10-24",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-24T13:37",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-24T16:40:30+00:00",
+    "stories": "2026-10-24T16:42:12+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1159510633264030",
+    "stories": "story 18119559925946748"
+   },
+   "title": "Os nobres de Bereia"
   },
   {
    "id": "2026-10-24-4-quiz",
