@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-10-25-9-quiz",
+   "date": "2026-10-25",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-25T20:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-25T08:24:58+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 107:9",
+    "ref_label": "Salmos 107:9",
+    "question": "Qual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?",
+    "options": [
+     "bens",
+     "pão",
+     "água",
+     "ouro"
+    ],
+    "answer": 0,
+    "evidence": "bens",
+    "passage": "Pois ele satisfaz a alma anelante. Ele enche de bens a alma faminta.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?\n\nA) bens\nB) pão\nC) água\nD) ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #biblia #teste #conhecimentobiblico #jesus #gospel #cristao #perguntasbiblicas #fe #evangelico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?\n\nA) bens\nB) pão\nC) água\nD) ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #biblia #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #desafio",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?\n\nA) bens\nB) pão\nC) água\nD) ouro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?\n\nA) bens\nB) pão\nC) água\nD) ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-25T23:10:35+00:00",
+    "instagram": "2026-10-25T23:11:10+00:00",
+    "facebook": "2026-10-25T23:11:16+00:00",
+    "stories": "2026-10-25T23:11:51+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/RXhg58uAQ3s",
+    "instagram": "https://www.instagram.com/reel/De72zuGjwd5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1456696186453695",
+    "stories": "story 18114101684121906"
+   }
+  },
+  {
    "id": "2026-10-25-8-fill",
    "date": "2026-10-25",
    "slot": 8,
