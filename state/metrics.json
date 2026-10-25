@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T23:10:25+00:00",
+ "updated_at": "2026-10-25T00:37:35+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-10-24-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-24",
+   "time": "21:30",
+   "title": "Qual foi a escrita traçada na parede do palácio de Belsazar?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1099720942662837"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-24-9-quiz": {
    "type": "quiz",
    "date": "2026-10-24",
@@ -32,13 +49,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 20,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.7,
+    "watch_time_s": 38.3
    },
    "facebook": {
     "likes": 0,
@@ -58,8 +75,8 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 46,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -75,9 +92,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1296,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 4401.8
+    "views": 1515,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 6496.3
    }
   },
   "2026-10-24-6-truefalse": {
@@ -94,13 +111,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 1.7
    },
    "facebook": {
     "likes": 0,
@@ -110,7 +127,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 17,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -127,9 +144,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 250,
+    "views": 251,
     "avg_watch_s": 4.2,
-    "watch_time_s": 914.7
+    "watch_time_s": 915.5
    }
   },
   "2026-10-24-4-quiz": {
@@ -146,13 +163,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 12,
+    "views": 14,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 44.7
+    "avg_watch_s": 3.9,
+    "watch_time_s": 54.6
    },
    "facebook": {
     "likes": 0,
@@ -162,8 +179,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
-    "likes": 1,
+    "views": 20,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -179,9 +196,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 351,
+    "views": 358,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1226.5
+    "watch_time_s": 1254.8
    }
   },
   "2026-10-24-2-quiz": {
@@ -257,9 +274,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 11.8
+    "views": 3,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 13.2
    },
    "youtube": {
     "views": 47,
@@ -277,7 +294,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 40,
+    "views": 42,
     "likes": 1,
     "comments": 0
    }
@@ -324,12 +341,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 619,
+    "views": 621,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2153.0
+    "watch_time_s": 2155.3
    },
    "youtube": {
-    "views": 71,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -376,12 +393,12 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1436,
+    "views": 1437,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5800.0
+    "watch_time_s": 5808.1
    },
    "youtube": {
-    "views": 33,
+    "views": 34,
     "likes": 0,
     "comments": 0
    }
@@ -421,7 +438,7 @@
     "watch_time_s": 2404.5
    },
    "youtube": {
-    "views": 60,
+    "views": 64,
     "likes": 1,
     "comments": 0
    }
@@ -854,9 +871,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 363,
+    "views": 364,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1334.2
+    "watch_time_s": 1334.9
    },
    "youtube": {
     "views": 14,
@@ -1682,9 +1699,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 288,
+    "views": 289,
     "avg_watch_s": 2.4,
-    "watch_time_s": 625.3
+    "watch_time_s": 625.9
    },
    "youtube": {
     "views": 20,
@@ -2829,7 +2846,7 @@
     "comments": 0,
     "views": 798,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1908.4
+    "watch_time_s": 1908.5
    },
    "youtube": {
     "views": 7,
