@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-25T13:13:59+00:00",
+ "updated_at": "2026-10-25T14:59:58+00:00",
  "date": "2026-10-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-25-4-quiz",
+   "date": "2026-10-25",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-25T11:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-25T14:55:37+00:00",
+    "instagram": "2026-10-25T14:56:15+00:00",
+    "facebook": "2026-10-25T14:56:19+00:00",
+    "stories": "2026-10-25T14:57:18+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/pB76OM6oy4g",
+    "instagram": "https://www.instagram.com/reel/De6-K1Zj9C5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1142065081612485",
+    "stories": "story 18066251981716589"
+   },
+   "title": "O que os soldados teceram e puseram na cabeça de Jesus?"
+  },
   {
    "id": "2026-10-25-3-truefalse",
    "date": "2026-10-25",
