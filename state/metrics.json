@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-25T16:34:24+00:00",
+ "updated_at": "2026-10-25T18:16:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-25",
+   "time": "15:00",
+   "title": "Qual foi a esposa de Moisés, filha do sacerdote de Midiã?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/BlQ8Qn4ePns",
+    "instagram": "https://www.instagram.com/reel/De7UdxNCHcN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1417212940566751"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-25-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-25",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 253,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 664.1
    }
   },
   "2026-10-25-4-quiz": {
@@ -35,23 +70,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 9,
     "total_interactions": 0,
-    "avg_watch_s": 0.9,
-    "watch_time_s": 0.9
+    "avg_watch_s": 1.4,
+    "watch_time_s": 12.5
    },
    "facebook": {
-    "likes": 3,
-    "comments": 0,
-    "views": 430,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 1117.8
+    "likes": 7,
+    "comments": 2,
+    "views": 1373,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 4982.0
    },
    "youtube": {
-    "views": 0,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -67,10 +102,10 @@
    },
    "facebook": {
     "likes": 2,
-    "comments": 0,
-    "views": 1062,
+    "comments": 1,
+    "views": 1457,
     "avg_watch_s": 6.3,
-    "watch_time_s": 4826.1
+    "watch_time_s": 6775.2
    }
   },
   "2026-10-25-2-quiz": {
@@ -84,14 +119,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018"
    },
    "facebook": {
-    "likes": 12,
-    "comments": 0,
-    "views": 1411,
+    "likes": 14,
+    "comments": 1,
+    "views": 1544,
     "avg_watch_s": 6.6,
-    "watch_time_s": 6874.4
+    "watch_time_s": 7601.8
    },
    "youtube": {
-    "views": 38,
+    "views": 48,
     "likes": 0,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 5,
-    "avg_watch_s": 7.6,
-    "watch_time_s": 22.9
+    "views": 6,
+    "avg_watch_s": 7.8,
+    "watch_time_s": 31.4
    }
   },
   "2026-10-24-9-quiz": {
@@ -149,20 +184,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 50,
+    "reach": 51,
     "saved": 0,
     "shares": 0,
-    "views": 61,
+    "views": 62,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 173.9
+    "avg_watch_s": 3.4,
+    "watch_time_s": 175.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 11.2,
+    "watch_time_s": 11.2
    }
   },
   "2026-10-24-8-fill": {
@@ -175,7 +210,7 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 71,
+    "views": 75,
     "likes": 3,
     "comments": 0
    }
@@ -192,9 +227,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1694,
+    "views": 1696,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7558.3
+    "watch_time_s": 7568.1
    }
   },
   "2026-10-24-6-truefalse": {
@@ -222,12 +257,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 7.9,
+    "watch_time_s": 7.9
    },
    "youtube": {
-    "views": 79,
+    "views": 86,
     "likes": 0,
     "comments": 0
    }
@@ -244,9 +279,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 254,
+    "views": 255,
     "avg_watch_s": 4.1,
-    "watch_time_s": 919.6
+    "watch_time_s": 921.3
    }
   },
   "2026-10-24-4-quiz": {
@@ -274,12 +309,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 1,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 34,
+    "views": 33,
     "likes": 2,
     "comments": 0
    }
@@ -296,7 +331,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 365,
+    "views": 366,
     "avg_watch_s": 4.4,
     "watch_time_s": 1289.9
    }
@@ -314,12 +349,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 453,
+    "views": 454,
     "avg_watch_s": 4.1,
     "watch_time_s": 1494.9
    },
    "youtube": {
-    "views": 51,
+    "views": 55,
     "likes": 1,
     "comments": 0
    }
@@ -344,7 +379,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 1,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    }
@@ -363,7 +398,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 116,
+    "reach": 117,
     "saved": 0,
     "shares": 0,
     "views": 138,
@@ -379,7 +414,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 59,
+    "views": 60,
     "likes": 1,
     "comments": 0
    }
@@ -394,7 +429,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 56,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
@@ -446,7 +481,7 @@
     "watch_time_s": 2182.3
    },
    "youtube": {
-    "views": 86,
+    "views": 88,
     "likes": 1,
     "comments": 0
    }
@@ -493,9 +528,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1440,
+    "views": 1441,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5825.9
+    "watch_time_s": 5828.8
    },
    "youtube": {
     "views": 40,
@@ -630,9 +665,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1275,
+    "views": 1276,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5077.9
+    "watch_time_s": 5078.0
    }
   },
   "2026-10-22-6-truefalse": {
