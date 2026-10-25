@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-25T16:34:26+00:00",
+ "updated_at": "2026-10-25T18:16:16+00:00",
  "date": "2026-10-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-25-6-truefalse",
+   "date": "2026-10-25",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-25T15:07",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-25T18:10:28+00:00",
+    "instagram": "2026-10-25T18:11:14+00:00",
+    "facebook": "2026-10-25T18:11:19+00:00",
+    "stories": "2026-10-25T18:12:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/BlQ8Qn4ePns",
+    "instagram": "https://www.instagram.com/reel/De7UdxNCHcN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1417212940566751",
+    "stories": "story 17923551750448895"
+   },
+   "title": "Qual foi a esposa de Moisés, filha do sacerdote de Midiã?"
+  },
   {
    "id": "2026-10-25-5-curiosity",
    "date": "2026-10-25",
