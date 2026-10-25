@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-25T11:20:27+00:00",
+ "updated_at": "2026-10-25T13:13:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-25",
+   "time": "10:00",
+   "title": "O que Jacó viu em sonho, apoiada na terra e com o topo chegando ao céu?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1461400859204646"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-25-2-quiz": {
    "type": "quiz",
    "date": "2026-10-25",
@@ -15,14 +32,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 6,
     "comments": 0,
-    "views": 26,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 524,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 1780.5
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -80,13 +97,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 49,
     "saved": 0,
     "shares": 0,
-    "views": 56,
+    "views": 60,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 168.0
+    "avg_watch_s": 3.5,
+    "watch_time_s": 173.0
    },
    "facebook": {
     "likes": 0,
@@ -106,7 +123,7 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 66,
+    "views": 67,
     "likes": 2,
     "comments": 0
    }
@@ -121,11 +138,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/39487854414162611"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 8,
     "comments": 0,
-    "views": 1676,
+    "views": 1686,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7513.9
+    "watch_time_s": 7549.1
    }
   },
   "2026-10-24-6-truefalse": {
@@ -158,7 +175,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 53,
+    "views": 61,
     "likes": 0,
     "comments": 0
    }
@@ -194,13 +211,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 23,
+    "reach": 25,
     "saved": 0,
     "shares": 0,
-    "views": 26,
+    "views": 28,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 86.7
+    "avg_watch_s": 3.6,
+    "watch_time_s": 88.8
    },
    "facebook": {
     "likes": 0,
@@ -227,9 +244,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 363,
+    "views": 364,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1280.2
+    "watch_time_s": 1281.2
    }
   },
   "2026-10-24-2-quiz": {
@@ -245,12 +262,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 449,
+    "views": 451,
     "avg_watch_s": 4.0,
-    "watch_time_s": 1476.4
+    "watch_time_s": 1484.7
    },
    "youtube": {
-    "views": 44,
+    "views": 45,
     "likes": 1,
     "comments": 0
    }
@@ -429,7 +446,7 @@
     "watch_time_s": 5825.9
    },
    "youtube": {
-    "views": 40,
+    "views": 41,
     "likes": 0,
     "comments": 0
    }
@@ -464,9 +481,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 490,
+    "views": 491,
     "avg_watch_s": 6.9,
-    "watch_time_s": 2404.5
+    "watch_time_s": 2413.4
    },
    "youtube": {
     "views": 67,
@@ -561,9 +578,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1274,
+    "views": 1275,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5077.2
+    "watch_time_s": 5077.9
    }
   },
   "2026-10-22-6-truefalse": {
@@ -2875,7 +2892,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 798,
+    "views": 799,
     "avg_watch_s": 2.6,
     "watch_time_s": 1908.5
    },
@@ -3123,7 +3140,7 @@
     "comments": 2,
     "views": 1096,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2546.1
+    "watch_time_s": 2547.0
    },
    "youtube": {
     "views": 171,
