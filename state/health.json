@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T11:08:39+00:00",
+ "updated_at": "2026-10-25T13:13:59+00:00",
  "date": "2026-10-25",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-25-3-truefalse",
+   "date": "2026-10-25",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-25T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-25T13:10:33+00:00",
+    "stories": "2026-10-25T13:11:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1461400859204646",
+    "stories": "story 18100332491080052"
+   },
+   "title": "O que Jacó viu em sonho, apoiada na terra e com o topo chegando ao céu?"
+  },
   {
    "id": "2026-10-25-2-quiz",
    "date": "2026-10-25",
