@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T16:10:26+00:00",
+ "updated_at": "2026-10-25T16:34:26+00:00",
  "date": "2026-10-25",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-25-5-curiosity",
+   "date": "2026-10-25",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-25T13:30",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-25T16:30:35+00:00",
+    "stories": "2026-10-25T16:31:13+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1115592934797126",
+    "stories": "story 18195130849399100"
+   },
+   "title": "A moeda na boca do peixe"
+  },
   {
    "id": "2026-10-25-4-quiz",
    "date": "2026-10-25",
