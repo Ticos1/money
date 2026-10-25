@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T09:02:05+00:00",
+ "updated_at": "2026-10-25T09:37:58+00:00",
  "date": "2026-10-25",
  "paused": false,
  "problems": [],
@@ -49,7 +49,31 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-25-1-verse",
+   "date": "2026-10-25",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-25T06:34",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-25T09:36:01+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18027855563863558"
+   },
+   "title": "Salmos 100:4"
+  }
+ ],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
