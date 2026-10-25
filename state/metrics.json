@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-25T13:13:56+00:00",
+ "updated_at": "2026-10-25T14:59:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-25",
+   "time": "12:00",
+   "title": "O que os soldados teceram e puseram na cabeça de Jesus?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/pB76OM6oy4g",
+    "instagram": "https://www.instagram.com/reel/De6-K1Zj9C5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1142065081612485"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-25-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-25",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1461400859204646"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 453,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1526.3
    }
   },
   "2026-10-25-2-quiz": {
@@ -32,14 +67,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018"
    },
    "facebook": {
-    "likes": 6,
+    "likes": 9,
     "comments": 0,
-    "views": 524,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 1780.5
+    "views": 1102,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 4846.5
    },
    "youtube": {
-    "views": 4,
+    "views": 38,
     "likes": 0,
     "comments": 0
    }
@@ -123,8 +158,8 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 67,
-    "likes": 2,
+    "views": 71,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -140,9 +175,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1686,
+    "views": 1691,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7549.1
+    "watch_time_s": 7556.1
    }
   },
   "2026-10-24-6-truefalse": {
@@ -159,13 +194,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 13,
     "saved": 0,
     "shares": 0,
-    "views": 18,
+    "views": 19,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 55.6
+    "avg_watch_s": 3.7,
+    "watch_time_s": 56.2
    },
    "facebook": {
     "likes": 0,
@@ -211,13 +246,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 25,
+    "reach": 26,
     "saved": 0,
     "shares": 0,
-    "views": 28,
+    "views": 30,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 88.8
+    "watch_time_s": 93.8
    },
    "facebook": {
     "likes": 0,
@@ -244,9 +279,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 364,
+    "views": 365,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1281.2
+    "watch_time_s": 1289.9
    }
   },
   "2026-10-24-2-quiz": {
@@ -260,9 +295,9 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1448899127332945"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 451,
+    "views": 453,
     "avg_watch_s": 4.0,
     "watch_time_s": 1484.7
    },
@@ -359,9 +394,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1899,
+    "views": 1900,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8266.5
+    "watch_time_s": 8268.1
    }
   },
   "2026-10-23-6-truefalse": {
@@ -389,12 +424,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 621,
+    "views": 625,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2158.8
+    "watch_time_s": 2182.3
    },
    "youtube": {
-    "views": 82,
+    "views": 86,
     "likes": 1,
     "comments": 0
    }
@@ -486,7 +521,7 @@
     "watch_time_s": 2413.4
    },
    "youtube": {
-    "views": 67,
+    "views": 68,
     "likes": 1,
     "comments": 0
    }
@@ -2894,7 +2929,7 @@
     "comments": 0,
     "views": 799,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1908.5
+    "watch_time_s": 1908.9
    },
    "youtube": {
     "views": 7,
