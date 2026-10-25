@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-25T09:02:02+00:00",
+ "updated_at": "2026-10-25T09:37:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-1-verse": {
+   "type": "verse",
+   "date": "2026-10-25",
+   "time": "06:30",
+   "title": "Salmos 100:4",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-24-11-compilation": {
    "type": "compilation",
    "date": "2026-10-24",
@@ -52,7 +60,7 @@
     "reach": 35,
     "saved": 0,
     "shares": 0,
-    "views": 46,
+    "views": 47,
     "total_interactions": 0,
     "avg_watch_s": 4.1,
     "watch_time_s": 144.6
@@ -398,7 +406,7 @@
     "watch_time_s": 5825.9
    },
    "youtube": {
-    "views": 39,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
