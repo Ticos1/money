@@ -1,6 +1,104 @@
 {
  "posts": [
   {
+   "id": "2026-10-25-4-quiz",
+   "date": "2026-10-25",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-25T11:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-25T08:22:45+00:00",
+   "source": "bank",
+   "bank_id": "q1292",
+   "model": null,
+   "content": {
+    "ref": "João 19:2",
+    "ref_label": "João 19:2",
+    "question": "O que os soldados teceram e puseram na cabeça de Jesus?",
+    "options": [
+     "Coroa de espinhos",
+     "Coroa de ouro",
+     "Coroa de flores",
+     "Capacete"
+    ],
+    "answer": 0,
+    "evidence": "coroa de espinhos",
+    "passage": "Os soldados teceram uma coroa de espinhos, puseram-na sobre a sua cabeça e o vestiram com um manto de púrpura.",
+    "difficulty": "facil",
+    "tags": [
+     "sextasanta"
+    ]
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nO que os soldados teceram e puseram na cabeça de Jesus?\n\nA) Coroa de espinhos\nB) Coroa de ouro\nC) Coroa de flores\nD) Capacete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #quizbiblico #desafiobiblico #conhecimentobiblico #teste #palavradedeus #cristao #perguntasbiblicas #deus #biblia #fe #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nO que os soldados teceram e puseram na cabeça de Jesus?\n\nA) Coroa de espinhos\nB) Coroa de ouro\nC) Coroa de flores\nD) Capacete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #quizbiblico #desafiobiblico #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#sextasanta #quizbiblico #desafiobiblico #deus #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#sextasanta #quizbiblico #desafiobiblico #jesus #evangelico",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nO que os soldados teceram e puseram na cabeça de Jesus?\n\nA) Coroa de espinhos\nB) Coroa de ouro\nC) Coroa de flores\nD) Capacete\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: O que os soldados teceram e puseram na cabeça de Jesus? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nO que os soldados teceram e puseram na cabeça de Jesus?\n\nA) Coroa de espinhos\nB) Coroa de ouro\nC) Coroa de flores\nD) Capacete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sextasanta #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "sextasanta",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-25T14:55:37+00:00",
+    "instagram": "2026-10-25T14:56:15+00:00",
+    "facebook": "2026-10-25T14:56:19+00:00",
+    "stories": "2026-10-25T14:57:18+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/pB76OM6oy4g",
+    "instagram": "https://www.instagram.com/reel/De6-K1Zj9C5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1142065081612485",
+    "stories": "story 18066251981716589"
+   }
+  },
+  {
    "id": "2026-10-25-3-truefalse",
    "date": "2026-10-25",
    "slot": 3,
