@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-25T09:37:56+00:00",
+ "updated_at": "2026-10-25T11:08:37+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-25",
+   "time": "08:00",
+   "title": "Elias disse a Acabe que não haveria o quê, senão segundo a sua palavra?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/EQoGeZ23J_E",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-25-1-verse": {
    "type": "verse",
    "date": "2026-10-25",
@@ -57,13 +80,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 35,
+    "reach": 44,
     "saved": 0,
     "shares": 0,
-    "views": 47,
+    "views": 56,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 144.6
+    "avg_watch_s": 3.8,
+    "watch_time_s": 168.0
    },
    "facebook": {
     "likes": 0,
@@ -83,7 +106,7 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 66,
+    "views": 67,
     "likes": 2,
     "comments": 0
    }
@@ -100,9 +123,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1668,
+    "views": 1676,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7493.9
+    "watch_time_s": 7503.6
    }
   },
   "2026-10-24-6-truefalse": {
@@ -152,9 +175,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 253,
+    "views": 254,
     "avg_watch_s": 4.1,
-    "watch_time_s": 918.9
+    "watch_time_s": 919.6
    }
   },
   "2026-10-24-4-quiz": {
@@ -204,7 +227,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 361,
+    "views": 363,
     "avg_watch_s": 4.4,
     "watch_time_s": 1263.3
    }
@@ -227,7 +250,7 @@
     "watch_time_s": 1476.4
    },
    "youtube": {
-    "views": 44,
+    "views": 45,
     "likes": 1,
     "comments": 0
    }
@@ -3098,7 +3121,7 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1095,
+    "views": 1096,
     "avg_watch_s": 2.5,
     "watch_time_s": 2546.1
    },
