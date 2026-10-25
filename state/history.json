@@ -1,6 +1,103 @@
 {
  "posts": [
   {
+   "id": "2026-10-25-1-verse",
+   "date": "2026-10-25",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-25T06:34",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-25T08:21:19+00:00",
+   "source": "bank",
+   "bank_id": "v118",
+   "model": null,
+   "content": {
+    "ref": "Salmos 100:4",
+    "ref_label": "Salmos 100:4",
+    "verse_text": "Entrem por suas portas com ação de graças, e em seus átrios com louvor. Rendam-lhe graças e bendigam o seu nome.",
+    "on_screen": "Entre na presença de Deus com gratidão.",
+    "reflection": "Gratidão é a porta de entrada para a presença de Deus. Antes de pedir hoje, agradeça por três coisas.",
+    "theme": "gratidão",
+    "mood": "alegria",
+    "tags": [
+     "gratidao",
+     "louvor"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de gratidão: Salmos 100:4\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Entrem por suas portas com ação de graças, e em seus átrios com louvor. Rendam-lhe graças e bendigam o seu nome.” (Salmos 100:4)\n\nHoje, antes de fazer seu pedido, pare um instante e agradeça a Deus por três bênçãos que Ele já derramou em sua vida. Essa atitude simples transforma o coração e nos aproxima da Sua presença. Compartilhe essa prática e inspire outros a viverem com gratidão. Salve para lembrar sempre de agradecer primeiro!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodegratidao #gratidao #louvor #versiculododia #versiculo #gospel #palavradedeus #devocional #evangelico #deus #oracao #jesus",
+    "facebook": "Versículo de gratidão: Salmos 100:4\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Entrem por suas portas com ação de graças, e em seus átrios com louvor. Rendam-lhe graças e bendigam o seu nome.” (Salmos 100:4)\n\nHoje, antes de fazer seu pedido, pare um instante e agradeça a Deus por três bênçãos que Ele já derramou em sua vida. Essa atitude simples transforma o coração e nos aproxima da Sua presença. Compartilhe essa prática e inspire outros a viverem com gratidão. Salve para lembrar sempre de agradecer primeiro!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodegratidao #gratidao #louvor #versiculododia",
+    "tiktok": "Versículo de gratidão\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nAntes de pedir, agradeça a Deus por três coisas. 🙏\n#versiculodegratidao #gratidao #louvor #versiculododia #versiculo",
+    "kwai": "Versículo de gratidão\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nAntes de pedir, agradeça a Deus por três coisas. 🙏\n#versiculodegratidao #gratidao #louvor #versiculododia #versiculo",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Entrem por suas portas com ação de graças, e em seus átrios com louvor. Rendam-lhe graças e bendigam o seu nome.” (Salmos 100:4)\n\nHoje, antes de fazer seu pedido, pare um instante e agradeça a Deus por três bênçãos que Ele já derramou em sua vida. Essa atitude simples transforma o coração e nos aproxima da Sua presença. Compartilhe essa prática e inspire outros a viverem com gratidão. Salve para lembrar sempre de agradecer primeiro!\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de gratidão: Salmos 100:4 🙏 #shorts",
+     "description": "Versículo de gratidão: Salmos 100:4\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Entrem por suas portas com ação de graças, e em seus átrios com louvor. Rendam-lhe graças e bendigam o seu nome.” (Salmos 100:4)\n\nHoje, antes de fazer seu pedido, pare um instante e agradeça a Deus por três bênçãos que Ele já derramou em sua vida. Essa atitude simples transforma o coração e nos aproxima da Sua presença. Compartilhe essa prática e inspire outros a viverem com gratidão. Salve para lembrar sempre de agradecer primeiro!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodegratidao #gratidao #louvor",
+     "tags": [
+      "versículo de gratidão",
+      "versículos de gratidão",
+      "gratidão",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gratidao",
+      "louvor",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-25T09:36:01+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18027855563863558"
+   }
+  },
+  {
    "id": "2026-10-24-11-compilation",
    "date": "2026-10-24",
    "slot": 11,
