@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T23:08:20+00:00",
+ "updated_at": "2026-10-25T00:37:37+00:00",
  "date": "2026-10-24",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-24-10-truefalse",
+   "date": "2026-10-24",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-24T21:31",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-25T00:35:32+00:00",
+    "stories": "2026-10-25T00:36:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1099720942662837",
+    "stories": "story 18140584744724899"
+   },
+   "title": "Qual foi a escrita traçada na parede do palácio de Belsazar?"
   },
   {
    "id": "2026-10-24-9-quiz",
