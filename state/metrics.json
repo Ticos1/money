@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-25T16:10:24+00:00",
+ "updated_at": "2026-10-25T16:34:24+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-25",
+   "time": "13:30",
+   "title": "A moeda na boca do peixe",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1115592934797126"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-25-4-quiz": {
    "type": "quiz",
    "date": "2026-10-25",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.9,
+    "watch_time_s": 0.9
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 254,
+    "views": 430,
     "avg_watch_s": 3.8,
-    "watch_time_s": 531.8
+    "watch_time_s": 1117.8
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1461400859204646"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 917,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 3561.4
+    "views": 1062,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 4826.1
    }
   },
   "2026-10-25-2-quiz": {
@@ -67,11 +84,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018"
    },
    "facebook": {
-    "likes": 11,
+    "likes": 12,
     "comments": 0,
-    "views": 1365,
-    "avg_watch_s": 6.5,
-    "watch_time_s": 6568.6
+    "views": 1411,
+    "avg_watch_s": 6.6,
+    "watch_time_s": 6874.4
    },
    "youtube": {
     "views": 38,
@@ -177,7 +194,7 @@
     "comments": 0,
     "views": 1694,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7557.6
+    "watch_time_s": 7558.3
    }
   },
   "2026-10-24-6-truefalse": {
@@ -210,7 +227,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 61,
+    "views": 79,
     "likes": 0,
     "comments": 0
    }
@@ -262,7 +279,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 32,
+    "views": 34,
     "likes": 2,
     "comments": 0
    }
@@ -481,7 +498,7 @@
     "watch_time_s": 5825.9
    },
    "youtube": {
-    "views": 41,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
@@ -577,8 +594,8 @@
     "likes": 0,
     "comments": 0,
     "views": 11,
-    "avg_watch_s": 12.9,
-    "watch_time_s": 64.4
+    "avg_watch_s": 10.9,
+    "watch_time_s": 65.6
    },
    "youtube": {
     "views": 44,
@@ -1300,9 +1317,9 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2157,
+    "views": 2158,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9870.1
+    "watch_time_s": 9876.9
    },
    "youtube": {
     "views": 61,
