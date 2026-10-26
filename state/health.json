@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-26T20:13:48+00:00",
+ "updated_at": "2026-10-26T21:43:35+00:00",
  "date": "2026-10-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-26-8-fill",
+   "date": "2026-10-26",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-26T18:39",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-26T21:40:32+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-26T21:41:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/imGfsk1HiTs",
+    "stories": "story 17911936470305581"
+   },
+   "title": "Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’."
+  },
   {
    "id": "2026-10-26-7-quiz",
    "date": "2026-10-26",
