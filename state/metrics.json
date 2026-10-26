@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-26T12:52:38+00:00",
+ "updated_at": "2026-10-26T13:03:26+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-26",
+   "time": "10:00",
+   "title": "Em qual mar os capitães do Faraó afundaram?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1649600306801706"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-26-2-quiz": {
    "type": "quiz",
    "date": "2026-10-26",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 260,
+    "views": 263,
     "avg_watch_s": 3.5,
-    "watch_time_s": 760.1
+    "watch_time_s": 767.6
    },
    "youtube": {
     "views": 0,
@@ -97,7 +114,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -133,13 +150,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 47,
+    "reach": 49,
     "saved": 0,
     "shares": 0,
-    "views": 66,
+    "views": 69,
     "total_interactions": 1,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 185.9
+    "avg_watch_s": 3.7,
+    "watch_time_s": 190.8
    },
    "facebook": {
     "likes": 0,
@@ -149,7 +166,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 179,
+    "views": 182,
     "likes": 2,
     "comments": 0
    }
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 59,
+    "reach": 63,
     "saved": 0,
     "shares": 0,
-    "views": 87,
+    "views": 90,
     "total_interactions": 1,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 235.8
+    "avg_watch_s": 4.5,
+    "watch_time_s": 291.0
    },
    "facebook": {
     "likes": 9,
@@ -469,7 +486,7 @@
     "watch_time_s": 1499.2
    },
    "youtube": {
-    "views": 64,
+    "views": 61,
     "likes": 1,
     "comments": 0
    }
