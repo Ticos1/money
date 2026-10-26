@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-26-4-quiz",
+   "date": "2026-10-26",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-26T11:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-26T08:22:41+00:00",
+   "source": "bank",
+   "bank_id": "q574",
+   "model": null,
+   "content": {
+    "ref": "Atos 23:6",
+    "ref_label": "Atos 23:6",
+    "question": "No sinédrio, Paulo disse que era o quê, filho de fariseus?",
+    "options": [
+     "Saduceu",
+     "Fariseu",
+     "Sacerdote",
+     "Escriba"
+    ],
+    "answer": 1,
+    "evidence": "eu sou fariseu, filho de fariseus",
+    "passage": "Mas quando Paulo percebeu que uma parte era de saduceus e a outra de fariseus, ele clamou no sinédrio: “Homens e irmãos, eu sou fariseu, filho de fariseus. É por causa da esperança e da ressurreição dos mortos que estou sendo julgado!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste #perguntasbiblicas #gospel #evangelico #fe #palavradedeus #jesus #deus #biblia",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #teste #fe",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #palavradedeus #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "No sinédrio, Paulo disse que era o quê, filho de fariseus? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-26T15:00:32+00:00",
+    "instagram": "2026-10-26T15:00:55+00:00",
+    "facebook": "2026-10-26T15:01:00+00:00",
+    "stories": "2026-10-26T15:02:29+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ZDoT9DeCJHE",
+    "instagram": "https://www.instagram.com/reel/De9jhZ5jYi9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2338342670247369",
+    "stories": "story 18140054434646518"
+   }
+  },
+  {
    "id": "2026-10-26-3-truefalse",
    "date": "2026-10-26",
    "slot": 3,
