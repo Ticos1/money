@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-25T23:18:00+00:00",
+ "updated_at": "2026-10-26T00:43:13+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-25-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-25",
+   "time": "21:30",
+   "title": "Qual homem rico, discípulo de Jesus, era de Arimateia?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1395809229422457"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-25-9-quiz": {
    "type": "quiz",
    "date": "2026-10-25",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 31,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.1,
+    "watch_time_s": 3.1
    },
    "facebook": {
     "likes": 0,
@@ -85,13 +102,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 29,
+    "reach": 31,
     "saved": 0,
     "shares": 0,
-    "views": 36,
+    "views": 39,
     "total_interactions": 0,
-    "avg_watch_s": 2.0,
-    "watch_time_s": 58.7
+    "avg_watch_s": 2.4,
+    "watch_time_s": 77.9
    },
    "facebook": {
     "likes": 0,
@@ -137,20 +154,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 11,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
-    "views": 12,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 1.9,
-    "watch_time_s": 22.7
+    "avg_watch_s": 1.7,
+    "watch_time_s": 25.9
    },
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1877,
+    "views": 1881,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7295.4
+    "watch_time_s": 7301.1
    },
    "youtube": {
     "views": 21,
@@ -170,9 +187,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1724,
+    "views": 1726,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8139.2
+    "watch_time_s": 8157.4
    }
   },
   "2026-10-25-2-quiz": {
@@ -188,12 +205,12 @@
    "facebook": {
     "likes": 17,
     "comments": 1,
-    "views": 1732,
-    "avg_watch_s": 6.6,
-    "watch_time_s": 8467.8
+    "views": 1771,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 8648.1
    },
    "youtube": {
-    "views": 56,
+    "views": 68,
     "likes": 1,
     "comments": 0
    }
@@ -329,7 +346,7 @@
     "watch_time_s": 24.0
    },
    "youtube": {
-    "views": 100,
+    "views": 121,
     "likes": 0,
     "comments": 0
    }
@@ -381,7 +398,7 @@
     "watch_time_s": 7.4
    },
    "youtube": {
-    "views": 44,
+    "views": 45,
     "likes": 2,
     "comments": 0
    }
@@ -421,7 +438,7 @@
     "watch_time_s": 1499.2
    },
    "youtube": {
-    "views": 57,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
@@ -481,7 +498,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 64,
+    "views": 66,
     "likes": 1,
     "comments": 0
    }
@@ -496,7 +513,7 @@
     "youtube": "https://youtube.com/shorts/1CXkCFHn4-0"
    },
    "youtube": {
-    "views": 58,
+    "views": 59,
     "likes": 1,
     "comments": 0
    }
@@ -543,9 +560,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 625,
+    "views": 626,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2182.3
+    "watch_time_s": 2187.5
    },
    "youtube": {
     "views": 85,
@@ -730,11 +747,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1655257246308306"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 1276,
+    "views": 1277,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5078.0
+    "watch_time_s": 5084.2
    }
   },
   "2026-10-22-6-truefalse": {
@@ -838,7 +855,7 @@
     "comments": 0,
     "views": 268,
     "avg_watch_s": 5.7,
-    "watch_time_s": 1108.5
+    "watch_time_s": 1108.7
    }
   },
   "2026-10-22-2-quiz": {
@@ -1608,9 +1625,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1582,
+    "views": 1583,
     "avg_watch_s": 5.7,
-    "watch_time_s": 7035.1
+    "watch_time_s": 7036.2
    }
   },
   "2026-10-18-6-truefalse": {
