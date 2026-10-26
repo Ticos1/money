@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T12:52:43+00:00",
+ "updated_at": "2026-10-26T13:03:29+00:00",
  "date": "2026-10-26",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-26-3-truefalse",
+   "date": "2026-10-26",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-26T09:58",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-26T13:00:33+00:00",
+    "stories": "2026-10-26T13:01:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1649600306801706",
+    "stories": "story 17916092013496392"
+   },
+   "title": "Em qual mar os capitães do Faraó afundaram?"
+  },
   {
    "id": "2026-10-26-2-quiz",
    "date": "2026-10-26",
