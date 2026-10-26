@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-26T18:14:12+00:00",
+ "updated_at": "2026-10-26T20:13:45+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-26",
+   "time": "17:00",
+   "title": "Qual filho de Saul tinha a alma unida à alma de Davi?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2183767519191299"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-26-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-26",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 0.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 260,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 781.7
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 224,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 794.8
+    "views": 322,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1199.2
    }
   },
   "2026-10-26-4-quiz": {
@@ -70,7 +87,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "views": 0,
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 528,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1877.2
+    "views": 532,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1921.0
    },
    "youtube": {
-    "views": 8,
+    "views": 10,
     "likes": 1,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 109,
+    "views": 110,
     "likes": 1,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 21,
+    "views": 22,
     "likes": 1,
     "comments": 0
    }
@@ -237,13 +254,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 62,
+    "reach": 63,
     "saved": 0,
     "shares": 0,
     "views": 81,
     "total_interactions": 1,
     "avg_watch_s": 3.4,
-    "watch_time_s": 217.1
+    "watch_time_s": 218.5
    },
    "facebook": {
     "likes": 0,
@@ -253,7 +270,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 191,
+    "views": 195,
     "likes": 2,
     "comments": 0
    }
@@ -300,12 +317,12 @@
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1899,
+    "views": 1900,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7352.4
+    "watch_time_s": 7354.3
    },
    "youtube": {
-    "views": 48,
+    "views": 49,
     "likes": 3,
     "comments": 0
    }
@@ -322,9 +339,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1743,
+    "views": 1746,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8259.1
+    "watch_time_s": 8267.3
    }
   },
   "2026-10-25-2-quiz": {
@@ -481,7 +498,7 @@
     "watch_time_s": 24.0
    },
    "youtube": {
-    "views": 157,
+    "views": 161,
     "likes": 0,
     "comments": 0
    }
@@ -550,9 +567,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 366,
+    "views": 367,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1297.8
+    "watch_time_s": 1302.3
    }
   },
   "2026-10-24-2-quiz": {
@@ -568,12 +585,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 454,
+    "views": 455,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1499.2
+    "watch_time_s": 1499.7
    },
    "youtube": {
-    "views": 64,
+    "views": 63,
     "likes": 1,
     "comments": 0
    }
@@ -1006,9 +1023,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 381,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1399.7
+    "views": 382,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1407.0
    },
    "youtube": {
     "views": 30,
