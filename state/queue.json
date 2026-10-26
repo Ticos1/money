@@ -1,3 +1,999 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-26-10-truefalse",
+   "date": "2026-10-26",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-26T21:29",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-26T08:25:22+00:00",
+   "source": "bank",
+   "bank_id": "q402",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 19:8",
+    "ref_label": "1 Reis 19:8",
+    "question": "Quanto tempo Elias caminhou com a força da comida até Horebe?",
+    "shown": "Um mês",
+    "is_true": false,
+    "correct": "Quarenta dias e quarenta noites",
+    "evidence": "caminhou quarenta dias e quarenta noites até Horebe",
+    "passage": "Ele se levantou, comeu e bebeu, e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o Monte de Deus.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo Elias caminhou com a força da comida até Horebe?\nResposta: Um mês\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #deus #biblia #jesus #fe #cristao #desafiobiblico #conhecimentobiblico #palavradedeus #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo Elias caminhou com a força da comida até Horebe?\nResposta: Um mês\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #evangelico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #fe #cristao",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #cristao #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuanto tempo Elias caminhou com a força da comida até Horebe?\nResposta: Um mês\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo Elias caminhou com a força da comida até Horebe?\nResposta: Um mês\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-9-quiz",
+   "date": "2026-10-26",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-26T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-26T08:24:57+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 67:2",
+    "ref_label": "Salmos 67:2",
+    "question": "Qual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?",
+    "options": [
+     "terra",
+     "mar",
+     "céu",
+     "montanha"
+    ],
+    "answer": 0,
+    "evidence": "terra",
+    "passage": "Para que o teu caminho seja conhecido na terra, e a tua salvação entre todas as nações.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?\n\nA) terra\nB) mar\nC) céu\nD) montanha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #deus #jesus #desafio #perguntasbiblicas #biblia #fe #teste #evangelico #conhecimentobiblico",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?\n\nA) terra\nB) mar\nC) céu\nD) montanha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #deus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #jesus #conhecimentobiblico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #desafio",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?\n\nA) terra\nB) mar\nC) céu\nD) montanha\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?\n\nA) terra\nB) mar\nC) céu\nD) montanha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.74,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-8-fill",
+   "date": "2026-10-26",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-26T18:39",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-26T08:24:29+00:00",
+   "source": "bank",
+   "bank_id": "v403",
+   "model": null,
+   "content": {
+    "ref": "Mateus 22:37",
+    "ref_label": "Mateus 22:37",
+    "verse_text": "Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento.’.",
+    "question": "Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.",
+    "options": [
+     "promessa",
+     "alma",
+     "liberdade",
+     "glória"
+    ],
+    "answer": 1,
+    "answer_word": "alma",
+    "tags": [
+     "amor",
+     "adoracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre amor: Mateus 22:37\nQual palavra falta nesse versículo? 📖\n\n“Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.”\n\nA) promessa\nB) alma\nC) liberdade\nD) glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #adoracao #completeoversiculo #versiculo #desafiobiblico #cristao #biblia #deus #quizbiblico #jesus #evangelico",
+    "facebook": "Versículo sobre amor: Mateus 22:37\nQual palavra falta nesse versículo? 📖\n\n“Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.”\n\nA) promessa\nB) alma\nC) liberdade\nD) glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #adoracao #completeoversiculo",
+    "tiktok": "Versículo sobre amor\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreamor #amor #adoracao #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre amor\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreamor #amor #adoracao #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.”\n\nA) promessa\nB) alma\nC) liberdade\nD) glória\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre amor: Mateus 22:37 📖 #shorts",
+     "description": "Versículo sobre amor: Mateus 22:37\nQual palavra falta nesse versículo? 📖\n\n“Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.”\n\nA) promessa\nB) alma\nC) liberdade\nD) glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreamor #amor #adoracao",
+     "tags": [
+      "versículo sobre amor",
+      "versículos sobre amor",
+      "amor",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "adoracao",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-7-quiz",
+   "date": "2026-10-26",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-26T17:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-26T08:24:01+00:00",
+   "source": "bank",
+   "bank_id": "q095",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 18:1",
+    "ref_label": "1 Samuel 18:1",
+    "question": "Qual filho de Saul tinha a alma unida à alma de Davi?",
+    "options": [
+     "Isbosete",
+     "Abner",
+     "Jônatas",
+     "Mefibosete"
+    ],
+    "answer": 2,
+    "evidence": "a alma de Jônatas se uniu à alma de Davi",
+    "passage": "Depois que Davi terminou de falar com Saul, a alma de Jônatas se uniu à alma de Davi, e Jônatas passou a amá-lo como à sua própria alma.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filho de Saul tinha a alma unida à alma de Davi?\n\nA) Isbosete\nB) Abner\nC) Jônatas\nD) Mefibosete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #evangelico #teste #biblia #conhecimentobiblico #palavradedeus #fe #cristao #gospel #desafio",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filho de Saul tinha a alma unida à alma de Davi?\n\nA) Isbosete\nB) Abner\nC) Jônatas\nD) Mefibosete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #jesus #cristao",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #teste #desafio",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual filho de Saul tinha a alma unida à alma de Davi?\n\nA) Isbosete\nB) Abner\nC) Jônatas\nD) Mefibosete\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual filho de Saul tinha a alma unida à alma de Davi? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filho de Saul tinha a alma unida à alma de Davi?\n\nA) Isbosete\nB) Abner\nC) Jônatas\nD) Mefibosete\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-6-truefalse",
+   "date": "2026-10-26",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-26T15:08",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-26T08:23:33+00:00",
+   "source": "bank",
+   "bank_id": "q1272",
+   "model": null,
+   "content": {
+    "ref": "2 Coríntios 5:17",
+    "ref_label": "2 Coríntios 5:17",
+    "question": "Quem está em Cristo é uma nova...",
+    "shown": "Criação",
+    "is_true": true,
+    "correct": "Criação",
+    "evidence": "nova criação",
+    "passage": "Portanto, se alguém está em Cristo, é uma nova criação. As coisas antigas já passaram. Eis que todas as coisas se tornaram novas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #verdadeirooufalso #quizbiblico #perguntasbiblicas #deus #desafiobiblico #fe #conhecimentobiblico #biblia #gospel #palavradedeus #evangelico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #verdadeirooufalso #quizbiblico #evangelico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#anonovo #verdadeirooufalso #quizbiblico #deus #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#anonovo #verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quem está em Cristo é uma nova... #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #anonovo #verdadeirooufalso #quizbiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "anonovo",
+      "2 coríntios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-5-curiosity",
+   "date": "2026-10-26",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-26T13:24",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-26T08:23:11+00:00",
+   "source": "bank",
+   "bank_id": "c006",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 34:7",
+    "ref_label": "Deuteronômio 34:7",
+    "title": "Moisés aos 120 anos",
+    "text": "Moisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado.",
+    "evidence": "cento e vinte anos de idade",
+    "passage": "Moisés tinha cento e vinte anos de idade quando morreu. Seus olhos não haviam escurecido, nem o seu vigor havia se esvaído.",
+    "tags": [
+     "moises"
+    ]
+   },
+   "captions": {
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #vocesabia #curiosidadesbiblicas #historiabiblica #estudobiblico #fe #deus #palavradedeus #evangelico #gospel #jesus #biblia",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #vocesabia #curiosidadesbiblicas #evangelico",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 Moisés aos 120 anos\nCompartilhe com quem vai gostar de saber disso.\n#moises #vocesabia #curiosidadesbiblicas #cristao #fe",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 Moisés aos 120 anos\nCompartilhe com quem vai gostar de saber disso.\n#moises #vocesabia #curiosidadesbiblicas #deus #jesus",
+    "whatsapp": "*Isso está na Bíblia e muita gente não sabe* 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Moisés aos 120 anos #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #moises #vocesabia #curiosidadesbiblicas",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "moises",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.86,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-4-quiz",
+   "date": "2026-10-26",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-26T11:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-26T08:22:41+00:00",
+   "source": "bank",
+   "bank_id": "q574",
+   "model": null,
+   "content": {
+    "ref": "Atos 23:6",
+    "ref_label": "Atos 23:6",
+    "question": "No sinédrio, Paulo disse que era o quê, filho de fariseus?",
+    "options": [
+     "Saduceu",
+     "Fariseu",
+     "Sacerdote",
+     "Escriba"
+    ],
+    "answer": 1,
+    "evidence": "eu sou fariseu, filho de fariseus",
+    "passage": "Mas quando Paulo percebeu que uma parte era de saduceus e a outra de fariseus, ele clamou no sinédrio: “Homens e irmãos, eu sou fariseu, filho de fariseus. É por causa da esperança e da ressurreição dos mortos que estou sendo julgado!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste #perguntasbiblicas #gospel #evangelico #fe #palavradedeus #jesus #deus #biblia",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #teste #fe",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #palavradedeus #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "No sinédrio, Paulo disse que era o quê, filho de fariseus? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nNo sinédrio, Paulo disse que era o quê, filho de fariseus?\n\nA) Saduceu\nB) Fariseu\nC) Sacerdote\nD) Escriba\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-3-truefalse",
+   "date": "2026-10-26",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-26T09:58",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-26T08:22:13+00:00",
+   "source": "bank",
+   "bank_id": "q078",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 15:4",
+    "ref_label": "Êxodo 15:4",
+    "question": "Em qual mar os capitães do Faraó afundaram?",
+    "shown": "Mar da Galileia",
+    "is_true": false,
+    "correct": "Mar Vermelho",
+    "evidence": "afundaram no Mar Vermelho",
+    "passage": "Ele lançou no mar os carros do Faraó e o seu exército. Os seus capitães escolhidos afundaram no Mar Vermelho.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual mar os capitães do Faraó afundaram?\nResposta: Mar da Galileia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #evangelico #gospel #deus #perguntasbiblicas #desafiobiblico #palavradedeus #biblia #fe #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual mar os capitães do Faraó afundaram?\nResposta: Mar da Galileia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #deus #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nEm qual mar os capitães do Faraó afundaram?\nResposta: Mar da Galileia\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Em qual mar os capitães do Faraó afundaram? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual mar os capitães do Faraó afundaram?\nResposta: Mar da Galileia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.74,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-2-quiz",
+   "date": "2026-10-26",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-26T08:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-26T08:21:50+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "1 Crônicas 1:10",
+    "ref_label": "1 Crônicas 1:10",
+    "question": "Quem começou a ser poderoso na terra, segundo 1 Crônicas 1?",
+    "options": [
+     "Ninrode",
+     "Babel",
+     "Luz",
+     "Zorobabel"
+    ],
+    "answer": 0,
+    "evidence": "Ninrode",
+    "passage": "Cuxe gerou Ninrode. Ele começou a ser poderoso na terra.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuem começou a ser poderoso na terra, segundo 1 Crônicas 1?\n\nA) Ninrode\nB) Babel\nC) Luz\nD) Zorobabel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus #biblia #perguntasbiblicas #conhecimentobiblico #teste #evangelico #fe #desafio #deus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuem começou a ser poderoso na terra, segundo 1 Crônicas 1?\n\nA) Ninrode\nB) Babel\nC) Luz\nD) Zorobabel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #perguntasbiblicas",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #cristao #evangelico",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #fe #teste",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQuem começou a ser poderoso na terra, segundo 1 Crônicas 1?\n\nA) Ninrode\nB) Babel\nC) Luz\nD) Zorobabel\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quem começou a ser poderoso na terra, segundo 1 Crônicas 1? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuem começou a ser poderoso na terra, segundo 1 Crônicas 1?\n\nA) Ninrode\nB) Babel\nC) Luz\nD) Zorobabel\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 crônicas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-26-1-verse",
+   "date": "2026-10-26",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-26T06:36",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-26T08:21:22+00:00",
+   "source": "bank",
+   "bank_id": "v263",
+   "model": null,
+   "content": {
+    "ref": "Lucas 12:32",
+    "ref_label": "Lucas 12:32",
+    "verse_text": "Não tenham medo, pequeno rebanho, pois foi do agrado do Pai de vocês dar-lhes o Reino.",
+    "on_screen": "Não tenham medo, pequeno rebanho.",
+    "reflection": "Deus tem prazer em dar o Reino aos seus filhos. Você faz parte do rebanho dEle.",
+    "theme": "Reino",
+    "mood": "alegria",
+    "tags": [
+     "reino",
+     "coragem"
+    ]
+   },
+   "captions": {
+    "instagram": "“Não tenham medo, pequeno rebanho, pois foi do agrado do Pai de vocês dar-lhes o Reino.” (Lucas 12:32)\n\nDeus tem prazer em entregar o Seu Reino a cada filho que o segue. Você faz parte desse precioso rebanho, amado e protegido. Que essa certeza acalme seu coração e lhe dê coragem para viver a fé diariamente. Salve este lembrete e compartilhe com quem precisa sentir o carinho do Pai. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reino #coragem #versiculododia #versiculo #gospel #deus #reflexao #fe #cristao #evangelico #biblia #oracao",
+    "facebook": "“Não tenham medo, pequeno rebanho, pois foi do agrado do Pai de vocês dar-lhes o Reino.” (Lucas 12:32)\n\nDeus tem prazer em entregar o Seu Reino a cada filho que o segue. Você faz parte desse precioso rebanho, amado e protegido. Que essa certeza acalme seu coração e lhe dê coragem para viver a fé diariamente. Salve este lembrete e compartilhe com quem precisa sentir o carinho do Pai. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reino #coragem #versiculododia #versiculo",
+    "tiktok": "Você faz parte do rebanho amado por Deus. Salve e compartilhe! 🙏\n#reino #coragem #versiculododia #versiculo #reflexao",
+    "kwai": "Você faz parte do rebanho amado por Deus. Salve e compartilhe! 🙏\n#reino #coragem #versiculododia #versiculo #evangelico",
+    "whatsapp": "“Não tenham medo, pequeno rebanho, pois foi do agrado do Pai de vocês dar-lhes o Reino.” (Lucas 12:32)\n\nDeus tem prazer em entregar o Seu Reino a cada filho que o segue. Você faz parte desse precioso rebanho, amado e protegido. Que essa certeza acalme seu coração e lhe dê coragem para viver a fé diariamente. Salve este lembrete e compartilhe com quem precisa sentir o carinho do Pai. 🙏✨\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Não tenham medo, pequeno rebanho. | Lucas 12:32 #shorts",
+     "description": "“Não tenham medo, pequeno rebanho, pois foi do agrado do Pai de vocês dar-lhes o Reino.” (Lucas 12:32)\n\nDeus tem prazer em entregar o Seu Reino a cada filho que o segue. Você faz parte desse precioso rebanho, amado e protegido. Que essa certeza acalme seu coração e lhe dê coragem para viver a fé diariamente. Salve este lembrete e compartilhe com quem precisa sentir o carinho do Pai. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reino #coragem #versiculododia",
+     "tags": [
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reino",
+      "coragem",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.08,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-26/2026-10-26-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
