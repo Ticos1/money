@@ -1,6 +1,96 @@
 {
  "posts": [
   {
+   "id": "2026-10-26-6-truefalse",
+   "date": "2026-10-26",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-26T15:08",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-26T08:23:33+00:00",
+   "source": "bank",
+   "bank_id": "q1272",
+   "model": null,
+   "content": {
+    "ref": "2 Coríntios 5:17",
+    "ref_label": "2 Coríntios 5:17",
+    "question": "Quem está em Cristo é uma nova...",
+    "shown": "Criação",
+    "is_true": true,
+    "correct": "Criação",
+    "evidence": "nova criação",
+    "passage": "Portanto, se alguém está em Cristo, é uma nova criação. As coisas antigas já passaram. Eis que todas as coisas se tornaram novas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #verdadeirooufalso #quizbiblico #perguntasbiblicas #deus #desafiobiblico #fe #conhecimentobiblico #biblia #gospel #palavradedeus #evangelico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#anonovo #verdadeirooufalso #quizbiblico #evangelico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#anonovo #verdadeirooufalso #quizbiblico #deus #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#anonovo #verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quem está em Cristo é uma nova... #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem está em Cristo é uma nova...\nResposta: Criação\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #anonovo #verdadeirooufalso #quizbiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "anonovo",
+      "2 coríntios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-26T18:10:32+00:00",
+    "instagram": "2026-10-26T18:11:08+00:00",
+    "facebook": "2026-10-26T18:11:13+00:00",
+    "stories": "2026-10-26T18:11:47+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/WGNsn8t9KqE",
+    "instagram": "https://www.instagram.com/reel/De95RKUj645/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2302151757242994",
+    "stories": "story 17963948445229831"
+   }
+  },
+  {
    "id": "2026-10-26-5-curiosity",
    "date": "2026-10-26",
    "slot": 5,
