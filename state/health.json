@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-26T00:43:16+00:00",
- "date": "2026-10-25",
+ "updated_at": "2026-10-26T04:41:41+00:00",
+ "date": "2026-10-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 455,
-   "days_left": 455,
+   "fresh": 456,
+   "days_left": 456,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1089,
+   "fresh": 1090,
    "days_left": 155,
    "warn": false
   },
@@ -49,254 +49,7 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-25-10-truefalse",
-   "date": "2026-10-25",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-25T21:39",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-26T00:40:33+00:00",
-    "stories": "2026-10-26T00:41:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1395809229422457",
-    "stories": "story 18134256619738431"
-   },
-   "title": "Qual homem rico, discípulo de Jesus, era de Arimateia?"
-  },
-  {
-   "id": "2026-10-25-9-quiz",
-   "date": "2026-10-25",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-25T20:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-25T23:10:35+00:00",
-    "instagram": "2026-10-25T23:11:10+00:00",
-    "facebook": "2026-10-25T23:11:16+00:00",
-    "stories": "2026-10-25T23:11:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/RXhg58uAQ3s",
-    "instagram": "https://www.instagram.com/reel/De72zuGjwd5/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1456696186453695",
-    "stories": "story 18114101684121906"
-   },
-   "title": "Qual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?"
-  },
-  {
-   "id": "2026-10-25-8-fill",
-   "date": "2026-10-25",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-25T18:29",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-25T21:30:33+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-25T21:31:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/F8y8JtT66Qw",
-    "stories": "story 18130665691841965"
-   },
-   "title": "A _____ do Senhor Jesus Cristo, o amor de Deus, e a comunhão do Espírito Santo sejam com todos vocês. Amém."
-  },
-  {
-   "id": "2026-10-25-7-quiz",
-   "date": "2026-10-25",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-25T16:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-25T20:00:30+00:00",
-    "stories": "2026-10-25T20:01:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1915829576064016",
-    "stories": "story 18054951620804401"
-   },
-   "title": "Quem foi lançado na cova dos leões?"
-  },
-  {
-   "id": "2026-10-25-6-truefalse",
-   "date": "2026-10-25",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-25T15:07",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-25T18:10:28+00:00",
-    "instagram": "2026-10-25T18:11:14+00:00",
-    "facebook": "2026-10-25T18:11:19+00:00",
-    "stories": "2026-10-25T18:12:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/BlQ8Qn4ePns",
-    "instagram": "https://www.instagram.com/reel/De7UdxNCHcN/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1417212940566751",
-    "stories": "story 17923551750448895"
-   },
-   "title": "Qual foi a esposa de Moisés, filha do sacerdote de Midiã?"
-  },
-  {
-   "id": "2026-10-25-5-curiosity",
-   "date": "2026-10-25",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-25T13:30",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-25T16:30:35+00:00",
-    "stories": "2026-10-25T16:31:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1115592934797126",
-    "stories": "story 18195130849399100"
-   },
-   "title": "A moeda na boca do peixe"
-  },
-  {
-   "id": "2026-10-25-4-quiz",
-   "date": "2026-10-25",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-25T11:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-25T14:55:37+00:00",
-    "instagram": "2026-10-25T14:56:15+00:00",
-    "facebook": "2026-10-25T14:56:19+00:00",
-    "stories": "2026-10-25T14:57:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/pB76OM6oy4g",
-    "instagram": "https://www.instagram.com/reel/De6-K1Zj9C5/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1142065081612485",
-    "stories": "story 18066251981716589"
-   },
-   "title": "O que os soldados teceram e puseram na cabeça de Jesus?"
-  },
-  {
-   "id": "2026-10-25-3-truefalse",
-   "date": "2026-10-25",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-25T10:06",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-25T13:10:33+00:00",
-    "stories": "2026-10-25T13:11:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1461400859204646",
-    "stories": "story 18100332491080052"
-   },
-   "title": "O que Jacó viu em sonho, apoiada na terra e com o topo chegando ao céu?"
-  },
-  {
-   "id": "2026-10-25-2-quiz",
-   "date": "2026-10-25",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-25T08:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-25T11:05:36+00:00",
-    "instagram": null,
-    "facebook": "2026-10-25T11:05:42+00:00",
-    "stories": "2026-10-25T11:06:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/EQoGeZ23J_E",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1430247448634018",
-    "stories": "story 18212798815363070"
-   },
-   "title": "Elias disse a Acabe que não haveria o quê, senão segundo a sua palavra?"
-  },
-  {
-   "id": "2026-10-25-1-verse",
-   "date": "2026-10-25",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-25T06:34",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-25T09:36:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18027855563863558"
-   },
-   "title": "Salmos 100:4"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
