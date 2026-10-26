@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-26T20:29:12+00:00",
+ "updated_at": "2026-10-26T21:43:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-8-fill": {
+   "type": "fill",
+   "date": "2026-10-26",
+   "time": "18:30",
+   "title": "Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’.",
+   "hook": "Qual palavra falta nesse versículo?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/imGfsk1HiTs"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-26-7-quiz": {
    "type": "quiz",
    "date": "2026-10-26",
@@ -16,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 195,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 420.2
    }
   },
   "2026-10-26-6-truefalse": {
@@ -35,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.8,
-    "watch_time_s": 0.8
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 260,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 781.7
+    "views": 268,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 803.0
    },
    "youtube": {
-    "views": 1,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 329,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1232.1
+    "views": 341,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1294.3
    }
   },
   "2026-10-26-4-quiz": {
@@ -87,13 +102,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.3,
+    "watch_time_s": 1.3
    },
    "facebook": {
     "likes": 0,
@@ -103,7 +118,7 @@
     "watch_time_s": 881.0
    },
    "youtube": {
-    "views": 2,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -138,13 +153,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 533,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1921.0
+    "views": 535,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1928.3
    },
    "youtube": {
-    "views": 10,
-    "likes": 1,
+    "views": 16,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -203,7 +218,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 110,
+    "views": 102,
     "likes": 1,
     "comments": 0
    }
@@ -218,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 22,
+    "views": 23,
     "likes": 1,
     "comments": 0
    }
@@ -306,13 +321,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 88,
+    "reach": 89,
     "saved": 1,
     "shares": 0,
-    "views": 112,
+    "views": 113,
     "total_interactions": 2,
     "avg_watch_s": 4.4,
-    "watch_time_s": 395.1
+    "watch_time_s": 397.8
    },
    "facebook": {
     "likes": 9,
@@ -590,7 +605,7 @@
     "watch_time_s": 1499.7
    },
    "youtube": {
-    "views": 63,
+    "views": 64,
     "likes": 1,
     "comments": 0
    }
@@ -682,9 +697,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1900,
+    "views": 1902,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8268.1
+    "watch_time_s": 8269.5
    }
   },
   "2026-10-23-6-truefalse": {
@@ -804,7 +819,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 495,
+    "views": 500,
     "avg_watch_s": 7.0,
     "watch_time_s": 2443.7
    },
