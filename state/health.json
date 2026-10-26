@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-26T21:43:35+00:00",
+ "updated_at": "2026-10-26T23:08:40+00:00",
  "date": "2026-10-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-26-9-quiz",
+   "date": "2026-10-26",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-26T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-26T23:05:30+00:00",
+    "instagram": "2026-10-26T23:06:02+00:00",
+    "facebook": "2026-10-26T23:06:06+00:00",
+    "stories": "2026-10-26T23:06:40+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/l2n1Ef04ecE",
+    "instagram": "https://www.instagram.com/reel/De-bBZYlXle/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1802397057746638",
+    "stories": "story 18078755225738461"
+   },
+   "title": "Qual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?"
+  },
   {
    "id": "2026-10-26-8-fill",
    "date": "2026-10-26",
