@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-26T13:03:26+00:00",
+ "updated_at": "2026-10-26T15:04:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-26",
+   "time": "12:00",
+   "title": "No sinédrio, Paulo disse que era o quê, filho de fariseus?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ZDoT9DeCJHE",
+    "instagram": "https://www.instagram.com/reel/De9jhZ5jYi9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2338342670247369"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-26-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-26",
@@ -32,11 +67,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/3255816017945812"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 263,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 767.6
+    "views": 363,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 1055.7
    },
    "youtube": {
     "views": 0,
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 13,
+    "views": 14,
     "likes": 1,
     "comments": 0
    }
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 49,
+    "reach": 56,
     "saved": 0,
     "shares": 0,
-    "views": 69,
+    "views": 76,
     "total_interactions": 1,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 190.8
+    "avg_watch_s": 3.6,
+    "watch_time_s": 211.2
    },
    "facebook": {
     "likes": 0,
@@ -166,7 +201,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 182,
+    "views": 186,
     "likes": 2,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 295,
+    "views": 296,
     "avg_watch_s": 3.3,
-    "watch_time_s": 878.2
+    "watch_time_s": 884.0
    }
   },
   "2026-10-25-4-quiz": {
@@ -202,24 +237,24 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 63,
-    "saved": 0,
+    "reach": 86,
+    "saved": 1,
     "shares": 0,
-    "views": 90,
-    "total_interactions": 1,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 291.0
+    "views": 111,
+    "total_interactions": 2,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 382.5
    },
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1893,
+    "views": 1895,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7330.9
+    "watch_time_s": 7344.5
    },
    "youtube": {
-    "views": 42,
-    "likes": 2,
+    "views": 44,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -235,9 +270,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1738,
+    "views": 1739,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8225.4
+    "watch_time_s": 8228.5
    }
   },
   "2026-10-25-2-quiz": {
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1825,
+    "views": 1827,
     "avg_watch_s": 6.6,
-    "watch_time_s": 8954.5
+    "watch_time_s": 8956.6
    },
    "youtube": {
     "views": 80,
@@ -394,7 +429,7 @@
     "watch_time_s": 24.0
    },
    "youtube": {
-    "views": 153,
+    "views": 156,
     "likes": 0,
     "comments": 0
    }
@@ -486,7 +521,7 @@
     "watch_time_s": 1499.2
    },
    "youtube": {
-    "views": 61,
+    "views": 64,
     "likes": 1,
     "comments": 0
    }
@@ -1454,9 +1489,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2241,
+    "views": 2242,
     "avg_watch_s": 7.3,
-    "watch_time_s": 11047.4
+    "watch_time_s": 11054.1
    }
   },
   "2026-10-19-6-truefalse": {
