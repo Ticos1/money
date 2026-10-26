@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-26T15:04:25+00:00",
+ "updated_at": "2026-10-26T16:29:23+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-26",
+   "time": "13:30",
+   "title": "Moisés aos 120 anos",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1493822329477558"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-26-4-quiz": {
    "type": "quiz",
    "date": "2026-10-26",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 183,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 392.4
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 0.9
    }
   },
   "2026-10-26-2-quiz": {
@@ -69,9 +86,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 363,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 1055.7
+    "views": 501,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1565.4
    },
    "youtube": {
     "views": 0,
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 14,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 56,
+    "reach": 62,
     "saved": 0,
     "shares": 0,
-    "views": 76,
+    "views": 79,
     "total_interactions": 1,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 211.2
+    "avg_watch_s": 3.4,
+    "watch_time_s": 217.1
    },
    "facebook": {
     "likes": 0,
@@ -201,7 +218,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 186,
+    "views": 190,
     "likes": 2,
     "comments": 0
    }
@@ -237,23 +254,23 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 86,
+    "reach": 87,
     "saved": 1,
     "shares": 0,
-    "views": 111,
+    "views": 112,
     "total_interactions": 2,
     "avg_watch_s": 4.4,
-    "watch_time_s": 382.5
+    "watch_time_s": 389.9
    },
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1895,
+    "views": 1897,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7344.5
+    "watch_time_s": 7345.4
    },
    "youtube": {
-    "views": 44,
+    "views": 48,
     "likes": 3,
     "comments": 0
    }
@@ -288,12 +305,12 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1827,
+    "views": 1828,
     "avg_watch_s": 6.6,
     "watch_time_s": 8956.6
    },
    "youtube": {
-    "views": 80,
+    "views": 84,
     "likes": 1,
     "comments": 0
    }
@@ -429,7 +446,7 @@
     "watch_time_s": 24.0
    },
    "youtube": {
-    "views": 156,
+    "views": 157,
     "likes": 0,
     "comments": 0
    }
