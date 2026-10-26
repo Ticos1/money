@@ -1,6 +1,97 @@
 {
  "posts": [
   {
+   "id": "2026-10-26-5-curiosity",
+   "date": "2026-10-26",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-26T13:24",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-26T08:23:11+00:00",
+   "source": "bank",
+   "bank_id": "c006",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 34:7",
+    "ref_label": "Deuteronômio 34:7",
+    "title": "Moisés aos 120 anos",
+    "text": "Moisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado.",
+    "evidence": "cento e vinte anos de idade",
+    "passage": "Moisés tinha cento e vinte anos de idade quando morreu. Seus olhos não haviam escurecido, nem o seu vigor havia se esvaído.",
+    "tags": [
+     "moises"
+    ]
+   },
+   "captions": {
+    "instagram": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #vocesabia #curiosidadesbiblicas #historiabiblica #estudobiblico #fe #deus #palavradedeus #evangelico #gospel #jesus #biblia",
+    "facebook": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#moises #vocesabia #curiosidadesbiblicas #evangelico",
+    "tiktok": "Isso está na Bíblia e muita gente não sabe 📖 Moisés aos 120 anos\nCompartilhe com quem vai gostar de saber disso.\n#moises #vocesabia #curiosidadesbiblicas #cristao #fe",
+    "kwai": "Isso está na Bíblia e muita gente não sabe 📖 Moisés aos 120 anos\nCompartilhe com quem vai gostar de saber disso.\n#moises #vocesabia #curiosidadesbiblicas #deus #jesus",
+    "whatsapp": "*Isso está na Bíblia e muita gente não sabe* 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Moisés aos 120 anos #shorts",
+     "description": "Isso está na Bíblia e muita gente não sabe 📖\n\nMoisés aos 120 anos\n\nMoisés morreu com 120 anos, e a Bíblia diz que seus olhos não tinham escurecido e seu vigor não tinha acabado. (Deuteronômio 34:7)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #moises #vocesabia #curiosidadesbiblicas",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "moises",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Isso está na Bíblia e muita gente não sabe",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-26T16:25:35+00:00",
+    "stories": "2026-10-26T16:26:11+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1493822329477558",
+    "stories": "story 18139087696559235"
+   }
+  },
+  {
    "id": "2026-10-26-4-quiz",
    "date": "2026-10-26",
    "slot": 4,
