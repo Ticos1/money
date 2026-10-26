@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-26T16:29:27+00:00",
+ "updated_at": "2026-10-26T18:14:17+00:00",
  "date": "2026-10-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-26-6-truefalse",
+   "date": "2026-10-26",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-26T15:08",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-26T18:10:32+00:00",
+    "instagram": "2026-10-26T18:11:08+00:00",
+    "facebook": "2026-10-26T18:11:13+00:00",
+    "stories": "2026-10-26T18:11:47+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/WGNsn8t9KqE",
+    "instagram": "https://www.instagram.com/reel/De95RKUj645/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2302151757242994",
+    "stories": "story 17963948445229831"
+   },
+   "title": "Quem está em Cristo é uma nova..."
+  },
   {
    "id": "2026-10-26-5-curiosity",
    "date": "2026-10-26",
