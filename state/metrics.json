@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-26T16:29:23+00:00",
+ "updated_at": "2026-10-26T18:14:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-26-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-26",
+   "time": "15:00",
+   "title": "Quem está em Cristo é uma nova...",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/WGNsn8t9KqE",
+    "instagram": "https://www.instagram.com/reel/De95RKUj645/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2302151757242994"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-26-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-26",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1493822329477558"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 224,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 794.8
    }
   },
   "2026-10-26-4-quiz": {
@@ -46,9 +81,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 183,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 392.4
+    "views": 255,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 881.0
    },
    "youtube": {
     "views": 0,
@@ -86,13 +121,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 501,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1565.4
+    "views": 528,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1877.2
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 8,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 16,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -205,7 +240,7 @@
     "reach": 62,
     "saved": 0,
     "shares": 0,
-    "views": 79,
+    "views": 81,
     "total_interactions": 1,
     "avg_watch_s": 3.4,
     "watch_time_s": 217.1
@@ -218,7 +253,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 190,
+    "views": 191,
     "likes": 2,
     "comments": 0
    }
@@ -254,20 +289,20 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 87,
+    "reach": 88,
     "saved": 1,
     "shares": 0,
     "views": 112,
     "total_interactions": 2,
     "avg_watch_s": 4.4,
-    "watch_time_s": 389.9
+    "watch_time_s": 395.1
    },
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1897,
+    "views": 1899,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7345.4
+    "watch_time_s": 7352.4
    },
    "youtube": {
     "views": 48,
@@ -287,9 +322,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1739,
+    "views": 1743,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8228.5
+    "watch_time_s": 8259.1
    }
   },
   "2026-10-25-2-quiz": {
@@ -307,10 +342,10 @@
     "comments": 1,
     "views": 1828,
     "avg_watch_s": 6.6,
-    "watch_time_s": 8956.6
+    "watch_time_s": 8958.2
    },
    "youtube": {
-    "views": 84,
+    "views": 85,
     "likes": 1,
     "comments": 0
    }
@@ -394,7 +429,7 @@
     "youtube": "https://youtube.com/shorts/mBz_9uWFGNI"
    },
    "youtube": {
-    "views": 87,
+    "views": 88,
     "likes": 3,
     "comments": 0
    }
@@ -411,9 +446,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1706,
+    "views": 1708,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7602.7
+    "watch_time_s": 7604.7
    }
   },
   "2026-10-24-6-truefalse": {
