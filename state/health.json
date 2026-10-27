@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T11:08:10+00:00",
+ "updated_at": "2026-10-27T13:08:30+00:00",
  "date": "2026-10-27",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-27-3-truefalse",
+   "date": "2026-10-27",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-27T10:02",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-27T13:05:32+00:00",
+    "stories": "2026-10-27T13:06:29+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118044577601301",
+    "stories": "story 18501427969096999"
+   },
+   "title": "O que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?"
+  },
   {
    "id": "2026-10-27-2-quiz",
    "date": "2026-10-27",
