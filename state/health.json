@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-27T00:34:03+00:00",
- "date": "2026-10-26",
+ "updated_at": "2026-10-27T08:54:42+00:00",
+ "date": "2026-10-27",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
@@ -16,287 +16,40 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 578,
-   "days_left": 578,
+   "fresh": 576,
+   "days_left": 576,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 454,
-   "days_left": 454,
+   "fresh": 453,
+   "days_left": 453,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 1059,
-   "days_left": 151,
+   "fresh": 1052,
+   "days_left": 150,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1084,
+   "fresh": 1078,
    "days_left": 154,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 247,
-   "days_left": 247,
+   "fresh": 244,
+   "days_left": 244,
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-26-10-truefalse",
-   "date": "2026-10-26",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-26T21:29",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-27T00:30:35+00:00",
-    "stories": "2026-10-27T00:31:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1670451468067815",
-    "stories": "story 18127760015484380"
-   },
-   "title": "Quanto tempo Elias caminhou com a força da comida até Horebe?"
-  },
-  {
-   "id": "2026-10-26-9-quiz",
-   "date": "2026-10-26",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-26T20:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-26T23:05:30+00:00",
-    "instagram": "2026-10-26T23:06:02+00:00",
-    "facebook": "2026-10-26T23:06:06+00:00",
-    "stories": "2026-10-26T23:06:40+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/l2n1Ef04ecE",
-    "instagram": "https://www.instagram.com/reel/De-bBZYlXle/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1802397057746638",
-    "stories": "story 18078755225738461"
-   },
-   "title": "Qual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?"
-  },
-  {
-   "id": "2026-10-26-8-fill",
-   "date": "2026-10-26",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-26T18:39",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-26T21:40:32+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-26T21:41:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/imGfsk1HiTs",
-    "stories": "story 17911936470305581"
-   },
-   "title": "Jesus lhe disse: ‘Ame ao Senhor, seu Deus, de todo o seu coração, de toda a sua _____ e de todo o seu entendimento.’."
-  },
-  {
-   "id": "2026-10-26-7-quiz",
-   "date": "2026-10-26",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-26T17:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-26T20:10:37+00:00",
-    "stories": "2026-10-26T20:11:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2183767519191299",
-    "stories": "story 18130358587828661"
-   },
-   "title": "Qual filho de Saul tinha a alma unida à alma de Davi?"
-  },
-  {
-   "id": "2026-10-26-6-truefalse",
-   "date": "2026-10-26",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-26T15:08",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-26T18:10:32+00:00",
-    "instagram": "2026-10-26T18:11:08+00:00",
-    "facebook": "2026-10-26T18:11:13+00:00",
-    "stories": "2026-10-26T18:11:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/WGNsn8t9KqE",
-    "instagram": "https://www.instagram.com/reel/De95RKUj645/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2302151757242994",
-    "stories": "story 17963948445229831"
-   },
-   "title": "Quem está em Cristo é uma nova..."
-  },
-  {
-   "id": "2026-10-26-5-curiosity",
-   "date": "2026-10-26",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-26T13:24",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-26T16:25:35+00:00",
-    "stories": "2026-10-26T16:26:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1493822329477558",
-    "stories": "story 18139087696559235"
-   },
-   "title": "Moisés aos 120 anos"
-  },
-  {
-   "id": "2026-10-26-4-quiz",
-   "date": "2026-10-26",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-26T11:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-26T15:00:32+00:00",
-    "instagram": "2026-10-26T15:00:55+00:00",
-    "facebook": "2026-10-26T15:01:00+00:00",
-    "stories": "2026-10-26T15:02:29+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/ZDoT9DeCJHE",
-    "instagram": "https://www.instagram.com/reel/De9jhZ5jYi9/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2338342670247369",
-    "stories": "story 18140054434646518"
-   },
-   "title": "No sinédrio, Paulo disse que era o quê, filho de fariseus?"
-  },
-  {
-   "id": "2026-10-26-3-truefalse",
-   "date": "2026-10-26",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-26T09:58",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-26T13:00:33+00:00",
-    "stories": "2026-10-26T13:01:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1649600306801706",
-    "stories": "story 17916092013496392"
-   },
-   "title": "Em qual mar os capitães do Faraó afundaram?"
-  },
-  {
-   "id": "2026-10-26-2-quiz",
-   "date": "2026-10-26",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-26T08:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-26T11:10:30+00:00",
-    "instagram": null,
-    "facebook": "2026-10-26T11:10:36+00:00",
-    "stories": "2026-10-26T11:11:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/CXMD4-tmenc",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3255816017945812",
-    "stories": "story 18089605742257490"
-   },
-   "title": "Quem começou a ser poderoso na terra, segundo 1 Crônicas 1?"
-  },
-  {
-   "id": "2026-10-26-1-verse",
-   "date": "2026-10-26",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-26T06:36",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-26T09:41:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18148540528494488"
-   },
-   "title": "Lucas 12:32"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
