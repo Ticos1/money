@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-27T16:28:23+00:00",
+ "updated_at": "2026-10-27T17:59:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-27",
+   "time": "15:00",
+   "title": "Junto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Vpk430sQxfI",
+    "instagram": "https://www.instagram.com/reel/DfAcWswAPZx/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/943722098578271"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-27-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-27",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 15,
+    "avg_watch_s": 6.1,
+    "watch_time_s": 55.1
    }
   },
   "2026-10-27-4-quiz": {
@@ -46,12 +81,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 75,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 149.8
+    "views": 285,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1013.7
    },
    "youtube": {
-    "views": 0,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 204,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 721.8
+    "views": 221,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 843.7
    },
    "youtube": {
-    "views": 23,
+    "views": 84,
     "likes": 0,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1347,
+    "views": 1350,
     "avg_watch_s": 5.7,
-    "watch_time_s": 5796.6
+    "watch_time_s": 5799.8
    }
   },
   "2026-10-26-6-truefalse": {
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 29.5
+    "avg_watch_s": 3.6,
+    "watch_time_s": 36.4
    },
    "facebook": {
     "likes": 0,
@@ -218,7 +253,7 @@
     "watch_time_s": 966.0
    },
    "youtube": {
-    "views": 23,
+    "views": 22,
     "likes": 0,
     "comments": 0
    }
@@ -265,7 +300,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 257,
+    "views": 258,
     "avg_watch_s": 4.2,
     "watch_time_s": 892.5
    },
@@ -305,9 +340,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 541,
+    "views": 542,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1966.4
+    "watch_time_s": 1967.1
    },
    "youtube": {
     "views": 30,
@@ -484,9 +519,9 @@
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1901,
+    "views": 1902,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7355.4
+    "watch_time_s": 7356.9
    },
    "youtube": {
     "views": 50,
@@ -3382,9 +3417,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 799,
+    "views": 800,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1908.9
+    "watch_time_s": 1910.0
    },
    "youtube": {
     "views": 7,
