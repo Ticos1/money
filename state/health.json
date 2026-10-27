@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-27T16:28:27+00:00",
+ "updated_at": "2026-10-27T17:59:36+00:00",
  "date": "2026-10-27",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-27-6-truefalse",
+   "date": "2026-10-27",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-27T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-27T17:55:36+00:00",
+    "instagram": "2026-10-27T17:56:14+00:00",
+    "facebook": "2026-10-27T17:56:18+00:00",
+    "stories": "2026-10-27T17:56:53+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Vpk430sQxfI",
+    "instagram": "https://www.instagram.com/reel/DfAcWswAPZx/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/943722098578271",
+    "stories": "story 18496327210108412"
+   },
+   "title": "Junto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?"
+  },
   {
    "id": "2026-10-27-5-curiosity",
    "date": "2026-10-27",
