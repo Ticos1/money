@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-9-quiz",
+   "date": "2026-10-27",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-27T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q769",
+   "model": null,
+   "content": {
+    "ref": "Ester 9:26",
+    "ref_label": "Ester 9:26",
+    "question": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?",
+    "options": [
+     "Purim",
+     "Páscoa",
+     "Pentecostes",
+     "Tabernáculos"
+    ],
+    "answer": 0,
+    "evidence": "eles chamaram esses dias de “Purim”",
+    "passage": "Portanto, eles chamaram esses dias de “Purim”, da palavra “Pur”. Portanto, por causa de todas as palavras desta carta, e daquilo que eles tinham visto a respeito desse assunto, e daquilo que lhes havia acontecido,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #cristao #jesus #teste #deus #fe #perguntasbiblicas #gospel #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #evangelico #conhecimentobiblico",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #palavradedeus",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-27T23:05:35+00:00",
+    "instagram": "2026-10-27T23:06:08+00:00",
+    "facebook": "2026-10-27T23:06:13+00:00",
+    "stories": "2026-10-27T23:06:44+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/NBQdqrJCzVE",
+    "instagram": "https://www.instagram.com/reel/DfA_1EOABwJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1585426526202877",
+    "stories": "story 17911205085481387"
+   }
+  },
+  {
    "id": "2026-10-27-8-fill",
    "date": "2026-10-27",
    "slot": 8,
