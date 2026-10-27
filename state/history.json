@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-1-verse",
+   "date": "2026-10-27",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-27T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:21:15+00:00",
+   "source": "bank",
+   "bank_id": "v358",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 10:12",
+    "ref_label": "Provérbios 10:12",
+    "verse_text": "O ódio desperta contendas, mas o amor cobre todas as transgressões.",
+    "on_screen": "O amor cobre todas as transgressões.",
+    "reflection": "O ódio guarda lista de ofensas; o amor escolhe cobrir. Isso não é fingir que nada aconteceu, mas decidir não usar o erro do outro como arma. Quem você pode perdoar hoje?",
+    "theme": "amor",
+    "mood": "reflexao",
+    "tags": [
+     "amor",
+     "perdao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #perdao #versiculododia #versiculo #devocional #fe #jesus #gospel #biblia #palavradedeus #oracao",
+    "facebook": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #perdao #versiculododia",
+    "tiktok": "Versículo sobre amor\nO amor cobre o erro; perdoe hoje e sinta a liberdade.\n#versiculosobreamor #amor #perdao #versiculododia #versiculo",
+    "kwai": "Versículo sobre amor\nO amor cobre o erro; perdoe hoje e sinta a liberdade.\n#versiculosobreamor #amor #perdao #versiculododia #versiculo",
+    "whatsapp": "“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre amor: Provérbios 10:12 🙏 #shorts",
+     "description": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreamor #amor #perdao",
+     "tags": [
+      "versículo sobre amor",
+      "versículos sobre amor",
+      "amor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perdao",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-27T09:22:01+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18119103380282566"
+   }
+  },
+  {
    "id": "2026-10-26-10-truefalse",
    "date": "2026-10-26",
    "slot": 10,
