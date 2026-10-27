@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T21:42:54+00:00",
+ "updated_at": "2026-10-27T22:10:22+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -31,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 264,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 559.3
+    "views": 281,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1231.3
    }
   },
   "2026-10-27-6-truefalse": {
@@ -50,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
     "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 2.2,
-    "watch_time_s": 6.6
+    "avg_watch_s": 1.8,
+    "watch_time_s": 7.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 328,
-    "avg_watch_s": 6.7,
-    "watch_time_s": 1496.5
+    "views": 378,
+    "avg_watch_s": 6.8,
+    "watch_time_s": 1731.4
    },
    "youtube": {
-    "views": 88,
+    "views": 92,
     "likes": 1,
     "comments": 0
    }
@@ -155,10 +155,10 @@
     "comments": 0,
     "views": 242,
     "avg_watch_s": 4.8,
-    "watch_time_s": 964.7
+    "watch_time_s": 965.6
    },
    "youtube": {
-    "views": 95,
+    "views": 105,
     "likes": 0,
     "comments": 0
    }
@@ -372,7 +372,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 545,
+    "views": 546,
     "avg_watch_s": 4.6,
     "watch_time_s": 1982.8
    },
@@ -551,7 +551,7 @@
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1902,
+    "views": 1903,
     "avg_watch_s": 4.8,
     "watch_time_s": 7356.9
    },
