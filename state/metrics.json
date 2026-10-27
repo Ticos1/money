@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-27T11:08:07+00:00",
+ "updated_at": "2026-10-27T13:08:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-27",
+   "time": "10:00",
+   "title": "O que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118044577601301"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-27-2-quiz": {
    "type": "quiz",
    "date": "2026-10-27",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 152,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 490.4
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1340,
+    "views": 1343,
     "avg_watch_s": 5.7,
-    "watch_time_s": 5742.2
+    "watch_time_s": 5773.8
    }
   },
   "2026-10-26-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 313,
+    "views": 314,
     "avg_watch_s": 3.8,
-    "watch_time_s": 965.3
+    "watch_time_s": 966.0
    },
    "youtube": {
     "views": 23,
@@ -183,15 +200,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2338342670247369"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 27,
+    "reach": 31,
     "saved": 0,
     "shares": 0,
-    "views": 37,
-    "total_interactions": 0,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 144.2
+    "views": 44,
+    "total_interactions": 1,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 166.7
    },
    "facebook": {
     "likes": 0,
@@ -1081,7 +1098,7 @@
    "facebook": {
     "likes": 11,
     "comments": 3,
-    "views": 1172,
+    "views": 1173,
     "avg_watch_s": 5.6,
     "watch_time_s": 4764.3
    },
@@ -1905,9 +1922,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 281,
+    "views": 282,
     "avg_watch_s": 4.2,
-    "watch_time_s": 916.5
+    "watch_time_s": 921.8
    },
    "youtube": {
     "views": 360,
