@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-27T13:08:27+00:00",
+ "updated_at": "2026-10-27T15:00:41+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-27",
+   "time": "12:00",
+   "title": "Qual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/DkV2-7IdtUY",
+    "instagram": "https://www.instagram.com/reel/DfAHvgsDD6x/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1162248619792405"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-27-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-27",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 16.2,
+    "watch_time_s": 16.2
    }
   },
   "2026-10-27-2-quiz": {
@@ -34,12 +69,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 152,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 490.4
+    "views": 177,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 652.9
    },
    "youtube": {
-    "views": 1,
+    "views": 62,
     "likes": 0,
     "comments": 0
    }
@@ -64,9 +99,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 0.9,
+    "watch_time_s": 0.9
    }
   },
   "2026-10-26-9-quiz": {
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1343,
+    "views": 1345,
     "avg_watch_s": 5.7,
-    "watch_time_s": 5773.8
+    "watch_time_s": 5785.2
    }
   },
   "2026-10-26-6-truefalse": {
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 31,
+    "reach": 50,
     "saved": 0,
     "shares": 0,
-    "views": 44,
+    "views": 70,
     "total_interactions": 1,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 166.7
+    "avg_watch_s": 4.7,
+    "watch_time_s": 224.8
    },
    "facebook": {
     "likes": 0,
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 540,
+    "views": 541,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1964.9
+    "watch_time_s": 1966.4
    },
    "youtube": {
     "views": 30,
@@ -1100,7 +1135,7 @@
     "comments": 3,
     "views": 1173,
     "avg_watch_s": 5.6,
-    "watch_time_s": 4764.3
+    "watch_time_s": 4764.7
    },
    "youtube": {
     "views": 124,
