@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-2-quiz",
+   "date": "2026-10-27",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-27T08:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:21:45+00:00",
+   "source": "bank",
+   "bank_id": "q1141",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 6:5",
+    "ref_label": "Provérbios 6:5",
+    "question": "Provérbios manda livrar-se como a gazela do caçador e como a ave de quê?",
+    "options": [
+     "Da rede do pescador",
+     "Da flecha do arqueiro",
+     "Do laço do pastor",
+     "Da armadilha do passarinheiro"
+    ],
+    "answer": 3,
+    "evidence": "como a ave da armadilha do passarinheiro",
+    "passage": "Livre-se, como a gazela da mão do caçador, como a ave da armadilha do passarinheiro.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico #desafio #gospel #jesus #conhecimentobiblico #cristao #fe #biblia #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #palavradedeus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-27T11:05:28+00:00",
+    "instagram": null,
+    "facebook": "2026-10-27T11:05:33+00:00",
+    "stories": "2026-10-27T11:06:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/n00X45gT1sw",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1104025079274036",
+    "stories": "story 18109000166344238"
+   }
+  },
+  {
    "id": "2026-10-27-1-verse",
    "date": "2026-10-27",
    "slot": 1,
