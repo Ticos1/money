@@ -1,3 +1,1000 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-27-10-truefalse",
+   "date": "2026-10-27",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-27T21:25",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:25:25+00:00",
+   "source": "bank",
+   "bank_id": "q510",
+   "model": null,
+   "content": {
+    "ref": "Lucas 3:22",
+    "ref_label": "Lucas 3:22",
+    "question": "O que a voz do céu disse a Jesus no batismo?",
+    "shown": "Tu és o meu Filho amado",
+    "is_true": true,
+    "correct": "Tu és o meu Filho amado",
+    "evidence": "Tu és o meu Filho amado",
+    "passage": "e o Espírito Santo desceu sobre ele em forma corpórea, como uma pomba; e uma voz veio do céu, dizendo: “Tu és o meu Filho amado. Em ti me agrado.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #palavradedeus #gospel #jesus #biblia #perguntasbiblicas #deus #desafiobiblico #cristao #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #conhecimentobiblico #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #biblia",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que a voz do céu disse a Jesus no batismo? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-9-quiz",
+   "date": "2026-10-27",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-27T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q769",
+   "model": null,
+   "content": {
+    "ref": "Ester 9:26",
+    "ref_label": "Ester 9:26",
+    "question": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?",
+    "options": [
+     "Purim",
+     "Páscoa",
+     "Pentecostes",
+     "Tabernáculos"
+    ],
+    "answer": 0,
+    "evidence": "eles chamaram esses dias de “Purim”",
+    "passage": "Portanto, eles chamaram esses dias de “Purim”, da palavra “Pur”. Portanto, por causa de todas as palavras desta carta, e daquilo que eles tinham visto a respeito desse assunto, e daquilo que lhes havia acontecido,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #cristao #jesus #teste #deus #fe #perguntasbiblicas #gospel #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #evangelico #conhecimentobiblico",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #palavradedeus",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nComo foram chamados os dias de festa cujo nome vem da palavra “Pur”?\n\nA) Purim\nB) Páscoa\nC) Pentecostes\nD) Tabernáculos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-8-fill",
+   "date": "2026-10-27",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-27T18:36",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-27T08:24:31+00:00",
+   "source": "bank",
+   "bank_id": "v340",
+   "model": null,
+   "content": {
+    "ref": "Salmos 86:11",
+    "ref_label": "Salmos 86:11",
+    "verse_text": "Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu coração indiviso para temer o teu nome.",
+    "question": "Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.",
+    "options": [
+     "escudo",
+     "coração",
+     "cântico",
+     "medo"
+    ],
+    "answer": 1,
+    "answer_word": "coração",
+    "tags": [
+     "oracao",
+     "direcao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre oração: Salmos 86:11\nComplete o versículo! 90% erra essa palavra 📖\n\n“Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.”\n\nA) escudo\nB) coração\nC) cântico\nD) medo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #direcao #completeoversiculo #versiculo #desafiobiblico #biblia #jesus #evangelico #cristao #deus #palavradedeus",
+    "facebook": "Versículo sobre oração: Salmos 86:11\nComplete o versículo! 90% erra essa palavra 📖\n\n“Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.”\n\nA) escudo\nB) coração\nC) cântico\nD) medo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreoracao #oracao #direcao #completeoversiculo",
+    "tiktok": "Versículo sobre oração\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreoracao #oracao #direcao #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre oração\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreoracao #oracao #direcao #completeoversiculo #versiculo",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.”\n\nA) escudo\nB) coração\nC) cântico\nD) medo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre oração: Salmos 86:11 📖 #shorts",
+     "description": "Versículo sobre oração: Salmos 86:11\nComplete o versículo! 90% erra essa palavra 📖\n\n“Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.”\n\nA) escudo\nB) coração\nC) cântico\nD) medo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreoracao #oracao #direcao",
+     "tags": [
+      "versículo sobre oração",
+      "versículos sobre oração",
+      "oração",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oracao",
+      "direcao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-7-quiz",
+   "date": "2026-10-27",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-27T16:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:24:03+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 81:16",
+    "ref_label": "Salmos 81:16",
+    "question": "Qual expressão aparece em Salmos 81:16?",
+    "options": [
+     "mel da rocha",
+     "água viva",
+     "pão celestial",
+     "vinho da terra"
+    ],
+    "answer": 0,
+    "evidence": "mel da rocha",
+    "passage": "Mas ele também os teria alimentado com o melhor do trigo. Eu o saciarei com mel da rocha.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece em Salmos 81:16?\n\nA) mel da rocha\nB) água viva\nC) pão celestial\nD) vinho da terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #evangelico #teste #deus #palavradedeus #biblia #perguntasbiblicas #cristao #gospel #jesus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece em Salmos 81:16?\n\nA) mel da rocha\nB) água viva\nC) pão celestial\nD) vinho da terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #cristao",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #jesus #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #perguntasbiblicas",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual expressão aparece em Salmos 81:16?\n\nA) mel da rocha\nB) água viva\nC) pão celestial\nD) vinho da terra\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão aparece em Salmos 81:16? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece em Salmos 81:16?\n\nA) mel da rocha\nB) água viva\nC) pão celestial\nD) vinho da terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-6-truefalse",
+   "date": "2026-10-27",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-27T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:23:35+00:00",
+   "source": "bank",
+   "bank_id": "q033",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 17:5-6",
+    "ref_label": "1 Reis 17:5-6",
+    "question": "Junto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?",
+    "shown": "Pombas",
+    "is_true": false,
+    "correct": "Corvos",
+    "evidence": "Os corvos lhe traziam pão e carne",
+    "passage": "Então ele foi e fez segundo a palavra do SENHOR, pois foi e morou junto ao ribeiro de Querite, que está diante do Jordão. Os corvos lhe traziam pão e carne pela manhã, e pão e carne à tarde; e ele bebia do ribeiro.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #gospel #desafiobiblico #jesus #conhecimentobiblico #biblia #fe #cristao #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #gospel",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #fe #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-5-curiosity",
+   "date": "2026-10-27",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-27T13:22",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-27T08:23:09+00:00",
+   "source": "bank",
+   "bank_id": "c269",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:7",
+    "ref_label": "Lucas 2:7",
+    "title": "O berço do Rei foi uma manjedoura",
+    "text": "O Salvador do mundo foi deitado numa manjedoura, porque não havia lugar na hospedaria. O Rei nasceu simples.",
+    "evidence": "em uma manjedoura",
+    "passage": "Ela deu à luz o seu filho primogênito. Envolveu-o em faixas de pano e o deitou em uma manjedoura, porque não havia lugar para eles na hospedaria.",
+    "tags": [
+     "natal",
+     "jesus"
+    ]
+   },
+   "captions": {
+    "instagram": "O berço do Rei foi uma manjedoura\n\nO Salvador do mundo foi deitado numa manjedoura, porque não havia lugar na hospedaria. O Rei nasceu simples. (Lucas 2:7)\n\nCuriosidade bíblica: o berço do nosso Rei foi uma simples manjedoura. Jesus, o Salvador do mundo, foi deitado ali porque não havia lugar na hospedaria. Essa cena nos lembra que o verdadeiro poder vem da humildade. Compartilhe para que mais pessoas sintam o amor que nasce em lugares simples. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #jesus #vocesabia #curiosidadesbiblicas #biblia #estudobiblico #evangelico #gospel #palavradedeus #deus #historiabiblica #fe",
+    "facebook": "O berço do Rei foi uma manjedoura\n\nO Salvador do mundo foi deitado numa manjedoura, porque não havia lugar na hospedaria. O Rei nasceu simples. (Lucas 2:7)\n\nCuriosidade bíblica: o berço do nosso Rei foi uma simples manjedoura. Jesus, o Salvador do mundo, foi deitado ali porque não havia lugar na hospedaria. Essa cena nos lembra que o verdadeiro poder vem da humildade. Compartilhe para que mais pessoas sintam o amor que nasce em lugares simples. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #jesus #vocesabia #curiosidadesbiblicas",
+    "tiktok": "O Rei nasceu numa manjedoura, símbolo de humildade e amor. Salve e compartilhe! 🙏\n#natal #jesus #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "O Rei nasceu numa manjedoura, símbolo de humildade e amor. Salve e compartilhe! 🙏\n#natal #jesus #vocesabia #curiosidadesbiblicas #biblia",
+    "whatsapp": "O berço do Rei foi uma manjedoura\n\nO Salvador do mundo foi deitado numa manjedoura, porque não havia lugar na hospedaria. O Rei nasceu simples. (Lucas 2:7)\n\nCuriosidade bíblica: o berço do nosso Rei foi uma simples manjedoura. Jesus, o Salvador do mundo, foi deitado ali porque não havia lugar na hospedaria. Essa cena nos lembra que o verdadeiro poder vem da humildade. Compartilhe para que mais pessoas sintam o amor que nasce em lugares simples. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? O berço do Rei foi uma manjedoura #shorts",
+     "description": "O berço do Rei foi uma manjedoura\n\nO Salvador do mundo foi deitado numa manjedoura, porque não havia lugar na hospedaria. O Rei nasceu simples. (Lucas 2:7)\n\nCuriosidade bíblica: o berço do nosso Rei foi uma simples manjedoura. Jesus, o Salvador do mundo, foi deitado ali porque não havia lugar na hospedaria. Essa cena nos lembra que o verdadeiro poder vem da humildade. Compartilhe para que mais pessoas sintam o amor que nasce em lugares simples. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #natal #jesus #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "natal",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.71,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-4-quiz",
+   "date": "2026-10-27",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-27T11:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:22:40+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 61:2",
+    "ref_label": "Salmos 61:2",
+    "question": "Qual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?",
+    "options": [
+     "Montanha",
+     "Céu",
+     "Rocha",
+     "Vale"
+    ],
+    "answer": 2,
+    "evidence": "Rocha",
+    "passage": "Desde os confins da terra eu clamo a ti, quando o meu coração está abatido. Guia-me para a rocha que é mais alta do que eu.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?\n\nA) Montanha\nB) Céu\nC) Rocha\nD) Vale\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #cristao #deus #biblia #jesus #conhecimentobiblico #perguntasbiblicas #fe #evangelico #desafio",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?\n\nA) Montanha\nB) Céu\nC) Rocha\nD) Vale\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #fe",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #biblia",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #deus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?\n\nA) Montanha\nB) Céu\nC) Rocha\nD) Vale\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?\n\nA) Montanha\nB) Céu\nC) Rocha\nD) Vale\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-3-truefalse",
+   "date": "2026-10-27",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-27T10:02",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:22:11+00:00",
+   "source": "bank",
+   "bank_id": "q967",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 27:16",
+    "ref_label": "Gênesis 27:16",
+    "question": "O que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?",
+    "shown": "Lã de ovelha",
+    "is_true": false,
+    "correct": "As peles dos cabritos",
+    "evidence": "Ela colocou as peles dos cabritos em suas mãos",
+    "passage": "Ela colocou as peles dos cabritos em suas mãos e na parte lisa do seu pescoço.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #jesus #desafiobiblico #deus #perguntasbiblicas #evangelico #gospel #cristao #biblia #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #jesus #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-2-quiz",
+   "date": "2026-10-27",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-27T08:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-27T08:21:45+00:00",
+   "source": "bank",
+   "bank_id": "q1141",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 6:5",
+    "ref_label": "Provérbios 6:5",
+    "question": "Provérbios manda livrar-se como a gazela do caçador e como a ave de quê?",
+    "options": [
+     "Da rede do pescador",
+     "Da flecha do arqueiro",
+     "Do laço do pastor",
+     "Da armadilha do passarinheiro"
+    ],
+    "answer": 3,
+    "evidence": "como a ave da armadilha do passarinheiro",
+    "passage": "Livre-se, como a gazela da mão do caçador, como a ave da armadilha do passarinheiro.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico #desafio #gospel #jesus #conhecimentobiblico #cristao #fe #biblia #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #palavradedeus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nProvérbios manda livrar-se como a gazela do caçador e como a ave de quê?\n\nA) Da rede do pescador\nB) Da flecha do arqueiro\nC) Do laço do pastor\nD) Da armadilha do passarinheiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-27-1-verse",
+   "date": "2026-10-27",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-27T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:21:15+00:00",
+   "source": "bank",
+   "bank_id": "v358",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 10:12",
+    "ref_label": "Provérbios 10:12",
+    "verse_text": "O ódio desperta contendas, mas o amor cobre todas as transgressões.",
+    "on_screen": "O amor cobre todas as transgressões.",
+    "reflection": "O ódio guarda lista de ofensas; o amor escolhe cobrir. Isso não é fingir que nada aconteceu, mas decidir não usar o erro do outro como arma. Quem você pode perdoar hoje?",
+    "theme": "amor",
+    "mood": "reflexao",
+    "tags": [
+     "amor",
+     "perdao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #perdao #versiculododia #versiculo #devocional #fe #jesus #gospel #biblia #palavradedeus #oracao",
+    "facebook": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #perdao #versiculododia",
+    "tiktok": "Versículo sobre amor\nO amor cobre o erro; perdoe hoje e sinta a liberdade.\n#versiculosobreamor #amor #perdao #versiculododia #versiculo",
+    "kwai": "Versículo sobre amor\nO amor cobre o erro; perdoe hoje e sinta a liberdade.\n#versiculosobreamor #amor #perdao #versiculododia #versiculo",
+    "whatsapp": "“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre amor: Provérbios 10:12 🙏 #shorts",
+     "description": "Versículo sobre amor: Provérbios 10:12\n“O ódio desperta contendas, mas o amor cobre todas as transgressões.” (Provérbios 10:12)\n\nO ódio nos prende a uma lista de ofensas, enquanto o amor nos convida a cobrir as falhas. Perdoar não significa ignorar, mas decidir não usar o erro alheio como arma. Hoje, reflita: quem você pode perdoar e deixar o amor transformar a relação? Salve essa mensagem e compartilhe para inspirar outros a escolherem a paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreamor #amor #perdao",
+     "tags": [
+      "versículo sobre amor",
+      "versículos sobre amor",
+      "amor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perdao",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Sonda-me, Usa-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.95,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-27/2026-10-27-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
