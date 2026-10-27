@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-27T09:02:28+00:00",
+ "updated_at": "2026-10-27T09:23:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-1-verse": {
+   "type": "verse",
+   "date": "2026-10-27",
+   "time": "06:30",
+   "title": "Provérbios 10:12",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-26-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-26",
@@ -157,7 +165,7 @@
     "reach": 26,
     "saved": 0,
     "shares": 0,
-    "views": 35,
+    "views": 37,
     "total_interactions": 0,
     "avg_watch_s": 5.6,
     "watch_time_s": 140.2
@@ -582,7 +590,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 258,
+    "views": 259,
     "avg_watch_s": 4.1,
     "watch_time_s": 930.0
    }
@@ -2676,7 +2684,7 @@
     "comments": 0,
     "views": 445,
     "avg_watch_s": 3.3,
-    "watch_time_s": 1349.0
+    "watch_time_s": 1350.2
    }
   },
   "2026-10-15-5-curiosity": {
