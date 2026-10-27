@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-6-truefalse",
+   "date": "2026-10-27",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-27T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:23:35+00:00",
+   "source": "bank",
+   "bank_id": "q033",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 17:5-6",
+    "ref_label": "1 Reis 17:5-6",
+    "question": "Junto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?",
+    "shown": "Pombas",
+    "is_true": false,
+    "correct": "Corvos",
+    "evidence": "Os corvos lhe traziam pão e carne",
+    "passage": "Então ele foi e fez segundo a palavra do SENHOR, pois foi e morou junto ao ribeiro de Querite, que está diante do Jordão. Os corvos lhe traziam pão e carne pela manhã, e pão e carne à tarde; e ele bebia do ribeiro.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #gospel #desafiobiblico #jesus #conhecimentobiblico #biblia #fe #cristao #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #gospel",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #fe #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nJunto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?\nResposta: Pombas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-27T17:55:36+00:00",
+    "instagram": "2026-10-27T17:56:14+00:00",
+    "facebook": "2026-10-27T17:56:18+00:00",
+    "stories": "2026-10-27T17:56:53+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Vpk430sQxfI",
+    "instagram": "https://www.instagram.com/reel/DfAcWswAPZx/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/943722098578271",
+    "stories": "story 18496327210108412"
+   }
+  },
+  {
    "id": "2026-10-27-5-curiosity",
    "date": "2026-10-27",
    "slot": 5,
