@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-27T19:58:23+00:00",
+ "updated_at": "2026-10-27T21:42:57+00:00",
  "date": "2026-10-27",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-27-8-fill",
+   "date": "2026-10-27",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-27T18:36",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-27T21:40:29+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-27T21:41:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/L0mMCoAkrQY",
+    "stories": "story 17899259874611517"
+   },
+   "title": "Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome."
+  },
   {
    "id": "2026-10-27-7-quiz",
    "date": "2026-10-27",
