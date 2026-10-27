@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-27T22:10:22+00:00",
+ "updated_at": "2026-10-27T23:09:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "title": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/NBQdqrJCzVE",
+    "instagram": "https://www.instagram.com/reel/DfA_1EOABwJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1585426526202877"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-27-8-fill": {
    "type": "fill",
    "date": "2026-10-27",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 281,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 1231.3
+    "views": 310,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 1332.5
    }
   },
   "2026-10-27-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 1.8,
-    "watch_time_s": 7.3
+    "avg_watch_s": 3.5,
+    "watch_time_s": 20.8
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 378,
-    "avg_watch_s": 6.8,
-    "watch_time_s": 1731.4
+    "views": 459,
+    "avg_watch_s": 6.6,
+    "watch_time_s": 2046.6
    },
    "youtube": {
-    "views": 92,
+    "views": 101,
     "likes": 1,
     "comments": 0
    }
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 263,
+    "views": 264,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1107.3
+    "watch_time_s": 1108.4
    }
   },
   "2026-10-27-4-quiz": {
@@ -118,8 +153,8 @@
     "watch_time_s": 1088.9
    },
    "youtube": {
-    "views": 41,
-    "likes": 0,
+    "views": 58,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -158,8 +193,8 @@
     "watch_time_s": 965.6
    },
    "youtube": {
-    "views": 105,
-    "likes": 0,
+    "views": 111,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -374,7 +409,7 @@
     "comments": 0,
     "views": 546,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1982.8
+    "watch_time_s": 1986.8
    },
    "youtube": {
     "views": 30,
@@ -553,7 +588,7 @@
     "comments": 3,
     "views": 1903,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7356.9
+    "watch_time_s": 7361.4
    },
    "youtube": {
     "views": 50,
