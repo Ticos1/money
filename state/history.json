@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-3-truefalse",
+   "date": "2026-10-27",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-27T10:02",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:22:11+00:00",
+   "source": "bank",
+   "bank_id": "q967",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 27:16",
+    "ref_label": "Gênesis 27:16",
+    "question": "O que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?",
+    "shown": "Lã de ovelha",
+    "is_true": false,
+    "correct": "As peles dos cabritos",
+    "evidence": "Ela colocou as peles dos cabritos em suas mãos",
+    "passage": "Ela colocou as peles dos cabritos em suas mãos e na parte lisa do seu pescoço.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #jesus #desafiobiblico #deus #perguntasbiblicas #evangelico #gospel #cristao #biblia #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #jesus #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?\nResposta: Lã de ovelha\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-27T13:05:32+00:00",
+    "stories": "2026-10-27T13:06:29+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118044577601301",
+    "stories": "story 18501427969096999"
+   }
+  },
+  {
    "id": "2026-10-27-2-quiz",
    "date": "2026-10-27",
    "slot": 2,
