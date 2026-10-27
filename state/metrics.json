@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-27T19:58:20+00:00",
+ "updated_at": "2026-10-27T21:42:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-8-fill": {
+   "type": "fill",
+   "date": "2026-10-27",
+   "time": "18:30",
+   "title": "Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-27-7-quiz": {
    "type": "quiz",
    "date": "2026-10-27",
@@ -16,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 264,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 559.3
    }
   },
   "2026-10-27-6-truefalse": {
@@ -35,24 +50,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 3.5
+    "avg_watch_s": 2.2,
+    "watch_time_s": 6.6
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 165,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 647.3
+    "views": 328,
+    "avg_watch_s": 6.7,
+    "watch_time_s": 1496.5
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 88,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 262,
+    "views": 263,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1081.9
+    "watch_time_s": 1107.3
    }
   },
   "2026-10-27-4-quiz": {
@@ -98,12 +113,12 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 298,
+    "views": 299,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1066.1
+    "watch_time_s": 1088.9
    },
    "youtube": {
-    "views": 31,
+    "views": 41,
     "likes": 0,
     "comments": 0
    }
@@ -138,9 +153,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 238,
+    "views": 242,
     "avg_watch_s": 4.8,
-    "watch_time_s": 952.7
+    "watch_time_s": 964.7
    },
    "youtube": {
     "views": 95,
@@ -203,7 +218,7 @@
     "watch_time_s": 16.0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -235,9 +250,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1353,
+    "views": 1355,
     "avg_watch_s": 5.7,
-    "watch_time_s": 5817.3
+    "watch_time_s": 5827.6
    }
   },
   "2026-10-26-6-truefalse": {
@@ -265,9 +280,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 314,
+    "views": 317,
     "avg_watch_s": 3.8,
-    "watch_time_s": 966.0
+    "watch_time_s": 982.5
    },
    "youtube": {
     "views": 22,
@@ -357,12 +372,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 542,
+    "views": 545,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1967.1
+    "watch_time_s": 1982.8
    },
    "youtube": {
-    "views": 29,
+    "views": 30,
     "likes": 2,
     "comments": 0
    }
@@ -901,9 +916,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1905,
+    "views": 1907,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8275.6
+    "watch_time_s": 8279.0
    }
   },
   "2026-10-23-6-truefalse": {
@@ -931,9 +946,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 627,
+    "views": 628,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2188.5
+    "watch_time_s": 2189.8
    },
    "youtube": {
     "views": 85,
@@ -1760,7 +1775,7 @@
     "youtube": "https://youtube.com/shorts/vOKj4qCf-LI"
    },
    "youtube": {
-    "views": 32,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
