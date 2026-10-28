@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-10-28-2-quiz",
+   "date": "2026-10-28",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-28T07:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-28T08:21:55+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 26:8",
+    "ref_label": "Salmos 26:8",
+    "question": "Qual expressão Davi usa para descrever onde ama estar?",
+    "options": [
+     "habitação da tua casa",
+     "templo do Senhor",
+     "cálice de prata",
+     "coração puro"
+    ],
+    "answer": 0,
+    "evidence": "habitação da tua casa",
+    "passage": "SENHOR, eu amo a habitação da tua casa, o lugar onde a tua glória arma a sua tenda.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #conhecimentobiblico #jesus #desafio #gospel #palavradedeus #evangelico #cristao #biblia",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #deus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #biblia",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #fe",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão Davi usa para descrever onde ama estar? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-28T11:00:38+00:00",
+    "instagram": null,
+    "facebook": "2026-10-28T11:00:42+00:00",
+    "stories": "2026-10-28T11:02:15+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: alternativa errada 'cativos de Israel' também aparece no texto (ambígua)",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/uQUntD42yH8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4140889422881296",
+    "stories": "story 18027625058705156"
+   }
+  },
+  {
    "id": "2026-10-28-1-verse",
    "date": "2026-10-28",
    "slot": 1,
