@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-28T18:05:26+00:00",
+ "updated_at": "2026-10-28T20:08:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-28",
+   "time": "17:00",
+   "title": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/993807166396569"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-28-6-truefalse": {
    "type": "truefalse",
    "date": "2026-10-28",
@@ -29,12 +46,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 288,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1099.3
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1726129078456025"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 13,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 30.0
+    "views": 184,
+    "avg_watch_s": 7.4,
+    "watch_time_s": 1093.8
    }
   },
   "2026-10-28-4-quiz": {
@@ -79,11 +96,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 3,
-    "comments": 0,
-    "views": 608,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1463.2
+    "likes": 9,
+    "comments": 1,
+    "views": 1337,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 5363.5
    },
    "youtube": {
     "views": 0,
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 941,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 3949.3
+    "views": 1164,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 5048.8
    }
   },
   "2026-10-28-2-quiz": {
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 239,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 858.4
+    "views": 244,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 905.2
    },
    "youtube": {
     "views": 26,
@@ -186,7 +203,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 24,
+    "views": 27,
     "likes": 0,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 72,
+    "views": 75,
     "likes": 1,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 494,
+    "views": 495,
     "avg_watch_s": 5.4,
-    "watch_time_s": 2098.5
+    "watch_time_s": 2099.1
    }
   },
   "2026-10-27-6-truefalse": {
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 724,
+    "views": 725,
     "avg_watch_s": 6.3,
-    "watch_time_s": 3326.0
+    "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 244,
+    "views": 235,
     "likes": 2,
     "comments": 0
    }
@@ -270,9 +287,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 272,
+    "views": 273,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1183.9
+    "watch_time_s": 1194.3
    }
   },
   "2026-10-27-4-quiz": {
@@ -300,12 +317,12 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 304,
+    "views": 305,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1106.4
+    "watch_time_s": 1107.3
    },
    "youtube": {
-    "views": 138,
+    "views": 145,
     "likes": 2,
     "comments": 0
    }
@@ -1979,9 +1996,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 2242,
+    "views": 2243,
     "avg_watch_s": 7.3,
-    "watch_time_s": 11054.1
+    "watch_time_s": 11054.5
    }
   },
   "2026-10-19-6-truefalse": {
