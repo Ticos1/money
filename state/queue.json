@@ -1,3 +1,997 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-28-10-truefalse",
+   "date": "2026-10-28",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-28T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-28T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q485",
+   "model": null,
+   "content": {
+    "ref": "Mateus 21:19",
+    "ref_label": "Mateus 21:19",
+    "question": "O que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?",
+    "shown": "Secou",
+    "is_true": true,
+    "correct": "Secou",
+    "evidence": "Imediatamente a figueira secou",
+    "passage": "Vendo uma figueira à beira do caminho, aproximou-se dela e não encontrou nada nela, a não ser folhas. Ele lhe disse: “Nunca mais dê fruto!” Imediatamente a figueira secou.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #jesus #evangelico #conhecimentobiblico #deus #palavradedeus #perguntasbiblicas #gospel #biblia #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #perguntasbiblicas #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-9-quiz",
+   "date": "2026-10-28",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-28T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-28T08:24:38+00:00",
+   "source": "bank",
+   "bank_id": "q851",
+   "model": null,
+   "content": {
+    "ref": "Marcos 5:13",
+    "ref_label": "Marcos 5:13",
+    "question": "Cerca de quantos porcos se precipitaram no mar em Gadara?",
+    "options": [
+     "Cem",
+     "Quinhentos",
+     "Dois mil",
+     "Dez mil"
+    ],
+    "answer": 2,
+    "evidence": "cerca de dois mil porcos",
+    "passage": "Imediatamente Jesus lhes deu permissão. Os espíritos imundos saíram e entraram nos porcos. A manada de cerca de dois mil porcos precipitou-se pelo despenhadeiro em direção ao mar, e os animais se afogaram.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nCerca de quantos porcos se precipitaram no mar em Gadara?\n\nA) Cem\nB) Quinhentos\nC) Dois mil\nD) Dez mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #cristao #biblia #jesus #desafio #deus #gospel #fe #palavradedeus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nCerca de quantos porcos se precipitaram no mar em Gadara?\n\nA) Cem\nB) Quinhentos\nC) Dois mil\nD) Dez mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #biblia #evangelico",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #cristao #teste",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nCerca de quantos porcos se precipitaram no mar em Gadara?\n\nA) Cem\nB) Quinhentos\nC) Dois mil\nD) Dez mil\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Cerca de quantos porcos se precipitaram no mar em Gadara? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nCerca de quantos porcos se precipitaram no mar em Gadara?\n\nA) Cem\nB) Quinhentos\nC) Dois mil\nD) Dez mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-8-fill",
+   "date": "2026-10-28",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-28T18:33",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-28T08:24:15+00:00",
+   "source": "bank",
+   "bank_id": "v446",
+   "model": null,
+   "content": {
+    "ref": "Hebreus 11:6",
+    "ref_label": "Hebreus 11:6",
+    "verse_text": "Sem fé é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.",
+    "question": "Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.",
+    "options": [
+     "fortaleza",
+     "fé",
+     "glória",
+     "alegria"
+    ],
+    "answer": 1,
+    "answer_word": "fé",
+    "tags": [
+     "fe",
+     "buscaradeus"
+    ]
+   },
+   "captions": {
+    "instagram": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.”\n\nA) fortaleza\nB) fé\nC) glória\nD) alegria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#fe #buscaradeus #completeoversiculo #versiculo #deus #quizbiblico #biblia #jesus #evangelico #desafiobiblico #cristao #palavradedeus",
+    "facebook": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.”\n\nA) fortaleza\nB) fé\nC) glória\nD) alegria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#fe #buscaradeus #completeoversiculo #versiculo",
+    "tiktok": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#fe #buscaradeus #completeoversiculo #versiculo #quizbiblico",
+    "kwai": "Desafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#fe #buscaradeus #completeoversiculo #versiculo #evangelico",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.”\n\nA) fortaleza\nB) fé\nC) glória\nD) alegria\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Hebreus 11:6 📖 Você sabe de cor? #shorts",
+     "description": "Desafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam.”\n\nA) fortaleza\nB) fé\nC) glória\nD) alegria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #fe #buscaradeus #completeoversiculo",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "fe",
+      "buscaradeus",
+      "hebreus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-7-quiz",
+   "date": "2026-10-28",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-28T17:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-28T08:23:50+00:00",
+   "source": "bank",
+   "bank_id": "q704",
+   "model": null,
+   "content": {
+    "ref": "Josué 15:16",
+    "ref_label": "Josué 15:16",
+    "question": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?",
+    "options": [
+     "Acsa",
+     "Mical",
+     "Diná",
+     "Noa"
+    ],
+    "answer": 0,
+    "evidence": "darei minha filha Acsa por mulher",
+    "passage": "Calebe disse: “Àquele que atacar Quiriate-Sefer e a tomar, a ele darei minha filha Acsa por mulher.”",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual filha Calebe prometeu a quem tomasse Quiriate-Sefer?\n\nA) Acsa\nB) Mical\nC) Diná\nD) Noa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe #deus #jesus #desafio #palavradedeus #perguntasbiblicas #evangelico #teste #biblia",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual filha Calebe prometeu a quem tomasse Quiriate-Sefer?\n\nA) Acsa\nB) Mical\nC) Diná\nD) Noa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #perguntasbiblicas",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico #evangelico",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico #desafio",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual filha Calebe prometeu a quem tomasse Quiriate-Sefer?\n\nA) Acsa\nB) Mical\nC) Diná\nD) Noa\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual filha Calebe prometeu a quem tomasse Quiriate-Sefer?\n\nA) Acsa\nB) Mical\nC) Diná\nD) Noa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-6-truefalse",
+   "date": "2026-10-28",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-28T14:56",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-28T08:23:28+00:00",
+   "source": "bank",
+   "bank_id": "q358",
+   "model": null,
+   "content": {
+    "ref": "Josué 4:3",
+    "ref_label": "Josué 4:3",
+    "question": "Quantas pedras Josué mandou tirar do meio do Jordão?",
+    "shown": "Quarenta",
+    "is_true": false,
+    "correct": "Doze",
+    "evidence": "doze pedras",
+    "passage": "e dê-lhes esta ordem, dizendo: ‘Tirem do meio do Jordão, do lugar onde os pés dos sacerdotes ficaram firmes, doze pedras, levem-nas com vocês e depositem-nas no lugar onde vocês acamparão esta noite.’”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuantas pedras Josué mandou tirar do meio do Jordão?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #cristao #conhecimentobiblico #biblia #fe #gospel #palavradedeus #perguntasbiblicas #jesus #evangelico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuantas pedras Josué mandou tirar do meio do Jordão?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #deus #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #perguntasbiblicas #fe",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuantas pedras Josué mandou tirar do meio do Jordão?\nResposta: Quarenta\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuantas pedras Josué mandou tirar do meio do Jordão?\nResposta: Quarenta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-5-curiosity",
+   "date": "2026-10-28",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-28T13:21",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-28T08:23:08+00:00",
+   "source": "bank",
+   "bank_id": "c268",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:8",
+    "ref_label": "Lucas 2:8",
+    "title": "Os pastores foram os primeiros a saber",
+    "text": "Antes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo.",
+    "evidence": "vigiavam o seu rebanho durante a noite",
+    "passage": "Havia pastores na mesma região, que permaneciam no campo e vigiavam o seu rebanho durante a noite.",
+    "tags": [
+     "natal",
+     "pastores"
+    ]
+   },
+   "captions": {
+    "instagram": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #pastores #vocesabia #curiosidadesbiblicas #cristao #estudobiblico #historiabiblica #fe #deus #jesus #biblia #palavradedeus",
+    "facebook": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #pastores #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Os pastores foram os primeiros a ouvir o nascimento de Jesus. Compartilhe! 🙏\n#natal #pastores #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "Os pastores foram os primeiros a ouvir o nascimento de Jesus. Compartilhe! 🙏\n#natal #pastores #vocesabia #curiosidadesbiblicas #jesus",
+    "whatsapp": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Os pastores foram os primeiros a saber #shorts",
+     "description": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #natal #pastores #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "natal",
+      "pastores",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.32,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-4-quiz",
+   "date": "2026-10-28",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-28T12:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-28T08:22:42+00:00",
+   "source": "bank",
+   "bank_id": "q491",
+   "model": null,
+   "content": {
+    "ref": "Mateus 27:37",
+    "ref_label": "Mateus 27:37",
+    "question": "O que dizia a acusação escrita sobre a cabeça de Jesus?",
+    "options": [
+     "Este é o Nazareno",
+     "Este é Jesus, o Rei dos Judeus",
+     "Este é um profeta",
+     "Este é o Filho de Deus"
+    ],
+    "answer": 1,
+    "evidence": "ESTE É JESUS, O REI DOS JUDEUS",
+    "passage": "Colocaram por cima de sua cabeça a acusação escrita contra ele: “ESTE É JESUS, O REI DOS JUDEUS.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nO que dizia a acusação escrita sobre a cabeça de Jesus?\n\nA) Este é o Nazareno\nB) Este é Jesus, o Rei dos Judeus\nC) Este é um profeta\nD) Este é o Filho de Deus\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #cristao #deus #conhecimentobiblico #palavradedeus #desafio #perguntasbiblicas #evangelico #teste #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nO que dizia a acusação escrita sobre a cabeça de Jesus?\n\nA) Este é o Nazareno\nB) Este é Jesus, o Rei dos Judeus\nC) Este é um profeta\nD) Este é o Filho de Deus\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #desafio",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus #conhecimentobiblico",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nO que dizia a acusação escrita sobre a cabeça de Jesus?\n\nA) Este é o Nazareno\nB) Este é Jesus, o Rei dos Judeus\nC) Este é um profeta\nD) Este é o Filho de Deus\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: O que dizia a acusação escrita sobre a cabeça de Jesus? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nO que dizia a acusação escrita sobre a cabeça de Jesus?\n\nA) Este é o Nazareno\nB) Este é Jesus, o Rei dos Judeus\nC) Este é um profeta\nD) Este é o Filho de Deus\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-3-truefalse",
+   "date": "2026-10-28",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-28T09:55",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-28T08:22:16+00:00",
+   "source": "bank",
+   "bank_id": "q197",
+   "model": null,
+   "content": {
+    "ref": "Mateus 14:8",
+    "ref_label": "Mateus 14:8",
+    "question": "O que a filha de Herodias pediu numa bandeja?",
+    "shown": "A cabeça de João Batista",
+    "is_true": true,
+    "correct": "A cabeça de João Batista",
+    "evidence": "a cabeça de João Batista",
+    "passage": "Ela, sendo instigada por sua mãe, disse: “Dê-me aqui, numa bandeja, a cabeça de João Batista.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que a filha de Herodias pediu numa bandeja?\nResposta: A cabeça de João Batista\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #evangelico #deus #perguntasbiblicas #palavradedeus #biblia #jesus #fe #desafiobiblico #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que a filha de Herodias pediu numa bandeja?\nResposta: A cabeça de João Batista\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #evangelico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #biblia",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que a filha de Herodias pediu numa bandeja?\nResposta: A cabeça de João Batista\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que a filha de Herodias pediu numa bandeja? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que a filha de Herodias pediu numa bandeja?\nResposta: A cabeça de João Batista\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-2-quiz",
+   "date": "2026-10-28",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-28T07:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-28T08:21:55+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 26:8",
+    "ref_label": "Salmos 26:8",
+    "question": "Qual expressão Davi usa para descrever onde ama estar?",
+    "options": [
+     "habitação da tua casa",
+     "templo do Senhor",
+     "cálice de prata",
+     "coração puro"
+    ],
+    "answer": 0,
+    "evidence": "habitação da tua casa",
+    "passage": "SENHOR, eu amo a habitação da tua casa, o lugar onde a tua glória arma a sua tenda.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #conhecimentobiblico #jesus #desafio #gospel #palavradedeus #evangelico #cristao #biblia",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #deus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #biblia",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #fe",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão Davi usa para descrever onde ama estar? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão Davi usa para descrever onde ama estar?\n\nA) habitação da tua casa\nB) templo do Senhor\nC) cálice de prata\nD) coração puro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: alternativa errada 'cativos de Israel' também aparece no texto (ambígua)",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-28-1-verse",
+   "date": "2026-10-28",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-28T06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-28T08:21:28+00:00",
+   "source": "bank",
+   "bank_id": "v150",
+   "model": null,
+   "content": {
+    "ref": "João 14:1",
+    "ref_label": "João 14:1",
+    "verse_text": "Que o coração de vocês não fique perturbado. Creiam em Deus. Creiam também em mim.",
+    "on_screen": "Não se perturbe o seu coração.",
+    "reflection": "Jesus disse isso na noite mais difícil, antes da cruz. Ele nos convida a crer quando tudo parece confuso.",
+    "theme": "paz",
+    "mood": "reflexao",
+    "tags": [
+     "paz",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de paz: João 14:1\n“Que o coração de vocês não fique perturbado. Creiam em Deus. Creiam também em mim.” (João 14:1)\n\nMesmo nas noites mais difíceis, Jesus nos lembra que podemos descansar em Sua paz. Não deixe o coração se perturbar; entregue suas dúvidas a Ele e descubra a serenidade que vem da confiança. Salve este lembrete para momentos de incerteza e compartilhe com quem precisa de esperança hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #fe #versiculododia #versiculo #biblia #esperanca #reflexao #cristao #deus #jesus #gospel",
+    "facebook": "Versículo de paz: João 14:1\n“Que o coração de vocês não fique perturbado. Creiam em Deus. Creiam também em mim.” (João 14:1)\n\nMesmo nas noites mais difíceis, Jesus nos lembra que podemos descansar em Sua paz. Não deixe o coração se perturbar; entregue suas dúvidas a Ele e descubra a serenidade que vem da confiança. Salve este lembrete para momentos de incerteza e compartilhe com quem precisa de esperança hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodepaz #paz #fe #versiculododia",
+    "tiktok": "Versículo de paz\nConfie em Deus quando tudo parece confuso. Salve e compartilhe essa paz.\n#versiculodepaz #paz #fe #versiculododia #versiculo",
+    "kwai": "Versículo de paz\nConfie em Deus quando tudo parece confuso. Salve e compartilhe essa paz.\n#versiculodepaz #paz #fe #versiculododia #versiculo",
+    "whatsapp": "“Que o coração de vocês não fique perturbado. Creiam em Deus. Creiam também em mim.” (João 14:1)\n\nMesmo nas noites mais difíceis, Jesus nos lembra que podemos descansar em Sua paz. Não deixe o coração se perturbar; entregue suas dúvidas a Ele e descubra a serenidade que vem da confiança. Salve este lembrete para momentos de incerteza e compartilhe com quem precisa de esperança hoje.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de paz: João 14:1 🙏 #shorts",
+     "description": "Versículo de paz: João 14:1\n“Que o coração de vocês não fique perturbado. Creiam em Deus. Creiam também em mim.” (João 14:1)\n\nMesmo nas noites mais difíceis, Jesus nos lembra que podemos descansar em Sua paz. Não deixe o coração se perturbar; entregue suas dúvidas a Ele e descubra a serenidade que vem da confiança. Salve este lembrete para momentos de incerteza e compartilhe com quem precisa de esperança hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodepaz #paz #fe",
+     "tags": [
+      "versículo de paz",
+      "versículos de paz",
+      "paz",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "fe",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.56,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-28/2026-10-28-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
