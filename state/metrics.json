@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-27T23:09:01+00:00",
+ "updated_at": "2026-10-28T00:29:05+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-27-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-27",
+   "time": "21:30",
+   "title": "O que a voz do céu disse a Jesus no batismo?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1081643748207418"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-27-9-quiz": {
    "type": "quiz",
    "date": "2026-10-27",
@@ -49,7 +66,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 310,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 1332.5
+    "views": 342,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1432.6
    }
   },
   "2026-10-27-6-truefalse": {
@@ -85,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 12,
+    "views": 21,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 20.8
+    "avg_watch_s": 3.6,
+    "watch_time_s": 50.2
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 459,
-    "avg_watch_s": 6.6,
-    "watch_time_s": 2046.6
+    "views": 553,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 2518.3
    },
    "youtube": {
-    "views": 101,
+    "views": 120,
     "likes": 1,
     "comments": 0
    }
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 264,
+    "views": 265,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1108.4
+    "watch_time_s": 1109.2
    }
   },
   "2026-10-27-4-quiz": {
@@ -137,23 +154,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 9.2,
+    "watch_time_s": 9.2
    },
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 299,
+    "views": 300,
     "avg_watch_s": 4.5,
     "watch_time_s": 1088.9
    },
    "youtube": {
-    "views": 58,
+    "views": 72,
     "likes": 1,
     "comments": 0
    }
@@ -188,12 +205,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 242,
+    "views": 244,
     "avg_watch_s": 4.8,
-    "watch_time_s": 965.6
+    "watch_time_s": 967.0
    },
    "youtube": {
-    "views": 111,
+    "views": 113,
     "likes": 1,
     "comments": 0
    }
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 16.0,
-    "watch_time_s": 16.0
+    "views": 3,
+    "avg_watch_s": 8.5,
+    "watch_time_s": 16.9
    },
    "youtube": {
     "views": 1,
