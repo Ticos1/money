@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-28T09:33:54+00:00",
+ "updated_at": "2026-10-28T11:04:50+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-28-2-quiz",
+   "date": "2026-10-28",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-28T07:56",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-28T11:00:38+00:00",
+    "instagram": null,
+    "facebook": "2026-10-28T11:00:42+00:00",
+    "stories": "2026-10-28T11:02:15+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/uQUntD42yH8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4140889422881296",
+    "stories": "story 18027625058705156"
+   },
+   "title": "Qual expressão Davi usa para descrever onde ama estar?"
+  },
   {
    "id": "2026-10-28-1-verse",
    "date": "2026-10-28",
