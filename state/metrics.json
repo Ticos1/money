@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-28T09:02:26+00:00",
+ "updated_at": "2026-10-28T09:33:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-1-verse": {
+   "type": "verse",
+   "date": "2026-10-28",
+   "time": "06:30",
+   "title": "João 14:1",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-27-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-27",
@@ -113,7 +121,7 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 708,
+    "views": 710,
     "avg_watch_s": 6.2,
     "watch_time_s": 3245.4
    },
@@ -3501,7 +3509,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 800,
+    "views": 801,
     "avg_watch_s": 2.6,
     "watch_time_s": 1910.0
    },
