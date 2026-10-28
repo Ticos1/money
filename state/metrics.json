@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-28T16:29:25+00:00",
+ "updated_at": "2026-10-28T18:05:26+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-28",
+   "time": "15:00",
+   "title": "Quantas pedras Josué mandou tirar do meio do Jordão?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/oqKO6JFrplY",
+    "instagram": "https://www.instagram.com/reel/DfDBw_sgY3A/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1441231304889704"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-28-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-28",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 13,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 30.0
    }
   },
   "2026-10-28-4-quiz": {
@@ -44,11 +79,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 118,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 387.0
+    "views": 608,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1463.2
    },
    "youtube": {
     "views": 0,
@@ -66,11 +101,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427"
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
-    "views": 316,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 1179.0
+    "views": 941,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 3949.3
    }
   },
   "2026-10-28-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 229,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 801.2
+    "views": 239,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 858.4
    },
    "youtube": {
-    "views": 4,
+    "views": 26,
     "likes": 0,
     "comments": 0
    }
@@ -151,7 +186,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 13,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 69,
+    "views": 72,
     "likes": 1,
     "comments": 0
    }
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 38,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 59,
+    "views": 61,
     "total_interactions": 0,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 179.6
+    "avg_watch_s": 5.2,
+    "watch_time_s": 211.5
    },
    "facebook": {
     "likes": 4,
@@ -218,7 +253,7 @@
     "watch_time_s": 3326.0
    },
    "youtube": {
-    "views": 237,
+    "views": 244,
     "likes": 2,
     "comments": 0
    }
@@ -235,9 +270,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 268,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 1123.6
+    "views": 272,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1183.9
    }
   },
   "2026-10-27-4-quiz": {
@@ -267,10 +302,10 @@
     "comments": 1,
     "views": 304,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1098.6
+    "watch_time_s": 1106.4
    },
    "youtube": {
-    "views": 132,
+    "views": 138,
     "likes": 2,
     "comments": 0
    }
@@ -1150,9 +1185,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1456,
+    "views": 1457,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5903.6
+    "watch_time_s": 5908.4
    },
    "youtube": {
     "views": 40,
