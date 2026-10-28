@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T18:05:31+00:00",
+ "updated_at": "2026-10-28T20:08:32+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-28-7-quiz",
+   "date": "2026-10-28",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-28T17:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-28T20:05:42+00:00",
+    "stories": "2026-10-28T20:06:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/993807166396569",
+    "stories": "story 18131436910842182"
+   },
+   "title": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?"
+  },
   {
    "id": "2026-10-28-6-truefalse",
    "date": "2026-10-28",
