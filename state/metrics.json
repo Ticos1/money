@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-28T15:15:53+00:00",
+ "updated_at": "2026-10-28T16:29:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-28",
+   "time": "13:30",
+   "title": "Os pastores foram os primeiros a saber",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1726129078456025"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-28-4-quiz": {
    "type": "quiz",
    "date": "2026-10-28",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 118,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 387.0
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 3,
     "comments": 0,
-    "views": 182,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 244.6
+    "views": 316,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1179.0
    }
   },
   "2026-10-28-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 212,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 681.7
+    "views": 229,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 801.2
    },
    "youtube": {
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -134,7 +151,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 10,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 67,
+    "views": 69,
     "likes": 1,
     "comments": 0
    }
@@ -185,23 +202,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 36,
+    "reach": 38,
     "saved": 0,
     "shares": 0,
-    "views": 55,
+    "views": 59,
     "total_interactions": 0,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 178.0
+    "avg_watch_s": 4.6,
+    "watch_time_s": 179.6
    },
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 722,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 3283.3
+    "views": 724,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 3326.0
    },
    "youtube": {
-    "views": 231,
+    "views": 237,
     "likes": 2,
     "comments": 0
    }
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 302,
+    "views": 304,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1096.9
+    "watch_time_s": 1098.6
    },
    "youtube": {
-    "views": 125,
+    "views": 132,
     "likes": 2,
     "comments": 0
    }
@@ -293,7 +310,7 @@
     "watch_time_s": 968.5
    },
    "youtube": {
-    "views": 146,
+    "views": 148,
     "likes": 1,
     "comments": 0
    }
