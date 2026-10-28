@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-28T12:46:42+00:00",
+ "updated_at": "2026-10-28T12:58:22+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-28",
+   "time": "10:00",
+   "title": "O que a filha de Herodias pediu numa bandeja?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-28-2-quiz": {
    "type": "quiz",
    "date": "2026-10-28",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 158,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 384.6
+    "views": 175,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 457.9
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
     "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 23.1
+    "avg_watch_s": 3.9,
+    "watch_time_s": 23.7
    },
    "facebook": {
     "likes": 0,
@@ -114,7 +131,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 493,
+    "views": 494,
     "avg_watch_s": 5.4,
     "watch_time_s": 2093.2
    }
@@ -1081,7 +1098,7 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1451,
+    "views": 1452,
     "avg_watch_s": 5.4,
     "watch_time_s": 5873.5
    },
