@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-28T21:38:53+00:00",
+ "updated_at": "2026-10-28T23:09:04+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-28-9-quiz",
+   "date": "2026-10-28",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-28T20:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-28T23:05:29+00:00",
+    "instagram": "2026-10-28T23:05:56+00:00",
+    "facebook": "2026-10-28T23:06:01+00:00",
+    "stories": "2026-10-28T23:06:40+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/aaL799yM8qQ",
+    "instagram": "https://www.instagram.com/reel/DfDkm9vEy6o/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1459566389430369",
+    "stories": "story 18004757930808925"
+   },
+   "title": "Cerca de quantos porcos se precipitaram no mar em Gadara?"
+  },
   {
    "id": "2026-10-28-8-fill",
    "date": "2026-10-28",
