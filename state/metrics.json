@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-28T21:38:50+00:00",
+ "updated_at": "2026-10-28T23:09:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "title": "Cerca de quantos porcos se precipitaram no mar em Gadara?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/aaL799yM8qQ",
+    "instagram": "https://www.instagram.com/reel/DfDkm9vEy6o/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1459566389430369"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-28-8-fill": {
    "type": "fill",
    "date": "2026-10-28",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/993807166396569"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 4,
     "comments": 0,
-    "views": 122,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 447.2
+    "views": 437,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1353.9
    }
   },
   "2026-10-28-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 22,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 28,
     "total_interactions": 0,
-    "avg_watch_s": 2.2,
-    "watch_time_s": 17.2
+    "avg_watch_s": 2.7,
+    "watch_time_s": 59.3
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 458,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1545.6
+    "views": 652,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 2496.4
    },
    "youtube": {
-    "views": 16,
+    "views": 31,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 205,
-    "avg_watch_s": 7.2,
-    "watch_time_s": 1200.6
+    "views": 222,
+    "avg_watch_s": 6.9,
+    "watch_time_s": 1282.0
    }
   },
   "2026-10-28-4-quiz": {
@@ -102,23 +137,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.5
    },
    "facebook": {
-    "likes": 12,
+    "likes": 13,
     "comments": 1,
-    "views": 1484,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 6273.7
+    "views": 1600,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 6773.3
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1341,
+    "views": 1360,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6048.1
+    "watch_time_s": 6140.7
    }
   },
   "2026-10-28-2-quiz": {
@@ -153,12 +188,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 245,
+    "views": 246,
     "avg_watch_s": 4.7,
-    "watch_time_s": 905.7
+    "watch_time_s": 906.8
    },
    "youtube": {
-    "views": 26,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 34.8
+    "avg_watch_s": 3.3,
+    "watch_time_s": 36.8
    },
    "facebook": {
     "likes": 0,
@@ -218,7 +253,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 29,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -233,7 +268,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 76,
+    "views": 80,
     "likes": 1,
     "comments": 0
    }
@@ -285,7 +320,7 @@
     "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 267,
+    "views": 271,
     "likes": 2,
     "comments": 0
    }
@@ -303,8 +338,8 @@
     "likes": 3,
     "comments": 0,
     "views": 276,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1200.5
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1202.3
    }
   },
   "2026-10-27-4-quiz": {
@@ -337,7 +372,7 @@
     "watch_time_s": 1142.2
    },
    "youtube": {
-    "views": 145,
+    "views": 149,
     "likes": 2,
     "comments": 0
    }
@@ -372,9 +407,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 244,
+    "views": 245,
     "avg_watch_s": 4.8,
-    "watch_time_s": 968.5
+    "watch_time_s": 969.6
    },
    "youtube": {
     "views": 150,
@@ -551,9 +586,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 258,
+    "views": 259,
     "avg_watch_s": 4.2,
-    "watch_time_s": 893.2
+    "watch_time_s": 895.2
    },
    "youtube": {
     "views": 17,
@@ -596,7 +631,7 @@
     "watch_time_s": 1986.8
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 2,
     "comments": 0
    }
@@ -1914,9 +1949,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 318,
+    "views": 320,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1085.7
+    "watch_time_s": 1092.0
    },
    "youtube": {
     "views": 18,
@@ -2380,7 +2415,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 154,
+    "views": 155,
     "likes": 2,
     "comments": 0
    }
@@ -3702,9 +3737,9 @@
    "facebook": {
     "likes": 4,
     "comments": 2,
-    "views": 950,
+    "views": 951,
     "avg_watch_s": 3.7,
-    "watch_time_s": 3106.6
+    "watch_time_s": 3109.7
    }
   },
   "2026-10-13-5-curiosity": {
