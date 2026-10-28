@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T23:09:04+00:00",
+ "updated_at": "2026-10-28T00:29:08+00:00",
  "date": "2026-10-27",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-27-10-truefalse",
+   "date": "2026-10-27",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-27T21:25",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-28T00:25:38+00:00",
+    "stories": "2026-10-28T00:26:13+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1081643748207418",
+    "stories": "story 18501234958100869"
+   },
+   "title": "O que a voz do céu disse a Jesus no batismo?"
+  },
   {
    "id": "2026-10-27-9-quiz",
    "date": "2026-10-27",
