@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-28T09:33:51+00:00",
+ "updated_at": "2026-10-28T11:04:47+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-28",
+   "time": "08:00",
+   "title": "Qual expressão Davi usa para descrever onde ama estar?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/uQUntD42yH8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4140889422881296"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-28-1-verse": {
    "type": "verse",
    "date": "2026-10-28",
@@ -59,7 +82,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 5,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -74,7 +97,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 59,
+    "views": 60,
     "likes": 1,
     "comments": 0
    }
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 486,
+    "views": 491,
     "avg_watch_s": 5.4,
-    "watch_time_s": 2066.7
+    "watch_time_s": 2079.9
    }
   },
   "2026-10-27-6-truefalse": {
@@ -121,12 +144,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 710,
+    "views": 714,
     "avg_watch_s": 6.2,
-    "watch_time_s": 3245.4
+    "watch_time_s": 3270.7
    },
    "youtube": {
-    "views": 195,
+    "views": 197,
     "likes": 2,
     "comments": 0
    }
@@ -178,7 +201,7 @@
     "watch_time_s": 1096.9
    },
    "youtube": {
-    "views": 112,
+    "views": 113,
     "likes": 2,
     "comments": 0
    }
@@ -293,7 +316,7 @@
     "youtube": "https://youtube.com/shorts/imGfsk1HiTs"
    },
    "youtube": {
-    "views": 9,
+    "views": 11,
     "likes": 0,
     "comments": 0
    }
@@ -340,7 +363,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 317,
+    "views": 318,
     "avg_watch_s": 3.8,
     "watch_time_s": 982.5
    },
@@ -564,7 +587,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 200,
+    "views": 201,
     "likes": 2,
     "comments": 0
    }
@@ -3511,7 +3534,7 @@
     "comments": 0,
     "views": 801,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1910.0
+    "watch_time_s": 1911.4
    },
    "youtube": {
     "views": 7,
