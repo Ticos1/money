@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T09:02:30+00:00",
+ "updated_at": "2026-10-28T09:33:54+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
@@ -49,7 +49,31 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-28-1-verse",
+   "date": "2026-10-28",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-28T06:30",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-28T09:31:34+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 17914666107284736"
+   },
+   "title": "João 14:1"
+  }
+ ],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
