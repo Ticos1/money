@@ -1,6 +1,97 @@
 {
  "posts": [
   {
+   "id": "2026-10-28-5-curiosity",
+   "date": "2026-10-28",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-28T13:21",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-28T08:23:08+00:00",
+   "source": "bank",
+   "bank_id": "c268",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:8",
+    "ref_label": "Lucas 2:8",
+    "title": "Os pastores foram os primeiros a saber",
+    "text": "Antes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo.",
+    "evidence": "vigiavam o seu rebanho durante a noite",
+    "passage": "Havia pastores na mesma região, que permaneciam no campo e vigiavam o seu rebanho durante a noite.",
+    "tags": [
+     "natal",
+     "pastores"
+    ]
+   },
+   "captions": {
+    "instagram": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #pastores #vocesabia #curiosidadesbiblicas #cristao #estudobiblico #historiabiblica #fe #deus #jesus #biblia #palavradedeus",
+    "facebook": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#natal #pastores #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Os pastores foram os primeiros a ouvir o nascimento de Jesus. Compartilhe! 🙏\n#natal #pastores #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "Os pastores foram os primeiros a ouvir o nascimento de Jesus. Compartilhe! 🙏\n#natal #pastores #vocesabia #curiosidadesbiblicas #jesus",
+    "whatsapp": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Os pastores foram os primeiros a saber #shorts",
+     "description": "Os pastores foram os primeiros a saber\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou a pastores que vigiavam o rebanho de noite no campo. (Lucas 2:8)\n\nAntes de reis e sábios, o anúncio do nascimento de Jesus chegou primeiro aos pastores que guardavam o rebanho à noite. Essa curiosidade nos lembra que Deus escolhe os humildes para revelar grandes notícias. Compartilhe essa lembrança e inspire quem precisa ouvir a boa nova. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #natal #pastores #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "natal",
+      "pastores",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-28T16:25:37+00:00",
+    "stories": "2026-10-28T16:26:20+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1726129078456025",
+    "stories": "story 18116766350010516"
+   }
+  },
+  {
    "id": "2026-10-28-4-quiz",
    "date": "2026-10-28",
    "slot": 4,
