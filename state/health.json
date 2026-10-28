@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-28T00:29:08+00:00",
- "date": "2026-10-27",
+ "updated_at": "2026-10-28T05:33:10+00:00",
+ "date": "2026-10-28",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 453,
-   "days_left": 453,
+   "fresh": 454,
+   "days_left": 454,
    "warn": false
   },
   {
@@ -49,254 +49,7 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-27-10-truefalse",
-   "date": "2026-10-27",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-27T21:25",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-28T00:25:38+00:00",
-    "stories": "2026-10-28T00:26:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1081643748207418",
-    "stories": "story 18501234958100869"
-   },
-   "title": "O que a voz do céu disse a Jesus no batismo?"
-  },
-  {
-   "id": "2026-10-27-9-quiz",
-   "date": "2026-10-27",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-27T20:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-27T23:05:35+00:00",
-    "instagram": "2026-10-27T23:06:08+00:00",
-    "facebook": "2026-10-27T23:06:13+00:00",
-    "stories": "2026-10-27T23:06:44+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/NBQdqrJCzVE",
-    "instagram": "https://www.instagram.com/reel/DfA_1EOABwJ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1585426526202877",
-    "stories": "story 17911205085481387"
-   },
-   "title": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?"
-  },
-  {
-   "id": "2026-10-27-8-fill",
-   "date": "2026-10-27",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-27T18:36",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-27T21:40:29+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-27T21:41:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/L0mMCoAkrQY",
-    "stories": "story 17899259874611517"
-   },
-   "title": "Ensina-me o teu caminho, SENHOR. Andarei na tua verdade. Torna o meu _____ indiviso para temer o teu nome."
-  },
-  {
-   "id": "2026-10-27-7-quiz",
-   "date": "2026-10-27",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-27T16:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-27T19:55:34+00:00",
-    "stories": "2026-10-27T19:56:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2154683768479741",
-    "stories": "story 18193273474398840"
-   },
-   "title": "Qual expressão aparece em Salmos 81:16?"
-  },
-  {
-   "id": "2026-10-27-6-truefalse",
-   "date": "2026-10-27",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-27T14:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-27T17:55:36+00:00",
-    "instagram": "2026-10-27T17:56:14+00:00",
-    "facebook": "2026-10-27T17:56:18+00:00",
-    "stories": "2026-10-27T17:56:53+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Vpk430sQxfI",
-    "instagram": "https://www.instagram.com/reel/DfAcWswAPZx/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/943722098578271",
-    "stories": "story 18496327210108412"
-   },
-   "title": "Junto ao ribeiro de Querite, que aves levavam pão e carne ao profeta Elias?"
-  },
-  {
-   "id": "2026-10-27-5-curiosity",
-   "date": "2026-10-27",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-27T13:22",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-27T16:25:39+00:00",
-    "stories": "2026-10-27T16:26:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1147751774608034",
-    "stories": "story 18191284087415512"
-   },
-   "title": "O berço do Rei foi uma manjedoura"
-  },
-  {
-   "id": "2026-10-27-4-quiz",
-   "date": "2026-10-27",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-27T11:52",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-27T14:55:29+00:00",
-    "instagram": "2026-10-27T14:56:07+00:00",
-    "facebook": "2026-10-27T14:56:12+00:00",
-    "stories": "2026-10-27T14:57:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/DkV2-7IdtUY",
-    "instagram": "https://www.instagram.com/reel/DfAHvgsDD6x/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1162248619792405",
-    "stories": "story 17886204615690019"
-   },
-   "title": "Qual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?"
-  },
-  {
-   "id": "2026-10-27-3-truefalse",
-   "date": "2026-10-27",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-27T10:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-27T13:05:32+00:00",
-    "stories": "2026-10-27T13:06:29+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1118044577601301",
-    "stories": "story 18501427969096999"
-   },
-   "title": "O que Rebeca colocou nas mãos e no pescoço de Jacó para enganar Isaque?"
-  },
-  {
-   "id": "2026-10-27-2-quiz",
-   "date": "2026-10-27",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-27T08:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-27T11:05:28+00:00",
-    "instagram": null,
-    "facebook": "2026-10-27T11:05:33+00:00",
-    "stories": "2026-10-27T11:06:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/n00X45gT1sw",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1104025079274036",
-    "stories": "story 18109000166344238"
-   },
-   "title": "Provérbios manda livrar-se como a gazela do caçador e como a ave de quê?"
-  },
-  {
-   "id": "2026-10-27-1-verse",
-   "date": "2026-10-27",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-27T06:20",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-27T09:22:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18119103380282566"
-   },
-   "title": "Provérbios 10:12"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
