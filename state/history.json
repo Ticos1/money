@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-27-10-truefalse",
+   "date": "2026-10-27",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-27T21:25",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-27T08:25:25+00:00",
+   "source": "bank",
+   "bank_id": "q510",
+   "model": null,
+   "content": {
+    "ref": "Lucas 3:22",
+    "ref_label": "Lucas 3:22",
+    "question": "O que a voz do céu disse a Jesus no batismo?",
+    "shown": "Tu és o meu Filho amado",
+    "is_true": true,
+    "correct": "Tu és o meu Filho amado",
+    "evidence": "Tu és o meu Filho amado",
+    "passage": "e o Espírito Santo desceu sobre ele em forma corpórea, como uma pomba; e uma voz veio do céu, dizendo: “Tu és o meu Filho amado. Em ti me agrado.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #palavradedeus #gospel #jesus #biblia #perguntasbiblicas #deus #desafiobiblico #cristao #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #conhecimentobiblico #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #biblia",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que a voz do céu disse a Jesus no batismo? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que a voz do céu disse a Jesus no batismo?\nResposta: Tu és o meu Filho amado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-28T00:25:38+00:00",
+    "stories": "2026-10-28T00:26:13+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1081643748207418",
+    "stories": "story 18501234958100869"
+   }
+  },
+  {
    "id": "2026-10-27-9-quiz",
    "date": "2026-10-27",
    "slot": 9,
