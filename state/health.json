@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-28T12:58:25+00:00",
+ "updated_at": "2026-10-28T15:15:58+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-28-4-quiz",
+   "date": "2026-10-28",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-28T12:10",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-28T15:10:42+00:00",
+    "instagram": "2026-10-28T15:11:31+00:00",
+    "facebook": "2026-10-28T15:11:36+00:00",
+    "stories": "2026-10-28T15:13:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/jEhMhDQ_VbU",
+    "instagram": "https://www.instagram.com/reel/DfCuTu2lNJW/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2707584499695982",
+    "stories": "story 17913936930494639"
+   },
+   "title": "O que dizia a acusação escrita sobre a cabeça de Jesus?"
+  },
   {
    "id": "2026-10-28-3-truefalse",
    "date": "2026-10-28",
