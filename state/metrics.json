@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-28T23:09:01+00:00",
+ "updated_at": "2026-10-29T00:33:48+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-28-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-28",
+   "time": "21:30",
+   "title": "O que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1458089649618959"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-28-9-quiz": {
    "type": "quiz",
    "date": "2026-10-28",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.3,
+    "watch_time_s": 26.4
    },
    "facebook": {
     "likes": 0,
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/993807166396569"
    },
    "facebook": {
-    "likes": 4,
-    "comments": 0,
-    "views": 437,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1353.9
+    "likes": 6,
+    "comments": 1,
+    "views": 792,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 3062.6
    }
   },
   "2026-10-28-6-truefalse": {
@@ -85,20 +102,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 22,
+    "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 28,
+    "views": 29,
     "total_interactions": 0,
-    "avg_watch_s": 2.7,
-    "watch_time_s": 59.3
+    "avg_watch_s": 2.9,
+    "watch_time_s": 70.7
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 652,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 2496.4
+    "views": 816,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 3329.8
    },
    "youtube": {
     "views": 31,
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 222,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 1282.0
+    "views": 227,
+    "avg_watch_s": 6.8,
+    "watch_time_s": 1306.0
    }
   },
   "2026-10-28-4-quiz": {
@@ -137,20 +154,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 0.7,
-    "watch_time_s": 1.5
+    "avg_watch_s": 1.0,
+    "watch_time_s": 4.1
    },
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1600,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 6773.3
+    "views": 1693,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 7314.3
    },
    "youtube": {
     "views": 1,
@@ -168,11 +185,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427"
    },
    "facebook": {
-    "likes": 6,
+    "likes": 7,
     "comments": 0,
-    "views": 1360,
+    "views": 1397,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6140.7
+    "watch_time_s": 6265.5
    }
   },
   "2026-10-28-2-quiz": {
@@ -188,9 +205,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 246,
+    "views": 247,
     "avg_watch_s": 4.7,
-    "watch_time_s": 906.8
+    "watch_time_s": 908.4
    },
    "youtube": {
     "views": 33,
@@ -237,13 +254,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 13,
     "saved": 0,
     "shares": 0,
     "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 36.8
+    "avg_watch_s": 3.1,
+    "watch_time_s": 37.5
    },
    "facebook": {
     "likes": 0,
@@ -951,9 +968,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1709,
+    "views": 1712,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7606.0
+    "watch_time_s": 7631.5
    }
   },
   "2026-10-24-6-truefalse": {
