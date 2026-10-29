@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-29T20:13:34+00:00",
+ "updated_at": "2026-10-29T21:34:33+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-8-fill",
+   "date": "2026-10-29",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-29T18:26",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T21:30:34+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-29T21:31:18+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/vhMKE2C2yT0",
+    "stories": "story 18143662930719758"
+   },
+   "title": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____."
+  },
   {
    "id": "2026-10-29-7-quiz",
    "date": "2026-10-29",
