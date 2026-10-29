@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T14:59:58+00:00",
+ "updated_at": "2026-10-29T16:34:05+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-5-curiosity",
+   "date": "2026-10-29",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-29T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-29T16:30:37+00:00",
+    "stories": "2026-10-29T16:31:11+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1545049450760729",
+    "stories": "story 18121123156972311"
+   },
+   "title": "Suor como gotas de sangue"
+  },
   {
    "id": "2026-10-29-4-quiz",
    "date": "2026-10-29",
