@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-29T16:34:01+00:00",
+ "updated_at": "2026-10-29T18:05:13+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-29",
+   "time": "15:00",
+   "title": "O que o bom samaritano derramou nas feridas do homem?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/eqfUo6VdWvU",
+    "instagram": "https://www.instagram.com/reel/DfFmhDHjZ48/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2757448498007146"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-29-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-29",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 24,
+    "avg_watch_s": 9.1,
+    "watch_time_s": 136.6
    }
   },
   "2026-10-29-4-quiz": {
@@ -44,14 +79,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 1,
-    "comments": 0,
-    "views": 52,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 143.0
+    "likes": 4,
+    "comments": 1,
+    "views": 422,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 1695.1
    },
    "youtube": {
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 186,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 602.3
+    "views": 235,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 776.8
    }
   },
   "2026-10-29-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 405,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1309.3
+    "views": 529,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 2135.6
    },
    "youtube": {
-    "views": 4,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -151,8 +186,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 30,
-    "likes": 2,
+    "views": 34,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 71,
+    "views": 69,
     "likes": 3,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1391,
+    "views": 1404,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6118.1
+    "watch_time_s": 6160.7
    }
   },
   "2026-10-28-6-truefalse": {
@@ -202,23 +237,23 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 104,
+    "reach": 105,
     "saved": 0,
     "shares": 0,
-    "views": 139,
+    "views": 140,
     "total_interactions": 1,
     "avg_watch_s": 4.9,
-    "watch_time_s": 522.0
+    "watch_time_s": 523.1
    },
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1065,
+    "views": 1066,
     "avg_watch_s": 5.9,
     "watch_time_s": 4505.9
    },
    "youtube": {
-    "views": 77,
+    "views": 79,
     "likes": 2,
     "comments": 0
    }
@@ -287,9 +322,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1438,
+    "views": 1441,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6510.4
+    "watch_time_s": 6513.6
    }
   },
   "2026-10-28-2-quiz": {
@@ -385,7 +420,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 89,
+    "views": 90,
     "likes": 2,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 350,
+    "views": 364,
     "likes": 3,
     "comments": 0
    }
@@ -944,9 +979,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1747,
+    "views": 1748,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8293.1
+    "watch_time_s": 8293.4
    }
   },
   "2026-10-25-2-quiz": {
@@ -1611,8 +1646,8 @@
     "likes": 2,
     "comments": 0,
     "views": 270,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1108.7
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1126.7
    }
   },
   "2026-10-22-2-quiz": {
