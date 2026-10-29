@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-29T21:34:30+00:00",
+ "updated_at": "2026-10-29T23:07:28+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "title": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/h5MSy6VtxHA",
+    "instagram": "https://www.instagram.com/reel/DfGI66tiZ4e/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1133960289010148"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-29-8-fill": {
    "type": "fill",
    "date": "2026-10-29",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 306,
-    "avg_watch_s": 6.5,
-    "watch_time_s": 1162.0
+    "views": 429,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1571.9
    }
   },
   "2026-10-29-6-truefalse": {
@@ -50,20 +85,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 15,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 22,
+    "views": 53,
     "total_interactions": 0,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 57.9
+    "avg_watch_s": 3.0,
+    "watch_time_s": 136.6
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 395,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 1568.8
+    "views": 876,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 2994.2
    },
    "youtube": {
     "views": 12,
@@ -85,7 +120,7 @@
     "comments": 0,
     "views": 234,
     "avg_watch_s": 3.8,
-    "watch_time_s": 810.7
+    "watch_time_s": 816.1
    }
   },
   "2026-10-29-4-quiz": {
@@ -100,22 +135,22 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1130757189349301"
    },
    "instagram": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "reach": 49,
+    "reach": 69,
     "saved": 0,
     "shares": 0,
-    "views": 66,
-    "total_interactions": 1,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 191.1
+    "views": 84,
+    "total_interactions": 2,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 297.4
    },
    "facebook": {
     "likes": 11,
     "comments": 1,
-    "views": 1188,
-    "avg_watch_s": 6.1,
-    "watch_time_s": 5115.8
+    "views": 1213,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 5737.4
    },
    "youtube": {
     "views": 34,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 270,
+    "views": 271,
     "avg_watch_s": 5.7,
-    "watch_time_s": 1111.3
+    "watch_time_s": 1113.7
    }
   },
   "2026-10-29-2-quiz": {
@@ -354,9 +389,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1441,
+    "views": 1442,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6513.6
+    "watch_time_s": 6518.4
    }
   },
   "2026-10-28-2-quiz": {
@@ -437,7 +472,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 47,
+    "views": 50,
     "likes": 1,
     "comments": 0
    }
