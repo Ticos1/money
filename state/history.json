@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-28-10-truefalse",
+   "date": "2026-10-28",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-28T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-28T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q485",
+   "model": null,
+   "content": {
+    "ref": "Mateus 21:19",
+    "ref_label": "Mateus 21:19",
+    "question": "O que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?",
+    "shown": "Secou",
+    "is_true": true,
+    "correct": "Secou",
+    "evidence": "Imediatamente a figueira secou",
+    "passage": "Vendo uma figueira à beira do caminho, aproximou-se dela e não encontrou nada nela, a não ser folhas. Ele lhe disse: “Nunca mais dê fruto!” Imediatamente a figueira secou.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #jesus #evangelico #conhecimentobiblico #deus #palavradedeus #perguntasbiblicas #gospel #biblia #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #perguntasbiblicas #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?\nResposta: Secou\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-29T00:30:33+00:00",
+    "stories": "2026-10-29T00:31:06+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1458089649618959",
+    "stories": "story 18026298740937325"
+   }
+  },
+  {
    "id": "2026-10-28-9-quiz",
    "date": "2026-10-28",
    "slot": 9,
