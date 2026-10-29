@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-29T09:02:22+00:00",
+ "updated_at": "2026-10-29T09:43:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-1-verse": {
+   "type": "verse",
+   "date": "2026-10-29",
+   "time": "06:30",
+   "title": "Salmos 119:11",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-28-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-28",
@@ -35,13 +43,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 21,
+    "reach": 22,
     "saved": 0,
     "shares": 0,
-    "views": 26,
+    "views": 30,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 82.8
+    "avg_watch_s": 3.6,
+    "watch_time_s": 83.6
    },
    "facebook": {
     "likes": 0,
@@ -66,7 +74,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 61,
+    "views": 62,
     "likes": 3,
     "comments": 0
    }
@@ -83,7 +91,7 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1357,
+    "views": 1358,
     "avg_watch_s": 6.3,
     "watch_time_s": 6024.9
    }
@@ -105,7 +113,7 @@
     "reach": 30,
     "saved": 0,
     "shares": 0,
-    "views": 36,
+    "views": 39,
     "total_interactions": 0,
     "avg_watch_s": 3.5,
     "watch_time_s": 103.8
@@ -113,9 +121,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1042,
+    "views": 1046,
     "avg_watch_s": 5.9,
-    "watch_time_s": 4373.4
+    "watch_time_s": 4389.0
    },
    "youtube": {
     "views": 63,
@@ -154,13 +162,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 73,
+    "reach": 74,
     "saved": 0,
     "shares": 0,
     "views": 103,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 327.2
+    "avg_watch_s": 4.5,
+    "watch_time_s": 348.4
    },
    "facebook": {
     "likes": 14,
@@ -189,7 +197,7 @@
     "comments": 0,
     "views": 1432,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6467.6
+    "watch_time_s": 6483.1
    }
   },
   "2026-10-28-2-quiz": {
