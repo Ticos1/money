@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-10-29-6-truefalse",
+   "date": "2026-10-29",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-29T14:59",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-29T08:23:30+00:00",
+   "source": "bank",
+   "bank_id": "q866",
+   "model": null,
+   "content": {
+    "ref": "Lucas 10:34",
+    "ref_label": "Lucas 10:34",
+    "question": "O que o bom samaritano derramou nas feridas do homem?",
+    "shown": "Água e sal",
+    "is_true": false,
+    "correct": "Óleo e vinho",
+    "evidence": "derramando nelas óleo e vinho",
+    "passage": "aproximou-se dele e atou-lhe as feridas, derramando nelas óleo e vinho. Ele o colocou sobre o seu próprio animal, levou-o para uma hospedaria e cuidou dele.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #gospel #cristao #biblia #perguntasbiblicas #desafiobiblico #jesus #conhecimentobiblico #palavradedeus #deus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #biblia #desafiobiblico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #conhecimentobiblico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T18:00:28+00:00",
+    "instagram": "2026-10-29T18:01:14+00:00",
+    "facebook": "2026-10-29T18:01:21+00:00",
+    "stories": "2026-10-29T18:01:55+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/eqfUo6VdWvU",
+    "instagram": "https://www.instagram.com/reel/DfFmhDHjZ48/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2757448498007146",
+    "stories": "story 18113403461146024"
+   }
+  },
+  {
    "id": "2026-10-29-5-curiosity",
    "date": "2026-10-29",
    "slot": 5,
