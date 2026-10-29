@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-29T13:13:33+00:00",
+ "updated_at": "2026-10-29T14:59:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-29",
+   "time": "12:00",
+   "title": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/zeoUFwjHAKk",
+    "instagram": "https://www.instagram.com/reel/DfFRWvZkuX3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1130757189349301"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-29-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-29",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 141,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 396.2
    }
   },
   "2026-10-29-2-quiz": {
@@ -32,14 +67,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2316611505934031"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 158,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 428.1
+    "views": 256,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 882.4
    },
    "youtube": {
-    "views": 1,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 91,
     "saved": 0,
     "shares": 0,
-    "views": 44,
+    "views": 120,
     "total_interactions": 0,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 183.9
+    "avg_watch_s": 4.8,
+    "watch_time_s": 435.0
    },
    "facebook": {
     "likes": 0,
@@ -99,8 +134,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 24,
-    "likes": 1,
+    "views": 26,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 62,
+    "views": 69,
     "likes": 3,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1375,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 6096.1
+    "views": 1380,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 6104.7
    }
   },
   "2026-10-28-6-truefalse": {
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 87,
+    "reach": 103,
     "saved": 0,
     "shares": 0,
-    "views": 128,
+    "views": 138,
     "total_interactions": 1,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 463.5
+    "avg_watch_s": 5.0,
+    "watch_time_s": 520.8
    },
    "facebook": {
     "likes": 3,
@@ -166,7 +201,7 @@
     "watch_time_s": 4493.4
    },
    "youtube": {
-    "views": 67,
+    "views": 72,
     "likes": 2,
     "comments": 0
    }
@@ -202,23 +237,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 81,
+    "reach": 84,
     "saved": 0,
     "shares": 0,
-    "views": 110,
+    "views": 114,
     "total_interactions": 0,
     "avg_watch_s": 4.4,
-    "watch_time_s": 365.7
+    "watch_time_s": 382.0
    },
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1744,
+    "views": 1748,
     "avg_watch_s": 5.7,
     "watch_time_s": 7578.0
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -235,9 +270,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1435,
+    "views": 1438,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6504.6
+    "watch_time_s": 6510.4
    }
   },
   "2026-10-28-2-quiz": {
@@ -258,7 +293,7 @@
     "watch_time_s": 911.9
    },
    "youtube": {
-    "views": 52,
+    "views": 57,
     "likes": 1,
     "comments": 0
    }
@@ -333,7 +368,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 87,
+    "views": 89,
     "likes": 2,
     "comments": 0
    }
@@ -385,7 +420,7 @@
     "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 339,
+    "views": 341,
     "likes": 3,
     "comments": 0
    }
@@ -656,7 +691,7 @@
     "watch_time_s": 895.2
    },
    "youtube": {
-    "views": 17,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
