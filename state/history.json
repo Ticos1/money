@@ -1,6 +1,105 @@
 {
  "posts": [
   {
+   "id": "2026-10-29-8-fill",
+   "date": "2026-10-29",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-29T18:26",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-29T08:24:29+00:00",
+   "source": "bank",
+   "bank_id": "v369",
+   "model": null,
+   "content": {
+    "ref": "Isaías 25:1",
+    "ref_label": "Isaías 25:1",
+    "verse_text": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e verdade.",
+    "question": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.",
+    "options": [
+     "salvação",
+     "graça",
+     "verdade",
+     "fé"
+    ],
+    "answer": 2,
+    "answer_word": "verdade",
+    "tags": [
+     "louvor",
+     "fidelidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo #fe #quizbiblico #biblia #gospel #cristao #deus #jesus",
+    "facebook": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #fidelidade #completeoversiculo",
+    "tiktok": "Versículo de louvor\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo",
+    "kwai": "Versículo de louvor\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de louvor: Isaías 25:1 📖 #shorts",
+     "description": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodelouvor #louvor #fidelidade",
+     "tags": [
+      "versículo de louvor",
+      "versículos de louvor",
+      "louvor",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "fidelidade",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T21:30:34+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-29T21:31:18+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/vhMKE2C2yT0",
+    "stories": "story 18143662930719758"
+   }
+  },
+  {
    "id": "2026-10-29-7-quiz",
    "date": "2026-10-29",
    "slot": 7,
