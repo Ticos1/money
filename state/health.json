@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T11:03:37+00:00",
+ "updated_at": "2026-10-29T13:13:35+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-3-truefalse",
+   "date": "2026-10-29",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-29T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-29T13:10:33+00:00",
+    "stories": "2026-10-29T13:11:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4504912413160511",
+    "stories": "story 18127870172300038"
+   },
+   "title": "Complete o versículo mais curto da Bíblia: “Jesus ___.”"
+  },
   {
    "id": "2026-10-29-2-quiz",
    "date": "2026-10-29",
