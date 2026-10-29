@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-29T11:03:34+00:00",
+ "updated_at": "2026-10-29T13:13:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-29",
+   "time": "10:00",
+   "title": "Complete o versículo mais curto da Bíblia: “Jesus ___.”",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4504912413160511"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-29-2-quiz": {
    "type": "quiz",
    "date": "2026-10-29",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 158,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 428.1
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 24,
+    "reach": 32,
     "saved": 0,
     "shares": 0,
-    "views": 31,
+    "views": 44,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 95.5
+    "avg_watch_s": 5.4,
+    "watch_time_s": 183.9
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 19,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -97,7 +114,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 63,
+    "views": 62,
     "likes": 3,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1364,
+    "views": 1375,
     "avg_watch_s": 6.3,
-    "watch_time_s": 6045.1
+    "watch_time_s": 6096.1
    }
   },
   "2026-10-28-6-truefalse": {
@@ -131,25 +148,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1441231304889704"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 39,
+    "reach": 87,
     "saved": 0,
     "shares": 0,
-    "views": 55,
-    "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 160.3
+    "views": 128,
+    "total_interactions": 1,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 463.5
    },
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1058,
+    "views": 1063,
     "avg_watch_s": 5.9,
-    "watch_time_s": 4475.9
+    "watch_time_s": 4493.4
    },
    "youtube": {
-    "views": 64,
+    "views": 67,
     "likes": 2,
     "comments": 0
    }
@@ -185,20 +202,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 75,
+    "reach": 81,
     "saved": 0,
     "shares": 0,
-    "views": 105,
+    "views": 110,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 349.7
+    "avg_watch_s": 4.4,
+    "watch_time_s": 365.7
    },
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1742,
+    "views": 1744,
     "avg_watch_s": 5.7,
-    "watch_time_s": 7577.7
+    "watch_time_s": 7578.0
    },
    "youtube": {
     "views": 3,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1432,
+    "views": 1435,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6483.1
+    "watch_time_s": 6504.6
    }
   },
   "2026-10-28-2-quiz": {
@@ -241,7 +258,7 @@
     "watch_time_s": 911.9
    },
    "youtube": {
-    "views": 45,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -301,7 +318,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 45,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 337,
+    "views": 339,
     "likes": 3,
     "comments": 0
    }
