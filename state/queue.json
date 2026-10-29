@@ -1,3 +1,1002 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-29-10-truefalse",
+   "date": "2026-10-29",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-29T21:21",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-29T08:25:27+00:00",
+   "source": "bank",
+   "bank_id": "q369",
+   "model": null,
+   "content": {
+    "ref": "Juízes 16:30",
+    "ref_label": "Juízes 16:30",
+    "question": "O que desabou sobre os governantes quando Sansão se curvou com toda a sua força?",
+    "shown": "O templo",
+    "is_true": true,
+    "correct": "O templo",
+    "evidence": "o templo desabou sobre os governantes",
+    "passage": "Sansão disse: “Que eu morra com os filisteus!” Ele se curvou com toda a sua força, e o templo desabou sobre os governantes e sobre todo o povo que nele estava. Assim, os mortos que ele matou na sua morte foram mais do que os que ele havia matado em sua vida.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que desabou sobre os governantes quando Sansão se curvou com toda a sua força?\nResposta: O templo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #conhecimentobiblico #jesus #fe #palavradedeus #evangelico #biblia #desafiobiblico #gospel #cristao",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que desabou sobre os governantes quando Sansão se curvou com toda a sua força?\nResposta: O templo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #perguntasbiblicas #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #biblia #jesus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que desabou sobre os governantes quando Sansão se curvou com toda a sua força?\nResposta: O templo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que desabou sobre os governantes quando Sansão se curvou com toda a sua força?\nResposta: O templo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "juízes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-9-quiz",
+   "date": "2026-10-29",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-29T19:59",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:24:59+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Jeremias 11:11",
+    "ref_label": "Jeremias 11:11",
+    "question": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?",
+    "options": [
+     "mal",
+     "paz",
+     "glória",
+     "esperança"
+    ],
+    "answer": 0,
+    "evidence": "mal",
+    "passage": "Portanto, assim diz o SENHOR: ‘Eis que trarei sobre eles um mal do qual não poderão escapar; e eles clamarão a mim, mas eu não os ouvirei.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?\n\nA) mal\nB) paz\nC) glória\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #evangelico #desafio #fe #cristao #palavradedeus #biblia #perguntasbiblicas #jesus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?\n\nA) mal\nB) paz\nC) glória\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #biblia",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #jesus #fe",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #fe",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?\n\nA) mal\nB) paz\nC) glória\nD) esperança\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?\n\nA) mal\nB) paz\nC) glória\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-8-fill",
+   "date": "2026-10-29",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-29T18:26",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-29T08:24:29+00:00",
+   "source": "bank",
+   "bank_id": "v369",
+   "model": null,
+   "content": {
+    "ref": "Isaías 25:1",
+    "ref_label": "Isaías 25:1",
+    "verse_text": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e verdade.",
+    "question": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.",
+    "options": [
+     "salvação",
+     "graça",
+     "verdade",
+     "fé"
+    ],
+    "answer": 2,
+    "answer_word": "verdade",
+    "tags": [
+     "louvor",
+     "fidelidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo #fe #quizbiblico #biblia #gospel #cristao #deus #jesus",
+    "facebook": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #fidelidade #completeoversiculo",
+    "tiktok": "Versículo de louvor\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo",
+    "kwai": "Versículo de louvor\nDesafio: complete o versículo sem olhar a Bíblia! 📖\nComente a letra: A, B, C ou D 👇\n#versiculodelouvor #louvor #fidelidade #completeoversiculo #versiculo",
+    "whatsapp": "*Desafio: complete o versículo sem olhar a Bíblia!* 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de louvor: Isaías 25:1 📖 #shorts",
+     "description": "Versículo de louvor: Isaías 25:1\nDesafio: complete o versículo sem olhar a Bíblia! 📖\n\n“Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____.”\n\nA) salvação\nB) graça\nC) verdade\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodelouvor #louvor #fidelidade",
+     "tags": [
+      "versículo de louvor",
+      "versículos de louvor",
+      "louvor",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "fidelidade",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio: complete o versículo sem olhar a Bíblia!",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-7-quiz",
+   "date": "2026-10-29",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-29T17:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:24:01+00:00",
+   "source": "bank",
+   "bank_id": "q439",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 26:11",
+    "ref_label": "Provérbios 26:11",
+    "question": "Com que animal Provérbios compara o tolo que repete a sua estultícia?",
+    "options": [
+     "Um cachorro",
+     "Uma serpente",
+     "Um lobo",
+     "Um burro"
+    ],
+    "answer": 0,
+    "evidence": "Como o cachorro que volta ao seu vômito",
+    "passage": "Como o cachorro que volta ao seu vômito, assim é o tolo que repete a sua estultícia.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia #cristao #desafio #deus #fe #palavradedeus #gospel #conhecimentobiblico #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #biblia #deus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #teste #perguntasbiblicas",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Com que animal Provérbios compara o tolo que repete a sua estultícia? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-6-truefalse",
+   "date": "2026-10-29",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-29T14:59",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-29T08:23:30+00:00",
+   "source": "bank",
+   "bank_id": "q866",
+   "model": null,
+   "content": {
+    "ref": "Lucas 10:34",
+    "ref_label": "Lucas 10:34",
+    "question": "O que o bom samaritano derramou nas feridas do homem?",
+    "shown": "Água e sal",
+    "is_true": false,
+    "correct": "Óleo e vinho",
+    "evidence": "derramando nelas óleo e vinho",
+    "passage": "aproximou-se dele e atou-lhe as feridas, derramando nelas óleo e vinho. Ele o colocou sobre o seu próprio animal, levou-o para uma hospedaria e cuidou dele.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #gospel #cristao #biblia #perguntasbiblicas #desafiobiblico #jesus #conhecimentobiblico #palavradedeus #deus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #biblia #desafiobiblico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #conhecimentobiblico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que o bom samaritano derramou nas feridas do homem?\nResposta: Água e sal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.96,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-5-curiosity",
+   "date": "2026-10-29",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-29T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-29T08:23:06+00:00",
+   "source": "bank",
+   "bank_id": "c239",
+   "model": null,
+   "content": {
+    "ref": "Lucas 22:44",
+    "ref_label": "Lucas 22:44",
+    "title": "Suor como gotas de sangue",
+    "text": "Só Lucas, que era médico, registra que no Getsêmani o suor de Jesus se tornou como grandes gotas de sangue.",
+    "evidence": "como grandes gotas de sangue",
+    "passage": "Estando em agonia, ele orava mais intensamente. O seu suor tornou-se como grandes gotas de sangue caindo no chão.",
+    "tags": [
+     "jesus",
+     "getsemani"
+    ]
+   },
+   "captions": {
+    "instagram": "Suor como gotas de sangue\n\nSó Lucas, que era médico, registra que no Getsêmani o suor de Jesus se tornou como grandes gotas de sangue. (Lucas 22:44)\n\nNo Getsêmani, o medo e a agonia de Jesus foram tão intensos que seu suor se transformou em grandes gotas de sangue, conforme registra Lucas, que era médico. Esse detalhe nos mostra a humanidade de Cristo e a profundidade de sua entrega. Que esse relato nos lembre de confiar na força de Deus mesmo nos momentos mais difíceis. Salve para refletir e compartilhe para inspirar outros.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #getsemani #vocesabia #curiosidadesbiblicas #historiabiblica #cristao #fe #gospel #evangelico #palavradedeus #deus #biblia",
+    "facebook": "Suor como gotas de sangue\n\nSó Lucas, que era médico, registra que no Getsêmani o suor de Jesus se tornou como grandes gotas de sangue. (Lucas 22:44)\n\nNo Getsêmani, o medo e a agonia de Jesus foram tão intensos que seu suor se transformou em grandes gotas de sangue, conforme registra Lucas, que era médico. Esse detalhe nos mostra a humanidade de Cristo e a profundidade de sua entrega. Que esse relato nos lembre de confiar na força de Deus mesmo nos momentos mais difíceis. Salve para refletir e compartilhe para inspirar outros.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #getsemani #vocesabia #curiosidadesbiblicas",
+    "tiktok": "No Getsêmani, o suor de Jesus virou gotas de sangue. Um detalhe que nos toca profundamente. Salve e compartilhe.\n#jesus #getsemani #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "No Getsêmani, o suor de Jesus virou gotas de sangue. Um detalhe que nos toca profundamente. Salve e compartilhe.\n#jesus #getsemani #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Suor como gotas de sangue\n\nSó Lucas, que era médico, registra que no Getsêmani o suor de Jesus se tornou como grandes gotas de sangue. (Lucas 22:44)\n\nNo Getsêmani, o medo e a agonia de Jesus foram tão intensos que seu suor se transformou em grandes gotas de sangue, conforme registra Lucas, que era médico. Esse detalhe nos mostra a humanidade de Cristo e a profundidade de sua entrega. Que esse relato nos lembre de confiar na força de Deus mesmo nos momentos mais difíceis. Salve para refletir e compartilhe para inspirar outros.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Suor como gotas de sangue #shorts",
+     "description": "Suor como gotas de sangue\n\nSó Lucas, que era médico, registra que no Getsêmani o suor de Jesus se tornou como grandes gotas de sangue. (Lucas 22:44)\n\nNo Getsêmani, o medo e a agonia de Jesus foram tão intensos que seu suor se transformou em grandes gotas de sangue, conforme registra Lucas, que era médico. Esse detalhe nos mostra a humanidade de Cristo e a profundidade de sua entrega. Que esse relato nos lembre de confiar na força de Deus mesmo nos momentos mais difíceis. Salve para refletir e compartilhe para inspirar outros.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #getsemani #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "getsemani",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.63,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-4-quiz",
+   "date": "2026-10-29",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-29T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:22:36+00:00",
+   "source": "bank",
+   "bank_id": "q215",
+   "model": null,
+   "content": {
+    "ref": "Lucas 8:43",
+    "ref_label": "Lucas 8:43",
+    "question": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?",
+    "options": [
+     "Três",
+     "Sete",
+     "Doze",
+     "Trinta e oito"
+    ],
+    "answer": 2,
+    "evidence": "um fluxo de sangue havia doze anos",
+    "passage": "Uma mulher que tinha um fluxo de sangue havia doze anos, que tinha gasto todo o seu sustento com médicos e não pôde ser curada por nenhum deles,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus #evangelico #deus #perguntasbiblicas #conhecimentobiblico #palavradedeus #gospel #desafio #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #perguntasbiblicas #desafio",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #jesus #biblia",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-3-truefalse",
+   "date": "2026-10-29",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-29T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-29T08:22:05+00:00",
+   "source": "bank",
+   "bank_id": "q873",
+   "model": null,
+   "content": {
+    "ref": "João 11:35",
+    "ref_label": "João 11:35",
+    "question": "Complete o versículo mais curto da Bíblia: “Jesus ___.”",
+    "shown": "sorriu",
+    "is_true": false,
+    "correct": "chorou",
+    "evidence": "Jesus chorou",
+    "passage": "Jesus chorou.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComplete o versículo mais curto da Bíblia: “Jesus ___.”\nResposta: sorriu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #cristao #evangelico #palavradedeus #jesus #fe #conhecimentobiblico #deus #biblia #desafiobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComplete o versículo mais curto da Bíblia: “Jesus ___.”\nResposta: sorriu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #jesus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nComplete o versículo mais curto da Bíblia: “Jesus ___.”\nResposta: sorriu\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComplete o versículo mais curto da Bíblia: “Jesus ___.”\nResposta: sorriu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-2-quiz",
+   "date": "2026-10-29",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-29T07:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:21:41+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Naum 2:13",
+    "ref_label": "Naum 2:13",
+    "question": "Qual expressão aparece no versículo 13 de Naum 2?",
+    "options": [
+     "SENHOR dos Exércitos",
+     "Deus Todo-Poderoso",
+     "Rei dos Céus",
+     "Altíssimo"
+    ],
+    "answer": 0,
+    "evidence": "SENHOR dos Exércitos",
+    "passage": "“Eis que eu sou contra você”, diz o SENHOR dos Exércitos, “e eu queimarei os carros de guerra dela na fumaça, e a espada devorará os seus leões jovens; e eu eliminarei a sua presa da terra, e a voz dos seus mensageiros não será mais ouvida.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual expressão aparece no versículo 13 de Naum 2?\n\nA) SENHOR dos Exércitos\nB) Deus Todo-Poderoso\nC) Rei dos Céus\nD) Altíssimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #palavradedeus #biblia #evangelico #conhecimentobiblico #teste #gospel #perguntasbiblicas #desafio #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual expressão aparece no versículo 13 de Naum 2?\n\nA) SENHOR dos Exércitos\nB) Deus Todo-Poderoso\nC) Rei dos Céus\nD) Altíssimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #perguntasbiblicas",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #fe #biblia",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual expressão aparece no versículo 13 de Naum 2?\n\nA) SENHOR dos Exércitos\nB) Deus Todo-Poderoso\nC) Rei dos Céus\nD) Altíssimo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão aparece no versículo 13 de Naum 2? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual expressão aparece no versículo 13 de Naum 2?\n\nA) SENHOR dos Exércitos\nB) Deus Todo-Poderoso\nC) Rei dos Céus\nD) Altíssimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "naum"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-29-1-verse",
+   "date": "2026-10-29",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-29T06:40",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-29T08:21:10+00:00",
+   "source": "bank",
+   "bank_id": "v099",
+   "model": null,
+   "content": {
+    "ref": "Salmos 119:11",
+    "ref_label": "Salmos 119:11",
+    "verse_text": "Escondi a tua palavra no meu coração, para não pecar contra ti.",
+    "on_screen": "Guarde a Palavra no coração.",
+    "reflection": "Quem guarda a Palavra no coração tem uma bússola para as horas de tentação. Que tal memorizar um versículo esta semana?",
+    "theme": "Palavra de Deus",
+    "mood": "reflexao",
+    "tags": [
+     "palavra",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a Palavra de Deus: Salmos 119:11\n“Escondi a tua palavra no meu coração, para não pecar contra ti.” (Salmos 119:11)\n\nA Palavra de Deus, quando guardada no coração, se torna a nossa direção nos momentos de tentação. Que tal escolher um versículo para memorizar esta semana e fortalecer sua fé? Salve este post como lembrete e deixe que a verdade transforme seus passos. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavra #salmos #versiculododia #versiculo #cristao #oracao #biblia #esperanca #reflexao #gospel #fe",
+    "facebook": "Versículo sobre a Palavra de Deus: Salmos 119:11\n“Escondi a tua palavra no meu coração, para não pecar contra ti.” (Salmos 119:11)\n\nA Palavra de Deus, quando guardada no coração, se torna a nossa direção nos momentos de tentação. Que tal escolher um versículo para memorizar esta semana e fortalecer sua fé? Salve este post como lembrete e deixe que a verdade transforme seus passos. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavra #salmos #versiculododia",
+    "tiktok": "Versículo sobre a Palavra de Deus\nMemorize um versículo e tenha direção nas tentações. Salve e reflita!\n#versiculosobreapalavradedeus #palavra #salmos #versiculododia #versiculo",
+    "kwai": "Versículo sobre a Palavra de Deus\nMemorize um versículo e tenha direção nas tentações. Salve e reflita!\n#versiculosobreapalavradedeus #palavra #salmos #versiculododia #versiculo",
+    "whatsapp": "“Escondi a tua palavra no meu coração, para não pecar contra ti.” (Salmos 119:11)\n\nA Palavra de Deus, quando guardada no coração, se torna a nossa direção nos momentos de tentação. Que tal escolher um versículo para memorizar esta semana e fortalecer sua fé? Salve este post como lembrete e deixe que a verdade transforme seus passos. 🌟\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre a Palavra de Deus: Salmos 119:11 🙏 #shorts",
+     "description": "Versículo sobre a Palavra de Deus: Salmos 119:11\n“Escondi a tua palavra no meu coração, para não pecar contra ti.” (Salmos 119:11)\n\nA Palavra de Deus, quando guardada no coração, se torna a nossa direção nos momentos de tentação. Que tal escolher um versículo para memorizar esta semana e fortalecer sua fé? Salve este post como lembrete e deixe que a verdade transforme seus passos. 🌟\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapalavradedeus #palavra #salmos",
+     "tags": [
+      "versículo sobre a Palavra de Deus",
+      "versículos sobre a Palavra de Deus",
+      "palavra de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra",
+      "salmos",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-29/2026-10-29-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: Groq tentativa 2 descartada: conteúdo repetido"
+   ],
+   "error": null
+  }
+ ]
 }
