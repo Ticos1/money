@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-10-29-7-quiz",
+   "date": "2026-10-29",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-29T17:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:24:01+00:00",
+   "source": "bank",
+   "bank_id": "q439",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 26:11",
+    "ref_label": "Provérbios 26:11",
+    "question": "Com que animal Provérbios compara o tolo que repete a sua estultícia?",
+    "options": [
+     "Um cachorro",
+     "Uma serpente",
+     "Um lobo",
+     "Um burro"
+    ],
+    "answer": 0,
+    "evidence": "Como o cachorro que volta ao seu vômito",
+    "passage": "Como o cachorro que volta ao seu vômito, assim é o tolo que repete a sua estultícia.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia #cristao #desafio #deus #fe #palavradedeus #gospel #conhecimentobiblico #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #biblia #deus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #teste #perguntasbiblicas",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Com que animal Provérbios compara o tolo que repete a sua estultícia? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nCom que animal Provérbios compara o tolo que repete a sua estultícia?\n\nA) Um cachorro\nB) Uma serpente\nC) Um lobo\nD) Um burro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-29T20:10:31+00:00",
+    "stories": "2026-10-29T20:11:14+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1454166100138391",
+    "stories": "story 18000872720817637"
+   }
+  },
+  {
    "id": "2026-10-29-6-truefalse",
    "date": "2026-10-29",
    "slot": 6,
