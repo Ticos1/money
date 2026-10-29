@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T23:09:04+00:00",
+ "updated_at": "2026-10-29T00:33:51+00:00",
  "date": "2026-10-28",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-28-10-truefalse",
+   "date": "2026-10-28",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-28T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-29T00:30:33+00:00",
+    "stories": "2026-10-29T00:31:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1458089649618959",
+    "stories": "story 18026298740937325"
+   },
+   "title": "O que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?"
+  },
   {
    "id": "2026-10-28-9-quiz",
    "date": "2026-10-28",
