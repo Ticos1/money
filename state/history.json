@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-10-29-4-quiz",
+   "date": "2026-10-29",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-29T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-29T08:22:36+00:00",
+   "source": "bank",
+   "bank_id": "q215",
+   "model": null,
+   "content": {
+    "ref": "Lucas 8:43",
+    "ref_label": "Lucas 8:43",
+    "question": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?",
+    "options": [
+     "Três",
+     "Sete",
+     "Doze",
+     "Trinta e oito"
+    ],
+    "answer": 2,
+    "evidence": "um fluxo de sangue havia doze anos",
+    "passage": "Uma mulher que tinha um fluxo de sangue havia doze anos, que tinha gasto todo o seu sustento com médicos e não pôde ser curada por nenhum deles,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus #evangelico #deus #perguntasbiblicas #conhecimentobiblico #palavradedeus #gospel #desafio #teste",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #perguntasbiblicas #desafio",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #jesus #biblia",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nHá quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?\n\nA) Três\nB) Sete\nC) Doze\nD) Trinta e oito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T14:55:43+00:00",
+    "instagram": "2026-10-29T14:56:19+00:00",
+    "facebook": "2026-10-29T14:56:23+00:00",
+    "stories": "2026-10-29T14:56:56+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/zeoUFwjHAKk",
+    "instagram": "https://www.instagram.com/reel/DfFRWvZkuX3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1130757189349301",
+    "stories": "story 18115018742147442"
+   }
+  },
+  {
    "id": "2026-10-29-3-truefalse",
    "date": "2026-10-29",
    "slot": 3,
