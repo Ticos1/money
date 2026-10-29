@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-29T09:43:10+00:00",
+ "updated_at": "2026-10-29T11:03:37+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-2-quiz",
+   "date": "2026-10-29",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-29T07:57",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T11:00:32+00:00",
+    "instagram": null,
+    "facebook": "2026-10-29T11:00:37+00:00",
+    "stories": "2026-10-29T11:01:09+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/iIEVyAmROyc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2316611505934031",
+    "stories": "story 18110244578235132"
+   },
+   "title": "Qual expressão aparece no versículo 13 de Naum 2?"
+  },
   {
    "id": "2026-10-29-1-verse",
    "date": "2026-10-29",
