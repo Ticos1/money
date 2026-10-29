@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-29T09:53:53+00:00",
+ "updated_at": "2026-10-29T11:03:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-29",
+   "time": "08:00",
+   "title": "Qual expressão aparece no versículo 13 de Naum 2?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/iIEVyAmROyc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2316611505934031"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-29-1-verse": {
    "type": "verse",
    "date": "2026-10-29",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 22,
+    "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 30,
+    "views": 31,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 83.6
+    "avg_watch_s": 3.8,
+    "watch_time_s": 95.5
    },
    "facebook": {
     "likes": 0,
@@ -74,7 +97,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 62,
+    "views": 63,
     "likes": 3,
     "comments": 0
    }
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1359,
+    "views": 1364,
     "avg_watch_s": 6.3,
-    "watch_time_s": 6030.7
+    "watch_time_s": 6045.1
    }
   },
   "2026-10-28-6-truefalse": {
@@ -110,23 +133,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 31,
+    "reach": 39,
     "saved": 0,
     "shares": 0,
-    "views": 39,
+    "views": 55,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 114.0
+    "avg_watch_s": 4.1,
+    "watch_time_s": 160.3
    },
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1046,
+    "views": 1058,
     "avg_watch_s": 5.9,
-    "watch_time_s": 4390.3
+    "watch_time_s": 4475.9
    },
    "youtube": {
-    "views": 63,
+    "views": 64,
     "likes": 2,
     "comments": 0
    }
@@ -162,20 +185,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 74,
+    "reach": 75,
     "saved": 0,
     "shares": 0,
-    "views": 103,
+    "views": 105,
     "total_interactions": 0,
     "avg_watch_s": 4.5,
-    "watch_time_s": 348.4
+    "watch_time_s": 349.7
    },
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1740,
+    "views": 1742,
     "avg_watch_s": 5.7,
-    "watch_time_s": 7566.6
+    "watch_time_s": 7577.7
    },
    "youtube": {
     "views": 3,
@@ -219,7 +242,7 @@
    },
    "youtube": {
     "views": 45,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -293,7 +316,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 86,
+    "views": 87,
     "likes": 2,
     "comments": 0
    }
@@ -345,7 +368,7 @@
     "watch_time_s": 3326.9
    },
    "youtube": {
-    "views": 336,
+    "views": 337,
     "likes": 3,
     "comments": 0
    }
@@ -397,7 +420,7 @@
     "watch_time_s": 1142.2
    },
    "youtube": {
-    "views": 160,
+    "views": 161,
     "likes": 2,
     "comments": 0
    }
