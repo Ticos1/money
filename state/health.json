@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-29T21:34:33+00:00",
+ "updated_at": "2026-10-29T23:07:30+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-9-quiz",
+   "date": "2026-10-29",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-29T19:59",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T23:00:28+00:00",
+    "instagram": "2026-10-29T23:01:58+00:00",
+    "facebook": "2026-10-29T23:02:04+00:00",
+    "stories": "2026-10-29T23:03:13+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/h5MSy6VtxHA",
+    "instagram": "https://www.instagram.com/reel/DfGI66tiZ4e/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1133960289010148",
+    "stories": "story 18103328711047328"
+   },
+   "title": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?"
+  },
   {
    "id": "2026-10-29-8-fill",
    "date": "2026-10-29",
