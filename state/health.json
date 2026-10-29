@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-29T13:13:35+00:00",
+ "updated_at": "2026-10-29T14:59:58+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-4-quiz",
+   "date": "2026-10-29",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-29T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-29T14:55:43+00:00",
+    "instagram": "2026-10-29T14:56:19+00:00",
+    "facebook": "2026-10-29T14:56:23+00:00",
+    "stories": "2026-10-29T14:56:56+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/zeoUFwjHAKk",
+    "instagram": "https://www.instagram.com/reel/DfFRWvZkuX3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1130757189349301",
+    "stories": "story 18115018742147442"
+   },
+   "title": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?"
+  },
   {
    "id": "2026-10-29-3-truefalse",
    "date": "2026-10-29",
