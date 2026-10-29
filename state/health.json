@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T09:02:25+00:00",
+ "updated_at": "2026-10-29T09:43:10+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
@@ -49,7 +49,31 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-10-29-1-verse",
+   "date": "2026-10-29",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-29T06:40",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-29T09:41:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18134752186754946"
+   },
+   "title": "Salmos 119:11"
+  }
+ ],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
