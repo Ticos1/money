@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-29T00:33:51+00:00",
- "date": "2026-10-28",
+ "updated_at": "2026-10-29T09:02:25+00:00",
+ "date": "2026-10-29",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 6,
   "max": 20,
   "enabled": true
  },
@@ -16,287 +16,40 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 575,
-   "days_left": 575,
+   "fresh": 574,
+   "days_left": 574,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 452,
-   "days_left": 452,
+   "fresh": 451,
+   "days_left": 451,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 1045,
-   "days_left": 149,
+   "fresh": 1039,
+   "days_left": 148,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1071,
-   "days_left": 153,
+   "fresh": 1066,
+   "days_left": 152,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 242,
-   "days_left": 242,
+   "fresh": 241,
+   "days_left": 241,
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-28-10-truefalse",
-   "date": "2026-10-28",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-28T21:30",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-29T00:30:33+00:00",
-    "stories": "2026-10-29T00:31:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1458089649618959",
-    "stories": "story 18026298740937325"
-   },
-   "title": "O que aconteceu com a figueira quando Jesus disse: 'Nunca mais dê fruto!'?"
-  },
-  {
-   "id": "2026-10-28-9-quiz",
-   "date": "2026-10-28",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-28T20:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-28T23:05:29+00:00",
-    "instagram": "2026-10-28T23:05:56+00:00",
-    "facebook": "2026-10-28T23:06:01+00:00",
-    "stories": "2026-10-28T23:06:40+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/aaL799yM8qQ",
-    "instagram": "https://www.instagram.com/reel/DfDkm9vEy6o/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1459566389430369",
-    "stories": "story 18004757930808925"
-   },
-   "title": "Cerca de quantos porcos se precipitaram no mar em Gadara?"
-  },
-  {
-   "id": "2026-10-28-8-fill",
-   "date": "2026-10-28",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-28T18:33",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-28T21:35:44+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-28T21:36:57+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM",
-    "stories": "story 18166151386487566"
-   },
-   "title": "Sem _____ é impossível agradar a Deus, pois aquele que se aproxima dele deve crer que ele existe e que recompensa os que o buscam."
-  },
-  {
-   "id": "2026-10-28-7-quiz",
-   "date": "2026-10-28",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-28T17:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-28T20:05:42+00:00",
-    "stories": "2026-10-28T20:06:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/993807166396569",
-    "stories": "story 18131436910842182"
-   },
-   "title": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?"
-  },
-  {
-   "id": "2026-10-28-6-truefalse",
-   "date": "2026-10-28",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-28T14:56",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-28T18:01:00+00:00",
-    "instagram": "2026-10-28T18:01:45+00:00",
-    "facebook": "2026-10-28T18:01:49+00:00",
-    "stories": "2026-10-28T18:02:39+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/oqKO6JFrplY",
-    "instagram": "https://www.instagram.com/reel/DfDBw_sgY3A/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1441231304889704",
-    "stories": "story 18089939849265850"
-   },
-   "title": "Quantas pedras Josué mandou tirar do meio do Jordão?"
-  },
-  {
-   "id": "2026-10-28-5-curiosity",
-   "date": "2026-10-28",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-28T13:21",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-28T16:25:37+00:00",
-    "stories": "2026-10-28T16:26:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1726129078456025",
-    "stories": "story 18116766350010516"
-   },
-   "title": "Os pastores foram os primeiros a saber"
-  },
-  {
-   "id": "2026-10-28-4-quiz",
-   "date": "2026-10-28",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-28T12:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-28T15:10:42+00:00",
-    "instagram": "2026-10-28T15:11:31+00:00",
-    "facebook": "2026-10-28T15:11:36+00:00",
-    "stories": "2026-10-28T15:13:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/jEhMhDQ_VbU",
-    "instagram": "https://www.instagram.com/reel/DfCuTu2lNJW/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2707584499695982",
-    "stories": "story 17913936930494639"
-   },
-   "title": "O que dizia a acusação escrita sobre a cabeça de Jesus?"
-  },
-  {
-   "id": "2026-10-28-3-truefalse",
-   "date": "2026-10-28",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-28T09:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-28T12:55:36+00:00",
-    "stories": "2026-10-28T12:56:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427",
-    "stories": "story 17973034029158606"
-   },
-   "title": "O que a filha de Herodias pediu numa bandeja?"
-  },
-  {
-   "id": "2026-10-28-2-quiz",
-   "date": "2026-10-28",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-28T07:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-28T11:00:38+00:00",
-    "instagram": null,
-    "facebook": "2026-10-28T11:00:42+00:00",
-    "stories": "2026-10-28T11:02:15+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/uQUntD42yH8",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4140889422881296",
-    "stories": "story 18027625058705156"
-   },
-   "title": "Qual expressão Davi usa para descrever onde ama estar?"
-  },
-  {
-   "id": "2026-10-28-1-verse",
-   "date": "2026-10-28",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-28T06:30",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-28T09:31:34+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 17914666107284736"
-   },
-   "title": "João 14:1"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
