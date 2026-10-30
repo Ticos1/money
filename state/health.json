@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-30T20:19:59+00:00",
+ "updated_at": "2026-10-30T21:30:06+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-8-fill",
+   "date": "2026-10-30",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-30T18:21",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-30T21:25:30+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-30T21:26:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/5GQqGEhg52g",
+    "stories": "story 18184192408388970"
+   },
+   "title": "Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas."
+  },
   {
    "id": "2026-10-30-7-quiz",
    "date": "2026-10-30",
