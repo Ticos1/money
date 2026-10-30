@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-30T11:09:35+00:00",
+ "updated_at": "2026-10-30T13:07:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-30",
+   "time": "10:00",
+   "title": "Jubal foi o pai de todos os que fazem o quê?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1167043049082862"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-30-2-quiz": {
    "type": "quiz",
    "date": "2026-10-30",
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1454,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 6291.0
+    "views": 1499,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 6487.1
    }
   },
   "2026-10-29-6-truefalse": {
@@ -131,25 +148,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2757448498007146"
    },
    "instagram": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "reach": 77,
+    "reach": 99,
     "saved": 0,
     "shares": 0,
-    "views": 99,
-    "total_interactions": 1,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 325.4
+    "views": 130,
+    "total_interactions": 2,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 443.6
    },
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1418,
+    "views": 1429,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5997.8
+    "watch_time_s": 6032.9
    },
    "youtube": {
-    "views": 103,
+    "views": 110,
     "likes": 2,
     "comments": 0
    }
@@ -196,12 +213,12 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1251,
+    "views": 1261,
     "avg_watch_s": 6.2,
-    "watch_time_s": 5981.0
+    "watch_time_s": 6008.3
    },
    "youtube": {
-    "views": 145,
+    "views": 153,
     "likes": 5,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 277,
+    "views": 278,
     "avg_watch_s": 5.6,
-    "watch_time_s": 1130.8
+    "watch_time_s": 1131.3
    }
   },
   "2026-10-29-2-quiz": {
@@ -236,7 +253,7 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 539,
+    "views": 541,
     "avg_watch_s": 5.0,
     "watch_time_s": 2183.2
    },
@@ -301,7 +318,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 68,
+    "views": 69,
     "likes": 3,
     "comments": 0
    }
@@ -415,9 +432,9 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1750,
+    "views": 1751,
     "avg_watch_s": 5.7,
-    "watch_time_s": 7610.5
+    "watch_time_s": 7620.0
    },
    "youtube": {
     "views": 6,
@@ -460,7 +477,7 @@
     "watch_time_s": 911.9
    },
    "youtube": {
-    "views": 72,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -1708,7 +1725,7 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 238,
+    "views": 239,
     "avg_watch_s": 2.8,
     "watch_time_s": 623.7
    }
@@ -3135,7 +3152,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 188,
+    "views": 190,
     "avg_watch_s": 2.9,
     "watch_time_s": 506.1
    },
