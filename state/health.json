@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T15:09:22+00:00",
+ "updated_at": "2026-10-30T16:30:29+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-5-curiosity",
+   "date": "2026-10-30",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-30T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-30T16:25:34+00:00",
+    "stories": "2026-10-30T16:26:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1462689786076692",
+    "stories": "story 18282795109288407"
+   },
+   "title": "Voz mansa e delicada"
+  },
   {
    "id": "2026-10-30-4-quiz",
    "date": "2026-10-30",
