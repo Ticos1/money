@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-30T22:17:11+00:00",
+ "updated_at": "2026-10-30T23:00:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "title": "Qual objeto Davi menciona como seu escudo em Salmos 7?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/k0OBpYJsOgU",
+    "instagram": "https://www.instagram.com/reel/DfItFIjlFW2/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1104121139268943"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-30-8-fill": {
    "type": "fill",
    "date": "2026-10-30",
@@ -14,8 +49,8 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 8,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1098326242978642"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 8,
     "comments": 2,
-    "views": 921,
-    "avg_watch_s": 7.1,
-    "watch_time_s": 3487.0
+    "views": 1424,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 6549.2
    }
   },
   "2026-10-30-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 14,
     "total_interactions": 0,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 34.3
+    "avg_watch_s": 4.3,
+    "watch_time_s": 42.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 377,
-    "avg_watch_s": 6.1,
-    "watch_time_s": 1620.9
+    "views": 390,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 1656.3
    },
    "youtube": {
-    "views": 0,
+    "views": 36,
     "likes": 0,
     "comments": 0
    }
@@ -83,7 +118,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 237,
+    "views": 238,
     "avg_watch_s": 3.8,
     "watch_time_s": 801.3
    }
@@ -102,13 +137,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 55,
+    "reach": 57,
     "saved": 0,
     "shares": 0,
-    "views": 71,
+    "views": 74,
     "total_interactions": 1,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 247.2
+    "avg_watch_s": 4.7,
+    "watch_time_s": 266.3
    },
    "facebook": {
     "likes": 1,
@@ -158,7 +193,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 22,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -218,7 +253,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 46,
+    "views": 49,
     "likes": 3,
     "comments": 0
    }
@@ -252,7 +287,7 @@
     "comments": 0,
     "views": 1534,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6705.3
+    "watch_time_s": 6725.7
    }
   },
   "2026-10-29-6-truefalse": {
@@ -285,7 +320,7 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 120,
+    "views": 140,
     "likes": 2,
     "comments": 0
    }
@@ -302,9 +337,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 236,
+    "views": 237,
     "avg_watch_s": 3.8,
-    "watch_time_s": 832.2
+    "watch_time_s": 832.3
    }
   },
   "2026-10-29-4-quiz": {
@@ -337,7 +372,7 @@
     "watch_time_s": 6067.2
    },
    "youtube": {
-    "views": 176,
+    "views": 178,
     "likes": 5,
     "comments": 0
    }
@@ -1824,7 +1859,7 @@
     "comments": 0,
     "views": 1435,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6178.2
+    "watch_time_s": 6196.0
    },
    "youtube": {
     "views": 137,
