@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-30T16:30:26+00:00",
+ "updated_at": "2026-10-30T17:59:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-30",
+   "time": "15:00",
+   "title": "Quais dois homens entrariam na terra, segundo o juramento de Deus?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/xhw80IDOn7A",
+    "instagram": "https://www.instagram.com/reel/DfIKxIOH5Di/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1812790576419834"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-30-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-30",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 33,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 125.1
    }
   },
   "2026-10-30-4-quiz": {
@@ -35,23 +70,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.7,
-    "watch_time_s": 0.7
+    "avg_watch_s": 2.7,
+    "watch_time_s": 5.4
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 163,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 375.3
+    "views": 249,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 911.1
    },
    "youtube": {
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 403,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1285.6
+    "views": 513,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1910.0
    }
   },
   "2026-10-30-2-quiz": {
@@ -114,11 +149,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1479558740738766"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 9.7,
+    "watch_time_s": 9.7
    }
   },
   "2026-10-29-9-quiz": {
@@ -151,7 +186,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 38,
+    "views": 41,
     "likes": 2,
     "comments": 0
    }
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 27,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1512,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 6553.2
+    "views": 1519,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 6623.7
    }
   },
   "2026-10-29-6-truefalse": {
@@ -202,23 +237,23 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 104,
+    "reach": 105,
     "saved": 0,
     "shares": 0,
-    "views": 135,
+    "views": 139,
     "total_interactions": 2,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 462.1
+    "avg_watch_s": 4.4,
+    "watch_time_s": 478.6
    },
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1435,
+    "views": 1438,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6066.5
+    "watch_time_s": 6067.9
    },
    "youtube": {
-    "views": 110,
+    "views": 118,
     "likes": 2,
     "comments": 0
    }
@@ -265,12 +300,12 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1265,
+    "views": 1269,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6044.6
+    "watch_time_s": 6067.2
    },
    "youtube": {
-    "views": 159,
+    "views": 165,
     "likes": 5,
     "comments": 0
    }
@@ -370,7 +405,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 69,
+    "views": 68,
     "likes": 3,
     "comments": 0
    }
@@ -385,7 +420,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 79,
+    "views": 80,
     "likes": 4,
     "comments": 0
    }
@@ -1141,9 +1176,9 @@
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1903,
+    "views": 1904,
     "avg_watch_s": 4.8,
-    "watch_time_s": 7361.4
+    "watch_time_s": 7362.3
    },
    "youtube": {
     "views": 51,
@@ -1339,9 +1374,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 262,
+    "views": 263,
     "avg_watch_s": 4.2,
-    "watch_time_s": 960.3
+    "watch_time_s": 961.1
    }
   },
   "2026-10-24-4-quiz": {
@@ -1536,9 +1571,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 628,
+    "views": 629,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2189.8
+    "watch_time_s": 2196.1
    },
    "youtube": {
     "views": 86,
