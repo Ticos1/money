@@ -1,3 +1,1003 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-30-10-truefalse",
+   "date": "2026-10-30",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-30T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-30T08:26:07+00:00",
+   "source": "bank",
+   "bank_id": "q353",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 8:3",
+    "ref_label": "Deuteronômio 8:3",
+    "question": "O homem não vive apenas de pão, mas de quê?",
+    "shown": "De toda palavra que procede da boca do SENHOR",
+    "is_true": true,
+    "correct": "De toda palavra que procede da boca do SENHOR",
+    "evidence": "o homem vive de toda palavra que procede da boca do SENHOR",
+    "passage": "Ele o humilhou, deixou que passasse fome e o alimentou com o maná, que você não conhecia, nem os seus antepassados conheciam, para lhe ensinar que o homem não vive apenas de pão, mas o homem vive de toda palavra que procede da boca do SENHOR.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO homem não vive apenas de pão, mas de quê?\nResposta: De toda palavra que procede da boca do SENHOR\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #biblia #conhecimentobiblico #fe #deus #evangelico #palavradedeus #cristao #perguntasbiblicas #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO homem não vive apenas de pão, mas de quê?\nResposta: De toda palavra que procede da boca do SENHOR\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #evangelico #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #conhecimentobiblico #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nO homem não vive apenas de pão, mas de quê?\nResposta: De toda palavra que procede da boca do SENHOR\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O homem não vive apenas de pão, mas de quê? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nO homem não vive apenas de pão, mas de quê?\nResposta: De toda palavra que procede da boca do SENHOR\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-9-quiz",
+   "date": "2026-10-30",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-30T19:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-30T08:25:40+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 7:10",
+    "ref_label": "Salmos 7:10",
+    "question": "Qual objeto Davi menciona como seu escudo em Salmos 7?",
+    "options": [
+     "coroa",
+     "cálice",
+     "escudo",
+     "trono"
+    ],
+    "answer": 2,
+    "evidence": "escudo",
+    "passage": "O meu escudo está com Deus, que salva os retos de coração.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual objeto Davi menciona como seu escudo em Salmos 7?\n\nA) coroa\nB) cálice\nC) escudo\nD) trono\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #teste #perguntasbiblicas #palavradedeus #cristao #desafio #evangelico #deus #biblia",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual objeto Davi menciona como seu escudo em Salmos 7?\n\nA) coroa\nB) cálice\nC) escudo\nD) trono\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #perguntasbiblicas",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #desafio #fe",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual objeto Davi menciona como seu escudo em Salmos 7?\n\nA) coroa\nB) cálice\nC) escudo\nD) trono\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual objeto Davi menciona como seu escudo em Salmos 7? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual objeto Davi menciona como seu escudo em Salmos 7?\n\nA) coroa\nB) cálice\nC) escudo\nD) trono\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-8-fill",
+   "date": "2026-10-30",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-30T18:21",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-30T08:25:13+00:00",
+   "source": "bank",
+   "bank_id": "v624",
+   "model": null,
+   "content": {
+    "ref": "Marcos 10:14",
+    "ref_label": "Marcos 10:14",
+    "verse_text": "Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o Reino de Deus pertence aos que são semelhantes a elas.",
+    "question": "Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.",
+    "options": [
+     "Louvor",
+     "Reino",
+     "Coração",
+     "Cântico"
+    ],
+    "answer": 1,
+    "answer_word": "Reino",
+    "tags": [
+     "crianca",
+     "jesus",
+     "familia"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre humildade: Marcos 10:14\nComplete o versículo! 90% erra essa palavra 📖\n\n“Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.”\n\nA) Louvor\nB) Reino\nC) Coração\nD) Cântico\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrehumildade #humildade #crianca #jesus #familia #completeoversiculo #versiculo #biblia #quizbiblico #gospel #evangelico #palavradedeus",
+    "facebook": "Versículo sobre humildade: Marcos 10:14\nComplete o versículo! 90% erra essa palavra 📖\n\n“Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.”\n\nA) Louvor\nB) Reino\nC) Coração\nD) Cântico\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrehumildade #humildade #crianca #jesus",
+    "tiktok": "Versículo sobre humildade\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrehumildade #humildade #crianca #jesus #familia",
+    "kwai": "Versículo sobre humildade\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrehumildade #humildade #crianca #jesus #familia",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.”\n\nA) Louvor\nB) Reino\nC) Coração\nD) Cântico\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre humildade: Marcos 10:14 📖 #shorts",
+     "description": "Versículo sobre humildade: Marcos 10:14\nComplete o versículo! 90% erra essa palavra 📖\n\n“Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.”\n\nA) Louvor\nB) Reino\nC) Coração\nD) Cântico\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobrehumildade #humildade #crianca",
+     "tags": [
+      "versículo sobre humildade",
+      "versículos sobre humildade",
+      "humildade",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "crianca",
+      "familia",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-7-quiz",
+   "date": "2026-10-30",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-30T17:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-30T08:24:44+00:00",
+   "source": "bank",
+   "bank_id": "q1115",
+   "model": null,
+   "content": {
+    "ref": "Isaías 38:21",
+    "ref_label": "Isaías 38:21",
+    "question": "O que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?",
+    "options": [
+     "Azeite de oliva",
+     "Mel silvestre",
+     "Uma pasta de figos",
+     "Bálsamo de Gileade"
+    ],
+    "answer": 2,
+    "evidence": "Tomem uma pasta de figos",
+    "passage": "Ora, Isaías tinha dito: “Tomem uma pasta de figos e apliquem-na como emplastro sobre a úlcera, e ele se recuperará.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nO que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?\n\nA) Azeite de oliva\nB) Mel silvestre\nC) Uma pasta de figos\nD) Bálsamo de Gileade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #teste #fe #cristao #biblia #conhecimentobiblico #perguntasbiblicas #desafio #palavradedeus #deus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nO que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?\n\nA) Azeite de oliva\nB) Mel silvestre\nC) Uma pasta de figos\nD) Bálsamo de Gileade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #palavradedeus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #deus #fe",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #fe #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nO que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?\n\nA) Azeite de oliva\nB) Mel silvestre\nC) Uma pasta de figos\nD) Bálsamo de Gileade\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "O que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nO que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?\n\nA) Azeite de oliva\nB) Mel silvestre\nC) Uma pasta de figos\nD) Bálsamo de Gileade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-6-truefalse",
+   "date": "2026-10-30",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-30T14:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-30T08:24:13+00:00",
+   "source": "bank",
+   "bank_id": "q692",
+   "model": null,
+   "content": {
+    "ref": "Números 14:30",
+    "ref_label": "Números 14:30",
+    "question": "Quais dois homens entrariam na terra, segundo o juramento de Deus?",
+    "shown": "Arão e Hur",
+    "is_true": false,
+    "correct": "Calebe e Josué",
+    "evidence": "exceto Calebe, filho de Jefoné, e Josué, filho de Num",
+    "passage": "certamente vocês não entrarão na terra a respeito da qual jurei que os faria habitar nela, exceto Calebe, filho de Jefoné, e Josué, filho de Num.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuais dois homens entrariam na terra, segundo o juramento de Deus?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #gospel #palavradedeus #evangelico #jesus #conhecimentobiblico #cristao #perguntasbiblicas #deus #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuais dois homens entrariam na terra, segundo o juramento de Deus?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #palavradedeus #fe",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #jesus #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuais dois homens entrariam na terra, segundo o juramento de Deus?\nResposta: Arão e Hur\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuais dois homens entrariam na terra, segundo o juramento de Deus?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "números"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-5-curiosity",
+   "date": "2026-10-30",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-30T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-30T08:23:47+00:00",
+   "source": "bank",
+   "bank_id": "c102",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 19:12",
+    "ref_label": "1 Reis 19:12",
+    "title": "Voz mansa e delicada",
+    "text": "Deus não falou com Elias no vento, no terremoto ou no fogo, mas em uma voz mansa e delicada.",
+    "evidence": "uma voz mansa e delicada",
+    "passage": "Depois do terremoto passou um fogo; mas o SENHOR não estava no fogo. Depois do fogo, houve uma voz mansa e delicada.",
+    "tags": [
+     "elias",
+     "oracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Voz mansa e delicada\n\nDeus não falou com Elias no vento, no terremoto ou no fogo, mas em uma voz mansa e delicada. (1 Reis 19:12)\n\nVocê sabia que Deus não se manifestou a Elias através do vento, terremoto ou fogo? Ele o chamou com uma voz mansa e delicada, como um sussurro que acalma. Essa curiosidade nos lembra que, muitas vezes, a presença de Deus vem em momentos de quietude e ternura, não em grandes estrondos. Salve este post para lembrar que o Senhor pode estar falando suavemente ao seu lado hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#elias #oracao #vocesabia #curiosidadesbiblicas #evangelico #estudobiblico #historiabiblica #jesus #fe #cristao #deus #gospel",
+    "facebook": "Voz mansa e delicada\n\nDeus não falou com Elias no vento, no terremoto ou no fogo, mas em uma voz mansa e delicada. (1 Reis 19:12)\n\nVocê sabia que Deus não se manifestou a Elias através do vento, terremoto ou fogo? Ele o chamou com uma voz mansa e delicada, como um sussurro que acalma. Essa curiosidade nos lembra que, muitas vezes, a presença de Deus vem em momentos de quietude e ternura, não em grandes estrondos. Salve este post para lembrar que o Senhor pode estar falando suavemente ao seu lado hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#elias #oracao #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Deus fala na suavidade, não no estrondo. 🌿 Salve e compartilhe!\n#elias #oracao #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Deus fala na suavidade, não no estrondo. 🌿 Salve e compartilhe!\n#elias #oracao #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Voz mansa e delicada\n\nDeus não falou com Elias no vento, no terremoto ou no fogo, mas em uma voz mansa e delicada. (1 Reis 19:12)\n\nVocê sabia que Deus não se manifestou a Elias através do vento, terremoto ou fogo? Ele o chamou com uma voz mansa e delicada, como um sussurro que acalma. Essa curiosidade nos lembra que, muitas vezes, a presença de Deus vem em momentos de quietude e ternura, não em grandes estrondos. Salve este post para lembrar que o Senhor pode estar falando suavemente ao seu lado hoje.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Voz mansa e delicada #shorts",
+     "description": "Voz mansa e delicada\n\nDeus não falou com Elias no vento, no terremoto ou no fogo, mas em uma voz mansa e delicada. (1 Reis 19:12)\n\nVocê sabia que Deus não se manifestou a Elias através do vento, terremoto ou fogo? Ele o chamou com uma voz mansa e delicada, como um sussurro que acalma. Essa curiosidade nos lembra que, muitas vezes, a presença de Deus vem em momentos de quietude e ternura, não em grandes estrondos. Salve este post para lembrar que o Senhor pode estar falando suavemente ao seu lado hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #elias #oracao #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "elias",
+      "oracao",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.0,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-4-quiz",
+   "date": "2026-10-30",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-30T12:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-30T08:23:20+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 146:5",
+    "ref_label": "Salmos 146:5",
+    "question": "Qual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?",
+    "options": [
+     "Abençoado",
+     "Santo",
+     "Glorioso",
+     "Feliz"
+    ],
+    "answer": 3,
+    "evidence": "Feliz",
+    "passage": "Feliz é aquele que tem o Deus de Jacó como seu auxílio, cuja esperança está no SENHOR, o seu Deus,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?\n\nA) Abençoado\nB) Santo\nC) Glorioso\nD) Feliz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #evangelico #conhecimentobiblico #palavradedeus #biblia #teste #perguntasbiblicas #desafio #deus #jesus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?\n\nA) Abençoado\nB) Santo\nC) Glorioso\nD) Feliz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #desafio",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #gospel #fe",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #gospel #conhecimentobiblico",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nQual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?\n\nA) Abençoado\nB) Santo\nC) Glorioso\nD) Feliz\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra descreve o que se afirma sobre quem tem o Deus de Jacó? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nQual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?\n\nA) Abençoado\nB) Santo\nC) Glorioso\nD) Feliz\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-3-truefalse",
+   "date": "2026-10-30",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-30T09:58",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-30T08:22:50+00:00",
+   "source": "bank",
+   "bank_id": "q947",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 4:21",
+    "ref_label": "Gênesis 4:21",
+    "question": "Jubal foi o pai de todos os que fazem o quê?",
+    "shown": "Tocam harpa e flauta",
+    "is_true": true,
+    "correct": "Tocam harpa e flauta",
+    "evidence": "todos os que tocam harpa e flauta",
+    "passage": "O nome do seu irmão era Jubal, que foi o pai de todos os que tocam harpa e flauta.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #biblia #evangelico #conhecimentobiblico #desafiobiblico #jesus #gospel #fe #palavradedeus #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #palavradedeus #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #fe #cristao",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Jubal foi o pai de todos os que fazem o quê? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-2-quiz",
+   "date": "2026-10-30",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-30T08:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-30T08:22:25+00:00",
+   "source": "bank",
+   "bank_id": "q639",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 30:25",
+    "ref_label": "Provérbios 30:25",
+    "question": "Segundo Provérbios, o que as formigas providenciam no verão?",
+    "options": [
+     "Os seus filhotes",
+     "A sua comida",
+     "O seu caminho",
+     "As suas casas"
+    ],
+    "answer": 1,
+    "evidence": "providenciam a sua comida no verão",
+    "passage": "As formigas não são um povo forte, contudo providenciam a sua comida no verão.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nSegundo Provérbios, o que as formigas providenciam no verão?\n\nA) Os seus filhotes\nB) A sua comida\nC) O seu caminho\nD) As suas casas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #palavradedeus #deus #gospel #teste #desafio #perguntasbiblicas #fe #conhecimentobiblico #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nSegundo Provérbios, o que as formigas providenciam no verão?\n\nA) Os seus filhotes\nB) A sua comida\nC) O seu caminho\nD) As suas casas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #cristao",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #biblia #deus",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nSegundo Provérbios, o que as formigas providenciam no verão?\n\nA) Os seus filhotes\nB) A sua comida\nC) O seu caminho\nD) As suas casas\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Segundo Provérbios, o que as formigas providenciam no verão? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nSegundo Provérbios, o que as formigas providenciam no verão?\n\nA) Os seus filhotes\nB) A sua comida\nC) O seu caminho\nD) As suas casas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-30-1-verse",
+   "date": "2026-10-30",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-30T06:25",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-30T08:21:54+00:00",
+   "source": "bank",
+   "bank_id": "v569",
+   "model": null,
+   "content": {
+    "ref": "Colossenses 1:13",
+    "ref_label": "Colossenses 1:13",
+    "verse_text": "Que nos libertou do poder das trevas e nos transportou para o Reino de seu Filho amado…",
+    "on_screen": "Deus tirou você das trevas e te levou ao seu Reino.",
+    "reflection": "Paulo celebra que Deus nos resgatou do domínio das trevas. Agora você pertence ao Reino do Filho amado. Viva hoje como alguém que foi trazido para a luz.",
+    "theme": "salvação",
+    "mood": "alegria",
+    "tags": [
+     "salvacao",
+     "reino"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre salvação: Colossenses 1:13\n“Que nos libertou do poder das trevas e nos transportou para o Reino de seu Filho amado…” (Colossenses 1:13)\n\nDeus nos tirou das trevas e nos trouxe para o Reino do Seu Filho amado. Cada passo que damos hoje pode refletir essa libertação. Viva a luz, compartilhe essa graça e lembre‑se: você já pertence ao Reino. Salve para lembrar essa verdade ao longo do dia.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #reino #versiculododia #versiculo #oracao #esperanca #palavradedeus #fe #cristao #devocional #evangelico",
+    "facebook": "Versículo sobre salvação: Colossenses 1:13\n“Que nos libertou do poder das trevas e nos transportou para o Reino de seu Filho amado…” (Colossenses 1:13)\n\nDeus nos tirou das trevas e nos trouxe para o Reino do Seu Filho amado. Cada passo que damos hoje pode refletir essa libertação. Viva a luz, compartilhe essa graça e lembre‑se: você já pertence ao Reino. Salve para lembrar essa verdade ao longo do dia.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #reino #versiculododia",
+    "tiktok": "Versículo sobre salvação\nLibertado das trevas, vivo na luz do Reino. Salve e compartilhe!\n#versiculosobresalvacao #salvacao #reino #versiculododia #versiculo",
+    "kwai": "Versículo sobre salvação\nLibertado das trevas, vivo na luz do Reino. Salve e compartilhe!\n#versiculosobresalvacao #salvacao #reino #versiculododia #versiculo",
+    "whatsapp": "“Que nos libertou do poder das trevas e nos transportou para o Reino de seu Filho amado…” (Colossenses 1:13)\n\nDeus nos tirou das trevas e nos trouxe para o Reino do Seu Filho amado. Cada passo que damos hoje pode refletir essa libertação. Viva a luz, compartilhe essa graça e lembre‑se: você já pertence ao Reino. Salve para lembrar essa verdade ao longo do dia.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre salvação: Colossenses 1:13 🙏 #shorts",
+     "description": "Versículo sobre salvação: Colossenses 1:13\n“Que nos libertou do poder das trevas e nos transportou para o Reino de seu Filho amado…” (Colossenses 1:13)\n\nDeus nos tirou das trevas e nos trouxe para o Reino do Seu Filho amado. Cada passo que damos hoje pode refletir essa libertação. Viva a luz, compartilhe essa graça e lembre‑se: você já pertence ao Reino. Salve para lembrar essa verdade ao longo do dia.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobresalvacao #salvacao #reino",
+     "tags": [
+      "versículo sobre salvação",
+      "versículos sobre salvação",
+      "salvação",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salvacao",
+      "reino",
+      "colossenses"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 18.54,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-30/2026-10-30-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
