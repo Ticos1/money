@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-30T21:30:06+00:00",
+ "updated_at": "2026-10-30T23:00:29+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-9-quiz",
+   "date": "2026-10-30",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-30T19:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-30T22:55:26+00:00",
+    "instagram": "2026-10-30T22:56:18+00:00",
+    "facebook": "2026-10-30T22:56:22+00:00",
+    "stories": "2026-10-30T22:57:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/k0OBpYJsOgU",
+    "instagram": "https://www.instagram.com/reel/DfItFIjlFW2/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1104121139268943",
+    "stories": "story 17986990511891812"
+   },
+   "title": "Qual objeto Davi menciona como seu escudo em Salmos 7?"
+  },
   {
    "id": "2026-10-30-8-fill",
    "date": "2026-10-30",
