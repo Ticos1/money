@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-10-30T20:19:56+00:00",
+ "updated_at": "2026-10-30T21:30:03+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-8-fill": {
+   "type": "fill",
+   "date": "2026-10-30",
+   "time": "18:30",
+   "title": "Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-30-7-quiz": {
    "type": "quiz",
    "date": "2026-10-30",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1098326242978642"
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 4,
+    "comments": 1,
+    "views": 332,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 513.5
    }
   },
   "2026-10-30-6-truefalse": {
@@ -38,7 +53,7 @@
     "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 6,
     "total_interactions": 0,
     "avg_watch_s": 3.4,
     "watch_time_s": 10.2
@@ -46,12 +61,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 309,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 1367.8
+    "views": 363,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 1520.2
    },
    "youtube": {
-    "views": 0,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 231,
+    "views": 237,
     "avg_watch_s": 3.8,
-    "watch_time_s": 784.3
+    "watch_time_s": 796.2
    }
   },
   "2026-10-30-4-quiz": {
@@ -87,24 +102,24 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 32,
+    "reach": 47,
     "saved": 0,
     "shares": 0,
-    "views": 45,
+    "views": 68,
     "total_interactions": 1,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 146.3
+    "avg_watch_s": 4.1,
+    "watch_time_s": 194.7
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 257,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 1129.3
+    "views": 261,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1131.2
    },
    "youtube": {
-    "views": 3,
-    "likes": 0,
+    "views": 29,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 522,
+    "views": 523,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1947.9
+    "watch_time_s": 1948.1
    }
   },
   "2026-10-30-2-quiz": {
@@ -143,7 +158,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 15,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -203,7 +218,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 41,
+    "views": 42,
     "likes": 2,
     "comments": 0
    }
@@ -219,7 +234,7 @@
    },
    "youtube": {
     "views": 30,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -235,9 +250,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1526,
+    "views": 1531,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6663.6
+    "watch_time_s": 6705.3
    }
   },
   "2026-10-29-6-truefalse": {
@@ -265,12 +280,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1439,
+    "views": 1442,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6068.6
+    "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 120,
+    "views": 129,
     "likes": 2,
     "comments": 0
    }
@@ -322,7 +337,7 @@
     "watch_time_s": 6067.2
    },
    "youtube": {
-    "views": 169,
+    "views": 171,
     "likes": 5,
     "comments": 0
    }
@@ -1393,7 +1408,7 @@
     "comments": 0,
     "views": 264,
     "avg_watch_s": 4.2,
-    "watch_time_s": 961.1
+    "watch_time_s": 964.1
    }
   },
   "2026-10-24-4-quiz": {
