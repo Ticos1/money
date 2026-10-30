@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-30T09:04:15+00:00",
+ "updated_at": "2026-10-30T09:28:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-1-verse": {
+   "type": "verse",
+   "date": "2026-10-30",
+   "time": "06:30",
+   "title": "Colossenses 1:13",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-29-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-29",
@@ -66,7 +74,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 23,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1425,
+    "views": 1428,
     "avg_watch_s": 5.8,
-    "watch_time_s": 6143.4
+    "watch_time_s": 6155.1
    }
   },
   "2026-10-29-6-truefalse": {
@@ -105,7 +113,7 @@
     "reach": 72,
     "saved": 0,
     "shares": 0,
-    "views": 87,
+    "views": 88,
     "total_interactions": 1,
     "avg_watch_s": 3.7,
     "watch_time_s": 270.9
@@ -113,9 +121,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1406,
+    "views": 1409,
     "avg_watch_s": 5.9,
-    "watch_time_s": 5958.1
+    "watch_time_s": 5959.1
    },
    "youtube": {
     "views": 103,
