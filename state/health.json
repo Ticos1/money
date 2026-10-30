@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-30T00:28:59+00:00",
- "date": "2026-10-29",
+ "updated_at": "2026-10-30T09:04:18+00:00",
+ "date": "2026-10-30",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 6,
+  "used": 4,
   "max": 20,
   "enabled": true
  },
@@ -16,287 +16,40 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 574,
-   "days_left": 574,
+   "fresh": 572,
+   "days_left": 572,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 451,
-   "days_left": 451,
+   "fresh": 449,
+   "days_left": 449,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 1039,
-   "days_left": 148,
+   "fresh": 1033,
+   "days_left": 147,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1066,
-   "days_left": 152,
+   "fresh": 1061,
+   "days_left": 151,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 241,
-   "days_left": 241,
+   "fresh": 240,
+   "days_left": 240,
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-29-10-truefalse",
-   "date": "2026-10-29",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-29T21:21",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-30T00:25:32+00:00",
-    "stories": "2026-10-30T00:26:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1479558740738766",
-    "stories": "story 18127161385926680"
-   },
-   "title": "O que desabou sobre os governantes quando Sansão se curvou com toda a sua força?"
-  },
-  {
-   "id": "2026-10-29-9-quiz",
-   "date": "2026-10-29",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-29T19:59",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-29T23:00:28+00:00",
-    "instagram": "2026-10-29T23:01:58+00:00",
-    "facebook": "2026-10-29T23:02:04+00:00",
-    "stories": "2026-10-29T23:03:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/h5MSy6VtxHA",
-    "instagram": "https://www.instagram.com/reel/DfGI66tiZ4e/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1133960289010148",
-    "stories": "story 18103328711047328"
-   },
-   "title": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?"
-  },
-  {
-   "id": "2026-10-29-8-fill",
-   "date": "2026-10-29",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-29T18:26",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-29T21:30:34+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-29T21:31:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/vhMKE2C2yT0",
-    "stories": "story 18143662930719758"
-   },
-   "title": "Ó SENHOR, tu és o meu Deus. Eu te exaltarei! Louvarei o teu nome, pois fizeste coisas maravilhosas, coisas planejadas há muito tempo, em completa fidelidade e _____."
-  },
-  {
-   "id": "2026-10-29-7-quiz",
-   "date": "2026-10-29",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-29T17:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-29T20:10:31+00:00",
-    "stories": "2026-10-29T20:11:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1454166100138391",
-    "stories": "story 18000872720817637"
-   },
-   "title": "Com que animal Provérbios compara o tolo que repete a sua estultícia?"
-  },
-  {
-   "id": "2026-10-29-6-truefalse",
-   "date": "2026-10-29",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-29T14:59",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-29T18:00:28+00:00",
-    "instagram": "2026-10-29T18:01:14+00:00",
-    "facebook": "2026-10-29T18:01:21+00:00",
-    "stories": "2026-10-29T18:01:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/eqfUo6VdWvU",
-    "instagram": "https://www.instagram.com/reel/DfFmhDHjZ48/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2757448498007146",
-    "stories": "story 18113403461146024"
-   },
-   "title": "O que o bom samaritano derramou nas feridas do homem?"
-  },
-  {
-   "id": "2026-10-29-5-curiosity",
-   "date": "2026-10-29",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-29T13:28",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-29T16:30:37+00:00",
-    "stories": "2026-10-29T16:31:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1545049450760729",
-    "stories": "story 18121123156972311"
-   },
-   "title": "Suor como gotas de sangue"
-  },
-  {
-   "id": "2026-10-29-4-quiz",
-   "date": "2026-10-29",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-29T11:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-29T14:55:43+00:00",
-    "instagram": "2026-10-29T14:56:19+00:00",
-    "facebook": "2026-10-29T14:56:23+00:00",
-    "stories": "2026-10-29T14:56:56+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/zeoUFwjHAKk",
-    "instagram": "https://www.instagram.com/reel/DfFRWvZkuX3/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1130757189349301",
-    "stories": "story 18115018742147442"
-   },
-   "title": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?"
-  },
-  {
-   "id": "2026-10-29-3-truefalse",
-   "date": "2026-10-29",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-29T10:06",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-29T13:10:33+00:00",
-    "stories": "2026-10-29T13:11:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4504912413160511",
-    "stories": "story 18127870172300038"
-   },
-   "title": "Complete o versículo mais curto da Bíblia: “Jesus ___.”"
-  },
-  {
-   "id": "2026-10-29-2-quiz",
-   "date": "2026-10-29",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-29T07:57",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-29T11:00:32+00:00",
-    "instagram": null,
-    "facebook": "2026-10-29T11:00:37+00:00",
-    "stories": "2026-10-29T11:01:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/iIEVyAmROyc",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2316611505934031",
-    "stories": "story 18110244578235132"
-   },
-   "title": "Qual expressão aparece no versículo 13 de Naum 2?"
-  },
-  {
-   "id": "2026-10-29-1-verse",
-   "date": "2026-10-29",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-29T06:40",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-29T09:41:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18134752186754946"
-   },
-   "title": "Salmos 119:11"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
