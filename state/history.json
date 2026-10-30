@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-10-30-3-truefalse",
+   "date": "2026-10-30",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-30T09:58",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-30T08:22:50+00:00",
+   "source": "bank",
+   "bank_id": "q947",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 4:21",
+    "ref_label": "Gênesis 4:21",
+    "question": "Jubal foi o pai de todos os que fazem o quê?",
+    "shown": "Tocam harpa e flauta",
+    "is_true": true,
+    "correct": "Tocam harpa e flauta",
+    "evidence": "todos os que tocam harpa e flauta",
+    "passage": "O nome do seu irmão era Jubal, que foi o pai de todos os que tocam harpa e flauta.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #biblia #evangelico #conhecimentobiblico #desafiobiblico #jesus #gospel #fe #palavradedeus #cristao",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #palavradedeus #desafiobiblico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #fe #cristao",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Jubal foi o pai de todos os que fazem o quê? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nJubal foi o pai de todos os que fazem o quê?\nResposta: Tocam harpa e flauta\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-30T13:00:34+00:00",
+    "stories": "2026-10-30T13:01:08+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1167043049082862",
+    "stories": "story 17876950173587540"
+   }
+  },
+  {
    "id": "2026-10-30-2-quiz",
    "date": "2026-10-30",
    "slot": 2,
