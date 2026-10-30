@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T23:07:30+00:00",
+ "updated_at": "2026-10-30T00:28:59+00:00",
  "date": "2026-10-29",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-29-10-truefalse",
+   "date": "2026-10-29",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-29T21:21",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-30T00:25:32+00:00",
+    "stories": "2026-10-30T00:26:07+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1479558740738766",
+    "stories": "story 18127161385926680"
+   },
+   "title": "O que desabou sobre os governantes quando Sansão se curvou com toda a sua força?"
+  },
   {
    "id": "2026-10-29-9-quiz",
    "date": "2026-10-29",
