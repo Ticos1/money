@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-29T23:07:28+00:00",
+ "updated_at": "2026-10-30T00:28:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-29-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-29",
+   "time": "21:30",
+   "title": "O que desabou sobre os governantes quando Sansão se curvou com toda a sua força?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1479558740738766"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-29-9-quiz": {
    "type": "quiz",
    "date": "2026-10-29",
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1454166100138391"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 429,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1571.9
+    "views": 1006,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 3530.2
    }
   },
   "2026-10-29-6-truefalse": {
@@ -85,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 45,
+    "reach": 47,
     "saved": 0,
     "shares": 0,
-    "views": 53,
+    "views": 55,
     "total_interactions": 0,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 136.6
+    "avg_watch_s": 3.1,
+    "watch_time_s": 143.4
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 876,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 2994.2
+    "views": 1343,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 5536.8
    },
    "youtube": {
-    "views": 12,
+    "views": 46,
     "likes": 1,
     "comments": 0
    }
@@ -137,24 +154,24 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 69,
+    "reach": 77,
     "saved": 0,
     "shares": 0,
-    "views": 84,
+    "views": 102,
     "total_interactions": 2,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 297.4
+    "avg_watch_s": 4.8,
+    "watch_time_s": 377.0
    },
    "facebook": {
-    "likes": 11,
+    "likes": 12,
     "comments": 1,
-    "views": 1213,
+    "views": 1225,
     "avg_watch_s": 6.2,
-    "watch_time_s": 5737.4
+    "watch_time_s": 5827.1
    },
    "youtube": {
-    "views": 34,
-    "likes": 2,
+    "views": 96,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -170,9 +187,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 271,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1113.7
+    "views": 275,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1124.2
    }
   },
   "2026-10-29-2-quiz": {
@@ -193,7 +210,7 @@
     "watch_time_s": 2183.2
    },
    "youtube": {
-    "views": 12,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -253,7 +270,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 45,
+    "views": 58,
     "likes": 3,
     "comments": 0
    }
@@ -268,7 +285,7 @@
     "youtube": "https://youtube.com/shorts/Uc_s8Ow-RrM"
    },
    "youtube": {
-    "views": 75,
+    "views": 76,
     "likes": 4,
     "comments": 0
    }
@@ -285,9 +302,9 @@
    "facebook": {
     "likes": 9,
     "comments": 1,
-    "views": 1412,
+    "views": 1413,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6233.0
+    "watch_time_s": 6233.3
    }
   },
   "2026-10-28-6-truefalse": {
@@ -320,7 +337,7 @@
     "watch_time_s": 4521.3
    },
    "youtube": {
-    "views": 88,
+    "views": 100,
     "likes": 2,
     "comments": 0
    }
@@ -412,7 +429,7 @@
     "watch_time_s": 911.9
    },
    "youtube": {
-    "views": 65,
+    "views": 68,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 50,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -977,7 +994,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 200,
+    "views": 201,
     "likes": 2,
     "comments": 0
    }
