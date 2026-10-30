@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-30T16:30:29+00:00",
+ "updated_at": "2026-10-30T17:59:29+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-6-truefalse",
+   "date": "2026-10-30",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-30T14:51",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-30T17:55:33+00:00",
+    "instagram": "2026-10-30T17:56:34+00:00",
+    "facebook": "2026-10-30T17:56:39+00:00",
+    "stories": "2026-10-30T17:57:11+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/xhw80IDOn7A",
+    "instagram": "https://www.instagram.com/reel/DfIKxIOH5Di/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1812790576419834",
+    "stories": "story 18109598294615824"
+   },
+   "title": "Quais dois homens entrariam na terra, segundo o juramento de Deus?"
+  },
   {
    "id": "2026-10-30-5-curiosity",
    "date": "2026-10-30",
