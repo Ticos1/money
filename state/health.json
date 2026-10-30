@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T11:09:38+00:00",
+ "updated_at": "2026-10-30T13:07:03+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-3-truefalse",
+   "date": "2026-10-30",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-30T09:58",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-30T13:00:34+00:00",
+    "stories": "2026-10-30T13:01:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1167043049082862",
+    "stories": "story 17876950173587540"
+   },
+   "title": "Jubal foi o pai de todos os que fazem o quê?"
+  },
   {
    "id": "2026-10-30-2-quiz",
    "date": "2026-10-30",
