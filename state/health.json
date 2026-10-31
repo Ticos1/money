@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T15:08:40+00:00",
+ "updated_at": "2026-10-31T16:40:10+00:00",
  "date": "2026-10-31",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-31-5-curiosity",
+   "date": "2026-10-31",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-31T13:31",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-31T16:35:30+00:00",
+    "stories": "2026-10-31T16:36:46+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1062742920084726",
+    "stories": "story 18205315762330941"
+   },
+   "title": "Uma frase que aparece várias vezes"
   },
   {
    "id": "2026-10-31-4-quiz",
