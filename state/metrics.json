@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-30T23:00:27+00:00",
+ "updated_at": "2026-10-31T00:43:18+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-30-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-30",
+   "time": "21:30",
+   "title": "O homem não vive apenas de pão, mas de quê?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2370977807076414"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-30-9-quiz": {
    "type": "quiz",
    "date": "2026-10-30",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 16,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 6.0,
+    "watch_time_s": 30.1
    },
    "facebook": {
     "likes": 0,
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1098326242978642"
    },
    "facebook": {
-    "likes": 8,
+    "likes": 10,
     "comments": 2,
-    "views": 1424,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 6549.2
+    "views": 1935,
+    "avg_watch_s": 7.3,
+    "watch_time_s": 9939.3
    }
   },
   "2026-10-30-6-truefalse": {
@@ -85,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 36,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 42.9
+    "avg_watch_s": 4.5,
+    "watch_time_s": 118.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 390,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 1656.3
+    "views": 454,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1865.0
    },
    "youtube": {
-    "views": 36,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 238,
+    "views": 240,
     "avg_watch_s": 3.8,
-    "watch_time_s": 801.3
+    "watch_time_s": 815.7
    }
   },
   "2026-10-30-4-quiz": {
@@ -137,24 +154,24 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 57,
+    "reach": 62,
     "saved": 0,
     "shares": 0,
-    "views": 74,
+    "views": 86,
     "total_interactions": 1,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 266.3
+    "avg_watch_s": 4.4,
+    "watch_time_s": 277.6
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
+    "views": 262,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1139.3
+    "watch_time_s": 1140.2
    },
    "youtube": {
-    "views": 32,
-    "likes": 1,
+    "views": 35,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -170,9 +187,9 @@
    "facebook": {
     "likes": 0,
     "comments": 1,
-    "views": 523,
+    "views": 524,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1948.1
+    "watch_time_s": 1949.6
    }
   },
   "2026-10-30-2-quiz": {
@@ -193,7 +210,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 24,
+    "views": 25,
     "likes": 0,
     "comments": 0
    }
@@ -253,7 +270,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 49,
+    "views": 52,
     "likes": 3,
     "comments": 0
    }
@@ -320,7 +337,7 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 140,
+    "views": 148,
     "likes": 2,
     "comments": 0
    }
@@ -372,7 +389,7 @@
     "watch_time_s": 6067.2
    },
    "youtube": {
-    "views": 178,
+    "views": 175,
     "likes": 5,
     "comments": 0
    }
@@ -437,9 +454,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 1.9,
-    "watch_time_s": 1.9
+    "views": 3,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 11.4
    }
   },
   "2026-10-28-9-quiz": {
@@ -1690,9 +1707,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1457,
+    "views": 1458,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5908.4
+    "watch_time_s": 5917.2
    },
    "youtube": {
     "views": 41,
