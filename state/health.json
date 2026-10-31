@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T23:00:29+00:00",
+ "updated_at": "2026-10-31T00:43:20+00:00",
  "date": "2026-10-30",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-10-30-10-truefalse",
+   "date": "2026-10-30",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-30T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-31T00:40:31+00:00",
+    "stories": "2026-10-31T00:41:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2370977807076414",
+    "stories": "story 18105555398639740"
+   },
+   "title": "O homem não vive apenas de pão, mas de quê?"
+  },
   {
    "id": "2026-10-30-9-quiz",
    "date": "2026-10-30",
