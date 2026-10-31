@@ -255,6 +255,100 @@
    }
   },
   {
+   "id": "2026-10-31-7-quiz",
+   "date": "2026-10-31",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-31T16:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:58+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Jeremias 41:9",
+    "ref_label": "Jeremias 41:9",
+    "question": "Qual objeto Ismael encheu com os mortos de Gedalias?",
+    "options": [
+     "Cisterna",
+     "Altar",
+     "Arca",
+     "Pote"
+    ],
+    "answer": 0,
+    "evidence": "Cisterna",
+    "passage": "Ora, a cisterna na qual Ismael lançou todos os cadáveres dos homens que ele havia matado, ao lado de Gedalias (esta era a que o rei Asa havia feito por medo de Baasa, rei de Israel), Ismael, filho de Netanias, a encheu com os que foram mortos.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #gospel #perguntasbiblicas #cristao #teste #conhecimentobiblico #evangelico #desafio #deus #palavradedeus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #palavradedeus #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #teste #gospel",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual objeto Ismael encheu com os mortos de Gedalias? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-31T19:55:31+00:00",
+    "stories": "2026-10-31T19:56:14+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1868631930932602",
+    "stories": "story 17954648745272441"
+   }
+  },
+  {
    "id": "2026-10-31-6-truefalse",
    "date": "2026-10-31",
    "slot": 6,
