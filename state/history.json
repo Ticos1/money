@@ -255,6 +255,102 @@
    }
   },
   {
+   "id": "2026-10-31-9-quiz",
+   "date": "2026-10-31",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-31T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:24:56+00:00",
+   "source": "bank",
+   "bank_id": "q237",
+   "model": null,
+   "content": {
+    "ref": "Atos 12:12",
+    "ref_label": "Atos 12:12",
+    "question": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão?",
+    "options": [
+     "Lídia",
+     "Maria, mãe de João Marcos",
+     "Marta",
+     "Priscila"
+    ],
+    "answer": 1,
+    "evidence": "à casa de Maria, mãe de João, chamado Marcos",
+    "passage": "Pensando nisso, ele foi à casa de Maria, mãe de João, chamado Marcos, onde muitos estavam reunidos e oravam.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste #deus #jesus #gospel #desafio #cristao #perguntasbiblicas #evangelico #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #gospel",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #teste",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #perguntasbiblicas",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-31T23:06:23+00:00",
+    "facebook": "2026-10-31T23:06:28+00:00",
+    "stories": "2026-10-31T23:07:18+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DfLTC9Mjcq9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1796024578312851",
+    "stories": "story 17919421194461152"
+   }
+  },
+  {
    "id": "2026-10-31-8-fill",
    "date": "2026-10-31",
    "slot": 8,
