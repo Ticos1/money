@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T16:40:08+00:00",
+ "updated_at": "2026-10-31T18:15:45+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,41 @@
     "comments": 0
    }
   },
+  "2026-10-31-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-31",
+   "time": "15:00",
+   "title": "Que idade tinha Eli quando recebeu a notícia da perda da arca?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/hMsqwzW_19A",
+    "instagram": "https://www.instagram.com/reel/DfKxPZflJ0l/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1532598332010218"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-31-5-curiosity": {
    "type": "curiosity",
    "date": "2026-10-31",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1062742920084726"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 60,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 279.8
    }
   },
   "2026-10-31-4-quiz": {
@@ -50,20 +85,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.0,
+    "watch_time_s": 2.0
    },
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 198,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 500.8
+    "views": 249,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 972.4
    },
    "youtube": {
     "views": 0,
@@ -99,11 +134,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1156759453700785"
    },
    "facebook": {
-    "likes": 5,
+    "likes": 7,
     "comments": 2,
-    "views": 610,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1867.5
+    "views": 1193,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 4189.5
    },
    "youtube": {
     "views": 19,
@@ -198,7 +233,7 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2064,
+    "views": 2065,
     "avg_watch_s": 7.2,
     "watch_time_s": 10619.7
    }
@@ -228,9 +263,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 807,
+    "views": 810,
     "avg_watch_s": 5.9,
-    "watch_time_s": 3400.1
+    "watch_time_s": 3401.6
    },
    "youtube": {
     "views": 99,
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 241,
+    "views": 242,
     "avg_watch_s": 3.8,
-    "watch_time_s": 816.4
+    "watch_time_s": 827.6
    }
   },
   "2026-10-30-4-quiz": {
@@ -4974,7 +5009,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1066,
+    "views": 1067,
     "avg_watch_s": 2.4,
     "watch_time_s": 2423.5
    },
