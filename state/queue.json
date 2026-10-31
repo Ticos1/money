@@ -1,3 +1,1278 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-10-31-11-compilation",
+   "date": "2026-10-31",
+   "slot": 11,
+   "time": "12:00",
+   "publish_at": "2026-10-31T11:59",
+   "type": "compilation",
+   "status": "approved",
+   "created_at": "2026-10-31T08:32:30+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 39,
+    "duration": 598,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Qual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?",
+      "ref_label": "Salmos 107:9"
+     },
+     {
+      "n": 2,
+      "question": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?",
+      "ref_label": "Josué 15:16"
+     },
+     {
+      "n": 3,
+      "question": "Provérbios manda livrar-se como a gazela do caçador e como a ave de quê?",
+      "ref_label": "Provérbios 6:5"
+     },
+     {
+      "n": 4,
+      "question": "De que cidade Joabe trouxe uma mulher sábia para falar ao rei Davi?",
+      "ref_label": "2 Samuel 14:2"
+     },
+     {
+      "n": 5,
+      "question": "Elias disse a Acabe que não haveria o quê, senão segundo a sua palavra?",
+      "ref_label": "1 Reis 17:1"
+     },
+     {
+      "n": 6,
+      "question": "Qual era o nome da esposa judia do governador Félix?",
+      "ref_label": "Atos 24:24"
+     },
+     {
+      "n": 7,
+      "question": "Por quantos dias Daniel pediu que ele e seus amigos fossem testados?",
+      "ref_label": "Daniel 1:12"
+     },
+     {
+      "n": 8,
+      "question": "Segundo Gênesis 3:20, Eva seria a mãe de quem?",
+      "ref_label": "Gênesis 3:20"
+     },
+     {
+      "n": 9,
+      "question": "Qual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?",
+      "ref_label": "Salmos 146:5"
+     },
+     {
+      "n": 10,
+      "question": "O que dizia a acusação escrita sobre a cabeça de Jesus?",
+      "ref_label": "Mateus 27:37"
+     },
+     {
+      "n": 11,
+      "question": "O que os soldados teceram e puseram na cabeça de Jesus?",
+      "ref_label": "João 19:2"
+     },
+     {
+      "n": 12,
+      "question": "Qual objeto Davi menciona como seu escudo em Salmos 7?",
+      "ref_label": "Salmos 7:10"
+     },
+     {
+      "n": 13,
+      "question": "Como era chamado o apóstolo Simão?",
+      "ref_label": "Lucas 6:15"
+     },
+     {
+      "n": 14,
+      "question": "Em qual região o homem liberto da legião começou a proclamar o que Jesus fizera por ele?",
+      "ref_label": "Marcos 5:20"
+     },
+     {
+      "n": 15,
+      "question": "Qual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?",
+      "ref_label": "Salmos 61:2"
+     },
+     {
+      "n": 16,
+      "question": "Qual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?",
+      "ref_label": "Salmos 67:2"
+     },
+     {
+      "n": 17,
+      "question": "Qual discípulo desceu do barco e andou sobre as águas?",
+      "ref_label": "Mateus 14:29"
+     },
+     {
+      "n": 18,
+      "question": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?",
+      "ref_label": "Salmos 90:4"
+     },
+     {
+      "n": 19,
+      "question": "O que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?",
+      "ref_label": "Isaías 38:21"
+     },
+     {
+      "n": 20,
+      "question": "Em qual vigília da noite Jesus foi até os discípulos, andando sobre o mar?",
+      "ref_label": "Mateus 14:25"
+     },
+     {
+      "n": 21,
+      "question": "Elanã, o belemita, matou o irmão de qual guerreiro filisteu?",
+      "ref_label": "2 Samuel 21:19"
+     },
+     {
+      "n": 22,
+      "question": "Qual expressão aparece no versículo 13 de Naum 2?",
+      "ref_label": "Naum 2:13"
+     },
+     {
+      "n": 23,
+      "question": "Qual expressão aparece em Salmos 81:16?",
+      "ref_label": "Salmos 81:16"
+     },
+     {
+      "n": 24,
+      "question": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?",
+      "ref_label": "Jeremias 11:11"
+     },
+     {
+      "n": 25,
+      "question": "Com quantos anos José morreu?",
+      "ref_label": "Gênesis 50:26"
+     },
+     {
+      "n": 26,
+      "question": "Cerca de quantos porcos se precipitaram no mar em Gadara?",
+      "ref_label": "Marcos 5:13"
+     },
+     {
+      "n": 27,
+      "question": "Qual expressão Davi usa para descrever onde ama estar?",
+      "ref_label": "Salmos 26:8"
+     },
+     {
+      "n": 28,
+      "question": "Quem foi lançado na cova dos leões?",
+      "ref_label": "Daniel 6:16"
+     },
+     {
+      "n": 29,
+      "question": "Segundo Provérbios, o que as formigas providenciam no verão?",
+      "ref_label": "Provérbios 30:25"
+     },
+     {
+      "n": 30,
+      "question": "Qual filho de Saul tinha a alma unida à alma de Davi?",
+      "ref_label": "1 Samuel 18:1"
+     },
+     {
+      "n": 31,
+      "question": "No sinédrio, Paulo disse que era o quê, filho de fariseus?",
+      "ref_label": "Atos 23:6"
+     },
+     {
+      "n": 32,
+      "question": "Quem começou a ser poderoso na terra, segundo 1 Crônicas 1?",
+      "ref_label": "1 Crônicas 1:10"
+     },
+     {
+      "n": 33,
+      "question": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?",
+      "ref_label": "Deuteronômio 20:14"
+     },
+     {
+      "n": 34,
+      "question": "Qual assistente pessoal do rei Herodes apoiou o povo de Tiro e de Sidom?",
+      "ref_label": "Atos 12:20"
+     },
+     {
+      "n": 35,
+      "question": "Com que animal Provérbios compara o tolo que repete a sua estultícia?",
+      "ref_label": "Provérbios 26:11"
+     },
+     {
+      "n": 36,
+      "question": "'Eu sou a rosa de...', diz a amada em Cânticos.",
+      "ref_label": "Cânticos 2:1"
+     },
+     {
+      "n": 37,
+      "question": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?",
+      "ref_label": "Lucas 8:43"
+     },
+     {
+      "n": 38,
+      "question": "Segundo Isaías, o que o povo que andava nas trevas viu?",
+      "ref_label": "Isaías 9:2"
+     },
+     {
+      "n": 39,
+      "question": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?",
+      "ref_label": "Ester 9:26"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 39 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:35 Pergunta 3\n0:52 Pergunta 4\n1:07 Pergunta 5\n1:23 Pergunta 6\n1:37 Pergunta 7\n1:52 Pergunta 8\n2:08 Pergunta 9\n2:23 Pergunta 10\n2:40 Pergunta 11\n2:55 Pergunta 12\n3:09 Pergunta 13\n3:23 Pergunta 14\n3:39 Pergunta 15\n3:53 Pergunta 16\n4:08 Pergunta 17\n4:22 Pergunta 18\n4:37 Pergunta 19\n4:54 Pergunta 20\n5:10 Pergunta 21\n5:24 Pergunta 22\n5:39 Pergunta 23\n5:54 Pergunta 24\n6:08 Pergunta 25\n6:22 Pergunta 26\n6:36 Pergunta 27\n6:52 Pergunta 28\n7:05 Pergunta 29\n7:21 Pergunta 30\n7:35 Pergunta 31\n7:50 Pergunta 32\n8:04 Pergunta 33\n8:19 Pergunta 34\n8:34 Pergunta 35\n8:49 Pergunta 36\n9:03 Pergunta 37\n9:18 Pergunta 38\n9:34 Pergunta 39\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "media": {
+    "base": "media/2026-10-31/2026-10-31-11-compilation/",
+    "version": 1,
+    "video_music": "video_longo.mp4",
+    "poster": "miniatura.jpg",
+    "thumbnail": "miniatura.jpg",
+    "images": [],
+    "duration": 597.9,
+    "long": true
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-10-truefalse",
+   "date": "2026-10-31",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-31T21:39",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-31T08:25:21+00:00",
+   "source": "bank",
+   "bank_id": "q561",
+   "model": null,
+   "content": {
+    "ref": "Atos 12:23",
+    "ref_label": "Atos 12:23",
+    "question": "Como morreu o rei Herodes, por não ter dado glória a Deus?",
+    "shown": "Comido por vermes",
+    "is_true": true,
+    "correct": "Comido por vermes",
+    "evidence": "foi comido por vermes e morreu",
+    "passage": "Imediatamente um anjo do Senhor o feriu, porque ele não deu glória a Deus. Então ele foi comido por vermes e morreu.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComo morreu o rei Herodes, por não ter dado glória a Deus?\nResposta: Comido por vermes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #cristao #jesus #biblia #deus #gospel #palavradedeus #fe #conhecimentobiblico #desafiobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComo morreu o rei Herodes, por não ter dado glória a Deus?\nResposta: Comido por vermes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #jesus #gospel",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #biblia #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nComo morreu o rei Herodes, por não ter dado glória a Deus?\nResposta: Comido por vermes\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nComo morreu o rei Herodes, por não ter dado glória a Deus?\nResposta: Comido por vermes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-9-quiz",
+   "date": "2026-10-31",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-31T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:24:56+00:00",
+   "source": "bank",
+   "bank_id": "q237",
+   "model": null,
+   "content": {
+    "ref": "Atos 12:12",
+    "ref_label": "Atos 12:12",
+    "question": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão?",
+    "options": [
+     "Lídia",
+     "Maria, mãe de João Marcos",
+     "Marta",
+     "Priscila"
+    ],
+    "answer": 1,
+    "evidence": "à casa de Maria, mãe de João, chamado Marcos",
+    "passage": "Pensando nisso, ele foi à casa de Maria, mãe de João, chamado Marcos, onde muitos estavam reunidos e oravam.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste #deus #jesus #gospel #desafio #cristao #perguntasbiblicas #evangelico #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #gospel",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #teste",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #perguntasbiblicas",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nNa casa de quem a igreja orava quando Pedro foi libertado da prisão?\n\nA) Lídia\nB) Maria, mãe de João Marcos\nC) Marta\nD) Priscila\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-8-fill",
+   "date": "2026-10-31",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-31T18:31",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-10-31T08:24:25+00:00",
+   "source": "bank",
+   "bank_id": "v363",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 17:22",
+    "ref_label": "Provérbios 17:22",
+    "verse_text": "O coração alegre é um bom remédio, mas o espírito abatido seca os ossos.",
+    "question": "O coração alegre é um bom remédio, mas o _____ abatido seca os ossos.",
+    "options": [
+     "louvor",
+     "medo",
+     "auxílio",
+     "espírito"
+    ],
+    "answer": 3,
+    "answer_word": "espírito",
+    "tags": [
+     "alegria",
+     "saude"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Provérbios 17:22\nVocê sabe esse versículo de cor? 📖\n\n“O coração alegre é um bom remédio, mas o _____ abatido seca os ossos.”\n\nA) louvor\nB) medo\nC) auxílio\nD) espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #saude #completeoversiculo #versiculo #fe #palavradedeus #desafiobiblico #cristao #evangelico #jesus #biblia",
+    "facebook": "Versículo de alegria: Provérbios 17:22\nVocê sabe esse versículo de cor? 📖\n\n“O coração alegre é um bom remédio, mas o _____ abatido seca os ossos.”\n\nA) louvor\nB) medo\nC) auxílio\nD) espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #saude #completeoversiculo",
+    "tiktok": "Versículo de alegria\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodealegria #alegria #saude #completeoversiculo #versiculo",
+    "kwai": "Versículo de alegria\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodealegria #alegria #saude #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“O coração alegre é um bom remédio, mas o _____ abatido seca os ossos.”\n\nA) louvor\nB) medo\nC) auxílio\nD) espírito\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de alegria: Provérbios 17:22 📖 #shorts",
+     "description": "Versículo de alegria: Provérbios 17:22\nVocê sabe esse versículo de cor? 📖\n\n“O coração alegre é um bom remédio, mas o _____ abatido seca os ossos.”\n\nA) louvor\nB) medo\nC) auxílio\nD) espírito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #saude",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "saude",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-7-quiz",
+   "date": "2026-10-31",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-10-31T16:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:58+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Jeremias 41:9",
+    "ref_label": "Jeremias 41:9",
+    "question": "Qual objeto Ismael encheu com os mortos de Gedalias?",
+    "options": [
+     "Cisterna",
+     "Altar",
+     "Arca",
+     "Pote"
+    ],
+    "answer": 0,
+    "evidence": "Cisterna",
+    "passage": "Ora, a cisterna na qual Ismael lançou todos os cadáveres dos homens que ele havia matado, ao lado de Gedalias (esta era a que o rei Asa havia feito por medo de Baasa, rei de Israel), Ismael, filho de Netanias, a encheu com os que foram mortos.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #gospel #perguntasbiblicas #cristao #teste #conhecimentobiblico #evangelico #desafio #deus #palavradedeus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #palavradedeus #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #teste #gospel",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual objeto Ismael encheu com os mortos de Gedalias? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual objeto Ismael encheu com os mortos de Gedalias?\n\nA) Cisterna\nB) Altar\nC) Arca\nD) Pote\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-6-truefalse",
+   "date": "2026-10-31",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-31T15:07",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:31+00:00",
+   "source": "bank",
+   "bank_id": "q996",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 4:15",
+    "ref_label": "1 Samuel 4:15",
+    "question": "Que idade tinha Eli quando recebeu a notícia da perda da arca?",
+    "shown": "Oitenta anos",
+    "is_true": false,
+    "correct": "Noventa e oito anos",
+    "evidence": "Eli estava com noventa e oito anos",
+    "passage": "Ora, Eli estava com noventa e oito anos de idade. Seus olhos estavam fixos, de modo que ele não podia ver.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #evangelico #jesus #palavradedeus #conhecimentobiblico #cristao #deus #fe #perguntasbiblicas #desafiobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #cristao #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #cristao #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.46,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-5-curiosity",
+   "date": "2026-10-31",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-31T13:31",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:06+00:00",
+   "source": "bank",
+   "bank_id": "c287",
+   "model": null,
+   "content": {
+    "ref": "Gálatas 3:11",
+    "ref_label": "Gálatas 3:11",
+    "title": "Uma frase que aparece várias vezes",
+    "text": "'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã.",
+    "evidence": "O justo viverá pela fé",
+    "passage": "Ora, é evidente que diante de Deus ninguém é justificado pela lei, pois, “O justo viverá pela fé.”",
+    "tags": [
+     "reforma",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #fe #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #jesus #evangelico #cristao #deus #gospel #historiabiblica",
+    "facebook": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #fe #vocesabia #curiosidadesbiblicas",
+    "tiktok": "31 de outubro: só a graça, só a fé. 📖\nA mesma frase está em quatro livros da Bíblia: “O justo viverá pela fé”. Compartilhe essa verdade! 🙏\n#reforma #fe #vocesabia #curiosidadesbiblicas #gospel",
+    "kwai": "31 de outubro: só a graça, só a fé. 📖\nA mesma frase está em quatro livros da Bíblia: “O justo viverá pela fé”. Compartilhe essa verdade! 🙏\n#reforma #fe #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Uma frase que aparece várias vezes #shorts",
+     "description": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reforma #fe #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "fe",
+      "gálatas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.48,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: data especial (Dia da Reforma), conteúdo temático"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-4-quiz",
+   "date": "2026-10-31",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-31T11:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:22:37+00:00",
+   "source": "bank",
+   "bank_id": "q1275",
+   "model": null,
+   "content": {
+    "ref": "Romanos 1:17",
+    "ref_label": "Romanos 1:17",
+    "question": "O justo viverá pelo quê, segundo Romanos 1:17?",
+    "options": [
+     "Pela fé",
+     "Pela lei",
+     "Pelos sacrifícios",
+     "Pelas riquezas"
+    ],
+    "answer": 0,
+    "evidence": "justo viverá pela fé",
+    "passage": "Porque nele se revela a justiça de Deus de fé em fé. Como está escrito: “Mas o justo viverá pela fé.”",
+    "difficulty": "facil",
+    "tags": [
+     "reforma"
+    ]
+   },
+   "captions": {
+    "instagram": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #evangelico #jesus #perguntasbiblicas #conhecimentobiblico #biblia #palavradedeus #deus #teste #cristao",
+    "facebook": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #gospel",
+    "tiktok": "31 de outubro: só a graça, só a fé. 📖\nSó 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #palavradedeus #deus",
+    "kwai": "31 de outubro: só a graça, só a fé. 📖\nSó 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #deus #cristao",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: O justo viverá pelo quê, segundo Romanos 1:17? #shorts",
+     "description": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reforma #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: data especial (Dia da Reforma), conteúdo temático"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-3-truefalse",
+   "date": "2026-10-31",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-10-31T10:02",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-31T08:22:09+00:00",
+   "source": "bank",
+   "bank_id": "q447",
+   "model": null,
+   "content": {
+    "ref": "Isaías 11:6",
+    "ref_label": "Isaías 11:6",
+    "question": "Com qual animal o lobo viverá, segundo Isaías 11:6?",
+    "shown": "O cordeiro",
+    "is_true": true,
+    "correct": "O cordeiro",
+    "evidence": "O lobo viverá com o cordeiro",
+    "passage": "O lobo viverá com o cordeiro, e o leopardo se deitará com o cabrito, o bezerro, o leão jovem e o novilho gordo estarão juntos; e uma criança pequena os guiará.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom qual animal o lobo viverá, segundo Isaías 11:6?\nResposta: O cordeiro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #jesus #gospel #cristao #biblia #evangelico #fe #desafiobiblico #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom qual animal o lobo viverá, segundo Isaías 11:6?\nResposta: O cordeiro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #palavradedeus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #evangelico #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nCom qual animal o lobo viverá, segundo Isaías 11:6?\nResposta: O cordeiro\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom qual animal o lobo viverá, segundo Isaías 11:6?\nResposta: O cordeiro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-2-quiz",
+   "date": "2026-10-31",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-10-31T08:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:21:45+00:00",
+   "source": "bank",
+   "bank_id": "q1274",
+   "model": null,
+   "content": {
+    "ref": "Efésios 2:8-9",
+    "ref_label": "Efésios 2:8-9",
+    "question": "Segundo Efésios 2:8, somos salvos pela graça, por meio de quê?",
+    "options": [
+     "Da fé",
+     "Do dinheiro",
+     "Do esforço",
+     "Da tradição"
+    ],
+    "answer": 0,
+    "evidence": "por meio da fé",
+    "passage": "pois pela graça vocês foram salvos por meio da fé, e isso não vem de vocês; é dom de Deus, não de obras, para que ninguém se glorie.",
+    "difficulty": "facil",
+    "tags": [
+     "reforma"
+    ]
+   },
+   "captions": {
+    "instagram": "31 de outubro: só a graça, só a fé. 📖\n\nVocê conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Efésios 2:8, somos salvos pela graça, por meio de quê?\n\nA) Da fé\nB) Do dinheiro\nC) Do esforço\nD) Da tradição\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #palavradedeus #cristao #jesus #fe #deus #gospel #evangelico #desafio #conhecimentobiblico",
+    "facebook": "31 de outubro: só a graça, só a fé. 📖\n\nVocê conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Efésios 2:8, somos salvos pela graça, por meio de quê?\n\nA) Da fé\nB) Do dinheiro\nC) Do esforço\nD) Da tradição\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #teste",
+    "tiktok": "31 de outubro: só a graça, só a fé. 📖\nVocê conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #perguntasbiblicas #cristao",
+    "kwai": "31 de outubro: só a graça, só a fé. 📖\nVocê conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #biblia #fe",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nVocê conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Efésios 2:8, somos salvos pela graça, por meio de quê?\n\nA) Da fé\nB) Do dinheiro\nC) Do esforço\nD) Da tradição\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Segundo Efésios 2:8, somos salvos pela graça, por meio de quê? #shorts",
+     "description": "31 de outubro: só a graça, só a fé. 📖\n\nVocê conhece mesmo a Bíblia? Prove! 🤔\n\nSegundo Efésios 2:8, somos salvos pela graça, por meio de quê?\n\nA) Da fé\nB) Do dinheiro\nC) Do esforço\nD) Da tradição\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reforma #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "efésios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: data especial (Dia da Reforma), conteúdo temático"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-10-31-1-verse",
+   "date": "2026-10-31",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-10-31T06:40",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-10-31T08:21:16+00:00",
+   "source": "bank",
+   "bank_id": "v629",
+   "model": null,
+   "content": {
+    "ref": "Romanos 3:28",
+    "ref_label": "Romanos 3:28",
+    "verse_text": "Sustentamos, portanto, que o homem é justificado pela fé, à parte das obras da lei.",
+    "on_screen": "O homem é justificado pela fé, à parte das obras da lei.",
+    "reflection": "Nenhuma boa obra paga a nossa dívida. É Cristo quem nos justifica. Isso traz paz e também gratidão para servir.",
+    "theme": "graça",
+    "mood": "reflexao",
+    "tags": [
+     "reforma",
+     "graca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre graça: Romanos 3:28\n31 de outubro: só a graça, só a fé. 📖\n\nSe você precisava de uma palavra, ela chegou 🙏\n\n“Sustentamos, portanto, que o homem é justificado pela fé, à parte das obras da lei.” (Romanos 3:28)\n\nNenhuma boa obra paga a nossa dívida. É Cristo quem nos justifica. Isso traz paz e também gratidão para servir.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobregraca #graca #reforma #fe #versiculododia #versiculo #oracao #biblia #gospel #devocional #jesus #reflexao",
+    "facebook": "Versículo sobre graça: Romanos 3:28\n31 de outubro: só a graça, só a fé. 📖\n\nSe você precisava de uma palavra, ela chegou 🙏\n\n“Sustentamos, portanto, que o homem é justificado pela fé, à parte das obras da lei.” (Romanos 3:28)\n\nNenhuma boa obra paga a nossa dívida. É Cristo quem nos justifica. Isso traz paz e também gratidão para servir.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobregraca #graca #reforma #fe",
+    "tiktok": "Versículo sobre graça\n31 de outubro: só a graça, só a fé. 📖\nSe você precisava de uma palavra, ela chegou 🙏 Romanos 3:28\nCompartilhe com alguém que precisa ler isso hoje.\n#versiculosobregraca #graca #reforma #fe #versiculododia",
+    "kwai": "Versículo sobre graça\n31 de outubro: só a graça, só a fé. 📖\nSe você precisava de uma palavra, ela chegou 🙏 Romanos 3:28\nCompartilhe com alguém que precisa ler isso hoje.\n#versiculosobregraca #graca #reforma #fe #versiculododia",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nSe você precisava de uma palavra, ela chegou 🙏\n\n“Sustentamos, portanto, que o homem é justificado pela fé, à parte das obras da lei.” (Romanos 3:28)\n\nNenhuma boa obra paga a nossa dívida. É Cristo quem nos justifica. Isso traz paz e também gratidão para servir.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre graça: Romanos 3:28 🙏 #shorts",
+     "description": "Versículo sobre graça: Romanos 3:28\n31 de outubro: só a graça, só a fé. 📖\n\nSe você precisava de uma palavra, ela chegou 🙏\n\n“Sustentamos, portanto, que o homem é justificado pela fé, à parte das obras da lei.” (Romanos 3:28)\n\nNenhuma boa obra paga a nossa dívida. É Cristo quem nos justifica. Isso traz paz e também gratidão para servir.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobregraca #graca #reforma",
+     "tags": [
+      "versículo sobre graça",
+      "versículos sobre graça",
+      "graça",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "graca",
+      "fe",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Se você precisava de uma palavra, ela chegou",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 18.64,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-10-31/2026-10-31-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Dia da Reforma), conteúdo temático",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  }
+ ]
 }
