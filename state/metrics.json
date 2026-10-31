@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-10-31T09:43:39+00:00",
+ "updated_at": "2026-10-31T11:10:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-31-2-quiz": {
+   "type": "quiz",
+   "date": "2026-10-31",
+   "time": "08:00",
+   "title": "Segundo Efésios 2:8, somos salvos pela graça, por meio de quê?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/SQZX2u1nvnE",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1156759453700785"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-31-1-verse": {
    "type": "verse",
    "date": "2026-10-31",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 47,
     "saved": 0,
     "shares": 0,
-    "views": 62,
+    "views": 68,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 207.9
+    "avg_watch_s": 4.7,
+    "watch_time_s": 227.9
    },
    "facebook": {
     "likes": 0,
@@ -59,7 +82,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 63,
+    "views": 61,
     "likes": 3,
     "comments": 0
    }
@@ -74,7 +97,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 83,
+    "views": 81,
     "likes": 3,
     "comments": 0
    }
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2028,
+    "views": 2048,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10453.5
+    "watch_time_s": 10544.5
    }
   },
   "2026-10-30-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 753,
+    "views": 772,
     "avg_watch_s": 5.9,
-    "watch_time_s": 3160.6
+    "watch_time_s": 3221.1
    },
    "youtube": {
     "views": 84,
@@ -362,9 +385,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 237,
+    "views": 238,
     "avg_watch_s": 3.8,
-    "watch_time_s": 832.3
+    "watch_time_s": 834.2
    }
   },
   "2026-10-29-4-quiz": {
@@ -1904,9 +1927,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 239,
+    "views": 240,
     "avg_watch_s": 2.8,
-    "watch_time_s": 623.9
+    "watch_time_s": 624.8
    }
   },
   "2026-10-22-4-quiz": {
