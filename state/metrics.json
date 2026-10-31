@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T19:17:27+00:00",
+ "updated_at": "2026-10-31T19:59:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,23 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-31-7-quiz": {
+   "type": "quiz",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "title": "Qual objeto Ismael encheu com os mortos de Gedalias?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1868631930932602"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-31-6-truefalse": {
@@ -42,14 +59,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 4,
     "comments": 0,
-    "views": 240,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 516.2
+    "views": 652,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1552.7
    },
    "youtube": {
-    "views": 1,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 229,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 558.6
+    "views": 233,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 818.9
    }
   },
   "2026-10-31-4-quiz": {
@@ -96,12 +113,12 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 249,
+    "views": 250,
     "avg_watch_s": 4.9,
-    "watch_time_s": 972.4
+    "watch_time_s": 973.4
    },
    "youtube": {
-    "views": 11,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -134,11 +151,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1156759453700785"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 8,
     "comments": 2,
-    "views": 1226,
+    "views": 1239,
     "avg_watch_s": 4.7,
-    "watch_time_s": 4661.2
+    "watch_time_s": 4679.7
    },
    "youtube": {
     "views": 27,
@@ -188,7 +205,7 @@
     "reach": 58,
     "saved": 0,
     "shares": 0,
-    "views": 82,
+    "views": 83,
     "total_interactions": 0,
     "avg_watch_s": 4.4,
     "watch_time_s": 266.1
@@ -201,7 +218,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 90,
+    "views": 91,
     "likes": 3,
     "comments": 0
    }
@@ -216,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 117,
+    "views": 113,
     "likes": 3,
     "comments": 0
    }
@@ -315,9 +332,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 262,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 1140.2
+    "views": 263,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1141.0
    },
    "youtube": {
     "views": 96,
@@ -357,7 +374,7 @@
     "comments": 0,
     "views": 3,
     "avg_watch_s": 0.8,
-    "watch_time_s": 1.7
+    "watch_time_s": 2.4
    },
    "youtube": {
     "views": 73,
@@ -435,7 +452,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 42,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -452,9 +469,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1535,
+    "views": 1537,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6727.1
+    "watch_time_s": 6729.0
    }
   },
   "2026-10-29-6-truefalse": {
@@ -487,7 +504,7 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 190,
+    "views": 192,
     "likes": 4,
     "comments": 0
    }
@@ -775,7 +792,7 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1442,
+    "views": 1443,
     "avg_watch_s": 6.2,
     "watch_time_s": 6518.4
    }
