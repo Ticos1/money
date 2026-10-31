@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-31T19:59:24+00:00",
+ "updated_at": "2026-10-31T21:39:17+00:00",
  "date": "2026-10-31",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-31-8-fill",
+   "date": "2026-10-31",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-10-31T18:31",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-31T21:35:28+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-10-31T21:36:03+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/TyltWaNvD4k",
+    "stories": "story 18108789814971029"
+   },
+   "title": "O coração alegre é um bom remédio, mas o _____ abatido seca os ossos."
   },
   {
    "id": "2026-10-31-7-quiz",
