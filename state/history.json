@@ -1,6 +1,260 @@
 {
  "posts": [
   {
+   "id": "2026-10-31-11-compilation",
+   "date": "2026-10-31",
+   "slot": 11,
+   "time": "12:00",
+   "publish_at": "2026-10-31T11:59",
+   "type": "compilation",
+   "status": "approved",
+   "created_at": "2026-10-31T08:32:30+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 39,
+    "duration": 598,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Qual palavra descreve o que o SENHOR dá à alma faminta em Salmos 107:9?",
+      "ref_label": "Salmos 107:9"
+     },
+     {
+      "n": 2,
+      "question": "Qual filha Calebe prometeu a quem tomasse Quiriate-Sefer?",
+      "ref_label": "Josué 15:16"
+     },
+     {
+      "n": 3,
+      "question": "Provérbios manda livrar-se como a gazela do caçador e como a ave de quê?",
+      "ref_label": "Provérbios 6:5"
+     },
+     {
+      "n": 4,
+      "question": "De que cidade Joabe trouxe uma mulher sábia para falar ao rei Davi?",
+      "ref_label": "2 Samuel 14:2"
+     },
+     {
+      "n": 5,
+      "question": "Elias disse a Acabe que não haveria o quê, senão segundo a sua palavra?",
+      "ref_label": "1 Reis 17:1"
+     },
+     {
+      "n": 6,
+      "question": "Qual era o nome da esposa judia do governador Félix?",
+      "ref_label": "Atos 24:24"
+     },
+     {
+      "n": 7,
+      "question": "Por quantos dias Daniel pediu que ele e seus amigos fossem testados?",
+      "ref_label": "Daniel 1:12"
+     },
+     {
+      "n": 8,
+      "question": "Segundo Gênesis 3:20, Eva seria a mãe de quem?",
+      "ref_label": "Gênesis 3:20"
+     },
+     {
+      "n": 9,
+      "question": "Qual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?",
+      "ref_label": "Salmos 146:5"
+     },
+     {
+      "n": 10,
+      "question": "O que dizia a acusação escrita sobre a cabeça de Jesus?",
+      "ref_label": "Mateus 27:37"
+     },
+     {
+      "n": 11,
+      "question": "O que os soldados teceram e puseram na cabeça de Jesus?",
+      "ref_label": "João 19:2"
+     },
+     {
+      "n": 12,
+      "question": "Qual objeto Davi menciona como seu escudo em Salmos 7?",
+      "ref_label": "Salmos 7:10"
+     },
+     {
+      "n": 13,
+      "question": "Como era chamado o apóstolo Simão?",
+      "ref_label": "Lucas 6:15"
+     },
+     {
+      "n": 14,
+      "question": "Em qual região o homem liberto da legião começou a proclamar o que Jesus fizera por ele?",
+      "ref_label": "Marcos 5:20"
+     },
+     {
+      "n": 15,
+      "question": "Qual é a palavra usada para descrever o lugar mais alto onde Deus nos guia?",
+      "ref_label": "Salmos 61:2"
+     },
+     {
+      "n": 16,
+      "question": "Qual palavra do Salmo 67:2 indica onde o caminho de Deus será conhecido?",
+      "ref_label": "Salmos 67:2"
+     },
+     {
+      "n": 17,
+      "question": "Qual discípulo desceu do barco e andou sobre as águas?",
+      "ref_label": "Mateus 14:29"
+     },
+     {
+      "n": 18,
+      "question": "Segundo o Salmo 90, mil anos aos olhos de Deus são como o quê?",
+      "ref_label": "Salmos 90:4"
+     },
+     {
+      "n": 19,
+      "question": "O que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?",
+      "ref_label": "Isaías 38:21"
+     },
+     {
+      "n": 20,
+      "question": "Em qual vigília da noite Jesus foi até os discípulos, andando sobre o mar?",
+      "ref_label": "Mateus 14:25"
+     },
+     {
+      "n": 21,
+      "question": "Elanã, o belemita, matou o irmão de qual guerreiro filisteu?",
+      "ref_label": "2 Samuel 21:19"
+     },
+     {
+      "n": 22,
+      "question": "Qual expressão aparece no versículo 13 de Naum 2?",
+      "ref_label": "Naum 2:13"
+     },
+     {
+      "n": 23,
+      "question": "Qual expressão aparece em Salmos 81:16?",
+      "ref_label": "Salmos 81:16"
+     },
+     {
+      "n": 24,
+      "question": "Qual palavra descreve o castigo que o SENHOR prometeu em Jeremias 11:11?",
+      "ref_label": "Jeremias 11:11"
+     },
+     {
+      "n": 25,
+      "question": "Com quantos anos José morreu?",
+      "ref_label": "Gênesis 50:26"
+     },
+     {
+      "n": 26,
+      "question": "Cerca de quantos porcos se precipitaram no mar em Gadara?",
+      "ref_label": "Marcos 5:13"
+     },
+     {
+      "n": 27,
+      "question": "Qual expressão Davi usa para descrever onde ama estar?",
+      "ref_label": "Salmos 26:8"
+     },
+     {
+      "n": 28,
+      "question": "Quem foi lançado na cova dos leões?",
+      "ref_label": "Daniel 6:16"
+     },
+     {
+      "n": 29,
+      "question": "Segundo Provérbios, o que as formigas providenciam no verão?",
+      "ref_label": "Provérbios 30:25"
+     },
+     {
+      "n": 30,
+      "question": "Qual filho de Saul tinha a alma unida à alma de Davi?",
+      "ref_label": "1 Samuel 18:1"
+     },
+     {
+      "n": 31,
+      "question": "No sinédrio, Paulo disse que era o quê, filho de fariseus?",
+      "ref_label": "Atos 23:6"
+     },
+     {
+      "n": 32,
+      "question": "Quem começou a ser poderoso na terra, segundo 1 Crônicas 1?",
+      "ref_label": "1 Crônicas 1:10"
+     },
+     {
+      "n": 33,
+      "question": "Qual grupo mencionado em Deuteronômio 20:14 será tomado como despojo?",
+      "ref_label": "Deuteronômio 20:14"
+     },
+     {
+      "n": 34,
+      "question": "Qual assistente pessoal do rei Herodes apoiou o povo de Tiro e de Sidom?",
+      "ref_label": "Atos 12:20"
+     },
+     {
+      "n": 35,
+      "question": "Com que animal Provérbios compara o tolo que repete a sua estultícia?",
+      "ref_label": "Provérbios 26:11"
+     },
+     {
+      "n": 36,
+      "question": "'Eu sou a rosa de...', diz a amada em Cânticos.",
+      "ref_label": "Cânticos 2:1"
+     },
+     {
+      "n": 37,
+      "question": "Há quantos anos a mulher que tocou na veste de Jesus sofria com o fluxo de sangue?",
+      "ref_label": "Lucas 8:43"
+     },
+     {
+      "n": 38,
+      "question": "Segundo Isaías, o que o povo que andava nas trevas viu?",
+      "ref_label": "Isaías 9:2"
+     },
+     {
+      "n": 39,
+      "question": "Como foram chamados os dias de festa cujo nome vem da palavra “Pur”?",
+      "ref_label": "Ester 9:26"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 39 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:35 Pergunta 3\n0:52 Pergunta 4\n1:07 Pergunta 5\n1:23 Pergunta 6\n1:37 Pergunta 7\n1:52 Pergunta 8\n2:08 Pergunta 9\n2:23 Pergunta 10\n2:40 Pergunta 11\n2:55 Pergunta 12\n3:09 Pergunta 13\n3:23 Pergunta 14\n3:39 Pergunta 15\n3:53 Pergunta 16\n4:08 Pergunta 17\n4:22 Pergunta 18\n4:37 Pergunta 19\n4:54 Pergunta 20\n5:10 Pergunta 21\n5:24 Pergunta 22\n5:39 Pergunta 23\n5:54 Pergunta 24\n6:08 Pergunta 25\n6:22 Pergunta 26\n6:36 Pergunta 27\n6:52 Pergunta 28\n7:05 Pergunta 29\n7:21 Pergunta 30\n7:35 Pergunta 31\n7:50 Pergunta 32\n8:04 Pergunta 33\n8:19 Pergunta 34\n8:34 Pergunta 35\n8:49 Pergunta 36\n9:03 Pergunta 37\n9:18 Pergunta 38\n9:34 Pergunta 39\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-31T15:05:34+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtu.be/nxEq7m2j3u0"
+   }
+  },
+  {
    "id": "2026-10-31-4-quiz",
    "date": "2026-10-31",
    "slot": 4,
