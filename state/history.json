@@ -255,6 +255,99 @@
    }
   },
   {
+   "id": "2026-10-31-5-curiosity",
+   "date": "2026-10-31",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-10-31T13:31",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:06+00:00",
+   "source": "bank",
+   "bank_id": "c287",
+   "model": null,
+   "content": {
+    "ref": "Gálatas 3:11",
+    "ref_label": "Gálatas 3:11",
+    "title": "Uma frase que aparece várias vezes",
+    "text": "'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã.",
+    "evidence": "O justo viverá pela fé",
+    "passage": "Ora, é evidente que diante de Deus ninguém é justificado pela lei, pois, “O justo viverá pela fé.”",
+    "tags": [
+     "reforma",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #fe #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #jesus #evangelico #cristao #deus #gospel #historiabiblica",
+    "facebook": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #fe #vocesabia #curiosidadesbiblicas",
+    "tiktok": "31 de outubro: só a graça, só a fé. 📖\nA mesma frase está em quatro livros da Bíblia: “O justo viverá pela fé”. Compartilhe essa verdade! 🙏\n#reforma #fe #vocesabia #curiosidadesbiblicas #gospel",
+    "kwai": "31 de outubro: só a graça, só a fé. 📖\nA mesma frase está em quatro livros da Bíblia: “O justo viverá pela fé”. Compartilhe essa verdade! 🙏\n#reforma #fe #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Uma frase que aparece várias vezes #shorts",
+     "description": "31 de outubro: só a graça, só a fé. 📖\n\nUma frase que aparece várias vezes\n\n'O justo viverá pela fé' aparece em Habacuque, Romanos, Gálatas e Hebreus. É um dos pilares da fé cristã. (Gálatas 3:11)\n\nVocê sabia que a mesma frase aparece em quatro livros da Bíblia? “O justo viverá pela fé” está em Habacuque, Romanos, Gálatas e Hebreus, reforçando um dos alicerces da nossa fé. Essa verdade nos lembra que a confiança em Deus é o caminho para viver em justiça. Salve essa mensagem e compartilhe com quem precisa lembrar que a fé nos sustenta todos os dias. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reforma #fe #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "fe",
+      "gálatas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-10-31T16:35:30+00:00",
+    "stories": "2026-10-31T16:36:46+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: data especial (Dia da Reforma), conteúdo temático"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1062742920084726",
+    "stories": "story 18205315762330941"
+   }
+  },
+  {
    "id": "2026-10-31-4-quiz",
    "date": "2026-10-31",
    "slot": 4,
