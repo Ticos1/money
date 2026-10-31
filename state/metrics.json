@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-10-31T12:19:12+00:00",
+ "updated_at": "2026-10-31T13:08:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-31-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-31",
+   "time": "10:00",
+   "title": "Com qual animal o lobo viverá, segundo Isaías 11:6?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1081475774721464"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-31-2-quiz": {
    "type": "quiz",
    "date": "2026-10-31",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 126,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 302.2
+    "views": 185,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 509.6
    },
    "youtube": {
-    "views": 0,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 50,
+    "reach": 52,
     "saved": 0,
     "shares": 0,
-    "views": 74,
+    "views": 78,
     "total_interactions": 0,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 243.2
+    "avg_watch_s": 4.5,
+    "watch_time_s": 245.0
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 72,
+    "views": 70,
     "likes": 3,
     "comments": 0
    }
@@ -97,7 +114,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 89,
+    "views": 81,
     "likes": 3,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2056,
+    "views": 2061,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10561.4
+    "watch_time_s": 10611.3
    }
   },
   "2026-10-30-6-truefalse": {
@@ -144,12 +161,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 803,
+    "views": 804,
     "avg_watch_s": 6.0,
-    "watch_time_s": 3385.8
+    "watch_time_s": 3386.4
    },
    "youtube": {
-    "views": 87,
+    "views": 84,
     "likes": 0,
     "comments": 0
    }
@@ -241,7 +258,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 61,
+    "views": 59,
     "likes": 2,
     "comments": 0
    }
@@ -301,7 +318,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 69,
+    "views": 68,
     "likes": 3,
     "comments": 0
    }
@@ -316,7 +333,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 40,
+    "views": 39,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 168,
+    "views": 167,
     "likes": 3,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "watch_time_s": 6072.9
    },
    "youtube": {
-    "views": 201,
+    "views": 199,
     "likes": 5,
     "comments": 0
    }
@@ -1331,9 +1348,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1831,
+    "views": 1832,
     "avg_watch_s": 6.6,
-    "watch_time_s": 8981.0
+    "watch_time_s": 8981.8
    },
    "youtube": {
     "views": 88,
