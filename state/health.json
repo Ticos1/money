@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T21:39:17+00:00",
+ "updated_at": "2026-10-31T23:10:04+00:00",
  "date": "2026-10-31",
  "paused": false,
  "problems": [],
@@ -72,6 +72,34 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-31-9-quiz",
+   "date": "2026-10-31",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-10-31T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-10-31T23:06:23+00:00",
+    "facebook": "2026-10-31T23:06:28+00:00",
+    "stories": "2026-10-31T23:07:18+00:00",
+    "whatsapp": null
+   },
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DfLTC9Mjcq9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1796024578312851",
+    "stories": "story 17919421194461152"
+   },
+   "title": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão?"
   },
   {
    "id": "2026-10-31-8-fill",
