@@ -1,6 +1,106 @@
 {
  "posts": [
   {
+   "id": "2026-10-31-4-quiz",
+   "date": "2026-10-31",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-10-31T11:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-10-31T08:22:37+00:00",
+   "source": "bank",
+   "bank_id": "q1275",
+   "model": null,
+   "content": {
+    "ref": "Romanos 1:17",
+    "ref_label": "Romanos 1:17",
+    "question": "O justo viverá pelo quê, segundo Romanos 1:17?",
+    "options": [
+     "Pela fé",
+     "Pela lei",
+     "Pelos sacrifícios",
+     "Pelas riquezas"
+    ],
+    "answer": 0,
+    "evidence": "justo viverá pela fé",
+    "passage": "Porque nele se revela a justiça de Deus de fé em fé. Como está escrito: “Mas o justo viverá pela fé.”",
+    "difficulty": "facil",
+    "tags": [
+     "reforma"
+    ]
+   },
+   "captions": {
+    "instagram": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #evangelico #jesus #perguntasbiblicas #conhecimentobiblico #biblia #palavradedeus #deus #teste #cristao",
+    "facebook": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#reforma #quizbiblico #desafiobiblico #gospel",
+    "tiktok": "31 de outubro: só a graça, só a fé. 📖\nSó 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #palavradedeus #deus",
+    "kwai": "31 de outubro: só a graça, só a fé. 📖\nSó 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#reforma #quizbiblico #desafiobiblico #deus #cristao",
+    "whatsapp": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: O justo viverá pelo quê, segundo Romanos 1:17? #shorts",
+     "description": "31 de outubro: só a graça, só a fé. 📖\n\nSó 1% acerta essa pergunta da Bíblia! 🤔\n\nO justo viverá pelo quê, segundo Romanos 1:17?\n\nA) Pela fé\nB) Pela lei\nC) Pelos sacrifícios\nD) Pelas riquezas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #reforma #quizbiblico #desafiobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "reforma",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-31T14:55:33+00:00",
+    "instagram": "2026-10-31T14:56:12+00:00",
+    "facebook": "2026-10-31T14:56:18+00:00",
+    "stories": "2026-10-31T14:56:54+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: data especial (Dia da Reforma), conteúdo temático"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/xSM80cYtP1s",
+    "instagram": "https://www.instagram.com/reel/DfKa7ZQie80/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2442075373294782",
+    "stories": "story 17865173139696547"
+   }
+  },
+  {
    "id": "2026-10-31-3-truefalse",
    "date": "2026-10-31",
    "slot": 3,
