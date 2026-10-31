@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-31T16:40:10+00:00",
+ "updated_at": "2026-10-31T18:15:48+00:00",
  "date": "2026-10-31",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-31-6-truefalse",
+   "date": "2026-10-31",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-31T15:07",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-31T18:10:31+00:00",
+    "instagram": "2026-10-31T18:10:59+00:00",
+    "facebook": "2026-10-31T18:11:03+00:00",
+    "stories": "2026-10-31T18:12:35+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/hMsqwzW_19A",
+    "instagram": "https://www.instagram.com/reel/DfKxPZflJ0l/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1532598332010218",
+    "stories": "story 17914347576481287"
+   },
+   "title": "Que idade tinha Eli quando recebeu a notícia da perda da arca?"
   },
   {
    "id": "2026-10-31-5-curiosity",
