@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-31T00:43:20+00:00",
- "date": "2026-10-30",
+ "updated_at": "2026-10-31T05:32:33+00:00",
+ "date": "2026-10-31",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 449,
-   "days_left": 449,
+   "fresh": 451,
+   "days_left": 451,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1061,
+   "fresh": 1063,
    "days_left": 151,
    "warn": false
   },
@@ -49,254 +49,7 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-30-10-truefalse",
-   "date": "2026-10-30",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-30T21:40",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-31T00:40:31+00:00",
-    "stories": "2026-10-31T00:41:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2370977807076414",
-    "stories": "story 18105555398639740"
-   },
-   "title": "O homem não vive apenas de pão, mas de quê?"
-  },
-  {
-   "id": "2026-10-30-9-quiz",
-   "date": "2026-10-30",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-30T19:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-30T22:55:26+00:00",
-    "instagram": "2026-10-30T22:56:18+00:00",
-    "facebook": "2026-10-30T22:56:22+00:00",
-    "stories": "2026-10-30T22:57:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/k0OBpYJsOgU",
-    "instagram": "https://www.instagram.com/reel/DfItFIjlFW2/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1104121139268943",
-    "stories": "story 17986990511891812"
-   },
-   "title": "Qual objeto Davi menciona como seu escudo em Salmos 7?"
-  },
-  {
-   "id": "2026-10-30-8-fill",
-   "date": "2026-10-30",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-30T18:21",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-30T21:25:30+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-30T21:26:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/5GQqGEhg52g",
-    "stories": "story 18184192408388970"
-   },
-   "title": "Mas quando Jesus viu isso, indignou-se e lhes disse: Deixem vir a mim as crianças! Não as impeçam, pois o _____ de Deus pertence aos que são semelhantes a elas."
-  },
-  {
-   "id": "2026-10-30-7-quiz",
-   "date": "2026-10-30",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-30T17:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-30T20:15:41+00:00",
-    "stories": "2026-10-30T20:17:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1098326242978642",
-    "stories": "story 18429288667145907"
-   },
-   "title": "O que Isaías mandou aplicar como emplastro sobre a úlcera de Ezequias?"
-  },
-  {
-   "id": "2026-10-30-6-truefalse",
-   "date": "2026-10-30",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-30T14:51",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-30T17:55:33+00:00",
-    "instagram": "2026-10-30T17:56:34+00:00",
-    "facebook": "2026-10-30T17:56:39+00:00",
-    "stories": "2026-10-30T17:57:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/xhw80IDOn7A",
-    "instagram": "https://www.instagram.com/reel/DfIKxIOH5Di/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1812790576419834",
-    "stories": "story 18109598294615824"
-   },
-   "title": "Quais dois homens entrariam na terra, segundo o juramento de Deus?"
-  },
-  {
-   "id": "2026-10-30-5-curiosity",
-   "date": "2026-10-30",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-30T13:23",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-30T16:25:34+00:00",
-    "stories": "2026-10-30T16:26:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1462689786076692",
-    "stories": "story 18282795109288407"
-   },
-   "title": "Voz mansa e delicada"
-  },
-  {
-   "id": "2026-10-30-4-quiz",
-   "date": "2026-10-30",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-30T12:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-30T15:05:31+00:00",
-    "instagram": "2026-10-30T15:06:05+00:00",
-    "facebook": "2026-10-30T15:06:10+00:00",
-    "stories": "2026-10-30T15:06:59+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Bq8Ce9tjoHQ",
-    "instagram": "https://www.instagram.com/reel/DfH3RhpEThe/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1153993420304726",
-    "stories": "story 18128670820853020"
-   },
-   "title": "Qual palavra descreve o que se afirma sobre quem tem o Deus de Jacó?"
-  },
-  {
-   "id": "2026-10-30-3-truefalse",
-   "date": "2026-10-30",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-30T09:58",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-30T13:00:34+00:00",
-    "stories": "2026-10-30T13:01:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1167043049082862",
-    "stories": "story 17876950173587540"
-   },
-   "title": "Jubal foi o pai de todos os que fazem o quê?"
-  },
-  {
-   "id": "2026-10-30-2-quiz",
-   "date": "2026-10-30",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-30T08:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-30T11:05:29+00:00",
-    "instagram": null,
-    "facebook": "2026-10-30T11:05:34+00:00",
-    "stories": "2026-10-30T11:06:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/7-Be32H93Ug",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1128522100039382",
-    "stories": "story 18067119929795245"
-   },
-   "title": "Segundo Provérbios, o que as formigas providenciam no verão?"
-  },
-  {
-   "id": "2026-10-30-1-verse",
-   "date": "2026-10-30",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-30T06:25",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-30T09:25:58+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18022231136954128"
-   },
-   "title": "Colossenses 1:13"
-  }
- ],
+ "today_done": [],
  "specials": {
   "2026-10-31": {
    "key": "reforma",
