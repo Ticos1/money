@@ -255,6 +255,95 @@
    }
   },
   {
+   "id": "2026-10-31-6-truefalse",
+   "date": "2026-10-31",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-10-31T15:07",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-10-31T08:23:31+00:00",
+   "source": "bank",
+   "bank_id": "q996",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 4:15",
+    "ref_label": "1 Samuel 4:15",
+    "question": "Que idade tinha Eli quando recebeu a notícia da perda da arca?",
+    "shown": "Oitenta anos",
+    "is_true": false,
+    "correct": "Noventa e oito anos",
+    "evidence": "Eli estava com noventa e oito anos",
+    "passage": "Ora, Eli estava com noventa e oito anos de idade. Seus olhos estavam fixos, de modo que ele não podia ver.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #evangelico #jesus #palavradedeus #conhecimentobiblico #cristao #deus #fe #perguntasbiblicas #desafiobiblico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #cristao #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #cristao #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue idade tinha Eli quando recebeu a notícia da perda da arca?\nResposta: Oitenta anos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-10-31T18:10:31+00:00",
+    "instagram": "2026-10-31T18:10:59+00:00",
+    "facebook": "2026-10-31T18:11:03+00:00",
+    "stories": "2026-10-31T18:12:35+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/hMsqwzW_19A",
+    "instagram": "https://www.instagram.com/reel/DfKxPZflJ0l/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1532598332010218",
+    "stories": "story 17914347576481287"
+   }
+  },
+  {
    "id": "2026-10-31-5-curiosity",
    "date": "2026-10-31",
    "slot": 5,
