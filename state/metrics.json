@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T21:39:14+00:00",
+ "updated_at": "2026-10-31T23:10:02+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,35 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-31-9-quiz": {
+   "type": "quiz",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "title": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DfLTC9Mjcq9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1796024578312851"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-31-8-fill": {
@@ -44,11 +73,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1868631930932602"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 4,
     "comments": 0,
-    "views": 497,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1330.8
+    "views": 1116,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 5035.4
    }
   },
   "2026-10-31-6-truefalse": {
@@ -65,23 +94,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 0.8
    },
    "facebook": {
-    "likes": 7,
+    "likes": 9,
     "comments": 0,
-    "views": 1262,
+    "views": 1423,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5195.0
+    "watch_time_s": 5825.5
    },
    "youtube": {
-    "views": 39,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
@@ -98,9 +127,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 234,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 850.6
+    "views": 239,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 854.5
    }
   },
   "2026-10-31-4-quiz": {
@@ -128,12 +157,12 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 251,
+    "views": 257,
     "avg_watch_s": 4.9,
-    "watch_time_s": 974.0
+    "watch_time_s": 995.9
    },
    "youtube": {
-    "views": 15,
+    "views": 17,
     "likes": 0,
     "comments": 0
    }
@@ -150,9 +179,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 3,
+    "avg_watch_s": 18.0,
+    "watch_time_s": 18.0
    }
   },
   "2026-10-31-2-quiz": {
@@ -168,12 +197,12 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1256,
+    "views": 1280,
     "avg_watch_s": 4.7,
-    "watch_time_s": 4722.7
+    "watch_time_s": 4825.8
    },
    "youtube": {
-    "views": 40,
+    "views": 42,
     "likes": 1,
     "comments": 0
    }
@@ -217,13 +246,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 67,
+    "reach": 74,
     "saved": 0,
     "shares": 0,
-    "views": 92,
+    "views": 100,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 285.0
+    "avg_watch_s": 4.0,
+    "watch_time_s": 305.3
    },
    "facebook": {
     "likes": 0,
@@ -248,7 +277,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 122,
+    "views": 125,
     "likes": 3,
     "comments": 0
    }
@@ -265,9 +294,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2070,
+    "views": 2072,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10644.8
+    "watch_time_s": 10665.4
    }
   },
   "2026-10-30-6-truefalse": {
@@ -300,7 +329,7 @@
     "watch_time_s": 3413.6
    },
    "youtube": {
-    "views": 115,
+    "views": 116,
     "likes": 0,
     "comments": 0
    }
@@ -352,7 +381,7 @@
     "watch_time_s": 1160.4
    },
    "youtube": {
-    "views": 101,
+    "views": 110,
     "likes": 4,
     "comments": 0
    }
@@ -392,7 +421,7 @@
     "watch_time_s": 14.2
    },
    "youtube": {
-    "views": 75,
+    "views": 77,
     "likes": 2,
     "comments": 0
    }
@@ -452,7 +481,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 81,
+    "views": 82,
     "likes": 3,
     "comments": 0
    }
