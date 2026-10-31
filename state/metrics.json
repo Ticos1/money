@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-10-31T13:08:55+00:00",
+ "updated_at": "2026-10-31T15:00:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-31-4-quiz": {
+   "type": "quiz",
+   "date": "2026-10-31",
+   "time": "12:00",
+   "title": "O justo viverá pelo quê, segundo Romanos 1:17?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/xSM80cYtP1s",
+    "instagram": "https://www.instagram.com/reel/DfKa7ZQie80/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2442075373294782"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-10-31-3-truefalse": {
    "type": "truefalse",
    "date": "2026-10-31",
@@ -33,13 +68,13 @@
    },
    "facebook": {
     "likes": 1,
-    "comments": 0,
-    "views": 185,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 509.6
+    "comments": 1,
+    "views": 289,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 847.1
    },
    "youtube": {
-    "views": 8,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -83,23 +118,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 52,
+    "reach": 56,
     "saved": 0,
     "shares": 0,
-    "views": 78,
+    "views": 80,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 245.0
+    "avg_watch_s": 4.4,
+    "watch_time_s": 260.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 1,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 70,
+    "views": 73,
     "likes": 3,
     "comments": 0
    }
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 81,
+    "views": 95,
     "likes": 3,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2061,
+    "views": 2063,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10611.3
+    "watch_time_s": 10613.6
    }
   },
   "2026-10-30-6-truefalse": {
@@ -163,10 +198,10 @@
     "comments": 0,
     "views": 804,
     "avg_watch_s": 6.0,
-    "watch_time_s": 3386.4
+    "watch_time_s": 3388.3
    },
    "youtube": {
-    "views": 84,
+    "views": 89,
     "likes": 0,
     "comments": 0
    }
@@ -218,7 +253,7 @@
     "watch_time_s": 1140.2
    },
    "youtube": {
-    "views": 78,
+    "views": 80,
     "likes": 4,
     "comments": 0
    }
@@ -253,12 +288,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 0.4,
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 59,
+    "views": 62,
     "likes": 2,
     "comments": 0
    }
@@ -283,9 +318,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 6,
-    "avg_watch_s": 28.2,
-    "watch_time_s": 56.4
+    "views": 7,
+    "avg_watch_s": 18.9,
+    "watch_time_s": 56.6
    }
   },
   "2026-10-29-9-quiz": {
@@ -318,7 +353,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 68,
+    "views": 70,
     "likes": 3,
     "comments": 0
    }
@@ -333,7 +368,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 39,
+    "views": 40,
     "likes": 1,
     "comments": 0
    }
@@ -350,9 +385,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1534,
+    "views": 1535,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6725.7
+    "watch_time_s": 6727.1
    }
   },
   "2026-10-29-6-truefalse": {
@@ -385,7 +420,7 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 167,
+    "views": 176,
     "likes": 3,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 6072.9
    },
    "youtube": {
-    "views": 199,
+    "views": 201,
     "likes": 5,
     "comments": 0
    }
@@ -599,9 +634,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1070,
+    "views": 1071,
     "avg_watch_s": 5.9,
-    "watch_time_s": 4526.3
+    "watch_time_s": 4527.6
    },
    "youtube": {
     "views": 126,
@@ -1089,9 +1124,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 259,
+    "views": 261,
     "avg_watch_s": 4.2,
-    "watch_time_s": 895.2
+    "watch_time_s": 897.9
    },
    "youtube": {
     "views": 19,
@@ -1330,9 +1365,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1748,
+    "views": 1749,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8293.4
+    "watch_time_s": 8300.9
    }
   },
   "2026-10-25-2-quiz": {
