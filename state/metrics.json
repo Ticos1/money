@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T15:08:37+00:00",
+ "updated_at": "2026-10-31T16:40:08+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,23 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-10-31-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-10-31",
+   "time": "13:30",
+   "title": "Uma frase que aparece várias vezes",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1062742920084726"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-10-31-4-quiz": {
@@ -42,11 +59,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 2,
+    "comments": 1,
+    "views": 198,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 500.8
    },
    "youtube": {
     "views": 0,
@@ -82,15 +99,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1156759453700785"
    },
    "facebook": {
-    "likes": 1,
-    "comments": 1,
-    "views": 307,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 946.4
+    "likes": 5,
+    "comments": 2,
+    "views": 610,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1867.5
    },
    "youtube": {
-    "views": 16,
-    "likes": 0,
+    "views": 19,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -133,13 +150,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 56,
+    "reach": 57,
     "saved": 0,
     "shares": 0,
-    "views": 80,
+    "views": 81,
     "total_interactions": 0,
     "avg_watch_s": 4.4,
-    "watch_time_s": 260.8
+    "watch_time_s": 261.4
    },
    "facebook": {
     "likes": 0,
@@ -149,7 +166,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 73,
+    "views": 77,
     "likes": 3,
     "comments": 0
    }
@@ -164,7 +181,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 95,
+    "views": 105,
     "likes": 3,
     "comments": 0
    }
@@ -181,9 +198,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2063,
+    "views": 2064,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10613.6
+    "watch_time_s": 10619.7
    }
   },
   "2026-10-30-6-truefalse": {
@@ -211,12 +228,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 804,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 3388.3
+    "views": 807,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 3400.1
    },
    "youtube": {
-    "views": 89,
+    "views": 99,
     "likes": 0,
     "comments": 0
    }
@@ -233,9 +250,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 240,
+    "views": 241,
     "avg_watch_s": 3.8,
-    "watch_time_s": 815.7
+    "watch_time_s": 816.4
    }
   },
   "2026-10-30-4-quiz": {
@@ -268,7 +285,7 @@
     "watch_time_s": 1140.2
    },
    "youtube": {
-    "views": 80,
+    "views": 91,
     "likes": 4,
     "comments": 0
    }
@@ -308,7 +325,7 @@
     "watch_time_s": 1.7
    },
    "youtube": {
-    "views": 62,
+    "views": 69,
     "likes": 2,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 70,
+    "views": 76,
     "likes": 3,
     "comments": 0
    }
@@ -435,8 +452,8 @@
     "watch_time_s": 6075.5
    },
    "youtube": {
-    "views": 176,
-    "likes": 3,
+    "views": 180,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -482,12 +499,12 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1271,
+    "views": 1273,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6072.9
+    "watch_time_s": 6084.6
    },
    "youtube": {
-    "views": 201,
+    "views": 206,
     "likes": 5,
     "comments": 0
    }
@@ -1141,7 +1158,7 @@
     "comments": 0,
     "views": 263,
     "avg_watch_s": 4.2,
-    "watch_time_s": 897.9
+    "watch_time_s": 898.4
    },
    "youtube": {
     "views": 19,
@@ -2968,7 +2985,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 157,
+    "views": 159,
     "likes": 2,
     "comments": 0
    }
