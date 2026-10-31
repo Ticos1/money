@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-10-31T09:03:57+00:00",
+ "updated_at": "2026-10-31T09:43:39+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-10-31-1-verse": {
+   "type": "verse",
+   "date": "2026-10-31",
+   "time": "06:30",
+   "title": "Romanos 3:28",
+   "hook": "Se você precisava de uma palavra, ela chegou",
+   "links": {}
+  },
   "2026-10-30-10-truefalse": {
    "type": "truefalse",
    "date": "2026-10-30",
@@ -51,7 +59,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 61,
+    "views": 63,
     "likes": 3,
     "comments": 0
    }
@@ -66,7 +74,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 81,
+    "views": 83,
     "likes": 3,
     "comments": 0
    }
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2025,
+    "views": 2028,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10433.1
+    "watch_time_s": 10453.5
    }
   },
   "2026-10-30-6-truefalse": {
@@ -113,9 +121,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 746,
+    "views": 753,
     "avg_watch_s": 5.9,
-    "watch_time_s": 3122.0
+    "watch_time_s": 3160.6
    },
    "youtube": {
     "views": 84,
@@ -4990,7 +4998,7 @@
     "comments": 1,
     "views": 482,
     "avg_watch_s": 2.7,
-    "watch_time_s": 1212.6
+    "watch_time_s": 1213.2
    },
    "youtube": {
     "views": 165,
