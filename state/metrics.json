@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-01T21:33:59+00:00",
+ "updated_at": "2026-11-01T22:59:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-01-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "title": "Na multiplicação para os quatro mil, quantos cestos sobraram?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ALAOq7JZBuM",
+    "instagram": "https://www.instagram.com/reel/DfN2pjzE-eN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1109108838495198"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-01-8-fill": {
    "type": "fill",
    "date": "2026-11-01",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1696448175386139"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 287,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 814.1
+    "views": 354,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 1017.0
    }
   },
   "2026-11-01-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.2,
+    "watch_time_s": 6.6
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 9.8,
-    "watch_time_s": 9.8
+    "views": 6,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 10.7
    },
    "youtube": {
-    "views": 64,
+    "views": 100,
     "likes": 3,
     "comments": 0
    }
@@ -102,23 +137,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 34.5
+    "avg_watch_s": 2.8,
+    "watch_time_s": 36.7
    },
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1290,
+    "views": 1300,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5050.4
+    "watch_time_s": 5120.9
    },
    "youtube": {
-    "views": 42,
+    "views": 70,
     "likes": 1,
     "comments": 0
    }
@@ -153,12 +188,12 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1709,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 7325.7
+    "views": 1758,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 7757.5
    },
    "youtube": {
-    "views": 47,
+    "views": 58,
     "likes": 0,
     "comments": 0
    }
@@ -227,9 +262,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 123,
-    "avg_watch_s": 10.1,
-    "watch_time_s": 707.5
+    "views": 135,
+    "avg_watch_s": 9.9,
+    "watch_time_s": 788.2
    }
   },
   "2026-10-31-8-fill": {
@@ -242,7 +277,7 @@
     "youtube": "https://youtube.com/shorts/TyltWaNvD4k"
    },
    "youtube": {
-    "views": 134,
+    "views": 150,
     "likes": 3,
     "comments": 0
    }
@@ -294,7 +329,7 @@
     "watch_time_s": 6313.3
    },
    "youtube": {
-    "views": 243,
+    "views": 260,
     "likes": 5,
     "comments": 0
    }
@@ -346,7 +381,7 @@
     "watch_time_s": 1032.0
    },
    "youtube": {
-    "views": 49,
+    "views": 50,
     "likes": 2,
     "comments": 0
    }
@@ -386,7 +421,7 @@
     "watch_time_s": 5146.8
    },
    "youtube": {
-    "views": 85,
+    "views": 86,
     "likes": 2,
     "comments": 0
    }
@@ -446,7 +481,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 123,
+    "views": 127,
     "likes": 3,
     "comments": 0
    }
@@ -478,9 +513,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2079,
+    "views": 2080,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10694.7
+    "watch_time_s": 10700.0
    }
   },
   "2026-10-30-6-truefalse": {
@@ -680,7 +715,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 49,
+    "views": 50,
     "likes": 1,
     "comments": 0
    }
@@ -699,7 +734,7 @@
     "comments": 0,
     "views": 1541,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6740.2
+    "watch_time_s": 6745.1
    }
   },
   "2026-10-29-6-truefalse": {
@@ -784,7 +819,7 @@
     "watch_time_s": 6088.8
    },
    "youtube": {
-    "views": 207,
+    "views": 209,
     "likes": 5,
     "comments": 0
    }
@@ -1556,7 +1591,7 @@
     "youtube": "https://youtube.com/shorts/F8y8JtT66Qw"
    },
    "youtube": {
-    "views": 26,
+    "views": 27,
     "likes": 1,
     "comments": 0
    }
@@ -1723,7 +1758,7 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "youtube": {
-    "views": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -2107,7 +2142,7 @@
     "watch_time_s": 5917.2
    },
    "youtube": {
-    "views": 41,
+    "views": 42,
     "likes": 0,
     "comments": 0
    }
