@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T12:54:53+00:00",
+ "updated_at": "2026-11-01T13:16:38+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -32,14 +32,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1847192479645658"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 356,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1163.4
+    "views": 415,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1368.3
    },
    "youtube": {
-    "views": 0,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -97,20 +97,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 34,
+    "reach": 35,
     "saved": 0,
     "shares": 0,
     "views": 46,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 130.7
+    "watch_time_s": 133.8
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
     "views": 41,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 187.0
+    "avg_watch_s": 6.7,
+    "watch_time_s": 187.9
    }
   },
   "2026-10-31-8-fill": {
@@ -123,7 +123,7 @@
     "youtube": "https://youtube.com/shorts/TyltWaNvD4k"
    },
    "youtube": {
-    "views": 124,
+    "views": 126,
     "likes": 2,
     "comments": 0
    }
@@ -140,9 +140,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1491,
+    "views": 1494,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6800.7
+    "watch_time_s": 6830.2
    }
   },
   "2026-10-31-6-truefalse": {
@@ -175,7 +175,7 @@
     "watch_time_s": 6297.4
    },
    "youtube": {
-    "views": 183,
+    "views": 185,
     "likes": 4,
     "comments": 0
    }
@@ -227,7 +227,7 @@
     "watch_time_s": 1025.2
    },
    "youtube": {
-    "views": 38,
+    "views": 41,
     "likes": 2,
     "comments": 0
    }
@@ -267,7 +267,7 @@
     "watch_time_s": 5121.4
    },
    "youtube": {
-    "views": 76,
+    "views": 78,
     "likes": 2,
     "comments": 0
    }
@@ -327,7 +327,7 @@
     "watch_time_s": 0.4
    },
    "youtube": {
-    "views": 118,
+    "views": 120,
     "likes": 3,
     "comments": 0
    }
@@ -394,7 +394,7 @@
     "watch_time_s": 3413.6
    },
    "youtube": {
-    "views": 144,
+    "views": 149,
     "likes": 0,
     "comments": 0
    }
@@ -446,7 +446,7 @@
     "watch_time_s": 1160.4
    },
    "youtube": {
-    "views": 131,
+    "views": 132,
     "likes": 4,
     "comments": 0
    }
