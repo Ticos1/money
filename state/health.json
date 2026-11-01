@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T23:10:04+00:00",
+ "updated_at": "2026-11-01T00:46:13+00:00",
  "date": "2026-10-31",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-10-31-10-truefalse",
+   "date": "2026-10-31",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-10-31T21:39",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-01T00:40:44+00:00",
+    "stories": "2026-11-01T00:41:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1392261039646588",
+    "stories": "story 17912293239516321"
+   },
+   "title": "Como morreu o rei Herodes, por não ter dado glória a Deus?"
   },
   {
    "id": "2026-10-31-9-quiz",
