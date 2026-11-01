@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T09:08:45+00:00",
+ "updated_at": "2026-11-01T09:43:32+00:00",
  "date": "2026-11-01",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-01-1-verse",
+   "date": "2026-11-01",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-01T06:38",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-01T09:40:59+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18115747970168733"
+   },
+   "title": "Hebreus 10:25"
+  }
+ ],
  "specials": {}
 }
