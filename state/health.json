@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-01T09:43:32+00:00",
+ "updated_at": "2026-11-01T11:09:32+00:00",
  "date": "2026-11-01",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-01-2-quiz",
+   "date": "2026-11-01",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-01T08:01",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-01T11:05:30+00:00",
+    "instagram": null,
+    "facebook": "2026-11-01T11:05:35+00:00",
+    "stories": "2026-11-01T11:06:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/8MxtY6VpSKI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1847192479645658",
+    "stories": "story 17926919934205774"
+   },
+   "title": "Qual é o lugar onde os que venceram a besta estavam de pé?"
+  },
   {
    "id": "2026-11-01-1-verse",
    "date": "2026-11-01",
