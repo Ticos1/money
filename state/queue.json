@@ -1,3 +1,1006 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-01-10-truefalse",
+   "date": "2026-11-01",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-01T21:21",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-01T08:25:02+00:00",
+   "source": "bank",
+   "bank_id": "q111",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 47:28",
+    "ref_label": "Gênesis 47:28",
+    "question": "Quantos anos Jacó viveu ao todo?",
+    "shown": "120",
+    "is_true": false,
+    "correct": "147",
+    "evidence": "foram cento e quarenta e sete anos",
+    "passage": "Jacó viveu na terra do Egito dezessete anos. Assim, os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete anos.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Jacó viveu ao todo?\nResposta: 120\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #jesus #gospel #cristao #perguntasbiblicas #fe #evangelico #biblia #palavradedeus #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Jacó viveu ao todo?\nResposta: 120\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #gospel #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantos anos Jacó viveu ao todo?\nResposta: 120\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quantos anos Jacó viveu ao todo? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Jacó viveu ao todo?\nResposta: 120\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-9-quiz",
+   "date": "2026-11-01",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-01T19:52",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-01T08:24:41+00:00",
+   "source": "bank",
+   "bank_id": "q855",
+   "model": null,
+   "content": {
+    "ref": "Marcos 8:8",
+    "ref_label": "Marcos 8:8",
+    "question": "Na multiplicação para os quatro mil, quantos cestos sobraram?",
+    "options": [
+     "Doze",
+     "Sete",
+     "Cinco",
+     "Três"
+    ],
+    "answer": 1,
+    "evidence": "recolheram sete cestos",
+    "passage": "Eles comeram e ficaram satisfeitos. E recolheram sete cestos dos pedaços que sobraram.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação para os quatro mil, quantos cestos sobraram?\n\nA) Doze\nB) Sete\nC) Cinco\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia #cristao #gospel #teste #perguntasbiblicas #evangelico #deus #conhecimentobiblico #palavradedeus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação para os quatro mil, quantos cestos sobraram?\n\nA) Doze\nB) Sete\nC) Cinco\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #biblia",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #biblia #evangelico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #evangelico #deus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nNa multiplicação para os quatro mil, quantos cestos sobraram?\n\nA) Doze\nB) Sete\nC) Cinco\nD) Três\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Na multiplicação para os quatro mil, quantos cestos sobraram? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação para os quatro mil, quantos cestos sobraram?\n\nA) Doze\nB) Sete\nC) Cinco\nD) Três\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-8-fill",
+   "date": "2026-11-01",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-01T18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-01T08:24:16+00:00",
+   "source": "bank",
+   "bank_id": "v085",
+   "model": null,
+   "content": {
+    "ref": "Romanos 12:12",
+    "ref_label": "Romanos 12:12",
+    "verse_text": "Alegrando-se na esperança, suportando as tribulações, perseverando continuamente na oração…",
+    "question": "Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…",
+    "options": [
+     "glória",
+     "vida",
+     "esperança",
+     "liberdade"
+    ],
+    "answer": 2,
+    "answer_word": "esperança",
+    "tags": [
+     "perseveranca",
+     "oracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: Romanos 12:12\nVocê sabe esse versículo de cor? 📖\n\n“Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…”\n\nA) glória\nB) vida\nC) esperança\nD) liberdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #oracao #completeoversiculo #versiculo #palavradedeus #biblia #quizbiblico #evangelico #deus #cristao #jesus",
+    "facebook": "Versículo para não desistir: Romanos 12:12\nVocê sabe esse versículo de cor? 📖\n\n“Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…”\n\nA) glória\nB) vida\nC) esperança\nD) liberdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #oracao #completeoversiculo",
+    "tiktok": "Versículo para não desistir\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #oracao #completeoversiculo #versiculo",
+    "kwai": "Versículo para não desistir\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparanaodesistir #perseveranca #oracao #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…”\n\nA) glória\nB) vida\nC) esperança\nD) liberdade\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo para não desistir: Romanos 12:12 📖 #shorts",
+     "description": "Versículo para não desistir: Romanos 12:12\nVocê sabe esse versículo de cor? 📖\n\n“Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…”\n\nA) glória\nB) vida\nC) esperança\nD) liberdade\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #oracao",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "oracao",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-7-quiz",
+   "date": "2026-11-01",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-01T17:07",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-01T08:23:52+00:00",
+   "source": "bank",
+   "bank_id": "q274",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 13:1",
+    "ref_label": "1 Samuel 13:1",
+    "question": "Com quantos anos Saul começou a reinar?",
+    "options": [
+     "Vinte",
+     "Trinta",
+     "Cinquenta",
+     "Sessenta"
+    ],
+    "answer": 1,
+    "evidence": "Saul tinha trinta anos de idade",
+    "passage": "Saul tinha trinta anos de idade quando começou a reinar, e reinou sobre Israel quarenta e dois anos.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nCom quantos anos Saul começou a reinar?\n\nA) Vinte\nB) Trinta\nC) Cinquenta\nD) Sessenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel #evangelico #perguntasbiblicas #fe #biblia #conhecimentobiblico #desafio #cristao #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nCom quantos anos Saul começou a reinar?\n\nA) Vinte\nB) Trinta\nC) Cinquenta\nD) Sessenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #cristao #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #teste #perguntasbiblicas",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nCom quantos anos Saul começou a reinar?\n\nA) Vinte\nB) Trinta\nC) Cinquenta\nD) Sessenta\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Com quantos anos Saul começou a reinar? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nCom quantos anos Saul começou a reinar?\n\nA) Vinte\nB) Trinta\nC) Cinquenta\nD) Sessenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-6-truefalse",
+   "date": "2026-11-01",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-01T14:53",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-01T08:23:29+00:00",
+   "source": "bank",
+   "bank_id": "q090",
+   "model": null,
+   "content": {
+    "ref": "Lucas 10:38-39",
+    "ref_label": "Lucas 10:38-39",
+    "question": "Qual era o nome da irmã de Marta que se assentou aos pés de Jesus?",
+    "shown": "Salomé",
+    "is_true": false,
+    "correct": "Maria",
+    "evidence": "irmã chamada Maria",
+    "passage": "Enquanto seguiam o seu caminho, ele entrou em uma certa aldeia, e uma certa mulher chamada Marta o recebeu em sua casa. Ela tinha uma irmã chamada Maria, a qual também se assentou aos pés de Jesus e ouvia a sua palavra.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao #gospel #fe #jesus #desafiobiblico #evangelico #biblia #perguntasbiblicas #palavradedeus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #perguntasbiblicas #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #jesus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-5-curiosity",
+   "date": "2026-11-01",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-01T13:39",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-01T08:23:07+00:00",
+   "source": "bank",
+   "bank_id": "c289",
+   "model": null,
+   "content": {
+    "ref": "Mateus 27:51",
+    "ref_label": "Mateus 27:51",
+    "title": "O véu do templo rasgou de alto a baixo",
+    "text": "Quando Jesus morreu, o véu do templo se rasgou em dois, de alto a baixo, a terra tremeu e as rochas se fendaram.",
+    "evidence": "de alto a baixo",
+    "passage": "Eis que o véu do templo se rasgou em dois, de alto a baixo. A terra tremeu e as rochas se fendaram.",
+    "tags": [
+     "sextasanta",
+     "cruz"
+    ]
+   },
+   "captions": {
+    "instagram": "O véu do templo rasgou de alto a baixo\n\nQuando Jesus morreu, o véu do templo se rasgou em dois, de alto a baixo, a terra tremeu e as rochas se fendaram. (Mateus 27:51)\n\nQuando Jesus entregou sua vida, o véu do templo se rompeu em dois, de alto a baixo. A terra tremeu e as rochas se fendaram, mostrando que o caminho para Deus agora está aberto a todos. Que essa lembrança nos inspire a confiar no sacrifício que nos dá acesso direto ao Pai. Salve e compartilhe essa verdade que transforma! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #cruz #vocesabia #curiosidadesbiblicas #estudobiblico #historiabiblica #fe #biblia #cristao #deus #gospel #jesus",
+    "facebook": "O véu do templo rasgou de alto a baixo\n\nQuando Jesus morreu, o véu do templo se rasgou em dois, de alto a baixo, a terra tremeu e as rochas se fendaram. (Mateus 27:51)\n\nQuando Jesus entregou sua vida, o véu do templo se rompeu em dois, de alto a baixo. A terra tremeu e as rochas se fendaram, mostrando que o caminho para Deus agora está aberto a todos. Que essa lembrança nos inspire a confiar no sacrifício que nos dá acesso direto ao Pai. Salve e compartilhe essa verdade que transforma! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #cruz #vocesabia #curiosidadesbiblicas",
+    "tiktok": "O véu do templo rasgou de alto a baixo quando Jesus morreu. O caminho está aberto! 🙏\n#sextasanta #cruz #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "O véu do templo rasgou de alto a baixo quando Jesus morreu. O caminho está aberto! 🙏\n#sextasanta #cruz #vocesabia #curiosidadesbiblicas #biblia",
+    "whatsapp": "O véu do templo rasgou de alto a baixo\n\nQuando Jesus morreu, o véu do templo se rasgou em dois, de alto a baixo, a terra tremeu e as rochas se fendaram. (Mateus 27:51)\n\nQuando Jesus entregou sua vida, o véu do templo se rompeu em dois, de alto a baixo. A terra tremeu e as rochas se fendaram, mostrando que o caminho para Deus agora está aberto a todos. Que essa lembrança nos inspire a confiar no sacrifício que nos dá acesso direto ao Pai. Salve e compartilhe essa verdade que transforma! 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? O véu do templo rasgou de alto a baixo #shorts",
+     "description": "O véu do templo rasgou de alto a baixo\n\nQuando Jesus morreu, o véu do templo se rasgou em dois, de alto a baixo, a terra tremeu e as rochas se fendaram. (Mateus 27:51)\n\nQuando Jesus entregou sua vida, o véu do templo se rompeu em dois, de alto a baixo. A terra tremeu e as rochas se fendaram, mostrando que o caminho para Deus agora está aberto a todos. Que essa lembrança nos inspire a confiar no sacrifício que nos dá acesso direto ao Pai. Salve e compartilhe essa verdade que transforma! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sextasanta #cruz #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "sextasanta",
+      "cruz",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.02,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-4-quiz",
+   "date": "2026-11-01",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-01T11:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-01T08:22:40+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Romanos 4:3",
+    "ref_label": "Romanos 4:3",
+    "question": "Qual palavra descreve o que foi imputado a Abraão por sua fé?",
+    "options": [
+     "Graça",
+     "Justiça",
+     "Santidade",
+     "Redenção"
+    ],
+    "answer": 1,
+    "evidence": "Justiça",
+    "passage": "Pois o que diz a Escritura? “Abraão creu em Deus, e isso lhe foi imputado como justiça.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra descreve o que foi imputado a Abraão por sua fé?\n\nA) Graça\nB) Justiça\nC) Santidade\nD) Redenção\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #deus #evangelico #teste #jesus #fe #desafio #biblia #gospel #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra descreve o que foi imputado a Abraão por sua fé?\n\nA) Graça\nB) Justiça\nC) Santidade\nD) Redenção\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #biblia #fe",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #jesus #perguntasbiblicas",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual palavra descreve o que foi imputado a Abraão por sua fé?\n\nA) Graça\nB) Justiça\nC) Santidade\nD) Redenção\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra descreve o que foi imputado a Abraão por sua fé? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra descreve o que foi imputado a Abraão por sua fé?\n\nA) Graça\nB) Justiça\nC) Santidade\nD) Redenção\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-3-truefalse",
+   "date": "2026-11-01",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-01T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-01T08:22:13+00:00",
+   "source": "bank",
+   "bank_id": "q1156",
+   "model": null,
+   "content": {
+    "ref": "Atos 28:8",
+    "ref_label": "Atos 28:8",
+    "question": "De que sofria o pai de Públio, curado por Paulo?",
+    "shown": "Lepra",
+    "is_true": false,
+    "correct": "Febre e disenteria",
+    "evidence": "doente com febre e disenteria",
+    "passage": "O pai de Públio estava de cama, doente com febre e disenteria. Paulo entrou para vê-lo, orou e, impondo as mãos sobre ele, o curou.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nDe que sofria o pai de Públio, curado por Paulo?\nResposta: Lepra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico #gospel #cristao #conhecimentobiblico #palavradedeus #perguntasbiblicas #evangelico #biblia #deus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nDe que sofria o pai de Públio, curado por Paulo?\nResposta: Lepra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #fe",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia #perguntasbiblicas",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nDe que sofria o pai de Públio, curado por Paulo?\nResposta: Lepra\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? De que sofria o pai de Públio, curado por Paulo? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nDe que sofria o pai de Públio, curado por Paulo?\nResposta: Lepra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-2-quiz",
+   "date": "2026-11-01",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-01T08:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-01T08:21:54+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Apocalipse 15:2",
+    "ref_label": "Apocalipse 15:2",
+    "question": "Qual é o lugar onde os que venceram a besta estavam de pé?",
+    "options": [
+     "Mar de vidro",
+     "Rio de prata",
+     "Monte Sião",
+     "Jardim de Éden"
+    ],
+    "answer": 0,
+    "evidence": "Mar de vidro",
+    "passage": "Vi algo como um mar de vidro misturado com fogo, e aqueles que venceram a besta, a sua imagem, e o número do seu nome, em pé sobre o mar de vidro, tendo harpas de Deus.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual é o lugar onde os que venceram a besta estavam de pé?\n\nA) Mar de vidro\nB) Rio de prata\nC) Monte Sião\nD) Jardim de Éden\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #cristao #evangelico #perguntasbiblicas #palavradedeus #deus #teste #biblia #desafio #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual é o lugar onde os que venceram a besta estavam de pé?\n\nA) Mar de vidro\nB) Rio de prata\nC) Monte Sião\nD) Jardim de Éden\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #teste #palavradedeus",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #jesus #perguntasbiblicas",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual é o lugar onde os que venceram a besta estavam de pé?\n\nA) Mar de vidro\nB) Rio de prata\nC) Monte Sião\nD) Jardim de Éden\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual é o lugar onde os que venceram a besta estavam de pé? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual é o lugar onde os que venceram a besta estavam de pé?\n\nA) Mar de vidro\nB) Rio de prata\nC) Monte Sião\nD) Jardim de Éden\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-01-1-verse",
+   "date": "2026-11-01",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-01T06:38",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-01T08:21:27+00:00",
+   "source": "bank",
+   "bank_id": "v632",
+   "model": null,
+   "content": {
+    "ref": "Hebreus 10:25",
+    "ref_label": "Hebreus 10:25",
+    "verse_text": "Não deixando de nos congregar, como é costume de alguns, mas exortando-nos uns aos outros, e tanto mais quanto vocês veem que o Dia se aproxima.",
+    "on_screen": "Não deixemos de nos congregar, mas exortemo-nos uns aos outros.",
+    "reflection": "A fé cresce na comunhão. Se você está afastado, volte: há uma família esperando por você e um Deus que te recebe de braços abertos.",
+    "theme": "comunhão",
+    "mood": "reflexao",
+    "tags": [
+     "domingo",
+     "igreja",
+     "comunhao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre unidade: Hebreus 10:25\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não deixando de nos congregar, como é costume de alguns, mas exortando-nos uns aos outros, e tanto mais quanto vocês veem que o Dia se aproxima.” (Hebreus 10:25)\n\nA fé se fortalece quando caminhamos juntos. Se você se sente distante, lembre‑se: há uma comunidade pronta para te acolher e um Deus que te recebe de braços abertos. Não deixe a rotina afastar você da comunhão que alimenta o coração. Compartilhe essa mensagem e inspire alguém a retornar ao encontro. Salve para lembrar e volte à reunião que renova a esperança!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreunidade #comunhao #domingo #igreja #versiculododia #versiculo #gospel #fe #oracao #evangelico #jesus #palavradedeus",
+    "facebook": "Versículo sobre unidade: Hebreus 10:25\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não deixando de nos congregar, como é costume de alguns, mas exortando-nos uns aos outros, e tanto mais quanto vocês veem que o Dia se aproxima.” (Hebreus 10:25)\n\nA fé se fortalece quando caminhamos juntos. Se você se sente distante, lembre‑se: há uma comunidade pronta para te acolher e um Deus que te recebe de braços abertos. Não deixe a rotina afastar você da comunhão que alimenta o coração. Compartilhe essa mensagem e inspire alguém a retornar ao encontro. Salve para lembrar e volte à reunião que renova a esperança!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreunidade #comunhao #domingo #igreja",
+    "tiktok": "Versículo sobre unidade\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nA fé cresce na comunhão. Volte, há uma família te esperando! 🙏\n#versiculosobreunidade #comunhao #domingo #igreja #versiculododia",
+    "kwai": "Versículo sobre unidade\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nA fé cresce na comunhão. Volte, há uma família te esperando! 🙏\n#versiculosobreunidade #comunhao #domingo #igreja #versiculododia",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não deixando de nos congregar, como é costume de alguns, mas exortando-nos uns aos outros, e tanto mais quanto vocês veem que o Dia se aproxima.” (Hebreus 10:25)\n\nA fé se fortalece quando caminhamos juntos. Se você se sente distante, lembre‑se: há uma comunidade pronta para te acolher e um Deus que te recebe de braços abertos. Não deixe a rotina afastar você da comunhão que alimenta o coração. Compartilhe essa mensagem e inspire alguém a retornar ao encontro. Salve para lembrar e volte à reunião que renova a esperança!\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre unidade: Hebreus 10:25 🙏 #shorts",
+     "description": "Versículo sobre unidade: Hebreus 10:25\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não deixando de nos congregar, como é costume de alguns, mas exortando-nos uns aos outros, e tanto mais quanto vocês veem que o Dia se aproxima.” (Hebreus 10:25)\n\nA fé se fortalece quando caminhamos juntos. Se você se sente distante, lembre‑se: há uma comunidade pronta para te acolher e um Deus que te recebe de braços abertos. Não deixe a rotina afastar você da comunhão que alimenta o coração. Compartilhe essa mensagem e inspire alguém a retornar ao encontro. Salve para lembrar e volte à reunião que renova a esperança!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreunidade #comunhao #domingo",
+     "tags": [
+      "versículo sobre unidade",
+      "versículos sobre unidade",
+      "comunhão",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "domingo",
+      "igreja",
+      "comunhao",
+      "hebreus"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.53,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-01/2026-11-01-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null
+  }
+ ]
 }
