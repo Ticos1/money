@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-01T15:01:10+00:00",
+ "updated_at": "2026-11-01T16:44:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-01-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-01",
+   "time": "13:30",
+   "title": "O véu do templo rasgou de alto a baixo",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1122970980476837"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-01-4-quiz": {
    "type": "quiz",
    "date": "2026-11-01",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.6,
+    "watch_time_s": 9.7
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 489,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1182.5
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -67,14 +84,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1847192479645658"
    },
    "facebook": {
-    "likes": 6,
+    "likes": 8,
     "comments": 0,
-    "views": 743,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 3083.4
+    "views": 1214,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 4689.1
    },
    "youtube": {
-    "views": 34,
+    "views": 38,
     "likes": 0,
     "comments": 0
    }
@@ -132,20 +149,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 40,
+    "reach": 42,
     "saved": 0,
     "shares": 0,
-    "views": 54,
+    "views": 55,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 138.8
+    "avg_watch_s": 3.8,
+    "watch_time_s": 165.3
    },
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 71,
-    "avg_watch_s": 10.4,
-    "watch_time_s": 396.6
+    "views": 95,
+    "avg_watch_s": 11.8,
+    "watch_time_s": 589.3
    }
   },
   "2026-10-31-8-fill": {
@@ -158,7 +175,7 @@
     "youtube": "https://youtube.com/shorts/TyltWaNvD4k"
    },
    "youtube": {
-    "views": 131,
+    "views": 127,
     "likes": 2,
     "comments": 0
    }
@@ -175,9 +192,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1497,
+    "views": 1500,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6848.0
+    "watch_time_s": 6866.2
    }
   },
   "2026-10-31-6-truefalse": {
@@ -210,8 +227,8 @@
     "watch_time_s": 6312.4
    },
    "youtube": {
-    "views": 201,
-    "likes": 4,
+    "views": 225,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -257,12 +274,12 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 261,
+    "views": 262,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1025.2
+    "watch_time_s": 1027.0
    },
    "youtube": {
-    "views": 41,
+    "views": 42,
     "likes": 2,
     "comments": 0
    }
@@ -297,12 +314,12 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1331,
+    "views": 1334,
     "avg_watch_s": 4.8,
-    "watch_time_s": 5135.4
+    "watch_time_s": 5142.6
    },
    "youtube": {
-    "views": 80,
+    "views": 81,
     "likes": 2,
     "comments": 0
    }
@@ -377,7 +394,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 133,
+    "views": 137,
     "likes": 3,
     "comments": 0
    }
@@ -394,9 +411,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2075,
+    "views": 2076,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10679.6
+    "watch_time_s": 10689.6
    }
   },
   "2026-10-30-6-truefalse": {
@@ -481,7 +498,7 @@
     "watch_time_s": 1160.4
    },
    "youtube": {
-    "views": 132,
+    "views": 133,
     "likes": 4,
     "comments": 0
    }
@@ -596,7 +613,7 @@
     "youtube": "https://youtube.com/shorts/vhMKE2C2yT0"
    },
    "youtube": {
-    "views": 48,
+    "views": 49,
     "likes": 1,
     "comments": 0
    }
@@ -645,7 +662,7 @@
     "comments": 0,
     "views": 1444,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6077.0
+    "watch_time_s": 6080.7
    },
    "youtube": {
     "views": 192,
@@ -695,9 +712,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1273,
+    "views": 1275,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6084.6
+    "watch_time_s": 6088.8
    },
    "youtube": {
     "views": 207,
@@ -1639,7 +1656,7 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "youtube": {
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -4503,9 +4520,9 @@
    "facebook": {
     "likes": 4,
     "comments": 2,
-    "views": 951,
+    "views": 952,
     "avg_watch_s": 3.7,
-    "watch_time_s": 3109.7
+    "watch_time_s": 3111.9
    }
   },
   "2026-10-13-5-curiosity": {
