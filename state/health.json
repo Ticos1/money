@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T19:38:38+00:00",
+ "updated_at": "2026-11-01T20:14:01+00:00",
  "date": "2026-11-01",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-01-7-quiz",
+   "date": "2026-11-01",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-01T17:07",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-01T20:10:33+00:00",
+    "stories": "2026-11-01T20:11:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1696448175386139",
+    "stories": "story 18110185376631162"
+   },
+   "title": "Com quantos anos Saul começou a reinar?"
+  },
   {
    "id": "2026-11-01-6-truefalse",
    "date": "2026-11-01",
