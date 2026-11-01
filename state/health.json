@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-01T00:46:13+00:00",
- "date": "2026-10-31",
+ "updated_at": "2026-11-01T06:00:38+00:00",
+ "date": "2026-11-01",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 447,
-   "days_left": 447,
+   "fresh": 448,
+   "days_left": 448,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1044,
+   "fresh": 1045,
    "days_left": 149,
    "warn": false
   },
@@ -49,284 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-10-31-11-compilation",
-   "date": "2026-10-31",
-   "slot": 11,
-   "time": "12:00",
-   "publish_at": "2026-10-31T11:59",
-   "type": "compilation",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-31T15:05:34+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": null,
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtu.be/nxEq7m2j3u0"
-   },
-   "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
-  },
-  {
-   "id": "2026-10-31-10-truefalse",
-   "date": "2026-10-31",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-10-31T21:39",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-01T00:40:44+00:00",
-    "stories": "2026-11-01T00:41:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1392261039646588",
-    "stories": "story 17912293239516321"
-   },
-   "title": "Como morreu o rei Herodes, por não ter dado glória a Deus?"
-  },
-  {
-   "id": "2026-10-31-9-quiz",
-   "date": "2026-10-31",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-10-31T20:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": "2026-10-31T23:06:23+00:00",
-    "facebook": "2026-10-31T23:06:28+00:00",
-    "stories": "2026-10-31T23:07:18+00:00",
-    "whatsapp": null
-   },
-   "publish_skipped": {
-    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "instagram": "https://www.instagram.com/reel/DfLTC9Mjcq9/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1796024578312851",
-    "stories": "story 17919421194461152"
-   },
-   "title": "Na casa de quem a igreja orava quando Pedro foi libertado da prisão?"
-  },
-  {
-   "id": "2026-10-31-8-fill",
-   "date": "2026-10-31",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-10-31T18:31",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-31T21:35:28+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-31T21:36:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/TyltWaNvD4k",
-    "stories": "story 18108789814971029"
-   },
-   "title": "O coração alegre é um bom remédio, mas o _____ abatido seca os ossos."
-  },
-  {
-   "id": "2026-10-31-7-quiz",
-   "date": "2026-10-31",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-10-31T16:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-31T19:55:31+00:00",
-    "stories": "2026-10-31T19:56:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1868631930932602",
-    "stories": "story 17954648745272441"
-   },
-   "title": "Qual objeto Ismael encheu com os mortos de Gedalias?"
-  },
-  {
-   "id": "2026-10-31-6-truefalse",
-   "date": "2026-10-31",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-10-31T15:07",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-31T18:10:31+00:00",
-    "instagram": "2026-10-31T18:10:59+00:00",
-    "facebook": "2026-10-31T18:11:03+00:00",
-    "stories": "2026-10-31T18:12:35+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/hMsqwzW_19A",
-    "instagram": "https://www.instagram.com/reel/DfKxPZflJ0l/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1532598332010218",
-    "stories": "story 17914347576481287"
-   },
-   "title": "Que idade tinha Eli quando recebeu a notícia da perda da arca?"
-  },
-  {
-   "id": "2026-10-31-5-curiosity",
-   "date": "2026-10-31",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-10-31T13:31",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-31T16:35:30+00:00",
-    "stories": "2026-10-31T16:36:46+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1062742920084726",
-    "stories": "story 18205315762330941"
-   },
-   "title": "Uma frase que aparece várias vezes"
-  },
-  {
-   "id": "2026-10-31-4-quiz",
-   "date": "2026-10-31",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-10-31T11:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-31T14:55:33+00:00",
-    "instagram": "2026-10-31T14:56:12+00:00",
-    "facebook": "2026-10-31T14:56:18+00:00",
-    "stories": "2026-10-31T14:56:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/xSM80cYtP1s",
-    "instagram": "https://www.instagram.com/reel/DfKa7ZQie80/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2442075373294782",
-    "stories": "story 17865173139696547"
-   },
-   "title": "O justo viverá pelo quê, segundo Romanos 1:17?"
-  },
-  {
-   "id": "2026-10-31-3-truefalse",
-   "date": "2026-10-31",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-10-31T10:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-10-31T13:05:32+00:00",
-    "stories": "2026-10-31T13:06:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1081475774721464",
-    "stories": "story 18117968371819177"
-   },
-   "title": "Com qual animal o lobo viverá, segundo Isaías 11:6?"
-  },
-  {
-   "id": "2026-10-31-2-quiz",
-   "date": "2026-10-31",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-10-31T08:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-10-31T11:05:34+00:00",
-    "instagram": null,
-    "facebook": "2026-10-31T11:05:39+00:00",
-    "stories": "2026-10-31T11:06:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SQZX2u1nvnE",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1156759453700785",
-    "stories": "story 18077705387751379"
-   },
-   "title": "Segundo Efésios 2:8, somos salvos pela graça, por meio de quê?"
-  },
-  {
-   "id": "2026-10-31-1-verse",
-   "date": "2026-10-31",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-10-31T06:40",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-10-31T09:40:58+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18031744700880732"
-   },
-   "title": "Romanos 3:28"
-  }
- ],
- "specials": {
-  "2026-10-31": {
-   "key": "reforma",
-   "name": "Dia da Reforma",
-   "hook": "31 de outubro: só a graça, só a fé. 📖"
-  }
- }
+ "today_done": [],
+ "specials": {}
 }
