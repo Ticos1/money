@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-01-6-truefalse",
+   "date": "2026-11-01",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-01T14:53",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-01T08:23:29+00:00",
+   "source": "bank",
+   "bank_id": "q090",
+   "model": null,
+   "content": {
+    "ref": "Lucas 10:38-39",
+    "ref_label": "Lucas 10:38-39",
+    "question": "Qual era o nome da irmã de Marta que se assentou aos pés de Jesus?",
+    "shown": "Salomé",
+    "is_true": false,
+    "correct": "Maria",
+    "evidence": "irmã chamada Maria",
+    "passage": "Enquanto seguiam o seu caminho, ele entrou em uma certa aldeia, e uma certa mulher chamada Marta o recebeu em sua casa. Ela tinha uma irmã chamada Maria, a qual também se assentou aos pés de Jesus e ouvia a sua palavra.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao #gospel #fe #jesus #desafiobiblico #evangelico #biblia #perguntasbiblicas #palavradedeus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #perguntasbiblicas #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #jesus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da irmã de Marta que se assentou aos pés de Jesus?\nResposta: Salomé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-01T17:55:33+00:00",
+    "instagram": "2026-11-01T17:56:24+00:00",
+    "facebook": "2026-11-01T17:56:29+00:00",
+    "stories": "2026-11-01T17:57:03+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SVGVxQpTIHk",
+    "instagram": "https://www.instagram.com/reel/DfNUWAkD4_S/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1340212742517675",
+    "stories": "story 18025108841719213"
+   }
+  },
+  {
    "id": "2026-11-01-5-curiosity",
    "date": "2026-11-01",
    "slot": 5,
