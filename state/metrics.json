@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-01T11:09:30+00:00",
+ "updated_at": "2026-11-01T12:54:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-01-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-01",
+   "time": "10:00",
+   "title": "De que sofria o pai de Públio, curado por Paulo?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/945789355024646"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-01-2-quiz": {
    "type": "quiz",
    "date": "2026-11-01",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1847192479645658"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 356,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1163.4
    },
    "youtube": {
     "views": 0,
@@ -80,20 +97,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
-    "views": 41,
+    "views": 46,
     "total_interactions": 0,
-    "avg_watch_s": 3.2,
-    "watch_time_s": 106.7
+    "avg_watch_s": 3.6,
+    "watch_time_s": 130.7
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 27,
-    "avg_watch_s": 7.2,
-    "watch_time_s": 129.5
+    "views": 41,
+    "avg_watch_s": 6.9,
+    "watch_time_s": 187.0
    }
   },
   "2026-10-31-8-fill": {
@@ -123,9 +140,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1474,
+    "views": 1491,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6749.8
+    "watch_time_s": 6800.7
    }
   },
   "2026-10-31-6-truefalse": {
@@ -153,13 +170,13 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1513,
+    "views": 1515,
     "avg_watch_s": 5.5,
-    "watch_time_s": 6289.1
+    "watch_time_s": 6297.4
    },
    "youtube": {
-    "views": 176,
-    "likes": 3,
+    "views": 183,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -245,9 +262,9 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1327,
+    "views": 1328,
     "avg_watch_s": 4.8,
-    "watch_time_s": 5119.8
+    "watch_time_s": 5121.4
    },
    "youtube": {
     "views": 76,
