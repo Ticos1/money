@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-01T21:34:02+00:00",
+ "updated_at": "2026-11-01T22:59:09+00:00",
  "date": "2026-11-01",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-01-9-quiz",
+   "date": "2026-11-01",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-01T19:52",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-01T22:55:30+00:00",
+    "instagram": "2026-11-01T22:56:07+00:00",
+    "facebook": "2026-11-01T22:56:11+00:00",
+    "stories": "2026-11-01T22:56:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ALAOq7JZBuM",
+    "instagram": "https://www.instagram.com/reel/DfN2pjzE-eN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1109108838495198",
+    "stories": "story 18028047398872549"
+   },
+   "title": "Na multiplicação para os quatro mil, quantos cestos sobraram?"
+  },
   {
    "id": "2026-11-01-8-fill",
    "date": "2026-11-01",
