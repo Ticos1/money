@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-01T19:38:34+00:00",
+ "updated_at": "2026-11-01T20:13:59+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-01-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "title": "Com quantos anos Saul começou a reinar?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1696448175386139"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-01-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-01",
@@ -51,7 +68,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 254,
+    "views": 255,
     "avg_watch_s": 3.2,
     "watch_time_s": 722.9
    }
@@ -70,24 +87,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
     "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 2.4,
-    "watch_time_s": 22.0
+    "avg_watch_s": 2.6,
+    "watch_time_s": 26.0
    },
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1261,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 4918.7
+    "views": 1270,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 4943.6
    },
    "youtube": {
-    "views": 39,
-    "likes": 0,
+    "views": 42,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -119,11 +136,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1847192479645658"
    },
    "facebook": {
-    "likes": 8,
+    "likes": 10,
     "comments": 0,
-    "views": 1533,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 6618.2
+    "views": 1542,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 6620.7
    },
    "youtube": {
     "views": 47,
@@ -195,9 +212,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 112,
-    "avg_watch_s": 10.2,
-    "watch_time_s": 641.9
+    "views": 113,
+    "avg_watch_s": 10.6,
+    "watch_time_s": 690.7
    }
   },
   "2026-10-31-8-fill": {
@@ -309,9 +326,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 263,
+    "views": 264,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1030.7
+    "watch_time_s": 1032.0
    },
    "youtube": {
     "views": 49,
@@ -446,9 +463,9 @@
    "facebook": {
     "likes": 11,
     "comments": 2,
-    "views": 2078,
+    "views": 2079,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10690.4
+    "watch_time_s": 10694.0
    }
   },
   "2026-10-30-6-truefalse": {
@@ -476,7 +493,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 812,
+    "views": 813,
     "avg_watch_s": 5.9,
     "watch_time_s": 3413.6
    },
@@ -1542,8 +1559,8 @@
     "likes": 0,
     "comments": 0,
     "views": 3,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 7.9
+    "avg_watch_s": 2.9,
+    "watch_time_s": 8.6
    }
   },
   "2026-10-25-6-truefalse": {
@@ -3233,7 +3250,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 159,
+    "views": 160,
     "likes": 2,
     "comments": 0
    }
