@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-01T20:14:01+00:00",
+ "updated_at": "2026-11-01T21:34:02+00:00",
  "date": "2026-11-01",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-01-8-fill",
+   "date": "2026-11-01",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-01T18:30",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-01T21:30:28+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-01T21:31:03+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/lTgz0z5pMDg",
+    "stories": "story 17933299704416590"
+   },
+   "title": "Alegrando-se na _____, suportando as tribulações, perseverando continuamente na oração…"
+  },
   {
    "id": "2026-11-01-7-quiz",
    "date": "2026-11-01",
