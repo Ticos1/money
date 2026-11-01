@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-01T09:08:43+00:00",
+ "updated_at": "2026-11-01T09:43:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-01-1-verse": {
+   "type": "verse",
+   "date": "2026-11-01",
+   "time": "06:30",
+   "title": "Hebreus 10:25",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-10-31-11-compilation": {
    "type": "compilation",
    "date": "2026-10-31",
@@ -49,20 +57,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 29,
+    "reach": 30,
     "saved": 0,
     "shares": 0,
-    "views": 38,
+    "views": 39,
     "total_interactions": 0,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 91.0
+    "avg_watch_s": 3.2,
+    "watch_time_s": 100.6
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 23,
-    "avg_watch_s": 8.7,
-    "watch_time_s": 121.2
+    "views": 25,
+    "avg_watch_s": 8.4,
+    "watch_time_s": 126.4
    }
   },
   "2026-10-31-8-fill": {
@@ -94,7 +102,7 @@
     "comments": 0,
     "views": 1468,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6717.1
+    "watch_time_s": 6724.6
    }
   },
   "2026-10-31-6-truefalse": {
@@ -124,7 +132,7 @@
     "comments": 0,
     "views": 1511,
     "avg_watch_s": 5.5,
-    "watch_time_s": 6284.0
+    "watch_time_s": 6285.0
    },
    "youtube": {
     "views": 167,
