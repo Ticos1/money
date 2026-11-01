@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T00:06:27+00:00",
+ "updated_at": "2026-11-01T00:46:10+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-10-31-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-10-31",
+   "time": "21:30",
+   "title": "Como morreu o rei Herodes, por não ter dado glória a Deus?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1392261039646588"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-10-31-9-quiz": {
    "type": "quiz",
    "date": "2026-10-31",
@@ -32,20 +49,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 9,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.3,
+    "watch_time_s": 1.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
     "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 15.9,
+    "watch_time_s": 15.9
    }
   },
   "2026-10-31-8-fill": {
@@ -58,8 +75,8 @@
     "youtube": "https://youtube.com/shorts/TyltWaNvD4k"
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 36,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -75,9 +92,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1165,
+    "views": 1317,
     "avg_watch_s": 6.0,
-    "watch_time_s": 5283.9
+    "watch_time_s": 5993.3
    }
   },
   "2026-10-31-6-truefalse": {
@@ -94,24 +111,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 5,
     "total_interactions": 0,
-    "avg_watch_s": 0.9,
-    "watch_time_s": 2.6
+    "avg_watch_s": 2.5,
+    "watch_time_s": 12.4
    },
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1451,
+    "views": 1470,
     "avg_watch_s": 5.5,
-    "watch_time_s": 6032.0
+    "watch_time_s": 6062.9
    },
    "youtube": {
-    "views": 60,
-    "likes": 0,
+    "views": 84,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -128,8 +145,8 @@
     "likes": 3,
     "comments": 0,
     "views": 240,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 862.3
+    "avg_watch_s": 4.2,
+    "watch_time_s": 876.0
    }
   },
   "2026-10-31-4-quiz": {
@@ -162,8 +179,8 @@
     "watch_time_s": 1004.6
    },
    "youtube": {
-    "views": 17,
-    "likes": 0,
+    "views": 21,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -180,8 +197,8 @@
     "likes": 0,
     "comments": 0,
     "views": 7,
-    "avg_watch_s": 18.0,
-    "watch_time_s": 18.0
+    "avg_watch_s": 20.2,
+    "watch_time_s": 40.3
    }
   },
   "2026-10-31-2-quiz": {
@@ -197,13 +214,13 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1288,
+    "views": 1306,
     "avg_watch_s": 4.7,
-    "watch_time_s": 4828.2
+    "watch_time_s": 4880.2
    },
    "youtube": {
-    "views": 40,
-    "likes": 1,
+    "views": 49,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -543,9 +560,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1442,
+    "views": 1443,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6075.5
+    "watch_time_s": 6077.0
    },
    "youtube": {
     "views": 192,
@@ -1511,9 +1528,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1832,
+    "views": 1833,
     "avg_watch_s": 6.6,
-    "watch_time_s": 8981.8
+    "watch_time_s": 8988.2
    },
    "youtube": {
     "views": 88,
