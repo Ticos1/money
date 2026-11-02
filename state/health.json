@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-02T16:34:16+00:00",
+ "updated_at": "2026-11-02T18:09:30+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-02-6-truefalse",
+   "date": "2026-11-02",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-02T15:05",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-02T18:05:32+00:00",
+    "instagram": "2026-11-02T18:06:06+00:00",
+    "facebook": "2026-11-02T18:06:10+00:00",
+    "stories": "2026-11-02T18:07:07+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Z18Wk4KxDog",
+    "instagram": "https://www.instagram.com/reel/DfP6QqQlYvH/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1135696332312529",
+    "stories": "story 18097959533124214"
+   },
+   "title": "Na segunda praga, que animais subiram e cobriram a terra do Egito?"
+  },
   {
    "id": "2026-11-02-5-curiosity",
    "date": "2026-11-02",
