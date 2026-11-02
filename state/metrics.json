@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-02T11:04:14+00:00",
+ "updated_at": "2026-11-02T12:59:28+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-02-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-02",
+   "time": "10:00",
+   "title": "O que Raabe deveria amarrar na janela quando Israel entrasse na terra?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1111042691795039"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-02-2-quiz": {
    "type": "quiz",
    "date": "2026-11-02",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 9.7,
+    "watch_time_s": 9.7
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 21,
+    "reach": 22,
     "saved": 0,
     "shares": 0,
-    "views": 24,
+    "views": 25,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 74.0
+    "avg_watch_s": 3.4,
+    "watch_time_s": 74.7
    },
    "facebook": {
     "likes": 0,
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 826,
+    "views": 836,
     "avg_watch_s": 4.3,
-    "watch_time_s": 2758.4
+    "watch_time_s": 2783.7
    }
   },
   "2026-11-01-6-truefalse": {
@@ -133,13 +150,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 106,
+    "reach": 107,
     "saved": 0,
     "shares": 0,
-    "views": 140,
+    "views": 141,
     "total_interactions": 1,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 495.8
+    "avg_watch_s": 4.6,
+    "watch_time_s": 496.6
    },
    "facebook": {
     "likes": 0,
@@ -149,7 +166,7 @@
     "watch_time_s": 35.4
    },
    "youtube": {
-    "views": 217,
+    "views": 225,
     "likes": 3,
     "comments": 0
    }
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 48,
     "saved": 0,
     "shares": 0,
-    "views": 53,
+    "views": 55,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 163.9
+    "avg_watch_s": 3.5,
+    "watch_time_s": 172.1
    },
    "facebook": {
     "likes": 4,
@@ -201,7 +218,7 @@
     "watch_time_s": 5161.1
    },
    "youtube": {
-    "views": 149,
+    "views": 150,
     "likes": 2,
     "comments": 0
    }
@@ -236,9 +253,9 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1949,
+    "views": 1951,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8748.0
+    "watch_time_s": 8758.6
    },
    "youtube": {
     "views": 90,
@@ -429,7 +446,7 @@
     "watch_time_s": 1032.0
    },
    "youtube": {
-    "views": 60,
+    "views": 61,
     "likes": 2,
     "comments": 0
    }
@@ -469,7 +486,7 @@
     "watch_time_s": 5146.9
    },
    "youtube": {
-    "views": 95,
+    "views": 97,
     "likes": 2,
     "comments": 0
    }
@@ -4124,7 +4141,7 @@
     "comments": 0,
     "views": 3,
     "avg_watch_s": 1.8,
-    "watch_time_s": 1.8
+    "watch_time_s": 3.5
    },
    "youtube": {
     "views": 23,
