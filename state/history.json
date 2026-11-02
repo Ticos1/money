@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-02-1-verse",
+   "date": "2026-11-02",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-02T06:26",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-02T08:21:05+00:00",
+   "source": "bank",
+   "bank_id": "v478",
+   "model": null,
+   "content": {
+    "ref": "Salmos 100:2",
+    "ref_label": "Salmos 100:2",
+    "verse_text": "Sirvam ao SENHOR com alegria. Venham à sua presença com cânticos.",
+    "on_screen": "Sirva a Deus com alegria e cântico.",
+    "reflection": "Este salmo convida todo o povo a se aproximar de Deus com gratidão e festa. Seja no trabalho ou em casa, sirva ao Senhor com um coração alegre hoje.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "adoracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Salmos 100:2\n“Sirvam ao SENHOR com alegria. Venham à sua presença com cânticos.” (Salmos 100:2)\n\nHoje o Salmo nos lembra de nos aproximar de Deus com gratidão e festa. Seja no trabalho, na casa ou onde estiver, sirva ao Senhor com um coração alegre. Deixe a alegria ser o ritmo da sua jornada e inspire quem está ao seu redor. Salve este post para lembrar de cultivar a alegria na sua caminhada diária! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #adoracao #versiculododia #versiculo #gospel #biblia #devocional #oracao #esperanca #cristao #evangelico",
+    "facebook": "Versículo de alegria: Salmos 100:2\n“Sirvam ao SENHOR com alegria. Venham à sua presença com cânticos.” (Salmos 100:2)\n\nHoje o Salmo nos lembra de nos aproximar de Deus com gratidão e festa. Seja no trabalho, na casa ou onde estiver, sirva ao Senhor com um coração alegre. Deixe a alegria ser o ritmo da sua jornada e inspire quem está ao seu redor. Salve este post para lembrar de cultivar a alegria na sua caminhada diária! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #adoracao #versiculododia",
+    "tiktok": "Versículo de alegria\nSirva ao Senhor com alegria hoje! Salve para lembrar. 🙏✨\n#versiculodealegria #alegria #adoracao #versiculododia #versiculo",
+    "kwai": "Versículo de alegria\nSirva ao Senhor com alegria hoje! Salve para lembrar. 🙏✨\n#versiculodealegria #alegria #adoracao #versiculododia #versiculo",
+    "whatsapp": "“Sirvam ao SENHOR com alegria. Venham à sua presença com cânticos.” (Salmos 100:2)\n\nHoje o Salmo nos lembra de nos aproximar de Deus com gratidão e festa. Seja no trabalho, na casa ou onde estiver, sirva ao Senhor com um coração alegre. Deixe a alegria ser o ritmo da sua jornada e inspire quem está ao seu redor. Salve este post para lembrar de cultivar a alegria na sua caminhada diária! 🙏✨\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de alegria: Salmos 100:2 🙏 #shorts",
+     "description": "Versículo de alegria: Salmos 100:2\n“Sirvam ao SENHOR com alegria. Venham à sua presença com cânticos.” (Salmos 100:2)\n\nHoje o Salmo nos lembra de nos aproximar de Deus com gratidão e festa. Seja no trabalho, na casa ou onde estiver, sirva ao Senhor com um coração alegre. Deixe a alegria ser o ritmo da sua jornada e inspire quem está ao seu redor. Salve este post para lembrar de cultivar a alegria na sua caminhada diária! 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #adoracao",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "adoracao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-02T09:31:14+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18115254500154487"
+   }
+  },
+  {
    "id": "2026-11-01-10-truefalse",
    "date": "2026-11-01",
    "slot": 10,
