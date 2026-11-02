@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T18:09:30+00:00",
+ "updated_at": "2026-11-02T20:04:07+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-02-7-quiz",
+   "date": "2026-11-02",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-02T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-02T20:00:37+00:00",
+    "stories": "2026-11-02T20:01:11+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1633364458337979",
+    "stories": "story 18142607767620103"
+   },
+   "title": "Depois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?"
+  },
   {
    "id": "2026-11-02-6-truefalse",
    "date": "2026-11-02",
