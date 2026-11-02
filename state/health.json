@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-02T21:43:41+00:00",
+ "updated_at": "2026-11-02T23:04:44+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-02-9-quiz",
+   "date": "2026-11-02",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-02T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-02T23:00:46+00:00",
+    "instagram": "2026-11-02T23:01:19+00:00",
+    "facebook": "2026-11-02T23:01:23+00:00",
+    "stories": "2026-11-02T23:01:56+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/x6I0w0ddoGg",
+    "instagram": "https://www.instagram.com/reel/DfQcC0vDOFZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1686802612837844",
+    "stories": "story 18145676245611276"
+   },
+   "title": "Quantos cavalos Rabsaqué ofereceu a Ezequias, se ele tivesse cavaleiros?"
+  },
   {
    "id": "2026-11-02-8-fill",
    "date": "2026-11-02",
