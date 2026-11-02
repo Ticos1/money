@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-02-4-quiz",
+   "date": "2026-11-02",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-02T12:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-02T08:22:01+00:00",
+   "source": "bank",
+   "bank_id": "q672",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 23:2",
+    "ref_label": "Gênesis 23:2",
+    "question": "Em qual cidade, também chamada Quiriate-Arba, Sara morreu?",
+    "options": [
+     "Berseba",
+     "Betel",
+     "Hebrom",
+     "Siquém"
+    ],
+    "answer": 2,
+    "evidence": "Quiriate-Arba (também chamada Hebrom)",
+    "passage": "Sara morreu em Quiriate-Arba (também chamada Hebrom), na terra de Canaã. Abraão veio para lamentar por Sara e chorar por ela.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nEm qual cidade, também chamada Quiriate-Arba, Sara morreu?\n\nA) Berseba\nB) Betel\nC) Hebrom\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #biblia #perguntasbiblicas #jesus #fe #evangelico #deus #palavradedeus #desafio #gospel",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nEm qual cidade, também chamada Quiriate-Arba, Sara morreu?\n\nA) Berseba\nB) Betel\nC) Hebrom\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #evangelico #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #jesus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nEm qual cidade, também chamada Quiriate-Arba, Sara morreu?\n\nA) Berseba\nB) Betel\nC) Hebrom\nD) Siquém\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Em qual cidade, também chamada Quiriate-Arba, Sara morreu? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nEm qual cidade, também chamada Quiriate-Arba, Sara morreu?\n\nA) Berseba\nB) Betel\nC) Hebrom\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-02T15:10:36+00:00",
+    "instagram": "2026-11-02T15:11:11+00:00",
+    "facebook": "2026-11-02T15:11:16+00:00",
+    "stories": "2026-11-02T15:12:15+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/AiChrtdpwjE",
+    "instagram": "https://www.instagram.com/reel/DfPmPT1k6t3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2145406639433841",
+    "stories": "story 17954827893296260"
+   }
+  },
+  {
    "id": "2026-11-02-3-truefalse",
    "date": "2026-11-02",
    "slot": 3,
