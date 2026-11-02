@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-02-7-quiz",
+   "date": "2026-11-02",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-02T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-02T08:23:04+00:00",
+   "source": "bank",
+   "bank_id": "q983",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 32:20",
+    "ref_label": "Êxodo 32:20",
+    "question": "Depois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?",
+    "options": [
+     "Sobre o altar",
+     "No deserto",
+     "Ao vento",
+     "Sobre a água"
+    ],
+    "answer": 3,
+    "evidence": "espalhou-o sobre a água",
+    "passage": "Ele pegou o bezerro que haviam feito e o queimou no fogo, moeu-o até virar pó, espalhou-o sobre a água e fez os filhos de Israel beberem dela.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nDepois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?\n\nA) Sobre o altar\nB) No deserto\nC) Ao vento\nD) Sobre a água\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #deus #palavradedeus #perguntasbiblicas #cristao #desafio #fe #jesus #evangelico #conhecimentobiblico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nDepois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?\n\nA) Sobre o altar\nB) No deserto\nC) Ao vento\nD) Sobre a água\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #conhecimentobiblico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #conhecimentobiblico",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nDepois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?\n\nA) Sobre o altar\nB) No deserto\nC) Ao vento\nD) Sobre a água\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Depois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nDepois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?\n\nA) Sobre o altar\nB) No deserto\nC) Ao vento\nD) Sobre a água\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-02T20:00:37+00:00",
+    "stories": "2026-11-02T20:01:11+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1633364458337979",
+    "stories": "story 18142607767620103"
+   }
+  },
+  {
    "id": "2026-11-02-6-truefalse",
    "date": "2026-11-02",
    "slot": 6,
