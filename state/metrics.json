@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-02T12:59:28+00:00",
+ "updated_at": "2026-11-02T15:15:31+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-02-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-02",
+   "time": "12:00",
+   "title": "Em qual cidade, também chamada Quiriate-Arba, Sara morreu?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/AiChrtdpwjE",
+    "instagram": "https://www.instagram.com/reel/DfPmPT1k6t3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2145406639433841"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-02-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-02",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 356,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 822.2
    }
   },
   "2026-11-02-2-quiz": {
@@ -39,7 +74,7 @@
     "watch_time_s": 9.7
    },
    "youtube": {
-    "views": 0,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
@@ -99,7 +134,7 @@
     "watch_time_s": 15.2
    },
    "youtube": {
-    "views": 34,
+    "views": 36,
     "likes": 0,
     "comments": 0
    }
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/lTgz0z5pMDg"
    },
    "youtube": {
-    "views": 40,
+    "views": 41,
     "likes": 1,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 836,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 2783.7
+    "views": 840,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 2815.0
    }
   },
   "2026-11-01-6-truefalse": {
@@ -166,7 +201,7 @@
     "watch_time_s": 35.4
    },
    "youtube": {
-    "views": 225,
+    "views": 246,
     "likes": 3,
     "comments": 0
    }
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 48,
+    "reach": 50,
     "saved": 0,
     "shares": 0,
-    "views": 55,
+    "views": 56,
     "total_interactions": 0,
     "avg_watch_s": 3.5,
-    "watch_time_s": 172.1
+    "watch_time_s": 174.5
    },
    "facebook": {
     "likes": 4,
@@ -218,7 +253,7 @@
     "watch_time_s": 5161.1
    },
    "youtube": {
-    "views": 150,
+    "views": 162,
     "likes": 2,
     "comments": 0
    }
@@ -253,12 +288,12 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1951,
+    "views": 1956,
     "avg_watch_s": 5.9,
-    "watch_time_s": 8758.6
+    "watch_time_s": 8777.9
    },
    "youtube": {
-    "views": 90,
+    "views": 93,
     "likes": 0,
     "comments": 0
    }
@@ -394,7 +429,7 @@
     "watch_time_s": 6332.8
    },
    "youtube": {
-    "views": 330,
+    "views": 344,
     "likes": 5,
     "comments": 0
    }
@@ -1795,9 +1830,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1835,
+    "views": 1836,
     "avg_watch_s": 6.6,
-    "watch_time_s": 9001.6
+    "watch_time_s": 9002.3
    },
    "youtube": {
     "views": 88,
