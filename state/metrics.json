@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-02T21:48:20+00:00",
+ "updated_at": "2026-11-02T23:04:40+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-02-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "title": "Quantos cavalos Rabsaqué ofereceu a Ezequias, se ele tivesse cavaleiros?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/x6I0w0ddoGg",
+    "instagram": "https://www.instagram.com/reel/DfQcC0vDOFZ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1686802612837844"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-02-8-fill": {
    "type": "fill",
    "date": "2026-11-02",
@@ -14,8 +49,8 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 4,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1633364458337979"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 5,
+    "avg_watch_s": 30.8,
+    "watch_time_s": 30.8
    }
   },
   "2026-11-02-6-truefalse": {
@@ -66,7 +101,7 @@
     "watch_time_s": 823.4
    },
    "youtube": {
-    "views": 69,
+    "views": 111,
     "likes": 1,
     "comments": 0
    }
@@ -102,20 +137,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 17,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 21,
+    "views": 23,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 69.5
+    "avg_watch_s": 3.5,
+    "watch_time_s": 74.0
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 432,
+    "views": 435,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1510.8
+    "watch_time_s": 1535.3
    },
    "youtube": {
     "views": 62,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1336,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 4804.6
+    "views": 1338,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 4806.7
    }
   },
   "2026-11-02-2-quiz": {
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 846,
+    "views": 847,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2842.8
+    "watch_time_s": 2847.8
    }
   },
   "2026-11-01-6-truefalse": {
@@ -332,9 +367,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1328,
+    "views": 1330,
     "avg_watch_s": 5.2,
-    "watch_time_s": 5413.7
+    "watch_time_s": 5424.9
    },
    "youtube": {
     "views": 188,
@@ -699,7 +734,7 @@
     "comments": 2,
     "views": 2091,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10745.0
+    "watch_time_s": 10746.4
    }
   },
   "2026-10-30-6-truefalse": {
@@ -1040,7 +1075,7 @@
     "comments": 0,
     "views": 543,
     "avg_watch_s": 5.0,
-    "watch_time_s": 2193.0
+    "watch_time_s": 2193.2
    },
    "youtube": {
     "views": 39,
