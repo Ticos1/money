@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-02T10:57:59+00:00",
+ "updated_at": "2026-11-02T11:04:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-02-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-02",
+   "time": "08:00",
+   "title": "Qual objeto Deus tem na mão segundo Salmos 75?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/PfNitDaC3uA",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2374313163362666"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-02-1-verse": {
    "type": "verse",
    "date": "2026-11-02",
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 825,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 2752.6
+    "views": 826,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 2758.4
    }
   },
   "2026-11-01-6-truefalse": {
@@ -145,7 +168,7 @@
     "comments": 0,
     "views": 261,
     "avg_watch_s": 3.1,
-    "watch_time_s": 735.8
+    "watch_time_s": 740.3
    }
   },
   "2026-11-01-4-quiz": {
@@ -165,7 +188,7 @@
     "reach": 44,
     "saved": 0,
     "shares": 0,
-    "views": 52,
+    "views": 53,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
     "watch_time_s": 163.9
@@ -4099,7 +4122,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
+    "views": 3,
     "avg_watch_s": 1.8,
     "watch_time_s": 1.8
    },
