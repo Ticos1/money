@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T09:01:55+00:00",
+ "updated_at": "2026-11-02T09:34:00+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-02-1-verse",
+   "date": "2026-11-02",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-02T06:26",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-02T09:31:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18115254500154487"
+   },
+   "title": "Salmos 100:2"
+  }
+ ],
  "specials": {}
 }
