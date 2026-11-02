@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-02T12:59:32+00:00",
+ "updated_at": "2026-11-02T15:15:35+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-02-4-quiz",
+   "date": "2026-11-02",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-02T12:09",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-02T15:10:36+00:00",
+    "instagram": "2026-11-02T15:11:11+00:00",
+    "facebook": "2026-11-02T15:11:16+00:00",
+    "stories": "2026-11-02T15:12:15+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/AiChrtdpwjE",
+    "instagram": "https://www.instagram.com/reel/DfPmPT1k6t3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2145406639433841",
+    "stories": "story 17954827893296260"
+   },
+   "title": "Em qual cidade, também chamada Quiriate-Arba, Sara morreu?"
+  },
   {
    "id": "2026-11-02-3-truefalse",
    "date": "2026-11-02",
