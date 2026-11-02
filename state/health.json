@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-02T10:58:02+00:00",
+ "updated_at": "2026-11-02T11:04:22+00:00",
  "date": "2026-11-02",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-02-2-quiz",
+   "date": "2026-11-02",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-02T07:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-02T11:00:40+00:00",
+    "instagram": null,
+    "facebook": "2026-11-02T11:00:45+00:00",
+    "stories": "2026-11-02T11:01:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/PfNitDaC3uA",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2374313163362666",
+    "stories": "story 17953004379295095"
+   },
+   "title": "Qual objeto Deus tem na mão segundo Salmos 75?"
+  },
   {
    "id": "2026-11-02-1-verse",
    "date": "2026-11-02",
