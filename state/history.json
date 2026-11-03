@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-6-truefalse",
+   "date": "2026-11-03",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-03T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:23:41+00:00",
+   "source": "bank",
+   "bank_id": "q1139",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 6:31",
+    "ref_label": "Provérbios 6:31",
+    "question": "Segundo Provérbios 6, quanto o ladrão pego deverá restituir?",
+    "shown": "Dez vezes",
+    "is_true": false,
+    "correct": "Sete vezes",
+    "evidence": "deverá restituir sete vezes",
+    "passage": "mas se for pego, deverá restituir sete vezes. Ele entregará todos os bens da sua casa.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #desafiobiblico #deus #evangelico #biblia #cristao #palavradedeus #gospel #jesus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #fe #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T17:56:28+00:00",
+    "instagram": "2026-11-03T17:57:10+00:00",
+    "facebook": "2026-11-03T17:57:14+00:00",
+    "stories": "2026-11-03T17:57:47+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/wCwQcSJkOHM",
+    "instagram": "https://www.instagram.com/reel/DfSeBHFCtR1/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1175996355089413",
+    "stories": "story 18082356005755636"
+   }
+  },
+  {
    "id": "2026-11-03-5-curiosity",
    "date": "2026-11-03",
    "slot": 5,
