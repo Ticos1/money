@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-03T18:01:31+00:00",
+ "updated_at": "2026-11-03T20:10:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-03",
+   "time": "17:00",
+   "title": "No sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-03-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-03",
@@ -18,24 +35,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.4,
+    "watch_time_s": 12.7
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 268,
+    "avg_watch_s": 3.1,
+    "watch_time_s": 670.4
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 9,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 39,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 163.4
+    "views": 209,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 728.6
    }
   },
   "2026-11-03-4-quiz": {
@@ -70,23 +87,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 1.5,
-    "watch_time_s": 13.7
+    "avg_watch_s": 1.7,
+    "watch_time_s": 17.3
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 286,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 837.3
+    "views": 517,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 1554.7
    },
    "youtube": {
-    "views": 16,
+    "views": 26,
     "likes": 0,
     "comments": 0
    }
@@ -101,11 +118,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 10,
     "comments": 1,
-    "views": 1279,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 4535.7
+    "views": 1563,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 6504.8
    }
   },
   "2026-11-03-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 249,
+    "views": 253,
     "avg_watch_s": 3.6,
-    "watch_time_s": 754.3
+    "watch_time_s": 761.1
    },
    "youtube": {
-    "views": 32,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
@@ -179,14 +196,14 @@
     "watch_time_s": 423.4
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 1.1,
-    "watch_time_s": 2.2
+    "views": 3,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 12.6
    },
    "youtube": {
-    "views": 78,
+    "views": 84,
     "likes": 1,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 80,
+    "views": 81,
     "likes": 2,
     "comments": 0
    }
@@ -248,12 +265,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 308,
+    "views": 309,
     "avg_watch_s": 3.7,
-    "watch_time_s": 933.6
+    "watch_time_s": 934.6
    },
    "youtube": {
-    "views": 231,
+    "views": 236,
     "likes": 2,
     "comments": 0
    }
@@ -300,12 +317,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 447,
+    "views": 448,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1590.3
+    "watch_time_s": 1591.2
    },
    "youtube": {
-    "views": 110,
+    "views": 113,
     "likes": 2,
     "comments": 0
    }
@@ -322,9 +339,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1348,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 4837.4
+    "views": 1352,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 4867.0
    }
   },
   "2026-11-02-2-quiz": {
@@ -345,7 +362,7 @@
     "watch_time_s": 308.1
    },
    "youtube": {
-    "views": 123,
+    "views": 130,
     "likes": 1,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "youtube": "https://youtube.com/shorts/lTgz0z5pMDg"
    },
    "youtube": {
-    "views": 53,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 50.0
    },
    "youtube": {
-    "views": 316,
+    "views": 319,
     "likes": 3,
     "comments": 0
    }
@@ -559,9 +576,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1972,
+    "views": 1973,
     "avg_watch_s": 6.0,
-    "watch_time_s": 8965.8
+    "watch_time_s": 8969.8
    },
    "youtube": {
     "views": 109,
@@ -1790,9 +1807,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 319,
+    "views": 321,
     "avg_watch_s": 3.8,
-    "watch_time_s": 983.9
+    "watch_time_s": 993.4
    },
    "youtube": {
     "views": 24,
