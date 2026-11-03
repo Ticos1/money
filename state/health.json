@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T15:15:13+00:00",
+ "updated_at": "2026-11-03T16:28:38+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-5-curiosity",
+   "date": "2026-11-03",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-03T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-03T16:25:48+00:00",
+    "stories": "2026-11-03T16:26:21+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/997812036726661",
+    "stories": "story 18143766286717469"
+   },
+   "title": "Prefiro ser porteiro"
+  },
   {
    "id": "2026-11-03-4-quiz",
    "date": "2026-11-03",
