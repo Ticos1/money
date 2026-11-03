@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-03T20:10:07+00:00",
+ "updated_at": "2026-11-03T21:34:18+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-8-fill": {
+   "type": "fill",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "title": "Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-03-7-quiz": {
    "type": "quiz",
    "date": "2026-11-03",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 5,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 368,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1219.2
    }
   },
   "2026-11-03-6-truefalse": {
@@ -46,12 +61,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 268,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 670.4
+    "views": 377,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 1073.0
    },
    "youtube": {
-    "views": 9,
+    "views": 37,
     "likes": 1,
     "comments": 0
    }
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 209,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 728.6
+    "views": 218,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 1084.8
    }
   },
   "2026-11-03-4-quiz": {
@@ -98,12 +113,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 517,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 1554.7
+    "views": 632,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 2207.9
    },
    "youtube": {
-    "views": 26,
+    "views": 34,
     "likes": 0,
     "comments": 0
    }
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1563,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 6504.8
+    "views": 1614,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 6875.9
    }
   },
   "2026-11-03-2-quiz": {
@@ -138,12 +153,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 253,
+    "views": 254,
     "avg_watch_s": 3.6,
-    "watch_time_s": 761.1
+    "watch_time_s": 762.4
    },
    "youtube": {
-    "views": 40,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
@@ -265,12 +280,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 309,
+    "views": 310,
     "avg_watch_s": 3.7,
-    "watch_time_s": 934.6
+    "watch_time_s": 935.0
    },
    "youtube": {
-    "views": 236,
+    "views": 237,
     "likes": 2,
     "comments": 0
    }
@@ -322,7 +337,7 @@
     "watch_time_s": 1591.2
    },
    "youtube": {
-    "views": 113,
+    "views": 114,
     "likes": 2,
     "comments": 0
    }
@@ -362,7 +377,7 @@
     "watch_time_s": 308.1
    },
    "youtube": {
-    "views": 130,
+    "views": 133,
     "likes": 1,
     "comments": 0
    }
@@ -489,7 +504,7 @@
     "watch_time_s": 50.0
    },
    "youtube": {
-    "views": 319,
+    "views": 321,
     "likes": 3,
     "comments": 0
    }
@@ -576,9 +591,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1973,
+    "views": 1974,
     "avg_watch_s": 6.0,
-    "watch_time_s": 8969.8
+    "watch_time_s": 8974.4
    },
    "youtube": {
     "views": 109,
@@ -3871,9 +3886,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 256,
-    "avg_watch_s": 2.4,
-    "watch_time_s": 578.7
+    "views": 257,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 583.7
    },
    "youtube": {
     "views": 23,
