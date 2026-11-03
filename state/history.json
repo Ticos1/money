@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-5-curiosity",
+   "date": "2026-11-03",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-03T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-03T08:23:16+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 84:10",
+    "ref_label": "Salmos 84:10",
+    "title": "Prefiro ser porteiro",
+    "text": "O salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina.",
+    "evidence": "Prefiro ser porteiro na casa do meu Deus",
+    "passage": "Pois um dia nos seus átrios é melhor do que mil. Prefiro ser porteiro na casa do meu Deus, do que habitar nas tendas da impiedade.",
+    "tags": [
+     "presencadeus",
+     "valormoral"
+    ]
+   },
+   "captions": {
+    "instagram": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #fe #cristao #estudobiblico #jesus #deus #historiabiblica #biblia #palavradedeus",
+    "facebook": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Estar nos átrios de Deus vale mais que mil lugares. Salve e compartilhe!\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "Estar nos átrios de Deus vale mais que mil lugares. Salve e compartilhe!\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Prefiro ser porteiro #shorts",
+     "description": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #presencadeus #valormoral #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "presencadeus",
+      "valormoral",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-03T16:25:48+00:00",
+    "stories": "2026-11-03T16:26:21+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/997812036726661",
+    "stories": "story 18143766286717469"
+   }
+  },
+  {
    "id": "2026-11-03-4-quiz",
    "date": "2026-11-03",
    "slot": 4,
