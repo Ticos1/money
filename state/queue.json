@@ -1,3 +1,1001 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-03-10-truefalse",
+   "date": "2026-11-03",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-03T21:28",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:25:30+00:00",
+   "source": "bank",
+   "bank_id": "q436",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 13:24",
+    "ref_label": "Provérbios 13:24",
+    "question": "Quem poupa a vara, segundo Provérbios, odeia a quem?",
+    "shown": "Seu irmão",
+    "is_true": false,
+    "correct": "Seu filho",
+    "evidence": "Quem poupa a vara odeia seu filho",
+    "passage": "Quem poupa a vara odeia seu filho, mas quem o ama tem cuidado de discipliná-lo.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem poupa a vara, segundo Provérbios, odeia a quem?\nResposta: Seu irmão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #jesus #fe #biblia #gospel #cristao #evangelico #desafiobiblico #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem poupa a vara, segundo Provérbios, odeia a quem?\nResposta: Seu irmão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #palavradedeus #jesus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #fe #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuem poupa a vara, segundo Provérbios, odeia a quem?\nResposta: Seu irmão\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem poupa a vara, segundo Provérbios, odeia a quem?\nResposta: Seu irmão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-9-quiz",
+   "date": "2026-11-03",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-03T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:25:06+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Isaías 4:5",
+    "ref_label": "Isaías 4:5",
+    "question": "Qual elemento cobre a glória de Deus no versículo 5?",
+    "options": [
+     "cobertura",
+     "coroa",
+     "cálice",
+     "cinturão"
+    ],
+    "answer": 0,
+    "evidence": "cobertura",
+    "passage": "O SENHOR criará sobre toda a habitação do monte Sião e sobre as suas assembleias, uma nuvem e fumaça de dia, e o brilho de um fogo flamejante de noite; pois sobre toda a glória haverá uma cobertura.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio #biblia #perguntasbiblicas #teste #conhecimentobiblico #cristao #gospel #deus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #fe #teste",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #gospel #perguntasbiblicas",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual elemento cobre a glória de Deus no versículo 5? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-8-fill",
+   "date": "2026-11-03",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-03T18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-03T08:24:38+00:00",
+   "source": "bank",
+   "bank_id": "v464",
+   "model": null,
+   "content": {
+    "ref": "Salmos 33:22",
+    "ref_label": "Salmos 33:22",
+    "verse_text": "Que a tua bondade esteja sobre nós, SENHOR, visto que temos esperado em ti.",
+    "question": "Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.",
+    "options": [
+     "bondade",
+     "promessa",
+     "verdade",
+     "presença"
+    ],
+    "answer": 0,
+    "answer_word": "bondade",
+    "tags": [
+     "esperanca",
+     "bondade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo #palavradedeus #desafiobiblico #jesus #fe #biblia #quizbiblico #cristao",
+    "facebook": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeesperanca #esperanca #bondade #completeoversiculo",
+    "tiktok": "Versículo de esperança\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo",
+    "kwai": "Versículo de esperança\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de esperança: Salmos 33:22 📖 #shorts",
+     "description": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeesperanca #esperanca #bondade",
+     "tags": [
+      "versículo de esperança",
+      "versículos de esperança",
+      "esperança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esperanca",
+      "bondade",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-7-quiz",
+   "date": "2026-11-03",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-03T17:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:24:11+00:00",
+   "source": "bank",
+   "bank_id": "q1146",
+   "model": null,
+   "content": {
+    "ref": "Daniel 4:10",
+    "ref_label": "Daniel 4:10",
+    "question": "No sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?",
+    "options": [
+     "Uma estátua",
+     "Uma montanha",
+     "Uma torre",
+     "Uma árvore"
+    ],
+    "answer": 3,
+    "evidence": "eis uma árvore no meio da terra",
+    "passage": "Estas foram as visões da minha mente na minha cama: Eu olhei, e eis uma árvore no meio da terra; e a sua altura era imensa.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nNo sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?\n\nA) Uma estátua\nB) Uma montanha\nC) Uma torre\nD) Uma árvore\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #deus #gospel #fe #perguntasbiblicas #palavradedeus #teste #conhecimentobiblico #biblia #evangelico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nNo sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?\n\nA) Uma estátua\nB) Uma montanha\nC) Uma torre\nD) Uma árvore\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #jesus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico #gospel",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #palavradedeus #teste",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nNo sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?\n\nA) Uma estátua\nB) Uma montanha\nC) Uma torre\nD) Uma árvore\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nNo sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?\n\nA) Uma estátua\nB) Uma montanha\nC) Uma torre\nD) Uma árvore\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "daniel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-6-truefalse",
+   "date": "2026-11-03",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-03T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:23:41+00:00",
+   "source": "bank",
+   "bank_id": "q1139",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 6:31",
+    "ref_label": "Provérbios 6:31",
+    "question": "Segundo Provérbios 6, quanto o ladrão pego deverá restituir?",
+    "shown": "Dez vezes",
+    "is_true": false,
+    "correct": "Sete vezes",
+    "evidence": "deverá restituir sete vezes",
+    "passage": "mas se for pego, deverá restituir sete vezes. Ele entregará todos os bens da sua casa.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #desafiobiblico #deus #evangelico #biblia #cristao #palavradedeus #gospel #jesus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #fe #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Provérbios 6, quanto o ladrão pego deverá restituir?\nResposta: Dez vezes\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-5-curiosity",
+   "date": "2026-11-03",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-03T13:23",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-03T08:23:16+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 84:10",
+    "ref_label": "Salmos 84:10",
+    "title": "Prefiro ser porteiro",
+    "text": "O salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina.",
+    "evidence": "Prefiro ser porteiro na casa do meu Deus",
+    "passage": "Pois um dia nos seus átrios é melhor do que mil. Prefiro ser porteiro na casa do meu Deus, do que habitar nas tendas da impiedade.",
+    "tags": [
+     "presencadeus",
+     "valormoral"
+    ]
+   },
+   "captions": {
+    "instagram": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #fe #cristao #estudobiblico #jesus #deus #historiabiblica #biblia #palavradedeus",
+    "facebook": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Estar nos átrios de Deus vale mais que mil lugares. Salve e compartilhe!\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "Estar nos átrios de Deus vale mais que mil lugares. Salve e compartilhe!\n#presencadeus #valormoral #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Prefiro ser porteiro #shorts",
+     "description": "Prefiro ser porteiro\n\nO salmista afirma que estar nos átrios de Deus vale mais que mil lugares, mostrando a suprema preferência pela presença divina. (Salmos 84:10)\n\nSabia que o salmista prefere estar nos átrios de Deus a mil lugares? Ele nos lembra que a presença divina supera qualquer conforto terreno. Quando nos colocamos à porta do céu, experimentamos uma alegria que o mundo não oferece. Salve esse pensamento e compartilhe com quem precisa sentir o valor da presença de Deus.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #presencadeus #valormoral #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "presencadeus",
+      "valormoral",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.17,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-4-quiz",
+   "date": "2026-11-03",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-03T12:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:22:45+00:00",
+   "source": "bank",
+   "bank_id": "q923",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 21:21",
+    "ref_label": "Apocalipse 21:21",
+    "question": "De que eram feitas as doze portas da Nova Jerusalém?",
+    "options": [
+     "Rubis",
+     "Cristal",
+     "Pérolas",
+     "Safiras"
+    ],
+    "answer": 2,
+    "evidence": "As doze portas eram doze pérolas",
+    "passage": "As doze portas eram doze pérolas. Cada uma das portas era feita de uma única pérola. A rua da cidade era de ouro puro, como vidro transparente.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #jesus #gospel #teste #perguntasbiblicas #desafio #palavradedeus #deus #evangelico #conhecimentobiblico",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #desafio",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #gospel",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #gospel",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: De que eram feitas as doze portas da Nova Jerusalém? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-3-truefalse",
+   "date": "2026-11-03",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-03T09:57",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:22:18+00:00",
+   "source": "bank",
+   "bank_id": "q856",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:51",
+    "ref_label": "Marcos 14:51",
+    "question": "O que vestia o jovem que seguia Jesus quando ele foi preso?",
+    "shown": "Um lençol de linho",
+    "is_true": true,
+    "correct": "Um lençol de linho",
+    "evidence": "vestindo apenas um lençol de linho",
+    "passage": "Um certo jovem o seguia, vestindo apenas um lençol de linho sobre o corpo nu. Os jovens o agarraram,",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #cristao #palavradedeus #gospel #evangelico #desafiobiblico #perguntasbiblicas #jesus #fe",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #biblia #deus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #biblia",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-2-quiz",
+   "date": "2026-11-03",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-03T08:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:21:53+00:00",
+   "source": "bank",
+   "bank_id": "q091",
+   "model": null,
+   "content": {
+    "ref": "Ester 2:7",
+    "ref_label": "Ester 2:7",
+    "question": "Qual era o nome hebraico de Ester?",
+    "options": [
+     "Débora",
+     "Raquel",
+     "Hadassa",
+     "Mical"
+    ],
+    "answer": 2,
+    "evidence": "Hadassa, isto é, Ester",
+    "passage": "Ele criou Hadassa, isto é, Ester, filha de seu tio; pois ela não tinha pai nem mãe. A jovem era de bela aparência e formosa; e quando seu pai e sua mãe morreram, Mardoqueu a tomou como sua própria filha.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #jesus #perguntasbiblicas #gospel #teste #palavradedeus #conhecimentobiblico #evangelico #deus #desafio",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #cristao #conhecimentobiblico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #jesus #palavradedeus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual era o nome hebraico de Ester? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-03-1-verse",
+   "date": "2026-11-03",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-03T06:33",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:21:28+00:00",
+   "source": "bank",
+   "bank_id": "v151",
+   "model": null,
+   "content": {
+    "ref": "João 15:13",
+    "ref_label": "João 15:13",
+    "verse_text": "Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.",
+    "on_screen": "Não há amor maior do que dar a vida.",
+    "reflection": "Jesus não só falou de amor: Ele provou na cruz. Você é amigo de Jesus.",
+    "theme": "amor",
+    "mood": "reflexao",
+    "tags": [
+     "amor",
+     "cruz"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #cruz #versiculododia #versiculo #palavradedeus #oracao #biblia #deus #evangelico #cristao #fe",
+    "facebook": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #cruz #versiculododia",
+    "tiktok": "Versículo sobre amor\nJesus mostrou o amor maior na cruz. Seja amigo d'Ele e viva esse amor!\n#versiculosobreamor #amor #cruz #versiculododia #versiculo",
+    "kwai": "Versículo sobre amor\nJesus mostrou o amor maior na cruz. Seja amigo d'Ele e viva esse amor!\n#versiculosobreamor #amor #cruz #versiculododia #versiculo",
+    "whatsapp": "“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre amor: João 15:13 🙏 #shorts",
+     "description": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreamor #amor #cruz",
+     "tags": [
+      "versículo sobre amor",
+      "versículos sobre amor",
+      "amor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "cruz",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.38,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-03/2026-11-03-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
