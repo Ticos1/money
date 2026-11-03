@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T18:01:43+00:00",
+ "updated_at": "2026-11-03T20:10:33+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-7-quiz",
+   "date": "2026-11-03",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-03T17:04",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-03T20:06:28+00:00",
+    "stories": "2026-11-03T20:07:00+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764",
+    "stories": "story 17909836608332610"
+   },
+   "title": "No sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?"
+  },
   {
    "id": "2026-11-03-6-truefalse",
    "date": "2026-11-03",
