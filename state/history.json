@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-2-quiz",
+   "date": "2026-11-03",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-03T08:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:21:53+00:00",
+   "source": "bank",
+   "bank_id": "q091",
+   "model": null,
+   "content": {
+    "ref": "Ester 2:7",
+    "ref_label": "Ester 2:7",
+    "question": "Qual era o nome hebraico de Ester?",
+    "options": [
+     "Débora",
+     "Raquel",
+     "Hadassa",
+     "Mical"
+    ],
+    "answer": 2,
+    "evidence": "Hadassa, isto é, Ester",
+    "passage": "Ele criou Hadassa, isto é, Ester, filha de seu tio; pois ela não tinha pai nem mãe. A jovem era de bela aparência e formosa; e quando seu pai e sua mãe morreram, Mardoqueu a tomou como sua própria filha.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #jesus #perguntasbiblicas #gospel #teste #palavradedeus #conhecimentobiblico #evangelico #deus #desafio",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #cristao #conhecimentobiblico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #jesus #palavradedeus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual era o nome hebraico de Ester? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome hebraico de Ester?\n\nA) Débora\nB) Raquel\nC) Hadassa\nD) Mical\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T11:05:47+00:00",
+    "instagram": null,
+    "facebook": "2026-11-03T11:05:52+00:00",
+    "stories": "2026-11-03T11:06:26+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/3j0XP1fYl-U",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2318546642328484",
+    "stories": "story 18117486872117612"
+   }
+  },
+  {
    "id": "2026-11-03-1-verse",
    "date": "2026-11-03",
    "slot": 1,
