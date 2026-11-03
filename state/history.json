@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-4-quiz",
+   "date": "2026-11-03",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-03T12:09",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:22:45+00:00",
+   "source": "bank",
+   "bank_id": "q923",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 21:21",
+    "ref_label": "Apocalipse 21:21",
+    "question": "De que eram feitas as doze portas da Nova Jerusalém?",
+    "options": [
+     "Rubis",
+     "Cristal",
+     "Pérolas",
+     "Safiras"
+    ],
+    "answer": 2,
+    "evidence": "As doze portas eram doze pérolas",
+    "passage": "As doze portas eram doze pérolas. Cada uma das portas era feita de uma única pérola. A rua da cidade era de ouro puro, como vidro transparente.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #jesus #gospel #teste #perguntasbiblicas #desafio #palavradedeus #deus #evangelico #conhecimentobiblico",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #desafio",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #gospel",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #gospel",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: De que eram feitas as doze portas da Nova Jerusalém? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nDe que eram feitas as doze portas da Nova Jerusalém?\n\nA) Rubis\nB) Cristal\nC) Pérolas\nD) Safiras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T15:10:37+00:00",
+    "instagram": "2026-11-03T15:11:30+00:00",
+    "facebook": "2026-11-03T15:11:34+00:00",
+    "stories": "2026-11-03T15:12:06+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/_j0PqQzCv70",
+    "instagram": "https://www.instagram.com/reel/DfSLEnvFAzn/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1186330461006644",
+    "stories": "story 18128360387485265"
+   }
+  },
+  {
    "id": "2026-11-03-3-truefalse",
    "date": "2026-11-03",
    "slot": 3,
