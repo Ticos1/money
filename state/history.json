@@ -1,6 +1,106 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-8-fill",
+   "date": "2026-11-03",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-03T18:30",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-03T08:24:38+00:00",
+   "source": "bank",
+   "bank_id": "v464",
+   "model": null,
+   "content": {
+    "ref": "Salmos 33:22",
+    "ref_label": "Salmos 33:22",
+    "verse_text": "Que a tua bondade esteja sobre nós, SENHOR, visto que temos esperado em ti.",
+    "question": "Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.",
+    "options": [
+     "bondade",
+     "promessa",
+     "verdade",
+     "presença"
+    ],
+    "answer": 0,
+    "answer_word": "bondade",
+    "tags": [
+     "esperanca",
+     "bondade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo #palavradedeus #desafiobiblico #jesus #fe #biblia #quizbiblico #cristao",
+    "facebook": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeesperanca #esperanca #bondade #completeoversiculo",
+    "tiktok": "Versículo de esperança\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo",
+    "kwai": "Versículo de esperança\nComplete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#versiculodeesperanca #esperanca #bondade #completeoversiculo #versiculo",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de esperança: Salmos 33:22 📖 #shorts",
+     "description": "Versículo de esperança: Salmos 33:22\nComplete o versículo! 90% erra essa palavra 📖\n\n“Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti.”\n\nA) bondade\nB) promessa\nC) verdade\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeesperanca #esperanca #bondade",
+     "tags": [
+      "versículo de esperança",
+      "versículos de esperança",
+      "esperança",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esperanca",
+      "bondade",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T21:30:37+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-03T21:31:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/8b7wwf5szfE",
+    "stories": "story 18158498602561391"
+   }
+  },
+  {
    "id": "2026-11-03-7-quiz",
    "date": "2026-11-03",
    "slot": 7,
