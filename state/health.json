@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-03T00:38:35+00:00",
- "date": "2026-11-02",
+ "updated_at": "2026-11-03T06:43:40+00:00",
+ "date": "2026-11-03",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 446,
-   "days_left": 446,
+   "fresh": 448,
+   "days_left": 448,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1033,
+   "fresh": 1034,
    "days_left": 147,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-02-10-truefalse",
-   "date": "2026-11-02",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-02T21:32",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-03T00:35:36+00:00",
-    "stories": "2026-11-03T00:36:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1527743812514600",
-    "stories": "story 18126326821895991"
-   },
-   "title": "Quem eram os companheiros de Simão, filhos de Zebedeu?"
-  },
-  {
-   "id": "2026-11-02-9-quiz",
-   "date": "2026-11-02",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-02T19:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-02T23:00:46+00:00",
-    "instagram": "2026-11-02T23:01:19+00:00",
-    "facebook": "2026-11-02T23:01:23+00:00",
-    "stories": "2026-11-02T23:01:56+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/x6I0w0ddoGg",
-    "instagram": "https://www.instagram.com/reel/DfQcC0vDOFZ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1686802612837844",
-    "stories": "story 18145676245611276"
-   },
-   "title": "Quantos cavalos Rabsaqué ofereceu a Ezequias, se ele tivesse cavaleiros?"
-  },
-  {
-   "id": "2026-11-02-8-fill",
-   "date": "2026-11-02",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-02T18:36",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-02T21:40:32+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-02T21:41:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ",
-    "stories": "story 17865776742694105"
-   },
-   "title": "Venham a mim, todos vocês que estão cansados e sobrecarregados, e eu lhes darei _____."
-  },
-  {
-   "id": "2026-11-02-7-quiz",
-   "date": "2026-11-02",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-02T17:00",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-02T20:00:37+00:00",
-    "stories": "2026-11-02T20:01:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1633364458337979",
-    "stories": "story 18142607767620103"
-   },
-   "title": "Depois de moer o bezerro de ouro até virar pó, onde Moisés o espalhou?"
-  },
-  {
-   "id": "2026-11-02-6-truefalse",
-   "date": "2026-11-02",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-02T15:05",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-02T18:05:32+00:00",
-    "instagram": "2026-11-02T18:06:06+00:00",
-    "facebook": "2026-11-02T18:06:10+00:00",
-    "stories": "2026-11-02T18:07:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Z18Wk4KxDog",
-    "instagram": "https://www.instagram.com/reel/DfP6QqQlYvH/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1135696332312529",
-    "stories": "story 18097959533124214"
-   },
-   "title": "Na segunda praga, que animais subiram e cobriram a terra do Egito?"
-  },
-  {
-   "id": "2026-11-02-5-curiosity",
-   "date": "2026-11-02",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-02T13:26",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-02T16:30:36+00:00",
-    "stories": "2026-11-02T16:31:38+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1119475283803570",
-    "stories": "story 18397361374207670"
-   },
-   "title": "Jumento selvagem e a força de Deus"
-  },
-  {
-   "id": "2026-11-02-4-quiz",
-   "date": "2026-11-02",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-02T12:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-02T15:10:36+00:00",
-    "instagram": "2026-11-02T15:11:11+00:00",
-    "facebook": "2026-11-02T15:11:16+00:00",
-    "stories": "2026-11-02T15:12:15+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/AiChrtdpwjE",
-    "instagram": "https://www.instagram.com/reel/DfPmPT1k6t3/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2145406639433841",
-    "stories": "story 17954827893296260"
-   },
-   "title": "Em qual cidade, também chamada Quiriate-Arba, Sara morreu?"
-  },
-  {
-   "id": "2026-11-02-3-truefalse",
-   "date": "2026-11-02",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-02T09:52",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-02T12:55:36+00:00",
-    "stories": "2026-11-02T12:56:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1111042691795039",
-    "stories": "story 18135733858738161"
-   },
-   "title": "O que Raabe deveria amarrar na janela quando Israel entrasse na terra?"
-  },
-  {
-   "id": "2026-11-02-2-quiz",
-   "date": "2026-11-02",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-02T07:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-02T11:00:40+00:00",
-    "instagram": null,
-    "facebook": "2026-11-02T11:00:45+00:00",
-    "stories": "2026-11-02T11:01:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/PfNitDaC3uA",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2374313163362666",
-    "stories": "story 17953004379295095"
-   },
-   "title": "Qual objeto Deus tem na mão segundo Salmos 75?"
-  },
-  {
-   "id": "2026-11-02-1-verse",
-   "date": "2026-11-02",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-02T06:26",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-02T09:31:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18115254500154487"
-   },
-   "title": "Salmos 100:2"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
