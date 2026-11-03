@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-03T20:10:33+00:00",
+ "updated_at": "2026-11-03T21:34:21+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-8-fill",
+   "date": "2026-11-03",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-03T18:30",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T21:30:37+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-03T21:31:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/8b7wwf5szfE",
+    "stories": "story 18158498602561391"
+   },
+   "title": "Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti."
+  },
   {
    "id": "2026-11-03-7-quiz",
    "date": "2026-11-03",
