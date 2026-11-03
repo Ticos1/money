@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-03T21:34:18+00:00",
+ "updated_at": "2026-11-03T22:55:32+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "title": "Qual elemento cobre a glória de Deus no versículo 5?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/amL2Fe_M4Ck",
+    "instagram": "https://www.instagram.com/reel/DfS_r2dDjDh/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3450146581860565"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-03-8-fill": {
    "type": "fill",
    "date": "2026-11-03",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764"
    },
    "facebook": {
-    "likes": 5,
-    "comments": 0,
-    "views": 368,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 1219.2
+    "likes": 8,
+    "comments": 1,
+    "views": 1252,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 4749.4
    }
   },
   "2026-11-03-6-truefalse": {
@@ -50,7 +85,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
     "views": 10,
@@ -61,9 +96,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 377,
+    "views": 378,
     "avg_watch_s": 3.5,
-    "watch_time_s": 1073.0
+    "watch_time_s": 1077.6
    },
    "youtube": {
     "views": 37,
@@ -113,9 +148,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 632,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 2207.9
+    "views": 636,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 2229.6
    },
    "youtube": {
     "views": 34,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1614,
+    "views": 1619,
     "avg_watch_s": 5.8,
-    "watch_time_s": 6875.9
+    "watch_time_s": 6928.2
    }
   },
   "2026-11-03-2-quiz": {
@@ -213,9 +248,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 12.6
+    "views": 4,
+    "avg_watch_s": 3.3,
+    "watch_time_s": 13.2
    },
    "youtube": {
     "views": 84,
@@ -280,9 +315,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 310,
+    "views": 311,
     "avg_watch_s": 3.7,
-    "watch_time_s": 935.0
+    "watch_time_s": 937.3
    },
    "youtube": {
     "views": 237,
@@ -332,9 +367,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 448,
+    "views": 449,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1591.2
+    "watch_time_s": 1593.0
    },
    "youtube": {
     "views": 114,
@@ -354,9 +389,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1352,
+    "views": 1353,
     "avg_watch_s": 4.5,
-    "watch_time_s": 4867.0
+    "watch_time_s": 4868.4
    }
   },
   "2026-11-02-2-quiz": {
@@ -636,9 +671,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 8,
-    "avg_watch_s": 204.4,
-    "watch_time_s": 408.7
+    "views": 9,
+    "avg_watch_s": 136.3,
+    "watch_time_s": 408.9
    }
   },
   "2026-10-31-9-quiz": {
@@ -665,7 +700,7 @@
    "facebook": {
     "likes": 3,
     "comments": 1,
-    "views": 146,
+    "views": 147,
     "avg_watch_s": 9.6,
     "watch_time_s": 857.1
    }
@@ -916,9 +951,9 @@
    "facebook": {
     "likes": 12,
     "comments": 2,
-    "views": 2091,
+    "views": 2092,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10746.4
+    "watch_time_s": 10746.8
    }
   },
   "2026-10-30-6-truefalse": {
@@ -2580,9 +2615,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 504,
+    "views": 505,
     "avg_watch_s": 7.0,
-    "watch_time_s": 2494.3
+    "watch_time_s": 2494.9
    },
    "youtube": {
     "views": 72,
@@ -5023,7 +5058,7 @@
     "watch_time_s": 7.1
    },
    "facebook": {
-    "likes": 4,
+    "likes": 3,
     "comments": 2,
     "views": 952,
     "avg_watch_s": 3.7,
@@ -5690,7 +5725,7 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 2,
+    "likes": 1,
     "comments": 0,
     "views": 1067,
     "avg_watch_s": 2.4,
