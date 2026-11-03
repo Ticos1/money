@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-03T09:38:48+00:00",
+ "updated_at": "2026-11-03T11:09:56+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-2-quiz",
+   "date": "2026-11-03",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-03T08:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T11:05:47+00:00",
+    "instagram": null,
+    "facebook": "2026-11-03T11:05:52+00:00",
+    "stories": "2026-11-03T11:06:26+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/3j0XP1fYl-U",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2318546642328484",
+    "stories": "story 18117486872117612"
+   },
+   "title": "Qual era o nome hebraico de Ester?"
+  },
   {
    "id": "2026-11-03-1-verse",
    "date": "2026-11-03",
