@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-9-quiz",
+   "date": "2026-11-03",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-03T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-03T08:25:06+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Isaías 4:5",
+    "ref_label": "Isaías 4:5",
+    "question": "Qual elemento cobre a glória de Deus no versículo 5?",
+    "options": [
+     "cobertura",
+     "coroa",
+     "cálice",
+     "cinturão"
+    ],
+    "answer": 0,
+    "evidence": "cobertura",
+    "passage": "O SENHOR criará sobre toda a habitação do monte Sião e sobre as suas assembleias, uma nuvem e fumaça de dia, e o brilho de um fogo flamejante de noite; pois sobre toda a glória haverá uma cobertura.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #palavradedeus #desafio #biblia #perguntasbiblicas #teste #conhecimentobiblico #cristao #gospel #deus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #fe #teste",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #gospel #perguntasbiblicas",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual elemento cobre a glória de Deus no versículo 5? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual elemento cobre a glória de Deus no versículo 5?\n\nA) cobertura\nB) coroa\nC) cálice\nD) cinturão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T22:50:35+00:00",
+    "instagram": "2026-11-03T22:51:11+00:00",
+    "facebook": "2026-11-03T22:51:16+00:00",
+    "stories": "2026-11-03T22:51:51+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/amL2Fe_M4Ck",
+    "instagram": "https://www.instagram.com/reel/DfS_r2dDjDh/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3450146581860565",
+    "stories": "story 18119397904810689"
+   }
+  },
+  {
    "id": "2026-11-03-8-fill",
    "date": "2026-11-03",
    "slot": 8,
