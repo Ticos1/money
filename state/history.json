@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-3-truefalse",
+   "date": "2026-11-03",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-03T09:57",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:22:18+00:00",
+   "source": "bank",
+   "bank_id": "q856",
+   "model": null,
+   "content": {
+    "ref": "Marcos 14:51",
+    "ref_label": "Marcos 14:51",
+    "question": "O que vestia o jovem que seguia Jesus quando ele foi preso?",
+    "shown": "Um lençol de linho",
+    "is_true": true,
+    "correct": "Um lençol de linho",
+    "evidence": "vestindo apenas um lençol de linho",
+    "passage": "Um certo jovem o seguia, vestindo apenas um lençol de linho sobre o corpo nu. Os jovens o agarraram,",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #cristao #palavradedeus #gospel #evangelico #desafiobiblico #perguntasbiblicas #jesus #fe",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #biblia #deus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas #biblia",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que vestia o jovem que seguia Jesus quando ele foi preso?\nResposta: Um lençol de linho\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-03T13:05:43+00:00",
+    "stories": "2026-11-03T13:06:17+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105",
+    "stories": "story 18125703347474002"
+   }
+  },
+  {
    "id": "2026-11-03-2-quiz",
    "date": "2026-11-03",
    "slot": 2,
