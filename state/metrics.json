@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-03T06:43:37+00:00",
+ "updated_at": "2026-11-03T09:38:45+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-1-verse": {
+   "type": "verse",
+   "date": "2026-11-03",
+   "time": "06:30",
+   "title": "João 15:13",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-02-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-02",
@@ -46,12 +54,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 1.1,
-    "watch_time_s": 1.1
+    "watch_time_s": 2.2
    },
    "youtube": {
-    "views": 74,
+    "views": 75,
     "likes": 1,
     "comments": 0
    }
@@ -118,7 +126,7 @@
     "watch_time_s": 868.6
    },
    "youtube": {
-    "views": 208,
+    "views": 217,
     "likes": 1,
     "comments": 0
    }
@@ -170,7 +178,7 @@
     "watch_time_s": 1589.1
    },
    "youtube": {
-    "views": 97,
+    "views": 101,
     "likes": 1,
     "comments": 0
    }
@@ -187,9 +195,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1345,
+    "views": 1346,
     "avg_watch_s": 4.4,
-    "watch_time_s": 4831.1
+    "watch_time_s": 4832.1
    }
   },
   "2026-11-02-2-quiz": {
@@ -210,7 +218,7 @@
     "watch_time_s": 308.1
    },
    "youtube": {
-    "views": 114,
+    "views": 115,
     "likes": 0,
     "comments": 0
    }
@@ -337,7 +345,7 @@
     "watch_time_s": 50.0
    },
    "youtube": {
-    "views": 303,
+    "views": 304,
     "likes": 3,
     "comments": 0
    }
@@ -429,7 +437,7 @@
     "watch_time_s": 8953.9
    },
    "youtube": {
-    "views": 107,
+    "views": 109,
     "likes": 0,
     "comments": 0
    }
@@ -717,7 +725,7 @@
     "watch_time_s": 23.9
    },
    "youtube": {
-    "views": 131,
+    "views": 130,
     "likes": 3,
     "comments": 0
    }
@@ -784,7 +792,7 @@
     "watch_time_s": 3626.3
    },
    "youtube": {
-    "views": 155,
+    "views": 154,
     "likes": 0,
     "comments": 0
    }
@@ -876,7 +884,7 @@
     "watch_time_s": 14.2
    },
    "youtube": {
-    "views": 92,
+    "views": 91,
     "likes": 2,
     "comments": 0
    }
@@ -1055,7 +1063,7 @@
     "watch_time_s": 6088.8
    },
    "youtube": {
-    "views": 208,
+    "views": 207,
     "likes": 5,
     "comments": 0
    }
