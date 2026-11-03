@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-03-1-verse",
+   "date": "2026-11-03",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-03T06:33",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-03T08:21:28+00:00",
+   "source": "bank",
+   "bank_id": "v151",
+   "model": null,
+   "content": {
+    "ref": "João 15:13",
+    "ref_label": "João 15:13",
+    "verse_text": "Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.",
+    "on_screen": "Não há amor maior do que dar a vida.",
+    "reflection": "Jesus não só falou de amor: Ele provou na cruz. Você é amigo de Jesus.",
+    "theme": "amor",
+    "mood": "reflexao",
+    "tags": [
+     "amor",
+     "cruz"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #cruz #versiculododia #versiculo #palavradedeus #oracao #biblia #deus #evangelico #cristao #fe",
+    "facebook": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreamor #amor #cruz #versiculododia",
+    "tiktok": "Versículo sobre amor\nJesus mostrou o amor maior na cruz. Seja amigo d'Ele e viva esse amor!\n#versiculosobreamor #amor #cruz #versiculododia #versiculo",
+    "kwai": "Versículo sobre amor\nJesus mostrou o amor maior na cruz. Seja amigo d'Ele e viva esse amor!\n#versiculosobreamor #amor #cruz #versiculododia #versiculo",
+    "whatsapp": "“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre amor: João 15:13 🙏 #shorts",
+     "description": "Versículo sobre amor: João 15:13\n“Ninguém tem maior amor do que este: dar a própria vida pelos seus amigos.” (João 15:13)\n\nHoje refletimos sobre o maior amor: entregar a própria vida pelos amigos. Jesus não apenas falou, Ele viveu esse amor na cruz, mostrando o que significa ser verdadeiramente amigo. Que essa verdade nos inspire a amar de forma sacrificial e a reconhecer que somos amigos de Cristo. Salve este post para lembrar desse amor que transforma e compartilhe com quem precisa sentir esse carinho eterno.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreamor #amor #cruz",
+     "tags": [
+      "versículo sobre amor",
+      "versículos sobre amor",
+      "amor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "cruz",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Me Atraiu",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-03T09:36:04+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18032725166687166"
+   }
+  },
+  {
    "id": "2026-11-02-10-truefalse",
    "date": "2026-11-02",
    "slot": 10,
