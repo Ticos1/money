@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-03T13:09:39+00:00",
+ "updated_at": "2026-11-03T15:15:09+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-03",
+   "time": "12:00",
+   "title": "De que eram feitas as doze portas da Nova Jerusalém?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/_j0PqQzCv70",
+    "instagram": "https://www.instagram.com/reel/DfSLEnvFAzn/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1186330461006644"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-03-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-03",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 307,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 755.2
    }
   },
   "2026-11-03-2-quiz": {
@@ -34,12 +69,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 241,
+    "views": 246,
     "avg_watch_s": 3.6,
-    "watch_time_s": 729.7
+    "watch_time_s": 745.2
    },
    "youtube": {
-    "views": 0,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
@@ -99,7 +134,7 @@
     "watch_time_s": 2.2
    },
    "youtube": {
-    "views": 77,
+    "views": 80,
     "likes": 1,
     "comments": 0
    }
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 76,
+    "views": 79,
     "likes": 2,
     "comments": 0
    }
@@ -161,12 +196,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 304,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 910.8
+    "views": 308,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 933.6
    },
    "youtube": {
-    "views": 224,
+    "views": 227,
     "likes": 2,
     "comments": 0
    }
@@ -183,7 +218,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 221,
+    "views": 222,
     "avg_watch_s": 4.3,
     "watch_time_s": 869.2
    }
@@ -213,12 +248,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 446,
+    "views": 447,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1590.1
+    "watch_time_s": 1590.3
    },
    "youtube": {
-    "views": 108,
+    "views": 110,
     "likes": 2,
     "comments": 0
    }
@@ -258,7 +293,7 @@
     "watch_time_s": 308.1
    },
    "youtube": {
-    "views": 119,
+    "views": 121,
     "likes": 1,
     "comments": 0
    }
@@ -385,7 +420,7 @@
     "watch_time_s": 50.0
    },
    "youtube": {
-    "views": 308,
+    "views": 309,
     "likes": 3,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 5425.8
    },
    "youtube": {
-    "views": 205,
+    "views": 206,
     "likes": 2,
     "comments": 0
    }
@@ -578,9 +613,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1510,
+    "views": 1511,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6900.4
+    "watch_time_s": 6900.5
    }
   },
   "2026-10-31-6-truefalse": {
@@ -3910,8 +3945,8 @@
     "likes": 2,
     "comments": 0,
     "views": 233,
-    "avg_watch_s": 2.8,
-    "watch_time_s": 594.5
+    "avg_watch_s": 2.7,
+    "watch_time_s": 595.1
    },
    "youtube": {
     "views": 31,
