@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-03T21:34:21+00:00",
+ "updated_at": "2026-11-03T22:55:36+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-9-quiz",
+   "date": "2026-11-03",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-03T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-03T22:50:35+00:00",
+    "instagram": "2026-11-03T22:51:11+00:00",
+    "facebook": "2026-11-03T22:51:16+00:00",
+    "stories": "2026-11-03T22:51:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/amL2Fe_M4Ck",
+    "instagram": "https://www.instagram.com/reel/DfS_r2dDjDh/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3450146581860565",
+    "stories": "story 18119397904810689"
+   },
+   "title": "Qual elemento cobre a glória de Deus no versículo 5?"
+  },
   {
    "id": "2026-11-03-8-fill",
    "date": "2026-11-03",
