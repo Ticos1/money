@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-03T11:09:52+00:00",
+ "updated_at": "2026-11-03T13:09:39+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-03-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-03",
+   "time": "10:00",
+   "title": "O que vestia o jovem que seguia Jesus quando ele foi preso?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-03-2-quiz": {
    "type": "quiz",
    "date": "2026-11-03",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2318546642328484"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 241,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 729.7
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 112,
+    "reach": 113,
     "saved": 0,
     "shares": 0,
-    "views": 133,
+    "views": 134,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 421.3
+    "avg_watch_s": 3.7,
+    "watch_time_s": 423.4
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 2.2
    },
    "youtube": {
-    "views": 76,
+    "views": 77,
     "likes": 1,
     "comments": 0
    }
@@ -98,7 +115,7 @@
    },
    "youtube": {
     "views": 76,
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -144,13 +161,13 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 298,
+    "views": 304,
     "avg_watch_s": 3.6,
-    "watch_time_s": 886.9
+    "watch_time_s": 910.8
    },
    "youtube": {
-    "views": 217,
-    "likes": 1,
+    "views": 224,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -185,24 +202,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
-    "views": 34,
+    "views": 35,
     "total_interactions": 0,
     "avg_watch_s": 3.4,
-    "watch_time_s": 104.4
+    "watch_time_s": 109.2
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 445,
+    "views": 446,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1589.1
+    "watch_time_s": 1590.1
    },
    "youtube": {
-    "views": 102,
-    "likes": 1,
+    "views": 108,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1347,
+    "views": 1348,
     "avg_watch_s": 4.4,
-    "watch_time_s": 4834.9
+    "watch_time_s": 4837.4
    }
   },
   "2026-11-02-2-quiz": {
@@ -241,8 +258,8 @@
     "watch_time_s": 308.1
    },
    "youtube": {
-    "views": 115,
-    "likes": 0,
+    "views": 119,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -301,7 +318,7 @@
     "watch_time_s": 49.4
    },
    "youtube": {
-    "views": 71,
+    "views": 72,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "watch_time_s": 50.0
    },
    "youtube": {
-    "views": 307,
+    "views": 308,
     "likes": 3,
     "comments": 0
    }
@@ -3892,7 +3909,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 232,
+    "views": 233,
     "avg_watch_s": 2.8,
     "watch_time_s": 594.5
    },
