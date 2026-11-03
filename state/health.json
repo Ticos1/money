@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T06:43:40+00:00",
+ "updated_at": "2026-11-03T09:38:48+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 4,
   "max": 20,
   "enabled": true
  },
@@ -16,39 +16,63 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 567,
-   "days_left": 567,
+   "fresh": 565,
+   "days_left": 565,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 448,
-   "days_left": 448,
+   "fresh": 446,
+   "days_left": 446,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 1001,
-   "days_left": 143,
+   "fresh": 995,
+   "days_left": 142,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1034,
-   "days_left": 147,
+   "fresh": 1027,
+   "days_left": 146,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 235,
-   "days_left": 235,
+   "fresh": 234,
+   "days_left": 234,
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-03-1-verse",
+   "date": "2026-11-03",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-03T06:33",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-03T09:36:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18032725166687166"
+   },
+   "title": "João 15:13"
+  }
+ ],
  "specials": {}
 }
