@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T11:09:56+00:00",
+ "updated_at": "2026-11-03T13:09:42+00:00",
  "date": "2026-11-03",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-03-3-truefalse",
+   "date": "2026-11-03",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-03T09:57",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-03T13:05:43+00:00",
+    "stories": "2026-11-03T13:06:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105",
+    "stories": "story 18125703347474002"
+   },
+   "title": "O que vestia o jovem que seguia Jesus quando ele foi preso?"
+  },
   {
    "id": "2026-11-03-2-quiz",
    "date": "2026-11-03",
