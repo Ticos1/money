@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-04T14:35:31+00:00",
+ "updated_at": "2026-11-04T15:05:22+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-4-quiz",
+   "date": "2026-11-04",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-04T11:56",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-04T15:00:38+00:00",
+    "instagram": "2026-11-04T15:01:12+00:00",
+    "facebook": "2026-11-04T15:01:17+00:00",
+    "stories": "2026-11-04T15:01:49+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/pe-SV3fqtwk",
+    "instagram": "https://www.instagram.com/reel/DfUur85jI_0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1802994267631197",
+    "stories": "story 18126847631489071"
+   },
+   "title": "Qual frase do Isaías 44:24 afirma a soberania de Deus?"
+  },
   {
    "id": "2026-11-04-3-truefalse",
    "date": "2026-11-04",
