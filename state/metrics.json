@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-04T21:43:54+00:00",
+ "updated_at": "2026-11-04T23:09:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-04-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "title": "Quais eram os filhos do sacerdote Eli que morreram no mesmo dia?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7pOwR0s1Ltg",
+    "instagram": "https://www.instagram.com/reel/DfVmMEKDv5E/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1604251001437772"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-04-8-fill": {
    "type": "fill",
    "date": "2026-11-04",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 6,
     "comments": 0,
-    "views": 408,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 1212.4
+    "views": 1173,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 4161.2
    }
   },
   "2026-11-04-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 7,
     "total_interactions": 0,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 13.3
+    "avg_watch_s": 3.4,
+    "watch_time_s": 13.6
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 274,
+    "views": 280,
     "avg_watch_s": 4.2,
-    "watch_time_s": 892.6
+    "watch_time_s": 915.8
    },
    "youtube": {
-    "views": 24,
+    "views": 48,
     "likes": 0,
     "comments": 0
    }
@@ -83,7 +118,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
+    "views": 4,
     "avg_watch_s": 1.6,
     "watch_time_s": 3.1
    }
@@ -102,20 +137,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 5,
     "total_interactions": 0,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 9.2
+    "avg_watch_s": 2.4,
+    "watch_time_s": 9.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 244,
+    "views": 245,
     "avg_watch_s": 4.9,
-    "watch_time_s": 909.3
+    "watch_time_s": 919.5
    },
    "youtube": {
     "views": 20,
@@ -158,7 +193,7 @@
     "watch_time_s": 984.6
    },
    "youtube": {
-    "views": 31,
+    "views": 33,
     "likes": 0,
     "comments": 0
    }
@@ -202,23 +237,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 50,
+    "reach": 52,
     "saved": 0,
     "shares": 0,
-    "views": 66,
+    "views": 68,
     "total_interactions": 0,
-    "avg_watch_s": 3.4,
-    "watch_time_s": 169.5
+    "avg_watch_s": 3.3,
+    "watch_time_s": 170.4
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 4,
+    "views": 5,
     "avg_watch_s": 13.5,
     "watch_time_s": 27.0
    },
    "youtube": {
-    "views": 40,
+    "views": 49,
     "likes": 2,
     "comments": 0
    }
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 2073,
+    "views": 2075,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9875.4
+    "watch_time_s": 9876.9
    }
   },
   "2026-11-03-6-truefalse": {
@@ -285,7 +320,7 @@
     "watch_time_s": 1193.7
    },
    "youtube": {
-    "views": 120,
+    "views": 126,
     "likes": 1,
     "comments": 0
    }
@@ -337,7 +372,7 @@
     "watch_time_s": 2262.4
    },
    "youtube": {
-    "views": 108,
+    "views": 113,
     "likes": 2,
     "comments": 0
    }
@@ -377,7 +412,7 @@
     "watch_time_s": 781.3
    },
    "youtube": {
-    "views": 89,
+    "views": 93,
     "likes": 1,
     "comments": 0
    }
@@ -437,7 +472,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 134,
+    "views": 135,
     "likes": 1,
     "comments": 0
    }
@@ -452,7 +487,7 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 96,
+    "views": 99,
     "likes": 2,
     "comments": 0
    }
@@ -521,9 +556,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 222,
+    "views": 223,
     "avg_watch_s": 4.3,
-    "watch_time_s": 873.1
+    "watch_time_s": 877.3
    }
   },
   "2026-11-02-4-quiz": {
@@ -671,7 +706,7 @@
     "youtube": "https://youtube.com/shorts/lTgz0z5pMDg"
    },
    "youtube": {
-    "views": 53,
+    "views": 54,
     "likes": 1,
     "comments": 0
    }
@@ -946,7 +981,7 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 1529,
+    "views": 1530,
     "avg_watch_s": 5.8,
     "watch_time_s": 6652.2
    },
@@ -1792,9 +1827,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 500,
+    "views": 501,
     "avg_watch_s": 5.5,
-    "watch_time_s": 2138.5
+    "watch_time_s": 2141.5
    }
   },
   "2026-10-27-6-truefalse": {
