@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-04T14:35:29+00:00",
+ "updated_at": "2026-11-04T15:05:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-04-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-04",
+   "time": "12:00",
+   "title": "Qual frase do Isaías 44:24 afirma a soberania de Deus?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/pe-SV3fqtwk",
+    "instagram": "https://www.instagram.com/reel/DfUur85jI_0/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1802994267631197"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-04-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-04",
@@ -35,8 +70,8 @@
     "likes": 0,
     "comments": 0,
     "views": 240,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 928.5
+    "avg_watch_s": 5.0,
+    "watch_time_s": 940.2
    },
    "youtube": {
     "views": 1,
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 47,
+    "reach": 48,
     "saved": 0,
     "shares": 0,
     "views": 61,
     "total_interactions": 0,
-    "avg_watch_s": 3.2,
-    "watch_time_s": 149.2
+    "avg_watch_s": 3.1,
+    "watch_time_s": 149.6
    },
    "facebook": {
     "likes": 1,
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 2014,
+    "views": 2023,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9618.6
+    "watch_time_s": 9648.7
    }
   },
   "2026-11-03-6-truefalse": {
@@ -161,9 +196,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 403,
+    "views": 404,
     "avg_watch_s": 3.6,
-    "watch_time_s": 1191.9
+    "watch_time_s": 1193.7
    },
    "youtube": {
     "views": 114,
@@ -237,7 +272,7 @@
     "comments": 1,
     "views": 1652,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7046.7
+    "watch_time_s": 7071.8
    }
   },
   "2026-11-03-2-quiz": {
