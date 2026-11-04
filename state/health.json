@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T15:05:22+00:00",
+ "updated_at": "2026-11-04T16:44:17+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-5-curiosity",
+   "date": "2026-11-04",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-04T13:40",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-04T16:40:47+00:00",
+    "stories": "2026-11-04T16:42:01+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1902471917410158",
+    "stories": "story 18590402206070058"
+   },
+   "title": "O rei mais alto"
+  },
   {
    "id": "2026-11-04-4-quiz",
    "date": "2026-11-04",
