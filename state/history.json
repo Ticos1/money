@@ -1,6 +1,97 @@
 {
  "posts": [
   {
+   "id": "2026-11-04-5-curiosity",
+   "date": "2026-11-04",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-04T13:40",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-04T08:23:33+00:00",
+   "source": "bank",
+   "bank_id": "c020",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 9:2",
+    "ref_label": "1 Samuel 9:2",
+    "title": "O rei mais alto",
+    "text": "Saul, o primeiro rei de Israel, era tão alto que, dos ombros para cima, era maior do que qualquer pessoa do povo.",
+    "evidence": "Dos ombros para cima",
+    "passage": "Ele tinha um filho cujo nome era Saul, um jovem impressionante; e não havia entre os filhos de Israel alguém mais belo do que ele. Dos ombros para cima, ele era mais alto do que qualquer pessoa do povo.",
+    "tags": [
+     "saul",
+     "reis"
+    ]
+   },
+   "captions": {
+    "instagram": "O rei mais alto\n\nSaul, o primeiro rei de Israel, era tão alto que, dos ombros para cima, era maior do que qualquer pessoa do povo. (1 Samuel 9:2)\n\nCuriosidade bíblica: o primeiro rei de Israel, Saul, era tão alto que, dos ombros para cima, superava qualquer pessoa do povo (1 Samuel 9:2). Imagine a presença imponente desse líder! Se esse fato te surpreendeu, salve e compartilhe para que mais pessoas conheçam essa curiosidade. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#saul #reis #vocesabia #curiosidadesbiblicas #evangelico #gospel #biblia #fe #cristao #jesus #historiabiblica #palavradedeus",
+    "facebook": "O rei mais alto\n\nSaul, o primeiro rei de Israel, era tão alto que, dos ombros para cima, era maior do que qualquer pessoa do povo. (1 Samuel 9:2)\n\nCuriosidade bíblica: o primeiro rei de Israel, Saul, era tão alto que, dos ombros para cima, superava qualquer pessoa do povo (1 Samuel 9:2). Imagine a presença imponente desse líder! Se esse fato te surpreendeu, salve e compartilhe para que mais pessoas conheçam essa curiosidade. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#saul #reis #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Saul, o primeiro rei de Israel, era o mais alto da Bíblia! Salve e compartilhe. 🙌\n#saul #reis #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "kwai": "Saul, o primeiro rei de Israel, era o mais alto da Bíblia! Salve e compartilhe. 🙌\n#saul #reis #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "O rei mais alto\n\nSaul, o primeiro rei de Israel, era tão alto que, dos ombros para cima, era maior do que qualquer pessoa do povo. (1 Samuel 9:2)\n\nCuriosidade bíblica: o primeiro rei de Israel, Saul, era tão alto que, dos ombros para cima, superava qualquer pessoa do povo (1 Samuel 9:2). Imagine a presença imponente desse líder! Se esse fato te surpreendeu, salve e compartilhe para que mais pessoas conheçam essa curiosidade. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? O rei mais alto #shorts",
+     "description": "O rei mais alto\n\nSaul, o primeiro rei de Israel, era tão alto que, dos ombros para cima, era maior do que qualquer pessoa do povo. (1 Samuel 9:2)\n\nCuriosidade bíblica: o primeiro rei de Israel, Saul, era tão alto que, dos ombros para cima, superava qualquer pessoa do povo (1 Samuel 9:2). Imagine a presença imponente desse líder! Se esse fato te surpreendeu, salve e compartilhe para que mais pessoas conheçam essa curiosidade. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #saul #reis #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "saul",
+      "reis",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-04T16:40:47+00:00",
+    "stories": "2026-11-04T16:42:01+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1902471917410158",
+    "stories": "story 18590402206070058"
+   }
+  },
+  {
    "id": "2026-11-04-4-quiz",
    "date": "2026-11-04",
    "slot": 4,
