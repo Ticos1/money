@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-04T15:05:19+00:00",
+ "updated_at": "2026-11-04T16:44:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-04-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-04",
+   "time": "13:30",
+   "title": "O rei mais alto",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1902471917410158"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-04-4-quiz": {
    "type": "quiz",
    "date": "2026-11-04",
@@ -29,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 92,
+    "avg_watch_s": 3.1,
+    "watch_time_s": 211.0
    },
    "youtube": {
     "views": 0,
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 240,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 940.2
+    "views": 243,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 945.9
    },
    "youtube": {
-    "views": 1,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -121,7 +138,7 @@
     "reach": 48,
     "saved": 0,
     "shares": 0,
-    "views": 61,
+    "views": 64,
     "total_interactions": 0,
     "avg_watch_s": 3.1,
     "watch_time_s": 149.6
@@ -134,8 +151,8 @@
     "watch_time_s": 18.8
    },
    "youtube": {
-    "views": 8,
-    "likes": 1,
+    "views": 24,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
    },
    "youtube": {
-    "views": 51,
+    "views": 54,
     "likes": 1,
     "comments": 0
    }
@@ -166,9 +183,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 2023,
+    "views": 2047,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9648.7
+    "watch_time_s": 9738.3
    }
   },
   "2026-11-03-6-truefalse": {
@@ -201,7 +218,7 @@
     "watch_time_s": 1193.7
    },
    "youtube": {
-    "views": 114,
+    "views": 116,
     "likes": 1,
     "comments": 0
    }
@@ -253,7 +270,7 @@
     "watch_time_s": 2262.4
    },
    "youtube": {
-    "views": 101,
+    "views": 103,
     "likes": 2,
     "comments": 0
    }
@@ -270,9 +287,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1652,
+    "views": 1653,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7071.8
+    "watch_time_s": 7075.0
    }
   },
   "2026-11-03-2-quiz": {
@@ -288,12 +305,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 259,
+    "views": 260,
     "avg_watch_s": 3.6,
-    "watch_time_s": 780.0
+    "watch_time_s": 780.6
    },
    "youtube": {
-    "views": 88,
+    "views": 89,
     "likes": 1,
     "comments": 0
    }
@@ -353,7 +370,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 126,
+    "views": 129,
     "likes": 1,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 92,
+    "views": 94,
     "likes": 2,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "watch_time_s": 937.3
    },
    "youtube": {
-    "views": 279,
+    "views": 282,
     "likes": 2,
     "comments": 0
    }
@@ -1034,7 +1051,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 140,
+    "views": 141,
     "likes": 3,
     "comments": 0
    }
