@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-04T18:11:00+00:00",
+ "updated_at": "2026-11-04T20:15:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-04-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-04",
+   "time": "17:00",
+   "title": "Que nome Jacó deu ao lugar onde viu a Deus face a face?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-04-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-04",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 0.8
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 263,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 861.2
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -70,23 +87,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.9,
+    "watch_time_s": 2.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 166,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 470.8
+    "views": 236,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 889.4
    },
    "youtube": {
-    "views": 9,
+    "views": 19,
     "likes": 1,
     "comments": 0
    }
@@ -119,14 +136,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1778645190090317"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 248,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 968.7
+    "views": 252,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 974.2
    },
    "youtube": {
-    "views": 20,
+    "views": 29,
     "likes": 0,
     "comments": 0
    }
@@ -181,12 +198,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 18.8,
-    "watch_time_s": 18.8
+    "views": 4,
+    "avg_watch_s": 13.5,
+    "watch_time_s": 27.0
    },
    "youtube": {
-    "views": 24,
+    "views": 36,
     "likes": 2,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
    },
    "youtube": {
-    "views": 54,
+    "views": 55,
     "likes": 1,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 2056,
+    "views": 2068,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9785.9
+    "watch_time_s": 9852.6
    }
   },
   "2026-11-03-6-truefalse": {
@@ -253,7 +270,7 @@
     "watch_time_s": 1193.7
    },
    "youtube": {
-    "views": 116,
+    "views": 120,
     "likes": 1,
     "comments": 0
    }
@@ -272,7 +289,7 @@
     "comments": 0,
     "views": 221,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1087.5
+    "watch_time_s": 1089.3
    }
   },
   "2026-11-03-4-quiz": {
@@ -324,7 +341,7 @@
     "comments": 1,
     "views": 1655,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7075.9
+    "watch_time_s": 7076.8
    }
   },
   "2026-11-03-2-quiz": {
@@ -342,10 +359,10 @@
     "comments": 0,
     "views": 261,
     "avg_watch_s": 3.6,
-    "watch_time_s": 780.6
+    "watch_time_s": 781.3
    },
    "youtube": {
-    "views": 87,
+    "views": 88,
     "likes": 1,
     "comments": 0
    }
@@ -405,7 +422,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 129,
+    "views": 134,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 937.3
    },
    "youtube": {
-    "views": 284,
+    "views": 285,
     "likes": 2,
     "comments": 0
    }
@@ -521,7 +538,7 @@
     "comments": 0,
     "views": 450,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1593.0
+    "watch_time_s": 1593.9
    },
    "youtube": {
     "views": 123,
@@ -1006,9 +1023,9 @@
    "facebook": {
     "likes": 9,
     "comments": 2,
-    "views": 1342,
+    "views": 1343,
     "avg_watch_s": 4.8,
-    "watch_time_s": 5164.9
+    "watch_time_s": 5174.5
    },
    "youtube": {
     "views": 98,
@@ -3083,9 +3100,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 986,
+    "views": 987,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4328.3
+    "watch_time_s": 4330.0
    }
   },
   "2026-10-21-6-truefalse": {
