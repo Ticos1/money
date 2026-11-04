@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-04T21:18:31+00:00",
+ "updated_at": "2026-11-04T21:43:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-04-8-fill": {
+   "type": "fill",
+   "date": "2026-11-04",
+   "time": "18:30",
+   "title": "Que, se você confessar com a sua boca que Jesus é Senhor e crer em seu _____ que Deus o ressuscitou dentre os mortos, você será salvo.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-04-7-quiz": {
    "type": "quiz",
    "date": "2026-11-04",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 228,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 399.8
+    "views": 408,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1212.4
    }
   },
   "2026-11-04-6-truefalse": {
@@ -46,12 +61,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 271,
+    "views": 274,
     "avg_watch_s": 4.2,
-    "watch_time_s": 892.1
+    "watch_time_s": 892.6
    },
    "youtube": {
-    "views": 3,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -98,9 +113,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 242,
+    "views": 244,
     "avg_watch_s": 4.9,
-    "watch_time_s": 893.6
+    "watch_time_s": 909.3
    },
    "youtube": {
     "views": 20,
@@ -143,7 +158,7 @@
     "watch_time_s": 984.6
    },
    "youtube": {
-    "views": 27,
+    "views": 31,
     "likes": 0,
     "comments": 0
    }
@@ -203,7 +218,7 @@
     "watch_time_s": 27.0
    },
    "youtube": {
-    "views": 39,
+    "views": 40,
     "likes": 2,
     "comments": 0
    }
@@ -322,7 +337,7 @@
     "watch_time_s": 2262.4
    },
    "youtube": {
-    "views": 106,
+    "views": 108,
     "likes": 2,
     "comments": 0
    }
@@ -362,7 +377,7 @@
     "watch_time_s": 781.3
    },
    "youtube": {
-    "views": 88,
+    "views": 89,
     "likes": 1,
     "comments": 0
    }
@@ -437,7 +452,7 @@
     "youtube": "https://youtube.com/shorts/uGmD9JpNGcQ"
    },
    "youtube": {
-    "views": 95,
+    "views": 96,
     "likes": 2,
     "comments": 0
    }
