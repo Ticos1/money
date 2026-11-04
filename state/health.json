@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-04T16:44:17+00:00",
+ "updated_at": "2026-11-04T18:11:03+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-6-truefalse",
+   "date": "2026-11-04",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-04T15:02",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-04T18:05:47+00:00",
+    "instagram": "2026-11-04T18:06:23+00:00",
+    "facebook": "2026-11-04T18:06:28+00:00",
+    "stories": "2026-11-04T18:07:26+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SFPlHIng8P0",
+    "instagram": "https://www.instagram.com/reel/DfVD4MbD_tt/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4071974979776356",
+    "stories": "story 18098502794137134"
+   },
+   "title": "Segundo Romanos 12, como devemos ser transformados?"
+  },
   {
    "id": "2026-11-04-5-curiosity",
    "date": "2026-11-04",
