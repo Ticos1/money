@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T18:11:03+00:00",
+ "updated_at": "2026-11-04T20:15:24+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-7-quiz",
+   "date": "2026-11-04",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-04T17:09",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-04T20:10:39+00:00",
+    "stories": "2026-11-04T20:12:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412",
+    "stories": "story 18098772785435382"
+   },
+   "title": "Que nome Jacó deu ao lugar onde viu a Deus face a face?"
+  },
   {
    "id": "2026-11-04-6-truefalse",
    "date": "2026-11-04",
