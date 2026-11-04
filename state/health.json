@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-04T09:29:45+00:00",
+ "updated_at": "2026-11-04T11:11:00+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-2-quiz",
+   "date": "2026-11-04",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-04T07:56",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-04T11:05:46+00:00",
+    "instagram": null,
+    "facebook": "2026-11-04T11:05:51+00:00",
+    "stories": "2026-11-04T11:06:26+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/O4L4y37-hxs",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1778645190090317",
+    "stories": "story 18098249633407273"
+   },
+   "title": "Segundo José, o que representavam os três ramos do sonho do copeiro?"
+  },
   {
    "id": "2026-11-04-1-verse",
    "date": "2026-11-04",
