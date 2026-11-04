@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-04T00:34:12+00:00",
- "date": "2026-11-03",
+ "updated_at": "2026-11-04T06:10:41+00:00",
+ "date": "2026-11-04",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 446,
-   "days_left": 446,
+   "fresh": 449,
+   "days_left": 449,
    "warn": false
   },
   {
@@ -37,8 +37,8 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1027,
-   "days_left": 146,
+   "fresh": 1029,
+   "days_left": 147,
    "warn": false
   },
   {
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-03-10-truefalse",
-   "date": "2026-11-03",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-03T21:28",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-04T00:30:38+00:00",
-    "stories": "2026-11-04T00:31:28+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/996084169530492",
-    "stories": "story 18098144246403889"
-   },
-   "title": "Quem poupa a vara, segundo Provérbios, odeia a quem?"
-  },
-  {
-   "id": "2026-11-03-9-quiz",
-   "date": "2026-11-03",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-03T19:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-03T22:50:35+00:00",
-    "instagram": "2026-11-03T22:51:11+00:00",
-    "facebook": "2026-11-03T22:51:16+00:00",
-    "stories": "2026-11-03T22:51:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/amL2Fe_M4Ck",
-    "instagram": "https://www.instagram.com/reel/DfS_r2dDjDh/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3450146581860565",
-    "stories": "story 18119397904810689"
-   },
-   "title": "Qual elemento cobre a glória de Deus no versículo 5?"
-  },
-  {
-   "id": "2026-11-03-8-fill",
-   "date": "2026-11-03",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-03T18:30",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-03T21:30:37+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-03T21:31:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/8b7wwf5szfE",
-    "stories": "story 18158498602561391"
-   },
-   "title": "Que a tua _____ esteja sobre nós, SENHOR, visto que temos esperado em ti."
-  },
-  {
-   "id": "2026-11-03-7-quiz",
-   "date": "2026-11-03",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-03T17:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-03T20:06:28+00:00",
-    "stories": "2026-11-03T20:07:00+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764",
-    "stories": "story 17909836608332610"
-   },
-   "title": "No sonho de Nabucodonosor, o que ele viu no meio da terra, de altura imensa?"
-  },
-  {
-   "id": "2026-11-03-6-truefalse",
-   "date": "2026-11-03",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-03T14:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-03T17:56:28+00:00",
-    "instagram": "2026-11-03T17:57:10+00:00",
-    "facebook": "2026-11-03T17:57:14+00:00",
-    "stories": "2026-11-03T17:57:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/wCwQcSJkOHM",
-    "instagram": "https://www.instagram.com/reel/DfSeBHFCtR1/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1175996355089413",
-    "stories": "story 18082356005755636"
-   },
-   "title": "Segundo Provérbios 6, quanto o ladrão pego deverá restituir?"
-  },
-  {
-   "id": "2026-11-03-5-curiosity",
-   "date": "2026-11-03",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-03T13:23",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-03T16:25:48+00:00",
-    "stories": "2026-11-03T16:26:21+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/997812036726661",
-    "stories": "story 18143766286717469"
-   },
-   "title": "Prefiro ser porteiro"
-  },
-  {
-   "id": "2026-11-03-4-quiz",
-   "date": "2026-11-03",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-03T12:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-03T15:10:37+00:00",
-    "instagram": "2026-11-03T15:11:30+00:00",
-    "facebook": "2026-11-03T15:11:34+00:00",
-    "stories": "2026-11-03T15:12:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/_j0PqQzCv70",
-    "instagram": "https://www.instagram.com/reel/DfSLEnvFAzn/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1186330461006644",
-    "stories": "story 18128360387485265"
-   },
-   "title": "De que eram feitas as doze portas da Nova Jerusalém?"
-  },
-  {
-   "id": "2026-11-03-3-truefalse",
-   "date": "2026-11-03",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-03T09:57",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-03T13:05:43+00:00",
-    "stories": "2026-11-03T13:06:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1516071103693105",
-    "stories": "story 18125703347474002"
-   },
-   "title": "O que vestia o jovem que seguia Jesus quando ele foi preso?"
-  },
-  {
-   "id": "2026-11-03-2-quiz",
-   "date": "2026-11-03",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-03T08:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-03T11:05:47+00:00",
-    "instagram": null,
-    "facebook": "2026-11-03T11:05:52+00:00",
-    "stories": "2026-11-03T11:06:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/3j0XP1fYl-U",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2318546642328484",
-    "stories": "story 18117486872117612"
-   },
-   "title": "Qual era o nome hebraico de Ester?"
-  },
-  {
-   "id": "2026-11-03-1-verse",
-   "date": "2026-11-03",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-03T06:33",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-03T09:36:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18032725166687166"
-   },
-   "title": "João 15:13"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
