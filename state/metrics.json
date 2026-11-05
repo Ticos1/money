@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-05T15:14:48+00:00",
+ "updated_at": "2026-11-05T16:41:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-05",
+   "time": "13:30",
+   "title": "Jesus andou uns 5 km sobre o mar",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1302195048704493"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-05-4-quiz": {
    "type": "quiz",
    "date": "2026-11-05",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 1,
+    "comments": 1,
+    "views": 371,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 726.2
    },
    "youtube": {
     "views": 0,
@@ -67,11 +84,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4722007871344085"
    },
    "facebook": {
-    "likes": 6,
+    "likes": 8,
     "comments": 0,
-    "views": 850,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 2996.5
+    "views": 1288,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 5709.4
    },
    "youtube": {
     "views": 10,
@@ -134,7 +151,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 1,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 36,
+    "views": 37,
     "likes": 1,
     "comments": 0
    }
@@ -166,9 +183,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 1970,
-    "avg_watch_s": 6.6,
-    "watch_time_s": 9226.7
+    "views": 1986,
+    "avg_watch_s": 6.7,
+    "watch_time_s": 9337.8
    }
   },
   "2026-11-04-6-truefalse": {
@@ -196,12 +213,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 317,
+    "views": 321,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1076.5
+    "watch_time_s": 1091.1
    },
    "youtube": {
-    "views": 80,
+    "views": 82,
     "likes": 1,
     "comments": 0
    }
@@ -253,7 +270,7 @@
     "watch_time_s": 1001.0
    },
    "youtube": {
-    "views": 34,
+    "views": 36,
     "likes": 2,
     "comments": 0
    }
@@ -353,7 +370,7 @@
     "watch_time_s": 30.7
    },
    "youtube": {
-    "views": 83,
+    "views": 96,
     "likes": 2,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "watch_time_s": 1193.7
    },
    "youtube": {
-    "views": 134,
+    "views": 135,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 2268.9
    },
    "youtube": {
-    "views": 121,
+    "views": 122,
     "likes": 2,
     "comments": 0
    }
@@ -489,9 +506,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1659,
+    "views": 1660,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7108.9
+    "watch_time_s": 7111.7
    }
   },
   "2026-11-03-2-quiz": {
@@ -1253,7 +1270,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 141,
+    "views": 142,
     "likes": 3,
     "comments": 0
    }
@@ -2469,9 +2486,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1754,
+    "views": 1755,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8338.3
+    "watch_time_s": 8342.6
    }
   },
   "2026-10-25-2-quiz": {
@@ -3252,7 +3269,7 @@
     "comments": 0,
     "views": 988,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4330.0
+    "watch_time_s": 4332.5
    }
   },
   "2026-10-21-6-truefalse": {
