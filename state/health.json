@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-05T00:39:45+00:00",
- "date": "2026-11-04",
+ "updated_at": "2026-11-05T06:39:01+00:00",
+ "date": "2026-11-05",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 5,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1022,
+   "fresh": 1024,
    "days_left": 146,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-04-10-truefalse",
-   "date": "2026-11-04",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-04T21:35",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-05T00:35:45+00:00",
-    "stories": "2026-11-05T00:36:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1859924018521689",
-    "stories": "story 17875206381602222"
-   },
-   "title": "Como se chamava um dos dois discípulos que caminhavam para Emaús?"
-  },
-  {
-   "id": "2026-11-04-9-quiz",
-   "date": "2026-11-04",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-04T20:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-04T23:05:36+00:00",
-    "instagram": "2026-11-04T23:06:09+00:00",
-    "facebook": "2026-11-04T23:06:15+00:00",
-    "stories": "2026-11-04T23:06:49+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/7pOwR0s1Ltg",
-    "instagram": "https://www.instagram.com/reel/DfVmMEKDv5E/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1604251001437772",
-    "stories": "story 18117234665030158"
-   },
-   "title": "Quais eram os filhos do sacerdote Eli que morreram no mesmo dia?"
-  },
-  {
-   "id": "2026-11-04-8-fill",
-   "date": "2026-11-04",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-04T18:38",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-04T21:40:33+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-04T21:41:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/7QWM4WNT2j4",
-    "stories": "story 18484626925118952"
-   },
-   "title": "Que, se você confessar com a sua boca que Jesus é Senhor e crer em seu _____ que Deus o ressuscitou dentre os mortos, você será salvo."
-  },
-  {
-   "id": "2026-11-04-7-quiz",
-   "date": "2026-11-04",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-04T17:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-04T20:10:39+00:00",
-    "stories": "2026-11-04T20:12:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412",
-    "stories": "story 18098772785435382"
-   },
-   "title": "Que nome Jacó deu ao lugar onde viu a Deus face a face?"
-  },
-  {
-   "id": "2026-11-04-6-truefalse",
-   "date": "2026-11-04",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-04T15:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-04T18:05:47+00:00",
-    "instagram": "2026-11-04T18:06:23+00:00",
-    "facebook": "2026-11-04T18:06:28+00:00",
-    "stories": "2026-11-04T18:07:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SFPlHIng8P0",
-    "instagram": "https://www.instagram.com/reel/DfVD4MbD_tt/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4071974979776356",
-    "stories": "story 18098502794137134"
-   },
-   "title": "Segundo Romanos 12, como devemos ser transformados?"
-  },
-  {
-   "id": "2026-11-04-5-curiosity",
-   "date": "2026-11-04",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-04T13:40",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-04T16:40:47+00:00",
-    "stories": "2026-11-04T16:42:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1902471917410158",
-    "stories": "story 18590402206070058"
-   },
-   "title": "O rei mais alto"
-  },
-  {
-   "id": "2026-11-04-4-quiz",
-   "date": "2026-11-04",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-04T11:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-04T15:00:38+00:00",
-    "instagram": "2026-11-04T15:01:12+00:00",
-    "facebook": "2026-11-04T15:01:17+00:00",
-    "stories": "2026-11-04T15:01:49+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/pe-SV3fqtwk",
-    "instagram": "https://www.instagram.com/reel/DfUur85jI_0/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1802994267631197",
-    "stories": "story 18126847631489071"
-   },
-   "title": "Qual frase do Isaías 44:24 afirma a soberania de Deus?"
-  },
-  {
-   "id": "2026-11-04-3-truefalse",
-   "date": "2026-11-04",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-04T09:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-04T12:55:40+00:00",
-    "stories": "2026-11-04T12:56:15+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1695080269296894",
-    "stories": "story 18130286479888393"
-   },
-   "title": "Onde, segundo Isaías, deve ser preparado o caminho do SENHOR?"
-  },
-  {
-   "id": "2026-11-04-2-quiz",
-   "date": "2026-11-04",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-04T07:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-04T11:05:46+00:00",
-    "instagram": null,
-    "facebook": "2026-11-04T11:05:51+00:00",
-    "stories": "2026-11-04T11:06:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/O4L4y37-hxs",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1778645190090317",
-    "stories": "story 18098249633407273"
-   },
-   "title": "Segundo José, o que representavam os três ramos do sonho do copeiro?"
-  },
-  {
-   "id": "2026-11-04-1-verse",
-   "date": "2026-11-04",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-04T06:22",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-04T09:26:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18134446013497511"
-   },
-   "title": "Isaías 42:16"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
