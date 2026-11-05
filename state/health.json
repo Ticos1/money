@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T17:59:59+00:00",
+ "updated_at": "2026-11-05T19:59:58+00:00",
  "date": "2026-11-05",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-05-7-quiz",
+   "date": "2026-11-05",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-05T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-05T19:55:34+00:00",
+    "stories": "2026-11-05T19:57:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2137809840158559",
+    "stories": "story 18129942490874756"
+   },
+   "title": "Onde serão arrebatados os cristãos vivos?"
+  },
   {
    "id": "2026-11-05-6-truefalse",
    "date": "2026-11-05",
