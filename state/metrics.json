@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-05T17:23:48+00:00",
+ "updated_at": "2026-11-05T17:59:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-05",
+   "time": "15:00",
+   "title": "Qual parente rico de Elimeleque se casou com Rute?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/zZhkNODxQ1M",
+    "instagram": "https://www.instagram.com/reel/DfXng33GdrG/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1129689786282484"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-05-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-05",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 13,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 27.9
+    "views": 27,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 102.2
    }
   },
   "2026-11-05-4-quiz": {
@@ -44,14 +79,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 1,
-    "views": 689,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 1937.2
+    "views": 1069,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 3450.3
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -86,9 +121,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1320,
+    "views": 1347,
     "avg_watch_s": 6.2,
-    "watch_time_s": 5978.7
+    "watch_time_s": 6110.5
    },
    "youtube": {
     "views": 10,
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 1989,
+    "views": 1991,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9355.5
+    "watch_time_s": 9361.0
    }
   },
   "2026-11-04-6-truefalse": {
@@ -205,7 +240,7 @@
     "reach": 13,
     "saved": 0,
     "shares": 0,
-    "views": 18,
+    "views": 19,
     "total_interactions": 0,
     "avg_watch_s": 4.6,
     "watch_time_s": 59.3
