@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-05T19:59:55+00:00",
+ "updated_at": "2026-11-05T21:39:41+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-8-fill": {
+   "type": "fill",
+   "date": "2026-11-05",
+   "time": "18:30",
+   "title": "O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.",
+   "hook": "Qual palavra falta nesse versículo?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-05-7-quiz": {
    "type": "quiz",
    "date": "2026-11-05",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2137809840158559"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 295,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 994.2
    }
   },
   "2026-11-05-6-truefalse": {
@@ -44,15 +59,15 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 373,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1300.4
+    "views": 786,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 2430.0
    },
    "youtube": {
-    "views": 13,
-    "likes": 0,
+    "views": 60,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 195,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 704.1
+    "views": 216,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 833.1
    }
   },
   "2026-11-05-4-quiz": {
@@ -87,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 9,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.4,
+    "watch_time_s": 5.6
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1348,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 5379.9
+    "views": 1473,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 5824.2
    },
    "youtube": {
-    "views": 6,
+    "views": 22,
     "likes": 0,
     "comments": 0
    }
@@ -138,12 +153,12 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 1392,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 6319.4
+    "views": 1428,
+    "avg_watch_s": 6.1,
+    "watch_time_s": 6470.8
    },
    "youtube": {
-    "views": 16,
+    "views": 19,
     "likes": 1,
     "comments": 0
    }
@@ -187,10 +202,10 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 38,
+    "reach": 39,
     "saved": 0,
     "shares": 0,
-    "views": 40,
+    "views": 41,
     "total_interactions": 0,
     "avg_watch_s": 2.1,
     "watch_time_s": 79.4
@@ -218,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 36,
+    "views": 40,
     "likes": 1,
     "comments": 0
    }
@@ -235,9 +250,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 1996,
+    "views": 1997,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9373.3
+    "watch_time_s": 9402.8
    }
   },
   "2026-11-04-6-truefalse": {
@@ -270,7 +285,7 @@
     "watch_time_s": 1091.1
    },
    "youtube": {
-    "views": 82,
+    "views": 84,
     "likes": 1,
     "comments": 0
    }
@@ -322,7 +337,7 @@
     "watch_time_s": 1002.3
    },
    "youtube": {
-    "views": 36,
+    "views": 40,
     "likes": 2,
     "comments": 0
    }
@@ -422,7 +437,7 @@
     "watch_time_s": 30.7
    },
    "youtube": {
-    "views": 105,
+    "views": 109,
     "likes": 2,
     "comments": 0
    }
@@ -454,7 +469,7 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 2082,
+    "views": 2084,
     "avg_watch_s": 6.3,
     "watch_time_s": 9896.1
    }
@@ -484,7 +499,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 404,
+    "views": 405,
     "avg_watch_s": 3.6,
     "watch_time_s": 1193.7
    },
@@ -1369,9 +1384,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 819,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 3626.3
+    "views": 820,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 3627.0
    },
    "youtube": {
     "views": 154,
@@ -2538,9 +2553,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1755,
+    "views": 1757,
     "avg_watch_s": 6.4,
-    "watch_time_s": 8342.6
+    "watch_time_s": 8356.7
    }
   },
   "2026-10-25-2-quiz": {
