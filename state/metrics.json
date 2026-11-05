@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T00:39:41+00:00",
+ "updated_at": "2026-11-05T06:38:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -14,11 +14,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1859924018521689"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 8.2,
+    "watch_time_s": 8.2
    }
   },
   "2026-11-04-9-quiz": {
@@ -35,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 35,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 36,
     "total_interactions": 0,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 30.1
+    "avg_watch_s": 2.1,
+    "watch_time_s": 75.0
    },
    "facebook": {
     "likes": 0,
@@ -51,8 +51,8 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 3,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -66,7 +66,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 13,
+    "views": 35,
     "likes": 1,
     "comments": 0
    }
@@ -81,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412"
    },
    "facebook": {
-    "likes": 6,
+    "likes": 11,
     "comments": 1,
-    "views": 1451,
-    "avg_watch_s": 6.4,
-    "watch_time_s": 6455.9
+    "views": 1742,
+    "avg_watch_s": 6.8,
+    "watch_time_s": 8261.2
    }
   },
   "2026-11-04-6-truefalse": {
@@ -102,24 +102,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 23.9
+    "avg_watch_s": 3.9,
+    "watch_time_s": 42.5
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 289,
+    "views": 307,
     "avg_watch_s": 4.4,
-    "watch_time_s": 979.7
+    "watch_time_s": 1043.6
    },
    "youtube": {
-    "views": 24,
-    "likes": 0,
+    "views": 74,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -154,23 +154,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 2.4,
-    "watch_time_s": 9.8
+    "avg_watch_s": 2.3,
+    "watch_time_s": 15.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 251,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 931.7
+    "views": 256,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 980.2
    },
    "youtube": {
-    "views": 23,
+    "views": 33,
     "likes": 1,
     "comments": 0
    }
@@ -205,12 +205,12 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 257,
+    "views": 258,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1008.0
+    "watch_time_s": 1010.1
    },
    "youtube": {
-    "views": 36,
+    "views": 43,
     "likes": 0,
     "comments": 0
    }
@@ -270,7 +270,7 @@
     "watch_time_s": 30.7
    },
    "youtube": {
-    "views": 61,
+    "views": 77,
     "likes": 2,
     "comments": 0
    }
@@ -285,7 +285,7 @@
     "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
    },
    "youtube": {
-    "views": 55,
+    "views": 57,
     "likes": 1,
     "comments": 0
    }
@@ -300,11 +300,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764"
    },
    "facebook": {
-    "likes": 13,
+    "likes": 14,
     "comments": 1,
-    "views": 2076,
+    "views": 2078,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9877.8
+    "watch_time_s": 9879.1
    }
   },
   "2026-11-03-6-truefalse": {
@@ -337,7 +337,7 @@
     "watch_time_s": 1193.7
    },
    "youtube": {
-    "views": 126,
+    "views": 134,
     "likes": 1,
     "comments": 0
    }
@@ -389,7 +389,7 @@
     "watch_time_s": 2268.9
    },
    "youtube": {
-    "views": 116,
+    "views": 120,
     "likes": 2,
     "comments": 0
    }
@@ -429,7 +429,7 @@
     "watch_time_s": 781.3
    },
    "youtube": {
-    "views": 93,
+    "views": 95,
     "likes": 1,
     "comments": 0
    }
@@ -489,7 +489,7 @@
     "watch_time_s": 13.2
    },
    "youtube": {
-    "views": 135,
+    "views": 136,
     "likes": 1,
     "comments": 0
    }
@@ -603,12 +603,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 450,
+    "views": 451,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1593.9
+    "watch_time_s": 1595.5
    },
    "youtube": {
-    "views": 123,
+    "views": 126,
     "likes": 2,
     "comments": 0
    }
@@ -822,9 +822,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1331,
+    "views": 1332,
     "avg_watch_s": 5.2,
-    "watch_time_s": 5426.5
+    "watch_time_s": 5428.9
    },
    "youtube": {
     "views": 208,
@@ -1406,9 +1406,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1545,
+    "views": 1547,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6771.9
+    "watch_time_s": 6785.8
    }
   },
   "2026-10-29-6-truefalse": {
@@ -1488,9 +1488,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1276,
+    "views": 1277,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6094.8
+    "watch_time_s": 6098.4
    },
    "youtube": {
     "views": 207,
@@ -1748,8 +1748,8 @@
     "likes": 0,
     "comments": 0,
     "views": 250,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 911.9
+    "avg_watch_s": 4.6,
+    "watch_time_s": 913.0
    },
    "youtube": {
     "views": 74,
@@ -1827,7 +1827,7 @@
     "youtube": "https://youtube.com/shorts/L0mMCoAkrQY"
    },
    "youtube": {
-    "views": 94,
+    "views": 95,
     "likes": 2,
     "comments": 0
    }
@@ -2063,9 +2063,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1360,
+    "views": 1361,
     "avg_watch_s": 5.8,
-    "watch_time_s": 5864.1
+    "watch_time_s": 5865.0
    }
   },
   "2026-10-26-6-truefalse": {
@@ -2334,9 +2334,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 298,
+    "views": 299,
     "avg_watch_s": 3.4,
-    "watch_time_s": 899.5
+    "watch_time_s": 912.3
    }
   },
   "2026-10-25-4-quiz": {
@@ -3032,7 +3032,7 @@
     "comments": 3,
     "views": 1174,
     "avg_watch_s": 5.6,
-    "watch_time_s": 4764.7
+    "watch_time_s": 4765.3
    },
    "youtube": {
     "views": 125,
@@ -5262,9 +5262,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 801,
+    "views": 802,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1911.4
+    "watch_time_s": 1918.3
    },
    "youtube": {
     "views": 7,
