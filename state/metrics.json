@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-05T06:38:57+00:00",
+ "updated_at": "2026-11-05T09:44:16+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-1-verse": {
+   "type": "verse",
+   "date": "2026-11-05",
+   "time": "06:30",
+   "title": "João 10:14",
+   "hook": "Se esse versículo chegou até você, não é por acaso",
+   "links": {}
+  },
   "2026-11-04-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-04",
@@ -35,13 +43,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 35,
+    "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 36,
+    "views": 37,
     "total_interactions": 0,
     "avg_watch_s": 2.1,
-    "watch_time_s": 75.0
+    "watch_time_s": 77.2
    },
    "facebook": {
     "likes": 0,
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 11,
     "comments": 1,
-    "views": 1742,
+    "views": 1829,
     "avg_watch_s": 6.8,
-    "watch_time_s": 8261.2
+    "watch_time_s": 8677.5
    }
   },
   "2026-11-04-6-truefalse": {
@@ -113,12 +121,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 307,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1043.6
+    "views": 309,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1045.6
    },
    "youtube": {
-    "views": 74,
+    "views": 76,
     "likes": 1,
     "comments": 0
    }
@@ -170,7 +178,7 @@
     "watch_time_s": 980.2
    },
    "youtube": {
-    "views": 33,
+    "views": 34,
     "likes": 1,
     "comments": 0
    }
@@ -270,7 +278,7 @@
     "watch_time_s": 30.7
    },
    "youtube": {
-    "views": 77,
+    "views": 82,
     "likes": 2,
     "comments": 0
    }
@@ -302,9 +310,9 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 2078,
+    "views": 2079,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9879.1
+    "watch_time_s": 9880.1
    }
   },
   "2026-11-03-6-truefalse": {
@@ -389,7 +397,7 @@
     "watch_time_s": 2268.9
    },
    "youtube": {
-    "views": 120,
+    "views": 121,
     "likes": 2,
     "comments": 0
    }
@@ -822,9 +830,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1332,
+    "views": 1333,
     "avg_watch_s": 5.2,
-    "watch_time_s": 5428.9
+    "watch_time_s": 5429.5
    },
    "youtube": {
     "views": 208,
