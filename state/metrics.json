@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-05T13:15:22+00:00",
+ "updated_at": "2026-11-05T15:14:48+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-05",
+   "time": "12:00",
+   "title": "Qual palavra descreve o que o autor chama de peso sobre os homens?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/1Ke5ozyJGOU",
+    "instagram": "https://www.instagram.com/reel/DfXUn-eiKNb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1786113745988630"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-05-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-05",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 11.9,
+    "watch_time_s": 11.9
    }
   },
   "2026-11-05-2-quiz": {
@@ -32,15 +67,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4722007871344085"
    },
    "facebook": {
-    "likes": 5,
+    "likes": 6,
     "comments": 0,
-    "views": 380,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 947.1
+    "views": 850,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 2996.5
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 10,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -129,11 +164,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4598306347077412"
    },
    "facebook": {
-    "likes": 11,
+    "likes": 12,
     "comments": 1,
-    "views": 1925,
-    "avg_watch_s": 6.7,
-    "watch_time_s": 9029.0
+    "views": 1970,
+    "avg_watch_s": 6.6,
+    "watch_time_s": 9226.7
    }
   },
   "2026-11-04-6-truefalse": {
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 11,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
     "views": 17,
     "total_interactions": 0,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 42.5
+    "avg_watch_s": 4.9,
+    "watch_time_s": 58.6
    },
    "facebook": {
     "likes": 2,
@@ -350,9 +385,9 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 2080,
+    "views": 2081,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9890.0
+    "watch_time_s": 9895.0
    }
   },
   "2026-11-03-6-truefalse": {
@@ -675,7 +710,7 @@
     "comments": 0,
     "views": 1354,
     "avg_watch_s": 4.5,
-    "watch_time_s": 4868.4
+    "watch_time_s": 4869.0
    }
   },
   "2026-11-02-2-quiz": {
@@ -3215,7 +3250,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 987,
+    "views": 988,
     "avg_watch_s": 5.8,
     "watch_time_s": 4330.0
    }
