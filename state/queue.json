@@ -1,3 +1,1010 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-05-10-truefalse",
+   "date": "2026-11-05",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-05T21:39",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-05T08:25:32+00:00",
+   "source": "bank",
+   "bank_id": "q965",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 24:10",
+    "ref_label": "Gênesis 24:10",
+    "question": "Quantos camelos o servo de Abraão levou para buscar esposa para Isaque?",
+    "shown": "Vinte",
+    "is_true": false,
+    "correct": "Dez",
+    "evidence": "O servo tomou dez dos camelos do seu senhor",
+    "passage": "O servo tomou dez dos camelos do seu senhor e partiu, levando consigo uma variedade de coisas boas do seu senhor. Ele se levantou e foi para a Mesopotâmia, para a cidade de Naor.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos camelos o servo de Abraão levou para buscar esposa para Isaque?\nResposta: Vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #jesus #perguntasbiblicas #cristao #gospel #evangelico #conhecimentobiblico #deus #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos camelos o servo de Abraão levou para buscar esposa para Isaque?\nResposta: Vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #fe",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #evangelico #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantos camelos o servo de Abraão levou para buscar esposa para Isaque?\nResposta: Vinte\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos camelos o servo de Abraão levou para buscar esposa para Isaque?\nResposta: Vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-9-quiz",
+   "date": "2026-11-05",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-05T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-05T08:25:06+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 48:1",
+    "ref_label": "Salmos 48:1",
+    "question": "Qual é a expressão usada para descrever a cidade de Deus no versículo 1?",
+    "options": [
+     "cidade do nosso Deus",
+     "casa do Altíssimo",
+     "porto da salvação",
+     "tenda do profeta"
+    ],
+    "answer": 0,
+    "evidence": "cidade do nosso Deus",
+    "passage": "Um cântico. Um salmo dos filhos de Corá. Grande é o SENHOR, e muito digno de ser louvado, na cidade do nosso Deus, no seu santo monte.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQual é a expressão usada para descrever a cidade de Deus no versículo 1?\n\nA) cidade do nosso Deus\nB) casa do Altíssimo\nC) porto da salvação\nD) tenda do profeta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #fe #perguntasbiblicas #desafio #gospel #palavradedeus #biblia #cristao #jesus #evangelico",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQual é a expressão usada para descrever a cidade de Deus no versículo 1?\n\nA) cidade do nosso Deus\nB) casa do Altíssimo\nC) porto da salvação\nD) tenda do profeta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #biblia",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #fe",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQual é a expressão usada para descrever a cidade de Deus no versículo 1?\n\nA) cidade do nosso Deus\nB) casa do Altíssimo\nC) porto da salvação\nD) tenda do profeta\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível fácil): você acerta essa? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQual é a expressão usada para descrever a cidade de Deus no versículo 1?\n\nA) cidade do nosso Deus\nB) casa do Altíssimo\nC) porto da salvação\nD) tenda do profeta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: Groq tentativa 1 descartada: evidência não encontrada em Isaías 63:1: 'Isaías 63:1'",
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-8-fill",
+   "date": "2026-11-05",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-05T18:33",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-05T08:24:34+00:00",
+   "source": "bank",
+   "bank_id": "v416",
+   "model": null,
+   "content": {
+    "ref": "João 1:14",
+    "ref_label": "João 1:14",
+    "verse_text": "O Verbo se fez carne e viveu entre nós. Vimos a sua glória, glória como do Filho unigênito do Pai, cheio de graça e de verdade.",
+    "question": "O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.",
+    "options": [
+     "salvação",
+     "glória",
+     "esperança",
+     "fortaleza"
+    ],
+    "answer": 1,
+    "answer_word": "glória",
+    "tags": [
+     "jesus",
+     "graca",
+     "natal",
+     "presenca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrejesus #jesus #graca #natal #presenca #completeoversiculo #versiculo #evangelico #deus #palavradedeus #cristao #quizbiblico",
+    "facebook": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrejesus #jesus #graca #natal",
+    "tiktok": "Versículo sobre Jesus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrejesus #jesus #graca #natal #presenca",
+    "kwai": "Versículo sobre Jesus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrejesus #jesus #graca #natal #presenca",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre Jesus: João 1:14 📖 #shorts",
+     "description": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobrejesus #jesus #graca",
+     "tags": [
+      "versículo sobre Jesus",
+      "versículos sobre Jesus",
+      "jesus",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "palavra de deus",
+      "graca",
+      "natal",
+      "presenca",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-7-quiz",
+   "date": "2026-11-05",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-05T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-05T08:24:06+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "1 Tessalonicenses 4:17",
+    "ref_label": "1 Tessalonicenses 4:17",
+    "question": "Onde serão arrebatados os cristãos vivos?",
+    "options": [
+     "nas nuvens",
+     "sobre o monte",
+     "no deserto",
+     "na terra"
+    ],
+    "answer": 0,
+    "evidence": "nas nuvens",
+    "passage": "depois nós, os que estivermos vivos, os que ficarmos, seremos arrebatados juntamente com eles nas nuvens, para encontrar o Senhor nos ares. E assim estaremos com o Senhor para sempre.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nOnde serão arrebatados os cristãos vivos?\n\nA) nas nuvens\nB) sobre o monte\nC) no deserto\nD) na terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #teste #gospel #fe #desafio #biblia #evangelico #conhecimentobiblico #jesus #perguntasbiblicas",
+    "facebook": "Desafio bíblico do dia 🤔\n\nOnde serão arrebatados os cristãos vivos?\n\nA) nas nuvens\nB) sobre o monte\nC) no deserto\nD) na terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #desafio",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #gospel #biblia",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #teste #evangelico",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nOnde serão arrebatados os cristãos vivos?\n\nA) nas nuvens\nB) sobre o monte\nC) no deserto\nD) na terra\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Onde serão arrebatados os cristãos vivos? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nOnde serão arrebatados os cristãos vivos?\n\nA) nas nuvens\nB) sobre o monte\nC) no deserto\nD) na terra\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 tessalonicenses"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-6-truefalse",
+   "date": "2026-11-05",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-05T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-05T08:23:38+00:00",
+   "source": "bank",
+   "bank_id": "q133",
+   "model": null,
+   "content": {
+    "ref": "Rute 2:1",
+    "ref_label": "Rute 2:1",
+    "question": "Qual parente rico de Elimeleque se casou com Rute?",
+    "shown": "Salmom",
+    "is_true": false,
+    "correct": "Boaz",
+    "evidence": "o seu nome era Boaz",
+    "passage": "Noemi tinha um parente de seu marido, um homem muito rico, da família de Elimeleque, e o seu nome era Boaz.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual parente rico de Elimeleque se casou com Rute?\nResposta: Salmom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #gospel #jesus #desafiobiblico #perguntasbiblicas #fe #evangelico #cristao #conhecimentobiblico #palavradedeus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual parente rico de Elimeleque se casou com Rute?\nResposta: Salmom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #conhecimentobiblico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #cristao #desafiobiblico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #cristao",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual parente rico de Elimeleque se casou com Rute?\nResposta: Salmom\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual parente rico de Elimeleque se casou com Rute?\nResposta: Salmom\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "rute"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-5-curiosity",
+   "date": "2026-11-05",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-05T13:34",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-05T08:23:15+00:00",
+   "source": "bank",
+   "bank_id": "c176",
+   "model": null,
+   "content": {
+    "ref": "João 6:19",
+    "ref_label": "João 6:19",
+    "title": "Jesus andou uns 5 km sobre o mar",
+    "text": "Os discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar.",
+    "evidence": "vinte e cinco ou trinta estádios",
+    "passage": "Depois de remarem cerca de vinte e cinco ou trinta estádios, viram Jesus andando sobre o mar e se aproximando do barco; e ficaram com medo.",
+    "tags": [
+     "jesus",
+     "milagre"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas #palavradedeus #biblia #estudobiblico #fe #evangelico #historiabiblica #cristao #deus",
+    "facebook": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus andou 5 km sobre o mar enquanto os discípulos remavam. Salve e compartilhe! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Jesus andou 5 km sobre o mar enquanto os discípulos remavam. Salve e compartilhe! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus andou uns 5 km sobre o mar #shorts",
+     "description": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #milagre #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "milagre",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.48,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-4-quiz",
+   "date": "2026-11-05",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-05T12:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-05T08:22:46+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Eclesiastes 6:1",
+    "ref_label": "Eclesiastes 6:1",
+    "question": "Qual palavra descreve o que o autor chama de peso sobre os homens?",
+    "options": [
+     "Mal",
+     "Pecado",
+     "Fardo",
+     "Cansaço"
+    ],
+    "answer": 0,
+    "evidence": "Mal",
+    "passage": "Há um mal que vi debaixo do sol, e que pesa muito sobre os homens:",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual palavra descreve o que o autor chama de peso sobre os homens?\n\nA) Mal\nB) Pecado\nC) Fardo\nD) Cansaço\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #fe #gospel #conhecimentobiblico #teste #cristao #perguntasbiblicas #palavradedeus #jesus #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual palavra descreve o que o autor chama de peso sobre os homens?\n\nA) Mal\nB) Pecado\nC) Fardo\nD) Cansaço\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #fe",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #evangelico #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #palavradedeus #desafio",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual palavra descreve o que o autor chama de peso sobre os homens?\n\nA) Mal\nB) Pecado\nC) Fardo\nD) Cansaço\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra descreve o que o autor chama de peso sobre os homens? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual palavra descreve o que o autor chama de peso sobre os homens?\n\nA) Mal\nB) Pecado\nC) Fardo\nD) Cansaço\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "eclesiastes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-3-truefalse",
+   "date": "2026-11-05",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-05T10:08",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-05T08:22:18+00:00",
+   "source": "bank",
+   "bank_id": "q1219",
+   "model": null,
+   "content": {
+    "ref": "Atos 28:11",
+    "ref_label": "Atos 28:11",
+    "question": "Qual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?",
+    "shown": "Os Irmãos Gêmeos",
+    "is_true": true,
+    "correct": "Os Irmãos Gêmeos",
+    "evidence": "Os Irmãos Gêmeos",
+    "passage": "Após três meses, embarcamos em um navio de Alexandria que havia passado o inverno na ilha, cuja figura de proa era “Os Irmãos Gêmeos”.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?\nResposta: Os Irmãos Gêmeos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #cristao #desafiobiblico #deus #palavradedeus #fe #conhecimentobiblico #evangelico #jesus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?\nResposta: Os Irmãos Gêmeos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #gospel",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #palavradedeus #desafiobiblico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #fe #evangelico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?\nResposta: Os Irmãos Gêmeos\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?\nResposta: Os Irmãos Gêmeos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-2-quiz",
+   "date": "2026-11-05",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-05T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-05T08:21:50+00:00",
+   "source": "bank",
+   "bank_id": "q894",
+   "model": null,
+   "content": {
+    "ref": "1 Coríntios 1:12",
+    "ref_label": "1 Coríntios 1:12",
+    "question": "Além de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?",
+    "options": [
+     "Barnabé",
+     "Apolo",
+     "Silas",
+     "Timóteo"
+    ],
+    "answer": 1,
+    "evidence": "Eu sigo Apolo",
+    "passage": "Com isso quero dizer que cada um de vocês afirma: “Eu sigo Paulo”, “Eu sigo Apolo”, “Eu sigo Cefas” e “Eu sigo Cristo”.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nAlém de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?\n\nA) Barnabé\nB) Apolo\nC) Silas\nD) Timóteo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #gospel #biblia #cristao #evangelico #jesus #palavradedeus #teste #perguntasbiblicas #deus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nAlém de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?\n\nA) Barnabé\nB) Apolo\nC) Silas\nD) Timóteo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #cristao",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #perguntasbiblicas #fe",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #deus #biblia",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nAlém de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?\n\nA) Barnabé\nB) Apolo\nC) Silas\nD) Timóteo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Além de Paulo, Cefas e Cristo, quem os coríntios diziam seguir? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nAlém de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?\n\nA) Barnabé\nB) Apolo\nC) Silas\nD) Timóteo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 coríntios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-05-1-verse",
+   "date": "2026-11-05",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-05T06:36",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-05T08:21:22+00:00",
+   "source": "bank",
+   "bank_id": "v542",
+   "model": null,
+   "content": {
+    "ref": "João 10:14",
+    "ref_label": "João 10:14",
+    "verse_text": "Eu sou o bom pastor. Conheço as minhas ovelhas, e elas me conhecem…",
+    "on_screen": "Jesus é o bom pastor que conhece você.",
+    "reflection": "Jesus não é um pastor distante: Ele conhece cada ovelha pelo nome. Ele sabe o que você está vivendo hoje. Siga a voz do Pastor que cuida de você com amor.",
+    "theme": "cuidado de Deus",
+    "mood": "alegria",
+    "tags": [
+     "pastor",
+     "cuidado"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre o cuidado de Deus: João 10:14\nSe esse versículo chegou até você, não é por acaso 🙏\n\n“Eu sou o bom pastor. Conheço as minhas ovelhas, e elas me conhecem…” (João 10:14)\n\nJesus não é um pastor distante: Ele conhece cada ovelha pelo nome. Ele sabe o que você está vivendo hoje. Siga a voz do Pastor que cuida de você com amor.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #pastor #cuidado #versiculododia #versiculo #gospel #esperanca #evangelico #oracao #deus #biblia #devocional",
+    "facebook": "Versículo sobre o cuidado de Deus: João 10:14\nSe esse versículo chegou até você, não é por acaso 🙏\n\n“Eu sou o bom pastor. Conheço as minhas ovelhas, e elas me conhecem…” (João 10:14)\n\nJesus não é um pastor distante: Ele conhece cada ovelha pelo nome. Ele sabe o que você está vivendo hoje. Siga a voz do Pastor que cuida de você com amor.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #pastor #cuidado #versiculododia",
+    "tiktok": "Versículo sobre o cuidado de Deus\nSe esse versículo chegou até você, não é por acaso 🙏 João 10:14\nCompartilhe com alguém que precisa ler isso hoje.\n#versiculosobreocuidadodedeus #pastor #cuidado #versiculododia #versiculo",
+    "kwai": "Versículo sobre o cuidado de Deus\nSe esse versículo chegou até você, não é por acaso 🙏 João 10:14\nCompartilhe com alguém que precisa ler isso hoje.\n#versiculosobreocuidadodedeus #pastor #cuidado #versiculododia #versiculo",
+    "whatsapp": "*Se esse versículo chegou até você, não é por acaso* 🙏\n\n“Eu sou o bom pastor. Conheço as minhas ovelhas, e elas me conhecem…” (João 10:14)\n\nJesus não é um pastor distante: Ele conhece cada ovelha pelo nome. Ele sabe o que você está vivendo hoje. Siga a voz do Pastor que cuida de você com amor.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre o cuidado de Deus: João 10:14 🙏 #shorts",
+     "description": "Versículo sobre o cuidado de Deus: João 10:14\nSe esse versículo chegou até você, não é por acaso 🙏\n\n“Eu sou o bom pastor. Conheço as minhas ovelhas, e elas me conhecem…” (João 10:14)\n\nJesus não é um pastor distante: Ele conhece cada ovelha pelo nome. Ele sabe o que você está vivendo hoje. Siga a voz do Pastor que cuida de você com amor.\n\nCompartilhe com alguém que precisa ler isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreocuidadodedeus #pastor #cuidado",
+     "tags": [
+      "versículo sobre o cuidado de Deus",
+      "versículos sobre o cuidado de Deus",
+      "cuidado de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "pastor",
+      "cuidado",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Se esse versículo chegou até você, não é por acaso",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.11,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-05/2026-11-05-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: Groq tentativa 2 descartada: conteúdo repetido",
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  }
+ ]
 }
