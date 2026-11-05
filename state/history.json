@@ -1,6 +1,96 @@
 {
  "posts": [
   {
+   "id": "2026-11-05-5-curiosity",
+   "date": "2026-11-05",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-05T13:34",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-05T08:23:15+00:00",
+   "source": "bank",
+   "bank_id": "c176",
+   "model": null,
+   "content": {
+    "ref": "João 6:19",
+    "ref_label": "João 6:19",
+    "title": "Jesus andou uns 5 km sobre o mar",
+    "text": "Os discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar.",
+    "evidence": "vinte e cinco ou trinta estádios",
+    "passage": "Depois de remarem cerca de vinte e cinco ou trinta estádios, viram Jesus andando sobre o mar e se aproximando do barco; e ficaram com medo.",
+    "tags": [
+     "jesus",
+     "milagre"
+    ]
+   },
+   "captions": {
+    "instagram": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas #palavradedeus #biblia #estudobiblico #fe #evangelico #historiabiblica #cristao #deus",
+    "facebook": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#jesus #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Jesus andou 5 km sobre o mar enquanto os discípulos remavam. Salve e compartilhe! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Jesus andou 5 km sobre o mar enquanto os discípulos remavam. Salve e compartilhe! 🙏\n#jesus #milagre #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Jesus andou uns 5 km sobre o mar #shorts",
+     "description": "Jesus andou uns 5 km sobre o mar\n\nOs discípulos tinham remado cerca de 25 ou 30 estádios (uns 5 km) quando viram Jesus andando sobre o mar. (João 6:19)\n\nCuriosidade bíblica: enquanto os discípulos remavam cerca de 25 a 30 estádios (aproximadamente 5 km), Jesus andou sobre as águas exatamente a mesma distância. Imagine a fé necessária para confiar naquele que domina o impossível! Salve essa mensagem e compartilhe para inspirar outros corações. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #jesus #milagre #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "milagre",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-05T16:35:41+00:00",
+    "stories": "2026-11-05T16:36:15+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1302195048704493",
+    "stories": "story 17865506889695172"
+   }
+  },
+  {
    "id": "2026-11-05-4-quiz",
    "date": "2026-11-05",
    "slot": 4,
