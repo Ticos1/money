@@ -1,6 +1,108 @@
 {
  "posts": [
   {
+   "id": "2026-11-05-8-fill",
+   "date": "2026-11-05",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-05T18:33",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-05T08:24:34+00:00",
+   "source": "bank",
+   "bank_id": "v416",
+   "model": null,
+   "content": {
+    "ref": "João 1:14",
+    "ref_label": "João 1:14",
+    "verse_text": "O Verbo se fez carne e viveu entre nós. Vimos a sua glória, glória como do Filho unigênito do Pai, cheio de graça e de verdade.",
+    "question": "O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.",
+    "options": [
+     "salvação",
+     "glória",
+     "esperança",
+     "fortaleza"
+    ],
+    "answer": 1,
+    "answer_word": "glória",
+    "tags": [
+     "jesus",
+     "graca",
+     "natal",
+     "presenca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrejesus #jesus #graca #natal #presenca #completeoversiculo #versiculo #evangelico #deus #palavradedeus #cristao #quizbiblico",
+    "facebook": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobrejesus #jesus #graca #natal",
+    "tiktok": "Versículo sobre Jesus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrejesus #jesus #graca #natal #presenca",
+    "kwai": "Versículo sobre Jesus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobrejesus #jesus #graca #natal #presenca",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre Jesus: João 1:14 📖 #shorts",
+     "description": "Versículo sobre Jesus: João 1:14\nQual palavra falta nesse versículo? 📖\n\n“O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade.”\n\nA) salvação\nB) glória\nC) esperança\nD) fortaleza\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobrejesus #jesus #graca",
+     "tags": [
+      "versículo sobre Jesus",
+      "versículos sobre Jesus",
+      "jesus",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "palavra de deus",
+      "graca",
+      "natal",
+      "presenca",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-05T21:35:50+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-05T21:36:32+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/0GhhwL_v8b4",
+    "stories": "story 18351411727282505"
+   }
+  },
+  {
    "id": "2026-11-05-7-quiz",
    "date": "2026-11-05",
    "slot": 7,
