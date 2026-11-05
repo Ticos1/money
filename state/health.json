@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T15:14:52+00:00",
+ "updated_at": "2026-11-05T16:41:16+00:00",
  "date": "2026-11-05",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-05-5-curiosity",
+   "date": "2026-11-05",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-05T13:34",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-05T16:35:41+00:00",
+    "stories": "2026-11-05T16:36:15+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1302195048704493",
+    "stories": "story 17865506889695172"
+   },
+   "title": "Jesus andou uns 5 km sobre o mar"
+  },
   {
    "id": "2026-11-05-4-quiz",
    "date": "2026-11-05",
