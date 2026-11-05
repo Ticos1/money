@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-05T09:44:19+00:00",
+ "updated_at": "2026-11-05T11:14:11+00:00",
  "date": "2026-11-05",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-05-2-quiz",
+   "date": "2026-11-05",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-05T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-05T11:10:34+00:00",
+    "instagram": null,
+    "facebook": "2026-11-05T11:10:39+00:00",
+    "stories": "2026-11-05T11:11:12+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ECHJsyr3bSM",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4722007871344085",
+    "stories": "story 18047936408820448"
+   },
+   "title": "Além de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?"
+  },
   {
    "id": "2026-11-05-1-verse",
    "date": "2026-11-05",
