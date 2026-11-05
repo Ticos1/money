@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T23:09:10+00:00",
+ "updated_at": "2026-11-05T00:39:45+00:00",
  "date": "2026-11-04",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-04-10-truefalse",
+   "date": "2026-11-04",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-04T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-05T00:35:45+00:00",
+    "stories": "2026-11-05T00:36:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1859924018521689",
+    "stories": "story 17875206381602222"
+   },
+   "title": "Como se chamava um dos dois discípulos que caminhavam para Emaús?"
+  },
   {
    "id": "2026-11-04-9-quiz",
    "date": "2026-11-04",
