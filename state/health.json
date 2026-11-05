@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-05T21:39:54+00:00",
+ "updated_at": "2026-11-05T23:05:06+00:00",
  "date": "2026-11-05",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-05-9-quiz",
+   "date": "2026-11-05",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-05T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-05T23:00:37+00:00",
+    "instagram": "2026-11-05T23:01:13+00:00",
+    "facebook": "2026-11-05T23:01:19+00:00",
+    "stories": "2026-11-05T23:01:53+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/R47AkrjMWbA",
+    "instagram": "https://www.instagram.com/reel/DfYKaZQDgWC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118992397781552",
+    "stories": "story 18013530053783026"
+   },
+   "title": "Qual é a expressão usada para descrever a cidade de Deus no versículo 1?"
+  },
   {
    "id": "2026-11-05-8-fill",
    "date": "2026-11-05",
