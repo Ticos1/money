@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T23:05:03+00:00",
+ "updated_at": "2026-11-05T23:38:37+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -27,9 +27,9 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
+    "views": 1,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
@@ -64,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2137809840158559"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 439,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1320.9
+    "views": 516,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1791.7
    }
   },
   "2026-11-05-6-truefalse": {
@@ -88,7 +88,7 @@
     "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 3,
     "total_interactions": 0,
     "avg_watch_s": 11.2,
     "watch_time_s": 11.2
@@ -96,13 +96,13 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1311,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 5398.3
+    "views": 1326,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 5442.8
    },
    "youtube": {
-    "views": 91,
-    "likes": 3,
+    "views": 112,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -140,7 +140,7 @@
     "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 14,
     "total_interactions": 0,
     "avg_watch_s": 3.1,
     "watch_time_s": 31.5
@@ -148,9 +148,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1529,
+    "views": 1533,
     "avg_watch_s": 5.3,
-    "watch_time_s": 6149.6
+    "watch_time_s": 6151.6
    },
    "youtube": {
     "views": 22,
@@ -188,9 +188,9 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1470,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 6694.4
+    "views": 1483,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 6955.9
    },
    "youtube": {
     "views": 19,
@@ -502,9 +502,9 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/983645911487764"
    },
    "facebook": {
-    "likes": 14,
+    "likes": 15,
     "comments": 1,
-    "views": 2084,
+    "views": 2087,
     "avg_watch_s": 6.3,
     "watch_time_s": 9910.1
    }
