@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-05T21:39:41+00:00",
+ "updated_at": "2026-11-05T23:05:03+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "title": "Qual é a expressão usada para descrever a cidade de Deus no versículo 1?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/R47AkrjMWbA",
+    "instagram": "https://www.instagram.com/reel/DfYKaZQDgWC/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118992397781552"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-05-8-fill": {
    "type": "fill",
    "date": "2026-11-05",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
    },
    "youtube": {
-    "views": 0,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 295,
+    "views": 439,
     "avg_watch_s": 4.3,
-    "watch_time_s": 994.2
+    "watch_time_s": 1320.9
    }
   },
   "2026-11-05-6-truefalse": {
@@ -50,24 +85,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 11.2,
+    "watch_time_s": 11.2
    },
    "facebook": {
-    "likes": 2,
+    "likes": 4,
     "comments": 0,
-    "views": 786,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 2430.0
+    "views": 1311,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5398.3
    },
    "youtube": {
-    "views": 60,
-    "likes": 1,
+    "views": 91,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 216,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 833.1
+    "views": 217,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 833.8
    }
   },
   "2026-11-05-4-quiz": {
@@ -102,20 +137,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 13,
     "total_interactions": 0,
-    "avg_watch_s": 1.4,
-    "watch_time_s": 5.6
+    "avg_watch_s": 3.1,
+    "watch_time_s": 31.5
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1473,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 5824.2
+    "views": 1529,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 6149.6
    },
    "youtube": {
     "views": 22,
@@ -151,11 +186,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/4722007871344085"
    },
    "facebook": {
-    "likes": 10,
+    "likes": 11,
     "comments": 0,
-    "views": 1428,
-    "avg_watch_s": 6.1,
-    "watch_time_s": 6470.8
+    "views": 1470,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 6694.4
    },
    "youtube": {
     "views": 19,
@@ -208,7 +243,7 @@
     "views": 41,
     "total_interactions": 0,
     "avg_watch_s": 2.1,
-    "watch_time_s": 79.4
+    "watch_time_s": 81.8
    },
    "facebook": {
     "likes": 1,
@@ -471,7 +506,7 @@
     "comments": 1,
     "views": 2084,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9896.1
+    "watch_time_s": 9910.1
    }
   },
   "2026-11-03-6-truefalse": {
@@ -501,7 +536,7 @@
     "comments": 0,
     "views": 405,
     "avg_watch_s": 3.6,
-    "watch_time_s": 1193.7
+    "watch_time_s": 1194.8
    },
    "youtube": {
     "views": 137,
@@ -792,9 +827,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1354,
+    "views": 1355,
     "avg_watch_s": 4.5,
-    "watch_time_s": 4869.0
+    "watch_time_s": 4870.5
    }
   },
   "2026-11-02-2-quiz": {
