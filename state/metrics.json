@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-06T10:59:57+00:00",
+ "updated_at": "2026-11-06T12:53:40+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-06",
+   "time": "10:00",
+   "title": "O menino Samuel ministrava ao SENHOR perante quem?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1787497909202784"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-06-2-quiz": {
    "type": "quiz",
    "date": "2026-11-06",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1726521819405907"
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 2,
+    "comments": 2,
+    "views": 304,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1140.2
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 21,
+    "reach": 22,
     "saved": 0,
     "shares": 0,
-    "views": 26,
+    "views": 27,
     "total_interactions": 0,
-    "avg_watch_s": 3.4,
-    "watch_time_s": 68.2
+    "avg_watch_s": 3.3,
+    "watch_time_s": 68.9
    },
    "facebook": {
     "likes": 1,
@@ -82,7 +99,7 @@
     "watch_time_s": 0.8
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 2,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 765,
+    "views": 770,
     "avg_watch_s": 4.6,
-    "watch_time_s": 2756.3
+    "watch_time_s": 2784.7
    }
   },
   "2026-11-05-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1415,
+    "views": 1417,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5880.0
+    "watch_time_s": 5889.6
    },
    "youtube": {
     "views": 227,
@@ -185,20 +202,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 45,
+    "reach": 46,
     "saved": 0,
     "shares": 0,
-    "views": 60,
+    "views": 61,
     "total_interactions": 0,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 261.0
+    "avg_watch_s": 5.6,
+    "watch_time_s": 261.8
    },
    "facebook": {
     "likes": 6,
     "comments": 2,
-    "views": 1559,
+    "views": 1562,
     "avg_watch_s": 5.3,
-    "watch_time_s": 6280.2
+    "watch_time_s": 6288.3
    },
    "youtube": {
     "views": 80,
@@ -656,9 +673,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1661,
+    "views": 1663,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7111.7
+    "watch_time_s": 7124.3
    }
   },
   "2026-11-03-2-quiz": {
@@ -1437,7 +1454,7 @@
    "facebook": {
     "likes": 12,
     "comments": 2,
-    "views": 2092,
+    "views": 2093,
     "avg_watch_s": 7.2,
     "watch_time_s": 10746.8
    }
