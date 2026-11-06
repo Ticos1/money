@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T16:39:17+00:00",
+ "updated_at": "2026-11-06T16:46:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -16,7 +16,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
+    "views": 4,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    }
@@ -46,9 +46,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 433,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1003.5
+    "views": 496,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1120.7
    },
    "youtube": {
     "views": 0,
@@ -68,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 281,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 793.6
+    "views": 286,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 798.3
    }
   },
   "2026-11-06-2-quiz": {
