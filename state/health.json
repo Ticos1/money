@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-06T16:39:20+00:00",
+ "updated_at": "2026-11-06T18:15:42+00:00",
  "date": "2026-11-06",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-06-6-truefalse",
+   "date": "2026-11-06",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-06T15:06",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-06T18:10:34+00:00",
+    "instagram": "2026-11-06T18:11:09+00:00",
+    "facebook": "2026-11-06T18:11:13+00:00",
+    "stories": "2026-11-06T18:12:26+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/fPys-_LAJo4",
+    "instagram": "https://www.instagram.com/reel/DfaOBEyCOSw/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1847423856259917",
+    "stories": "story 17981035212069114"
+   },
+   "title": "Para quem deveriam ser deixadas as espigas caídas da colheita?"
+  },
   {
    "id": "2026-11-06-5-curiosity",
    "date": "2026-11-06",
