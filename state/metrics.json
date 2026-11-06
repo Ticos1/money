@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-05T23:38:37+00:00",
+ "updated_at": "2026-11-06T00:45:06+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-05-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-05",
+   "time": "21:30",
+   "title": "Quantos camelos o servo de Abraão levou para buscar esposa para Isaque?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1830795494724238"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-05-9-quiz": {
    "type": "quiz",
    "date": "2026-11-05",
@@ -30,8 +47,8 @@
     "likes": 1,
     "comments": 0,
     "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.8,
+    "watch_time_s": 0.8
    },
    "youtube": {
     "views": 0,
@@ -49,7 +66,7 @@
     "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
    },
    "youtube": {
-    "views": 9,
+    "views": 42,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 516,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1791.7
+    "views": 678,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 2388.1
    }
   },
   "2026-11-05-6-truefalse": {
@@ -85,24 +102,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 11.2,
-    "watch_time_s": 11.2
+    "avg_watch_s": 7.0,
+    "watch_time_s": 21.1
    },
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1326,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 5442.8
+    "views": 1388,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5728.5
    },
    "youtube": {
-    "views": 112,
-    "likes": 2,
+    "views": 145,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -137,24 +154,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 13,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 18,
     "total_interactions": 0,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 31.5
+    "avg_watch_s": 3.5,
+    "watch_time_s": 46.0
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1533,
+    "views": 1543,
     "avg_watch_s": 5.3,
-    "watch_time_s": 6151.6
+    "watch_time_s": 6200.8
    },
    "youtube": {
-    "views": 22,
-    "likes": 0,
+    "views": 24,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -188,12 +205,12 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1483,
-    "avg_watch_s": 6.4,
-    "watch_time_s": 6955.9
+    "views": 1525,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 7056.5
    },
    "youtube": {
-    "views": 19,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -268,7 +285,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 40,
+    "views": 42,
     "likes": 1,
     "comments": 0
    }
@@ -320,7 +337,7 @@
     "watch_time_s": 1091.1
    },
    "youtube": {
-    "views": 84,
+    "views": 89,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 30.7
    },
    "youtube": {
-    "views": 109,
+    "views": 113,
     "likes": 2,
     "comments": 0
    }
@@ -506,7 +523,7 @@
     "comments": 1,
     "views": 2087,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9910.1
+    "watch_time_s": 9923.0
    }
   },
   "2026-11-03-6-truefalse": {
@@ -758,7 +775,7 @@
     "watch_time_s": 937.3
    },
    "youtube": {
-    "views": 286,
+    "views": 285,
     "likes": 2,
     "comments": 0
    }
@@ -925,7 +942,7 @@
     "youtube": "https://youtube.com/shorts/lTgz0z5pMDg"
    },
    "youtube": {
-    "views": 54,
+    "views": 55,
     "likes": 1,
     "comments": 0
    }
@@ -1064,9 +1081,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1974,
+    "views": 1976,
     "avg_watch_s": 6.0,
-    "watch_time_s": 8974.4
+    "watch_time_s": 8985.4
    },
    "youtube": {
     "views": 115,
