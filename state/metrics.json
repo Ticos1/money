@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-06T18:15:40+00:00",
+ "updated_at": "2026-11-06T20:17:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "title": "Qual era o nome do rei de Basã que saiu contra Israel em Edrei?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1759332528461081"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-06-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-06",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 19.0,
+    "watch_time_s": 19.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 5,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 433,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1337.3
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 50,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 153.9
+    "views": 224,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 708.9
    }
   },
   "2026-11-06-4-quiz": {
@@ -70,23 +87,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 21,
     "total_interactions": 0,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 12.3
+    "avg_watch_s": 3.3,
+    "watch_time_s": 39.9
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1254,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 4561.6
+    "views": 1376,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5767.6
    },
    "youtube": {
-    "views": 4,
+    "views": 19,
     "likes": 1,
     "comments": 0
    }
@@ -101,11 +118,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1787497909202784"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 300,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 861.7
+    "views": 321,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 958.7
    }
   },
   "2026-11-06-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 2,
     "comments": 2,
-    "views": 372,
+    "views": 396,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1455.8
+    "watch_time_s": 1544.5
    },
    "youtube": {
-    "views": 26,
+    "views": 33,
     "likes": 2,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 0.8
    },
    "youtube": {
-    "views": 15,
+    "views": 22,
     "likes": 2,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
    },
    "youtube": {
-    "views": 67,
+    "views": 72,
     "likes": 1,
     "comments": 0
    }
@@ -246,14 +263,14 @@
     "watch_time_s": 69.4
    },
    "facebook": {
-    "likes": 4,
+    "likes": 5,
     "comments": 0,
-    "views": 1420,
+    "views": 1422,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5904.8
+    "watch_time_s": 5914.3
    },
    "youtube": {
-    "views": 233,
+    "views": 248,
     "likes": 3,
     "comments": 0
    }
@@ -300,12 +317,12 @@
    "facebook": {
     "likes": 6,
     "comments": 2,
-    "views": 1566,
+    "views": 1569,
     "avg_watch_s": 5.3,
-    "watch_time_s": 6288.3
+    "watch_time_s": 6325.0
    },
    "youtube": {
-    "views": 80,
+    "views": 91,
     "likes": 2,
     "comments": 0
    }
@@ -345,7 +362,7 @@
     "watch_time_s": 7247.0
    },
    "youtube": {
-    "views": 35,
+    "views": 37,
     "likes": 1,
     "comments": 0
    }
@@ -472,7 +489,7 @@
     "watch_time_s": 1092.2
    },
    "youtube": {
-    "views": 102,
+    "views": 103,
     "likes": 1,
     "comments": 0
    }
@@ -1146,9 +1163,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 266,
+    "views": 267,
     "avg_watch_s": 3.3,
-    "watch_time_s": 777.2
+    "watch_time_s": 792.4
    }
   },
   "2026-11-01-4-quiz": {
@@ -2061,9 +2078,9 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1755,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 7647.3
+    "views": 1758,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 7672.8
    },
    "youtube": {
     "views": 6,
@@ -2758,9 +2775,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1836,
+    "views": 1838,
     "avg_watch_s": 6.6,
-    "watch_time_s": 9002.3
+    "watch_time_s": 9019.1
    },
    "youtube": {
     "views": 88,
@@ -5864,7 +5881,7 @@
     "comments": 2,
     "views": 1097,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2547.0
+    "watch_time_s": 2548.0
    },
    "youtube": {
     "views": 171,
