@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-06T00:45:09+00:00",
- "date": "2026-11-05",
+ "updated_at": "2026-11-06T06:35:10+00:00",
+ "date": "2026-11-06",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 8,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 445,
-   "days_left": 445,
+   "fresh": 446,
+   "days_left": 446,
    "warn": false
   },
   {
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-05-10-truefalse",
-   "date": "2026-11-05",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-05T21:39",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-06T00:40:37+00:00",
-    "stories": "2026-11-06T00:41:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1830795494724238",
-    "stories": "story 17940757647385038"
-   },
-   "title": "Quantos camelos o servo de Abraão levou para buscar esposa para Isaque?"
-  },
-  {
-   "id": "2026-11-05-9-quiz",
-   "date": "2026-11-05",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-05T19:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-05T23:00:37+00:00",
-    "instagram": "2026-11-05T23:01:13+00:00",
-    "facebook": "2026-11-05T23:01:19+00:00",
-    "stories": "2026-11-05T23:01:53+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/R47AkrjMWbA",
-    "instagram": "https://www.instagram.com/reel/DfYKaZQDgWC/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1118992397781552",
-    "stories": "story 18013530053783026"
-   },
-   "title": "Qual é a expressão usada para descrever a cidade de Deus no versículo 1?"
-  },
-  {
-   "id": "2026-11-05-8-fill",
-   "date": "2026-11-05",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-05T18:33",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-05T21:35:50+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-05T21:36:32+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/0GhhwL_v8b4",
-    "stories": "story 18351411727282505"
-   },
-   "title": "O Verbo se fez carne e viveu entre nós. Vimos a sua _____, glória como do Filho unigênito do Pai, cheio de graça e de verdade."
-  },
-  {
-   "id": "2026-11-05-7-quiz",
-   "date": "2026-11-05",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-05T16:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-05T19:55:34+00:00",
-    "stories": "2026-11-05T19:57:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2137809840158559",
-    "stories": "story 18129942490874756"
-   },
-   "title": "Onde serão arrebatados os cristãos vivos?"
-  },
-  {
-   "id": "2026-11-05-6-truefalse",
-   "date": "2026-11-05",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-05T14:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-05T17:55:39+00:00",
-    "instagram": "2026-11-05T17:56:15+00:00",
-    "facebook": "2026-11-05T17:56:20+00:00",
-    "stories": "2026-11-05T17:56:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/zZhkNODxQ1M",
-    "instagram": "https://www.instagram.com/reel/DfXng33GdrG/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1129689786282484",
-    "stories": "story 18120473947973400"
-   },
-   "title": "Qual parente rico de Elimeleque se casou com Rute?"
-  },
-  {
-   "id": "2026-11-05-5-curiosity",
-   "date": "2026-11-05",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-05T13:34",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-05T16:35:41+00:00",
-    "stories": "2026-11-05T16:36:15+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1302195048704493",
-    "stories": "story 17865506889695172"
-   },
-   "title": "Jesus andou uns 5 km sobre o mar"
-  },
-  {
-   "id": "2026-11-05-4-quiz",
-   "date": "2026-11-05",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-05T12:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-05T15:10:36+00:00",
-    "instagram": "2026-11-05T15:11:18+00:00",
-    "facebook": "2026-11-05T15:11:22+00:00",
-    "stories": "2026-11-05T15:11:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/1Ke5ozyJGOU",
-    "instagram": "https://www.instagram.com/reel/DfXUn-eiKNb/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1786113745988630",
-    "stories": "story 18026956499873721"
-   },
-   "title": "Qual palavra descreve o que o autor chama de peso sobre os homens?"
-  },
-  {
-   "id": "2026-11-05-3-truefalse",
-   "date": "2026-11-05",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-05T10:08",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-05T13:10:36+00:00",
-    "stories": "2026-11-05T13:11:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2137289560197356",
-    "stories": "story 18119996555278487"
-   },
-   "title": "Qual era a figura de proa do navio de Alexandria que levou Paulo da ilha para a Itália?"
-  },
-  {
-   "id": "2026-11-05-2-quiz",
-   "date": "2026-11-05",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-05T08:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-05T11:10:34+00:00",
-    "instagram": null,
-    "facebook": "2026-11-05T11:10:39+00:00",
-    "stories": "2026-11-05T11:11:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/ECHJsyr3bSM",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4722007871344085",
-    "stories": "story 18047936408820448"
-   },
-   "title": "Além de Paulo, Cefas e Cristo, quem os coríntios diziam seguir?"
-  },
-  {
-   "id": "2026-11-05-1-verse",
-   "date": "2026-11-05",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-05T06:36",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-05T09:41:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18573591451078879"
-   },
-   "title": "João 10:14"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
