@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-06T09:29:28+00:00",
+ "updated_at": "2026-11-06T10:59:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-06",
+   "time": "08:00",
+   "title": "Pedro respondeu: 'Tu és o ..., o Filho do Deus vivo'.",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/XfRV6RVboho",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1726521819405907"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-06-1-verse": {
    "type": "verse",
    "date": "2026-11-06",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 25,
+    "views": 26,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 66.8
+    "avg_watch_s": 3.4,
+    "watch_time_s": 68.2
    },
    "facebook": {
     "likes": 1,
@@ -60,7 +83,7 @@
    },
    "youtube": {
     "views": 4,
-    "likes": 1,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 761,
+    "views": 765,
     "avg_watch_s": 4.6,
-    "watch_time_s": 2748.1
+    "watch_time_s": 2756.3
    }
   },
   "2026-11-05-6-truefalse": {
@@ -121,12 +144,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1413,
+    "views": 1415,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5873.5
+    "watch_time_s": 5880.0
    },
    "youtube": {
-    "views": 223,
+    "views": 227,
     "likes": 3,
     "comments": 0
    }
@@ -162,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 36,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 49,
+    "views": 60,
     "total_interactions": 0,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 222.3
+    "avg_watch_s": 5.7,
+    "watch_time_s": 261.0
    },
    "facebook": {
     "likes": 6,
@@ -178,8 +201,8 @@
     "watch_time_s": 6280.2
    },
    "youtube": {
-    "views": 79,
-    "likes": 1,
+    "views": 80,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -397,7 +420,7 @@
     "watch_time_s": 1002.3
    },
    "youtube": {
-    "views": 43,
+    "views": 44,
     "likes": 2,
     "comments": 0
    }
@@ -559,9 +582,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 405,
+    "views": 406,
     "avg_watch_s": 3.6,
-    "watch_time_s": 1194.8
+    "watch_time_s": 1195.9
    },
    "youtube": {
     "views": 137,
@@ -633,7 +656,7 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 1660,
+    "views": 1661,
     "avg_watch_s": 5.8,
     "watch_time_s": 7111.7
    }
