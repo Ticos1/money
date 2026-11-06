@@ -1,6 +1,103 @@
 {
  "posts": [
   {
+   "id": "2026-11-06-1-verse",
+   "date": "2026-11-06",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-06T06:25",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-06T08:21:15+00:00",
+   "source": "bank",
+   "bank_id": "v220",
+   "model": null,
+   "content": {
+    "ref": "Salmos 119:50",
+    "ref_label": "Salmos 119:50",
+    "verse_text": "Este é o meu consolo na minha aflição: que a tua palavra me vivificou.",
+    "on_screen": "A Palavra de Deus me vivificou na aflição.",
+    "reflection": "Na hora difícil, um versículo pode trazer vida nova. Guarde a Palavra no coração.",
+    "theme": "consolo",
+    "mood": "reflexao",
+    "tags": [
+     "consolo",
+     "palavra"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de consolo: Salmos 119:50\n“Este é o meu consolo na minha aflição: que a tua palavra me vivificou.” (Salmos 119:50)\n\nEm momentos de dificuldade, a palavra de Deus se torna o nosso refúgio e força. Ela traz consolo e nos dá vida nova, mesmo nos dias mais sombrios. Guarde essa verdade no coração e sinta o renovo que só a Sua promessa pode oferecer. Salve esta mensagem e compartilhe com quem precisa de ânimo hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeconsolo #consolo #palavra #versiculododia #versiculo #biblia #oracao #palavradedeus #esperanca #cristao #evangelico #fe",
+    "facebook": "Versículo de consolo: Salmos 119:50\n“Este é o meu consolo na minha aflição: que a tua palavra me vivificou.” (Salmos 119:50)\n\nEm momentos de dificuldade, a palavra de Deus se torna o nosso refúgio e força. Ela traz consolo e nos dá vida nova, mesmo nos dias mais sombrios. Guarde essa verdade no coração e sinta o renovo que só a Sua promessa pode oferecer. Salve esta mensagem e compartilhe com quem precisa de ânimo hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeconsolo #consolo #palavra #versiculododia",
+    "tiktok": "Versículo de consolo\nA Palavra traz vida nova nas horas difíceis. Salve e compartilhe!\n#versiculodeconsolo #consolo #palavra #versiculododia #versiculo",
+    "kwai": "Versículo de consolo\nA Palavra traz vida nova nas horas difíceis. Salve e compartilhe!\n#versiculodeconsolo #consolo #palavra #versiculododia #versiculo",
+    "whatsapp": "“Este é o meu consolo na minha aflição: que a tua palavra me vivificou.” (Salmos 119:50)\n\nEm momentos de dificuldade, a palavra de Deus se torna o nosso refúgio e força. Ela traz consolo e nos dá vida nova, mesmo nos dias mais sombrios. Guarde essa verdade no coração e sinta o renovo que só a Sua promessa pode oferecer. Salve esta mensagem e compartilhe com quem precisa de ânimo hoje.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de consolo: Salmos 119:50 🙏 #shorts",
+     "description": "Versículo de consolo: Salmos 119:50\n“Este é o meu consolo na minha aflição: que a tua palavra me vivificou.” (Salmos 119:50)\n\nEm momentos de dificuldade, a palavra de Deus se torna o nosso refúgio e força. Ela traz consolo e nos dá vida nova, mesmo nos dias mais sombrios. Guarde essa verdade no coração e sinta o renovo que só a Sua promessa pode oferecer. Salve esta mensagem e compartilhe com quem precisa de ânimo hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeconsolo #consolo #palavra",
+     "tags": [
+      "versículo de consolo",
+      "versículos de consolo",
+      "consolo",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "palavra",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-06T09:26:06+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: Groq tentativa 2 descartada: conteúdo repetido"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18195633889397609"
+   }
+  },
+  {
    "id": "2026-11-05-10-truefalse",
    "date": "2026-11-05",
    "slot": 10,
