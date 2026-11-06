@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-06T20:17:30+00:00",
+ "updated_at": "2026-11-06T21:44:02+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-8-fill": {
+   "type": "fill",
+   "date": "2026-11-06",
+   "time": "18:30",
+   "title": "Pois assim como os céus são altos acima da terra, assim é grande o seu _____ leal para com os que o temem.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/D4jPqEC-t38"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-06-7-quiz": {
    "type": "quiz",
    "date": "2026-11-06",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1759332528461081"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 400,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 950.1
    }
   },
   "2026-11-06-6-truefalse": {
@@ -35,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 19.0,
-    "watch_time_s": 19.0
+    "avg_watch_s": 7.4,
+    "watch_time_s": 59.5
    },
    "facebook": {
-    "likes": 5,
+    "likes": 8,
     "comments": 0,
-    "views": 433,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1337.3
+    "views": 1099,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 3785.8
    },
    "youtube": {
-    "views": 1,
+    "views": 15,
     "likes": 0,
     "comments": 0
    }
@@ -70,7 +85,7 @@
     "comments": 0,
     "views": 224,
     "avg_watch_s": 3.6,
-    "watch_time_s": 708.9
+    "watch_time_s": 710.4
    }
   },
   "2026-11-06-4-quiz": {
@@ -87,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 30,
     "saved": 0,
     "shares": 0,
-    "views": 21,
+    "views": 33,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 39.9
+    "avg_watch_s": 2.5,
+    "watch_time_s": 74.3
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1376,
+    "views": 1397,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5767.6
+    "watch_time_s": 5894.0
    },
    "youtube": {
-    "views": 19,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 321,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 958.7
+    "views": 334,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 1025.1
    }
   },
   "2026-11-06-2-quiz": {
@@ -138,12 +153,12 @@
    "facebook": {
     "likes": 2,
     "comments": 2,
-    "views": 396,
+    "views": 403,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1544.5
+    "watch_time_s": 1584.1
    },
    "youtube": {
-    "views": 33,
+    "views": 37,
     "likes": 2,
     "comments": 0
    }
@@ -198,12 +213,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 0.8,
     "watch_time_s": 0.8
    },
    "youtube": {
-    "views": 22,
+    "views": 26,
     "likes": 2,
     "comments": 0
    }
@@ -218,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
    },
    "youtube": {
-    "views": 72,
+    "views": 76,
     "likes": 1,
     "comments": 0
    }
@@ -270,7 +285,7 @@
     "watch_time_s": 5914.3
    },
    "youtube": {
-    "views": 248,
+    "views": 241,
     "likes": 3,
     "comments": 0
    }
@@ -357,12 +372,12 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1563,
+    "views": 1564,
     "avg_watch_s": 6.2,
-    "watch_time_s": 7247.0
+    "watch_time_s": 7249.0
    },
    "youtube": {
-    "views": 37,
+    "views": 38,
     "likes": 1,
     "comments": 0
    }
@@ -437,7 +452,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 53,
+    "views": 54,
     "likes": 1,
     "comments": 0
    }
@@ -454,7 +469,7 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 1997,
+    "views": 1998,
     "avg_watch_s": 6.7,
     "watch_time_s": 9402.8
    }
@@ -636,7 +651,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 5,
+    "views": 6,
     "avg_watch_s": 10.2,
     "watch_time_s": 30.7
    },
@@ -1094,7 +1109,7 @@
     "youtube": "https://youtube.com/shorts/lTgz0z5pMDg"
    },
    "youtube": {
-    "views": 55,
+    "views": 56,
     "likes": 1,
     "comments": 0
    }
@@ -4798,7 +4813,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 194,
+    "views": 196,
     "avg_watch_s": 2.9,
     "watch_time_s": 515.9
    },
