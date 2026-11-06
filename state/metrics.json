@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-06T15:04:41+00:00",
+ "updated_at": "2026-11-06T16:39:17+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-06",
+   "time": "13:30",
+   "title": "O Ancião de Dias",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/961422730020831"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-06-4-quiz": {
    "type": "quiz",
    "date": "2026-11-06",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 4,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 433,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1003.5
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 261,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 720.2
+    "views": 281,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 793.6
    }
   },
   "2026-11-06-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 2,
     "comments": 2,
-    "views": 346,
+    "views": 363,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1323.2
+    "watch_time_s": 1387.4
    },
    "youtube": {
-    "views": 7,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -134,7 +151,7 @@
     "watch_time_s": 0.8
    },
    "youtube": {
-    "views": 8,
+    "views": 11,
     "likes": 2,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/0GhhwL_v8b4"
    },
    "youtube": {
-    "views": 67,
+    "views": 68,
     "likes": 1,
     "comments": 0
    }
@@ -166,7 +183,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 774,
+    "views": 786,
     "avg_watch_s": 4.6,
     "watch_time_s": 2805.5
    }
@@ -185,23 +202,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 18,
+    "reach": 19,
     "saved": 0,
     "shares": 0,
-    "views": 23,
+    "views": 24,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 67.9
+    "avg_watch_s": 3.6,
+    "watch_time_s": 68.8
    },
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1418,
+    "views": 1420,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5889.6
+    "watch_time_s": 5904.8
    },
    "youtube": {
-    "views": 230,
+    "views": 233,
     "likes": 3,
     "comments": 0
    }
@@ -220,7 +237,7 @@
     "comments": 0,
     "views": 219,
     "avg_watch_s": 4.3,
-    "watch_time_s": 836.3
+    "watch_time_s": 837.4
    }
   },
   "2026-11-05-4-quiz": {
@@ -237,13 +254,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 48,
+    "reach": 49,
     "saved": 0,
     "shares": 0,
-    "views": 64,
+    "views": 66,
     "total_interactions": 0,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 276.8
+    "avg_watch_s": 5.9,
+    "watch_time_s": 293.7
    },
    "facebook": {
     "likes": 6,
@@ -253,7 +270,7 @@
     "watch_time_s": 6288.3
    },
    "youtube": {
-    "views": 80,
+    "views": 86,
     "likes": 2,
     "comments": 0
    }
@@ -288,9 +305,9 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1562,
+    "views": 1563,
     "avg_watch_s": 6.2,
-    "watch_time_s": 7239.2
+    "watch_time_s": 7247.0
    },
    "youtube": {
     "views": 35,
@@ -726,7 +743,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
+    "views": 262,
     "avg_watch_s": 3.6,
     "watch_time_s": 781.3
    },
