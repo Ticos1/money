@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-06T06:35:07+00:00",
+ "updated_at": "2026-11-06T09:29:28+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-06-1-verse": {
+   "type": "verse",
+   "date": "2026-11-06",
+   "time": "06:30",
+   "title": "Salmos 119:50",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-05-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-05",
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 758,
+    "views": 761,
     "avg_watch_s": 4.6,
-    "watch_time_s": 2733.5
+    "watch_time_s": 2748.1
    }
   },
   "2026-11-05-6-truefalse": {
@@ -113,12 +121,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1410,
+    "views": 1413,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5872.3
+    "watch_time_s": 5873.5
    },
    "youtube": {
-    "views": 221,
+    "views": 223,
     "likes": 3,
     "comments": 0
    }
@@ -154,23 +162,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 34,
+    "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 46,
+    "views": 49,
     "total_interactions": 0,
-    "avg_watch_s": 6.5,
-    "watch_time_s": 221.5
+    "avg_watch_s": 6.3,
+    "watch_time_s": 222.3
    },
    "facebook": {
     "likes": 6,
     "comments": 2,
-    "views": 1557,
+    "views": 1559,
     "avg_watch_s": 5.3,
-    "watch_time_s": 6277.8
+    "watch_time_s": 6280.2
    },
    "youtube": {
-    "views": 78,
+    "views": 79,
     "likes": 1,
     "comments": 0
    }
@@ -429,7 +437,7 @@
     "watch_time_s": 1010.1
    },
    "youtube": {
-    "views": 44,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
