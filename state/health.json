@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-07T19:59:56+00:00",
+ "updated_at": "2026-11-07T21:29:16+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-07-8-fill",
+   "date": "2026-11-07",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-07T18:23",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-07T21:25:37+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-07T21:26:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/TtHbVlCE1Go",
+    "stories": "story 18170574214486606"
+   },
+   "title": "Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei."
   },
   {
    "id": "2026-11-07-7-quiz",
