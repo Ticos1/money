@@ -260,6 +260,99 @@
    }
   },
   {
+   "id": "2026-11-07-5-curiosity",
+   "date": "2026-11-07",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-07T13:40",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-07T08:23:34+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "2 Crônicas 31:1",
+    "ref_label": "2 Crônicas 31:1",
+    "title": "Destruição dos altares idólatras",
+    "text": "Ezequias conduziu o povo a quebrar colunas sagradas e cortar postes de Aserá, mostrando a purificação do culto ao Senhor em Judá e Benjamim.",
+    "evidence": "colunas sagradas",
+    "passage": "Quando tudo isso terminou, todo o Israel que estava presente saiu para as cidades de Judá e quebrou as colunas sagradas em pedaços, cortou os postes de Aserá e derrubou os altos e os altares de todo o Judá e Benjamim, como também em Efraim e Manassés, até que tivessem destruído todos eles. Então todos os filhos de Israel retornaram, cada um para a sua propriedade, para as suas próprias cidades.",
+    "tags": [
+     "purificacao",
+     "idolatria"
+    ]
+   },
+   "captions": {
+    "instagram": "Destruição dos altares idólatras\n\nEzequias conduziu o povo a quebrar colunas sagradas e cortar postes de Aserá, mostrando a purificação do culto ao Senhor em Judá e Benjamim. (2 Crônicas 31:1)\n\nEzequias liderou o povo na quebra dos altares idólatras, derrubando colunas sagradas e cortando postes de Aserá. Esse ato marcou a restauração da verdadeira adoração ao Senhor em Judá e Benjamim, mostrando que a purificação do coração começa com a remoção dos ídolos que nos cercam. Salve e compartilhe para lembrar que Deus sempre nos chama à fidelidade! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#purificacao #idolatria #vocesabia #curiosidadesbiblicas #jesus #biblia #estudobiblico #gospel #evangelico #historiabiblica #palavradedeus #cristao",
+    "facebook": "Destruição dos altares idólatras\n\nEzequias conduziu o povo a quebrar colunas sagradas e cortar postes de Aserá, mostrando a purificação do culto ao Senhor em Judá e Benjamim. (2 Crônicas 31:1)\n\nEzequias liderou o povo na quebra dos altares idólatras, derrubando colunas sagradas e cortando postes de Aserá. Esse ato marcou a restauração da verdadeira adoração ao Senhor em Judá e Benjamim, mostrando que a purificação do coração começa com a remoção dos ídolos que nos cercam. Salve e compartilhe para lembrar que Deus sempre nos chama à fidelidade! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#purificacao #idolatria #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Ezequias destruiu altares idólatras e restaurou o culto ao Senhor. Compartilhe! 🙌\n#purificacao #idolatria #vocesabia #curiosidadesbiblicas #estudobiblico",
+    "kwai": "Ezequias destruiu altares idólatras e restaurou o culto ao Senhor. Compartilhe! 🙌\n#purificacao #idolatria #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Destruição dos altares idólatras\n\nEzequias conduziu o povo a quebrar colunas sagradas e cortar postes de Aserá, mostrando a purificação do culto ao Senhor em Judá e Benjamim. (2 Crônicas 31:1)\n\nEzequias liderou o povo na quebra dos altares idólatras, derrubando colunas sagradas e cortando postes de Aserá. Esse ato marcou a restauração da verdadeira adoração ao Senhor em Judá e Benjamim, mostrando que a purificação do coração começa com a remoção dos ídolos que nos cercam. Salve e compartilhe para lembrar que Deus sempre nos chama à fidelidade! 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Destruição dos altares idólatras #shorts",
+     "description": "Destruição dos altares idólatras\n\nEzequias conduziu o povo a quebrar colunas sagradas e cortar postes de Aserá, mostrando a purificação do culto ao Senhor em Judá e Benjamim. (2 Crônicas 31:1)\n\nEzequias liderou o povo na quebra dos altares idólatras, derrubando colunas sagradas e cortando postes de Aserá. Esse ato marcou a restauração da verdadeira adoração ao Senhor em Judá e Benjamim, mostrando que a purificação do coração começa com a remoção dos ídolos que nos cercam. Salve e compartilhe para lembrar que Deus sempre nos chama à fidelidade! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #purificacao #idolatria #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "purificacao",
+      "idolatria",
+      "2 crônicas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-07T16:40:41+00:00",
+    "stories": "2026-11-07T16:41:14+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1441435664832988",
+    "stories": "story 17939089983463426"
+   }
+  },
+  {
    "id": "2026-11-07-4-quiz",
    "date": "2026-11-07",
    "slot": 4,
