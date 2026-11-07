@@ -260,6 +260,104 @@
    }
   },
   {
+   "id": "2026-11-07-9-quiz",
+   "date": "2026-11-07",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-07T19:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-07T08:25:27+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "1 Pedro 3:18",
+    "ref_label": "1 Pedro 3:18",
+    "question": "Qual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?",
+    "options": [
+     "Cristo",
+     "Paulo",
+     "Pedro",
+     "Judas"
+    ],
+    "answer": 0,
+    "evidence": "Cristo",
+    "passage": "Porque Cristo também sofreu pelos pecados uma vez, o justo pelos injustos, para conduzir vocês a Deus, sendo morto na carne, mas vivificado no Espírito,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?\n\nA) Cristo\nB) Paulo\nC) Pedro\nD) Judas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio #teste #conhecimentobiblico #evangelico #gospel #jesus #fe #deus #palavradedeus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?\n\nA) Cristo\nB) Paulo\nC) Pedro\nD) Judas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #desafio",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #biblia #conhecimentobiblico",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #conhecimentobiblico #teste",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?\n\nA) Cristo\nB) Paulo\nC) Pedro\nD) Judas\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?\n\nA) Cristo\nB) Paulo\nC) Pedro\nD) Judas\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-11-07T22:56:22+00:00",
+    "facebook": "2026-11-07T22:56:27+00:00",
+    "stories": "2026-11-07T22:57:02+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DfdTbg7CsVL/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3648912818609413",
+    "stories": "story 17964584550253922"
+   }
+  },
+  {
    "id": "2026-11-07-8-fill",
    "date": "2026-11-07",
    "slot": 8,
