@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-07T09:39:57+00:00",
+ "updated_at": "2026-11-07T11:09:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-07-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-07",
+   "time": "08:00",
+   "title": "Qual nome é citado como sacerdote eterno no Salmo 110?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/rOW19HPi0Fw",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1457654863133461"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-07-1-verse": {
    "type": "verse",
    "date": "2026-11-07",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 39,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 51,
+    "views": 52,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 145.5
+    "avg_watch_s": 3.9,
+    "watch_time_s": 150.4
    },
    "facebook": {
     "likes": 0,
@@ -74,7 +97,7 @@
     "youtube": "https://youtube.com/shorts/D4jPqEC-t38"
    },
    "youtube": {
-    "views": 27,
+    "views": 28,
     "likes": 1,
     "comments": 0
    }
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1501,
+    "views": 1506,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5809.4
+    "watch_time_s": 5818.5
    }
   },
   "2026-11-06-6-truefalse": {
@@ -110,20 +133,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 42,
+    "reach": 47,
     "saved": 0,
     "shares": 0,
-    "views": 59,
+    "views": 68,
     "total_interactions": 0,
-    "avg_watch_s": 6.7,
-    "watch_time_s": 292.7
+    "avg_watch_s": 6.6,
+    "watch_time_s": 332.3
    },
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1405,
+    "views": 1408,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5665.3
+    "watch_time_s": 5680.6
    },
    "youtube": {
     "views": 73,
@@ -173,12 +196,12 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1491,
+    "views": 1493,
     "avg_watch_s": 5.6,
-    "watch_time_s": 6290.9
+    "watch_time_s": 6291.7
    },
    "youtube": {
-    "views": 66,
+    "views": 73,
     "likes": 1,
     "comments": 0
    }
@@ -340,9 +363,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1423,
+    "views": 1424,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5914.9
+    "watch_time_s": 5915.9
    },
    "youtube": {
     "views": 347,
@@ -1310,7 +1333,7 @@
     "comments": 0,
     "views": 1977,
     "avg_watch_s": 6.0,
-    "watch_time_s": 8985.4
+    "watch_time_s": 8986.2
    },
    "youtube": {
     "views": 115,
