@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-07-3-truefalse",
+   "date": "2026-11-07",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-07T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-07T08:22:34+00:00",
+   "source": "bank",
+   "bank_id": "q837",
+   "model": null,
+   "content": {
+    "ref": "Miqueias 6:8",
+    "ref_label": "Miqueias 6:8",
+    "question": "Segundo Miqueias 6:8, o que o SENHOR exige de você?",
+    "shown": "Praticar a justiça",
+    "is_true": true,
+    "correct": "Praticar a justiça",
+    "evidence": "praticar a justiça, amar a misericórdia",
+    "passage": "Ele mostrou a você, ó homem, o que é bom. O que o SENHOR exige de você, senão praticar a justiça, amar a misericórdia e andar humildemente com seu Deus?",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo Miqueias 6:8, o que o SENHOR exige de você?\nResposta: Praticar a justiça\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #deus #palavradedeus #gospel #fe #desafiobiblico #evangelico #jesus #perguntasbiblicas #conhecimentobiblico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo Miqueias 6:8, o que o SENHOR exige de você?\nResposta: Praticar a justiça\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #gospel",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #perguntasbiblicas #deus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #desafiobiblico #gospel",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nSegundo Miqueias 6:8, o que o SENHOR exige de você?\nResposta: Praticar a justiça\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo Miqueias 6:8, o que o SENHOR exige de você?\nResposta: Praticar a justiça\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "miqueias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-07T12:53:36+00:00",
+    "stories": "2026-11-07T12:54:09+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1885229622914748",
+    "stories": "story 18114438844896030"
+   }
+  },
+  {
    "id": "2026-11-07-2-quiz",
    "date": "2026-11-07",
    "slot": 2,
