@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T05:54:27+00:00",
+ "updated_at": "2026-11-07T09:03:46+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 9,
   "max": 20,
   "enabled": true
  },
@@ -16,36 +16,36 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 562,
-   "days_left": 562,
+   "fresh": 561,
+   "days_left": 561,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 445,
-   "days_left": 445,
+   "fresh": 444,
+   "days_left": 444,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 978,
-   "days_left": 139,
+   "fresh": 962,
+   "days_left": 137,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 1014,
-   "days_left": 144,
+   "fresh": 998,
+   "days_left": 142,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 231,
-   "days_left": 231,
+   "fresh": 230,
+   "days_left": 230,
    "warn": false
   }
  ],
