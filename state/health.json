@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-07T14:58:34+00:00",
+ "updated_at": "2026-11-07T15:16:00+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-07-4-quiz",
+   "date": "2026-11-07",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-07T12:07",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-07T15:10:32+00:00",
+    "instagram": "2026-11-07T15:11:04+00:00",
+    "facebook": "2026-11-07T15:11:09+00:00",
+    "stories": "2026-11-07T15:12:39+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/fYpQpVn_qgc",
+    "instagram": "https://www.instagram.com/reel/DfceNK-FXSG/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3193447710843971",
+    "stories": "story 18148470118575294"
+   },
+   "title": "Qual animal descreve os justos em Provérbios 28:1?"
   },
   {
    "id": "2026-11-07-3-truefalse",
