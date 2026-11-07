@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-07T09:03:43+00:00",
+ "updated_at": "2026-11-07T09:39:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-07-1-verse": {
+   "type": "verse",
+   "date": "2026-11-07",
+   "time": "06:30",
+   "title": "Filipenses 4:6-7",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-06-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-06",
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1498,
+    "views": 1501,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5797.2
+    "watch_time_s": 5809.4
    }
   },
   "2026-11-06-6-truefalse": {
@@ -157,7 +165,7 @@
     "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 39,
     "total_interactions": 0,
     "avg_watch_s": 2.5,
     "watch_time_s": 88.6
@@ -165,7 +173,7 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1490,
+    "views": 1491,
     "avg_watch_s": 5.6,
     "watch_time_s": 6290.9
    },
@@ -205,9 +213,9 @@
    "facebook": {
     "likes": 2,
     "comments": 2,
-    "views": 405,
+    "views": 406,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1586.2
+    "watch_time_s": 1592.1
    },
    "youtube": {
     "views": 62,
@@ -257,7 +265,7 @@
     "reach": 23,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 28,
     "total_interactions": 0,
     "avg_watch_s": 3.3,
     "watch_time_s": 72.8
@@ -1300,7 +1308,7 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1976,
+    "views": 1977,
     "avg_watch_s": 6.0,
     "watch_time_s": 8985.4
    },
@@ -1428,7 +1436,7 @@
     "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 9,
     "total_interactions": 0,
     "avg_watch_s": 2.4,
     "watch_time_s": 21.6
@@ -1807,6 +1815,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
+    "views": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
@@ -2303,7 +2312,7 @@
     "reach": 41,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 62,
     "total_interactions": 0,
     "avg_watch_s": 5.2,
     "watch_time_s": 218.0
@@ -3196,7 +3205,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 497,
+    "views": 629,
     "avg_watch_s": 4.4,
     "watch_time_s": 2196.1
    },
@@ -3875,6 +3884,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
+    "views": 266,
     "avg_watch_s": 5.1,
     "watch_time_s": 1208.8
    }
@@ -5403,7 +5413,7 @@
     "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 9,
     "total_interactions": 0,
     "avg_watch_s": 0.7,
     "watch_time_s": 6.6
