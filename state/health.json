@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T19:26:49+00:00",
+ "updated_at": "2026-11-07T19:59:56+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-07-7-quiz",
+   "date": "2026-11-07",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-07T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-07T19:55:37+00:00",
+    "stories": "2026-11-07T19:56:09+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1523277983167658",
+    "stories": "story 18085896599538812"
+   },
+   "title": "Quem prendeu Jeremias na porta de Benjamim, acusando-o de desertar?"
   },
   {
    "id": "2026-11-07-6-truefalse",
