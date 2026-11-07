@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-07T11:09:54+00:00",
+ "updated_at": "2026-11-07T12:57:09+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-07-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-07",
+   "time": "10:00",
+   "title": "Segundo Miqueias 6:8, o que o SENHOR exige de você?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1885229622914748"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-07-2-quiz": {
    "type": "quiz",
    "date": "2026-11-07",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1457654863133461"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 255,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 720.0
    },
    "youtube": {
     "views": 0,
@@ -69,7 +86,7 @@
     "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 52,
+    "views": 53,
     "total_interactions": 0,
     "avg_watch_s": 3.9,
     "watch_time_s": 150.4
@@ -82,7 +99,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 1,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1506,
+    "views": 1507,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5818.5
+    "watch_time_s": 5827.7
    }
   },
   "2026-11-06-6-truefalse": {
@@ -133,23 +150,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 47,
+    "reach": 64,
     "saved": 0,
     "shares": 0,
-    "views": 68,
+    "views": 94,
     "total_interactions": 0,
-    "avg_watch_s": 6.6,
-    "watch_time_s": 332.3
+    "avg_watch_s": 6.2,
+    "watch_time_s": 415.8
    },
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1408,
+    "views": 1413,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5680.6
+    "watch_time_s": 5694.1
    },
    "youtube": {
-    "views": 73,
+    "views": 86,
     "likes": 0,
     "comments": 0
    }
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1493,
+    "views": 1494,
     "avg_watch_s": 5.6,
-    "watch_time_s": 6291.7
+    "watch_time_s": 6309.4
    },
    "youtube": {
     "views": 73,
@@ -218,7 +235,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 356,
+    "views": 357,
     "avg_watch_s": 4.0,
     "watch_time_s": 1110.8
    }
@@ -368,8 +385,8 @@
     "watch_time_s": 5915.9
    },
    "youtube": {
-    "views": 347,
-    "likes": 5,
+    "views": 351,
+    "likes": 6,
     "comments": 0
    }
   },
@@ -420,7 +437,7 @@
     "watch_time_s": 6363.6
    },
    "youtube": {
-    "views": 121,
+    "views": 125,
     "likes": 2,
     "comments": 0
    }
@@ -2873,9 +2890,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1840,
+    "views": 1841,
     "avg_watch_s": 6.6,
-    "watch_time_s": 9033.3
+    "watch_time_s": 9034.5
    },
    "youtube": {
     "views": 88,
