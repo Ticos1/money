@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T19:26:44+00:00",
+ "updated_at": "2026-11-07T19:59:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-11-07-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "title": "Quem prendeu Jeremias na porta de Benjamim, acusando-o de desertar?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1523277983167658"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-07-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-07",
@@ -33,20 +50,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 6,
     "total_interactions": 0,
-    "avg_watch_s": 0.5,
-    "watch_time_s": 0.5
+    "avg_watch_s": 4.7,
+    "watch_time_s": 23.6
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 440,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 971.8
+    "views": 601,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1886.0
    },
    "youtube": {
     "views": 0,
@@ -66,7 +83,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 239,
+    "views": 240,
     "avg_watch_s": 3.3,
     "watch_time_s": 705.2
    }
@@ -96,12 +113,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 148,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 71.4
+    "views": 308,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 844.9
    },
    "youtube": {
-    "views": 26,
+    "views": 33,
     "likes": 1,
     "comments": 0
    }
@@ -136,12 +153,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 365,
+    "views": 368,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1258.2
+    "watch_time_s": 1267.8
    },
    "youtube": {
-    "views": 60,
+    "views": 61,
     "likes": 1,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 24,
+    "views": 30,
     "likes": 1,
     "comments": 0
    }
@@ -216,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/D4jPqEC-t38"
    },
    "youtube": {
-    "views": 29,
+    "views": 34,
     "likes": 1,
     "comments": 0
    }
@@ -233,9 +250,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1525,
+    "views": 1528,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5886.6
+    "watch_time_s": 5896.4
    }
   },
   "2026-11-06-6-truefalse": {
@@ -268,7 +285,7 @@
     "watch_time_s": 5738.0
    },
    "youtube": {
-    "views": 101,
+    "views": 111,
     "likes": 0,
     "comments": 0
    }
@@ -320,7 +337,7 @@
     "watch_time_s": 6359.5
    },
    "youtube": {
-    "views": 79,
+    "views": 100,
     "likes": 1,
     "comments": 0
    }
@@ -357,10 +374,10 @@
     "comments": 2,
     "views": 410,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1613.7
+    "watch_time_s": 1615.1
    },
    "youtube": {
-    "views": 62,
+    "views": 63,
     "likes": 2,
     "comments": 0
    }
@@ -420,7 +437,7 @@
     "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 60,
+    "views": 62,
     "likes": 2,
     "comments": 0
    }
@@ -487,7 +504,7 @@
     "watch_time_s": 5915.9
    },
    "youtube": {
-    "views": 367,
+    "views": 390,
     "likes": 7,
     "comments": 0
    }
@@ -539,7 +556,7 @@
     "watch_time_s": 6368.2
    },
    "youtube": {
-    "views": 128,
+    "views": 129,
     "likes": 2,
     "comments": 0
    }
@@ -1455,7 +1472,7 @@
     "watch_time_s": 8986.2
    },
    "youtube": {
-    "views": 115,
+    "views": 116,
     "likes": 0,
     "comments": 0
    }
@@ -3399,7 +3416,7 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1458,
+    "views": 1459,
     "avg_watch_s": 5.5,
     "watch_time_s": 5917.2
    },
