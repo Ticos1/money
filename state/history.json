@@ -260,6 +260,106 @@
    }
   },
   {
+   "id": "2026-11-07-8-fill",
+   "date": "2026-11-07",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-07T18:23",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-07T08:24:59+00:00",
+   "source": "bank",
+   "bank_id": "v525",
+   "model": null,
+   "content": {
+    "ref": "Josué 1:5",
+    "ref_label": "Josué 1:5",
+    "verse_text": "Ninguém conseguirá resistir diante de você todos os dias da sua vida. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.",
+    "question": "Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.",
+    "options": [
+     "fé",
+     "vida",
+     "fortaleza",
+     "alma"
+    ],
+    "answer": 1,
+    "answer_word": "vida",
+    "tags": [
+     "presencadedeus",
+     "fidelidade"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a presença de Deus: Josué 1:5\nVocê sabe esse versículo de cor? 📖\n\n“Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.”\n\nA) fé\nB) vida\nC) fortaleza\nD) alma\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #presencadedeus #fidelidade #completeoversiculo #versiculo #palavradedeus #fe #jesus #quizbiblico #biblia #evangelico #deus",
+    "facebook": "Versículo sobre a presença de Deus: Josué 1:5\nVocê sabe esse versículo de cor? 📖\n\n“Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.”\n\nA) fé\nB) vida\nC) fortaleza\nD) alma\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #presencadedeus #fidelidade #completeoversiculo",
+    "tiktok": "Versículo sobre a presença de Deus\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapresencadedeus #presencadedeus #fidelidade #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre a presença de Deus\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapresencadedeus #presencadedeus #fidelidade #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.”\n\nA) fé\nB) vida\nC) fortaleza\nD) alma\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre a presença de Deus: Josué 1:5 📖 #shorts",
+     "description": "Versículo sobre a presença de Deus: Josué 1:5\nVocê sabe esse versículo de cor? 📖\n\n“Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei.”\n\nA) fé\nB) vida\nC) fortaleza\nD) alma\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapresencadedeus #presencadedeus #fidelidade",
+     "tags": [
+      "versículo sobre a presença de Deus",
+      "versículos sobre a presença de Deus",
+      "presença de deus",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "presencadedeus",
+      "fidelidade",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-07T21:25:37+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-07T21:26:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/TtHbVlCE1Go",
+    "stories": "story 18170574214486606"
+   }
+  },
+  {
    "id": "2026-11-07-7-quiz",
    "date": "2026-11-07",
    "slot": 7,
