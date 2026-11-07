@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-07T16:44:42+00:00",
+ "updated_at": "2026-11-07T17:55:01+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-07-6-truefalse",
+   "date": "2026-11-07",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-07T14:50",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-07T17:50:34+00:00",
+    "instagram": "2026-11-07T17:51:07+00:00",
+    "facebook": "2026-11-07T17:51:11+00:00",
+    "stories": "2026-11-07T17:52:00+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Jlp94N8_Vgc",
+    "instagram": "https://www.instagram.com/reel/DfcwhaJjcwD/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1616875966316661",
+    "stories": "story 17976021582175015"
+   },
+   "title": "Quem eram considerados colunas da igreja, segundo Gálatas 2?"
   },
   {
    "id": "2026-11-07-5-curiosity",
