@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:29:14+00:00",
+ "updated_at": "2026-11-07T23:00:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,35 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-11-07-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "title": "Qual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DfdTbg7CsVL/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3648912818609413"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-11-07-8-fill": {
@@ -65,24 +94,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 14,
+    "reach": 32,
     "saved": 0,
     "shares": 0,
-    "views": 23,
+    "views": 48,
     "total_interactions": 0,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 76.2
+    "avg_watch_s": 4.5,
+    "watch_time_s": 147.3
    },
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1348,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 5244.2
+    "views": 1503,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 6379.2
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 57,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -98,9 +127,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 242,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 711.2
+    "views": 248,
+    "avg_watch_s": 3.4,
+    "watch_time_s": 723.8
    }
   },
   "2026-11-07-4-quiz": {
@@ -128,13 +157,13 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 341,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1120.6
+    "views": 381,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1307.0
    },
    "youtube": {
-    "views": 35,
-    "likes": 1,
+    "views": 44,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -150,9 +179,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 326,
+    "views": 327,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1097.9
+    "watch_time_s": 1101.4
    }
   },
   "2026-11-07-2-quiz": {
@@ -168,7 +197,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 372,
+    "views": 373,
     "avg_watch_s": 4.5,
     "watch_time_s": 1301.2
    },
@@ -217,13 +246,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 43,
+    "reach": 44,
     "saved": 0,
     "shares": 0,
-    "views": 55,
+    "views": 56,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 152.3
+    "watch_time_s": 154.1
    },
    "facebook": {
     "likes": 0,
@@ -233,7 +262,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 37,
+    "views": 44,
     "likes": 1,
     "comments": 0
    }
@@ -265,9 +294,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1532,
+    "views": 1536,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5911.4
+    "watch_time_s": 5922.8
    }
   },
   "2026-11-06-6-truefalse": {
@@ -349,7 +378,7 @@
     "comments": 1,
     "views": 1507,
     "avg_watch_s": 5.6,
-    "watch_time_s": 6361.1
+    "watch_time_s": 6366.8
    },
    "youtube": {
     "views": 106,
@@ -571,7 +600,7 @@
     "watch_time_s": 6368.2
    },
    "youtube": {
-    "views": 128,
+    "views": 129,
     "likes": 2,
     "comments": 0
    }
@@ -2683,9 +2712,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1362,
+    "views": 1364,
     "avg_watch_s": 5.8,
-    "watch_time_s": 5866.5
+    "watch_time_s": 5875.0
    }
   },
   "2026-10-26-6-truefalse": {
@@ -3598,9 +3627,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1436,
+    "views": 1438,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6196.5
+    "watch_time_s": 6213.1
    },
    "youtube": {
     "views": 137,
