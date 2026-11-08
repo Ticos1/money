@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-08T17:57:44+00:00",
+ "updated_at": "2026-11-08T18:15:27+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-08-6-truefalse",
+   "date": "2026-11-08",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-08T15:09",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-08T18:10:34+00:00",
+    "instagram": "2026-11-08T18:11:18+00:00",
+    "facebook": "2026-11-08T18:11:24+00:00",
+    "stories": "2026-11-08T18:12:07+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6DPa9lk2QEo",
+    "instagram": "https://www.instagram.com/reel/DffXm1hCv4q/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4218964168396358",
+    "stories": "story 17978924856168384"
+   },
+   "title": "Segundo Joel, o que farão os velhos quando Deus derramar o seu Espírito?"
+  },
   {
    "id": "2026-11-08-5-curiosity",
    "date": "2026-11-08",
