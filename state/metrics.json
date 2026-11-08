@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-08T22:01:36+00:00",
+ "updated_at": "2026-11-08T22:54:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-08-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "title": "Segundo Tiago, cada um deve ser pronto para quê?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/TFjXzY7hV6Q",
+    "instagram": "https://www.instagram.com/reel/Dff3qNclYAJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1439506787666381"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-08-8-fill": {
    "type": "fill",
    "date": "2026-11-08",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 284,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 941.6
+    "views": 294,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1003.6
    }
   },
   "2026-11-08-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 40,
+    "reach": 100,
     "saved": 0,
     "shares": 0,
-    "views": 85,
+    "views": 139,
     "total_interactions": 0,
-    "avg_watch_s": 7.2,
-    "watch_time_s": 288.0
+    "avg_watch_s": 5.1,
+    "watch_time_s": 514.3
    },
    "facebook": {
-    "likes": 1,
+    "likes": 3,
     "comments": 0,
-    "views": 375,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1273.1
+    "views": 604,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1640.2
    },
    "youtube": {
-    "views": 4,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -105,7 +140,7 @@
     "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 15,
+    "views": 17,
     "total_interactions": 0,
     "avg_watch_s": 2.0,
     "watch_time_s": 21.6
@@ -118,7 +153,7 @@
     "watch_time_s": 4.2
    },
    "youtube": {
-    "views": 62,
+    "views": 76,
     "likes": 1,
     "comments": 0
    }
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1308,
+    "views": 1315,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5140.8
+    "watch_time_s": 5162.0
    }
   },
   "2026-11-08-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 1468,
+    "views": 1474,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5628.5
+    "watch_time_s": 5644.1
    },
    "youtube": {
     "views": 44,
@@ -294,7 +329,7 @@
     "watch_time_s": 6902.5
    },
    "youtube": {
-    "views": 384,
+    "views": 381,
     "likes": 4,
     "comments": 0
    }
@@ -363,9 +398,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 339,
+    "views": 340,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1133.0
+    "watch_time_s": 1133.5
    }
   },
   "2026-11-07-2-quiz": {
