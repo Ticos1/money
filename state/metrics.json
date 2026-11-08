@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T23:00:30+00:00",
+ "updated_at": "2026-11-08T00:29:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-11-07-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-07",
+   "time": "21:30",
+   "title": "Quantos anos Abraão tinha quando Isaque nasceu?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448635943327301"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-07-9-quiz": {
    "type": "quiz",
    "date": "2026-11-07",
@@ -32,20 +49,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.2,
+    "watch_time_s": 3.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 1.0,
+    "watch_time_s": 1.0
    }
   },
   "2026-11-07-8-fill": {
@@ -58,7 +75,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 0,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -94,24 +111,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 51,
     "saved": 0,
     "shares": 0,
-    "views": 48,
+    "views": 64,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 147.3
+    "avg_watch_s": 3.8,
+    "watch_time_s": 195.1
    },
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1503,
+    "views": 1543,
     "avg_watch_s": 5.8,
-    "watch_time_s": 6379.2
+    "watch_time_s": 6466.0
    },
    "youtube": {
-    "views": 57,
-    "likes": 1,
+    "views": 128,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -155,11 +172,11 @@
     "watch_time_s": 8.2
    },
    "facebook": {
-    "likes": 2,
+    "likes": 4,
     "comments": 0,
-    "views": 381,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1307.0
+    "views": 483,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1560.9
    },
    "youtube": {
     "views": 44,
@@ -179,9 +196,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 327,
+    "views": 333,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1101.4
+    "watch_time_s": 1112.2
    }
   },
   "2026-11-07-2-quiz": {
@@ -197,9 +214,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 373,
+    "views": 376,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1301.2
+    "watch_time_s": 1302.7
    },
    "youtube": {
     "views": 61,
@@ -262,8 +279,8 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 44,
-    "likes": 1,
+    "views": 50,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -294,9 +311,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1536,
+    "views": 1540,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5922.8
+    "watch_time_s": 5936.4
    }
   },
   "2026-11-06-6-truefalse": {
@@ -324,7 +341,7 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1423,
+    "views": 1424,
     "avg_watch_s": 5.0,
     "watch_time_s": 5738.0
    },
@@ -2055,7 +2072,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1547,
+    "views": 1548,
     "avg_watch_s": 5.9,
     "watch_time_s": 6785.8
    }
@@ -5911,7 +5928,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 802,
+    "views": 803,
     "avg_watch_s": 2.6,
     "watch_time_s": 1918.3
    },
