@@ -260,6 +260,93 @@
    }
   },
   {
+   "id": "2026-11-07-10-truefalse",
+   "date": "2026-11-07",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-07T21:24",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-07T08:25:51+00:00",
+   "source": "bank",
+   "bank_id": "q070",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 21:5",
+    "ref_label": "Gênesis 21:5",
+    "question": "Quantos anos Abraão tinha quando Isaque nasceu?",
+    "shown": "Cento e vinte",
+    "is_true": false,
+    "correct": "Cem",
+    "evidence": "cem anos de idade",
+    "passage": "Abraão tinha cem anos de idade quando seu filho, Isaque, lhe nasceu.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Abraão tinha quando Isaque nasceu?\nResposta: Cento e vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #jesus #fe #biblia #conhecimentobiblico #gospel #cristao #palavradedeus #desafiobiblico #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Abraão tinha quando Isaque nasceu?\nResposta: Cento e vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #jesus #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #conhecimentobiblico #fe",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantos anos Abraão tinha quando Isaque nasceu?\nResposta: Cento e vinte\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quantos anos Abraão tinha quando Isaque nasceu? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Abraão tinha quando Isaque nasceu?\nResposta: Cento e vinte\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-08T00:25:34+00:00",
+    "stories": "2026-11-08T00:26:06+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448635943327301",
+    "stories": "story 18184400101425599"
+   }
+  },
+  {
    "id": "2026-11-07-9-quiz",
    "date": "2026-11-07",
    "slot": 9,
