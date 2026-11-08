@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T18:15:27+00:00",
+ "updated_at": "2026-11-08T19:53:49+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-08-7-quiz",
+   "date": "2026-11-08",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-08T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-08T19:50:36+00:00",
+    "stories": "2026-11-08T19:51:09+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1651263283397759",
+    "stories": "story 17928220617430540"
+   },
+   "title": "Quem era o capitão da guarda que levou o restante do povo cativo para a Babilônia?"
+  },
   {
    "id": "2026-11-08-6-truefalse",
    "date": "2026-11-08",
