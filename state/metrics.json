@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-08T19:53:46+00:00",
+ "updated_at": "2026-11-08T21:45:15+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-08-8-fill": {
+   "type": "fill",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "title": "A nossa _____ tem esperado no SENHOR. Ele é o nosso auxílio e o nosso escudo.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/LRLw3UZftJg"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-08-7-quiz": {
    "type": "quiz",
    "date": "2026-11-08",
@@ -16,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 278,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 937.6
    }
   },
   "2026-11-08-6-truefalse": {
@@ -35,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 28,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 65,
     "total_interactions": 0,
-    "avg_watch_s": 9.3,
-    "watch_time_s": 46.5
+    "avg_watch_s": 7.2,
+    "watch_time_s": 208.2
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 287,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1006.1
+    "views": 353,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1243.4
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -103,8 +118,8 @@
     "watch_time_s": 4.2
    },
    "youtube": {
-    "views": 61,
-    "likes": 0,
+    "views": 76,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1306,
+    "views": 1308,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5128.8
+    "watch_time_s": 5140.8
    }
   },
   "2026-11-08-2-quiz": {
@@ -138,9 +153,9 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 1453,
+    "views": 1465,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5562.5
+    "watch_time_s": 5620.1
    },
    "youtube": {
     "views": 44,
@@ -227,7 +242,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 107,
+    "views": 109,
     "likes": 3,
     "comments": 0
    }
@@ -274,12 +289,12 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1633,
+    "views": 1636,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6881.6
+    "watch_time_s": 6902.5
    },
    "youtube": {
-    "views": 366,
+    "views": 381,
     "likes": 4,
     "comments": 0
    }
@@ -326,12 +341,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1072,
+    "views": 1073,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4435.0
+    "watch_time_s": 4435.8
    },
    "youtube": {
-    "views": 227,
+    "views": 228,
     "likes": 3,
     "comments": 0
    }
@@ -371,7 +386,7 @@
     "watch_time_s": 1315.4
    },
    "youtube": {
-    "views": 98,
+    "views": 118,
     "likes": 1,
     "comments": 0
    }
@@ -431,7 +446,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 119,
+    "views": 122,
     "likes": 2,
     "comments": 0
    }
@@ -498,7 +513,7 @@
     "watch_time_s": 5746.9
    },
    "youtube": {
-    "views": 170,
+    "views": 172,
     "likes": 0,
     "comments": 0
    }
@@ -1028,7 +1043,7 @@
     "watch_time_s": 1010.1
    },
    "youtube": {
-    "views": 46,
+    "views": 48,
     "likes": 0,
     "comments": 0
    }
@@ -1443,9 +1458,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1361,
+    "views": 1362,
     "avg_watch_s": 4.5,
-    "watch_time_s": 4905.0
+    "watch_time_s": 4907.0
    }
   },
   "2026-11-02-2-quiz": {
@@ -2005,9 +2020,9 @@
    "facebook": {
     "likes": 12,
     "comments": 2,
-    "views": 2093,
+    "views": 2094,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10747.6
+    "watch_time_s": 10750.6
    }
   },
   "2026-10-30-6-truefalse": {
@@ -3222,9 +3237,9 @@
    "facebook": {
     "likes": 18,
     "comments": 1,
-    "views": 1842,
+    "views": 1843,
     "avg_watch_s": 6.6,
-    "watch_time_s": 9035.1
+    "watch_time_s": 9044.0
    },
    "youtube": {
     "views": 88,
