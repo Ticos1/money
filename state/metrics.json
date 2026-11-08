@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T16:28:34+00:00",
+ "updated_at": "2026-11-08T17:57:42+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -16,9 +16,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 27.6,
+    "watch_time_s": 27.6
    }
   },
   "2026-11-08-4-quiz": {
@@ -35,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 12,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 12.8
+    "avg_watch_s": 1.8,
+    "watch_time_s": 18.0
    },
    "facebook": {
     "likes": 0,
@@ -51,7 +51,7 @@
     "watch_time_s": 4.2
    },
    "youtube": {
-    "views": 0,
+    "views": 32,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +68,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 939,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 2838.1
+    "views": 1058,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 3733.4
    }
   },
   "2026-11-08-2-quiz": {
@@ -86,12 +86,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1353,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 4989.4
+    "views": 1389,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 5244.1
    },
    "youtube": {
-    "views": 39,
+    "views": 44,
     "likes": 1,
     "comments": 0
    }
@@ -132,8 +132,8 @@
     "likes": 0,
     "comments": 0,
     "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 4.3,
+    "watch_time_s": 4.3
    }
   },
   "2026-11-07-9-quiz": {
@@ -175,7 +175,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 101,
+    "views": 103,
     "likes": 3,
     "comments": 0
    }
@@ -224,10 +224,10 @@
     "comments": 0,
     "views": 1630,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6858.6
+    "watch_time_s": 6866.8
    },
    "youtube": {
-    "views": 314,
+    "views": 342,
     "likes": 4,
     "comments": 0
    }
@@ -274,12 +274,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1067,
+    "views": 1069,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4409.8
+    "watch_time_s": 4412.7
    },
    "youtube": {
-    "views": 171,
+    "views": 196,
     "likes": 3,
     "comments": 0
    }
@@ -296,9 +296,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 337,
+    "views": 339,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1131.0
+    "watch_time_s": 1133.0
    }
   },
   "2026-11-07-2-quiz": {
@@ -314,12 +314,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 383,
+    "views": 384,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1313.5
+    "watch_time_s": 1315.4
    },
    "youtube": {
-    "views": 98,
+    "views": 104,
     "likes": 1,
     "comments": 0
    }
@@ -379,7 +379,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 103,
+    "views": 113,
     "likes": 2,
     "comments": 0
    }
@@ -441,12 +441,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1426,
+    "views": 1427,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5746.4
+    "watch_time_s": 5746.9
    },
    "youtube": {
-    "views": 160,
+    "views": 167,
     "likes": 0,
     "comments": 0
    }
@@ -515,7 +515,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 368,
+    "views": 369,
     "avg_watch_s": 3.9,
     "watch_time_s": 1142.4
    }
@@ -535,7 +535,7 @@
     "comments": 2,
     "views": 413,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1623.8
+    "watch_time_s": 1625.6
    },
    "youtube": {
     "views": 82,
@@ -6274,9 +6274,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1097,
+    "views": 1100,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2548.0
+    "watch_time_s": 2552.3
    },
    "youtube": {
     "views": 171,
