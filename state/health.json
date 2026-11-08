@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T23:00:34+00:00",
+ "updated_at": "2026-11-08T00:29:10+00:00",
  "date": "2026-11-07",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-07-10-truefalse",
+   "date": "2026-11-07",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-07T21:24",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-08T00:25:34+00:00",
+    "stories": "2026-11-08T00:26:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1448635943327301",
+    "stories": "story 18184400101425599"
+   },
+   "title": "Quantos anos Abraão tinha quando Isaque nasceu?"
   },
   {
    "id": "2026-11-07-9-quiz",
