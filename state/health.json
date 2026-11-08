@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-08T21:45:18+00:00",
+ "updated_at": "2026-11-08T22:55:01+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-08-9-quiz",
+   "date": "2026-11-08",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-08T19:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-08T22:50:40+00:00",
+    "instagram": "2026-11-08T22:51:16+00:00",
+    "facebook": "2026-11-08T22:51:20+00:00",
+    "stories": "2026-11-08T22:51:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/TFjXzY7hV6Q",
+    "instagram": "https://www.instagram.com/reel/Dff3qNclYAJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1439506787666381",
+    "stories": "story 18058771835575755"
+   },
+   "title": "Segundo Tiago, cada um deve ser pronto para quê?"
+  },
   {
    "id": "2026-11-08-8-fill",
    "date": "2026-11-08",
