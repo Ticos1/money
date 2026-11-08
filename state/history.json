@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-08-5-curiosity",
+   "date": "2026-11-08",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-08T13:25",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-08T08:22:30+00:00",
+   "source": "bank",
+   "bank_id": "c256",
+   "model": null,
+   "content": {
+    "ref": "Atos 21:9",
+    "ref_label": "Atos 21:9",
+    "title": "As quatro filhas profetisas",
+    "text": "Filipe, o evangelista, tinha quatro filhas que profetizavam, e Paulo se hospedou na casa dele em Cesareia.",
+    "evidence": "quatro filhas virgens que profetizavam",
+    "passage": "Ora, este homem tinha quatro filhas virgens que profetizavam.",
+    "tags": [
+     "filipe",
+     "atos"
+    ]
+   },
+   "captions": {
+    "instagram": "Essa você provavelmente nunca ouviu 📖\n\nAs quatro filhas profetisas\n\nFilipe, o evangelista, tinha quatro filhas que profetizavam, e Paulo se hospedou na casa dele em Cesareia. (Atos 21:9)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#filipe #atos #vocesabia #curiosidadesbiblicas #jesus #deus #evangelico #gospel #palavradedeus #estudobiblico #biblia #cristao",
+    "facebook": "Essa você provavelmente nunca ouviu 📖\n\nAs quatro filhas profetisas\n\nFilipe, o evangelista, tinha quatro filhas que profetizavam, e Paulo se hospedou na casa dele em Cesareia. (Atos 21:9)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#filipe #atos #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Essa você provavelmente nunca ouviu 📖 As quatro filhas profetisas\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#filipe #atos #vocesabia #curiosidadesbiblicas #deus",
+    "kwai": "Essa você provavelmente nunca ouviu 📖 As quatro filhas profetisas\nSalve para lembrar e compartilhe com quem ama a Palavra.\n#filipe #atos #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "whatsapp": "*Essa você provavelmente nunca ouviu* 📖\n\nAs quatro filhas profetisas\n\nFilipe, o evangelista, tinha quatro filhas que profetizavam, e Paulo se hospedou na casa dele em Cesareia. (Atos 21:9)\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? As quatro filhas profetisas #shorts",
+     "description": "Essa você provavelmente nunca ouviu 📖\n\nAs quatro filhas profetisas\n\nFilipe, o evangelista, tinha quatro filhas que profetizavam, e Paulo se hospedou na casa dele em Cesareia. (Atos 21:9)\n\nSalve para lembrar e compartilhe com quem ama a Palavra.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #filipe #atos #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "filipe",
+      "atos",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Essa você provavelmente nunca ouviu",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-08T16:25:35+00:00",
+    "stories": "2026-11-08T16:26:08+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1447724996960071",
+    "stories": "story 18126693796898105"
+   }
+  },
+  {
    "id": "2026-11-08-4-quiz",
    "date": "2026-11-08",
    "slot": 4,
