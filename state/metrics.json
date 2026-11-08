@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-08T17:57:42+00:00",
+ "updated_at": "2026-11-08T18:15:24+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-08-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-08",
+   "time": "15:00",
+   "title": "Segundo Joel, o que farão os velhos quando Deus derramar o seu Espírito?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6DPa9lk2QEo",
+    "instagram": "https://www.instagram.com/reel/DffXm1hCv4q/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/4218964168396358"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-08-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-08",
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1058,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 3733.4
+    "views": 1134,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 4356.3
    }
   },
   "2026-11-08-2-quiz": {
@@ -84,11 +119,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2216404589298154"
    },
    "facebook": {
-    "likes": 9,
+    "likes": 10,
     "comments": 0,
-    "views": 1389,
+    "views": 1411,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5244.1
+    "watch_time_s": 5359.8
    },
    "youtube": {
     "views": 44,
@@ -222,7 +257,7 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1630,
+    "views": 1631,
     "avg_watch_s": 5.7,
     "watch_time_s": 6866.8
    },
@@ -274,9 +309,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1069,
+    "views": 1070,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4412.7
+    "watch_time_s": 4416.4
    },
    "youtube": {
     "views": 196,
@@ -517,7 +552,7 @@
     "comments": 0,
     "views": 369,
     "avg_watch_s": 3.9,
-    "watch_time_s": 1142.4
+    "watch_time_s": 1143.5
    }
   },
   "2026-11-06-2-quiz": {
@@ -6276,7 +6311,7 @@
     "comments": 2,
     "views": 1100,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2552.3
+    "watch_time_s": 2553.2
    },
    "youtube": {
     "views": 171,
