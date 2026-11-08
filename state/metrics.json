@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-08T11:14:08+00:00",
+ "updated_at": "2026-11-08T13:14:47+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-08-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-08",
+   "time": "10:00",
+   "title": "Em que parte do corpo a pedra de Davi atingiu o filisteu?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1711948967155835"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-08-2-quiz": {
    "type": "quiz",
    "date": "2026-11-08",
@@ -15,14 +32,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2216404589298154"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 420,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1144.7
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -106,7 +123,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 93,
+    "views": 97,
     "likes": 3,
     "comments": 0
    }
@@ -142,23 +159,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 80,
+    "reach": 91,
     "saved": 0,
     "shares": 0,
-    "views": 104,
+    "views": 119,
     "total_interactions": 0,
     "avg_watch_s": 4.5,
-    "watch_time_s": 360.6
+    "watch_time_s": 416.4
    },
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1620,
+    "views": 1623,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6807.0
+    "watch_time_s": 6810.6
    },
    "youtube": {
-    "views": 262,
+    "views": 275,
     "likes": 4,
     "comments": 0
    }
@@ -175,7 +192,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 253,
+    "views": 254,
     "avg_watch_s": 3.4,
     "watch_time_s": 746.4
    }
@@ -194,23 +211,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 14,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 27.8
+    "avg_watch_s": 3.0,
+    "watch_time_s": 29.8
    },
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1053,
+    "views": 1056,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4351.0
+    "watch_time_s": 4358.9
    },
    "youtube": {
-    "views": 148,
+    "views": 152,
     "likes": 3,
     "comments": 0
    }
@@ -227,9 +244,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 335,
+    "views": 337,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1121.1
+    "watch_time_s": 1131.0
    }
   },
   "2026-11-07-2-quiz": {
@@ -245,12 +262,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 378,
+    "views": 380,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1309.0
+    "watch_time_s": 1311.4
    },
    "youtube": {
-    "views": 89,
+    "views": 91,
     "likes": 1,
     "comments": 0
    }
@@ -310,7 +327,7 @@
     "watch_time_s": 0.9
    },
    "youtube": {
-    "views": 100,
+    "views": 103,
     "likes": 2,
     "comments": 0
    }
@@ -325,7 +342,7 @@
     "youtube": "https://youtube.com/shorts/D4jPqEC-t38"
    },
    "youtube": {
-    "views": 58,
+    "views": 59,
     "likes": 1,
     "comments": 0
    }
@@ -372,12 +389,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1425,
+    "views": 1426,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5745.3
+    "watch_time_s": 5746.4
    },
    "youtube": {
-    "views": 159,
+    "views": 160,
     "likes": 0,
     "comments": 0
    }
@@ -447,8 +464,8 @@
     "likes": 1,
     "comments": 0,
     "views": 368,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 1140.1
+    "avg_watch_s": 3.9,
+    "watch_time_s": 1142.4
    }
   },
   "2026-11-06-2-quiz": {
@@ -683,7 +700,6 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1566,
     "avg_watch_s": 6.2,
     "watch_time_s": 7251.0
    },
@@ -780,9 +796,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 2001,
+    "views": 2002,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9421.7
+    "watch_time_s": 9430.6
    }
   },
   "2026-11-04-6-truefalse": {
@@ -1370,7 +1386,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 14,
+    "views": 6,
     "avg_watch_s": 38.9,
     "watch_time_s": 233.5
    }
@@ -1587,7 +1603,7 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -2225,7 +2241,6 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 543,
     "avg_watch_s": 5.0,
     "watch_time_s": 2193.2
    },
