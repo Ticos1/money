@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-11-08-1-verse",
+   "date": "2026-11-08",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-08T06:30",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-08T08:21:14+00:00",
+   "source": "bank",
+   "bank_id": "v311",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 2:2",
+    "ref_label": "1 Samuel 2:2",
+    "verse_text": "Não há ninguém santo como o SENHOR, pois não há ninguém além de ti; não há Rocha alguma como o nosso Deus.",
+    "on_screen": "Não há Rocha alguma como o nosso Deus.",
+    "reflection": "Ana tinha chorado por anos, e agora cantava. Ela descobriu que ninguém é tão santo, tão firme e tão confiável quanto o Senhor. Em quem você tem se apoiado hoje?",
+    "theme": "louvor",
+    "mood": "alegria",
+    "tags": [
+     "louvor",
+     "rocha"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de louvor: 1 Samuel 2:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não há ninguém santo como o SENHOR, pois não há ninguém além de ti; não há Rocha alguma como o nosso Deus.” (1 Samuel 2:2)\n\nAna chorou por anos, mas encontrou força para cantar quando reconheceu que só o Senhor é verdadeiramente santo e firme. Hoje, reflita: em quem você tem confiado sua paz e segurança? Compartilhe se essa mensagem tocar seu coração. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #rocha #versiculododia #versiculo #jesus #palavradedeus #reflexao #cristao #devocional #gospel #evangelico",
+    "facebook": "Versículo de louvor: 1 Samuel 2:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não há ninguém santo como o SENHOR, pois não há ninguém além de ti; não há Rocha alguma como o nosso Deus.” (1 Samuel 2:2)\n\nAna chorou por anos, mas encontrou força para cantar quando reconheceu que só o Senhor é verdadeiramente santo e firme. Hoje, reflita: em quem você tem confiado sua paz e segurança? Compartilhe se essa mensagem tocar seu coração. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodelouvor #louvor #rocha #versiculododia",
+    "tiktok": "Versículo de louvor\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nAna encontrou força ao confiar no Senhor. E você, em quem se apoia hoje?\n#versiculodelouvor #louvor #rocha #versiculododia #versiculo",
+    "kwai": "Versículo de louvor\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nAna encontrou força ao confiar no Senhor. E você, em quem se apoia hoje?\n#versiculodelouvor #louvor #rocha #versiculododia #versiculo",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não há ninguém santo como o SENHOR, pois não há ninguém além de ti; não há Rocha alguma como o nosso Deus.” (1 Samuel 2:2)\n\nAna chorou por anos, mas encontrou força para cantar quando reconheceu que só o Senhor é verdadeiramente santo e firme. Hoje, reflita: em quem você tem confiado sua paz e segurança? Compartilhe se essa mensagem tocar seu coração. 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de louvor: 1 Samuel 2:2 🙏 #shorts",
+     "description": "Versículo de louvor: 1 Samuel 2:2\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Não há ninguém santo como o SENHOR, pois não há ninguém além de ti; não há Rocha alguma como o nosso Deus.” (1 Samuel 2:2)\n\nAna chorou por anos, mas encontrou força para cantar quando reconheceu que só o Senhor é verdadeiramente santo e firme. Hoje, reflita: em quem você tem confiado sua paz e segurança? Compartilhe se essa mensagem tocar seu coração. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodelouvor #louvor #rocha",
+     "tags": [
+      "versículo de louvor",
+      "versículos de louvor",
+      "louvor",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "rocha",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-08T09:31:05+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18110203085260541"
+   }
+  },
+  {
    "id": "2026-11-07-11-compilation",
    "date": "2026-11-07",
    "slot": 11,
