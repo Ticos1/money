@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-08T13:14:49+00:00",
+ "updated_at": "2026-11-08T15:09:24+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-08-4-quiz",
+   "date": "2026-11-08",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-08T12:04",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-08T15:05:32+00:00",
+    "instagram": "2026-11-08T15:06:13+00:00",
+    "facebook": "2026-11-08T15:06:17+00:00",
+    "stories": "2026-11-08T15:06:48+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/3qI4t2kInc0",
+    "instagram": "https://www.instagram.com/reel/DffCbohmTFE/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29604428912501963",
+    "stories": "story 18351719107264165"
+   },
+   "title": "Atrás de que estava embrulhada num pano a espada de Golias, guardada pelo sacerdote?"
+  },
   {
    "id": "2026-11-08-3-truefalse",
    "date": "2026-11-08",
