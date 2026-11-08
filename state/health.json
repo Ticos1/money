@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-08T00:29:10+00:00",
- "date": "2026-11-07",
+ "updated_at": "2026-11-08T09:02:02+00:00",
+ "date": "2026-11-08",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 9,
+  "used": 3,
   "max": 20,
   "enabled": true
  },
@@ -16,311 +16,39 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 561,
-   "days_left": 561,
+   "fresh": 560,
+   "days_left": 560,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 444,
-   "days_left": 444,
+   "fresh": 443,
+   "days_left": 443,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 962,
-   "days_left": 137,
+   "fresh": 955,
+   "days_left": 136,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 998,
-   "days_left": 142,
+   "fresh": 992,
+   "days_left": 141,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 230,
-   "days_left": 230,
+   "fresh": 229,
+   "days_left": 229,
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-07-11-compilation",
-   "date": "2026-11-07",
-   "slot": 11,
-   "time": "12:00",
-   "publish_at": "2026-11-07T11:51",
-   "type": "compilation",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-07T14:55:36+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": null,
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtu.be/Q7A3IDcg2xM"
-   },
-   "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
-  },
-  {
-   "id": "2026-11-07-10-truefalse",
-   "date": "2026-11-07",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-07T21:24",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-08T00:25:34+00:00",
-    "stories": "2026-11-08T00:26:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1448635943327301",
-    "stories": "story 18184400101425599"
-   },
-   "title": "Quantos anos Abraão tinha quando Isaque nasceu?"
-  },
-  {
-   "id": "2026-11-07-9-quiz",
-   "date": "2026-11-07",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-07T19:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": "2026-11-07T22:56:22+00:00",
-    "facebook": "2026-11-07T22:56:27+00:00",
-    "stories": "2026-11-07T22:57:02+00:00",
-    "whatsapp": null
-   },
-   "publish_skipped": {
-    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "instagram": "https://www.instagram.com/reel/DfdTbg7CsVL/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3648912818609413",
-    "stories": "story 17964584550253922"
-   },
-   "title": "Qual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?"
-  },
-  {
-   "id": "2026-11-07-8-fill",
-   "date": "2026-11-07",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-07T18:23",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-07T21:25:37+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-07T21:26:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/TtHbVlCE1Go",
-    "stories": "story 18170574214486606"
-   },
-   "title": "Ninguém conseguirá resistir diante de você todos os dias da sua _____. Assim como estive com Moisés, também estarei com você. Não o deixarei, nem o abandonarei."
-  },
-  {
-   "id": "2026-11-07-7-quiz",
-   "date": "2026-11-07",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-07T16:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-07T19:55:37+00:00",
-    "stories": "2026-11-07T19:56:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1523277983167658",
-    "stories": "story 18085896599538812"
-   },
-   "title": "Quem prendeu Jeremias na porta de Benjamim, acusando-o de desertar?"
-  },
-  {
-   "id": "2026-11-07-6-truefalse",
-   "date": "2026-11-07",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-07T14:50",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-07T17:50:34+00:00",
-    "instagram": "2026-11-07T17:51:07+00:00",
-    "facebook": "2026-11-07T17:51:11+00:00",
-    "stories": "2026-11-07T17:52:00+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Jlp94N8_Vgc",
-    "instagram": "https://www.instagram.com/reel/DfcwhaJjcwD/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1616875966316661",
-    "stories": "story 17976021582175015"
-   },
-   "title": "Quem eram considerados colunas da igreja, segundo Gálatas 2?"
-  },
-  {
-   "id": "2026-11-07-5-curiosity",
-   "date": "2026-11-07",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-07T13:40",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-07T16:40:41+00:00",
-    "stories": "2026-11-07T16:41:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1441435664832988",
-    "stories": "story 17939089983463426"
-   },
-   "title": "Destruição dos altares idólatras"
-  },
-  {
-   "id": "2026-11-07-4-quiz",
-   "date": "2026-11-07",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-07T12:07",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-07T15:10:32+00:00",
-    "instagram": "2026-11-07T15:11:04+00:00",
-    "facebook": "2026-11-07T15:11:09+00:00",
-    "stories": "2026-11-07T15:12:39+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/fYpQpVn_qgc",
-    "instagram": "https://www.instagram.com/reel/DfceNK-FXSG/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3193447710843971",
-    "stories": "story 18148470118575294"
-   },
-   "title": "Qual animal descreve os justos em Provérbios 28:1?"
-  },
-  {
-   "id": "2026-11-07-3-truefalse",
-   "date": "2026-11-07",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-07T09:51",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-07T12:53:36+00:00",
-    "stories": "2026-11-07T12:54:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1885229622914748",
-    "stories": "story 18114438844896030"
-   },
-   "title": "Segundo Miqueias 6:8, o que o SENHOR exige de você?"
-  },
-  {
-   "id": "2026-11-07-2-quiz",
-   "date": "2026-11-07",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-07T08:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-07T11:05:42+00:00",
-    "instagram": null,
-    "facebook": "2026-11-07T11:05:47+00:00",
-    "stories": "2026-11-07T11:06:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/rOW19HPi0Fw",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1457654863133461",
-    "stories": "story 17900038032405570"
-   },
-   "title": "Qual nome é citado como sacerdote eterno no Salmo 110?"
-  },
-  {
-   "id": "2026-11-07-1-verse",
-   "date": "2026-11-07",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-07T06:33",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-07T09:36:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18174260095414119"
-   },
-   "title": "Filipenses 4:6-7"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
