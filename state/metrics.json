@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-08T13:14:47+00:00",
+ "updated_at": "2026-11-08T15:09:22+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-08-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-08",
+   "time": "12:00",
+   "title": "Atrás de que estava embrulhada num pano a espada de Golias, guardada pelo sacerdote?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/3qI4t2kInc0",
+    "instagram": "https://www.instagram.com/reel/DffCbohmTFE/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29604428912501963"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-08-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-08",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 373,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 1019.4
    }
   },
   "2026-11-08-2-quiz": {
@@ -32,15 +67,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2216404589298154"
    },
    "facebook": {
-    "likes": 3,
+    "likes": 8,
     "comments": 0,
-    "views": 420,
+    "views": 1054,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1144.7
+    "watch_time_s": 3234.1
    },
    "youtube": {
-    "views": 3,
-    "likes": 0,
+    "views": 19,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -123,7 +158,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 97,
+    "views": 100,
     "likes": 3,
     "comments": 0
    }
@@ -159,23 +194,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 91,
+    "reach": 96,
     "saved": 0,
     "shares": 0,
-    "views": 119,
+    "views": 124,
     "total_interactions": 0,
     "avg_watch_s": 4.5,
-    "watch_time_s": 416.4
+    "watch_time_s": 431.0
    },
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1623,
+    "views": 1624,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6810.6
+    "watch_time_s": 6816.5
    },
    "youtube": {
-    "views": 275,
+    "views": 290,
     "likes": 4,
     "comments": 0
    }
@@ -194,7 +229,7 @@
     "comments": 0,
     "views": 254,
     "avg_watch_s": 3.4,
-    "watch_time_s": 746.4
+    "watch_time_s": 747.4
    }
   },
   "2026-11-07-4-quiz": {
@@ -216,18 +251,18 @@
     "shares": 0,
     "views": 14,
     "total_interactions": 0,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 29.8
+    "avg_watch_s": 2.8,
+    "watch_time_s": 30.9
    },
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1056,
+    "views": 1061,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4358.9
+    "watch_time_s": 4379.6
    },
    "youtube": {
-    "views": 152,
+    "views": 165,
     "likes": 3,
     "comments": 0
    }
@@ -262,12 +297,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 380,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1311.4
+    "views": 382,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1313.5
    },
    "youtube": {
-    "views": 91,
+    "views": 92,
     "likes": 1,
     "comments": 0
    }
@@ -441,9 +476,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1507,
+    "views": 1508,
     "avg_watch_s": 5.6,
-    "watch_time_s": 6366.8
+    "watch_time_s": 6368.6
    },
    "youtube": {
     "views": 134,
@@ -700,6 +735,7 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
+    "views": 1566,
     "avg_watch_s": 6.2,
     "watch_time_s": 7251.0
    },
@@ -1338,9 +1374,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 1360,
+    "views": 1361,
     "avg_watch_s": 4.5,
-    "watch_time_s": 4895.1
+    "watch_time_s": 4905.0
    }
   },
   "2026-11-02-2-quiz": {
@@ -1386,7 +1422,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 6,
+    "views": 14,
     "avg_watch_s": 38.9,
     "watch_time_s": 233.5
    }
@@ -2241,6 +2277,7 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
+    "views": 543,
     "avg_watch_s": 5.0,
     "watch_time_s": 2193.2
    },
