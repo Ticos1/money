@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T09:02:02+00:00",
+ "updated_at": "2026-11-08T09:34:15+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-08-1-verse",
+   "date": "2026-11-08",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-08T06:30",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-08T09:31:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18110203085260541"
+   },
+   "title": "1 Samuel 2:2"
+  }
+ ],
  "specials": {}
 }
