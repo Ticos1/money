@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T11:14:10+00:00",
+ "updated_at": "2026-11-08T13:14:49+00:00",
  "date": "2026-11-08",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-08-3-truefalse",
+   "date": "2026-11-08",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-08T10:06",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-08T13:10:40+00:00",
+    "stories": "2026-11-08T13:11:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1711948967155835",
+    "stories": "story 17870936646661817"
+   },
+   "title": "Em que parte do corpo a pedra de Davi atingiu o filisteu?"
+  },
   {
    "id": "2026-11-08-2-quiz",
    "date": "2026-11-08",
