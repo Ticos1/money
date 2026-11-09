@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-09T19:49:34+00:00",
+ "updated_at": "2026-11-09T19:54:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-09-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-09",
+   "time": "17:00",
+   "title": "Qual palavra aparece em Jeremias 12:1 referindo‑se a Deus?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1608410347993982"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-09-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-09",
@@ -34,7 +51,7 @@
     "watch_time_s": 1043.3
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -81,7 +98,7 @@
    "facebook": {
     "likes": 11,
     "comments": 0,
-    "views": 1544,
+    "views": 1564,
     "avg_watch_s": 5.6,
     "watch_time_s": 6484.4
    },
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 590,
+    "views": 594,
     "avg_watch_s": 6.1,
     "watch_time_s": 2816.8
    },
    "youtube": {
-    "views": 85,
+    "views": 87,
     "likes": 2,
     "comments": 0
    }
