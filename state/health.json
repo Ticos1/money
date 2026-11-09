@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T15:15:29+00:00",
+ "updated_at": "2026-11-09T16:34:19+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-5-curiosity",
+   "date": "2026-11-09",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-09T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-09T16:30:37+00:00",
+    "stories": "2026-11-09T16:31:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2302798473596361",
+    "stories": "story 18093372533214490"
+   },
+   "title": "Harpa e melodia no louvor"
+  },
   {
    "id": "2026-11-09-4-quiz",
    "date": "2026-11-09",
