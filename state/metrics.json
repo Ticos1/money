@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-09T09:46:37+00:00",
+ "updated_at": "2026-11-09T11:04:39+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-09-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-09",
+   "time": "08:00",
+   "title": "Quantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/kRmYEnik6TI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1114062054582290"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-09-1-verse": {
    "type": "verse",
    "date": "2026-11-09",
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 349,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1285.6
+    "views": 356,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1298.3
    }
   },
   "2026-11-08-6-truefalse": {
@@ -162,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 56,
     "saved": 0,
     "shares": 0,
-    "views": 60,
+    "views": 70,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 177.4
+    "avg_watch_s": 3.9,
+    "watch_time_s": 217.6
    },
    "facebook": {
     "likes": 0,
@@ -195,9 +218,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1330,
+    "views": 1332,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5208.1
+    "watch_time_s": 5232.4
    }
   },
   "2026-11-08-2-quiz": {
@@ -215,7 +238,7 @@
     "comments": 0,
     "views": 1512,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5834.8
+    "watch_time_s": 5866.5
    },
    "youtube": {
     "views": 44,
@@ -302,7 +325,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 119,
+    "views": 121,
     "likes": 3,
     "comments": 0
    }
@@ -351,7 +374,7 @@
     "comments": 0,
     "views": 1639,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6905.8
+    "watch_time_s": 6907.8
    },
    "youtube": {
     "views": 432,
@@ -401,9 +424,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1075,
+    "views": 1076,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4438.7
+    "watch_time_s": 4439.6
    },
    "youtube": {
     "views": 268,
