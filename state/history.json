@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-09-3-truefalse",
+   "date": "2026-11-09",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-09T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:21:50+00:00",
+   "source": "bank",
+   "bank_id": "q963",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 25:27",
+    "ref_label": "Gênesis 25:27",
+    "question": "Como Esaú é descrito em Gênesis 25?",
+    "shown": "Um lavrador da terra",
+    "is_true": false,
+    "correct": "Um caçador habilidoso",
+    "evidence": "Esaú era um caçador habilidoso",
+    "passage": "Os meninos cresceram. Esaú era um caçador habilidoso, um homem do campo. Jacó era um homem pacato, que habitava em tendas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #deus #cristao #desafiobiblico #perguntasbiblicas #biblia #gospel #conhecimentobiblico #evangelico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #fe",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #deus #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #palavradedeus #deus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Como Esaú é descrito em Gênesis 25? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-09T12:55:43+00:00",
+    "stories": "2026-11-09T12:56:19+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/969526585796956",
+    "stories": "story 18138994612676743"
+   }
+  },
+  {
    "id": "2026-11-09-2-quiz",
    "date": "2026-11-09",
    "slot": 2,
