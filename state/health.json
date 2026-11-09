@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-09T13:00:03+00:00",
+ "updated_at": "2026-11-09T15:15:29+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-4-quiz",
+   "date": "2026-11-09",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-09T12:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T15:10:40+00:00",
+    "instagram": "2026-11-09T15:11:24+00:00",
+    "facebook": "2026-11-09T15:11:29+00:00",
+    "stories": "2026-11-09T15:12:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sdDiQ0Bsk2E",
+    "instagram": "https://www.instagram.com/reel/Dfhn0KZkhKl/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3960335834109434",
+    "stories": "story 17995529705852855"
+   },
+   "title": "Qual efésio os judeus supunham que Paulo havia levado para dentro do templo?"
+  },
   {
    "id": "2026-11-09-3-truefalse",
    "date": "2026-11-09",
