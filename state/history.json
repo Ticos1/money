@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-09-1-verse",
+   "date": "2026-11-09",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-09T06:38",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:21:14+00:00",
+   "source": "bank",
+   "bank_id": "v248",
+   "model": null,
+   "content": {
+    "ref": "Oseias 6:3",
+    "ref_label": "Oseias 6:3",
+    "verse_text": "Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.",
+    "on_screen": "Prossigamos em conhecer o Senhor.",
+    "reflection": "Conhecer a Deus é uma caminhada diária. Tão certo como o nascer do sol, Ele aparece.",
+    "theme": "conhecer a Deus",
+    "mood": "reflexao",
+    "tags": [
+     "busca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#busca #fe #versiculododia #versiculo #oracao #esperanca #gospel #evangelico #biblia #palavradedeus #reflexao #deus",
+    "facebook": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#busca #fe #versiculododia #versiculo",
+    "tiktok": "A presença de Deus renova nossa jornada, como o sol ao amanhecer. Salve e compartilhe! 🙏\n#busca #fe #versiculododia #versiculo #evangelico",
+    "kwai": "A presença de Deus renova nossa jornada, como o sol ao amanhecer. Salve e compartilhe! 🙏\n#busca #fe #versiculododia #versiculo #devocional",
+    "whatsapp": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Prossigamos em conhecer o Senhor. | Oseias 6:3 #shorts",
+     "description": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #busca #fe #versiculododia",
+     "tags": [
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "busca",
+      "fe",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-09T09:41:45+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18113391161224019"
+   }
+  },
+  {
    "id": "2026-11-08-10-truefalse",
    "date": "2026-11-08",
    "slot": 10,
