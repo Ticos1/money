@@ -1,3 +1,998 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-09-10-truefalse",
+   "date": "2026-11-09",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-09T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:24:08+00:00",
+   "source": "bank",
+   "bank_id": "q425",
+   "model": null,
+   "content": {
+    "ref": "Ester 2:5",
+    "ref_label": "Ester 2:5",
+    "question": "Qual era o nome do judeu em Susã, filho de Jair, um benjamita?",
+    "shown": "Mardoqueu",
+    "is_true": true,
+    "correct": "Mardoqueu",
+    "evidence": "cujo nome era Mardoqueu",
+    "passage": "Havia um certo judeu na cidadela de Susã cujo nome era Mardoqueu, filho de Jair, filho de Simei, filho de Quis, um benjamita,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome do judeu em Susã, filho de Jair, um benjamita?\nResposta: Mardoqueu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #perguntasbiblicas #palavradedeus #cristao #jesus #fe #conhecimentobiblico #evangelico #gospel",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome do judeu em Susã, filho de Jair, um benjamita?\nResposta: Mardoqueu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #desafiobiblico #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual era o nome do judeu em Susã, filho de Jair, um benjamita?\nResposta: Mardoqueu\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome do judeu em Susã, filho de Jair, um benjamita?\nResposta: Mardoqueu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-9-quiz",
+   "date": "2026-11-09",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-09T19:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-09T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "q557",
+   "model": null,
+   "content": {
+    "ref": "Atos 8:9",
+    "ref_label": "Atos 8:9",
+    "question": "Como se chamava o homem que praticava feitiçaria em Samaria?",
+    "options": [
+     "Elimas",
+     "Simão",
+     "Barjesus",
+     "Demétrio"
+    ],
+    "answer": 1,
+    "evidence": "um certo homem, chamado Simão",
+    "passage": "Mas havia um certo homem, chamado Simão, que praticava feitiçaria na cidade e maravilhava o povo de Samaria, fazendo-se passar por alguém importante,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #gospel #jesus #conhecimentobiblico #perguntasbiblicas #cristao #desafio #biblia #fe",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #cristao",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #gospel",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #desafio",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Como se chamava o homem que praticava feitiçaria em Samaria? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-8-fill",
+   "date": "2026-11-09",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-09T18:27",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-09T08:23:31+00:00",
+   "source": "bank",
+   "bank_id": "v004",
+   "model": null,
+   "content": {
+    "ref": "Josué 1:9",
+    "ref_label": "Josué 1:9",
+    "verse_text": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.",
+    "question": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.",
+    "options": [
+     "caminho",
+     "medo",
+     "nome",
+     "escudo"
+    ],
+    "answer": 1,
+    "answer_word": "medo",
+    "tags": [
+     "coragem",
+     "forca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo #gospel #biblia #palavradedeus #cristao #quizbiblico #fe #evangelico",
+    "facebook": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodecoragem #coragem #forca #completeoversiculo",
+    "tiktok": "Versículo de coragem\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo",
+    "kwai": "Versículo de coragem\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de coragem: Josué 1:9 📖 #shorts",
+     "description": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodecoragem #coragem #forca",
+     "tags": [
+      "versículo de coragem",
+      "versículos de coragem",
+      "coragem",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-7-quiz",
+   "date": "2026-11-09",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-09T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-09T08:23:11+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Jeremias 12:1",
+    "ref_label": "Jeremias 12:1",
+    "question": "Qual palavra aparece em Jeremias 12:1 referindo‑se a Deus?",
+    "options": [
+     "SENHOR",
+     "DEUS",
+     "ALTÍSSIMO",
+     "CRIADOR"
+    ],
+    "answer": 0,
+    "evidence": "SENHOR",
+    "passage": "Tu és justo, SENHOR, quando argumento contigo; contudo, eu gostaria de pleitear uma causa contigo. Por que o caminho dos ímpios prospera? Por que vivem tranquilos todos os que agem com grande traição?",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra aparece em Jeremias 12:1 referindo‑se a Deus?\n\nA) SENHOR\nB) DEUS\nC) ALTÍSSIMO\nD) CRIADOR\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #fe #perguntasbiblicas #cristao #teste #deus #evangelico #conhecimentobiblico #desafio",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra aparece em Jeremias 12:1 referindo‑se a Deus?\n\nA) SENHOR\nB) DEUS\nC) ALTÍSSIMO\nD) CRIADOR\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #jesus #conhecimentobiblico",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #teste #evangelico",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQual palavra aparece em Jeremias 12:1 referindo‑se a Deus?\n\nA) SENHOR\nB) DEUS\nC) ALTÍSSIMO\nD) CRIADOR\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra aparece em Jeremias 12:1 referindo‑se a Deus? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQual palavra aparece em Jeremias 12:1 referindo‑se a Deus?\n\nA) SENHOR\nB) DEUS\nC) ALTÍSSIMO\nD) CRIADOR\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-6-truefalse",
+   "date": "2026-11-09",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-09T14:50",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:22:51+00:00",
+   "source": "bank",
+   "bank_id": "q1161",
+   "model": null,
+   "content": {
+    "ref": "João 4:42",
+    "ref_label": "João 4:42",
+    "question": "Que título os samaritanos deram a Jesus, depois de ouvi-lo?",
+    "shown": "O Salvador do mundo",
+    "is_true": true,
+    "correct": "O Salvador do mundo",
+    "evidence": "o Salvador do mundo",
+    "passage": "E diziam à mulher: “Agora cremos, não por causa do que você falou; pois nós mesmos o ouvimos, e sabemos que este é verdadeiramente o Cristo, o Salvador do mundo.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue título os samaritanos deram a Jesus, depois de ouvi-lo?\nResposta: O Salvador do mundo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #desafiobiblico #jesus #perguntasbiblicas #gospel #evangelico #cristao #biblia #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue título os samaritanos deram a Jesus, depois de ouvi-lo?\nResposta: O Salvador do mundo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #desafiobiblico #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #evangelico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQue título os samaritanos deram a Jesus, depois de ouvi-lo?\nResposta: O Salvador do mundo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue título os samaritanos deram a Jesus, depois de ouvi-lo?\nResposta: O Salvador do mundo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-5-curiosity",
+   "date": "2026-11-09",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-09T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-09T08:22:33+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 98:5",
+    "ref_label": "Salmos 98:5",
+    "title": "Harpa e melodia no louvor",
+    "text": "No versículo 5, a harpa era o principal instrumento de adoração em Israel, usada junto à voz cantada para celebrar a glória de Deus.",
+    "evidence": "harpa",
+    "passage": "Cantem louvores ao SENHOR com a harpa, com a harpa e a voz de melodia.",
+    "tags": [
+     "musica",
+     "adoracao"
+    ]
+   },
+   "captions": {
+    "instagram": "Harpa e melodia no louvor\n\nNo versículo 5, a harpa era o principal instrumento de adoração em Israel, usada junto à voz cantada para celebrar a glória de Deus. (Salmos 98:5)\n\nA harpa era o principal instrumento de adoração em Israel, tocada junto à voz cantada para celebrar a glória de Deus (Salmos 98:5). Ela trazia a melodia que elevava o coração ao Senhor, unindo música e palavra. Que essa lembrança nos inspire a louvar com todo o nosso ser. Salve e compartilhe para que mais pessoas conheçam essa rica tradição de adoração!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#musica #adoracao #vocesabia #curiosidadesbiblicas #deus #fe #cristao #evangelico #gospel #historiabiblica #palavradedeus #biblia",
+    "facebook": "Harpa e melodia no louvor\n\nNo versículo 5, a harpa era o principal instrumento de adoração em Israel, usada junto à voz cantada para celebrar a glória de Deus. (Salmos 98:5)\n\nA harpa era o principal instrumento de adoração em Israel, tocada junto à voz cantada para celebrar a glória de Deus (Salmos 98:5). Ela trazia a melodia que elevava o coração ao Senhor, unindo música e palavra. Que essa lembrança nos inspire a louvar com todo o nosso ser. Salve e compartilhe para que mais pessoas conheçam essa rica tradição de adoração!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#musica #adoracao #vocesabia #curiosidadesbiblicas",
+    "tiktok": "A harpa guiava o louvor em Israel, celebrando a glória de Deus (Salmos 98:5). Salve e compartilhe!\n#musica #adoracao #vocesabia #curiosidadesbiblicas #fe",
+    "kwai": "A harpa guiava o louvor em Israel, celebrando a glória de Deus (Salmos 98:5). Salve e compartilhe!\n#musica #adoracao #vocesabia #curiosidadesbiblicas #deus",
+    "whatsapp": "Harpa e melodia no louvor\n\nNo versículo 5, a harpa era o principal instrumento de adoração em Israel, usada junto à voz cantada para celebrar a glória de Deus. (Salmos 98:5)\n\nA harpa era o principal instrumento de adoração em Israel, tocada junto à voz cantada para celebrar a glória de Deus (Salmos 98:5). Ela trazia a melodia que elevava o coração ao Senhor, unindo música e palavra. Que essa lembrança nos inspire a louvar com todo o nosso ser. Salve e compartilhe para que mais pessoas conheçam essa rica tradição de adoração!\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Harpa e melodia no louvor #shorts",
+     "description": "Harpa e melodia no louvor\n\nNo versículo 5, a harpa era o principal instrumento de adoração em Israel, usada junto à voz cantada para celebrar a glória de Deus. (Salmos 98:5)\n\nA harpa era o principal instrumento de adoração em Israel, tocada junto à voz cantada para celebrar a glória de Deus (Salmos 98:5). Ela trazia a melodia que elevava o coração ao Senhor, unindo música e palavra. Que essa lembrança nos inspire a louvar com todo o nosso ser. Salve e compartilhe para que mais pessoas conheçam essa rica tradição de adoração!\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #musica #adoracao #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "musica",
+      "adoracao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-4-quiz",
+   "date": "2026-11-09",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-09T12:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-09T08:22:11+00:00",
+   "source": "bank",
+   "bank_id": "q1186",
+   "model": null,
+   "content": {
+    "ref": "Atos 21:29",
+    "ref_label": "Atos 21:29",
+    "question": "Qual efésio os judeus supunham que Paulo havia levado para dentro do templo?",
+    "options": [
+     "Erasto",
+     "Epafras",
+     "Tíquico",
+     "Trófimo"
+    ],
+    "answer": 3,
+    "evidence": "Trófimo, o efésio",
+    "passage": "Pois eles tinham visto Trófimo, o efésio, com ele na cidade, e supunham que Paulo o havia levado para o templo.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual efésio os judeus supunham que Paulo havia levado para dentro do templo?\n\nA) Erasto\nB) Epafras\nC) Tíquico\nD) Trófimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe #palavradedeus #evangelico #perguntasbiblicas #jesus #deus #desafio #conhecimentobiblico #gospel",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual efésio os judeus supunham que Paulo havia levado para dentro do templo?\n\nA) Erasto\nB) Epafras\nC) Tíquico\nD) Trófimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #evangelico",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #fe",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual efésio os judeus supunham que Paulo havia levado para dentro do templo?\n\nA) Erasto\nB) Epafras\nC) Tíquico\nD) Trófimo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível difícil 🔥): você acerta essa? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual efésio os judeus supunham que Paulo havia levado para dentro do templo?\n\nA) Erasto\nB) Epafras\nC) Tíquico\nD) Trófimo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-3-truefalse",
+   "date": "2026-11-09",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-09T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:21:50+00:00",
+   "source": "bank",
+   "bank_id": "q963",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 25:27",
+    "ref_label": "Gênesis 25:27",
+    "question": "Como Esaú é descrito em Gênesis 25?",
+    "shown": "Um lavrador da terra",
+    "is_true": false,
+    "correct": "Um caçador habilidoso",
+    "evidence": "Esaú era um caçador habilidoso",
+    "passage": "Os meninos cresceram. Esaú era um caçador habilidoso, um homem do campo. Jacó era um homem pacato, que habitava em tendas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #deus #cristao #desafiobiblico #perguntasbiblicas #biblia #gospel #conhecimentobiblico #evangelico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #fe",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #deus #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #palavradedeus #deus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Como Esaú é descrito em Gênesis 25? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Esaú é descrito em Gênesis 25?\nResposta: Um lavrador da terra\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-2-quiz",
+   "date": "2026-11-09",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-09T07:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-09T08:21:35+00:00",
+   "source": "bank",
+   "bank_id": "q635",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 6:16",
+    "ref_label": "Provérbios 6:16",
+    "question": "Quantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?",
+    "options": [
+     "Dez",
+     "Seis, sim, sete",
+     "Três, sim, quatro",
+     "Doze"
+    ],
+    "answer": 1,
+    "evidence": "Há seis coisas que o SENHOR odeia; sim, sete",
+    "passage": "Há seis coisas que o SENHOR odeia; sim, sete que são uma abominação para ele:",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQuantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?\n\nA) Dez\nB) Seis, sim, sete\nC) Três, sim, quatro\nD) Doze\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #conhecimentobiblico #cristao #desafio #palavradedeus #jesus #fe #teste #biblia #deus",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQuantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?\n\nA) Dez\nB) Seis, sim, sete\nC) Três, sim, quatro\nD) Doze\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #desafio",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #teste",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #jesus #cristao",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQuantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?\n\nA) Dez\nB) Seis, sim, sete\nC) Três, sim, quatro\nD) Doze\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível difícil 🔥): você acerta essa? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQuantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?\n\nA) Dez\nB) Seis, sim, sete\nC) Três, sim, quatro\nD) Doze\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-09-1-verse",
+   "date": "2026-11-09",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-09T06:38",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-09T08:21:14+00:00",
+   "source": "bank",
+   "bank_id": "v248",
+   "model": null,
+   "content": {
+    "ref": "Oseias 6:3",
+    "ref_label": "Oseias 6:3",
+    "verse_text": "Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.",
+    "on_screen": "Prossigamos em conhecer o Senhor.",
+    "reflection": "Conhecer a Deus é uma caminhada diária. Tão certo como o nascer do sol, Ele aparece.",
+    "theme": "conhecer a Deus",
+    "mood": "reflexao",
+    "tags": [
+     "busca",
+     "fe"
+    ]
+   },
+   "captions": {
+    "instagram": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#busca #fe #versiculododia #versiculo #oracao #esperanca #gospel #evangelico #biblia #palavradedeus #reflexao #deus",
+    "facebook": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#busca #fe #versiculododia #versiculo",
+    "tiktok": "A presença de Deus renova nossa jornada, como o sol ao amanhecer. Salve e compartilhe! 🙏\n#busca #fe #versiculododia #versiculo #evangelico",
+    "kwai": "A presença de Deus renova nossa jornada, como o sol ao amanhecer. Salve e compartilhe! 🙏\n#busca #fe #versiculododia #versiculo #devocional",
+    "whatsapp": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Prossigamos em conhecer o Senhor. | Oseias 6:3 #shorts",
+     "description": "“Reconheçamos o SENHOR. Prossigamos em conhecer o SENHOR. Tão certo como o nascer do sol, o SENHOR aparecerá. Ele virá a nós como a chuva, como a chuva de primavera que rega a terra.” (Oseias 6:3)\n\nConhecer o Senhor é uma caminhada que se renova a cada manhã. Assim como o sol nasce sem falhar, a presença de Deus se manifesta em nossa vida, trazendo luz e esperança. Cada passo de fé nos aproxima Dele, como a chuva de primavera que nutre a terra. Salve este lembrete e compartilhe para que mais corações sejam tocados pela certeza do Seu amor. 🙏🌅\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #busca #fe #versiculododia",
+     "tags": [
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "busca",
+      "fe",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.87,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-09/2026-11-09-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
