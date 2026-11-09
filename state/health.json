@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-09T19:54:56+00:00",
+ "updated_at": "2026-11-09T21:35:51+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-8-fill",
+   "date": "2026-11-09",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-09T18:27",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T21:30:42+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-09T21:32:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/T-wie80euas",
+    "stories": "story 17991655392083047"
+   },
+   "title": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar."
+  },
   {
    "id": "2026-11-09-7-quiz",
    "date": "2026-11-09",
