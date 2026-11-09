@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-09T15:15:25+00:00",
+ "updated_at": "2026-11-09T16:34:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-09-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-09",
+   "time": "13:30",
+   "title": "Harpa e melodia no louvor",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2302798473596361"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-09-4-quiz": {
    "type": "quiz",
    "date": "2026-11-09",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 4,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 509,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1312.4
    },
    "youtube": {
     "views": 0,
@@ -50,10 +67,10 @@
    },
    "facebook": {
     "likes": 5,
-    "comments": 0,
-    "views": 721,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 1527.8
+    "comments": 1,
+    "views": 1215,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 3964.0
    }
   },
   "2026-11-09-2-quiz": {
@@ -67,11 +84,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1114062054582290"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 81,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 15.0
+    "views": 316,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1002.7
    },
    "youtube": {
     "views": 23,
@@ -476,9 +493,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1077,
+    "views": 1081,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4441.0
+    "watch_time_s": 4441.5
    },
    "youtube": {
     "views": 268,
@@ -695,9 +712,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1508,
+    "views": 1509,
     "avg_watch_s": 5.6,
-    "watch_time_s": 6368.6
+    "watch_time_s": 6370.5
    },
    "youtube": {
     "views": 135,
