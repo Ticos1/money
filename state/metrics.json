@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-09T12:59:59+00:00",
+ "updated_at": "2026-11-09T15:15:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-09-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-09",
+   "time": "12:00",
+   "title": "Qual efésio os judeus supunham que Paulo havia levado para dentro do templo?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sdDiQ0Bsk2E",
+    "instagram": "https://www.instagram.com/reel/Dfhn0KZkhKl/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/3960335834109434"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-09-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-09",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/969526585796956"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 5,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 721,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 1527.8
    }
   },
   "2026-11-09-2-quiz": {
@@ -34,13 +69,13 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 81,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 15.0
    },
    "youtube": {
-    "views": 1,
-    "likes": 0,
+    "views": 23,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -99,7 +134,7 @@
     "watch_time_s": 16.2
    },
    "youtube": {
-    "views": 96,
+    "views": 100,
     "likes": 2,
     "comments": 0
    }
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/LRLw3UZftJg"
    },
    "youtube": {
-    "views": 76,
+    "views": 79,
     "likes": 1,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 363,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1330.7
+    "views": 365,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1334.7
    }
   },
   "2026-11-08-6-truefalse": {
@@ -166,7 +201,7 @@
     "watch_time_s": 5116.6
    },
    "youtube": {
-    "views": 31,
+    "views": 36,
     "likes": 0,
     "comments": 0
    }
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 62,
+    "reach": 70,
     "saved": 0,
     "shares": 0,
-    "views": 75,
+    "views": 83,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 225.0
+    "avg_watch_s": 3.9,
+    "watch_time_s": 262.9
    },
    "facebook": {
     "likes": 0,
@@ -218,7 +253,7 @@
     "watch_time_s": 69.1
    },
    "youtube": {
-    "views": 126,
+    "views": 133,
     "likes": 2,
     "comments": 0
    }
@@ -237,7 +272,7 @@
     "comments": 0,
     "views": 1338,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5276.9
+    "watch_time_s": 5281.0
    }
   },
   "2026-11-08-2-quiz": {
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1512,
+    "views": 1513,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5866.5
+    "watch_time_s": 5869.2
    },
    "youtube": {
     "views": 45,
@@ -394,7 +429,7 @@
     "watch_time_s": 6907.8
    },
    "youtube": {
-    "views": 434,
+    "views": 436,
     "likes": 4,
     "comments": 0
    }
@@ -441,9 +476,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1076,
+    "views": 1077,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4439.6
+    "watch_time_s": 4441.0
    },
    "youtube": {
     "views": 268,
@@ -1823,7 +1858,7 @@
     "youtube": "https://youtu.be/nxEq7m2j3u0"
    },
    "youtube": {
-    "views": 5,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -4003,9 +4038,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 388,
+    "views": 389,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1435.3
+    "watch_time_s": 1435.5
    },
    "youtube": {
     "views": 31,
