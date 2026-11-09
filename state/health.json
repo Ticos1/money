@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T11:04:45+00:00",
+ "updated_at": "2026-11-09T13:00:03+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-3-truefalse",
+   "date": "2026-11-09",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-09T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-09T12:55:43+00:00",
+    "stories": "2026-11-09T12:56:19+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/969526585796956",
+    "stories": "story 18138994612676743"
+   },
+   "title": "Como Esaú é descrito em Gênesis 25?"
+  },
   {
    "id": "2026-11-09-2-quiz",
    "date": "2026-11-09",
