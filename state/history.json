@@ -1,6 +1,105 @@
 {
  "posts": [
   {
+   "id": "2026-11-09-8-fill",
+   "date": "2026-11-09",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-09T18:27",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-09T08:23:31+00:00",
+   "source": "bank",
+   "bank_id": "v004",
+   "model": null,
+   "content": {
+    "ref": "Josué 1:9",
+    "ref_label": "Josué 1:9",
+    "verse_text": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha medo. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.",
+    "question": "Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.",
+    "options": [
+     "caminho",
+     "medo",
+     "nome",
+     "escudo"
+    ],
+    "answer": 1,
+    "answer_word": "medo",
+    "tags": [
+     "coragem",
+     "forca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo #gospel #biblia #palavradedeus #cristao #quizbiblico #fe #evangelico",
+    "facebook": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodecoragem #coragem #forca #completeoversiculo",
+    "tiktok": "Versículo de coragem\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo",
+    "kwai": "Versículo de coragem\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculodecoragem #coragem #forca #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo de coragem: Josué 1:9 📖 #shorts",
+     "description": "Versículo de coragem: Josué 1:9\nQual palavra falta nesse versículo? 📖\n\n“Eu não lhe ordenei? Seja forte e corajoso. Não tenha _____. Não se apavore, pois o SENHOR, seu Deus, está com você por onde quer que você andar.”\n\nA) caminho\nB) medo\nC) nome\nD) escudo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodecoragem #coragem #forca",
+     "tags": [
+      "versículo de coragem",
+      "versículos de coragem",
+      "coragem",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "josué"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Raridade",
+     "artist": "Anderson Freire"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T21:30:42+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-09T21:32:14+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/T-wie80euas",
+    "stories": "story 17991655392083047"
+   }
+  },
+  {
    "id": "2026-11-09-7-quiz",
    "date": "2026-11-09",
    "slot": 7,
