@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-09T09:46:40+00:00",
+ "updated_at": "2026-11-09T11:04:45+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-2-quiz",
+   "date": "2026-11-09",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-09T07:57",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T11:00:44+00:00",
+    "instagram": null,
+    "facebook": "2026-11-09T11:00:49+00:00",
+    "stories": "2026-11-09T11:01:38+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/kRmYEnik6TI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1114062054582290",
+    "stories": "story 18118507148012789"
+   },
+   "title": "Quantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?"
+  },
   {
    "id": "2026-11-09-1-verse",
    "date": "2026-11-09",
