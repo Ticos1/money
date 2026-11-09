@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T19:49:37+00:00",
+ "updated_at": "2026-11-09T19:54:56+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-7-quiz",
+   "date": "2026-11-09",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-09T16:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-09T19:50:43+00:00",
+    "stories": "2026-11-09T19:51:15+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1608410347993982",
+    "stories": "story 18240376903316439"
+   },
+   "title": "Qual palavra aparece em Jeremias 12:1 referindo‑se a Deus?"
+  },
   {
    "id": "2026-11-09-6-truefalse",
    "date": "2026-11-09",
