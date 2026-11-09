@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-09T00:29:11+00:00",
- "date": "2026-11-08",
+ "updated_at": "2026-11-09T06:16:37+00:00",
+ "date": "2026-11-09",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 443,
-   "days_left": 443,
+   "fresh": 444,
+   "days_left": 444,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 992,
+   "fresh": 993,
    "days_left": 141,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-08-10-truefalse",
-   "date": "2026-11-08",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-08T21:25",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-09T00:25:39+00:00",
-    "stories": "2026-11-09T00:26:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2479740762554662",
-    "stories": "story 18117737612044908"
-   },
-   "title": "Segundo o Salmo 90, os dias dos nossos anos chegam a quanto?"
-  },
-  {
-   "id": "2026-11-08-9-quiz",
-   "date": "2026-11-08",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-08T19:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-08T22:50:40+00:00",
-    "instagram": "2026-11-08T22:51:16+00:00",
-    "facebook": "2026-11-08T22:51:20+00:00",
-    "stories": "2026-11-08T22:51:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/TFjXzY7hV6Q",
-    "instagram": "https://www.instagram.com/reel/Dff3qNclYAJ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1439506787666381",
-    "stories": "story 18058771835575755"
-   },
-   "title": "Segundo Tiago, cada um deve ser pronto para quê?"
-  },
-  {
-   "id": "2026-11-08-8-fill",
-   "date": "2026-11-08",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-08T18:39",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-08T21:40:39+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-08T21:41:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/LRLw3UZftJg",
-    "stories": "story 18169694158419818"
-   },
-   "title": "A nossa _____ tem esperado no SENHOR. Ele é o nosso auxílio e o nosso escudo."
-  },
-  {
-   "id": "2026-11-08-7-quiz",
-   "date": "2026-11-08",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-08T16:50",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-08T19:50:36+00:00",
-    "stories": "2026-11-08T19:51:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1651263283397759",
-    "stories": "story 17928220617430540"
-   },
-   "title": "Quem era o capitão da guarda que levou o restante do povo cativo para a Babilônia?"
-  },
-  {
-   "id": "2026-11-08-6-truefalse",
-   "date": "2026-11-08",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-08T15:09",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-08T18:10:34+00:00",
-    "instagram": "2026-11-08T18:11:18+00:00",
-    "facebook": "2026-11-08T18:11:24+00:00",
-    "stories": "2026-11-08T18:12:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6DPa9lk2QEo",
-    "instagram": "https://www.instagram.com/reel/DffXm1hCv4q/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/4218964168396358",
-    "stories": "story 17978924856168384"
-   },
-   "title": "Segundo Joel, o que farão os velhos quando Deus derramar o seu Espírito?"
-  },
-  {
-   "id": "2026-11-08-5-curiosity",
-   "date": "2026-11-08",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-08T13:25",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-08T16:25:35+00:00",
-    "stories": "2026-11-08T16:26:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1447724996960071",
-    "stories": "story 18126693796898105"
-   },
-   "title": "As quatro filhas profetisas"
-  },
-  {
-   "id": "2026-11-08-4-quiz",
-   "date": "2026-11-08",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-08T12:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-08T15:05:32+00:00",
-    "instagram": "2026-11-08T15:06:13+00:00",
-    "facebook": "2026-11-08T15:06:17+00:00",
-    "stories": "2026-11-08T15:06:48+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/3qI4t2kInc0",
-    "instagram": "https://www.instagram.com/reel/DffCbohmTFE/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29604428912501963",
-    "stories": "story 18351719107264165"
-   },
-   "title": "Atrás de que estava embrulhada num pano a espada de Golias, guardada pelo sacerdote?"
-  },
-  {
-   "id": "2026-11-08-3-truefalse",
-   "date": "2026-11-08",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-08T10:06",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-08T13:10:40+00:00",
-    "stories": "2026-11-08T13:11:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1711948967155835",
-    "stories": "story 17870936646661817"
-   },
-   "title": "Em que parte do corpo a pedra de Davi atingiu o filisteu?"
-  },
-  {
-   "id": "2026-11-08-2-quiz",
-   "date": "2026-11-08",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-08T08:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-08T11:10:33+00:00",
-    "instagram": null,
-    "facebook": "2026-11-08T11:10:39+00:00",
-    "stories": "2026-11-08T11:11:50+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/bzIljXDw9OQ",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2216404589298154",
-    "stories": "story 17910811278663706"
-   },
-   "title": "Quem protegeu Jeremias para que não fosse entregue ao povo?"
-  },
-  {
-   "id": "2026-11-08-1-verse",
-   "date": "2026-11-08",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-08T06:30",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-08T09:31:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18110203085260541"
-   },
-   "title": "1 Samuel 2:2"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
