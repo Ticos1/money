@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-09T16:34:14+00:00",
+ "updated_at": "2026-11-09T17:56:48+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-09-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-09",
+   "time": "15:00",
+   "title": "Que título os samaritanos deram a Jesus, depois de ouvi-lo?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/1HQRBgDmNwQ",
+    "instagram": "https://www.instagram.com/reel/Dfh6Mp_mRFk/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1015188201610410"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-09-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-09",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2302798473596361"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 172,
+    "avg_watch_s": 2.9,
+    "watch_time_s": 424.8
    }
   },
   "2026-11-09-4-quiz": {
@@ -44,11 +79,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 4,
+    "likes": 11,
     "comments": 0,
-    "views": 509,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1312.4
+    "views": 1255,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 4968.3
    },
    "youtube": {
     "views": 0,
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1215,
+    "views": 1232,
     "avg_watch_s": 4.3,
-    "watch_time_s": 3964.0
+    "watch_time_s": 4075.5
    }
   },
   "2026-11-09-2-quiz": {
@@ -84,15 +119,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1114062054582290"
    },
    "facebook": {
-    "likes": 2,
+    "likes": 3,
     "comments": 0,
-    "views": 316,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 1002.7
+    "views": 388,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1316.3
    },
    "youtube": {
-    "views": 23,
-    "likes": 1,
+    "views": 66,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 365,
+    "views": 366,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1334.7
+    "watch_time_s": 1342.3
    }
   },
   "2026-11-08-6-truefalse": {
@@ -394,7 +429,7 @@
     "youtube": "https://youtube.com/shorts/TtHbVlCE1Go"
    },
    "youtube": {
-    "views": 121,
+    "views": 123,
     "likes": 3,
     "comments": 0
    }
@@ -446,7 +481,7 @@
     "watch_time_s": 6907.8
    },
    "youtube": {
-    "views": 436,
+    "views": 439,
     "likes": 4,
     "comments": 0
    }
@@ -495,7 +530,7 @@
     "comments": 1,
     "views": 1081,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4441.5
+    "watch_time_s": 4460.2
    },
    "youtube": {
     "views": 268,
@@ -2105,9 +2140,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 7,
-    "avg_watch_s": 12.9,
-    "watch_time_s": 51.7
+    "views": 8,
+    "avg_watch_s": 10.4,
+    "watch_time_s": 51.9
    }
   },
   "2026-10-30-9-quiz": {
@@ -2829,9 +2864,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 501,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 2141.5
+    "views": 502,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 2141.7
    }
   },
   "2026-10-27-6-truefalse": {
@@ -2859,9 +2894,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 727,
+    "views": 728,
     "avg_watch_s": 6.2,
-    "watch_time_s": 3328.3
+    "watch_time_s": 3330.0
    },
    "youtube": {
     "views": 371,
@@ -3230,9 +3265,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.9,
-    "watch_time_s": 0.9
+    "views": 2,
+    "avg_watch_s": 1.3,
+    "watch_time_s": 2.6
    },
    "youtube": {
     "views": 103,
