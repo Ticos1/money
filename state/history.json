@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-09-9-quiz",
+   "date": "2026-11-09",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-09T19:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-09T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "q557",
+   "model": null,
+   "content": {
+    "ref": "Atos 8:9",
+    "ref_label": "Atos 8:9",
+    "question": "Como se chamava o homem que praticava feitiçaria em Samaria?",
+    "options": [
+     "Elimas",
+     "Simão",
+     "Barjesus",
+     "Demétrio"
+    ],
+    "answer": 1,
+    "evidence": "um certo homem, chamado Simão",
+    "passage": "Mas havia um certo homem, chamado Simão, que praticava feitiçaria na cidade e maravilhava o povo de Samaria, fazendo-se passar por alguém importante,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus #gospel #jesus #conhecimentobiblico #perguntasbiblicas #cristao #desafio #biblia #fe",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #cristao",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #gospel",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #perguntasbiblicas #desafio",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Como se chamava o homem que praticava feitiçaria em Samaria? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nComo se chamava o homem que praticava feitiçaria em Samaria?\n\nA) Elimas\nB) Simão\nC) Barjesus\nD) Demétrio\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T22:55:36+00:00",
+    "instagram": "2026-11-09T22:56:30+00:00",
+    "facebook": "2026-11-09T22:56:34+00:00",
+    "stories": "2026-11-09T22:57:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/4Yv-s6bVcgI",
+    "instagram": "https://www.instagram.com/reel/DfidB5QgsyE/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1110874128465401",
+    "stories": "story 18121810315994799"
+   }
+  },
+  {
    "id": "2026-11-09-8-fill",
    "date": "2026-11-09",
    "slot": 8,
