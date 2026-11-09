@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-09T16:34:19+00:00",
+ "updated_at": "2026-11-09T17:56:52+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-6-truefalse",
+   "date": "2026-11-09",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-09T14:50",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-09T17:50:39+00:00",
+    "instagram": "2026-11-09T17:51:59+00:00",
+    "facebook": "2026-11-09T17:52:03+00:00",
+    "stories": "2026-11-09T17:52:38+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/1HQRBgDmNwQ",
+    "instagram": "https://www.instagram.com/reel/Dfh6Mp_mRFk/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1015188201610410",
+    "stories": "story 17922561042240974"
+   },
+   "title": "Que título os samaritanos deram a Jesus, depois de ouvi-lo?"
+  },
   {
    "id": "2026-11-09-5-curiosity",
    "date": "2026-11-09",
