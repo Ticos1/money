@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T00:40:17+00:00",
+ "updated_at": "2026-11-10T03:32:43+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -35,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 74,
     "saved": 0,
     "shares": 0,
-    "views": 15,
+    "views": 94,
     "total_interactions": 0,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 63.1
+    "avg_watch_s": 4.5,
+    "watch_time_s": 333.1
    },
    "facebook": {
     "likes": 0,
@@ -51,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 1,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -66,8 +66,8 @@
     "youtube": "https://youtube.com/shorts/T-wie80euas"
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 10,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -113,13 +113,13 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 290,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1135.2
+    "views": 292,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1146.9
    },
    "youtube": {
-    "views": 32,
-    "likes": 0,
+    "views": 53,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -154,23 +154,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 13,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 3.4,
-    "watch_time_s": 44.2
+    "avg_watch_s": 3.3,
+    "watch_time_s": 45.9
    },
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2105,
+    "views": 2127,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9268.4
+    "watch_time_s": 9373.3
    },
    "youtube": {
-    "views": 32,
+    "views": 60,
     "likes": 1,
     "comments": 0
    }
@@ -187,9 +187,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1269,
+    "views": 1278,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4207.8
+    "watch_time_s": 4267.2
    }
   },
   "2026-11-09-2-quiz": {
@@ -205,12 +205,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 650,
+    "views": 658,
     "avg_watch_s": 6.2,
-    "watch_time_s": 3118.8
+    "watch_time_s": 3152.4
    },
    "youtube": {
-    "views": 143,
+    "views": 169,
     "likes": 3,
     "comments": 0
    }
@@ -285,7 +285,7 @@
     "youtube": "https://youtube.com/shorts/LRLw3UZftJg"
    },
    "youtube": {
-    "views": 99,
+    "views": 110,
     "likes": 1,
     "comments": 0
    }
@@ -337,7 +337,7 @@
     "watch_time_s": 5118.8
    },
    "youtube": {
-    "views": 47,
+    "views": 54,
     "likes": 0,
     "comments": 0
    }
@@ -389,7 +389,7 @@
     "watch_time_s": 79.8
    },
    "youtube": {
-    "views": 151,
+    "views": 157,
     "likes": 2,
     "comments": 0
    }
@@ -406,9 +406,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1343,
+    "views": 1344,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5287.1
+    "watch_time_s": 5287.8
    }
   },
   "2026-11-08-2-quiz": {
@@ -853,9 +853,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 369,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 1143.5
+    "views": 371,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 1159.3
    }
   },
   "2026-11-06-2-quiz": {
@@ -1187,9 +1187,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 2002,
+    "views": 2005,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9430.6
+    "watch_time_s": 9450.6
    }
   },
   "2026-11-04-6-truefalse": {
@@ -2540,9 +2540,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1446,
+    "views": 1448,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6094.4
+    "watch_time_s": 6104.5
    },
    "youtube": {
     "views": 192,
@@ -3536,7 +3536,7 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -6400,9 +6400,9 @@
    "facebook": {
     "likes": 3,
     "comments": 2,
-    "views": 952,
+    "views": 953,
     "avg_watch_s": 3.7,
-    "watch_time_s": 3111.9
+    "watch_time_s": 3112.5
    }
   },
   "2026-10-13-5-curiosity": {
