@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-11-10-1-verse",
+   "date": "2026-11-10",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-10T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:26:18+00:00",
+   "source": "bank",
+   "bank_id": "v474",
+   "model": null,
+   "content": {
+    "ref": "Salmos 84:5",
+    "ref_label": "Salmos 84:5",
+    "verse_text": "Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.",
+    "on_screen": "Feliz é quem encontra a força em Deus.",
+    "reflection": "O salmo fala dos peregrinos que seguiam rumo ao templo, fortalecidos pelo Senhor. Na sua caminhada, busque a força em Deus e mantenha o coração voltado para Ele.",
+    "theme": "força",
+    "mood": "alegria",
+    "tags": [
+     "forca",
+     "caminhada"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeforca #forca #caminhada #versiculododia #versiculo #fe #jesus #reflexao #deus #esperanca #gospel #biblia",
+    "facebook": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeforca #forca #caminhada #versiculododia",
+    "tiktok": "Versículo de força\nConfie no Senhor e fortaleça seu coração na caminhada. Salve e compartilhe!\n#versiculodeforca #forca #caminhada #versiculododia #versiculo",
+    "kwai": "Versículo de força\nConfie no Senhor e fortaleça seu coração na caminhada. Salve e compartilhe!\n#versiculodeforca #forca #caminhada #versiculododia #versiculo",
+    "whatsapp": "“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de força: Salmos 84:5 🙏 #shorts",
+     "description": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeforca #forca #caminhada",
+     "tags": [
+      "versículo de força",
+      "versículos de força",
+      "força",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "caminhada",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-10T09:21:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18112125263093206"
+   }
+  },
+  {
    "id": "2026-11-09-10-truefalse",
    "date": "2026-11-09",
    "slot": 10,
