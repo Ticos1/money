@@ -1,3 +1,999 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-10-10-truefalse",
+   "date": "2026-11-10",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-10T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:30:31+00:00",
+   "source": "bank",
+   "bank_id": "q325",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 49:9",
+    "ref_label": "Gênesis 49:9",
+    "question": "Com que animal Jacó comparou seu filho Judá?",
+    "shown": "Uma águia",
+    "is_true": false,
+    "correct": "Um filhote de leão",
+    "evidence": "Judá é um filhote de leão",
+    "passage": "Judá é um filhote de leão. Da presa, meu filho, você subiu. Ele se abaixou, ele se deitou como um leão, como uma leoa. Quem o despertará?",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus #fe #perguntasbiblicas #cristao #desafiobiblico #gospel #evangelico #conhecimentobiblico #biblia",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #fe #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Com que animal Jacó comparou seu filho Judá? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-9-quiz",
+   "date": "2026-11-10",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-10T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-10T08:30:07+00:00",
+   "source": "bank",
+   "bank_id": "q671",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 6:25",
+    "ref_label": "2 Reis 6:25",
+    "question": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento?",
+    "options": [
+     "Dez peças de prata",
+     "Oitenta peças de prata",
+     "Trinta peças de prata",
+     "Uma peça de ouro"
+    ],
+    "answer": 1,
+    "evidence": "oitenta peças de prata",
+    "passage": "Houve uma grande fome em Samaria. Eis que a cercaram até que a cabeça de um jumento fosse vendida por oitenta peças de prata, e a quarta parte de um cabo de esterco de pomba por cinco peças de prata.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe #desafio #teste #jesus #conhecimentobiblico #cristao #deus #evangelico #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #gospel",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #deus #fe",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-8-fill",
+   "date": "2026-11-10",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-10T18:32",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-10T08:29:37+00:00",
+   "source": "bank",
+   "bank_id": "v412",
+   "model": null,
+   "content": {
+    "ref": "Lucas 15:10",
+    "ref_label": "Lucas 15:10",
+    "verse_text": "Da mesma forma, eu lhes digo, há alegria na presença dos anjos de Deus por um pecador que se arrepende.",
+    "question": "Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.",
+    "options": [
+     "alegria",
+     "sabedoria",
+     "esperança",
+     "vida"
+    ],
+    "answer": 0,
+    "answer_word": "alegria",
+    "tags": [
+     "alegria",
+     "arrependimento"
+    ]
+   },
+   "captions": {
+    "instagram": "Complete o versículo! 90% erra essa palavra 📖\n\n“Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.”\n\nA) alegria\nB) sabedoria\nC) esperança\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #arrependimento #completeoversiculo #versiculo #gospel #biblia #fe #deus #quizbiblico #jesus #cristao #palavradedeus",
+    "facebook": "Complete o versículo! 90% erra essa palavra 📖\n\n“Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.”\n\nA) alegria\nB) sabedoria\nC) esperança\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#alegria #arrependimento #completeoversiculo #versiculo",
+    "tiktok": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#alegria #arrependimento #completeoversiculo #versiculo #evangelico",
+    "kwai": "Complete o versículo! 90% erra essa palavra 📖\nComente a letra: A, B, C ou D 👇\n#alegria #arrependimento #completeoversiculo #versiculo #evangelico",
+    "whatsapp": "*Complete o versículo! 90% erra essa palavra* 📖\n\n“Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.”\n\nA) alegria\nB) sabedoria\nC) esperança\nD) vida\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Lucas 15:10 📖 Você sabe de cor? #shorts",
+     "description": "Complete o versículo! 90% erra essa palavra 📖\n\n“Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.”\n\nA) alegria\nB) sabedoria\nC) esperança\nD) vida\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #alegria #arrependimento #completeoversiculo",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "alegria",
+      "arrependimento",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-7-quiz",
+   "date": "2026-11-10",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-10T17:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-10T08:29:08+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "2 Crônicas 4:5",
+    "ref_label": "2 Crônicas 4:5",
+    "question": "Quantos batos o mar podia receber?",
+    "options": [
+     "três mil batos",
+     "cinco mil batos",
+     "duas mil bacias",
+     "quatro mil pias"
+    ],
+    "answer": 0,
+    "evidence": "três mil batos",
+    "passage": "Tinha a espessura de um palmo. Sua borda foi feita como a borda de um cálice, como a flor de um lírio. Ele recebia e comportava três mil batos.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nQuantos batos o mar podia receber?\n\nA) três mil batos\nB) cinco mil batos\nC) duas mil bacias\nD) quatro mil pias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #cristao #perguntasbiblicas #fe #deus #biblia #conhecimentobiblico #palavradedeus #teste",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nQuantos batos o mar podia receber?\n\nA) três mil batos\nB) cinco mil batos\nC) duas mil bacias\nD) quatro mil pias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #gospel #perguntasbiblicas",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #biblia #conhecimentobiblico",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nQuantos batos o mar podia receber?\n\nA) três mil batos\nB) cinco mil batos\nC) duas mil bacias\nD) quatro mil pias\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos batos o mar podia receber? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nQuantos batos o mar podia receber?\n\nA) três mil batos\nB) cinco mil batos\nC) duas mil bacias\nD) quatro mil pias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 crônicas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.83,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-6-truefalse",
+   "date": "2026-11-10",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-10T15:08",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:28:39+00:00",
+   "source": "bank",
+   "bank_id": "q726",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 22:1",
+    "ref_label": "1 Samuel 22:1",
+    "question": "Para qual caverna Davi escapou, onde sua família foi ao seu encontro?",
+    "shown": "Adulão",
+    "is_true": true,
+    "correct": "Adulão",
+    "evidence": "escapou para a caverna de Adulão",
+    "passage": "Davi, portanto, partiu dali e escapou para a caverna de Adulão. Quando os seus irmãos e toda a casa de seu pai ouviram isso, desceram até lá para se juntar a ele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nPara qual caverna Davi escapou, onde sua família foi ao seu encontro?\nResposta: Adulão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #fe #desafiobiblico #evangelico #cristao #gospel #biblia #conhecimentobiblico #jesus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nPara qual caverna Davi escapou, onde sua família foi ao seu encontro?\nResposta: Adulão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #desafiobiblico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #cristao #palavradedeus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nPara qual caverna Davi escapou, onde sua família foi ao seu encontro?\nResposta: Adulão\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nPara qual caverna Davi escapou, onde sua família foi ao seu encontro?\nResposta: Adulão\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-5-curiosity",
+   "date": "2026-11-10",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-10T13:33",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-10T08:28:13+00:00",
+   "source": "bank",
+   "bank_id": "c079",
+   "model": null,
+   "content": {
+    "ref": "Atos 2:41",
+    "ref_label": "Atos 2:41",
+    "title": "3 mil em um dia",
+    "text": "No dia de Pentecostes, depois da pregação de Pedro, cerca de três mil pessoas foram acrescentadas à igreja.",
+    "evidence": "cerca de três mil almas",
+    "passage": "Então, os que receberam de bom grado a sua palavra foram batizados. Naquele dia, foram acrescentadas cerca de três mil almas.",
+    "tags": [
+     "pentecostes",
+     "igreja"
+    ]
+   },
+   "captions": {
+    "instagram": "Curiosidade bíblica que pouca gente conhece 📖\n\n3 mil em um dia\n\nNo dia de Pentecostes, depois da pregação de Pedro, cerca de três mil pessoas foram acrescentadas à igreja. (Atos 2:41)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pentecostes #igreja #vocesabia #curiosidadesbiblicas #estudobiblico #biblia #palavradedeus #historiabiblica #fe #jesus #deus #evangelico",
+    "facebook": "Curiosidade bíblica que pouca gente conhece 📖\n\n3 mil em um dia\n\nNo dia de Pentecostes, depois da pregação de Pedro, cerca de três mil pessoas foram acrescentadas à igreja. (Atos 2:41)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#pentecostes #igreja #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Curiosidade bíblica que pouca gente conhece 📖 3 mil em um dia\nCompartilhe com quem vai gostar de saber disso.\n#pentecostes #igreja #vocesabia #curiosidadesbiblicas #gospel",
+    "kwai": "Curiosidade bíblica que pouca gente conhece 📖 3 mil em um dia\nCompartilhe com quem vai gostar de saber disso.\n#pentecostes #igreja #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "whatsapp": "*Curiosidade bíblica que pouca gente conhece* 📖\n\n3 mil em um dia\n\nNo dia de Pentecostes, depois da pregação de Pedro, cerca de três mil pessoas foram acrescentadas à igreja. (Atos 2:41)\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? 3 mil em um dia #shorts",
+     "description": "Curiosidade bíblica que pouca gente conhece 📖\n\n3 mil em um dia\n\nNo dia de Pentecostes, depois da pregação de Pedro, cerca de três mil pessoas foram acrescentadas à igreja. (Atos 2:41)\n\nCompartilhe com quem vai gostar de saber disso.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #pentecostes #igreja #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "pentecostes",
+      "igreja",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Curiosidade bíblica que pouca gente conhece",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.63,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-4-quiz",
+   "date": "2026-11-10",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-10T12:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-10T08:27:44+00:00",
+   "source": "bank",
+   "bank_id": "q1246",
+   "model": null,
+   "content": {
+    "ref": "João 4:28",
+    "ref_label": "João 4:28",
+    "question": "O que a mulher samaritana deixou para trás ao correr para a cidade?",
+    "options": [
+     "A sua corda",
+     "O seu cântaro",
+     "O seu véu",
+     "A sua bolsa"
+    ],
+    "answer": 1,
+    "evidence": "deixou o seu cântaro",
+    "passage": "Então a mulher deixou o seu cântaro, foi à cidade e disse ao povo:",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nO que a mulher samaritana deixou para trás ao correr para a cidade?\n\nA) A sua corda\nB) O seu cântaro\nC) O seu véu\nD) A sua bolsa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #deus #desafio #conhecimentobiblico #fe #palavradedeus #evangelico #perguntasbiblicas #cristao #jesus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nO que a mulher samaritana deixou para trás ao correr para a cidade?\n\nA) A sua corda\nB) O seu cântaro\nC) O seu véu\nD) A sua bolsa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #evangelico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #evangelico #desafio",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #biblia #conhecimentobiblico",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nO que a mulher samaritana deixou para trás ao correr para a cidade?\n\nA) A sua corda\nB) O seu cântaro\nC) O seu véu\nD) A sua bolsa\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "O que a mulher samaritana deixou para trás ao correr para a cidade? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nO que a mulher samaritana deixou para trás ao correr para a cidade?\n\nA) A sua corda\nB) O seu cântaro\nC) O seu véu\nD) A sua bolsa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-3-truefalse",
+   "date": "2026-11-10",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-10T10:04",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:27:14+00:00",
+   "source": "bank",
+   "bank_id": "q1126",
+   "model": null,
+   "content": {
+    "ref": "Zacarias 5:2",
+    "ref_label": "Zacarias 5:2",
+    "question": "Qual era o comprimento do rolo voando que Zacarias viu?",
+    "shown": "Vinte côvados",
+    "is_true": true,
+    "correct": "Vinte côvados",
+    "evidence": "seu comprimento é de vinte côvados",
+    "passage": "Ele me disse: “O que você vê?” Eu respondi: “Vejo um rolo voando; seu comprimento é de vinte côvados, e sua largura de dez côvados.”",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era o comprimento do rolo voando que Zacarias viu?\nResposta: Vinte côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #fe #desafiobiblico #jesus #deus #perguntasbiblicas #conhecimentobiblico #evangelico #gospel #cristao",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era o comprimento do rolo voando que Zacarias viu?\nResposta: Vinte côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #perguntasbiblicas #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #palavradedeus #fe",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual era o comprimento do rolo voando que Zacarias viu?\nResposta: Vinte côvados\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual era o comprimento do rolo voando que Zacarias viu?\nResposta: Vinte côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "zacarias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-2-quiz",
+   "date": "2026-11-10",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-10T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-10T08:26:49+00:00",
+   "source": "bank",
+   "bank_id": "q718",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 8:2",
+    "ref_label": "1 Samuel 8:2",
+    "question": "Como se chamavam os dois filhos de Samuel, juízes em Berseba?",
+    "options": [
+     "Joel e Abias",
+     "Hofni e Fineias",
+     "Malom e Quiliom",
+     "Er e Onã"
+    ],
+    "answer": 0,
+    "evidence": "Joel, e o nome do seu segundo filho, Abias",
+    "passage": "O nome do seu primogênito era Joel, e o nome do seu segundo filho, Abias. Eles eram juízes em Berseba.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nComo se chamavam os dois filhos de Samuel, juízes em Berseba?\n\nA) Joel e Abias\nB) Hofni e Fineias\nC) Malom e Quiliom\nD) Er e Onã\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe #desafio #evangelico #conhecimentobiblico #palavradedeus #perguntasbiblicas #gospel #biblia #jesus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nComo se chamavam os dois filhos de Samuel, juízes em Berseba?\n\nA) Joel e Abias\nB) Hofni e Fineias\nC) Malom e Quiliom\nD) Er e Onã\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #desafio",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #biblia",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #gospel #deus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nComo se chamavam os dois filhos de Samuel, juízes em Berseba?\n\nA) Joel e Abias\nB) Hofni e Fineias\nC) Malom e Quiliom\nD) Er e Onã\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Como se chamavam os dois filhos de Samuel, juízes em Berseba? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nComo se chamavam os dois filhos de Samuel, juízes em Berseba?\n\nA) Joel e Abias\nB) Hofni e Fineias\nC) Malom e Quiliom\nD) Er e Onã\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-10-1-verse",
+   "date": "2026-11-10",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-10T06:20",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:26:18+00:00",
+   "source": "bank",
+   "bank_id": "v474",
+   "model": null,
+   "content": {
+    "ref": "Salmos 84:5",
+    "ref_label": "Salmos 84:5",
+    "verse_text": "Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.",
+    "on_screen": "Feliz é quem encontra a força em Deus.",
+    "reflection": "O salmo fala dos peregrinos que seguiam rumo ao templo, fortalecidos pelo Senhor. Na sua caminhada, busque a força em Deus e mantenha o coração voltado para Ele.",
+    "theme": "força",
+    "mood": "alegria",
+    "tags": [
+     "forca",
+     "caminhada"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeforca #forca #caminhada #versiculododia #versiculo #fe #jesus #reflexao #deus #esperanca #gospel #biblia",
+    "facebook": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeforca #forca #caminhada #versiculododia",
+    "tiktok": "Versículo de força\nConfie no Senhor e fortaleça seu coração na caminhada. Salve e compartilhe!\n#versiculodeforca #forca #caminhada #versiculododia #versiculo",
+    "kwai": "Versículo de força\nConfie no Senhor e fortaleça seu coração na caminhada. Salve e compartilhe!\n#versiculodeforca #forca #caminhada #versiculododia #versiculo",
+    "whatsapp": "“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de força: Salmos 84:5 🙏 #shorts",
+     "description": "Versículo de força: Salmos 84:5\n“Bem-aventurados aqueles cuja força está em você, que colocaram os seus corações na peregrinação.” (Salmos 84:5)\n\nO Salmo nos lembra dos peregrinos que, ao seguir rumo ao templo, encontravam sua força no Senhor. Na sua caminhada diária, busque essa mesma confiança: entregue seu coração a Deus e sinta o apoio divino guiando cada passo. Salve este lembrete e compartilhe com quem precisa de encorajamento nesta jornada de fé.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeforca #forca #caminhada",
+     "tags": [
+      "versículo de força",
+      "versículos de força",
+      "força",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "caminhada",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 18.18,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-10/2026-11-10-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
