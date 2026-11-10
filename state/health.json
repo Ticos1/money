@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T11:15:16+00:00",
+ "updated_at": "2026-11-10T13:10:16+00:00",
  "date": "2026-11-10",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-10-3-truefalse",
+   "date": "2026-11-10",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-10T10:04",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-10T13:05:44+00:00",
+    "stories": "2026-11-10T13:06:33+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2666225203825160",
+    "stories": "story 18114614026884944"
+   },
+   "title": "Qual era o comprimento do rolo voando que Zacarias viu?"
+  },
   {
    "id": "2026-11-10-2-quiz",
    "date": "2026-11-10",
