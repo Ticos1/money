@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-10T14:50:38+00:00",
+ "updated_at": "2026-11-10T15:10:37+00:00",
  "date": "2026-11-10",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-10-4-quiz",
+   "date": "2026-11-10",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-10T12:01",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-10T15:05:43+00:00",
+    "instagram": "2026-11-10T15:06:17+00:00",
+    "facebook": "2026-11-10T15:06:21+00:00",
+    "stories": "2026-11-10T15:06:54+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/f7psFz0pXKE",
+    "instagram": "https://www.instagram.com/reel/DfkMCgbm83y/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1868302404397969",
+    "stories": "story 17988135377892214"
+   },
+   "title": "O que a mulher samaritana deixou para trás ao correr para a cidade?"
+  },
   {
    "id": "2026-11-10-3-truefalse",
    "date": "2026-11-10",
