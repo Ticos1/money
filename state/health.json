@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-10T09:25:15+00:00",
+ "updated_at": "2026-11-10T11:15:16+00:00",
  "date": "2026-11-10",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-10-2-quiz",
+   "date": "2026-11-10",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-10T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-10T11:10:41+00:00",
+    "instagram": null,
+    "facebook": "2026-11-10T11:10:48+00:00",
+    "stories": "2026-11-10T11:11:30+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ov8VU8nebI0",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1668517017963224",
+    "stories": "story 17963148315214874"
+   },
+   "title": "Como se chamavam os dois filhos de Samuel, juízes em Berseba?"
+  },
   {
    "id": "2026-11-10-1-verse",
    "date": "2026-11-10",
