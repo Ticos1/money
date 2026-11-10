@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-10T11:15:10+00:00",
+ "updated_at": "2026-11-10T13:10:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-10",
+   "time": "10:00",
+   "title": "Qual era o comprimento do rolo voando que Zacarias viu?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2666225203825160"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-10-2-quiz": {
    "type": "quiz",
    "date": "2026-11-10",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1668517017963224"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 113,
+    "avg_watch_s": 7.3,
+    "watch_time_s": 486.9
    },
    "youtube": {
     "views": 0,
@@ -97,7 +114,7 @@
     "youtube": "https://youtube.com/shorts/T-wie80euas"
    },
    "youtube": {
-    "views": 11,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -166,7 +183,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 222,
+    "views": 223,
     "avg_watch_s": 3.2,
     "watch_time_s": 652.1
    }
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2129,
+    "views": 2133,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9379.0
+    "watch_time_s": 9387.2
    },
    "youtube": {
     "views": 81,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1290,
+    "views": 1297,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4309.2
+    "watch_time_s": 4330.7
    }
   },
   "2026-11-09-2-quiz": {
@@ -455,9 +472,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1517,
+    "views": 1518,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5890.5
+    "watch_time_s": 5892.9
    },
    "youtube": {
     "views": 46,
@@ -1340,9 +1357,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 260,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 1021.1
+    "views": 261,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1021.8
    },
    "youtube": {
     "views": 48,
