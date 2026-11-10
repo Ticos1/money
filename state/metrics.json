@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-10T16:38:59+00:00",
+ "updated_at": "2026-11-10T18:16:11+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-10",
+   "time": "15:00",
+   "title": "Para qual caverna Davi escapou, onde sua família foi ao seu encontro?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/y3QCXMMZNcA",
+    "instagram": "https://www.instagram.com/reel/DfkhRo1CDoS/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2010352596590250"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-10-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-10",
@@ -44,11 +79,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 1,
-    "comments": 0,
-    "views": 227,
-    "avg_watch_s": 7.1,
-    "watch_time_s": 1114.8
+    "likes": 2,
+    "comments": 1,
+    "views": 686,
+    "avg_watch_s": 7.7,
+    "watch_time_s": 3491.0
    },
    "youtube": {
     "views": 0,
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 291,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 1168.8
+    "views": 348,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 1471.6
    }
   },
   "2026-11-10-2-quiz": {
@@ -86,9 +121,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 422,
-    "avg_watch_s": 9.4,
-    "watch_time_s": 2646.6
+    "views": 506,
+    "avg_watch_s": 8.5,
+    "watch_time_s": 3149.2
    },
    "youtube": {
     "views": 2,
@@ -138,7 +173,7 @@
     "reach": 98,
     "saved": 0,
     "shares": 0,
-    "views": 119,
+    "views": 120,
     "total_interactions": 0,
     "avg_watch_s": 4.2,
     "watch_time_s": 416.3
@@ -151,7 +186,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 28,
+    "views": 29,
     "likes": 0,
     "comments": 0
    }
@@ -166,7 +201,7 @@
     "youtube": "https://youtube.com/shorts/T-wie80euas"
    },
    "youtube": {
-    "views": 13,
+    "views": 15,
     "likes": 1,
     "comments": 0
    }
@@ -213,9 +248,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 295,
+    "views": 297,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1165.3
+    "watch_time_s": 1178.4
    },
    "youtube": {
     "views": 67,
@@ -287,9 +322,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1314,
+    "views": 1315,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4401.4
+    "watch_time_s": 4402.8
    }
   },
   "2026-11-09-2-quiz": {
@@ -305,12 +340,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 659,
+    "views": 663,
     "avg_watch_s": 6.2,
-    "watch_time_s": 3153.2
+    "watch_time_s": 3169.2
    },
    "youtube": {
-    "views": 191,
+    "views": 192,
     "likes": 4,
     "comments": 0
    }
@@ -370,7 +405,7 @@
     "watch_time_s": 16.2
    },
    "youtube": {
-    "views": 104,
+    "views": 105,
     "likes": 2,
     "comments": 0
    }
@@ -385,7 +420,7 @@
     "youtube": "https://youtube.com/shorts/LRLw3UZftJg"
    },
    "youtube": {
-    "views": 113,
+    "views": 112,
     "likes": 1,
     "comments": 0
    }
@@ -489,7 +524,7 @@
     "watch_time_s": 79.8
    },
    "youtube": {
-    "views": 159,
+    "views": 160,
     "likes": 2,
     "comments": 0
    }
@@ -832,7 +867,7 @@
     "youtube": "https://youtube.com/shorts/D4jPqEC-t38"
    },
    "youtube": {
-    "views": 68,
+    "views": 69,
     "likes": 1,
     "comments": 0
    }
