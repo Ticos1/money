@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-10T21:39:58+00:00",
+ "updated_at": "2026-11-10T23:16:32+00:00",
  "date": "2026-11-10",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-10-9-quiz",
+   "date": "2026-11-10",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-10T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-10T23:10:32+00:00",
+    "instagram": "2026-11-10T23:11:08+00:00",
+    "facebook": "2026-11-10T23:11:14+00:00",
+    "stories": "2026-11-10T23:11:48+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/bnG6IzcDqSA",
+    "instagram": "https://www.instagram.com/reel/DflDhbPnY1H/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1798635444578146",
+    "stories": "story 18080285717431494"
+   },
+   "title": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento?"
+  },
   {
    "id": "2026-11-10-8-fill",
    "date": "2026-11-10",
