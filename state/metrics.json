@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-10T15:10:34+00:00",
+ "updated_at": "2026-11-10T16:38:59+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-10",
+   "time": "13:30",
+   "title": "3 mil em um dia",
+   "hook": "Curiosidade bíblica que pouca gente conhece",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1626107455045810"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-10-4-quiz": {
    "type": "quiz",
    "date": "2026-11-10",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 227,
+    "avg_watch_s": 7.1,
+    "watch_time_s": 1114.8
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2666225203825160"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 162,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 565.4
+    "views": 291,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 1168.8
    }
   },
   "2026-11-10-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 291,
-    "avg_watch_s": 11.9,
-    "watch_time_s": 2066.4
+    "views": 422,
+    "avg_watch_s": 9.4,
+    "watch_time_s": 2646.6
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/T-wie80euas"
    },
    "youtube": {
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2136,
+    "views": 2138,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9394.9
+    "watch_time_s": 9424.5
    },
    "youtube": {
     "views": 81,
@@ -270,9 +287,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1308,
+    "views": 1314,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4369.9
+    "watch_time_s": 4401.4
    }
   },
   "2026-11-09-2-quiz": {
@@ -293,7 +310,7 @@
     "watch_time_s": 3153.2
    },
    "youtube": {
-    "views": 190,
+    "views": 191,
     "likes": 4,
     "comments": 0
    }
@@ -368,7 +385,7 @@
     "youtube": "https://youtube.com/shorts/LRLw3UZftJg"
    },
    "youtube": {
-    "views": 111,
+    "views": 113,
     "likes": 1,
     "comments": 0
    }
@@ -489,9 +506,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1344,
+    "views": 1345,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5287.8
+    "watch_time_s": 5288.2
    }
   },
   "2026-11-08-2-quiz": {
@@ -1238,7 +1255,7 @@
     "watch_time_s": 13.7
    },
    "youtube": {
-    "views": 11,
+    "views": 16,
     "likes": 1,
     "comments": 0
    }
@@ -3250,9 +3267,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1364,
+    "views": 1366,
     "avg_watch_s": 5.8,
-    "watch_time_s": 5875.0
+    "watch_time_s": 5885.1
    }
   },
   "2026-10-26-6-truefalse": {
