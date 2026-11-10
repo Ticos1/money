@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T23:01:35+00:00",
+ "updated_at": "2026-11-10T00:40:20+00:00",
  "date": "2026-11-09",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-09-10-truefalse",
+   "date": "2026-11-09",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-09T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-10T00:35:41+00:00",
+    "stories": "2026-11-10T00:36:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1582339603643642",
+    "stories": "story 18138522784736612"
+   },
+   "title": "Qual era o nome do judeu em Susã, filho de Jair, um benjamita?"
+  },
   {
    "id": "2026-11-09-9-quiz",
    "date": "2026-11-09",
