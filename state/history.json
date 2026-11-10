@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-10-9-quiz",
+   "date": "2026-11-10",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-10T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-10T08:30:07+00:00",
+   "source": "bank",
+   "bank_id": "q671",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 6:25",
+    "ref_label": "2 Reis 6:25",
+    "question": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento?",
+    "options": [
+     "Dez peças de prata",
+     "Oitenta peças de prata",
+     "Trinta peças de prata",
+     "Uma peça de ouro"
+    ],
+    "answer": 1,
+    "evidence": "oitenta peças de prata",
+    "passage": "Houve uma grande fome em Samaria. Eis que a cercaram até que a cabeça de um jumento fosse vendida por oitenta peças de prata, e a quarta parte de um cabo de esterco de pomba por cinco peças de prata.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe #desafio #teste #jesus #conhecimentobiblico #cristao #deus #evangelico #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #gospel",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #deus #fe",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nNa fome de Samaria, por quanto foi vendida a cabeça de um jumento?\n\nA) Dez peças de prata\nB) Oitenta peças de prata\nC) Trinta peças de prata\nD) Uma peça de ouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-10T23:10:32+00:00",
+    "instagram": "2026-11-10T23:11:08+00:00",
+    "facebook": "2026-11-10T23:11:14+00:00",
+    "stories": "2026-11-10T23:11:48+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/bnG6IzcDqSA",
+    "instagram": "https://www.instagram.com/reel/DflDhbPnY1H/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1798635444578146",
+    "stories": "story 18080285717431494"
+   }
+  },
+  {
    "id": "2026-11-10-8-fill",
    "date": "2026-11-10",
    "slot": 8,
