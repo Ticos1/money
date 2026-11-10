@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-10T21:20:25+00:00",
+ "updated_at": "2026-11-10T21:39:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-8-fill": {
+   "type": "fill",
+   "date": "2026-11-10",
+   "time": "18:30",
+   "title": "Da mesma forma, eu lhes digo, há _____ na presença dos anjos de Deus por um pecador que se arrepende.",
+   "hook": "Complete o versículo! 90% erra essa palavra",
+   "links": {
+    "youtube": "https://youtube.com/shorts/F16079D9xwM"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-10-7-quiz": {
    "type": "quiz",
    "date": "2026-11-10",
@@ -38,7 +53,7 @@
     "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 9,
     "total_interactions": 0,
     "avg_watch_s": 4.7,
     "watch_time_s": 18.9
@@ -46,9 +61,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 279,
+    "views": 282,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1026.4
+    "watch_time_s": 1031.2
    },
    "youtube": {
     "views": 0,
@@ -90,7 +105,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
@@ -98,9 +113,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1446,
+    "views": 1473,
     "avg_watch_s": 7.6,
-    "watch_time_s": 7670.9
+    "watch_time_s": 7799.7
    },
    "youtube": {
     "views": 0,
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 362,
+    "views": 365,
     "avg_watch_s": 5.9,
-    "watch_time_s": 1534.2
+    "watch_time_s": 1536.4
    }
   },
   "2026-11-10-2-quiz": {
@@ -138,9 +153,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 543,
-    "avg_watch_s": 8.9,
-    "watch_time_s": 3472.4
+    "views": 549,
+    "avg_watch_s": 8.8,
+    "watch_time_s": 3506.1
    },
    "youtube": {
     "views": 2,
@@ -339,9 +354,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1322,
+    "views": 1324,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4419.8
+    "watch_time_s": 4420.5
    }
   },
   "2026-11-09-2-quiz": {
@@ -359,7 +374,7 @@
     "comments": 0,
     "views": 669,
     "avg_watch_s": 6.2,
-    "watch_time_s": 3193.2
+    "watch_time_s": 3201.6
    },
    "youtube": {
     "views": 193,
