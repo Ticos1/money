@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-10T09:04:07+00:00",
+ "updated_at": "2026-11-10T09:25:13+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-1-verse": {
+   "type": "verse",
+   "date": "2026-11-10",
+   "time": "06:30",
+   "title": "Salmos 84:5",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-09-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-09",
@@ -35,13 +43,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 93,
+    "reach": 94,
     "saved": 0,
     "shares": 0,
-    "views": 114,
+    "views": 115,
     "total_interactions": 0,
     "avg_watch_s": 4.4,
-    "watch_time_s": 412.9
+    "watch_time_s": 413.5
    },
    "facebook": {
     "likes": 0,
@@ -51,7 +59,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 27,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -170,7 +178,7 @@
     "watch_time_s": 9377.1
    },
    "youtube": {
-    "views": 76,
+    "views": 80,
     "likes": 2,
     "comments": 0
    }
@@ -187,7 +195,7 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1278,
+    "views": 1279,
     "avg_watch_s": 4.3,
     "watch_time_s": 4267.2
    }
@@ -210,7 +218,7 @@
     "watch_time_s": 3152.4
    },
    "youtube": {
-    "views": 187,
+    "views": 190,
     "likes": 4,
     "comments": 0
    }
