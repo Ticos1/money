@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-10T21:39:55+00:00",
+ "updated_at": "2026-11-10T23:16:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "title": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/bnG6IzcDqSA",
+    "instagram": "https://www.instagram.com/reel/DflDhbPnY1H/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1798635444578146"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-10-8-fill": {
    "type": "fill",
    "date": "2026-11-10",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 5.2
+    "views": 4,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 13.9
    }
   },
   "2026-11-10-6-truefalse": {
@@ -50,20 +85,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 17,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 23,
     "total_interactions": 0,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 18.9
+    "avg_watch_s": 3.7,
+    "watch_time_s": 66.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 282,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1031.2
+    "views": 314,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1141.4
    },
    "youtube": {
     "views": 0,
@@ -102,20 +137,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.3,
+    "watch_time_s": 23.2
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1473,
-    "avg_watch_s": 7.6,
-    "watch_time_s": 7799.7
+    "views": 1599,
+    "avg_watch_s": 7.5,
+    "watch_time_s": 8490.4
    },
    "youtube": {
     "views": 0,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 365,
+    "views": 368,
     "avg_watch_s": 5.9,
-    "watch_time_s": 1536.4
+    "watch_time_s": 1566.9
    }
   },
   "2026-11-10-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 549,
+    "views": 571,
     "avg_watch_s": 8.8,
-    "watch_time_s": 3506.1
+    "watch_time_s": 3635.3
    },
    "youtube": {
     "views": 2,
@@ -285,7 +320,7 @@
     "watch_time_s": 1180.7
    },
    "youtube": {
-    "views": 68,
+    "views": 67,
     "likes": 1,
     "comments": 0
    }
@@ -302,9 +337,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 225,
+    "views": 226,
     "avg_watch_s": 3.1,
-    "watch_time_s": 655.1
+    "watch_time_s": 656.9
    }
   },
   "2026-11-09-4-quiz": {
@@ -332,9 +367,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2145,
+    "views": 2148,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9455.5
+    "watch_time_s": 9463.7
    },
    "youtube": {
     "views": 81,
@@ -354,9 +389,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1324,
+    "views": 1339,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4420.5
+    "watch_time_s": 4482.6
    }
   },
   "2026-11-09-2-quiz": {
@@ -377,7 +412,7 @@
     "watch_time_s": 3201.6
    },
    "youtube": {
-    "views": 193,
+    "views": 194,
     "likes": 4,
     "comments": 0
    }
@@ -469,9 +504,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 369,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1362.6
+    "views": 370,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1363.8
    }
   },
   "2026-11-08-6-truefalse": {
@@ -1337,7 +1372,7 @@
     "youtube": "https://youtube.com/shorts/7QWM4WNT2j4"
    },
    "youtube": {
-    "views": 57,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
