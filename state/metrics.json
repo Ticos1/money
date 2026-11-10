@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-10T09:25:13+00:00",
+ "updated_at": "2026-11-10T11:15:10+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-10",
+   "time": "08:00",
+   "title": "Como se chamavam os dois filhos de Samuel, juízes em Berseba?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ov8VU8nebI0",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1668517017963224"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-10-1-verse": {
    "type": "verse",
    "date": "2026-11-10",
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 94,
+    "reach": 98,
     "saved": 0,
     "shares": 0,
-    "views": 115,
+    "views": 119,
     "total_interactions": 0,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 413.5
+    "avg_watch_s": 4.2,
+    "watch_time_s": 416.3
    },
    "facebook": {
     "likes": 0,
@@ -126,7 +149,7 @@
     "watch_time_s": 1160.4
    },
    "youtube": {
-    "views": 66,
+    "views": 67,
     "likes": 1,
     "comments": 0
    }
@@ -173,12 +196,12 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2128,
+    "views": 2129,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9377.1
+    "watch_time_s": 9379.0
    },
    "youtube": {
-    "views": 80,
+    "views": 81,
     "likes": 2,
     "comments": 0
    }
@@ -195,9 +218,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1279,
+    "views": 1290,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4267.2
+    "watch_time_s": 4309.2
    }
   },
   "2026-11-09-2-quiz": {
@@ -432,9 +455,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1516,
+    "views": 1517,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5881.9
+    "watch_time_s": 5890.5
    },
    "youtube": {
     "views": 46,
@@ -568,9 +591,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1640,
+    "views": 1641,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6908.8
+    "watch_time_s": 6910.5
    },
    "youtube": {
     "views": 440,
