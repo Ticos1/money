@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-11T09:14:05+00:00",
+ "updated_at": "2026-11-11T09:36:08+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-1-verse": {
+   "type": "verse",
+   "date": "2026-11-11",
+   "time": "06:30",
+   "title": "1 João 3:20",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-10-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-10",
@@ -302,7 +310,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
+    "views": 263,
     "avg_watch_s": 3.9,
     "watch_time_s": 827.9
    }
