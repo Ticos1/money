@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-11T16:29:15+00:00",
+ "updated_at": "2026-11-11T18:12:22+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-6-truefalse",
+   "date": "2026-11-11",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-11T15:02",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-11T18:05:44+00:00",
+    "instagram": "2026-11-11T18:07:03+00:00",
+    "facebook": "2026-11-11T18:07:08+00:00",
+    "stories": "2026-11-11T18:07:42+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/CyQY1TLoHn8",
+    "instagram": "https://www.instagram.com/reel/DfnFg7CiR0l/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2185783925480578",
+    "stories": "story 18096956606652535"
+   },
+   "title": "Qual foi o sinal para os pastores reconhecerem o bebê?"
+  },
   {
    "id": "2026-11-11-5-curiosity",
    "date": "2026-11-11",
