@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-11-3-truefalse",
+   "date": "2026-11-11",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-11T09:56",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-11T08:22:30+00:00",
+   "source": "bank",
+   "bank_id": "q1119",
+   "model": null,
+   "content": {
+    "ref": "Oseias 1:10",
+    "ref_label": "Oseias 1:10",
+    "question": "Segundo Oseias, o número dos filhos de Israel será como o quê?",
+    "shown": "As estrelas do céu",
+    "is_true": false,
+    "correct": "A areia do mar",
+    "evidence": "como a areia do mar",
+    "passage": "Contudo, o número dos filhos de Israel será como a areia do mar, que não pode ser medida nem contada; e acontecerá que, no lugar onde lhes foi dito: ‘Vocês não são meu povo’, eles serão chamados ‘filhos do Deus vivo’.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #gospel #perguntasbiblicas #desafiobiblico #evangelico #fe #cristao #palavradedeus #conhecimentobiblico #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #jesus #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #deus #fe",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-11T13:00:38+00:00",
+    "stories": "2026-11-11T13:01:55+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1108507235525019",
+    "stories": "story 18134358724840282"
+   }
+  },
+  {
    "id": "2026-11-11-2-quiz",
    "date": "2026-11-11",
    "slot": 2,
