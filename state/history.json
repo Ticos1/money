@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-10-10-truefalse",
+   "date": "2026-11-10",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-10T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-10T08:30:31+00:00",
+   "source": "bank",
+   "bank_id": "q325",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 49:9",
+    "ref_label": "Gênesis 49:9",
+    "question": "Com que animal Jacó comparou seu filho Judá?",
+    "shown": "Uma águia",
+    "is_true": false,
+    "correct": "Um filhote de leão",
+    "evidence": "Judá é um filhote de leão",
+    "passage": "Judá é um filhote de leão. Da presa, meu filho, você subiu. Ele se abaixou, ele se deitou como um leão, como uma leoa. Quem o despertará?",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus #fe #perguntasbiblicas #cristao #desafiobiblico #gospel #evangelico #conhecimentobiblico #biblia",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas #deus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #fe #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Com que animal Jacó comparou seu filho Judá? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nCom que animal Jacó comparou seu filho Judá?\nResposta: Uma águia\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-11T00:30:39+00:00",
+    "stories": "2026-11-11T00:31:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2384781759007753",
+    "stories": "story 18120361897785119"
+   }
+  },
+  {
    "id": "2026-11-10-9-quiz",
    "date": "2026-11-10",
    "slot": 9,
