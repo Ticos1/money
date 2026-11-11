@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-11T21:59:37+00:00",
+ "updated_at": "2026-11-11T23:09:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "title": "Naamã era comandante do exército de qual reino?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/eIj-otats3A",
+    "instagram": "https://www.instagram.com/reel/Dfnnv7-liKo/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1808396890424915"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-11-8-fill": {
    "type": "fill",
    "date": "2026-11-11",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1609092917133416"
    },
    "facebook": {
-    "likes": 9,
+    "likes": 16,
     "comments": 1,
-    "views": 729,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 2188.5
+    "views": 1413,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5340.2
    }
   },
   "2026-11-11-6-truefalse": {
@@ -50,7 +85,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
     "views": 10,
@@ -59,11 +94,11 @@
     "watch_time_s": 39.7
    },
    "facebook": {
-    "likes": 2,
+    "likes": 4,
     "comments": 0,
-    "views": 951,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 3375.6
+    "views": 1220,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 4371.9
    },
    "youtube": {
     "views": 0,
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 213,
+    "views": 215,
     "avg_watch_s": 3.8,
-    "watch_time_s": 734.0
+    "watch_time_s": 743.7
    }
   },
   "2026-11-11-4-quiz": {
@@ -102,20 +137,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 10,
     "total_interactions": 0,
     "avg_watch_s": 1.3,
-    "watch_time_s": 9.2
+    "watch_time_s": 10.5
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 318,
+    "views": 324,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1176.8
+    "watch_time_s": 1194.4
    },
    "youtube": {
     "views": 0,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.6,
-    "watch_time_s": 0.6
+    "views": 4,
+    "avg_watch_s": 11.6,
+    "watch_time_s": 23.2
    }
   },
   "2026-11-11-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 798,
+    "views": 813,
     "avg_watch_s": 4.4,
-    "watch_time_s": 2811.3
+    "watch_time_s": 2908.2
    },
    "youtube": {
     "views": 0,
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 8.6,
+    "watch_time_s": 8.6
    }
   },
   "2026-11-10-9-quiz": {
@@ -213,9 +248,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 2.5,
-    "watch_time_s": 2.5
+    "watch_time_s": 4.9
    },
    "youtube": {
     "views": 1,
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 4,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 14.4
+    "views": 5,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 15.7
    }
   },
   "2026-11-10-6-truefalse": {
@@ -280,7 +315,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 349,
+    "views": 350,
     "avg_watch_s": 4.9,
     "watch_time_s": 1321.8
    },
@@ -332,9 +367,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1664,
+    "views": 1665,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8868.9
+    "watch_time_s": 8883.8
    },
    "youtube": {
     "views": 1,
@@ -354,7 +389,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 383,
+    "views": 384,
     "avg_watch_s": 5.9,
     "watch_time_s": 1621.1
    }
@@ -377,7 +412,7 @@
     "watch_time_s": 4171.6
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -551,7 +586,7 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2155,
+    "views": 2156,
     "avg_watch_s": 5.8,
     "watch_time_s": 9507.1
    },
