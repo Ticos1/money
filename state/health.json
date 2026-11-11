@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-11T09:36:11+00:00",
+ "updated_at": "2026-11-11T11:01:00+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-2-quiz",
+   "date": "2026-11-11",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-11T07:53",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-11T10:55:37+00:00",
+    "instagram": null,
+    "facebook": "2026-11-11T10:55:43+00:00",
+    "stories": "2026-11-11T10:56:18+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sn62zmTNXtY",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1115459254696689",
+    "stories": "story 18000370439828838"
+   },
+   "title": "Por que devemos lançar sobre Deus todas as nossas preocupações?"
+  },
   {
    "id": "2026-11-11-1-verse",
    "date": "2026-11-11",
