@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-10T23:16:29+00:00",
+ "updated_at": "2026-11-11T00:34:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-10-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-10",
+   "time": "21:30",
+   "title": "Com que animal Jacó comparou seu filho Judá?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2384781759007753"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-10-9-quiz": {
    "type": "quiz",
    "date": "2026-11-10",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 22,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 46,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.0,
+    "watch_time_s": 43.8
    },
    "facebook": {
     "likes": 0,
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -49,7 +66,7 @@
     "youtube": "https://youtube.com/shorts/F16079D9xwM"
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -67,8 +84,8 @@
     "likes": 0,
     "comments": 0,
     "views": 4,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 13.9
+    "avg_watch_s": 4.8,
+    "watch_time_s": 14.4
    }
   },
   "2026-11-10-6-truefalse": {
@@ -85,20 +102,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 17,
+    "reach": 25,
     "saved": 0,
     "shares": 0,
-    "views": 23,
+    "views": 32,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 66.7
+    "avg_watch_s": 4.9,
+    "watch_time_s": 138.1
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 314,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1141.4
+    "views": 342,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1261.9
    },
    "youtube": {
     "views": 0,
@@ -137,23 +154,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 23,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 34,
     "total_interactions": 0,
-    "avg_watch_s": 2.3,
-    "watch_time_s": 23.2
+    "avg_watch_s": 3.9,
+    "watch_time_s": 92.6
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1599,
-    "avg_watch_s": 7.5,
-    "watch_time_s": 8490.4
+    "views": 1626,
+    "avg_watch_s": 7.4,
+    "watch_time_s": 8610.4
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -186,11 +203,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1668517017963224"
    },
    "facebook": {
-    "likes": 4,
+    "likes": 5,
     "comments": 0,
-    "views": 571,
-    "avg_watch_s": 8.8,
-    "watch_time_s": 3635.3
+    "views": 599,
+    "avg_watch_s": 8.9,
+    "watch_time_s": 3813.2
    },
    "youtube": {
     "views": 2,
@@ -367,9 +384,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2148,
+    "views": 2150,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9463.7
+    "watch_time_s": 9464.4
    },
    "youtube": {
     "views": 81,
@@ -389,9 +406,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1339,
+    "views": 1342,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4482.6
+    "watch_time_s": 4492.8
    }
   },
   "2026-11-09-2-quiz": {
@@ -412,7 +429,7 @@
     "watch_time_s": 3201.6
    },
    "youtube": {
-    "views": 194,
+    "views": 195,
     "likes": 4,
     "comments": 0
    }
@@ -608,9 +625,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 1345,
+    "views": 1346,
     "avg_watch_s": 5.3,
-    "watch_time_s": 5288.2
+    "watch_time_s": 5289.1
    }
   },
   "2026-11-08-2-quiz": {
@@ -814,9 +831,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 1088,
+    "views": 1090,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4512.9
+    "watch_time_s": 4526.8
    },
    "youtube": {
     "views": 269,
@@ -4381,7 +4398,7 @@
     "watch_time_s": 1435.5
    },
    "youtube": {
-    "views": 31,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
