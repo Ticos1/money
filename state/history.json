@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-11-4-quiz",
+   "date": "2026-11-11",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-11T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-11T08:23:01+00:00",
+   "source": "bank",
+   "bank_id": "q1065",
+   "model": null,
+   "content": {
+    "ref": "Jonas 1:7",
+    "ref_label": "Jonas 1:7",
+    "question": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?",
+    "options": [
+     "Lançaram sortes",
+     "Consultaram um profeta",
+     "Ofereceram sacrifícios",
+     "Interpretaram um sonho"
+    ],
+    "answer": 0,
+    "evidence": "lançaram sortes, e a sorte caiu sobre Jonas",
+    "passage": "Eles disseram uns aos outros: “Venham! Vamos lançar sortes, para que possamos saber quem é o responsável por este mal que está sobre nós.” Então lançaram sortes, e a sorte caiu sobre Jonas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao #gospel #desafio #evangelico #biblia #teste #jesus #palavradedeus #deus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #desafio #teste",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #palavradedeus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível fácil): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jonas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-11T14:55:35+00:00",
+    "instagram": "2026-11-11T14:56:11+00:00",
+    "facebook": "2026-11-11T14:56:16+00:00",
+    "stories": "2026-11-11T14:56:51+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/7-5nqdUhtc8",
+    "instagram": "https://www.instagram.com/reel/DfmvrNREhe6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1706573747711205",
+    "stories": "story 18072897542503024"
+   }
+  },
+  {
    "id": "2026-11-11-3-truefalse",
    "date": "2026-11-11",
    "slot": 3,
