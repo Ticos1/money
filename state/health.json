@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T23:16:32+00:00",
+ "updated_at": "2026-11-11T00:34:03+00:00",
  "date": "2026-11-10",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-10-10-truefalse",
+   "date": "2026-11-10",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-10T21:30",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-11T00:30:39+00:00",
+    "stories": "2026-11-11T00:31:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2384781759007753",
+    "stories": "story 18120361897785119"
+   },
+   "title": "Com que animal Jacó comparou seu filho Judá?"
+  },
   {
    "id": "2026-11-10-9-quiz",
    "date": "2026-11-10",
