@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T18:12:22+00:00",
+ "updated_at": "2026-11-11T20:00:58+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-7-quiz",
+   "date": "2026-11-11",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-11T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-11T19:55:48+00:00",
+    "stories": "2026-11-11T19:57:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1609092917133416",
+    "stories": "story 18027339767945772"
+   },
+   "title": "Jesus disse: 'Vocês são o ... da terra'."
+  },
   {
    "id": "2026-11-11-6-truefalse",
    "date": "2026-11-11",
