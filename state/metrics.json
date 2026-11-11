@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-11T09:36:08+00:00",
+ "updated_at": "2026-11-11T11:00:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-11",
+   "time": "08:00",
+   "title": "Por que devemos lançar sobre Deus todas as nossas preocupações?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sn62zmTNXtY",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1115459254696689"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-11-1-verse": {
    "type": "verse",
    "date": "2026-11-11",
@@ -110,13 +133,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 38,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 46,
+    "views": 50,
     "total_interactions": 0,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 178.5
+    "avg_watch_s": 4.7,
+    "watch_time_s": 201.6
    },
    "facebook": {
     "likes": 1,
@@ -165,7 +188,7 @@
     "reach": 31,
     "saved": 0,
     "shares": 0,
-    "views": 43,
+    "views": 44,
     "total_interactions": 0,
     "avg_watch_s": 4.1,
     "watch_time_s": 126.6
@@ -173,9 +196,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1647,
+    "views": 1648,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8788.0
+    "watch_time_s": 8797.8
    },
    "youtube": {
     "views": 1,
@@ -195,9 +218,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 376,
+    "views": 377,
     "avg_watch_s": 5.9,
-    "watch_time_s": 1599.3
+    "watch_time_s": 1600.1
    }
   },
   "2026-11-10-2-quiz": {
@@ -312,7 +335,7 @@
     "comments": 0,
     "views": 263,
     "avg_watch_s": 3.9,
-    "watch_time_s": 827.9
+    "watch_time_s": 831.1
    }
   },
   "2026-11-09-6-truefalse": {
@@ -392,7 +415,7 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2151,
+    "views": 2153,
     "avg_watch_s": 5.8,
     "watch_time_s": 9467.9
    },
