@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-11T21:54:51+00:00",
+ "updated_at": "2026-11-11T23:09:33+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-9-quiz",
+   "date": "2026-11-11",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-11T20:03",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-11T23:05:34+00:00",
+    "instagram": "2026-11-11T23:06:07+00:00",
+    "facebook": "2026-11-11T23:06:11+00:00",
+    "stories": "2026-11-11T23:06:44+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/eIj-otats3A",
+    "instagram": "https://www.instagram.com/reel/Dfnnv7-liKo/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1808396890424915",
+    "stories": "story 18104932382035218"
+   },
+   "title": "Naamã era comandante do exército de qual reino?"
+  },
   {
    "id": "2026-11-11-8-fill",
    "date": "2026-11-11",
