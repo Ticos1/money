@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-11T18:12:20+00:00",
+ "updated_at": "2026-11-11T20:00:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-11",
+   "time": "17:00",
+   "title": "Jesus disse: 'Vocês são o ... da terra'.",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1609092917133416"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-11-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-11",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.0,
+    "watch_time_s": 6.1
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 384,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1166.0
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1686269456492680"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 95,
-    "avg_watch_s": 3.0,
-    "watch_time_s": 249.3
+    "views": 212,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 565.9
    }
   },
   "2026-11-11-4-quiz": {
@@ -70,20 +87,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 6,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 1.7,
-    "watch_time_s": 6.7
+    "avg_watch_s": 1.4,
+    "watch_time_s": 8.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 253,
+    "views": 270,
     "avg_watch_s": 4.4,
-    "watch_time_s": 878.8
+    "watch_time_s": 914.7
    },
    "youtube": {
     "views": 0,
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 742,
+    "views": 774,
     "avg_watch_s": 4.3,
-    "watch_time_s": 2604.0
+    "watch_time_s": 2711.7
    },
    "youtube": {
     "views": 0,
@@ -170,13 +187,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 65,
+    "reach": 66,
     "saved": 0,
     "shares": 0,
-    "views": 76,
+    "views": 77,
     "total_interactions": 0,
     "avg_watch_s": 2.9,
-    "watch_time_s": 197.5
+    "watch_time_s": 198.6
    },
    "facebook": {
     "likes": 0,
@@ -237,13 +254,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 55,
+    "reach": 56,
     "saved": 0,
     "shares": 0,
     "views": 70,
     "total_interactions": 0,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 305.1
+    "avg_watch_s": 5.2,
+    "watch_time_s": 305.5
    },
    "facebook": {
     "likes": 1,
@@ -300,9 +317,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1660,
+    "views": 1662,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8859.9
+    "watch_time_s": 8860.6
    },
    "youtube": {
     "views": 1,
@@ -322,9 +339,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 380,
+    "views": 381,
     "avg_watch_s": 5.9,
-    "watch_time_s": 1620.0
+    "watch_time_s": 1620.9
    }
   },
   "2026-11-10-2-quiz": {
@@ -340,9 +357,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 639,
+    "views": 643,
     "avg_watch_s": 9.2,
-    "watch_time_s": 4147.9
+    "watch_time_s": 4171.6
    },
    "youtube": {
     "views": 2,
@@ -658,7 +675,7 @@
     "comments": 0,
     "views": 371,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1363.8
+    "watch_time_s": 1365.2
    }
   },
   "2026-11-08-6-truefalse": {
@@ -914,9 +931,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1641,
+    "views": 1643,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6910.5
+    "watch_time_s": 6927.4
    },
    "youtube": {
     "views": 441,
@@ -1760,7 +1777,7 @@
    "facebook": {
     "likes": 15,
     "comments": 1,
-    "views": 2090,
+    "views": 2092,
     "avg_watch_s": 6.3,
     "watch_time_s": 9930.5
    }
@@ -5432,7 +5449,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 161,
+    "views": 162,
     "likes": 2,
     "comments": 0
    }
@@ -5762,7 +5779,7 @@
     "watch_time_s": 595.1
    },
    "youtube": {
-    "views": 31,
+    "views": 33,
     "likes": 1,
     "comments": 0
    }
