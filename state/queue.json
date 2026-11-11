@@ -1,3 +1,997 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-11-10-truefalse",
+   "date": "2026-11-11",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-11T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-11T08:25:46+00:00",
+   "source": "bank",
+   "bank_id": "q903",
+   "model": null,
+   "content": {
+    "ref": "Efésios 6:1",
+    "ref_label": "Efésios 6:1",
+    "question": "Segundo Efésios 6:1, o que os filhos devem fazer no Senhor?",
+    "shown": "Obedeçam a seus pais",
+    "is_true": true,
+    "correct": "Obedeçam a seus pais",
+    "evidence": "Filhos, obedeçam a seus pais no Senhor",
+    "passage": "Filhos, obedeçam a seus pais no Senhor, pois isso é justo.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Efésios 6:1, o que os filhos devem fazer no Senhor?\nResposta: Obedeçam a seus pais\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #gospel #deus #fe #perguntasbiblicas #conhecimentobiblico #evangelico #palavradedeus #desafiobiblico #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Efésios 6:1, o que os filhos devem fazer no Senhor?\nResposta: Obedeçam a seus pais\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #cristao",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #fe",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #deus #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nSegundo Efésios 6:1, o que os filhos devem fazer no Senhor?\nResposta: Obedeçam a seus pais\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nSegundo Efésios 6:1, o que os filhos devem fazer no Senhor?\nResposta: Obedeçam a seus pais\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "efésios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-9-quiz",
+   "date": "2026-11-11",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-11T20:03",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-11T08:25:20+00:00",
+   "source": "bank",
+   "bank_id": "q751",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 5:1",
+    "ref_label": "2 Reis 5:1",
+    "question": "Naamã era comandante do exército de qual reino?",
+    "options": [
+     "Babilônia",
+     "Assíria",
+     "Síria",
+     "Egito"
+    ],
+    "answer": 2,
+    "evidence": "comandante do exército do rei da Síria",
+    "passage": "Naamã, comandante do exército do rei da Síria, era um grande homem diante do seu senhor, e de muito prestígio, porque por meio dele o SENHOR tinha dado vitória à Síria; ele também era um valente guerreiro, mas era leproso.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nNaamã era comandante do exército de qual reino?\n\nA) Babilônia\nB) Assíria\nC) Síria\nD) Egito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #teste #fe #evangelico #gospel #deus #perguntasbiblicas #cristao #palavradedeus #biblia",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nNaamã era comandante do exército de qual reino?\n\nA) Babilônia\nB) Assíria\nC) Síria\nD) Egito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #palavradedeus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #gospel #desafio",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #teste",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nNaamã era comandante do exército de qual reino?\n\nA) Babilônia\nB) Assíria\nC) Síria\nD) Egito\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Naamã era comandante do exército de qual reino? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nNaamã era comandante do exército de qual reino?\n\nA) Babilônia\nB) Assíria\nC) Síria\nD) Egito\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-8-fill",
+   "date": "2026-11-11",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-11T18:38",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-11T08:24:53+00:00",
+   "source": "bank",
+   "bank_id": "v122",
+   "model": null,
+   "content": {
+    "ref": "Salmos 145:18",
+    "ref_label": "Salmos 145:18",
+    "verse_text": "O SENHOR está perto de todos os que o invocam, de todos os que o invocam em verdade.",
+    "question": "O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____.",
+    "options": [
+     "verdade",
+     "glória",
+     "bondade",
+     "justiça"
+    ],
+    "answer": 0,
+    "answer_word": "verdade",
+    "tags": [
+     "oracao",
+     "presenca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a presença de Deus: Salmos 145:18\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____.”\n\nA) verdade\nB) glória\nC) bondade\nD) justiça\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #oracao #presenca #completeoversiculo #versiculo #jesus #biblia #desafiobiblico #cristao #quizbiblico #deus #evangelico",
+    "facebook": "Versículo sobre a presença de Deus: Salmos 145:18\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____.”\n\nA) verdade\nB) glória\nC) bondade\nD) justiça\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #oracao #presenca #completeoversiculo",
+    "tiktok": "Versículo sobre a presença de Deus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapresencadedeus #oracao #presenca #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre a presença de Deus\nQual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapresencadedeus #oracao #presenca #completeoversiculo #versiculo",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____.”\n\nA) verdade\nB) glória\nC) bondade\nD) justiça\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre a presença de Deus: Salmos 145:18 📖 #shorts",
+     "description": "Versículo sobre a presença de Deus: Salmos 145:18\nQual palavra falta nesse versículo? 📖\n\n“O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____.”\n\nA) verdade\nB) glória\nC) bondade\nD) justiça\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapresencadedeus #oracao #presenca",
+     "tags": [
+      "versículo sobre a presença de Deus",
+      "versículos sobre a presença de Deus",
+      "presença de deus",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oracao",
+      "presenca",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Lugar Secreto",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-7-quiz",
+   "date": "2026-11-11",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-11T16:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-11T08:24:25+00:00",
+   "source": "bank",
+   "bank_id": "q468",
+   "model": null,
+   "content": {
+    "ref": "Mateus 5:13",
+    "ref_label": "Mateus 5:13",
+    "question": "Jesus disse: 'Vocês são o ... da terra'.",
+    "options": [
+     "Luz",
+     "Sal",
+     "Fermento",
+     "Pão"
+    ],
+    "answer": 1,
+    "evidence": "Vocês são o sal da terra",
+    "passage": "“Vocês são o sal da terra; mas se o sal perder o seu sabor, com que se salgará? Para nada mais presta, senão para ser lançado fora e pisado pelos homens.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJesus disse: 'Vocês são o ... da terra'.\n\nA) Luz\nB) Sal\nC) Fermento\nD) Pão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #desafio #evangelico #palavradedeus #deus #fe #conhecimentobiblico #perguntasbiblicas #jesus #gospel",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJesus disse: 'Vocês são o ... da terra'.\n\nA) Luz\nB) Sal\nC) Fermento\nD) Pão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #evangelico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #cristao #palavradedeus",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #conhecimentobiblico #jesus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nJesus disse: 'Vocês são o ... da terra'.\n\nA) Luz\nB) Sal\nC) Fermento\nD) Pão\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Jesus disse: 'Vocês são o ... da terra'. #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJesus disse: 'Vocês são o ... da terra'.\n\nA) Luz\nB) Sal\nC) Fermento\nD) Pão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-6-truefalse",
+   "date": "2026-11-11",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-11T15:02",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-11T08:24:00+00:00",
+   "source": "bank",
+   "bank_id": "q508",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:12",
+    "ref_label": "Lucas 2:12",
+    "question": "Qual foi o sinal para os pastores reconhecerem o bebê?",
+    "shown": "Envolto em faixas, deitado em uma manjedoura",
+    "is_true": true,
+    "correct": "Envolto em faixas, deitado em uma manjedoura",
+    "evidence": "um bebê envolto em faixas de pano, deitado em uma manjedoura",
+    "passage": "Este será o sinal para vocês: encontrarão um bebê envolto em faixas de pano, deitado em uma manjedoura.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual foi o sinal para os pastores reconhecerem o bebê?\nResposta: Envolto em faixas, deitado em uma manjedoura\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #deus #biblia #gospel #palavradedeus #evangelico #fe #cristao #perguntasbiblicas #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual foi o sinal para os pastores reconhecerem o bebê?\nResposta: Envolto em faixas, deitado em uma manjedoura\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #evangelico #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #gospel",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual foi o sinal para os pastores reconhecerem o bebê?\nResposta: Envolto em faixas, deitado em uma manjedoura\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual foi o sinal para os pastores reconhecerem o bebê?\nResposta: Envolto em faixas, deitado em uma manjedoura\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-5-curiosity",
+   "date": "2026-11-11",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-11T13:25",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-11T08:23:31+00:00",
+   "source": "bank",
+   "bank_id": "c163",
+   "model": null,
+   "content": {
+    "ref": "Judas 1:14",
+    "ref_label": "Judas 1:14",
+    "title": "Enoque, o sétimo depois de Adão",
+    "text": "Judas cita uma profecia de Enoque, que foi o sétimo na descendência de Adão: o Senhor viria com milhares de seus santos.",
+    "evidence": "o sétimo na descendência de Adão",
+    "passage": "A respeito destes também profetizou Enoque, o sétimo na descendência de Adão, dizendo: “Eis que, o Senhor veio com dezenas de milhares de seus santos,",
+    "tags": [
+     "enoque",
+     "profecia"
+    ]
+   },
+   "captions": {
+    "instagram": "Enoque, o sétimo depois de Adão\n\nJudas cita uma profecia de Enoque, que foi o sétimo na descendência de Adão: o Senhor viria com milhares de seus santos. (Judas 1:14)\n\nCuriosidade bíblica: Enoque, o sétimo descendente de Adão, é mencionado por Judas como portador de uma profecia. Ele anunciou que o Senhor viria acompanhado de milhares de santos. Um lembrete de que a história da fé está repleta de figuras que apontam para a vinda do Salvador. Salve e compartilhe para que mais pessoas conheçam essa riqueza das Escrituras. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#enoque #profecia #vocesabia #curiosidadesbiblicas #fe #estudobiblico #biblia #evangelico #historiabiblica #gospel #palavradedeus #cristao",
+    "facebook": "Enoque, o sétimo depois de Adão\n\nJudas cita uma profecia de Enoque, que foi o sétimo na descendência de Adão: o Senhor viria com milhares de seus santos. (Judas 1:14)\n\nCuriosidade bíblica: Enoque, o sétimo descendente de Adão, é mencionado por Judas como portador de uma profecia. Ele anunciou que o Senhor viria acompanhado de milhares de santos. Um lembrete de que a história da fé está repleta de figuras que apontam para a vinda do Salvador. Salve e compartilhe para que mais pessoas conheçam essa riqueza das Escrituras. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#enoque #profecia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Enoque, sétimo da descendência de Adão, profetizou a vinda do Senhor com milhares de santos. Compartilhe!\n#enoque #profecia #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Enoque, sétimo da descendência de Adão, profetizou a vinda do Senhor com milhares de santos. Compartilhe!\n#enoque #profecia #vocesabia #curiosidadesbiblicas #gospel",
+    "whatsapp": "Enoque, o sétimo depois de Adão\n\nJudas cita uma profecia de Enoque, que foi o sétimo na descendência de Adão: o Senhor viria com milhares de seus santos. (Judas 1:14)\n\nCuriosidade bíblica: Enoque, o sétimo descendente de Adão, é mencionado por Judas como portador de uma profecia. Ele anunciou que o Senhor viria acompanhado de milhares de santos. Um lembrete de que a história da fé está repleta de figuras que apontam para a vinda do Salvador. Salve e compartilhe para que mais pessoas conheçam essa riqueza das Escrituras. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Enoque, o sétimo depois de Adão #shorts",
+     "description": "Enoque, o sétimo depois de Adão\n\nJudas cita uma profecia de Enoque, que foi o sétimo na descendência de Adão: o Senhor viria com milhares de seus santos. (Judas 1:14)\n\nCuriosidade bíblica: Enoque, o sétimo descendente de Adão, é mencionado por Judas como portador de uma profecia. Ele anunciou que o Senhor viria acompanhado de milhares de santos. Um lembrete de que a história da fé está repleta de figuras que apontam para a vinda do Salvador. Salve e compartilhe para que mais pessoas conheçam essa riqueza das Escrituras. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #enoque #profecia #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "enoque",
+      "profecia",
+      "judas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.63,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-4-quiz",
+   "date": "2026-11-11",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-11T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-11T08:23:01+00:00",
+   "source": "bank",
+   "bank_id": "q1065",
+   "model": null,
+   "content": {
+    "ref": "Jonas 1:7",
+    "ref_label": "Jonas 1:7",
+    "question": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?",
+    "options": [
+     "Lançaram sortes",
+     "Consultaram um profeta",
+     "Ofereceram sacrifícios",
+     "Interpretaram um sonho"
+    ],
+    "answer": 0,
+    "evidence": "lançaram sortes, e a sorte caiu sobre Jonas",
+    "passage": "Eles disseram uns aos outros: “Venham! Vamos lançar sortes, para que possamos saber quem é o responsável por este mal que está sobre nós.” Então lançaram sortes, e a sorte caiu sobre Jonas.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao #gospel #desafio #evangelico #biblia #teste #jesus #palavradedeus #deus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #palavradedeus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #desafio #teste",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #palavradedeus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível fácil): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nComo os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?\n\nA) Lançaram sortes\nB) Consultaram um profeta\nC) Ofereceram sacrifícios\nD) Interpretaram um sonho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jonas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-3-truefalse",
+   "date": "2026-11-11",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-11T09:56",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-11T08:22:30+00:00",
+   "source": "bank",
+   "bank_id": "q1119",
+   "model": null,
+   "content": {
+    "ref": "Oseias 1:10",
+    "ref_label": "Oseias 1:10",
+    "question": "Segundo Oseias, o número dos filhos de Israel será como o quê?",
+    "shown": "As estrelas do céu",
+    "is_true": false,
+    "correct": "A areia do mar",
+    "evidence": "como a areia do mar",
+    "passage": "Contudo, o número dos filhos de Israel será como a areia do mar, que não pode ser medida nem contada; e acontecerá que, no lugar onde lhes foi dito: ‘Vocês não são meu povo’, eles serão chamados ‘filhos do Deus vivo’.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #gospel #perguntasbiblicas #desafiobiblico #evangelico #fe #cristao #palavradedeus #conhecimentobiblico #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #jesus #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #deus #fe",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Oseias, o número dos filhos de Israel será como o quê?\nResposta: As estrelas do céu\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.74,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-2-quiz",
+   "date": "2026-11-11",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-11T07:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-11T08:22:04+00:00",
+   "source": "bank",
+   "bank_id": "q917",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 5:7",
+    "ref_label": "1 Pedro 5:7",
+    "question": "Por que devemos lançar sobre Deus todas as nossas preocupações?",
+    "options": [
+     "Porque ele é rei",
+     "Porque ele julga",
+     "Porque ele exige",
+     "Porque ele cuida de vocês"
+    ],
+    "answer": 3,
+    "evidence": "porque ele cuida de vocês",
+    "passage": "Lancem sobre ele todas as suas preocupações, porque ele cuida de vocês.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nPor que devemos lançar sobre Deus todas as nossas preocupações?\n\nA) Porque ele é rei\nB) Porque ele julga\nC) Porque ele exige\nD) Porque ele cuida de vocês\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #gospel #palavradedeus #teste #cristao #perguntasbiblicas #fe #conhecimentobiblico #desafio #deus",
+    "facebook": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nPor que devemos lançar sobre Deus todas as nossas preocupações?\n\nA) Porque ele é rei\nB) Porque ele julga\nC) Porque ele exige\nD) Porque ele cuida de vocês\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #conhecimentobiblico",
+    "tiktok": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #palavradedeus #cristao",
+    "kwai": "Quem sabe de cabeça? Responda antes da contagem! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #desafio #jesus",
+    "whatsapp": "*Quem sabe de cabeça? Responda antes da contagem!* 🤔\n\nPor que devemos lançar sobre Deus todas as nossas preocupações?\n\nA) Porque ele é rei\nB) Porque ele julga\nC) Porque ele exige\nD) Porque ele cuida de vocês\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Por que devemos lançar sobre Deus todas as nossas preocupações? #shorts",
+     "description": "Quem sabe de cabeça? Responda antes da contagem! 🤔\n\nPor que devemos lançar sobre Deus todas as nossas preocupações?\n\nA) Porque ele é rei\nB) Porque ele julga\nC) Porque ele exige\nD) Porque ele cuida de vocês\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-11-1-verse",
+   "date": "2026-11-11",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-11T06:26",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-11T08:21:33+00:00",
+   "source": "bank",
+   "bank_id": "v604",
+   "model": null,
+   "content": {
+    "ref": "1 João 3:20",
+    "ref_label": "1 João 3:20",
+    "verse_text": "Porque se o nosso coração nos condena, Deus é maior do que o nosso coração, e conhece todas as coisas.",
+    "on_screen": "Deus é maior do que o seu coração.",
+    "reflection": "João fala com quem se sente condenado por dentro. Mesmo quando seu coração te acusa, Deus é maior e conhece tudo. Descanse no amor dele, não na voz da culpa.",
+    "theme": "consolo",
+    "mood": "reflexao",
+    "tags": [
+     "consolo",
+     "perdao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de consolo: 1 João 3:20\n“Porque se o nosso coração nos condena, Deus é maior do que o nosso coração, e conhece todas as coisas.” (1 João 3:20)\n\nQuando a culpa interior parece pesada, lembre‑se: o coração pode falhar, mas Deus conhece tudo e é maior que qualquer condenação. Descanse no amor que Ele oferece, não na voz da culpa. Salve este lembrete para momentos de aflição.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeconsolo #consolo #perdao #versiculododia #versiculo #evangelico #esperanca #oracao #biblia #deus #gospel #devocional",
+    "facebook": "Versículo de consolo: 1 João 3:20\n“Porque se o nosso coração nos condena, Deus é maior do que o nosso coração, e conhece todas as coisas.” (1 João 3:20)\n\nQuando a culpa interior parece pesada, lembre‑se: o coração pode falhar, mas Deus conhece tudo e é maior que qualquer condenação. Descanse no amor que Ele oferece, não na voz da culpa. Salve este lembrete para momentos de aflição.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeconsolo #consolo #perdao #versiculododia",
+    "tiktok": "Versículo de consolo\nCoração acusa? Deus é maior. Descanse no Seu amor.\n#versiculodeconsolo #consolo #perdao #versiculododia #versiculo",
+    "kwai": "Versículo de consolo\nCoração acusa? Deus é maior. Descanse no Seu amor.\n#versiculodeconsolo #consolo #perdao #versiculododia #versiculo",
+    "whatsapp": "“Porque se o nosso coração nos condena, Deus é maior do que o nosso coração, e conhece todas as coisas.” (1 João 3:20)\n\nQuando a culpa interior parece pesada, lembre‑se: o coração pode falhar, mas Deus conhece tudo e é maior que qualquer condenação. Descanse no amor que Ele oferece, não na voz da culpa. Salve este lembrete para momentos de aflição.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de consolo: 1 João 3:20 🙏 #shorts",
+     "description": "Versículo de consolo: 1 João 3:20\n“Porque se o nosso coração nos condena, Deus é maior do que o nosso coração, e conhece todas as coisas.” (1 João 3:20)\n\nQuando a culpa interior parece pesada, lembre‑se: o coração pode falhar, mas Deus conhece tudo e é maior que qualquer condenação. Descanse no amor que Ele oferece, não na voz da culpa. Salve este lembrete para momentos de aflição.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeconsolo #consolo #perdao",
+     "tags": [
+      "versículo de consolo",
+      "versículos de consolo",
+      "consolo",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perdao",
+      "1 joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 18.3,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-11/2026-11-11-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
