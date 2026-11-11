@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-11T11:00:57+00:00",
+ "updated_at": "2026-11-11T13:06:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-11",
+   "time": "10:00",
+   "title": "Segundo Oseias, o número dos filhos de Israel será como o quê?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1108507235525019"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-11-2-quiz": {
    "type": "quiz",
    "date": "2026-11-11",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1115459254696689"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 5,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 371,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 1042.6
    },
    "youtube": {
     "views": 0,
@@ -133,23 +150,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 40,
+    "reach": 42,
     "saved": 0,
     "shares": 0,
-    "views": 50,
+    "views": 57,
     "total_interactions": 0,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 201.6
+    "avg_watch_s": 4.8,
+    "watch_time_s": 214.2
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 342,
+    "views": 348,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1298.1
+    "watch_time_s": 1320.9
    },
    "youtube": {
-    "views": 1,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -185,20 +202,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 31,
+    "reach": 32,
     "saved": 0,
     "shares": 0,
-    "views": 44,
+    "views": 45,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 126.6
+    "avg_watch_s": 3.9,
+    "watch_time_s": 128.2
    },
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1648,
+    "views": 1652,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8797.8
+    "watch_time_s": 8819.7
    },
    "youtube": {
     "views": 1,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 377,
+    "views": 380,
     "avg_watch_s": 5.9,
-    "watch_time_s": 1600.1
+    "watch_time_s": 1620.0
    }
   },
   "2026-11-10-2-quiz": {
@@ -236,9 +253,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 636,
+    "views": 637,
     "avg_watch_s": 9.2,
-    "watch_time_s": 4136.7
+    "watch_time_s": 4138.1
    },
    "youtube": {
     "views": 2,
@@ -415,9 +432,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2153,
+    "views": 2155,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9467.9
+    "watch_time_s": 9487.7
    },
    "youtube": {
     "views": 82,
@@ -1639,7 +1656,7 @@
     "youtube": "https://youtube.com/shorts/8b7wwf5szfE"
    },
    "youtube": {
-    "views": 57,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
