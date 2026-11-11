@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-11T14:14:40+00:00",
+ "updated_at": "2026-11-11T15:01:32+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-4-quiz",
+   "date": "2026-11-11",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-11T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-11T14:55:35+00:00",
+    "instagram": "2026-11-11T14:56:11+00:00",
+    "facebook": "2026-11-11T14:56:16+00:00",
+    "stories": "2026-11-11T14:56:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/7-5nqdUhtc8",
+    "instagram": "https://www.instagram.com/reel/DfmvrNREhe6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1706573747711205",
+    "stories": "story 18072897542503024"
+   },
+   "title": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?"
+  },
   {
    "id": "2026-11-11-3-truefalse",
    "date": "2026-11-11",
