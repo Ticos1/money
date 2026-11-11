@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-11T14:14:37+00:00",
+ "updated_at": "2026-11-11T15:01:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-11",
+   "time": "12:00",
+   "title": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7-5nqdUhtc8",
+    "instagram": "https://www.instagram.com/reel/DfmvrNREhe6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1706573747711205"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-11-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-11",
@@ -34,9 +69,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 480,
+    "views": 605,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1619.4
+    "watch_time_s": 1922.7
    },
    "youtube": {
     "views": 0,
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 58,
+    "views": 61,
     "total_interactions": 0,
     "avg_watch_s": 5.9,
-    "watch_time_s": 276.0
+    "watch_time_s": 284.2
    },
    "facebook": {
     "likes": 1,
@@ -166,7 +201,7 @@
     "watch_time_s": 1320.9
    },
    "youtube": {
-    "views": 5,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -215,7 +250,7 @@
     "comments": 1,
     "views": 1653,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8819.7
+    "watch_time_s": 8821.2
    },
    "youtube": {
     "views": 1,
@@ -454,9 +489,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1342,
+    "views": 1344,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4499.2
+    "watch_time_s": 4512.2
    }
   },
   "2026-11-09-2-quiz": {
@@ -832,7 +867,7 @@
     "watch_time_s": 6910.5
    },
    "youtube": {
-    "views": 441,
+    "views": 440,
     "likes": 4,
     "comments": 0
    }
