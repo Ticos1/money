@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T09:14:08+00:00",
+ "updated_at": "2026-11-11T09:36:11+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-11-1-verse",
+   "date": "2026-11-11",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-11T06:26",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-11T09:32:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18132689990501719"
+   },
+   "title": "1 João 3:20"
+  }
+ ],
  "specials": {}
 }
