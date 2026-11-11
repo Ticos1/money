@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-11T16:29:12+00:00",
+ "updated_at": "2026-11-11T18:12:20+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-11-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-11",
+   "time": "15:00",
+   "title": "Qual foi o sinal para os pastores reconhecerem o bebê?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/CyQY1TLoHn8",
+    "instagram": "https://www.instagram.com/reel/DfnFg7CiR0l/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2185783925480578"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-11-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-11",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 95,
+    "avg_watch_s": 3.0,
+    "watch_time_s": 249.3
    }
   },
   "2026-11-11-4-quiz": {
@@ -35,20 +70,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 6,
     "total_interactions": 0,
-    "avg_watch_s": 0.6,
-    "watch_time_s": 0.6
+    "avg_watch_s": 1.7,
+    "watch_time_s": 6.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 162,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 458.1
+    "views": 253,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 878.8
    },
    "youtube": {
     "views": 0,
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 0.6,
+    "watch_time_s": 0.6
    }
   },
   "2026-11-11-2-quiz": {
@@ -84,11 +119,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1115459254696689"
    },
    "facebook": {
-    "likes": 5,
+    "likes": 6,
     "comments": 0,
-    "views": 673,
+    "views": 742,
     "avg_watch_s": 4.3,
-    "watch_time_s": 2281.5
+    "watch_time_s": 2604.0
    },
    "youtube": {
     "views": 0,
@@ -135,20 +170,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 64,
+    "reach": 65,
     "saved": 0,
     "shares": 0,
-    "views": 75,
+    "views": 76,
     "total_interactions": 0,
     "avg_watch_s": 2.9,
-    "watch_time_s": 196.3
+    "watch_time_s": 197.5
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 2.5,
+    "watch_time_s": 2.5
    },
    "youtube": {
     "views": 1,
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 51,
+    "reach": 55,
     "saved": 0,
     "shares": 0,
-    "views": 66,
+    "views": 70,
     "total_interactions": 0,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 300.9
+    "avg_watch_s": 5.3,
+    "watch_time_s": 305.1
    },
    "facebook": {
     "likes": 1,
@@ -218,7 +253,7 @@
     "watch_time_s": 1320.9
    },
    "youtube": {
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
@@ -265,9 +300,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1653,
+    "views": 1660,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8821.2
+    "watch_time_s": 8859.9
    },
    "youtube": {
     "views": 1,
@@ -305,9 +340,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 638,
+    "views": 639,
     "avg_watch_s": 9.2,
-    "watch_time_s": 4138.1
+    "watch_time_s": 4147.9
    },
    "youtube": {
     "views": 2,
@@ -506,9 +541,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1344,
+    "views": 1345,
     "avg_watch_s": 4.3,
-    "watch_time_s": 4512.2
+    "watch_time_s": 4513.1
    }
   },
   "2026-11-09-2-quiz": {
@@ -621,7 +656,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 370,
+    "views": 371,
     "avg_watch_s": 4.6,
     "watch_time_s": 1363.8
    }
@@ -1506,9 +1541,9 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 2006,
+    "views": 2007,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9450.8
+    "watch_time_s": 9452.8
    }
   },
   "2026-11-04-6-truefalse": {
