@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-12T21:29:51+00:00",
+ "updated_at": "2026-11-12T23:11:03+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "title": "Quantos grandes peixes havia na rede que Pedro puxou para a terra?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7Q8H855wUsE",
+    "instagram": "https://www.instagram.com/reel/DfqMq5ljKCb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1144893001323753"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-12-8-fill": {
    "type": "fill",
    "date": "2026-11-12",
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1692127865757425"
    },
    "facebook": {
-    "likes": 5,
-    "comments": 0,
-    "views": 648,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 1853.5
+    "likes": 12,
+    "comments": 2,
+    "views": 1646,
+    "avg_watch_s": 6.1,
+    "watch_time_s": 7066.4
    }
   },
   "2026-11-12-6-truefalse": {
@@ -50,20 +85,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 24,
+    "reach": 35,
     "saved": 0,
     "shares": 0,
-    "views": 40,
+    "views": 63,
     "total_interactions": 0,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 118.3
+    "avg_watch_s": 5.4,
+    "watch_time_s": 188.3
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 316,
+    "views": 320,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1133.6
+    "watch_time_s": 1146.2
    },
    "youtube": {
     "views": 0,
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1438,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 5316.9
+    "views": 1451,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 5403.0
    }
   },
   "2026-11-12-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 436,
+    "views": 439,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1603.6
+    "watch_time_s": 1622.6
    },
    "youtube": {
     "views": 1,
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 25,
+    "views": 26,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 79.8
+    "avg_watch_s": 3.8,
+    "watch_time_s": 80.3
    },
    "facebook": {
     "likes": 0,
@@ -233,7 +268,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 7,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2240,
+    "views": 2245,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8717.1
+    "watch_time_s": 8721.8
    }
   },
   "2026-11-11-6-truefalse": {
@@ -332,9 +367,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 353,
+    "views": 354,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1291.0
+    "watch_time_s": 1294.5
    },
    "youtube": {
     "views": 0,
@@ -553,7 +588,7 @@
     "comments": 1,
     "views": 1684,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8958.6
+    "watch_time_s": 8960.2
    },
    "youtube": {
     "views": 2,
@@ -1257,9 +1292,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 385,
+    "views": 386,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1320.0
+    "watch_time_s": 1322.0
    },
    "youtube": {
     "views": 140,
@@ -1700,7 +1735,7 @@
     "watch_time_s": 7251.0
    },
    "youtube": {
-    "views": 45,
+    "views": 46,
     "likes": 1,
     "comments": 0
    }
