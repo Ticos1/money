@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-12T12:54:35+00:00",
+ "updated_at": "2026-11-12T15:16:42+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-12",
+   "time": "12:00",
+   "title": "Qual árvore a voz do Senhor quebra no Salmo 29?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/lpnd5phv6y4",
+    "instagram": "https://www.instagram.com/reel/DfpWNRwCdR6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136112788907472"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-12-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-12",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1105734029001288"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 6,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 711,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1769.9
    }
   },
   "2026-11-12-2-quiz": {
@@ -32,11 +67,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1766342031092946"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 252,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 574.8
+    "views": 340,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1256.1
    },
    "youtube": {
     "views": 0,
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 18,
+    "reach": 20,
     "saved": 0,
     "shares": 0,
-    "views": 23,
+    "views": 25,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 78.0
+    "avg_watch_s": 4.0,
+    "watch_time_s": 79.8
    },
    "facebook": {
     "likes": 0,
@@ -114,7 +149,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2218,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 8635.8
+    "views": 2232,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 8692.6
    }
   },
   "2026-11-11-6-truefalse": {
@@ -161,9 +196,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1353,
+    "views": 1356,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5315.2
+    "watch_time_s": 5346.8
    },
    "youtube": {
     "views": 1,
@@ -183,9 +218,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 216,
+    "views": 217,
     "avg_watch_s": 3.8,
-    "watch_time_s": 744.5
+    "watch_time_s": 745.2
    }
   },
   "2026-11-11-4-quiz": {
@@ -255,7 +290,7 @@
     "comments": 0,
     "views": 839,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3031.8
+    "watch_time_s": 3046.8
    },
    "youtube": {
     "views": 0,
@@ -432,9 +467,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1669,
+    "views": 1674,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8891.1
+    "watch_time_s": 8927.9
    },
    "youtube": {
     "views": 2,
@@ -477,7 +512,7 @@
     "watch_time_s": 4171.6
    },
    "youtube": {
-    "views": 7,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -569,9 +604,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 263,
+    "views": 264,
     "avg_watch_s": 3.9,
-    "watch_time_s": 831.1
+    "watch_time_s": 831.8
    }
   },
   "2026-11-09-6-truefalse": {
@@ -1016,9 +1051,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 4,
+    "views": 5,
     "avg_watch_s": 0.9,
-    "watch_time_s": 3.5
+    "watch_time_s": 4.3
    }
   },
   "2026-11-07-6-truefalse": {
@@ -1755,9 +1790,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 265,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 1028.7
+    "views": 266,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1029.8
    },
    "youtube": {
     "views": 44,
@@ -3297,7 +3332,7 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1758,
+    "views": 1760,
     "avg_watch_s": 5.8,
     "watch_time_s": 7672.8
    },
