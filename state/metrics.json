@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-12T11:15:36+00:00",
+ "updated_at": "2026-11-12T12:54:35+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "title": "Quantos maridos a mulher samaritana já havia tido?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1105734029001288"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-12-2-quiz": {
    "type": "quiz",
    "date": "2026-11-12",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1766342031092946"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 252,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 574.8
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 17,
+    "reach": 18,
     "saved": 0,
     "shares": 0,
     "views": 23,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 77.0
+    "avg_watch_s": 4.3,
+    "watch_time_s": 78.0
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 9.7
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -97,7 +114,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2193,
+    "views": 2218,
     "avg_watch_s": 5.4,
-    "watch_time_s": 8552.9
+    "watch_time_s": 8635.8
    }
   },
   "2026-11-11-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1352,
+    "views": 1353,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5314.6
+    "watch_time_s": 5315.2
    },
    "youtube": {
     "views": 1,
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 14,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
-    "views": 18,
+    "views": 19,
     "total_interactions": 0,
-    "avg_watch_s": 2.3,
-    "watch_time_s": 32.4
+    "avg_watch_s": 2.2,
+    "watch_time_s": 33.3
    },
    "facebook": {
     "likes": 0,
@@ -236,9 +253,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 837,
+    "views": 839,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3028.2
+    "watch_time_s": 3031.8
    },
    "youtube": {
     "views": 0,
@@ -415,9 +432,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1668,
+    "views": 1669,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8890.1
+    "watch_time_s": 8891.1
    },
    "youtube": {
     "views": 2,
@@ -535,7 +552,7 @@
     "youtube": "https://youtube.com/shorts/T-wie80euas"
    },
    "youtube": {
-    "views": 18,
+    "views": 19,
     "likes": 1,
     "comments": 0
    }
@@ -5178,9 +5195,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 2246,
+    "views": 2247,
     "avg_watch_s": 7.3,
-    "watch_time_s": 11074.3
+    "watch_time_s": 11075.7
    }
   },
   "2026-10-19-6-truefalse": {
