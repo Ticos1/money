@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T11:15:39+00:00",
+ "updated_at": "2026-11-12T12:54:38+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-3-truefalse",
+   "date": "2026-11-12",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-12T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-12T12:50:41+00:00",
+    "stories": "2026-11-12T12:51:13+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1105734029001288",
+    "stories": "story 17887784058505517"
+   },
+   "title": "Quantos maridos a mulher samaritana já havia tido?"
+  },
   {
    "id": "2026-11-12-2-quiz",
    "date": "2026-11-12",
