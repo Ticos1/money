@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-12-3-truefalse",
+   "date": "2026-11-12",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-12T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:21:53+00:00",
+   "source": "bank",
+   "bank_id": "q871",
+   "model": null,
+   "content": {
+    "ref": "João 4:18",
+    "ref_label": "João 4:18",
+    "question": "Quantos maridos a mulher samaritana já havia tido?",
+    "shown": "Cinco",
+    "is_true": true,
+    "correct": "Cinco",
+    "evidence": "você teve cinco maridos",
+    "passage": "pois você teve cinco maridos; e o que você tem agora não é seu marido. Nisso você falou a verdade.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #jesus #palavradedeus #cristao #perguntasbiblicas #evangelico #conhecimentobiblico #deus #gospel #biblia",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #jesus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-12T12:50:41+00:00",
+    "stories": "2026-11-12T12:51:13+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1105734029001288",
+    "stories": "story 17887784058505517"
+   }
+  },
+  {
    "id": "2026-11-12-2-quiz",
    "date": "2026-11-12",
    "slot": 2,
