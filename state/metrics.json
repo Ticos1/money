@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-12T07:06:02+00:00",
+ "updated_at": "2026-11-12T09:36:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-1-verse": {
+   "type": "verse",
+   "date": "2026-11-12",
+   "time": "06:30",
+   "title": "Salmos 34:8",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-11-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-11",
@@ -35,13 +43,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 13,
+    "reach": 17,
     "saved": 0,
     "shares": 0,
-    "views": 18,
+    "views": 22,
     "total_interactions": 0,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 71.1
+    "avg_watch_s": 4.5,
+    "watch_time_s": 77.0
    },
    "facebook": {
     "likes": 0,
@@ -83,9 +91,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2159,
+    "views": 2171,
     "avg_watch_s": 5.4,
-    "watch_time_s": 8436.1
+    "watch_time_s": 8458.6
    }
   },
   "2026-11-11-6-truefalse": {
@@ -154,13 +162,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 13,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 16,
+    "views": 18,
     "total_interactions": 0,
-    "avg_watch_s": 1.6,
-    "watch_time_s": 21.0
+    "avg_watch_s": 2.3,
+    "watch_time_s": 32.4
    },
    "facebook": {
     "likes": 0,
