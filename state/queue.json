@@ -1,3 +1,1002 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-12-10-truefalse",
+   "date": "2026-11-12",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-12T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:24:07+00:00",
+   "source": "bank",
+   "bank_id": "q296",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 13:18",
+    "ref_label": "Apocalipse 13:18",
+    "question": "Qual é o número da besta em Apocalipse?",
+    "shown": "666",
+    "is_true": true,
+    "correct": "666",
+    "evidence": "seiscentos e sessenta e seis",
+    "passage": "Aqui está a sabedoria. Aquele que tem entendimento calcule o número da besta, pois é o número de um homem. O seu número é seiscentos e sessenta e seis.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #desafiobiblico #gospel #deus #palavradedeus #cristao #perguntasbiblicas #evangelico #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #gospel #evangelico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #palavradedeus #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual é o número da besta em Apocalipse? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-9-quiz",
+   "date": "2026-11-12",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-12T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "q879",
+   "model": null,
+   "content": {
+    "ref": "João 21:11",
+    "ref_label": "João 21:11",
+    "question": "Quantos grandes peixes havia na rede que Pedro puxou para a terra?",
+    "options": [
+     "120",
+     "153",
+     "144",
+     "200"
+    ],
+    "answer": 1,
+    "evidence": "cento e cinquenta e três grandes peixes",
+    "passage": "Simão Pedro subiu e puxou a rede para a terra, cheia de cento e cinquenta e três grandes peixes. E, embora fossem tantos, a rede não se rompeu.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #palavradedeus #fe #jesus #cristao #desafio #gospel #biblia #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #biblia",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #jesus #gospel",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico #palavradedeus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos grandes peixes havia na rede que Pedro puxou para a terra? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.15,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-8-fill",
+   "date": "2026-11-12",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-12T18:23",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-12T08:23:32+00:00",
+   "source": "bank",
+   "bank_id": "v513",
+   "model": null,
+   "content": {
+    "ref": "Isaías 54:13",
+    "ref_label": "Isaías 54:13",
+    "verse_text": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a paz dos seus filhos.",
+    "question": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.",
+    "options": [
+     "paz",
+     "verdade",
+     "luz",
+     "fé"
+    ],
+    "answer": 0,
+    "answer_word": "paz",
+    "tags": [
+     "familia",
+     "filhos"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para a família: Isaías 54:13\nVocê sabe esse versículo de cor? 📖\n\n“Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.”\n\nA) paz\nB) verdade\nC) luz\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparaafamilia #familia #filhos #completeoversiculo #versiculo #quizbiblico #gospel #jesus #deus #palavradedeus #desafiobiblico #cristao",
+    "facebook": "Versículo para a família: Isaías 54:13\nVocê sabe esse versículo de cor? 📖\n\n“Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.”\n\nA) paz\nB) verdade\nC) luz\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparaafamilia #familia #filhos #completeoversiculo",
+    "tiktok": "Versículo para a família\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparaafamilia #familia #filhos #completeoversiculo #versiculo",
+    "kwai": "Versículo para a família\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculoparaafamilia #familia #filhos #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.”\n\nA) paz\nB) verdade\nC) luz\nD) fé\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo para a família: Isaías 54:13 📖 #shorts",
+     "description": "Versículo para a família: Isaías 54:13\nVocê sabe esse versículo de cor? 📖\n\n“Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.”\n\nA) paz\nB) verdade\nC) luz\nD) fé\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparaafamilia #familia #filhos",
+     "tags": [
+      "versículo para a família",
+      "versículos para a família",
+      "família",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "familia",
+      "filhos",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-7-quiz",
+   "date": "2026-11-12",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-12T16:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:23:13+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Romanos 9:13",
+    "ref_label": "Romanos 9:13",
+    "question": "Qual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”",
+    "options": [
+     "Esaú",
+     "Moisés",
+     "Abraão",
+     "Davi"
+    ],
+    "answer": 0,
+    "evidence": "Esaú",
+    "passage": "Como está escrito: “Amei a Jacó, mas odiei a Esaú.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #gospel #fe #evangelico #biblia #deus #cristao #conhecimentobiblico #teste #jesus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #teste #deus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-6-truefalse",
+   "date": "2026-11-12",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-12T14:59",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:22:51+00:00",
+   "source": "bank",
+   "bank_id": "q401",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 19:4",
+    "ref_label": "1 Reis 19:4",
+    "question": "Debaixo de que árvore Elias se sentou e pediu a morte?",
+    "shown": "Um zimbro",
+    "is_true": true,
+    "correct": "Um zimbro",
+    "evidence": "sentou-se debaixo de um zimbro",
+    "passage": "Mas ele mesmo caminhou um dia de viagem pelo deserto, chegou e sentou-se debaixo de um zimbro. Então pediu para si a morte, e disse: “Já basta. Agora, ó SENHOR, tira a minha vida; pois não sou melhor do que os meus pais.”",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nDebaixo de que árvore Elias se sentou e pediu a morte?\nResposta: Um zimbro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #palavradedeus #evangelico #conhecimentobiblico #gospel #fe #jesus #perguntasbiblicas #biblia #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nDebaixo de que árvore Elias se sentou e pediu a morte?\nResposta: Um zimbro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #evangelico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #biblia #evangelico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #jesus #cristao",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nDebaixo de que árvore Elias se sentou e pediu a morte?\nResposta: Um zimbro\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nDebaixo de que árvore Elias se sentou e pediu a morte?\nResposta: Um zimbro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.96,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-5-curiosity",
+   "date": "2026-11-12",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-12T13:27",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-12T08:22:34+00:00",
+   "source": "bank",
+   "bank_id": "c142",
+   "model": null,
+   "content": {
+    "ref": "Obadias 1:21",
+    "ref_label": "Obadias 1:21",
+    "title": "O menor livro do AT",
+    "text": "Obadias tem apenas um capítulo e é o menor livro do Antigo Testamento. Termina com: \"o reino será do SENHOR\".",
+    "evidence": "o reino será do SENHOR",
+    "passage": "Salvadores subirão ao monte Sião para julgar os montes de Esaú, e o reino será do SENHOR.",
+    "tags": [
+     "obadias",
+     "biblia"
+    ]
+   },
+   "captions": {
+    "instagram": "O menor livro do AT\n\nObadias tem apenas um capítulo e é o menor livro do Antigo Testamento. Termina com: \"o reino será do SENHOR\". (Obadias 1:21)\n\nObadias é o menor livro do Antigo Testamento, contendo apenas um capítulo. Mesmo curto, ele nos lembra que \"o reino será do SENHOR\" (Obadias 1:21). Que essa verdade simples nos inspire a confiar no plano divino. Salve este post para lembrar que, mesmo nas coisas pequenas, Deus tem grandes propósitos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#obadias #biblia #vocesabia #curiosidadesbiblicas #estudobiblico #fe #cristao #palavradedeus #jesus #historiabiblica #gospel #evangelico",
+    "facebook": "O menor livro do AT\n\nObadias tem apenas um capítulo e é o menor livro do Antigo Testamento. Termina com: \"o reino será do SENHOR\". (Obadias 1:21)\n\nObadias é o menor livro do Antigo Testamento, contendo apenas um capítulo. Mesmo curto, ele nos lembra que \"o reino será do SENHOR\" (Obadias 1:21). Que essa verdade simples nos inspire a confiar no plano divino. Salve este post para lembrar que, mesmo nas coisas pequenas, Deus tem grandes propósitos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#obadias #biblia #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Obadias: 1 capítulo, mas nos lembra que \"o reino será do SENHOR\". Compartilhe!\n#obadias #biblia #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Obadias: 1 capítulo, mas nos lembra que \"o reino será do SENHOR\". Compartilhe!\n#obadias #biblia #vocesabia #curiosidadesbiblicas #historiabiblica",
+    "whatsapp": "O menor livro do AT\n\nObadias tem apenas um capítulo e é o menor livro do Antigo Testamento. Termina com: \"o reino será do SENHOR\". (Obadias 1:21)\n\nObadias é o menor livro do Antigo Testamento, contendo apenas um capítulo. Mesmo curto, ele nos lembra que \"o reino será do SENHOR\" (Obadias 1:21). Que essa verdade simples nos inspire a confiar no plano divino. Salve este post para lembrar que, mesmo nas coisas pequenas, Deus tem grandes propósitos.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? O menor livro do AT #shorts",
+     "description": "O menor livro do AT\n\nObadias tem apenas um capítulo e é o menor livro do Antigo Testamento. Termina com: \"o reino será do SENHOR\". (Obadias 1:21)\n\nObadias é o menor livro do Antigo Testamento, contendo apenas um capítulo. Mesmo curto, ele nos lembra que \"o reino será do SENHOR\" (Obadias 1:21). Que essa verdade simples nos inspire a confiar no plano divino. Salve este post para lembrar que, mesmo nas coisas pequenas, Deus tem grandes propósitos.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #obadias #biblia #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "obadias",
+      "biblia",
+      "obadias"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-4-quiz",
+   "date": "2026-11-12",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-12T12:07",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:22:13+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 29:5",
+    "ref_label": "Salmos 29:5",
+    "question": "Qual árvore a voz do Senhor quebra no Salmo 29?",
+    "options": [
+     "cedros",
+     "carvalho",
+     "pinheiro",
+     "oliveira"
+    ],
+    "answer": 0,
+    "evidence": "cedros",
+    "passage": "A voz do SENHOR quebra os cedros. Sim, o SENHOR despedaça os cedros do Líbano.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual árvore a voz do Senhor quebra no Salmo 29?\n\nA) cedros\nB) carvalho\nC) pinheiro\nD) oliveira\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #teste #jesus #conhecimentobiblico #fe #evangelico #deus #gospel #palavradedeus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual árvore a voz do Senhor quebra no Salmo 29?\n\nA) cedros\nB) carvalho\nC) pinheiro\nD) oliveira\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #evangelico",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #teste #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #evangelico #cristao",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual árvore a voz do Senhor quebra no Salmo 29?\n\nA) cedros\nB) carvalho\nC) pinheiro\nD) oliveira\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual árvore a voz do Senhor quebra no Salmo 29? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual árvore a voz do Senhor quebra no Salmo 29?\n\nA) cedros\nB) carvalho\nC) pinheiro\nD) oliveira\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.1,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-3-truefalse",
+   "date": "2026-11-12",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-12T09:50",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:21:53+00:00",
+   "source": "bank",
+   "bank_id": "q871",
+   "model": null,
+   "content": {
+    "ref": "João 4:18",
+    "ref_label": "João 4:18",
+    "question": "Quantos maridos a mulher samaritana já havia tido?",
+    "shown": "Cinco",
+    "is_true": true,
+    "correct": "Cinco",
+    "evidence": "você teve cinco maridos",
+    "passage": "pois você teve cinco maridos; e o que você tem agora não é seu marido. Nisso você falou a verdade.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #jesus #palavradedeus #cristao #perguntasbiblicas #evangelico #conhecimentobiblico #deus #gospel #biblia",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #jesus",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQuantos maridos a mulher samaritana já havia tido?\nResposta: Cinco\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-2-quiz",
+   "date": "2026-11-12",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-12T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:21:37+00:00",
+   "source": "bank",
+   "bank_id": "q1080",
+   "model": null,
+   "content": {
+    "ref": "Jó 42:10",
+    "ref_label": "Jó 42:10",
+    "question": "Quanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?",
+    "options": [
+     "O dobro",
+     "O triplo",
+     "Sete vezes mais",
+     "Dez vezes mais"
+    ],
+    "answer": 0,
+    "evidence": "o dobro de tudo o que ele tinha antes",
+    "passage": "O SENHOR restaurou a prosperidade de Jó quando ele orou pelos seus amigos. O SENHOR deu a Jó o dobro de tudo o que ele tinha antes.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?\n\nA) O dobro\nB) O triplo\nC) Sete vezes mais\nD) Dez vezes mais\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #palavradedeus #gospel #biblia #evangelico #teste #jesus #desafio #conhecimentobiblico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?\n\nA) O dobro\nB) O triplo\nC) Sete vezes mais\nD) Dez vezes mais\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #cristao #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #deus #cristao",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?\n\nA) O dobro\nB) O triplo\nC) Sete vezes mais\nD) Dez vezes mais\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?\n\nA) O dobro\nB) O triplo\nC) Sete vezes mais\nD) Dez vezes mais\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-12-1-verse",
+   "date": "2026-11-12",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-12T06:26",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:21:16+00:00",
+   "source": "bank",
+   "bank_id": "v171",
+   "model": null,
+   "content": {
+    "ref": "Salmos 34:8",
+    "ref_label": "Salmos 34:8",
+    "verse_text": "Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.",
+    "on_screen": "Prove e veja que o Senhor é bom.",
+    "reflection": "A bondade de Deus não é só teoria: dá para experimentar. Feliz quem se refugia nEle.",
+    "theme": "bondade de Deus",
+    "mood": "alegria",
+    "tags": [
+     "bondade",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo #deus #gospel #jesus #biblia #oracao #palavradedeus #fe",
+    "facebook": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia",
+    "tiktok": "Versículo sobre o cuidado de Deus\nA bondade de Deus se sente ao se refugiar nEle. Salve e compartilhe! 🙏\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo",
+    "kwai": "Versículo sobre o cuidado de Deus\nA bondade de Deus se sente ao se refugiar nEle. Salve e compartilhe! 🙏\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo",
+    "whatsapp": "“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre o cuidado de Deus: Salmos 34:8 🙏 #shorts",
+     "description": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreocuidadodedeus #bondade #salmos",
+     "tags": [
+      "versículo sobre o cuidado de Deus",
+      "versículos sobre o cuidado de Deus",
+      "bondade de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "bondade",
+      "salmos",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 16.86,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-12/2026-11-12-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
