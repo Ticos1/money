@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-12-9-quiz",
+   "date": "2026-11-12",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-12T20:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "q879",
+   "model": null,
+   "content": {
+    "ref": "João 21:11",
+    "ref_label": "João 21:11",
+    "question": "Quantos grandes peixes havia na rede que Pedro puxou para a terra?",
+    "options": [
+     "120",
+     "153",
+     "144",
+     "200"
+    ],
+    "answer": 1,
+    "evidence": "cento e cinquenta e três grandes peixes",
+    "passage": "Simão Pedro subiu e puxou a rede para a terra, cheia de cento e cinquenta e três grandes peixes. E, embora fossem tantos, a rede não se rompeu.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #palavradedeus #fe #jesus #cristao #desafio #gospel #biblia #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #biblia",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #jesus #gospel",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico #palavradedeus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos grandes peixes havia na rede que Pedro puxou para a terra? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos grandes peixes havia na rede que Pedro puxou para a terra?\n\nA) 120\nB) 153\nC) 144\nD) 200\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-12T23:05:42+00:00",
+    "instagram": "2026-11-12T23:07:11+00:00",
+    "facebook": "2026-11-12T23:07:15+00:00",
+    "stories": "2026-11-12T23:07:45+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/7Q8H855wUsE",
+    "instagram": "https://www.instagram.com/reel/DfqMq5ljKCb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1144893001323753",
+    "stories": "story 18091577765272265"
+   }
+  },
+  {
    "id": "2026-11-12-8-fill",
    "date": "2026-11-12",
    "slot": 8,
