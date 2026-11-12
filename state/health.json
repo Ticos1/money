@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-12T00:44:29+00:00",
- "date": "2026-11-11",
+ "updated_at": "2026-11-12T07:06:04+00:00",
+ "date": "2026-11-12",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 2,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 440,
-   "days_left": 440,
+   "fresh": 441,
+   "days_left": 441,
    "warn": false
   },
   {
@@ -37,8 +37,8 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 972,
-   "days_left": 138,
+   "fresh": 973,
+   "days_left": 139,
    "warn": false
   },
   {
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-11-10-truefalse",
-   "date": "2026-11-11",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-11T21:40",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-12T00:40:41+00:00",
-    "stories": "2026-11-12T00:41:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29014021264941613",
-    "stories": "story 17888173680502666"
-   },
-   "title": "Segundo Efésios 6:1, o que os filhos devem fazer no Senhor?"
-  },
-  {
-   "id": "2026-11-11-9-quiz",
-   "date": "2026-11-11",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-11T20:03",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-11T23:05:34+00:00",
-    "instagram": "2026-11-11T23:06:07+00:00",
-    "facebook": "2026-11-11T23:06:11+00:00",
-    "stories": "2026-11-11T23:06:44+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/eIj-otats3A",
-    "instagram": "https://www.instagram.com/reel/Dfnnv7-liKo/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1808396890424915",
-    "stories": "story 18104932382035218"
-   },
-   "title": "Naamã era comandante do exército de qual reino?"
-  },
-  {
-   "id": "2026-11-11-8-fill",
-   "date": "2026-11-11",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-11T18:38",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-11T21:50:35+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-11T21:51:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ",
-    "stories": "story 18054228101817093"
-   },
-   "title": "O SENHOR está perto de todos os que o invocam, de todos os que o invocam em _____."
-  },
-  {
-   "id": "2026-11-11-7-quiz",
-   "date": "2026-11-11",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-11T16:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-11T19:55:48+00:00",
-    "stories": "2026-11-11T19:57:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1609092917133416",
-    "stories": "story 18027339767945772"
-   },
-   "title": "Jesus disse: 'Vocês são o ... da terra'."
-  },
-  {
-   "id": "2026-11-11-6-truefalse",
-   "date": "2026-11-11",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-11T15:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-11T18:05:44+00:00",
-    "instagram": "2026-11-11T18:07:03+00:00",
-    "facebook": "2026-11-11T18:07:08+00:00",
-    "stories": "2026-11-11T18:07:42+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/CyQY1TLoHn8",
-    "instagram": "https://www.instagram.com/reel/DfnFg7CiR0l/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2185783925480578",
-    "stories": "story 18096956606652535"
-   },
-   "title": "Qual foi o sinal para os pastores reconhecerem o bebê?"
-  },
-  {
-   "id": "2026-11-11-5-curiosity",
-   "date": "2026-11-11",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-11T13:25",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-11T16:25:44+00:00",
-    "stories": "2026-11-11T16:26:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1686269456492680",
-    "stories": "story 17920207431530887"
-   },
-   "title": "Enoque, o sétimo depois de Adão"
-  },
-  {
-   "id": "2026-11-11-4-quiz",
-   "date": "2026-11-11",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-11T11:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-11T14:55:35+00:00",
-    "instagram": "2026-11-11T14:56:11+00:00",
-    "facebook": "2026-11-11T14:56:16+00:00",
-    "stories": "2026-11-11T14:56:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/7-5nqdUhtc8",
-    "instagram": "https://www.instagram.com/reel/DfmvrNREhe6/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1706573747711205",
-    "stories": "story 18072897542503024"
-   },
-   "title": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?"
-  },
-  {
-   "id": "2026-11-11-3-truefalse",
-   "date": "2026-11-11",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-11T09:56",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-11T13:00:38+00:00",
-    "stories": "2026-11-11T13:01:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1108507235525019",
-    "stories": "story 18134358724840282"
-   },
-   "title": "Segundo Oseias, o número dos filhos de Israel será como o quê?"
-  },
-  {
-   "id": "2026-11-11-2-quiz",
-   "date": "2026-11-11",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-11T07:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-11T10:55:37+00:00",
-    "instagram": null,
-    "facebook": "2026-11-11T10:55:43+00:00",
-    "stories": "2026-11-11T10:56:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/sn62zmTNXtY",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1115459254696689",
-    "stories": "story 18000370439828838"
-   },
-   "title": "Por que devemos lançar sobre Deus todas as nossas preocupações?"
-  },
-  {
-   "id": "2026-11-11-1-verse",
-   "date": "2026-11-11",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-11T06:26",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-11T09:32:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18132689990501719"
-   },
-   "title": "1 João 3:20"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
