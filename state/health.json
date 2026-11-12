@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-12T09:37:01+00:00",
+ "updated_at": "2026-11-12T11:15:39+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-2-quiz",
+   "date": "2026-11-12",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-12T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-12T11:10:41+00:00",
+    "instagram": null,
+    "facebook": "2026-11-12T11:10:48+00:00",
+    "stories": "2026-11-12T11:11:24+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/c_MJV6Efg1Q",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1766342031092946",
+    "stories": "story 18115833853874020"
+   },
+   "title": "Quanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?"
+  },
   {
    "id": "2026-11-12-1-verse",
    "date": "2026-11-12",
