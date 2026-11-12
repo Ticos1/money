@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T07:06:04+00:00",
+ "updated_at": "2026-11-12T09:37:01+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 4,
   "max": 20,
   "enabled": true
  },
@@ -16,39 +16,63 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 556,
-   "days_left": 556,
+   "fresh": 555,
+   "days_left": 555,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 441,
-   "days_left": 441,
+   "fresh": 440,
+   "days_left": 440,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 934,
-   "days_left": 133,
+   "fresh": 928,
+   "days_left": 132,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 973,
-   "days_left": 139,
+   "fresh": 967,
+   "days_left": 138,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 224,
-   "days_left": 224,
+   "fresh": 222,
+   "days_left": 222,
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-12-1-verse",
+   "date": "2026-11-12",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-12T06:26",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-12T09:31:28+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18035080436895180"
+   },
+   "title": "Salmos 34:8"
+  }
+ ],
  "specials": {}
 }
