@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-12T09:36:58+00:00",
+ "updated_at": "2026-11-12T11:15:36+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-12",
+   "time": "08:00",
+   "title": "Quanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/c_MJV6Efg1Q",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1766342031092946"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-12-1-verse": {
    "type": "verse",
    "date": "2026-11-12",
@@ -46,7 +69,7 @@
     "reach": 17,
     "saved": 0,
     "shares": 0,
-    "views": 22,
+    "views": 23,
     "total_interactions": 0,
     "avg_watch_s": 4.5,
     "watch_time_s": 77.0
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2171,
+    "views": 2193,
     "avg_watch_s": 5.4,
-    "watch_time_s": 8458.6
+    "watch_time_s": 8552.9
    }
   },
   "2026-11-11-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1350,
+    "views": 1352,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5309.1
+    "watch_time_s": 5314.6
    },
    "youtube": {
     "views": 1,
@@ -213,9 +236,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 833,
+    "views": 837,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3015.8
+    "watch_time_s": 3028.2
    },
    "youtube": {
     "views": 0,
@@ -392,9 +415,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1667,
+    "views": 1668,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8889.4
+    "watch_time_s": 8890.1
    },
    "youtube": {
     "views": 2,
