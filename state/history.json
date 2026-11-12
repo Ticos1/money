@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-12-7-quiz",
+   "date": "2026-11-12",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-12T16:57",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-12T08:23:13+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Romanos 9:13",
+    "ref_label": "Romanos 9:13",
+    "question": "Qual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”",
+    "options": [
+     "Esaú",
+     "Moisés",
+     "Abraão",
+     "Davi"
+    ],
+    "answer": 0,
+    "evidence": "Esaú",
+    "passage": "Como está escrito: “Amei a Jacó, mas odiei a Esaú.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #gospel #fe #evangelico #biblia #deus #cristao #conhecimentobiblico #teste #jesus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #gospel #deus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #teste #deus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”\n\nA) Esaú\nB) Moisés\nC) Abraão\nD) Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-12T20:00:44+00:00",
+    "stories": "2026-11-12T20:01:20+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1692127865757425",
+    "stories": "story 18359972071223950"
+   }
+  },
+  {
    "id": "2026-11-12-6-truefalse",
    "date": "2026-11-12",
    "slot": 6,
