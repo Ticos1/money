@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-12T12:54:38+00:00",
+ "updated_at": "2026-11-12T15:16:49+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-4-quiz",
+   "date": "2026-11-12",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-12T12:07",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-12T15:10:46+00:00",
+    "instagram": "2026-11-12T15:11:21+00:00",
+    "facebook": "2026-11-12T15:11:27+00:00",
+    "stories": "2026-11-12T15:12:01+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/lpnd5phv6y4",
+    "instagram": "https://www.instagram.com/reel/DfpWNRwCdR6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136112788907472",
+    "stories": "story 17879656425572930"
+   },
+   "title": "Qual árvore a voz do Senhor quebra no Salmo 29?"
+  },
   {
    "id": "2026-11-12-3-truefalse",
    "date": "2026-11-12",
