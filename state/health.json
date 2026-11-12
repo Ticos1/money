@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T23:09:33+00:00",
+ "updated_at": "2026-11-12T00:44:29+00:00",
  "date": "2026-11-11",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-11-10-truefalse",
+   "date": "2026-11-11",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-11T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-12T00:40:41+00:00",
+    "stories": "2026-11-12T00:41:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29014021264941613",
+    "stories": "story 17888173680502666"
+   },
+   "title": "Segundo Efésios 6:1, o que os filhos devem fazer no Senhor?"
+  },
   {
    "id": "2026-11-11-9-quiz",
    "date": "2026-11-11",
