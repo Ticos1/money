@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-12T20:05:21+00:00",
+ "updated_at": "2026-11-12T21:29:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-8-fill": {
+   "type": "fill",
+   "date": "2026-11-12",
+   "time": "18:30",
+   "title": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-12-7-quiz": {
    "type": "quiz",
    "date": "2026-11-12",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1692127865757425"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 5,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 648,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1853.5
    }
   },
   "2026-11-12-6-truefalse": {
@@ -35,20 +50,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 34,
+    "views": 40,
     "total_interactions": 0,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 111.5
+    "avg_watch_s": 4.9,
+    "watch_time_s": 118.3
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 303,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1052.6
+    "views": 316,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1133.6
    },
    "youtube": {
     "views": 0,
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 244,
+    "views": 246,
     "avg_watch_s": 4.0,
-    "watch_time_s": 881.4
+    "watch_time_s": 882.9
    }
   },
   "2026-11-12-4-quiz": {
@@ -98,9 +113,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1319,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 5591.4
+    "views": 1321,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5593.3
    },
    "youtube": {
     "views": 0,
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1432,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 5308.4
+    "views": 1438,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 5316.9
    }
   },
   "2026-11-12-2-quiz": {
@@ -218,7 +233,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
@@ -235,9 +250,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2239,
+    "views": 2240,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8714.8
+    "watch_time_s": 8717.1
    }
   },
   "2026-11-11-6-truefalse": {
@@ -357,9 +372,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 841,
+    "views": 842,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3058.2
+    "watch_time_s": 3059.0
    },
    "youtube": {
     "views": 0,
@@ -536,9 +551,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1678,
+    "views": 1684,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8940.4
+    "watch_time_s": 8958.6
    },
    "youtube": {
     "views": 2,
