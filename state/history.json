@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-11-12-1-verse",
+   "date": "2026-11-12",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-12T06:26",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:21:16+00:00",
+   "source": "bank",
+   "bank_id": "v171",
+   "model": null,
+   "content": {
+    "ref": "Salmos 34:8",
+    "ref_label": "Salmos 34:8",
+    "verse_text": "Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.",
+    "on_screen": "Prove e veja que o Senhor é bom.",
+    "reflection": "A bondade de Deus não é só teoria: dá para experimentar. Feliz quem se refugia nEle.",
+    "theme": "bondade de Deus",
+    "mood": "alegria",
+    "tags": [
+     "bondade",
+     "salmos"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo #deus #gospel #jesus #biblia #oracao #palavradedeus #fe",
+    "facebook": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia",
+    "tiktok": "Versículo sobre o cuidado de Deus\nA bondade de Deus se sente ao se refugiar nEle. Salve e compartilhe! 🙏\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo",
+    "kwai": "Versículo sobre o cuidado de Deus\nA bondade de Deus se sente ao se refugiar nEle. Salve e compartilhe! 🙏\n#versiculosobreocuidadodedeus #bondade #salmos #versiculododia #versiculo",
+    "whatsapp": "“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre o cuidado de Deus: Salmos 34:8 🙏 #shorts",
+     "description": "Versículo sobre o cuidado de Deus: Salmos 34:8\n“Oh, provem e vejam que o SENHOR é bom. Bem-aventurado é o homem que nele se refugia.” (Salmos 34:8)\n\nA bondade do Senhor não fica só na teoria; ela se prova na prática diária. Quando nos refugiamos nEle, encontramos paz e segurança que o mundo não oferece. Experimente essa realidade, sinta o conforto de quem confia no amor de Deus. Salve este post para lembrar que, ao buscar refúgio no Senhor, somos verdadeiramente bem-aventurados. 🙏✨\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreocuidadodedeus #bondade #salmos",
+     "tags": [
+      "versículo sobre o cuidado de Deus",
+      "versículos sobre o cuidado de Deus",
+      "bondade de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "bondade",
+      "salmos",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-12T09:31:28+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18035080436895180"
+   }
+  },
+  {
    "id": "2026-11-11-10-truefalse",
    "date": "2026-11-11",
    "slot": 10,
