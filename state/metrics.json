@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T16:34:42+00:00",
+ "updated_at": "2026-11-12T17:37:15+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -16,9 +16,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 140,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 150.5
    }
   },
   "2026-11-12-4-quiz": {
@@ -46,9 +46,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 485,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1389.5
+    "views": 888,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 2709.0
    },
    "youtube": {
     "views": 0,
@@ -68,9 +68,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1370,
+    "views": 1401,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5033.2
+    "watch_time_s": 5157.8
    }
   },
   "2026-11-12-2-quiz": {
@@ -86,12 +86,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 432,
+    "views": 433,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1573.0
+    "watch_time_s": 1586.7
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -183,9 +183,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2233,
+    "views": 2234,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8693.2
+    "watch_time_s": 8697.1
    }
   },
   "2026-11-11-6-truefalse": {
@@ -205,7 +205,7 @@
     "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 20,
+    "views": 21,
     "total_interactions": 0,
     "avg_watch_s": 3.9,
     "watch_time_s": 54.7
@@ -265,9 +265,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 352,
+    "views": 353,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1290.2
+    "watch_time_s": 1291.0
    },
    "youtube": {
     "views": 0,
@@ -2251,7 +2251,7 @@
    },
    "youtube": {
     "views": 127,
-    "likes": 0,
+    "likes": 2,
     "comments": 0
    }
   },
