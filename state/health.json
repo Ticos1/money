@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-12T20:05:24+00:00",
+ "updated_at": "2026-11-12T21:29:54+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-8-fill",
+   "date": "2026-11-12",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-12T18:23",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-12T21:25:39+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-12T21:26:12+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/aQzutyvfVLk",
+    "stories": "story 18116655239033817"
+   },
+   "title": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a _____ dos seus filhos."
+  },
   {
    "id": "2026-11-12-7-quiz",
    "date": "2026-11-12",
