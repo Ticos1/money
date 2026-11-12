@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-12T17:37:15+00:00",
+ "updated_at": "2026-11-12T18:07:49+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-12",
+   "time": "15:00",
+   "title": "Debaixo de que árvore Elias se sentou e pediu a morte?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ql6OoUTf_c8",
+    "instagram": "https://www.instagram.com/reel/DfpprO7DmYc/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1484209166980857"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-12-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-12",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 140,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 150.5
+    "views": 162,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 618.9
    }
   },
   "2026-11-12-4-quiz": {
@@ -44,11 +79,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 4,
-    "comments": 0,
-    "views": 888,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 2709.0
+    "likes": 5,
+    "comments": 1,
+    "views": 1200,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 4506.4
    },
    "youtube": {
     "views": 0,
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1401,
+    "views": 1411,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5157.8
+    "watch_time_s": 5174.9
    }
   },
   "2026-11-12-2-quiz": {
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 14,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
     "views": 21,
     "total_interactions": 0,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 54.7
+    "avg_watch_s": 3.7,
+    "watch_time_s": 55.3
    },
    "facebook": {
     "likes": 5,
@@ -484,9 +519,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1676,
+    "views": 1677,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8939.0
+    "watch_time_s": 8939.6
    },
    "youtube": {
     "views": 2,
@@ -529,7 +564,7 @@
     "watch_time_s": 4171.6
    },
    "youtube": {
-    "views": 10,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -2251,7 +2286,7 @@
    },
    "youtube": {
     "views": 127,
-    "likes": 2,
+    "likes": 0,
     "comments": 0
    }
   },
