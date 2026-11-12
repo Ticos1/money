@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-12T18:07:49+00:00",
+ "updated_at": "2026-11-12T20:05:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "title": "Qual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1692127865757425"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-12-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-12",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 20,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 34,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 5.6,
+    "watch_time_s": 111.5
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 303,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1052.6
    },
    "youtube": {
     "views": 0,
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2475322246606829"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 162,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 618.9
+    "views": 244,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 881.4
    }
   },
   "2026-11-12-4-quiz": {
@@ -81,9 +98,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 1200,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 4506.4
+    "views": 1319,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 5591.4
    },
    "youtube": {
     "views": 0,
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1411,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 5174.9
+    "views": 1432,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 5308.4
    }
   },
   "2026-11-12-2-quiz": {
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 433,
+    "views": 436,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1586.7
+    "watch_time_s": 1603.6
    },
    "youtube": {
     "views": 1,
@@ -151,9 +168,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 7.6,
+    "watch_time_s": 7.6
    }
   },
   "2026-11-11-9-quiz": {
@@ -181,9 +198,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 9.7,
-    "watch_time_s": 9.7
+    "views": 3,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 13.0
    },
    "youtube": {
     "views": 1,
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 4,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2234,
+    "views": 2239,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8697.1
+    "watch_time_s": 8714.8
    }
   },
   "2026-11-11-6-truefalse": {
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1357,
+    "views": 1360,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5352.5
+    "watch_time_s": 5355.3
    },
    "youtube": {
     "views": 1,
@@ -519,9 +536,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1677,
+    "views": 1678,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8939.6
+    "watch_time_s": 8940.4
    },
    "youtube": {
     "views": 2,
@@ -1352,9 +1369,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1429,
+    "views": 1430,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5759.0
+    "watch_time_s": 5766.8
    },
    "youtube": {
     "views": 172,
@@ -2286,7 +2303,7 @@
    },
    "youtube": {
     "views": 127,
-    "likes": 0,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -5536,7 +5553,7 @@
     "watch_time_s": 922.1
    },
    "youtube": {
-    "views": 361,
+    "views": 362,
     "likes": 6,
     "comments": 0
    }
