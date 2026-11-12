@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-12T17:37:20+00:00",
+ "updated_at": "2026-11-12T18:07:54+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-6-truefalse",
+   "date": "2026-11-12",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-12T14:59",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-12T18:00:54+00:00",
+    "instagram": "2026-11-12T18:01:22+00:00",
+    "facebook": "2026-11-12T18:01:28+00:00",
+    "stories": "2026-11-12T18:02:37+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ql6OoUTf_c8",
+    "instagram": "https://www.instagram.com/reel/DfpprO7DmYc/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1484209166980857",
+    "stories": "story 18106519937292559"
+   },
+   "title": "Debaixo de que árvore Elias se sentou e pediu a morte?"
+  },
   {
    "id": "2026-11-12-5-curiosity",
    "date": "2026-11-12",
