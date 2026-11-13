@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-13T06:36:40+00:00",
+ "updated_at": "2026-11-13T09:45:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-1-verse": {
+   "type": "verse",
+   "date": "2026-11-13",
+   "time": "06:30",
+   "title": "Efésios 4:2",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-12-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-12",
@@ -83,7 +91,7 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2259,
+    "views": 2261,
     "avg_watch_s": 5.8,
     "watch_time_s": 9987.0
    }
@@ -165,9 +173,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1332,
+    "views": 1335,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5631.6
+    "watch_time_s": 5638.4
    },
    "youtube": {
     "views": 0,
@@ -187,9 +195,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1469,
+    "views": 1471,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5495.7
+    "watch_time_s": 5496.9
    }
   },
   "2026-11-12-2-quiz": {
@@ -205,9 +213,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 441,
+    "views": 445,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1623.2
+    "watch_time_s": 1635.6
    },
    "youtube": {
     "views": 3,
