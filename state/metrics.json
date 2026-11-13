@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-12T23:36:39+00:00",
+ "updated_at": "2026-11-13T00:40:05+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-12-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-12",
+   "time": "21:30",
+   "title": "Qual é o número da besta em Apocalipse?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2215261152747775"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-12-9-quiz": {
    "type": "quiz",
    "date": "2026-11-12",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 39,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 4.8,
+    "watch_time_s": 28.6
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
     "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.0,
+    "watch_time_s": 3.0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -49,7 +66,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 1,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
@@ -64,11 +81,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1692127865757425"
    },
    "facebook": {
-    "likes": 12,
+    "likes": 13,
     "comments": 2,
-    "views": 1708,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 7483.4
+    "views": 2208,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 8770.6
    }
   },
   "2026-11-12-6-truefalse": {
@@ -85,18 +102,18 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 42,
+    "reach": 64,
     "saved": 0,
     "shares": 0,
-    "views": 69,
+    "views": 98,
     "total_interactions": 0,
-    "avg_watch_s": 5.9,
-    "watch_time_s": 247.8
+    "avg_watch_s": 5.3,
+    "watch_time_s": 337.4
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 321,
+    "views": 322,
     "avg_watch_s": 4.7,
     "watch_time_s": 1152.8
    },
@@ -137,13 +154,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 0.6,
-    "watch_time_s": 0.6
+    "avg_watch_s": 1.5,
+    "watch_time_s": 5.9
    },
    "facebook": {
     "likes": 5,
@@ -170,9 +187,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1451,
+    "views": 1456,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5415.2
+    "watch_time_s": 5434.2
    }
   },
   "2026-11-12-2-quiz": {
@@ -193,7 +210,7 @@
     "watch_time_s": 1622.6
    },
    "youtube": {
-    "views": 1,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
