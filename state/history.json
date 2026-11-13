@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-12-10-truefalse",
+   "date": "2026-11-12",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-12T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-12T08:24:07+00:00",
+   "source": "bank",
+   "bank_id": "q296",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 13:18",
+    "ref_label": "Apocalipse 13:18",
+    "question": "Qual é o número da besta em Apocalipse?",
+    "shown": "666",
+    "is_true": true,
+    "correct": "666",
+    "evidence": "seiscentos e sessenta e seis",
+    "passage": "Aqui está a sabedoria. Aquele que tem entendimento calcule o número da besta, pois é o número de um homem. O seu número é seiscentos e sessenta e seis.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #desafiobiblico #gospel #deus #palavradedeus #cristao #perguntasbiblicas #evangelico #jesus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #gospel #evangelico",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #palavradedeus #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual é o número da besta em Apocalipse? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQual é o número da besta em Apocalipse?\nResposta: 666\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-13T00:35:55+00:00",
+    "stories": "2026-11-13T00:36:38+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2215261152747775",
+    "stories": "story 18024409961952141"
+   }
+  },
+  {
    "id": "2026-11-12-9-quiz",
    "date": "2026-11-12",
    "slot": 9,
