@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-13T11:16:24+00:00",
+ "updated_at": "2026-11-13T13:01:30+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-13",
+   "time": "10:00",
+   "title": "Quem foi obrigado a carregar a cruz de Jesus?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1147087871405060"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-13-2-quiz": {
    "type": "quiz",
    "date": "2026-11-13",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 184,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 742.6
    },
    "youtube": {
-    "views": 0,
+    "views": 64,
     "likes": 0,
     "comments": 0
    }
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2265,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 10001.7
+    "views": 2283,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 10145.3
    }
   },
   "2026-11-12-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 327,
+    "views": 333,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1175.7
+    "watch_time_s": 1210.1
    },
    "youtube": {
     "views": 1,
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1345,
+    "views": 1348,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5649.2
+    "watch_time_s": 5668.8
    },
    "youtube": {
     "views": 0,
@@ -457,7 +474,7 @@
     "comments": 0,
     "views": 844,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3059.2
+    "watch_time_s": 3060.5
    },
    "youtube": {
     "views": 0,
@@ -634,9 +651,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1684,
+    "views": 1685,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8960.2
+    "watch_time_s": 8961.2
    },
    "youtube": {
     "views": 4,
