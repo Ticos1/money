@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-13T21:29:03+00:00",
+ "updated_at": "2026-11-13T23:00:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "title": "Segundo 1 Reis 10, o rei tornou a prata tão comum em Jerusalém quanto o quê?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/jEGb0yLAv00",
+    "instagram": "https://www.instagram.com/reel/DfswM8nE40z/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1481251173904165"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-13-8-fill": {
    "type": "fill",
    "date": "2026-11-13",
@@ -14,7 +49,7 @@
     "youtube": "https://youtube.com/shorts/XZ6iMr4w4hg"
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -29,11 +64,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1864152681453328"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 418,
-    "avg_watch_s": 6.8,
-    "watch_time_s": 1330.6
+    "views": 633,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 2769.9
    }
   },
   "2026-11-13-6-truefalse": {
@@ -59,14 +94,14 @@
     "watch_time_s": 39.1
    },
    "facebook": {
-    "likes": 3,
-    "comments": 1,
-    "views": 589,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 2074.4
+    "likes": 4,
+    "comments": 2,
+    "views": 1031,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 4139.7
    },
    "youtube": {
-    "views": 11,
+    "views": 43,
     "likes": 0,
     "comments": 0
    }
@@ -102,13 +137,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 17,
     "saved": 0,
     "shares": 0,
-    "views": 16,
+    "views": 27,
     "total_interactions": 0,
-    "avg_watch_s": 8.9,
-    "watch_time_s": 79.8
+    "avg_watch_s": 6.8,
+    "watch_time_s": 115.1
    },
    "facebook": {
     "likes": 1,
@@ -118,7 +153,7 @@
     "watch_time_s": 36.1
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 277,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 973.1
+    "views": 280,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 983.7
    }
   },
   "2026-11-13-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 369,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1659.8
+    "views": 389,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 1774.6
    },
    "youtube": {
     "views": 162,
@@ -250,9 +285,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2307,
+    "views": 2311,
     "avg_watch_s": 5.9,
-    "watch_time_s": 10254.7
+    "watch_time_s": 10270.6
    }
   },
   "2026-11-12-6-truefalse": {
@@ -354,9 +389,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1478,
+    "views": 1480,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5507.8
+    "watch_time_s": 5516.8
    }
   },
   "2026-11-12-2-quiz": {
@@ -499,9 +534,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1361,
+    "views": 1362,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5365.8
+    "watch_time_s": 5366.8
    },
    "youtube": {
     "views": 1,
@@ -1029,9 +1064,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 675,
+    "views": 676,
     "avg_watch_s": 6.3,
-    "watch_time_s": 3278.6
+    "watch_time_s": 3279.3
    },
    "youtube": {
     "views": 196,
@@ -1575,7 +1610,7 @@
     "comments": 0,
     "views": 1549,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5963.5
+    "watch_time_s": 5965.7
    }
   },
   "2026-11-06-6-truefalse": {
@@ -2098,7 +2133,7 @@
     "watch_time_s": 1044.1
    },
    "youtube": {
-    "views": 45,
+    "views": 46,
     "likes": 2,
     "comments": 0
    }
