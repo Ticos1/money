@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-13T17:13:42+00:00",
+ "updated_at": "2026-11-13T18:02:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-13",
+   "time": "15:00",
+   "title": "Qual altura tinha a forca que Hamã mandou fazer para Mardoqueu?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/SguzvgggBD8",
+    "instagram": "https://www.instagram.com/reel/DfsN3geDah3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118518087854368"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-13-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-13",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 15,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 54.8
+    "views": 51,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 106.9
    }
   },
   "2026-11-13-4-quiz": {
@@ -38,7 +73,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
@@ -51,7 +86,7 @@
     "watch_time_s": 36.1
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 266,
+    "views": 268,
     "avg_watch_s": 4.5,
-    "watch_time_s": 925.0
+    "watch_time_s": 940.3
    }
   },
   "2026-11-13-2-quiz": {
@@ -84,11 +119,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1601171875113842"
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 319,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 1357.5
+    "views": 335,
+    "avg_watch_s": 6.2,
+    "watch_time_s": 1492.9
    },
    "youtube": {
     "views": 150,
@@ -287,9 +322,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1477,
+    "views": 1478,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5507.6
+    "watch_time_s": 5507.8
    }
   },
   "2026-11-12-2-quiz": {
@@ -402,9 +437,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2249,
+    "views": 2250,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8744.5
+    "watch_time_s": 8745.1
    }
   },
   "2026-11-11-6-truefalse": {
