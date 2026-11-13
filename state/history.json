@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-13-3-truefalse",
+   "date": "2026-11-13",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-13T09:55",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-13T08:21:52+00:00",
+   "source": "bank",
+   "bank_id": "q048",
+   "model": null,
+   "content": {
+    "ref": "Mateus 27:32",
+    "ref_label": "Mateus 27:32",
+    "question": "Quem foi obrigado a carregar a cruz de Jesus?",
+    "shown": "Pedro",
+    "is_true": false,
+    "correct": "Simão",
+    "evidence": "um homem de Cirene, chamado Simão",
+    "passage": "Ao saírem, encontraram um homem de Cirene, chamado Simão, e o obrigaram a ir com eles, para que carregasse a sua cruz.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem foi obrigado a carregar a cruz de Jesus?\nResposta: Pedro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #biblia #cristao #desafiobiblico #jesus #conhecimentobiblico #perguntasbiblicas #deus #gospel #fe",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem foi obrigado a carregar a cruz de Jesus?\nResposta: Pedro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #gospel",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #fe #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #gospel #jesus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuem foi obrigado a carregar a cruz de Jesus?\nResposta: Pedro\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quem foi obrigado a carregar a cruz de Jesus? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuem foi obrigado a carregar a cruz de Jesus?\nResposta: Pedro\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-13T12:55:52+00:00",
+    "stories": "2026-11-13T12:57:16+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1147087871405060",
+    "stories": "story 17985993470901741"
+   }
+  },
+  {
    "id": "2026-11-13-2-quiz",
    "date": "2026-11-13",
    "slot": 2,
