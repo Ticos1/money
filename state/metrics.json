@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-13T13:01:30+00:00",
+ "updated_at": "2026-11-13T15:16:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-13",
+   "time": "12:00",
+   "title": "O que Abraão encontrou preso pelos chifres em um arbusto?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/SxzJNT3BlDg",
+    "instagram": "https://www.instagram.com/reel/Dfr7Cu7gMdr/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1521247006497582"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-13-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-13",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1147087871405060"
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 1,
+    "comments": 1,
+    "views": 183,
+    "avg_watch_s": 6.9,
+    "watch_time_s": 317.3
    }
   },
   "2026-11-13-2-quiz": {
@@ -32,14 +67,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1601171875113842"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 184,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 742.6
+    "views": 279,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 1225.8
    },
    "youtube": {
-    "views": 64,
+    "views": 150,
     "likes": 0,
     "comments": 0
    }
@@ -99,7 +134,7 @@
     "watch_time_s": 3.0
    },
    "youtube": {
-    "views": 10,
+    "views": 11,
     "likes": 0,
     "comments": 0
    }
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2283,
+    "views": 2295,
     "avg_watch_s": 5.9,
-    "watch_time_s": 10145.3
+    "watch_time_s": 10204.7
    }
   },
   "2026-11-12-6-truefalse": {
@@ -150,20 +185,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 99,
+    "reach": 100,
     "saved": 0,
     "shares": 0,
-    "views": 140,
+    "views": 141,
     "total_interactions": 0,
     "avg_watch_s": 5.4,
-    "watch_time_s": 539.2
+    "watch_time_s": 544.0
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 333,
+    "views": 337,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1210.1
+    "watch_time_s": 1211.7
    },
    "youtube": {
     "views": 1,
@@ -213,9 +248,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1348,
+    "views": 1354,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5668.8
+    "watch_time_s": 5702.1
    },
    "youtube": {
     "views": 0,
@@ -235,7 +270,7 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1472,
+    "views": 1473,
     "avg_watch_s": 5.0,
     "watch_time_s": 5497.5
    }
