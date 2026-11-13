@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-13T21:29:06+00:00",
+ "updated_at": "2026-11-13T23:00:31+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-9-quiz",
+   "date": "2026-11-13",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-13T19:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T22:55:37+00:00",
+    "instagram": "2026-11-13T22:56:14+00:00",
+    "facebook": "2026-11-13T22:56:17+00:00",
+    "stories": "2026-11-13T22:56:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/jEGb0yLAv00",
+    "instagram": "https://www.instagram.com/reel/DfswM8nE40z/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1481251173904165",
+    "stories": "story 17986125815902265"
+   },
+   "title": "Segundo 1 Reis 10, o rei tornou a prata tão comum em Jerusalém quanto o quê?"
+  },
   {
    "id": "2026-11-13-8-fill",
    "date": "2026-11-13",
