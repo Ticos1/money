@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-13T09:45:33+00:00",
+ "updated_at": "2026-11-13T11:16:24+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-13",
+   "time": "08:00",
+   "title": "Como se chamava o chefe da sinagoga cuja filhinha estava à beira da morte?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/wenS0gjTpEQ",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1601171875113842"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-13-1-verse": {
    "type": "verse",
    "date": "2026-11-13",
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2261,
+    "views": 2265,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9987.0
+    "watch_time_s": 10001.7
    }
   },
   "2026-11-12-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 324,
+    "views": 327,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1159.7
+    "watch_time_s": 1175.7
    },
    "youtube": {
     "views": 1,
@@ -173,9 +196,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1335,
+    "views": 1345,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5638.4
+    "watch_time_s": 5649.2
    },
    "youtube": {
     "views": 0,
@@ -195,9 +218,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1471,
+    "views": 1472,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5496.9
+    "watch_time_s": 5497.5
    }
   },
   "2026-11-12-2-quiz": {
@@ -293,7 +316,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -392,9 +415,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 354,
+    "views": 356,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1294.5
+    "watch_time_s": 1305.8
    },
    "youtube": {
     "views": 0,
@@ -432,9 +455,9 @@
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 842,
+    "views": 844,
     "avg_watch_s": 4.5,
-    "watch_time_s": 3059.0
+    "watch_time_s": 3059.2
    },
    "youtube": {
     "views": 0,
