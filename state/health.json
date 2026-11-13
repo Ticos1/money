@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T06:36:42+00:00",
+ "updated_at": "2026-11-13T09:45:36+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 2,
   "max": 20,
   "enabled": true
  },
@@ -16,39 +16,63 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 555,
-   "days_left": 555,
+   "fresh": 554,
+   "days_left": 554,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 440,
-   "days_left": 440,
+   "fresh": 438,
+   "days_left": 438,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 4,
-   "fresh": 928,
-   "days_left": 132,
+   "fresh": 920,
+   "days_left": 131,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 967,
-   "days_left": 138,
+   "fresh": 959,
+   "days_left": 137,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 1,
-   "fresh": 222,
-   "days_left": 222,
+   "fresh": 221,
+   "days_left": 221,
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-13-1-verse",
+   "date": "2026-11-13",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-13T06:37",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-13T09:41:10+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18032214887914674"
+   },
+   "title": "Efésios 4:2"
+  }
+ ],
  "specials": {}
 }
