@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-13T15:16:58+00:00",
+ "updated_at": "2026-11-13T16:37:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-13",
+   "time": "13:30",
+   "title": "O secretário de Jeremias",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1121399203806584"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-13-4-quiz": {
    "type": "quiz",
    "date": "2026-11-13",
@@ -27,11 +44,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "likes": 1,
+    "comments": 1,
+    "views": 4,
+    "avg_watch_s": 36.1,
+    "watch_time_s": 36.1
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 183,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 317.3
+    "views": 264,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 925.0
    }
   },
   "2026-11-13-2-quiz": {
@@ -69,9 +86,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 279,
+    "views": 306,
     "avg_watch_s": 6.0,
-    "watch_time_s": 1225.8
+    "watch_time_s": 1330.9
    },
    "youtube": {
     "views": 150,
@@ -134,7 +151,7 @@
     "watch_time_s": 3.0
    },
    "youtube": {
-    "views": 11,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -166,7 +183,7 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2295,
+    "views": 2299,
     "avg_watch_s": 5.9,
     "watch_time_s": 10204.7
    }
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1354,
+    "views": 1356,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5702.1
+    "watch_time_s": 5712.0
    },
    "youtube": {
     "views": 0,
@@ -270,9 +287,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1473,
+    "views": 1476,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5497.5
+    "watch_time_s": 5507.6
    }
   },
   "2026-11-12-2-quiz": {
@@ -385,7 +402,7 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2248,
+    "views": 2249,
     "avg_watch_s": 5.3,
     "watch_time_s": 8744.5
    }
