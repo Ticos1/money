@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:16:27+00:00",
+ "updated_at": "2026-11-13T13:01:32+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-3-truefalse",
+   "date": "2026-11-13",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-13T09:55",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-13T12:55:52+00:00",
+    "stories": "2026-11-13T12:57:16+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1147087871405060",
+    "stories": "story 17985993470901741"
+   },
+   "title": "Quem foi obrigado a carregar a cruz de Jesus?"
+  },
   {
    "id": "2026-11-13-2-quiz",
    "date": "2026-11-13",
