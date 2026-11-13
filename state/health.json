@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-13T09:45:36+00:00",
+ "updated_at": "2026-11-13T11:16:27+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-2-quiz",
+   "date": "2026-11-13",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-13T08:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T11:10:50+00:00",
+    "instagram": null,
+    "facebook": "2026-11-13T11:10:56+00:00",
+    "stories": "2026-11-13T11:12:04+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/wenS0gjTpEQ",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1601171875113842",
+    "stories": "story 18354503248265261"
+   },
+   "title": "Como se chamava o chefe da sinagoga cuja filhinha estava à beira da morte?"
+  },
   {
    "id": "2026-11-13-1-verse",
    "date": "2026-11-13",
