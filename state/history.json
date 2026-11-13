@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-13-6-truefalse",
+   "date": "2026-11-13",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-13T14:55",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-13T08:22:50+00:00",
+   "source": "bank",
+   "bank_id": "q768",
+   "model": null,
+   "content": {
+    "ref": "Ester 5:14",
+    "ref_label": "Ester 5:14",
+    "question": "Qual altura tinha a forca que Hamã mandou fazer para Mardoqueu?",
+    "shown": "Cinquenta côvados",
+    "is_true": true,
+    "correct": "Cinquenta côvados",
+    "evidence": "uma forca de cinquenta côvados de altura",
+    "passage": "Então Zeres, sua mulher, e todos os seus amigos lhe disseram: “Mande fazer uma forca de cinquenta côvados de altura, e pela manhã fale com o rei para que Mardoqueu seja enforcado nela. Depois, vá alegremente com o rei ao banquete.” Isso agradou a Hamã, e ele mandou fazer a forca.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual altura tinha a forca que Hamã mandou fazer para Mardoqueu?\nResposta: Cinquenta côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #perguntasbiblicas #fe #jesus #palavradedeus #conhecimentobiblico #biblia #gospel #evangelico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual altura tinha a forca que Hamã mandou fazer para Mardoqueu?\nResposta: Cinquenta côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #gospel",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual altura tinha a forca que Hamã mandou fazer para Mardoqueu?\nResposta: Cinquenta côvados\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual altura tinha a forca que Hamã mandou fazer para Mardoqueu?\nResposta: Cinquenta côvados\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T17:55:38+00:00",
+    "instagram": "2026-11-13T17:56:13+00:00",
+    "facebook": "2026-11-13T17:56:18+00:00",
+    "stories": "2026-11-13T17:56:53+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SguzvgggBD8",
+    "instagram": "https://www.instagram.com/reel/DfsN3geDah3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118518087854368",
+    "stories": "story 18651347983012514"
+   }
+  },
+  {
    "id": "2026-11-13-5-curiosity",
    "date": "2026-11-13",
    "slot": 5,
