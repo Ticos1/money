@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-13T20:09:53+00:00",
+ "updated_at": "2026-11-13T21:29:06+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-8-fill",
+   "date": "2026-11-13",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-13T18:24",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T21:25:41+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-13T21:26:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/XZ6iMr4w4hg",
+    "stories": "story 18663139540039109"
+   },
+   "title": "Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem _____, que ele confie no nome do SENHOR, e se apoie no seu Deus."
+  },
   {
    "id": "2026-11-13-7-quiz",
    "date": "2026-11-13",
