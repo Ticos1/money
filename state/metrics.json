@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-13T18:02:21+00:00",
+ "updated_at": "2026-11-13T20:09:50+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-13-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "title": "Que som não se ouviu durante a construção do templo?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1864152681453328"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-13-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-13",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 13,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 13,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.0,
+    "watch_time_s": 39.1
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 345,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1258.5
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -49,11 +66,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1121399203806584"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 51,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 106.9
+    "views": 246,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 943.6
    }
   },
   "2026-11-13-4-quiz": {
@@ -70,13 +87,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 10.4,
+    "watch_time_s": 62.2
    },
    "facebook": {
     "likes": 1,
@@ -86,7 +103,7 @@
     "watch_time_s": 36.1
    },
    "youtube": {
-    "views": 1,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 268,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 940.3
+    "views": 277,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 971.4
    }
   },
   "2026-11-13-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 335,
-    "avg_watch_s": 6.2,
-    "watch_time_s": 1492.9
+    "views": 356,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1616.1
    },
    "youtube": {
-    "views": 150,
+    "views": 162,
     "likes": 0,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 9,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2300,
+    "views": 2304,
     "avg_watch_s": 5.9,
-    "watch_time_s": 10224.2
+    "watch_time_s": 10245.8
    }
   },
   "2026-11-12-6-truefalse": {
@@ -248,9 +265,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 337,
+    "views": 339,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1211.7
+    "watch_time_s": 1213.3
    },
    "youtube": {
     "views": 1,
@@ -420,7 +437,7 @@
     "youtube": "https://youtube.com/shorts/k9cxY2P1VnQ"
    },
    "youtube": {
-    "views": 9,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -910,7 +927,7 @@
     "watch_time_s": 1180.7
    },
    "youtube": {
-    "views": 67,
+    "views": 66,
     "likes": 1,
     "comments": 0
    }
@@ -1002,7 +1019,7 @@
     "watch_time_s": 3278.6
    },
    "youtube": {
-    "views": 197,
+    "views": 196,
     "likes": 4,
     "comments": 0
    }
