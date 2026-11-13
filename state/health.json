@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-13T16:37:24+00:00",
+ "updated_at": "2026-11-13T18:02:24+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-6-truefalse",
+   "date": "2026-11-13",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-13T14:55",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T17:55:38+00:00",
+    "instagram": "2026-11-13T17:56:13+00:00",
+    "facebook": "2026-11-13T17:56:18+00:00",
+    "stories": "2026-11-13T17:56:53+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SguzvgggBD8",
+    "instagram": "https://www.instagram.com/reel/DfsN3geDah3/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118518087854368",
+    "stories": "story 18651347983012514"
+   },
+   "title": "Qual altura tinha a forca que Hamã mandou fazer para Mardoqueu?"
+  },
   {
    "id": "2026-11-13-5-curiosity",
    "date": "2026-11-13",
