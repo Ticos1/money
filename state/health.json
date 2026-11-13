@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-13T13:01:32+00:00",
+ "updated_at": "2026-11-13T15:17:03+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-4-quiz",
+   "date": "2026-11-13",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-13T12:10",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-13T15:10:43+00:00",
+    "instagram": "2026-11-13T15:11:42+00:00",
+    "facebook": "2026-11-13T15:11:47+00:00",
+    "stories": "2026-11-13T15:12:45+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SxzJNT3BlDg",
+    "instagram": "https://www.instagram.com/reel/Dfr7Cu7gMdr/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1521247006497582",
+    "stories": "story 18115071613893564"
+   },
+   "title": "O que Abraão encontrou preso pelos chifres em um arbusto?"
+  },
   {
    "id": "2026-11-13-3-truefalse",
    "date": "2026-11-13",
