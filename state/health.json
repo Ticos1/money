@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T23:11:07+00:00",
+ "updated_at": "2026-11-13T00:40:09+00:00",
  "date": "2026-11-12",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-12-10-truefalse",
+   "date": "2026-11-12",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-12T21:35",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-13T00:35:55+00:00",
+    "stories": "2026-11-13T00:36:38+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2215261152747775",
+    "stories": "story 18024409961952141"
+   },
+   "title": "Qual é o número da besta em Apocalipse?"
+  },
   {
    "id": "2026-11-12-9-quiz",
    "date": "2026-11-12",
