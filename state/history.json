@@ -1,6 +1,104 @@
 {
  "posts": [
   {
+   "id": "2026-11-14-1-verse",
+   "date": "2026-11-14",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-14T06:21",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-14T08:21:41+00:00",
+   "source": "bank",
+   "bank_id": "v544",
+   "model": null,
+   "content": {
+    "ref": "João 14:23",
+    "ref_label": "João 14:23",
+    "verse_text": "Jesus lhe respondeu: Se alguém me ama, guardará a minha palavra. Meu Pai o amará, e nós viremos para ele e faremos nele a nossa morada.",
+    "on_screen": "Quem ama Jesus se torna casa de Deus.",
+    "reflection": "Jesus prometeu que o Pai e Ele fariam morada em quem ama e guarda sua palavra. Deus não visita só de vez em quando, Ele quer habitar em você. Abra espaço para Ele hoje.",
+    "theme": "presença de Deus",
+    "mood": "reflexao",
+    "tags": [
+     "presenca",
+     "palavra"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a presença de Deus: João 14:23\n“Jesus lhe respondeu: Se alguém me ama, guardará a minha palavra. Meu Pai o amará, e nós viremos para ele e faremos nele a nossa morada.” (João 14:23)\n\nJesus nos garante que, ao amarmos e obedecermos à Sua palavra, o Pai e Ele se tornam morada em nós. Não se trata de visitas ocasionais, mas de uma presença constante que transforma a vida. Abra espaço para essa morada divina: reserve um momento de silêncio, escute Sua voz e deixe que Ele faça morada no seu interior. Compartilhe esta promessa e inspire alguém a buscar essa intimidade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #presenca #palavra #versiculododia #versiculo #oracao #cristao #devocional #esperanca #gospel #jesus #palavradedeus",
+    "facebook": "Versículo sobre a presença de Deus: João 14:23\n“Jesus lhe respondeu: Se alguém me ama, guardará a minha palavra. Meu Pai o amará, e nós viremos para ele e faremos nele a nossa morada.” (João 14:23)\n\nJesus nos garante que, ao amarmos e obedecermos à Sua palavra, o Pai e Ele se tornam morada em nós. Não se trata de visitas ocasionais, mas de uma presença constante que transforma a vida. Abra espaço para essa morada divina: reserve um momento de silêncio, escute Sua voz e deixe que Ele faça morada no seu interior. Compartilhe esta promessa e inspire alguém a buscar essa intimidade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapresencadedeus #presenca #palavra #versiculododia",
+    "tiktok": "Versículo sobre a presença de Deus\nAbra espaço para Deus habitar em você hoje. Compartilhe essa bênção!\n#versiculosobreapresencadedeus #presenca #palavra #versiculododia #versiculo",
+    "kwai": "Versículo sobre a presença de Deus\nAbra espaço para Deus habitar em você hoje. Compartilhe essa bênção!\n#versiculosobreapresencadedeus #presenca #palavra #versiculododia #versiculo",
+    "whatsapp": "“Jesus lhe respondeu: Se alguém me ama, guardará a minha palavra. Meu Pai o amará, e nós viremos para ele e faremos nele a nossa morada.” (João 14:23)\n\nJesus nos garante que, ao amarmos e obedecermos à Sua palavra, o Pai e Ele se tornam morada em nós. Não se trata de visitas ocasionais, mas de uma presença constante que transforma a vida. Abra espaço para essa morada divina: reserve um momento de silêncio, escute Sua voz e deixe que Ele faça morada no seu interior. Compartilhe esta promessa e inspire alguém a buscar essa intimidade.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre a presença de Deus: João 14:23 🙏 #shorts",
+     "description": "Versículo sobre a presença de Deus: João 14:23\n“Jesus lhe respondeu: Se alguém me ama, guardará a minha palavra. Meu Pai o amará, e nós viremos para ele e faremos nele a nossa morada.” (João 14:23)\n\nJesus nos garante que, ao amarmos e obedecermos à Sua palavra, o Pai e Ele se tornam morada em nós. Não se trata de visitas ocasionais, mas de uma presença constante que transforma a vida. Abra espaço para essa morada divina: reserve um momento de silêncio, escute Sua voz e deixe que Ele faça morada no seu interior. Compartilhe esta promessa e inspire alguém a buscar essa intimidade.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapresencadedeus #presenca #palavra",
+     "tags": [
+      "versículo sobre a presença de Deus",
+      "versículos sobre a presença de Deus",
+      "presença de deus",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "presenca",
+      "palavra",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-14T09:26:55+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: Groq tentativa 2 descartada: conteúdo repetido"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18181607656452460"
+   }
+  },
+  {
    "id": "2026-11-13-10-truefalse",
    "date": "2026-11-13",
    "slot": 10,
