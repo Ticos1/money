@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-14T16:30:23+00:00",
+ "updated_at": "2026-11-14T18:15:10+00:00",
  "date": "2026-11-14",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-14-6-truefalse",
+   "date": "2026-11-14",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-14T15:10",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-14T18:10:39+00:00",
+    "instagram": "2026-11-14T18:11:12+00:00",
+    "facebook": "2026-11-14T18:11:15+00:00",
+    "stories": "2026-11-14T18:11:47+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/MVVSxH4CIoU",
+    "instagram": "https://www.instagram.com/reel/Dfu0YeoD_q5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29812382901688325",
+    "stories": "story 18135542239670518"
+   },
+   "title": "Quem o Espírito Santo mandou separar para a obra missionária em Antioquia?"
   },
   {
    "id": "2026-11-14-5-curiosity",
