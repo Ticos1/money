@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-14-2-quiz",
+   "date": "2026-11-14",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-14T07:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-14T08:22:07+00:00",
+   "source": "bank",
+   "bank_id": "q016",
+   "model": null,
+   "content": {
+    "ref": "Mateus 14:17",
+    "ref_label": "Mateus 14:17",
+    "question": "Na multiplicação, quantos pães os discípulos tinham?",
+    "options": [
+     "Sete",
+     "Doze",
+     "Três",
+     "Cinco"
+    ],
+    "answer": 3,
+    "evidence": "cinco pães e dois peixes",
+    "passage": "Eles lhe disseram: “Nós só temos aqui cinco pães e dois peixes.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação, quantos pães os discípulos tinham?\n\nA) Sete\nB) Doze\nC) Três\nD) Cinco\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #desafio #biblia #teste #gospel #evangelico #cristao #deus #fe",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação, quantos pães os discípulos tinham?\n\nA) Sete\nB) Doze\nC) Três\nD) Cinco\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #desafio",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #teste #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #teste #biblia",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nNa multiplicação, quantos pães os discípulos tinham?\n\nA) Sete\nB) Doze\nC) Três\nD) Cinco\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Na multiplicação, quantos pães os discípulos tinham? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nNa multiplicação, quantos pães os discípulos tinham?\n\nA) Sete\nB) Doze\nC) Três\nD) Cinco\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-14T11:00:45+00:00",
+    "instagram": null,
+    "facebook": "2026-11-14T11:00:49+00:00",
+    "stories": "2026-11-14T11:01:24+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/On3D7RNY0Zs",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136675532441784",
+    "stories": "story 18163104052498868"
+   }
+  },
+  {
    "id": "2026-11-14-1-verse",
    "date": "2026-11-14",
    "slot": 1,
