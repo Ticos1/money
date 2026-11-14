@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-14T09:30:44+00:00",
+ "updated_at": "2026-11-14T11:03:50+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-14-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-14",
+   "time": "08:00",
+   "title": "Na multiplicação, quantos pães os discípulos tinham?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/On3D7RNY0Zs",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136675532441784"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-14-1-verse": {
    "type": "verse",
    "date": "2026-11-14",
@@ -91,9 +114,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 823,
+    "views": 825,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3528.7
+    "watch_time_s": 3538.0
    }
   },
   "2026-11-13-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1096,
+    "views": 1102,
     "avg_watch_s": 5.4,
-    "watch_time_s": 4515.4
+    "watch_time_s": 4550.7
    },
    "youtube": {
     "views": 51,
@@ -143,9 +166,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 251,
+    "views": 252,
     "avg_watch_s": 4.5,
-    "watch_time_s": 968.2
+    "watch_time_s": 969.5
    }
   },
   "2026-11-13-4-quiz": {
@@ -162,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 76,
+    "reach": 77,
     "saved": 0,
     "shares": 0,
-    "views": 91,
+    "views": 92,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 282.9
+    "avg_watch_s": 3.7,
+    "watch_time_s": 283.6
    },
    "facebook": {
     "likes": 1,
@@ -414,9 +437,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1483,
+    "views": 1484,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5530.7
+    "watch_time_s": 5531.2
    }
   },
   "2026-11-12-2-quiz": {
