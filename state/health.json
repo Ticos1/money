@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T21:34:15+00:00",
+ "updated_at": "2026-11-14T23:08:59+00:00",
  "date": "2026-11-14",
  "paused": false,
  "problems": [],
@@ -72,6 +72,34 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-14-9-quiz",
+   "date": "2026-11-14",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-14T20:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-11-14T23:06:11+00:00",
+    "facebook": "2026-11-14T23:06:15+00:00",
+    "stories": "2026-11-14T23:06:55+00:00",
+    "whatsapp": null
+   },
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DfvWJOLE3JK/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/28971068869254237",
+    "stories": "story 18092611553250963"
+   },
+   "title": "Quantos graus a sombra recuou no relógio de sol de Acaz?"
   },
   {
    "id": "2026-11-14-8-fill",
