@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T09:18:13+00:00",
+ "updated_at": "2026-11-14T09:30:47+00:00",
  "date": "2026-11-14",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-14-1-verse",
+   "date": "2026-11-14",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-14T06:21",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-14T09:26:55+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18181607656452460"
+   },
+   "title": "João 14:23"
+  }
+ ],
  "specials": {}
 }
