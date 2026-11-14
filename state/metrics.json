@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:15:07+00:00",
+ "updated_at": "2026-11-14T20:10:48+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-11-14-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-14",
+   "time": "17:00",
+   "title": "Com quantos anos o rei Josias começou a reinar?",
+   "hook": "Quem sabe de cabeça? Responda antes da contagem!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1009586095515191"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-14-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-14",
@@ -33,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 5.0,
+    "watch_time_s": 20.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 273,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1239.0
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -85,13 +102,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 61,
+    "reach": 86,
     "saved": 0,
     "shares": 0,
-    "views": 76,
+    "views": 105,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 258.9
+    "avg_watch_s": 4.0,
+    "watch_time_s": 341.2
    },
    "facebook": {
     "likes": 1,
@@ -101,8 +118,8 @@
     "watch_time_s": 1229.2
    },
    "youtube": {
-    "views": 2,
-    "likes": 0,
+    "views": 21,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -118,9 +135,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 449,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1714.6
+    "views": 457,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1741.1
    }
   },
   "2026-11-14-2-quiz": {
@@ -135,13 +152,13 @@
    },
    "facebook": {
     "likes": 1,
-    "comments": 0,
-    "views": 295,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 960.0
+    "comments": 1,
+    "views": 316,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1152.4
    },
    "youtube": {
-    "views": 58,
+    "views": 77,
     "likes": 0,
     "comments": 0
    }
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 48,
+    "reach": 50,
     "saved": 0,
     "shares": 0,
-    "views": 63,
+    "views": 65,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 187.9
+    "avg_watch_s": 3.5,
+    "watch_time_s": 190.8
    },
    "facebook": {
     "likes": 0,
@@ -201,7 +218,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 13,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -263,12 +280,12 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1128,
+    "views": 1131,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4713.3
+    "watch_time_s": 4732.4
    },
    "youtube": {
-    "views": 52,
+    "views": 54,
     "likes": 0,
     "comments": 0
    }
@@ -320,7 +337,7 @@
     "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 5,
+    "views": 6,
     "likes": 1,
     "comments": 0
    }
@@ -355,9 +372,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 434,
+    "views": 436,
     "avg_watch_s": 6.7,
-    "watch_time_s": 2036.2
+    "watch_time_s": 2042.2
    },
    "youtube": {
     "views": 162,
@@ -435,7 +452,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 20,
+    "views": 25,
     "likes": 0,
     "comments": 0
    }
@@ -671,9 +688,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2254,
+    "views": 2255,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8755.0
+    "watch_time_s": 8755.6
    }
   },
   "2026-11-11-6-truefalse": {
@@ -701,9 +718,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1365,
+    "views": 1366,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5370.5
+    "watch_time_s": 5377.8
    },
    "youtube": {
     "views": 1,
@@ -2024,9 +2041,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1429,
+    "views": 1430,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5947.4
+    "watch_time_s": 5950.0
    },
    "youtube": {
     "views": 392,
@@ -4986,7 +5003,7 @@
     "watch_time_s": 2494.9
    },
    "youtube": {
-    "views": 74,
+    "views": 77,
     "likes": 1,
     "comments": 0
    }
@@ -7392,9 +7409,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 805,
+    "views": 806,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1928.2
+    "watch_time_s": 1929.0
    },
    "youtube": {
     "views": 7,
