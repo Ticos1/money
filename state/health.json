@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:15:10+00:00",
+ "updated_at": "2026-11-14T20:10:51+00:00",
  "date": "2026-11-14",
  "paused": false,
  "problems": [],
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-14-7-quiz",
+   "date": "2026-11-14",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-14T17:02",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-14T20:05:51+00:00",
+    "stories": "2026-11-14T20:06:25+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1009586095515191",
+    "stories": "story 17997194801848463"
+   },
+   "title": "Com quantos anos o rei Josias começou a reinar?"
   },
   {
    "id": "2026-11-14-6-truefalse",
