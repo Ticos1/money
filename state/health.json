@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-14T20:10:51+00:00",
+ "updated_at": "2026-11-14T21:34:15+00:00",
  "date": "2026-11-14",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,30 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-14-8-fill",
+   "date": "2026-11-14",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-14T18:26",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-14T21:30:38+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-14T21:31:08+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/E7HIlA-XXAA",
+    "stories": "story 18224169217353253"
+   },
+   "title": "Nisto o _____ de Deus foi revelado entre nós: que Deus enviou o seu Filho unigênito ao mundo, para que pudéssemos viver por meio dele."
   },
   {
    "id": "2026-11-14-7-quiz",
