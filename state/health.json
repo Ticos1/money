@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-14T00:38:51+00:00",
- "date": "2026-11-13",
+ "updated_at": "2026-11-14T06:14:14+00:00",
+ "date": "2026-11-14",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 2,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 438,
-   "days_left": 438,
+   "fresh": 439,
+   "days_left": 439,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 959,
+   "fresh": 961,
    "days_left": 137,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-13-10-truefalse",
-   "date": "2026-11-13",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-13T21:32",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-14T00:35:48+00:00",
-    "stories": "2026-11-14T00:36:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1156456840176094",
-    "stories": "story 18117747437325979"
-   },
-   "title": "Quantos dias Ezequiel deveria se deitar sobre o lado direito pela iniquidade de Judá?"
-  },
-  {
-   "id": "2026-11-13-9-quiz",
-   "date": "2026-11-13",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-13T19:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-13T22:55:37+00:00",
-    "instagram": "2026-11-13T22:56:14+00:00",
-    "facebook": "2026-11-13T22:56:17+00:00",
-    "stories": "2026-11-13T22:56:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/jEGb0yLAv00",
-    "instagram": "https://www.instagram.com/reel/DfswM8nE40z/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1481251173904165",
-    "stories": "story 17986125815902265"
-   },
-   "title": "Segundo 1 Reis 10, o rei tornou a prata tão comum em Jerusalém quanto o quê?"
-  },
-  {
-   "id": "2026-11-13-8-fill",
-   "date": "2026-11-13",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-13T18:24",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-13T21:25:41+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-13T21:26:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/XZ6iMr4w4hg",
-    "stories": "story 18663139540039109"
-   },
-   "title": "Quem entre vocês teme ao SENHOR e obedece à voz do seu servo? Aquele que anda em trevas e não tem _____, que ele confie no nome do SENHOR, e se apoie no seu Deus."
-  },
-  {
-   "id": "2026-11-13-7-quiz",
-   "date": "2026-11-13",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-13T17:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-13T20:05:43+00:00",
-    "stories": "2026-11-13T20:07:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1864152681453328",
-    "stories": "story 17910389469332022"
-   },
-   "title": "Que som não se ouviu durante a construção do templo?"
-  },
-  {
-   "id": "2026-11-13-6-truefalse",
-   "date": "2026-11-13",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-13T14:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-13T17:55:38+00:00",
-    "instagram": "2026-11-13T17:56:13+00:00",
-    "facebook": "2026-11-13T17:56:18+00:00",
-    "stories": "2026-11-13T17:56:53+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SguzvgggBD8",
-    "instagram": "https://www.instagram.com/reel/DfsN3geDah3/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1118518087854368",
-    "stories": "story 18651347983012514"
-   },
-   "title": "Qual altura tinha a forca que Hamã mandou fazer para Mardoqueu?"
-  },
-  {
-   "id": "2026-11-13-5-curiosity",
-   "date": "2026-11-13",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-13T13:27",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-13T16:30:44+00:00",
-    "stories": "2026-11-13T16:32:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1121399203806584",
-    "stories": "story 18126655729924005"
-   },
-   "title": "O secretário de Jeremias"
-  },
-  {
-   "id": "2026-11-13-4-quiz",
-   "date": "2026-11-13",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-13T12:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-13T15:10:43+00:00",
-    "instagram": "2026-11-13T15:11:42+00:00",
-    "facebook": "2026-11-13T15:11:47+00:00",
-    "stories": "2026-11-13T15:12:45+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SxzJNT3BlDg",
-    "instagram": "https://www.instagram.com/reel/Dfr7Cu7gMdr/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1521247006497582",
-    "stories": "story 18115071613893564"
-   },
-   "title": "O que Abraão encontrou preso pelos chifres em um arbusto?"
-  },
-  {
-   "id": "2026-11-13-3-truefalse",
-   "date": "2026-11-13",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-13T09:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-13T12:55:52+00:00",
-    "stories": "2026-11-13T12:57:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1147087871405060",
-    "stories": "story 17985993470901741"
-   },
-   "title": "Quem foi obrigado a carregar a cruz de Jesus?"
-  },
-  {
-   "id": "2026-11-13-2-quiz",
-   "date": "2026-11-13",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-13T08:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-13T11:10:50+00:00",
-    "instagram": null,
-    "facebook": "2026-11-13T11:10:56+00:00",
-    "stories": "2026-11-13T11:12:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/wenS0gjTpEQ",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1601171875113842",
-    "stories": "story 18354503248265261"
-   },
-   "title": "Como se chamava o chefe da sinagoga cuja filhinha estava à beira da morte?"
-  },
-  {
-   "id": "2026-11-13-1-verse",
-   "date": "2026-11-13",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-13T06:37",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-13T09:41:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18032214887914674"
-   },
-   "title": "Efésios 4:2"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
