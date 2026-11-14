@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T16:30:20+00:00",
+ "updated_at": "2026-11-14T18:15:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -12,6 +12,41 @@
    "hook": null,
    "links": {
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-11-14-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-14",
+   "time": "15:00",
+   "title": "Quem o Espírito Santo mandou separar para a obra missionária em Antioquia?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/MVVSxH4CIoU",
+    "instagram": "https://www.instagram.com/reel/Dfu0YeoD_q5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29812382901688325"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    },
    "youtube": {
     "views": 0,
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 61,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 76,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 4.3,
+    "watch_time_s": 258.9
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 275,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1170.5
+    "views": 279,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1229.2
    },
    "youtube": {
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 442,
+    "views": 449,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1683.1
+    "watch_time_s": 1714.6
    }
   },
   "2026-11-14-2-quiz": {
@@ -99,14 +134,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1136675532441784"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 292,
+    "views": 295,
     "avg_watch_s": 4.2,
-    "watch_time_s": 956.8
+    "watch_time_s": 960.0
    },
    "youtube": {
-    "views": 46,
+    "views": 58,
     "likes": 0,
     "comments": 0
    }
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 45,
+    "reach": 48,
     "saved": 0,
     "shares": 0,
-    "views": 59,
+    "views": 63,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 174.6
+    "watch_time_s": 187.9
    },
    "facebook": {
     "likes": 0,
@@ -166,7 +201,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 11,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -181,7 +216,7 @@
     "youtube": "https://youtube.com/shorts/XZ6iMr4w4hg"
    },
    "youtube": {
-    "views": 25,
+    "views": 27,
     "likes": 1,
     "comments": 0
    }
@@ -217,23 +252,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 56,
+    "reach": 60,
     "saved": 0,
     "shares": 0,
-    "views": 61,
+    "views": 65,
     "total_interactions": 0,
     "avg_watch_s": 3.0,
-    "watch_time_s": 167.0
+    "watch_time_s": 177.6
    },
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1126,
+    "views": 1128,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4709.7
+    "watch_time_s": 4713.3
    },
    "youtube": {
-    "views": 51,
+    "views": 52,
     "likes": 0,
     "comments": 0
    }
@@ -280,12 +315,12 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 4,
-    "avg_watch_s": 36.1,
-    "watch_time_s": 36.1
+    "views": 5,
+    "avg_watch_s": 18.2,
+    "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 1,
     "comments": 0
    }
@@ -320,9 +355,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 433,
+    "views": 434,
     "avg_watch_s": 6.7,
-    "watch_time_s": 2035.0
+    "watch_time_s": 2036.2
    },
    "youtube": {
     "views": 162,
@@ -400,7 +435,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 19,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -449,7 +484,7 @@
     "comments": 0,
     "views": 341,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1220.9
+    "watch_time_s": 1221.6
    },
    "youtube": {
     "views": 1,
@@ -499,9 +534,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1360,
+    "views": 1362,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5722.2
+    "watch_time_s": 5733.3
    },
    "youtube": {
     "views": 0,
@@ -521,9 +556,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1484,
+    "views": 1487,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5531.2
+    "watch_time_s": 5544.1
    }
   },
   "2026-11-12-2-quiz": {
@@ -636,9 +671,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2253,
+    "views": 2254,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8754.5
+    "watch_time_s": 8755.0
    }
   },
   "2026-11-11-6-truefalse": {
@@ -6069,7 +6104,7 @@
     "youtube": "https://youtu.be/85sTRwfSOPk"
    },
    "youtube": {
-    "views": 169,
+    "views": 170,
     "likes": 2,
     "comments": 0
    }
