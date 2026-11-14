@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-14T11:03:50+00:00",
+ "updated_at": "2026-11-14T12:59:55+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-14-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-14",
+   "time": "10:00",
+   "title": "Por quantos anos Jacó se ofereceu para servir por Raquel?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1710892393883704"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-14-2-quiz": {
    "type": "quiz",
    "date": "2026-11-14",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 269,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 853.0
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 42,
+    "reach": 44,
     "saved": 0,
     "shares": 0,
-    "views": 56,
+    "views": 58,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 166.4
+    "watch_time_s": 173.8
    },
    "facebook": {
     "likes": 0,
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 825,
+    "views": 827,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3538.0
+    "watch_time_s": 3546.7
    }
   },
   "2026-11-13-6-truefalse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1102,
+    "views": 1109,
     "avg_watch_s": 5.4,
-    "watch_time_s": 4550.7
+    "watch_time_s": 4557.8
    },
    "youtube": {
     "views": 51,
@@ -185,13 +202,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 77,
+    "reach": 82,
     "saved": 0,
     "shares": 0,
-    "views": 92,
+    "views": 100,
     "total_interactions": 0,
     "avg_watch_s": 3.7,
-    "watch_time_s": 283.6
+    "watch_time_s": 298.5
    },
    "facebook": {
     "likes": 1,
@@ -236,9 +253,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 428,
-    "avg_watch_s": 6.8,
-    "watch_time_s": 2018.3
+    "views": 431,
+    "avg_watch_s": 6.7,
+    "watch_time_s": 2032.5
    },
    "youtube": {
     "views": 162,
@@ -333,9 +350,9 @@
    "facebook": {
     "likes": 15,
     "comments": 2,
-    "views": 2313,
+    "views": 2315,
     "avg_watch_s": 5.9,
-    "watch_time_s": 10305.6
+    "watch_time_s": 10308.4
    }
   },
   "2026-11-12-6-truefalse": {
@@ -582,9 +599,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1363,
+    "views": 1364,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5368.3
+    "watch_time_s": 5368.8
    },
    "youtube": {
     "views": 1,
@@ -634,9 +651,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 356,
+    "views": 357,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1305.8
+    "watch_time_s": 1306.9
    },
    "youtube": {
     "views": 0,
@@ -2803,9 +2820,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 267,
+    "views": 268,
     "avg_watch_s": 3.3,
-    "watch_time_s": 792.4
+    "watch_time_s": 792.6
    }
   },
   "2026-11-01-4-quiz": {
