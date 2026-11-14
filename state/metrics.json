@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T20:10:48+00:00",
+ "updated_at": "2026-11-14T21:34:13+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,21 @@
     "comments": 0
    }
   },
+  "2026-11-14-8-fill": {
+   "type": "fill",
+   "date": "2026-11-14",
+   "time": "18:30",
+   "title": "Nisto o _____ de Deus foi revelado entre nós: que Deus enviou o seu Filho unigênito ao mundo, para que pudéssemos viver por meio dele.",
+   "hook": "Qual palavra falta nesse versículo?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/E7HIlA-XXAA"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-14-7-quiz": {
    "type": "quiz",
    "date": "2026-11-14",
@@ -31,9 +46,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 270,
+    "avg_watch_s": 3.4,
+    "watch_time_s": 745.1
    }
   },
   "2026-11-14-6-truefalse": {
@@ -50,23 +65,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 27,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 42,
     "total_interactions": 0,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 20.1
+    "avg_watch_s": 4.4,
+    "watch_time_s": 119.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 273,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1239.0
+    "views": 293,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 1353.5
    },
    "youtube": {
-    "views": 4,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -102,13 +117,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 86,
+    "reach": 101,
     "saved": 0,
     "shares": 0,
-    "views": 105,
+    "views": 120,
     "total_interactions": 0,
     "avg_watch_s": 4.0,
-    "watch_time_s": 341.2
+    "watch_time_s": 401.6
    },
    "facebook": {
     "likes": 1,
@@ -118,7 +133,7 @@
     "watch_time_s": 1229.2
    },
    "youtube": {
-    "views": 21,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
@@ -135,7 +150,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 457,
+    "views": 458,
     "avg_watch_s": 4.9,
     "watch_time_s": 1741.1
    }
@@ -153,9 +168,9 @@
    "facebook": {
     "likes": 1,
     "comments": 1,
-    "views": 316,
+    "views": 327,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1152.4
+    "watch_time_s": 1171.5
    },
    "youtube": {
     "views": 77,
@@ -202,13 +217,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 50,
+    "reach": 52,
     "saved": 0,
     "shares": 0,
-    "views": 65,
+    "views": 67,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 190.8
+    "avg_watch_s": 3.6,
+    "watch_time_s": 201.0
    },
    "facebook": {
     "likes": 0,
@@ -218,7 +233,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 14,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -233,7 +248,7 @@
     "youtube": "https://youtube.com/shorts/XZ6iMr4w4hg"
    },
    "youtube": {
-    "views": 27,
+    "views": 29,
     "likes": 1,
     "comments": 0
    }
@@ -280,9 +295,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1131,
+    "views": 1133,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4732.4
+    "watch_time_s": 4748.9
    },
    "youtube": {
     "views": 54,
@@ -1208,7 +1223,7 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2157,
+    "views": 2160,
     "avg_watch_s": 5.8,
     "watch_time_s": 9509.3
    },
@@ -1822,9 +1837,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1432,
+    "views": 1434,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5772.3
+    "watch_time_s": 5786.3
    },
    "youtube": {
     "views": 172,
