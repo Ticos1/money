@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T15:10:04+00:00",
+ "updated_at": "2026-11-14T15:49:35+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -42,11 +42,11 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 36,
+    "avg_watch_s": 8.1,
+    "watch_time_s": 97.0
    },
    "youtube": {
     "views": 0,
@@ -66,9 +66,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 356,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 156.5
+    "views": 441,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1679.9
    }
   },
   "2026-11-14-2-quiz": {
@@ -84,12 +84,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 288,
+    "views": 290,
     "avg_watch_s": 4.2,
-    "watch_time_s": 945.2
+    "watch_time_s": 946.0
    },
    "youtube": {
-    "views": 46,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -183,7 +183,7 @@
     "comments": 0,
     "views": 831,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3565.6
+    "watch_time_s": 3566.1
    }
   },
   "2026-11-13-6-truefalse": {
@@ -211,9 +211,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1123,
+    "views": 1124,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4674.6
+    "watch_time_s": 4689.9
    },
    "youtube": {
     "views": 51,
@@ -268,7 +268,7 @@
     "watch_time_s": 36.1
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 1,
     "comments": 0
    }
@@ -303,9 +303,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 432,
+    "views": 433,
     "avg_watch_s": 6.7,
-    "watch_time_s": 2033.6
+    "watch_time_s": 2035.0
    },
    "youtube": {
     "views": 162,
@@ -649,9 +649,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1364,
+    "views": 1365,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5368.8
+    "watch_time_s": 5370.5
    },
    "youtube": {
     "views": 1,
