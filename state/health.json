@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T23:00:31+00:00",
+ "updated_at": "2026-11-14T00:38:51+00:00",
  "date": "2026-11-13",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-13-10-truefalse",
+   "date": "2026-11-13",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-13T21:32",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-14T00:35:48+00:00",
+    "stories": "2026-11-14T00:36:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1156456840176094",
+    "stories": "story 18117747437325979"
+   },
+   "title": "Quantos dias Ezequiel deveria se deitar sobre o lado direito pela iniquidade de Judá?"
+  },
   {
    "id": "2026-11-13-9-quiz",
    "date": "2026-11-13",
