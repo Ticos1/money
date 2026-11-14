@@ -1,6 +1,260 @@
 {
  "posts": [
   {
+   "id": "2026-11-14-11-compilation",
+   "date": "2026-11-14",
+   "slot": 11,
+   "time": "12:00",
+   "publish_at": "2026-11-14T12:04",
+   "type": "compilation",
+   "status": "approved",
+   "created_at": "2026-11-14T08:33:01+00:00",
+   "source": "bank",
+   "bank_id": null,
+   "model": null,
+   "content": {
+    "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+    "count": 39,
+    "duration": 602,
+    "questions": [
+     {
+      "n": 1,
+      "question": "Que nome seria dado ao filho da virgem, segundo Isaías?",
+      "ref_label": "Isaías 7:14"
+     },
+     {
+      "n": 2,
+      "question": "Quantos grandes peixes havia na rede que Pedro puxou para a terra?",
+      "ref_label": "João 21:11"
+     },
+     {
+      "n": 3,
+      "question": "Segundo o Salmo 91, a quem Deus dará ordens para guardar você?",
+      "ref_label": "Salmos 91:11"
+     },
+     {
+      "n": 4,
+      "question": "Como os marinheiros descobriram quem era o responsável pelo mal que vinha sobre eles?",
+      "ref_label": "Jonas 1:7"
+     },
+     {
+      "n": 5,
+      "question": "Em Lamentações, a cidade de Jerusalém se tornou como o quê?",
+      "ref_label": "Lamentações 1:1"
+     },
+     {
+      "n": 6,
+      "question": "Naamã era comandante do exército de qual reino?",
+      "ref_label": "2 Reis 5:1"
+     },
+     {
+      "n": 7,
+      "question": "Como se chamava o homem que praticava feitiçaria em Samaria?",
+      "ref_label": "Atos 8:9"
+     },
+     {
+      "n": 8,
+      "question": "Quantas coisas o SENHOR odeia, que são abominação para ele, segundo Provérbios 6?",
+      "ref_label": "Provérbios 6:16"
+     },
+     {
+      "n": 9,
+      "question": "Quem prendeu Jeremias na porta de Benjamim, acusando-o de desertar?",
+      "ref_label": "Jeremias 37:13"
+     },
+     {
+      "n": 10,
+      "question": "Qual nome aparece no versículo onde Paulo cita: “Amei a Jacó, mas odiei a ___?”",
+      "ref_label": "Romanos 9:13"
+     },
+     {
+      "n": 11,
+      "question": "Qual nome é citado como sacerdote eterno no Salmo 110?",
+      "ref_label": "Salmos 110:4"
+     },
+     {
+      "n": 12,
+      "question": "Quem era o capitão da guarda que levou o restante do povo cativo para a Babilônia?",
+      "ref_label": "Jeremias 39:9"
+     },
+     {
+      "n": 13,
+      "question": "Qual árvore a voz do Senhor quebra no Salmo 29?",
+      "ref_label": "Salmos 29:5"
+     },
+     {
+      "n": 14,
+      "question": "Como se chamava o chefe da sinagoga cuja filhinha estava à beira da morte?",
+      "ref_label": "Marcos 5:22"
+     },
+     {
+      "n": 15,
+      "question": "Qual efésio os judeus supunham que Paulo havia levado para dentro do templo?",
+      "ref_label": "Atos 21:29"
+     },
+     {
+      "n": 16,
+      "question": "Jesus disse: 'Vocês são o ... da terra'.",
+      "ref_label": "Mateus 5:13"
+     },
+     {
+      "n": 17,
+      "question": "Quem protegeu Jeremias para que não fosse entregue ao povo?",
+      "ref_label": "Jeremias 26:24"
+     },
+     {
+      "n": 18,
+      "question": "Segundo Tiago, cada um deve ser pronto para quê?",
+      "ref_label": "Tiago 1:19"
+     },
+     {
+      "n": 19,
+      "question": "O que aconteceu na tarde do dia em que Ezequiel falou ao povo?",
+      "ref_label": "Ezequiel 24:18"
+     },
+     {
+      "n": 20,
+      "question": "Que cidade Josué incendiou e transformou em um monte de ruínas?",
+      "ref_label": "Josué 8:28"
+     },
+     {
+      "n": 21,
+      "question": "O que Abraão encontrou preso pelos chifres em um arbusto?",
+      "ref_label": "Gênesis 22:13"
+     },
+     {
+      "n": 22,
+      "question": "Qual palavra aparece em Jeremias 12:1 referindo‑se a Deus?",
+      "ref_label": "Jeremias 12:1"
+     },
+     {
+      "n": 23,
+      "question": "Na visão do rio, para que serviria a folha das árvores nas suas margens?",
+      "ref_label": "Ezequiel 47:12"
+     },
+     {
+      "n": 24,
+      "question": "Que som não se ouviu durante a construção do templo?",
+      "ref_label": "1 Reis 6:7"
+     },
+     {
+      "n": 25,
+      "question": "Segundo Provérbios, o que acontece com a criança ensinada no caminho certo?",
+      "ref_label": "Provérbios 22:6"
+     },
+     {
+      "n": 26,
+      "question": "Qual é o sujeito que sofreu pelos pecados em 1 Pedro 3:18?",
+      "ref_label": "1 Pedro 3:18"
+     },
+     {
+      "n": 27,
+      "question": "Segundo 1 Reis 10, o rei tornou a prata tão comum em Jerusalém quanto o quê?",
+      "ref_label": "1 Reis 10:27"
+     },
+     {
+      "n": 28,
+      "question": "Depois de deixar Nazaré, em qual cidade à beira-mar Jesus foi morar?",
+      "ref_label": "Mateus 4:13"
+     },
+     {
+      "n": 29,
+      "question": "Quantos batos o mar podia receber?",
+      "ref_label": "2 Crônicas 4:5"
+     },
+     {
+      "n": 30,
+      "question": "Segundo Eclesiastes, quando devemos lembrar do nosso Criador?",
+      "ref_label": "Eclesiastes 12:1"
+     },
+     {
+      "n": 31,
+      "question": "Na fome de Samaria, por quanto foi vendida a cabeça de um jumento?",
+      "ref_label": "2 Reis 6:25"
+     },
+     {
+      "n": 32,
+      "question": "O que a mulher samaritana deixou para trás ao correr para a cidade?",
+      "ref_label": "João 4:28"
+     },
+     {
+      "n": 33,
+      "question": "Como se chamavam os dois filhos de Samuel, juízes em Berseba?",
+      "ref_label": "1 Samuel 8:2"
+     },
+     {
+      "n": 34,
+      "question": "Quanto o SENHOR deu a Jó em relação a tudo o que ele tinha antes?",
+      "ref_label": "Jó 42:10"
+     },
+     {
+      "n": 35,
+      "question": "Atrás de que estava embrulhada num pano a espada de Golias, guardada pelo sacerdote?",
+      "ref_label": "1 Samuel 21:9"
+     },
+     {
+      "n": 36,
+      "question": "Por que devemos lançar sobre Deus todas as nossas preocupações?",
+      "ref_label": "1 Pedro 5:7"
+     },
+     {
+      "n": 37,
+      "question": "Qual animal descreve os justos em Provérbios 28:1?",
+      "ref_label": "Provérbios 28:1"
+     },
+     {
+      "n": 38,
+      "question": "Por quantos anos Paulo não cessou de advertir os efésios, noite e dia, com lágrimas?",
+      "ref_label": "Atos 20:31"
+     },
+     {
+      "n": 39,
+      "question": "Segundo o Salmo 34, quem acampa ao redor dos que temem a Deus?",
+      "ref_label": "Salmos 34:7"
+     }
+    ]
+   },
+   "captions": {
+    "youtube": {
+     "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min",
+     "description": "Você conhece mesmo a Bíblia? Responda 39 perguntas neste desafio de 10 minutos!\nPause, anote suas respostas e confira cada resposta logo depois da contagem regressiva.\n\nCapítulos:\n0:00 Introdução\n0:07 Pergunta 1\n0:21 Pergunta 2\n0:35 Pergunta 3\n0:51 Pergunta 4\n1:08 Pergunta 5\n1:22 Pergunta 6\n1:36 Pergunta 7\n1:51 Pergunta 8\n2:07 Pergunta 9\n2:21 Pergunta 10\n2:36 Pergunta 11\n2:50 Pergunta 12\n3:06 Pergunta 13\n3:20 Pergunta 14\n3:35 Pergunta 15\n3:50 Pergunta 16\n4:04 Pergunta 17\n4:18 Pergunta 18\n4:32 Pergunta 19\n4:48 Pergunta 20\n5:02 Pergunta 21\n5:16 Pergunta 22\n5:31 Pergunta 23\n5:47 Pergunta 24\n6:01 Pergunta 25\n6:17 Pergunta 26\n6:31 Pergunta 27\n6:46 Pergunta 28\n7:01 Pergunta 29\n7:16 Pergunta 30\n7:32 Pergunta 31\n7:49 Pergunta 32\n8:04 Pergunta 33\n8:20 Pergunta 34\n8:35 Pergunta 35\n8:52 Pergunta 36\n9:09 Pergunta 37\n9:22 Pergunta 38\n9:37 Pergunta 39\n\nQuantas você acertou? Conte nos comentários!\n\nInscreva-se no canal e siga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #biblia #perguntasbiblicas #desafiobiblico #evangelico #fe #jesus",
+     "tags": [
+      "quiz bíblico difícil",
+      "40 perguntas bíblicas",
+      "quiz bíblico completo",
+      "perguntas bíblicas com respostas",
+      "jogo bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "music": null,
+   "gospel_suggestions": [],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-14T15:05:41+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtu.be/hlQ_eDr3rmw"
+   }
+  },
+  {
    "id": "2026-11-14-4-quiz",
    "date": "2026-11-14",
    "slot": 4,
