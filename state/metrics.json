@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-14T12:59:55+00:00",
+ "updated_at": "2026-11-14T15:01:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-14-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-14",
+   "time": "12:00",
+   "title": "Segundo Zacarias, qual monte será fendido ao meio?",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sJZYa3_aL3s",
+    "instagram": "https://www.instagram.com/reel/DfueFf5iKv-/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1192291573189484"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-14-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-14",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1710892393883704"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 69,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 156.5
    }
   },
   "2026-11-14-2-quiz": {
@@ -34,9 +69,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 269,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 853.0
+    "views": 288,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 941.0
    },
    "youtube": {
     "views": 1,
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 44,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 58,
+    "views": 59,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 173.8
+    "watch_time_s": 174.6
    },
    "facebook": {
     "likes": 0,
@@ -131,9 +166,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 827,
+    "views": 831,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3546.7
+    "watch_time_s": 3565.6
    }
   },
   "2026-11-13-6-truefalse": {
@@ -150,20 +185,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 54,
+    "reach": 55,
     "saved": 0,
     "shares": 0,
-    "views": 59,
+    "views": 60,
     "total_interactions": 0,
     "avg_watch_s": 3.0,
-    "watch_time_s": 163.9
+    "watch_time_s": 166.4
    },
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1109,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 4557.8
+    "views": 1121,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 4674.6
    },
    "youtube": {
     "views": 51,
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 82,
+    "reach": 85,
     "saved": 0,
     "shares": 0,
-    "views": 100,
+    "views": 104,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 298.5
+    "avg_watch_s": 3.8,
+    "watch_time_s": 317.4
    },
    "facebook": {
     "likes": 1,
@@ -218,8 +253,8 @@
     "watch_time_s": 36.1
    },
    "youtube": {
-    "views": 4,
-    "likes": 0,
+    "views": 5,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 431,
+    "views": 432,
     "avg_watch_s": 6.7,
-    "watch_time_s": 2032.5
+    "watch_time_s": 2033.6
    },
    "youtube": {
     "views": 162,
@@ -333,7 +368,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 14,
+    "views": 19,
     "likes": 0,
     "comments": 0
    }
@@ -1376,7 +1411,7 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "youtube": {
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0
    }
