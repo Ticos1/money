@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-14-4-quiz",
+   "date": "2026-11-14",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-14T11:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-14T08:23:02+00:00",
+   "source": "bank",
+   "bank_id": "q663",
+   "model": null,
+   "content": {
+    "ref": "Zacarias 14:4",
+    "ref_label": "Zacarias 14:4",
+    "question": "Segundo Zacarias, qual monte será fendido ao meio?",
+    "options": [
+     "O monte das Oliveiras",
+     "O monte Sião",
+     "O monte Sinai",
+     "O monte Carmelo"
+    ],
+    "answer": 0,
+    "evidence": "o monte das Oliveiras será fendido ao meio",
+    "passage": "Naquele dia, os seus pés estarão sobre o monte das Oliveiras, que está em frente a Jerusalém, a leste; e o monte das Oliveiras será fendido ao meio, do leste para o oeste, formando um vale muito grande. Metade do monte se moverá para o norte, e a outra metade para o sul.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nSegundo Zacarias, qual monte será fendido ao meio?\n\nA) O monte das Oliveiras\nB) O monte Sião\nC) O monte Sinai\nD) O monte Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #conhecimentobiblico #cristao #teste #desafio #jesus #deus #perguntasbiblicas #gospel",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nSegundo Zacarias, qual monte será fendido ao meio?\n\nA) O monte das Oliveiras\nB) O monte Sião\nC) O monte Sinai\nD) O monte Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #fe",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #biblia",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nSegundo Zacarias, qual monte será fendido ao meio?\n\nA) O monte das Oliveiras\nB) O monte Sião\nC) O monte Sinai\nD) O monte Carmelo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Segundo Zacarias, qual monte será fendido ao meio? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nSegundo Zacarias, qual monte será fendido ao meio?\n\nA) O monte das Oliveiras\nB) O monte Sião\nC) O monte Sinai\nD) O monte Carmelo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "zacarias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-14T14:55:48+00:00",
+    "instagram": "2026-11-14T14:56:33+00:00",
+    "facebook": "2026-11-14T14:56:38+00:00",
+    "stories": "2026-11-14T14:57:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sJZYa3_aL3s",
+    "instagram": "https://www.instagram.com/reel/DfueFf5iKv-/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1192291573189484",
+    "stories": "story 18182851018435655"
+   }
+  },
+  {
    "id": "2026-11-14-3-truefalse",
    "date": "2026-11-14",
    "slot": 3,
