@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-15T16:35:42+00:00",
+ "updated_at": "2026-11-15T18:01:52+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-15-6-truefalse",
+   "date": "2026-11-15",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-15T14:51",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-15T17:55:30+00:00",
+    "instagram": "2026-11-15T17:56:37+00:00",
+    "facebook": "2026-11-15T17:56:41+00:00",
+    "stories": "2026-11-15T17:57:58+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/eM9mSnIMgw4",
+    "instagram": "https://www.instagram.com/reel/DfxXhWziWP6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1120144620797102",
+    "stories": "story 18117855650026134"
+   },
+   "title": "Quantos anos Sara viveu?"
+  },
   {
    "id": "2026-11-15-5-curiosity",
    "date": "2026-11-15",
