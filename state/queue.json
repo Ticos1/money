@@ -1,3 +1,1002 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-15-10-truefalse",
+   "date": "2026-11-15",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-15T21:32",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:26:07+00:00",
+   "source": "bank",
+   "bank_id": "q748",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 19:12",
+    "ref_label": "1 Reis 19:12",
+    "question": "Depois do terremoto e do fogo, o que Elias ouviu?",
+    "shown": "Uma voz mansa e delicada",
+    "is_true": true,
+    "correct": "Uma voz mansa e delicada",
+    "evidence": "houve uma voz mansa e delicada",
+    "passage": "Depois do terremoto passou um fogo; mas o SENHOR não estava no fogo. Depois do fogo, houve uma voz mansa e delicada.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois do terremoto e do fogo, o que Elias ouviu?\nResposta: Uma voz mansa e delicada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #gospel #deus #fe #cristao #perguntasbiblicas #conhecimentobiblico #jesus #palavradedeus #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois do terremoto e do fogo, o que Elias ouviu?\nResposta: Uma voz mansa e delicada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #jesus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #gospel #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #cristao #fe",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nDepois do terremoto e do fogo, o que Elias ouviu?\nResposta: Uma voz mansa e delicada\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Depois do terremoto e do fogo, o que Elias ouviu? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nDepois do terremoto e do fogo, o que Elias ouviu?\nResposta: Uma voz mansa e delicada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-9-quiz",
+   "date": "2026-11-15",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-15T19:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-15T08:25:41+00:00",
+   "source": "bank",
+   "bank_id": "q1181",
+   "model": null,
+   "content": {
+    "ref": "Atos 27:2",
+    "ref_label": "Atos 27:2",
+    "question": "De qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?",
+    "options": [
+     "Corinto",
+     "Filipos",
+     "Tessalônica",
+     "Bereia"
+    ],
+    "answer": 2,
+    "evidence": "um macedônio de Tessalônica",
+    "passage": "Embarcando em um navio de Adramítio, que estava prestes a navegar para os lugares na costa da Ásia, nos fizemos ao mar, estando conosco Aristarco, um macedônio de Tessalônica.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDe qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?\n\nA) Corinto\nB) Filipos\nC) Tessalônica\nD) Bereia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus #fe #conhecimentobiblico #evangelico #perguntasbiblicas #teste #biblia #gospel #desafio",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDe qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?\n\nA) Corinto\nB) Filipos\nC) Tessalônica\nD) Bereia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #desafio",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #jesus #desafio",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #evangelico #cristao",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nDe qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?\n\nA) Corinto\nB) Filipos\nC) Tessalônica\nD) Bereia\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDe qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?\n\nA) Corinto\nB) Filipos\nC) Tessalônica\nD) Bereia\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-8-fill",
+   "date": "2026-11-15",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-15T18:22",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-15T08:25:11+00:00",
+   "source": "bank",
+   "bank_id": "v559",
+   "model": null,
+   "content": {
+    "ref": "Romanos 15:4",
+    "ref_label": "Romanos 15:4",
+    "verse_text": "Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos esperança.",
+    "question": "Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.",
+    "options": [
+     "liberdade",
+     "graça",
+     "esperança",
+     "presença"
+    ],
+    "answer": 2,
+    "answer_word": "esperança",
+    "tags": [
+     "esperanca",
+     "palavra"
+    ]
+   },
+   "captions": {
+    "instagram": "Qual palavra falta nesse versículo? 📖\n\n“Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.”\n\nA) liberdade\nB) graça\nC) esperança\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#esperanca #palavra #completeoversiculo #versiculo #jesus #evangelico #fe #quizbiblico #desafiobiblico #gospel #cristao #biblia",
+    "facebook": "Qual palavra falta nesse versículo? 📖\n\n“Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.”\n\nA) liberdade\nB) graça\nC) esperança\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#esperanca #palavra #completeoversiculo #versiculo",
+    "tiktok": "Qual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#esperanca #palavra #completeoversiculo #versiculo #palavradedeus",
+    "kwai": "Qual palavra falta nesse versículo? 📖\nComente a letra: A, B, C ou D 👇\n#esperanca #palavra #completeoversiculo #versiculo #jesus",
+    "whatsapp": "*Qual palavra falta nesse versículo?* 📖\n\n“Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.”\n\nA) liberdade\nB) graça\nC) esperança\nD) presença\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo: Romanos 15:4 📖 Você sabe de cor? #shorts",
+     "description": "Qual palavra falta nesse versículo? 📖\n\n“Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.”\n\nA) liberdade\nB) graça\nC) esperança\nD) presença\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #esperanca #palavra #completeoversiculo",
+     "tags": [
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esperanca",
+      "palavra",
+      "romanos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Qual palavra falta nesse versículo?",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-7-quiz",
+   "date": "2026-11-15",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-15T17:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-15T08:24:43+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Oseias 4:15",
+    "ref_label": "Oseias 4:15",
+    "question": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir?",
+    "options": [
+     "Gilgal",
+     "Betel",
+     "Jericó",
+     "Samaria"
+    ],
+    "answer": 0,
+    "evidence": "Gilgal",
+    "passage": "“Embora você, Israel, se prostitua, não deixe que Judá se torne culpado; e não venham a Gilgal, nem subam a Bete-Áven, nem jurem: ‘Tão certo como vive o SENHOR.’",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus #perguntasbiblicas #gospel #cristao #evangelico #biblia #teste #desafio #palavradedeus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #conhecimentobiblico",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #evangelico #perguntasbiblicas",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #gospel",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-6-truefalse",
+   "date": "2026-11-15",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-15T14:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:24:14+00:00",
+   "source": "bank",
+   "bank_id": "q104",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 23:1",
+    "ref_label": "Gênesis 23:1",
+    "question": "Quantos anos Sara viveu?",
+    "shown": "127",
+    "is_true": true,
+    "correct": "127",
+    "evidence": "Sara viveu cento e vinte e sete anos",
+    "passage": "Sara viveu cento e vinte e sete anos. Esta foi a duração da vida de Sara.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico #palavradedeus #gospel #jesus #cristao #fe #deus #desafiobiblico #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #fe",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #jesus #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quantos anos Sara viveu? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-5-curiosity",
+   "date": "2026-11-15",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-15T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-15T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "c261",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 3:20",
+    "ref_label": "1 Pedro 3:20",
+    "title": "Só 8 pessoas na arca",
+    "text": "Pedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles.",
+    "evidence": "oito almas, foram salvos através da água",
+    "passage": "os quais antes foram desobedientes, quando Deus esperou pacientemente nos dias de Noé, enquanto a arca estava sendo construída. Nela, poucos, isto é, oito almas, foram salvos através da água.",
+    "tags": [
+     "noe",
+     "arca"
+    ]
+   },
+   "captions": {
+    "instagram": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#noe #arca #vocesabia #curiosidadesbiblicas #cristao #biblia #historiabiblica #estudobiblico #gospel #jesus #palavradedeus #evangelico",
+    "facebook": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#noe #arca #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Só 8 pessoas na arca: Noé, esposa, três filhos e suas esposas. Confie na fidelidade de Deus! 🙏\n#noe #arca #vocesabia #curiosidadesbiblicas #biblia",
+    "kwai": "Só 8 pessoas na arca: Noé, esposa, três filhos e suas esposas. Confie na fidelidade de Deus! 🙏\n#noe #arca #vocesabia #curiosidadesbiblicas #cristao",
+    "whatsapp": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Só 8 pessoas na arca #shorts",
+     "description": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #noe #arca #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "noe",
+      "arca",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.02,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-4-quiz",
+   "date": "2026-11-15",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-15T12:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-15T08:23:18+00:00",
+   "source": "bank",
+   "bank_id": "q762",
+   "model": null,
+   "content": {
+    "ref": "Esdras 7:6",
+    "ref_label": "Esdras 7:6",
+    "question": "Esdras era um escriba habilidoso em quê?",
+    "options": [
+     "Nas crônicas dos reis",
+     "Na lei de Moisés",
+     "Na língua dos caldeus",
+     "Nos salmos de Davi"
+    ],
+    "answer": 1,
+    "evidence": "um escriba habilidoso na lei de Moisés",
+    "passage": "este Esdras subiu da Babilônia. Ele era um escriba habilidoso na lei de Moisés, que o SENHOR, o Deus de Israel, tinha dado; e o rei lhe concedeu tudo o que pediu, segundo a mão do SENHOR, seu Deus, sobre ele.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras era um escriba habilidoso em quê?\n\nA) Nas crônicas dos reis\nB) Na lei de Moisés\nC) Na língua dos caldeus\nD) Nos salmos de Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #desafio #fe #teste #biblia #jesus #cristao #palavradedeus #perguntasbiblicas #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras era um escriba habilidoso em quê?\n\nA) Nas crônicas dos reis\nB) Na lei de Moisés\nC) Na língua dos caldeus\nD) Nos salmos de Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #deus #teste",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #jesus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nEsdras era um escriba habilidoso em quê?\n\nA) Nas crônicas dos reis\nB) Na lei de Moisés\nC) Na língua dos caldeus\nD) Nos salmos de Davi\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Esdras era um escriba habilidoso em quê? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nEsdras era um escriba habilidoso em quê?\n\nA) Nas crônicas dos reis\nB) Na lei de Moisés\nC) Na língua dos caldeus\nD) Nos salmos de Davi\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esdras"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-3-truefalse",
+   "date": "2026-11-15",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-15T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:22:47+00:00",
+   "source": "bank",
+   "bank_id": "q094",
+   "model": null,
+   "content": {
+    "ref": "Neemias 6:15",
+    "ref_label": "Neemias 6:15",
+    "question": "Em quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?",
+    "shown": "Cinquenta e dois",
+    "is_true": true,
+    "correct": "Cinquenta e dois",
+    "evidence": "em cinquenta e dois dias",
+    "passage": "Assim, o muro foi concluído no vigésimo quinto dia do mês de elul, em cinquenta e dois dias.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #conhecimentobiblico #perguntasbiblicas #deus #biblia #evangelico #palavradedeus #jesus #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #palavradedeus #jesus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-2-quiz",
+   "date": "2026-11-15",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-15T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-15T08:22:21+00:00",
+   "source": "bank",
+   "bank_id": "q1220",
+   "model": null,
+   "content": {
+    "ref": "Lucas 2:1",
+    "ref_label": "Lucas 2:1",
+    "question": "De quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?",
+    "options": [
+     "Herodes",
+     "Cláudio César",
+     "Tibério César",
+     "César Augusto"
+    ],
+    "answer": 3,
+    "evidence": "da parte de César Augusto",
+    "passage": "Naqueles dias, saiu um decreto da parte de César Augusto para que todo o mundo fosse recenseado.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nDe quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?\n\nA) Herodes\nB) Cláudio César\nC) Tibério César\nD) César Augusto\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #gospel #biblia #conhecimentobiblico #fe #cristao #desafio #teste #evangelico #palavradedeus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nDe quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?\n\nA) Herodes\nB) Cláudio César\nC) Tibério César\nD) César Augusto\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #biblia",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #palavradedeus #gospel",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nDe quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?\n\nA) Herodes\nB) Cláudio César\nC) Tibério César\nD) César Augusto\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nDe quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?\n\nA) Herodes\nB) Cláudio César\nC) Tibério César\nD) César Augusto\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-15-1-verse",
+   "date": "2026-11-15",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-15T06:39",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:21:50+00:00",
+   "source": "bank",
+   "bank_id": "v455",
+   "model": null,
+   "content": {
+    "ref": "Judas 1:24",
+    "ref_label": "Judas 1:24",
+    "verse_text": "Àquele que é poderoso para guardá-los de tropeçar, e para apresentar vocês irrepreensíveis diante da presença da sua glória, com grande alegria…",
+    "on_screen": "Deus é poderoso para guardar você de tropeçar.",
+    "reflection": "Não somos nós que nos seguramos sozinhos. Deus é quem guarda os nossos passos e nos apresentará diante da Sua glória com grande alegria. Confie nEle.",
+    "theme": "proteção",
+    "mood": "alegria",
+    "tags": [
+     "protecao",
+     "louvor"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de proteção: Judas 1:24\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Àquele que é poderoso para guardá-los de tropeçar, e para apresentar vocês irrepreensíveis diante da presença da sua glória, com grande alegria…” (Judas 1:24)\n\nDeus é quem sustenta cada passo que damos. Ele nos protege de tropeçar e nos prepara para aparecer diante da Sua glória com grande alegria. Quando confiamos nEle, sentimos a paz que só o Seu poder pode dar. Salve esta mensagem e compartilhe com quem precisa de apoio! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #protecao #louvor #versiculododia #versiculo #fe #oracao #devocional #biblia #jesus #cristao #evangelico",
+    "facebook": "Versículo de proteção: Judas 1:24\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Àquele que é poderoso para guardá-los de tropeçar, e para apresentar vocês irrepreensíveis diante da presença da sua glória, com grande alegria…” (Judas 1:24)\n\nDeus é quem sustenta cada passo que damos. Ele nos protege de tropeçar e nos prepara para aparecer diante da Sua glória com grande alegria. Quando confiamos nEle, sentimos a paz que só o Seu poder pode dar. Salve esta mensagem e compartilhe com quem precisa de apoio! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #protecao #louvor #versiculododia",
+    "tiktok": "Versículo de proteção\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nDeus guarda seus passos e te levará à glória com alegria. Confie nEle!\n#versiculodeprotecao #protecao #louvor #versiculododia #versiculo",
+    "kwai": "Versículo de proteção\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nDeus guarda seus passos e te levará à glória com alegria. Confie nEle!\n#versiculodeprotecao #protecao #louvor #versiculododia #versiculo",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Àquele que é poderoso para guardá-los de tropeçar, e para apresentar vocês irrepreensíveis diante da presença da sua glória, com grande alegria…” (Judas 1:24)\n\nDeus é quem sustenta cada passo que damos. Ele nos protege de tropeçar e nos prepara para aparecer diante da Sua glória com grande alegria. Quando confiamos nEle, sentimos a paz que só o Seu poder pode dar. Salve esta mensagem e compartilhe com quem precisa de apoio! 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de proteção: Judas 1:24 🙏 #shorts",
+     "description": "Versículo de proteção: Judas 1:24\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Àquele que é poderoso para guardá-los de tropeçar, e para apresentar vocês irrepreensíveis diante da presença da sua glória, com grande alegria…” (Judas 1:24)\n\nDeus é quem sustenta cada passo que damos. Ele nos protege de tropeçar e nos prepara para aparecer diante da Sua glória com grande alegria. Quando confiamos nEle, sentimos a paz que só o Seu poder pode dar. Salve esta mensagem e compartilhe com quem precisa de apoio! 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeprotecao #protecao #louvor",
+     "tags": [
+      "versículo de proteção",
+      "versículos de proteção",
+      "proteção",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "protecao",
+      "louvor",
+      "judas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 22.22,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-15/2026-11-15-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null
+  }
+ ]
 }
