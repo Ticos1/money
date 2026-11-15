@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T09:29:00+00:00",
+ "updated_at": "2026-11-15T09:44:56+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-15-1-verse",
+   "date": "2026-11-15",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-15T06:39",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-15T09:41:11+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 17886261810628370"
+   },
+   "title": "Judas 1:24"
+  }
+ ],
  "specials": {}
 }
