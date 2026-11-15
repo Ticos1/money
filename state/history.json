@@ -255,6 +255,93 @@
    }
   },
   {
+   "id": "2026-11-14-10-truefalse",
+   "date": "2026-11-14",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-14T21:32",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-14T08:25:49+00:00",
+   "source": "bank",
+   "bank_id": "q021",
+   "model": null,
+   "content": {
+    "ref": "Lucas 19:2-4",
+    "ref_label": "Lucas 19:2-4",
+    "question": "Em que árvore Zaqueu subiu para ver Jesus?",
+    "shown": "Oliveira",
+    "is_true": false,
+    "correct": "Sicômoro",
+    "evidence": "subiu em um sicômoro",
+    "passage": "Havia ali um homem chamado Zaqueu. Ele era chefe dos cobradores de impostos e era rico. Ele tentava ver quem era Jesus, e não conseguia por causa da multidão, porque era de baixa estatura. Ele correu adiante e subiu em um sicômoro para vê-lo, pois ele ia passar por ali.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm que árvore Zaqueu subiu para ver Jesus?\nResposta: Oliveira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #biblia #evangelico #palavradedeus #deus #cristao #desafiobiblico #jesus #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm que árvore Zaqueu subiu para ver Jesus?\nResposta: Oliveira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #biblia",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #perguntasbiblicas #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nEm que árvore Zaqueu subiu para ver Jesus?\nResposta: Oliveira\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Em que árvore Zaqueu subiu para ver Jesus? #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm que árvore Zaqueu subiu para ver Jesus?\nResposta: Oliveira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-15T00:35:48+00:00",
+    "stories": "2026-11-15T00:36:21+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1309500714635585",
+    "stories": "story 18020798309740813"
+   }
+  },
+  {
    "id": "2026-11-14-9-quiz",
    "date": "2026-11-14",
    "slot": 9,
