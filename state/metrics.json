@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-15T09:28:57+00:00",
+ "updated_at": "2026-11-15T09:44:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-1-verse": {
+   "type": "verse",
+   "date": "2026-11-15",
+   "time": "06:30",
+   "title": "Judas 1:24",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-14-11-compilation": {
    "type": "compilation",
    "date": "2026-11-14",
@@ -49,13 +57,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 74,
+    "reach": 75,
     "saved": 0,
     "shares": 0,
-    "views": 93,
+    "views": 98,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 305.7
+    "avg_watch_s": 4.2,
+    "watch_time_s": 313.3
    },
    "facebook": {
     "likes": 0,
