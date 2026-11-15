@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T06:21:13+00:00",
+ "updated_at": "2026-11-15T09:28:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -49,13 +49,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 71,
+    "reach": 74,
     "saved": 0,
     "shares": 0,
-    "views": 90,
+    "views": 93,
     "total_interactions": 0,
     "avg_watch_s": 4.1,
-    "watch_time_s": 297.7
+    "watch_time_s": 305.7
    },
    "facebook": {
     "likes": 0,
@@ -111,20 +111,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 95,
+    "reach": 99,
     "saved": 0,
     "shares": 0,
-    "views": 126,
+    "views": 127,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 408.2
+    "avg_watch_s": 4.2,
+    "watch_time_s": 411.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 443,
+    "views": 445,
     "avg_watch_s": 7.7,
-    "watch_time_s": 2316.2
+    "watch_time_s": 2324.7
    },
    "youtube": {
     "views": 375,
@@ -179,7 +179,7 @@
     "watch_time_s": 1240.0
    },
    "youtube": {
-    "views": 30,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
@@ -214,9 +214,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 369,
+    "views": 373,
     "avg_watch_s": 5.2,
-    "watch_time_s": 1406.1
+    "watch_time_s": 1425.0
    },
    "youtube": {
     "views": 87,
@@ -398,7 +398,7 @@
     "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 1,
     "comments": 0
    }
@@ -513,7 +513,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 29,
+    "views": 30,
     "likes": 0,
     "comments": 0
    }
@@ -4840,9 +4840,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 456,
+    "views": 457,
     "avg_watch_s": 4.0,
-    "watch_time_s": 1502.0
+    "watch_time_s": 1505.7
    },
    "youtube": {
     "views": 64,
