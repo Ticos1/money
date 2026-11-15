@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-15T20:15:21+00:00",
+ "updated_at": "2026-11-15T21:28:26+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-8-fill": {
+   "type": "fill",
+   "date": "2026-11-15",
+   "time": "18:30",
+   "title": "Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____.",
+   "hook": "Qual palavra falta nesse versículo?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/tW5VFFMasW8"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-15-7-quiz": {
    "type": "quiz",
    "date": "2026-11-15",
@@ -16,9 +31,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 2,
+    "avg_watch_s": 3.3,
+    "watch_time_s": 6.6
    }
   },
   "2026-11-15-6-truefalse": {
@@ -35,20 +50,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 26,
+    "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 38,
+    "views": 52,
     "total_interactions": 0,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 141.8
+    "avg_watch_s": 6.0,
+    "watch_time_s": 221.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 301,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 908.0
+    "views": 312,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 998.7
    },
    "youtube": {
     "views": 2,
@@ -68,9 +83,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 273,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 1600.0
+    "views": 280,
+    "avg_watch_s": 6.8,
+    "watch_time_s": 1601.8
    }
   },
   "2026-11-15-4-quiz": {
@@ -120,9 +135,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 326,
+    "views": 328,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1178.7
+    "watch_time_s": 1180.0
    }
   },
   "2026-11-15-2-quiz": {
@@ -465,7 +480,7 @@
     "comments": 0,
     "views": 833,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3574.6
+    "watch_time_s": 3575.2
    }
   },
   "2026-11-13-6-truefalse": {
@@ -764,7 +779,7 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1363,
+    "views": 1365,
     "avg_watch_s": 5.6,
     "watch_time_s": 5734.3
    },
