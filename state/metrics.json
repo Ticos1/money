@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-15T11:15:29+00:00",
+ "updated_at": "2026-11-15T12:59:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-15",
+   "time": "10:00",
+   "title": "Em quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1653589483133690"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-15-2-quiz": {
    "type": "quiz",
    "date": "2026-11-15",
@@ -62,9 +79,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 3,
-    "avg_watch_s": 18.4,
-    "watch_time_s": 18.4
+    "views": 4,
+    "avg_watch_s": 11.3,
+    "watch_time_s": 22.6
    }
   },
   "2026-11-14-9-quiz": {
@@ -80,13 +97,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 77,
+    "reach": 82,
     "saved": 0,
     "shares": 0,
-    "views": 98,
+    "views": 105,
     "total_interactions": 0,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 332.9
+    "avg_watch_s": 4.4,
+    "watch_time_s": 362.5
    },
    "facebook": {
     "likes": 0,
@@ -121,11 +138,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1009586095515191"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 304,
+    "views": 305,
     "avg_watch_s": 3.8,
-    "watch_time_s": 931.8
+    "watch_time_s": 934.5
    }
   },
   "2026-11-14-6-truefalse": {
@@ -153,9 +170,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 450,
-    "avg_watch_s": 7.7,
-    "watch_time_s": 2359.7
+    "views": 453,
+    "avg_watch_s": 7.8,
+    "watch_time_s": 2385.8
    },
    "youtube": {
     "views": 375,
@@ -227,9 +244,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 459,
+    "views": 460,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1749.0
+    "watch_time_s": 1750.2
    }
   },
   "2026-11-14-2-quiz": {
@@ -245,12 +262,12 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 373,
+    "views": 374,
     "avg_watch_s": 5.2,
-    "watch_time_s": 1425.0
+    "watch_time_s": 1425.9
    },
    "youtube": {
-    "views": 87,
+    "views": 88,
     "likes": 0,
     "comments": 0
    }
@@ -429,7 +446,7 @@
     "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 1,
     "comments": 0
    }
@@ -643,9 +660,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1362,
+    "views": 1363,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5733.3
+    "watch_time_s": 5734.3
    },
    "youtube": {
     "views": 0,
@@ -780,7 +797,7 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2255,
+    "views": 2256,
     "avg_watch_s": 5.3,
     "watch_time_s": 8755.6
    }
