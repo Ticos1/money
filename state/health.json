@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-15T20:15:25+00:00",
+ "updated_at": "2026-11-15T21:28:29+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-15-8-fill",
+   "date": "2026-11-15",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-15T18:22",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-15T21:25:30+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-15T21:26:02+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/tW5VFFMasW8",
+    "stories": "story 18132377911880015"
+   },
+   "title": "Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____."
+  },
   {
    "id": "2026-11-15-7-quiz",
    "date": "2026-11-15",
