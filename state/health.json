@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-15T09:44:56+00:00",
+ "updated_at": "2026-11-15T11:15:33+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-15-2-quiz",
+   "date": "2026-11-15",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-15T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-15T11:10:44+00:00",
+    "instagram": null,
+    "facebook": "2026-11-15T11:10:49+00:00",
+    "stories": "2026-11-15T11:11:30+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/BFRlkzVqrs8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29459670520311987",
+    "stories": "story 18124062430955447"
+   },
+   "title": "De quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?"
+  },
   {
    "id": "2026-11-15-1-verse",
    "date": "2026-11-15",
