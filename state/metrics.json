@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-15T12:59:34+00:00",
+ "updated_at": "2026-11-15T15:17:38+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-15",
+   "time": "12:00",
+   "title": "Esdras era um escriba habilidoso em quê?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/y_AfBmDA5g0",
+    "instagram": "https://www.instagram.com/reel/DfxElXmm6gv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2894094777642144"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-15-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-15",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 268,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 922.7
    }
   },
   "2026-11-15-2-quiz": {
@@ -39,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -97,13 +132,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 82,
+    "reach": 89,
     "saved": 0,
     "shares": 0,
-    "views": 105,
+    "views": 113,
     "total_interactions": 0,
     "avg_watch_s": 4.4,
-    "watch_time_s": 362.5
+    "watch_time_s": 392.1
    },
    "facebook": {
     "likes": 0,
@@ -140,9 +175,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 305,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 934.5
+    "views": 306,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 935.7
    }
   },
   "2026-11-14-6-truefalse": {
@@ -170,12 +205,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 453,
+    "views": 456,
     "avg_watch_s": 7.8,
-    "watch_time_s": 2385.8
+    "watch_time_s": 2387.9
    },
    "youtube": {
-    "views": 375,
+    "views": 377,
     "likes": 1,
     "comments": 0
    }
@@ -222,9 +257,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 283,
+    "views": 285,
     "avg_watch_s": 5.6,
-    "watch_time_s": 1240.7
+    "watch_time_s": 1242.0
    },
    "youtube": {
     "views": 34,
@@ -389,9 +424,9 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1133,
+    "views": 1134,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4748.9
+    "watch_time_s": 4749.1
    },
    "youtube": {
     "views": 54,
@@ -546,7 +581,7 @@
     "watch_time_s": 3.0
    },
    "youtube": {
-    "views": 13,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -608,9 +643,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 341,
+    "views": 343,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1221.6
+    "watch_time_s": 1224.3
    },
    "youtube": {
     "views": 1,
@@ -682,9 +717,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1487,
+    "views": 1488,
     "avg_watch_s": 5.0,
-    "watch_time_s": 5544.1
+    "watch_time_s": 5547.1
    }
   },
   "2026-11-12-2-quiz": {
@@ -799,7 +834,7 @@
     "comments": 2,
     "views": 2256,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8755.6
+    "watch_time_s": 8756.9
    }
   },
   "2026-11-11-6-truefalse": {
@@ -1357,9 +1392,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 676,
+    "views": 678,
     "avg_watch_s": 6.3,
-    "watch_time_s": 3279.3
+    "watch_time_s": 3289.3
    },
    "youtube": {
     "views": 196,
@@ -1604,7 +1639,7 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -4252,9 +4287,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.9,
-    "watch_time_s": 0.9
+    "views": 2,
+    "avg_watch_s": 0.7,
+    "watch_time_s": 1.4
    }
   },
   "2026-10-26-9-quiz": {
