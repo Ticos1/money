@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-15-3-truefalse",
+   "date": "2026-11-15",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-15T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:22:47+00:00",
+   "source": "bank",
+   "bank_id": "q094",
+   "model": null,
+   "content": {
+    "ref": "Neemias 6:15",
+    "ref_label": "Neemias 6:15",
+    "question": "Em quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?",
+    "shown": "Cinquenta e dois",
+    "is_true": true,
+    "correct": "Cinquenta e dois",
+    "evidence": "em cinquenta e dois dias",
+    "passage": "Assim, o muro foi concluído no vigésimo quinto dia do mês de elul, em cinquenta e dois dias.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #cristao #conhecimentobiblico #perguntasbiblicas #deus #biblia #evangelico #palavradedeus #jesus #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #palavradedeus #jesus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nEm quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?\nResposta: Cinquenta e dois\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-15T12:55:49+00:00",
+    "stories": "2026-11-15T12:56:47+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1653589483133690",
+    "stories": "story 17882791140555063"
+   }
+  },
+  {
    "id": "2026-11-15-2-quiz",
    "date": "2026-11-15",
    "slot": 2,
