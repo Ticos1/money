@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-15T09:44:53+00:00",
+ "updated_at": "2026-11-15T11:15:29+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-15",
+   "time": "08:00",
+   "title": "De quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/BFRlkzVqrs8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29459670520311987"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-15-1-verse": {
    "type": "verse",
    "date": "2026-11-15",
@@ -57,13 +80,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 75,
+    "reach": 77,
     "saved": 0,
     "shares": 0,
     "views": 98,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 313.3
+    "avg_watch_s": 4.3,
+    "watch_time_s": 332.9
    },
    "facebook": {
     "likes": 0,
@@ -83,7 +106,7 @@
     "youtube": "https://youtube.com/shorts/E7HIlA-XXAA"
    },
    "youtube": {
-    "views": 49,
+    "views": 52,
     "likes": 1,
     "comments": 0
    }
@@ -100,9 +123,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 302,
+    "views": 304,
     "avg_watch_s": 3.8,
-    "watch_time_s": 930.6
+    "watch_time_s": 931.8
    }
   },
   "2026-11-14-6-truefalse": {
@@ -130,9 +153,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 445,
+    "views": 450,
     "avg_watch_s": 7.7,
-    "watch_time_s": 2324.7
+    "watch_time_s": 2359.7
    },
    "youtube": {
     "views": 375,
@@ -182,12 +205,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 282,
+    "views": 283,
     "avg_watch_s": 5.6,
-    "watch_time_s": 1240.0
+    "watch_time_s": 1240.7
    },
    "youtube": {
-    "views": 32,
+    "views": 34,
     "likes": 1,
     "comments": 0
    }
@@ -287,7 +310,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 28,
+    "views": 29,
     "likes": 0,
     "comments": 0
    }
@@ -441,9 +464,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 439,
+    "views": 440,
     "avg_watch_s": 6.7,
-    "watch_time_s": 2055.6
+    "watch_time_s": 2062.1
    },
    "youtube": {
     "views": 164,
