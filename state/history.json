@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-15-6-truefalse",
+   "date": "2026-11-15",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-15T14:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-15T08:24:14+00:00",
+   "source": "bank",
+   "bank_id": "q104",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 23:1",
+    "ref_label": "Gênesis 23:1",
+    "question": "Quantos anos Sara viveu?",
+    "shown": "127",
+    "is_true": true,
+    "correct": "127",
+    "evidence": "Sara viveu cento e vinte e sete anos",
+    "passage": "Sara viveu cento e vinte e sete anos. Esta foi a duração da vida de Sara.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #conhecimentobiblico #palavradedeus #gospel #jesus #cristao #fe #deus #desafiobiblico #perguntasbiblicas",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #fe",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #jesus #deus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Quantos anos Sara viveu? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQuantos anos Sara viveu?\nResposta: 127\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-15T17:55:30+00:00",
+    "instagram": "2026-11-15T17:56:37+00:00",
+    "facebook": "2026-11-15T17:56:41+00:00",
+    "stories": "2026-11-15T17:57:58+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/eM9mSnIMgw4",
+    "instagram": "https://www.instagram.com/reel/DfxXhWziWP6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1120144620797102",
+    "stories": "story 18117855650026134"
+   }
+  },
+  {
    "id": "2026-11-15-5-curiosity",
    "date": "2026-11-15",
    "slot": 5,
