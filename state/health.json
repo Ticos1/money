@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-15T00:40:13+00:00",
- "date": "2026-11-14",
+ "updated_at": "2026-11-15T06:21:17+00:00",
+ "date": "2026-11-15",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 5,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 436,
-   "days_left": 436,
+   "fresh": 437,
+   "days_left": 437,
    "warn": false
   },
   {
@@ -49,278 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-14-11-compilation",
-   "date": "2026-11-14",
-   "slot": 11,
-   "time": "12:00",
-   "publish_at": "2026-11-14T12:04",
-   "type": "compilation",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-14T15:05:41+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": null,
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtu.be/hlQ_eDr3rmw"
-   },
-   "title": "QUIZ BÍBLICO: 39 perguntas (só 1% acerta todas!) | 10 min"
-  },
-  {
-   "id": "2026-11-14-10-truefalse",
-   "date": "2026-11-14",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-14T21:32",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-15T00:35:48+00:00",
-    "stories": "2026-11-15T00:36:21+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1309500714635585",
-    "stories": "story 18020798309740813"
-   },
-   "title": "Em que árvore Zaqueu subiu para ver Jesus?"
-  },
-  {
-   "id": "2026-11-14-9-quiz",
-   "date": "2026-11-14",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-14T20:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": "2026-11-14T23:06:11+00:00",
-    "facebook": "2026-11-14T23:06:15+00:00",
-    "stories": "2026-11-14T23:06:55+00:00",
-    "whatsapp": null
-   },
-   "publish_skipped": {
-    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "instagram": "https://www.instagram.com/reel/DfvWJOLE3JK/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/28971068869254237",
-    "stories": "story 18092611553250963"
-   },
-   "title": "Quantos graus a sombra recuou no relógio de sol de Acaz?"
-  },
-  {
-   "id": "2026-11-14-8-fill",
-   "date": "2026-11-14",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-14T18:26",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-14T21:30:38+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-14T21:31:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/E7HIlA-XXAA",
-    "stories": "story 18224169217353253"
-   },
-   "title": "Nisto o _____ de Deus foi revelado entre nós: que Deus enviou o seu Filho unigênito ao mundo, para que pudéssemos viver por meio dele."
-  },
-  {
-   "id": "2026-11-14-7-quiz",
-   "date": "2026-11-14",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-14T17:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-14T20:05:51+00:00",
-    "stories": "2026-11-14T20:06:25+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1009586095515191",
-    "stories": "story 17997194801848463"
-   },
-   "title": "Com quantos anos o rei Josias começou a reinar?"
-  },
-  {
-   "id": "2026-11-14-6-truefalse",
-   "date": "2026-11-14",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-14T15:10",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-14T18:10:39+00:00",
-    "instagram": "2026-11-14T18:11:12+00:00",
-    "facebook": "2026-11-14T18:11:15+00:00",
-    "stories": "2026-11-14T18:11:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/MVVSxH4CIoU",
-    "instagram": "https://www.instagram.com/reel/Dfu0YeoD_q5/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29812382901688325",
-    "stories": "story 18135542239670518"
-   },
-   "title": "Quem o Espírito Santo mandou separar para a obra missionária em Antioquia?"
-  },
-  {
-   "id": "2026-11-14-5-curiosity",
-   "date": "2026-11-14",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-14T13:21",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-14T16:25:47+00:00",
-    "stories": "2026-11-14T16:27:15+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1707863977803029",
-    "stories": "story 18148028515592445"
-   },
-   "title": "Curiosidade sobre as obras da carne"
-  },
-  {
-   "id": "2026-11-14-4-quiz",
-   "date": "2026-11-14",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-14T11:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-14T14:55:48+00:00",
-    "instagram": "2026-11-14T14:56:33+00:00",
-    "facebook": "2026-11-14T14:56:38+00:00",
-    "stories": "2026-11-14T14:57:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/sJZYa3_aL3s",
-    "instagram": "https://www.instagram.com/reel/DfueFf5iKv-/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1192291573189484",
-    "stories": "story 18182851018435655"
-   },
-   "title": "Segundo Zacarias, qual monte será fendido ao meio?"
-  },
-  {
-   "id": "2026-11-14-3-truefalse",
-   "date": "2026-11-14",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-14T09:53",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-14T12:55:43+00:00",
-    "stories": "2026-11-14T12:56:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1710892393883704",
-    "stories": "story 17966772828225736"
-   },
-   "title": "Por quantos anos Jacó se ofereceu para servir por Raquel?"
-  },
-  {
-   "id": "2026-11-14-2-quiz",
-   "date": "2026-11-14",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-14T07:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-14T11:00:45+00:00",
-    "instagram": null,
-    "facebook": "2026-11-14T11:00:49+00:00",
-    "stories": "2026-11-14T11:01:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/On3D7RNY0Zs",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1136675532441784",
-    "stories": "story 18163104052498868"
-   },
-   "title": "Na multiplicação, quantos pães os discípulos tinham?"
-  },
-  {
-   "id": "2026-11-14-1-verse",
-   "date": "2026-11-14",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-14T06:21",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-14T09:26:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18181607656452460"
-   },
-   "title": "João 14:23"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
