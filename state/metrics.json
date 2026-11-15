@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-15T16:35:39+00:00",
+ "updated_at": "2026-11-15T18:01:47+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-15-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-15",
+   "time": "15:00",
+   "title": "Quantos anos Sara viveu?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/eM9mSnIMgw4",
+    "instagram": "https://www.instagram.com/reel/DfxXhWziWP6/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1120144620797102"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-15-5-curiosity": {
    "type": "curiosity",
    "date": "2026-11-15",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2269191893643057"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 50,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 138.9
    }
   },
   "2026-11-15-4-quiz": {
@@ -33,25 +68,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2894094777642144"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 3,
+    "reach": 109,
     "saved": 0,
     "shares": 0,
-    "views": 5,
-    "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 11.2
+    "views": 133,
+    "total_interactions": 1,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 392.1
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 238,
+    "views": 255,
     "avg_watch_s": 4.1,
-    "watch_time_s": 620.1
+    "watch_time_s": 839.4
    },
    "youtube": {
-    "views": 0,
+    "views": 27,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 297,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1007.2
+    "views": 309,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1084.9
    }
   },
   "2026-11-15-2-quiz": {
@@ -86,9 +121,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 0.3,
+    "watch_time_s": 0.3
    },
    "youtube": {
     "views": 19,
@@ -149,13 +184,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 94,
+    "reach": 99,
     "saved": 0,
     "shares": 0,
-    "views": 119,
+    "views": 124,
     "total_interactions": 0,
     "avg_watch_s": 4.3,
-    "watch_time_s": 408.4
+    "watch_time_s": 429.5
    },
    "facebook": {
     "likes": 0,
@@ -223,8 +258,8 @@
     "likes": 0,
     "comments": 0,
     "views": 461,
-    "avg_watch_s": 7.8,
-    "watch_time_s": 2427.2
+    "avg_watch_s": 7.7,
+    "watch_time_s": 2433.1
    },
    "youtube": {
     "views": 377,
@@ -463,9 +498,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 252,
+    "views": 253,
     "avg_watch_s": 4.5,
-    "watch_time_s": 969.5
+    "watch_time_s": 969.6
    }
   },
   "2026-11-13-4-quiz": {
@@ -498,7 +533,7 @@
     "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 9,
+    "views": 10,
     "likes": 1,
     "comments": 0
    }
@@ -613,7 +648,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 30,
+    "views": 32,
     "likes": 0,
     "comments": 0
    }
@@ -2612,7 +2647,7 @@
     "comments": 1,
     "views": 2097,
     "avg_watch_s": 6.3,
-    "watch_time_s": 9974.0
+    "watch_time_s": 9986.4
    }
   },
   "2026-11-03-6-truefalse": {
