@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-15-5-curiosity",
+   "date": "2026-11-15",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-15T13:28",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-15T08:23:51+00:00",
+   "source": "bank",
+   "bank_id": "c261",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 3:20",
+    "ref_label": "1 Pedro 3:20",
+    "title": "Só 8 pessoas na arca",
+    "text": "Pedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles.",
+    "evidence": "oito almas, foram salvos através da água",
+    "passage": "os quais antes foram desobedientes, quando Deus esperou pacientemente nos dias de Noé, enquanto a arca estava sendo construída. Nela, poucos, isto é, oito almas, foram salvos através da água.",
+    "tags": [
+     "noe",
+     "arca"
+    ]
+   },
+   "captions": {
+    "instagram": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#noe #arca #vocesabia #curiosidadesbiblicas #cristao #biblia #historiabiblica #estudobiblico #gospel #jesus #palavradedeus #evangelico",
+    "facebook": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#noe #arca #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Só 8 pessoas na arca: Noé, esposa, três filhos e suas esposas. Confie na fidelidade de Deus! 🙏\n#noe #arca #vocesabia #curiosidadesbiblicas #biblia",
+    "kwai": "Só 8 pessoas na arca: Noé, esposa, três filhos e suas esposas. Confie na fidelidade de Deus! 🙏\n#noe #arca #vocesabia #curiosidadesbiblicas #cristao",
+    "whatsapp": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Só 8 pessoas na arca #shorts",
+     "description": "Só 8 pessoas na arca\n\nPedro lembra que, no dilúvio, apenas oito pessoas foram salvas na arca: Noé, sua esposa, seus três filhos e as esposas deles. (1 Pedro 3:20)\n\nCuriosidade bíblica: No dilúvio, Deus salvou apenas oito pessoas na arca – Noé, sua esposa, seus três filhos e as esposas deles (1 Pedro 3:20). Pense na fidelidade que Ele demonstrou ao proteger uma família tão pequena em meio a tanta destruição. Que esse exemplo nos inspire a confiar na providência divina, mesmo quando parece que somos poucos. Salve este post para lembrar que Deus cuida dos que O buscam.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #noe #arca #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "noe",
+      "arca",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-15T16:30:34+00:00",
+    "stories": "2026-11-15T16:31:08+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "curiosity: Groq tentativa 1 descartada: curiosidade longa demais ou citando outra referência",
+    "curiosity: Groq tentativa 2 descartada: curiosidade longa demais ou citando outra referência"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2269191893643057",
+    "stories": "story 18174609247462424"
+   }
+  },
+  {
    "id": "2026-11-15-4-quiz",
    "date": "2026-11-15",
    "slot": 4,
