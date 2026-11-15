@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T18:01:52+00:00",
+ "updated_at": "2026-11-15T20:15:25+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-15-7-quiz",
+   "date": "2026-11-15",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-15T17:06",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-15T20:10:42+00:00",
+    "stories": "2026-11-15T20:11:24+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1182378230987178",
+    "stories": "story 17992544319084195"
+   },
+   "title": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir?"
+  },
   {
    "id": "2026-11-15-6-truefalse",
    "date": "2026-11-15",
