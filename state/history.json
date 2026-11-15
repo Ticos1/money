@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-15-7-quiz",
+   "date": "2026-11-15",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-15T17:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-15T08:24:43+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Oseias 4:15",
+    "ref_label": "Oseias 4:15",
+    "question": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir?",
+    "options": [
+     "Gilgal",
+     "Betel",
+     "Jericó",
+     "Samaria"
+    ],
+    "answer": 0,
+    "evidence": "Gilgal",
+    "passage": "“Embora você, Israel, se prostitua, não deixe que Judá se torne culpado; e não venham a Gilgal, nem subam a Bete-Áven, nem jurem: ‘Tão certo como vive o SENHOR.’",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus #perguntasbiblicas #gospel #cristao #evangelico #biblia #teste #desafio #palavradedeus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #conhecimentobiblico",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #evangelico #perguntasbiblicas",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #gospel",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual lugar mencionado em Oseias 4:15 que o povo não deve ir?\n\nA) Gilgal\nB) Betel\nC) Jericó\nD) Samaria\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "oseias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-15T20:10:42+00:00",
+    "stories": "2026-11-15T20:11:24+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1182378230987178",
+    "stories": "story 17992544319084195"
+   }
+  },
+  {
    "id": "2026-11-15-6-truefalse",
    "date": "2026-11-15",
    "slot": 6,
