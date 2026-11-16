@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-16-2-quiz",
+   "date": "2026-11-16",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-16T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:21:59+00:00",
+   "source": "bank",
+   "bank_id": "q038",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 19:20",
+    "ref_label": "Êxodo 19:20",
+    "question": "Em qual monte o Senhor desceu e chamou Moisés ao topo?",
+    "options": [
+     "Monte Carmelo",
+     "Monte Sinai",
+     "Monte das Oliveiras",
+     "Monte Moriá"
+    ],
+    "answer": 1,
+    "evidence": "desceu sobre o monte Sinai",
+    "passage": "O SENHOR desceu sobre o monte Sinai, no topo do monte. O SENHOR chamou Moisés ao topo do monte, e Moisés subiu.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #biblia #conhecimentobiblico #teste #palavradedeus #desafio #jesus #gospel #cristao",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus #cristao",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #gospel",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em qual monte o Senhor desceu e chamou Moisés ao topo? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-16T11:05:35+00:00",
+    "instagram": null,
+    "facebook": "2026-11-16T11:05:41+00:00",
+    "stories": "2026-11-16T11:06:55+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/BIS3_NxNFHc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1618459999413982",
+    "stories": "story 18120342380092291"
+   }
+  },
+  {
    "id": "2026-11-16-1-verse",
    "date": "2026-11-16",
    "slot": 1,
