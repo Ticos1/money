@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-16T00:39:56+00:00",
- "date": "2026-11-15",
+ "updated_at": "2026-11-16T06:20:12+00:00",
+ "date": "2026-11-16",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 5,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 936,
+   "fresh": 937,
    "days_left": 133,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-15-10-truefalse",
-   "date": "2026-11-15",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-15T21:32",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-16T00:35:32+00:00",
-    "stories": "2026-11-16T00:36:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29346292344987670",
-    "stories": "story 18026597420946608"
-   },
-   "title": "Depois do terremoto e do fogo, o que Elias ouviu?"
-  },
-  {
-   "id": "2026-11-15-9-quiz",
-   "date": "2026-11-15",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-15T19:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-15T22:55:26+00:00",
-    "instagram": "2026-11-15T22:56:01+00:00",
-    "facebook": "2026-11-15T22:56:05+00:00",
-    "stories": "2026-11-15T22:57:22+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/HvUBZFskSzg",
-    "instagram": "https://www.instagram.com/reel/Dfx5xCYD3DL/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/3662348700580692",
-    "stories": "story 18083196323721536"
-   },
-   "title": "De qual cidade era Aristarco, o macedônio que viajava com Paulo para a Itália?"
-  },
-  {
-   "id": "2026-11-15-8-fill",
-   "date": "2026-11-15",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-15T18:22",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-15T21:25:30+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-15T21:26:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/tW5VFFMasW8",
-    "stories": "story 18132377911880015"
-   },
-   "title": "Pois tudo o que foi escrito no passado, foi escrito para o nosso ensino, para que, pela perseverança e pelo encorajamento das Escrituras, tenhamos _____."
-  },
-  {
-   "id": "2026-11-15-7-quiz",
-   "date": "2026-11-15",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-15T17:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-15T20:10:42+00:00",
-    "stories": "2026-11-15T20:11:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1182378230987178",
-    "stories": "story 17992544319084195"
-   },
-   "title": "Qual lugar mencionado em Oseias 4:15 que o povo não deve ir?"
-  },
-  {
-   "id": "2026-11-15-6-truefalse",
-   "date": "2026-11-15",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-15T14:51",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-15T17:55:30+00:00",
-    "instagram": "2026-11-15T17:56:37+00:00",
-    "facebook": "2026-11-15T17:56:41+00:00",
-    "stories": "2026-11-15T17:57:58+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/eM9mSnIMgw4",
-    "instagram": "https://www.instagram.com/reel/DfxXhWziWP6/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1120144620797102",
-    "stories": "story 18117855650026134"
-   },
-   "title": "Quantos anos Sara viveu?"
-  },
-  {
-   "id": "2026-11-15-5-curiosity",
-   "date": "2026-11-15",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-15T13:28",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-15T16:30:34+00:00",
-    "stories": "2026-11-15T16:31:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2269191893643057",
-    "stories": "story 18174609247462424"
-   },
-   "title": "Só 8 pessoas na arca"
-  },
-  {
-   "id": "2026-11-15-4-quiz",
-   "date": "2026-11-15",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-15T12:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-15T15:10:42+00:00",
-    "instagram": "2026-11-15T15:11:10+00:00",
-    "facebook": "2026-11-15T15:11:15+00:00",
-    "stories": "2026-11-15T15:11:57+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/y_AfBmDA5g0",
-    "instagram": "https://www.instagram.com/reel/DfxElXmm6gv/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2894094777642144",
-    "stories": "story 18471513376184255"
-   },
-   "title": "Esdras era um escriba habilidoso em quê?"
-  },
-  {
-   "id": "2026-11-15-3-truefalse",
-   "date": "2026-11-15",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-15T09:51",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-15T12:55:49+00:00",
-    "stories": "2026-11-15T12:56:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1653589483133690",
-    "stories": "story 17882791140555063"
-   },
-   "title": "Em quantos dias o muro de Jerusalém foi concluído no tempo de Neemias?"
-  },
-  {
-   "id": "2026-11-15-2-quiz",
-   "date": "2026-11-15",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-15T08:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-15T11:10:44+00:00",
-    "instagram": null,
-    "facebook": "2026-11-15T11:10:49+00:00",
-    "stories": "2026-11-15T11:11:30+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/BFRlkzVqrs8",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29459670520311987",
-    "stories": "story 18124062430955447"
-   },
-   "title": "De quem partiu o decreto para que todo o mundo fosse recenseado, no nascimento de Jesus?"
-  },
-  {
-   "id": "2026-11-15-1-verse",
-   "date": "2026-11-15",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-15T06:39",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-15T09:41:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 17886261810628370"
-   },
-   "title": "Judas 1:24"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
