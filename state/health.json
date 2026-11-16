@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T11:09:50+00:00",
+ "updated_at": "2026-11-16T13:01:12+00:00",
  "date": "2026-11-16",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-16-3-truefalse",
+   "date": "2026-11-16",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-16T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-16T12:55:47+00:00",
+    "stories": "2026-11-16T12:56:22+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1898365137817633",
+    "stories": "story 18007374003155168"
+   },
+   "title": "Que nome Moisés deu ao altar após a vitória sobre Amaleque?"
+  },
   {
    "id": "2026-11-16-2-quiz",
    "date": "2026-11-16",
