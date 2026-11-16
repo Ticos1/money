@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-16T15:17:33+00:00",
+ "updated_at": "2026-11-16T16:44:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-5-curiosity": {
+   "type": "curiosity",
+   "date": "2026-11-16",
+   "time": "13:30",
+   "title": "Só Lucas conta a cura da orelha",
+   "hook": "Legenda da IA",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2233957390884623"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-16-4-quiz": {
    "type": "quiz",
    "date": "2026-11-16",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 5,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 11.3,
+    "watch_time_s": 11.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 181,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 454.9
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 244,
+    "views": 248,
     "avg_watch_s": 3.5,
-    "watch_time_s": 702.0
+    "watch_time_s": 710.3
    }
   },
   "2026-11-16-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 321,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 1386.3
+    "views": 336,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1423.4
    },
    "youtube": {
-    "views": 0,
+    "views": 28,
     "likes": 0,
     "comments": 0
    }
@@ -134,7 +151,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 38,
+    "views": 39,
     "likes": 1,
     "comments": 0
    }
@@ -149,7 +166,7 @@
     "youtube": "https://youtube.com/shorts/tW5VFFMasW8"
    },
    "youtube": {
-    "views": 78,
+    "views": 80,
     "likes": 0,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "watch_time_s": 1098.7
    },
    "youtube": {
-    "views": 24,
+    "views": 26,
     "likes": 0,
     "comments": 0
    }
@@ -270,9 +287,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 370,
+    "views": 373,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1430.3
+    "watch_time_s": 1450.4
    }
   },
   "2026-11-15-2-quiz": {
@@ -429,7 +446,7 @@
     "watch_time_s": 2438.7
    },
    "youtube": {
-    "views": 386,
+    "views": 387,
     "likes": 1,
     "comments": 0
    }
@@ -645,7 +662,7 @@
     "comments": 2,
     "views": 1136,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4750.5
+    "watch_time_s": 4752.1
    },
    "youtube": {
     "views": 54,
@@ -1051,9 +1068,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2257,
+    "views": 2258,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8759.4
+    "watch_time_s": 8760.4
    }
   },
   "2026-11-11-6-truefalse": {
@@ -5729,9 +5746,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 240,
+    "views": 241,
     "avg_watch_s": 2.9,
-    "watch_time_s": 655.9
+    "watch_time_s": 656.5
    }
   },
   "2026-10-21-4-quiz": {
