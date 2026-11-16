@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-16-1-verse",
+   "date": "2026-11-16",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-16T06:36",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:21:32+00:00",
+   "source": "bank",
+   "bank_id": "v040",
+   "model": null,
+   "content": {
+    "ref": "Neemias 8:10",
+    "ref_label": "Neemias 8:10",
+    "verse_text": "Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.",
+    "on_screen": "A alegria do Senhor é a sua força.",
+    "reflection": "O povo chorou ao ouvir a Lei, mas Neemias os lembrou: era dia de festa diante de Deus. A alegria que vem dEle nos fortalece para continuar.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "forca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #forca #versiculododia #versiculo #biblia #devocional #evangelico #palavradedeus #jesus #cristao #reflexao",
+    "facebook": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #forca #versiculododia",
+    "tiktok": "Versículo de alegria\nA alegria do Senhor renova nossa força. Compartilhe!\n#versiculodealegria #alegria #forca #versiculododia #versiculo",
+    "kwai": "Versículo de alegria\nA alegria do Senhor renova nossa força. Compartilhe!\n#versiculodealegria #alegria #forca #versiculododia #versiculo",
+    "whatsapp": "“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de alegria: Neemias 8:10 🙏 #shorts",
+     "description": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #forca",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-16T09:41:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18079740401452188"
+   }
+  },
+  {
    "id": "2026-11-15-10-truefalse",
    "date": "2026-11-15",
    "slot": 10,
