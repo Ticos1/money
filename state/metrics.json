@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-16T11:09:43+00:00",
+ "updated_at": "2026-11-16T13:01:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-16",
+   "time": "10:00",
+   "title": "Que nome Moisés deu ao altar após a vitória sobre Amaleque?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1898365137817633"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-16-2-quiz": {
    "type": "quiz",
    "date": "2026-11-16",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 281,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1163.3
    },
    "youtube": {
     "views": 0,
@@ -146,7 +163,7 @@
     "comments": 0,
     "views": 334,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1097.4
+    "watch_time_s": 1098.4
    },
    "youtube": {
     "views": 24,
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 366,
+    "views": 369,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1414.7
+    "watch_time_s": 1428.9
    }
   },
   "2026-11-15-2-quiz": {
@@ -344,7 +361,7 @@
     "comments": 0,
     "views": 307,
     "avg_watch_s": 3.7,
-    "watch_time_s": 935.7
+    "watch_time_s": 936.8
    }
   },
   "2026-11-14-6-truefalse": {
@@ -372,7 +389,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 462,
+    "views": 463,
     "avg_watch_s": 7.7,
     "watch_time_s": 2435.2
    },
@@ -832,9 +849,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 248,
+    "views": 250,
     "avg_watch_s": 4.0,
-    "watch_time_s": 885.5
+    "watch_time_s": 890.5
    }
   },
   "2026-11-12-4-quiz": {
@@ -1001,7 +1018,7 @@
     "comments": 2,
     "views": 2257,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8756.9
+    "watch_time_s": 8759.4
    }
   },
   "2026-11-11-6-truefalse": {
@@ -1686,9 +1703,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1251,
+    "views": 1254,
     "avg_watch_s": 5.4,
-    "watch_time_s": 5122.4
+    "watch_time_s": 5142.8
    },
    "youtube": {
     "views": 56,
@@ -1806,7 +1823,7 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "youtube": {
-    "views": 5,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
