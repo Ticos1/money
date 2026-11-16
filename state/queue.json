@@ -1,3 +1,1000 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-16-10-truefalse",
+   "date": "2026-11-16",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-16T21:27",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:25:03+00:00",
+   "source": "bank",
+   "bank_id": "q250",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 4:25",
+    "ref_label": "Gênesis 4:25",
+    "question": "Qual filho Adão e Eva tiveram no lugar de Abel?",
+    "shown": "Jubal",
+    "is_true": false,
+    "correct": "Sete",
+    "evidence": "lhe deu o nome de Sete",
+    "passage": "Adão conheceu sua mulher novamente. Ela deu à luz um filho e lhe deu o nome de Sete, dizendo: “Deus me concedeu outro filho no lugar de Abel, pois Caim o matou.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual filho Adão e Eva tiveram no lugar de Abel?\nResposta: Jubal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #jesus #conhecimentobiblico #perguntasbiblicas #fe #cristao #deus #palavradedeus #gospel",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual filho Adão e Eva tiveram no lugar de Abel?\nResposta: Jubal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #deus #gospel",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #deus #cristao",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual filho Adão e Eva tiveram no lugar de Abel?\nResposta: Jubal\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual filho Adão e Eva tiveram no lugar de Abel? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual filho Adão e Eva tiveram no lugar de Abel?\nResposta: Jubal\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-9-quiz",
+   "date": "2026-11-16",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-16T20:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:24:43+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Isaías 15:1",
+    "ref_label": "Isaías 15:1",
+    "question": "Qual o nome da cidade de Moabe que foi devastada em uma noite?",
+    "options": [
+     "Ar",
+     "Baal",
+     "Gaza",
+     "Silo"
+    ],
+    "answer": 0,
+    "evidence": "Ar",
+    "passage": "O peso de Moabe. Porque em uma noite, Ar de Moabe é devastada, e reduzida a nada. Porque em uma noite Quir de Moabe é devastada, e reduzida a nada.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #cristao #gospel #conhecimentobiblico #palavradedeus #fe #perguntasbiblicas #jesus #biblia #evangelico",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #desafio #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #desafio #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual o nome da cidade de Moabe que foi devastada em uma noite? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-8-fill",
+   "date": "2026-11-16",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-16T18:27",
+   "type": "fill",
+   "status": "approved",
+   "created_at": "2026-11-16T08:24:19+00:00",
+   "source": "bank",
+   "bank_id": "v485",
+   "model": null,
+   "content": {
+    "ref": "Salmos 119:9",
+    "ref_label": "Salmos 119:9",
+    "verse_text": "Como pode um jovem manter puro o seu caminho? Vivendo de acordo com a tua palavra.",
+    "question": "Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.",
+    "options": [
+     "temor",
+     "caminho",
+     "fruto",
+     "louvor"
+    ],
+    "answer": 1,
+    "answer_word": "caminho",
+    "tags": [
+     "palavradedeus",
+     "juventude"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre a Palavra de Deus: Salmos 119:9\nVocê sabe esse versículo de cor? 📖\n\n“Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.”\n\nA) temor\nB) caminho\nC) fruto\nD) louvor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavradedeus #juventude #completeoversiculo #versiculo #jesus #fe #gospel #cristao #quizbiblico #deus #evangelico",
+    "facebook": "Versículo sobre a Palavra de Deus: Salmos 119:9\nVocê sabe esse versículo de cor? 📖\n\n“Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.”\n\nA) temor\nB) caminho\nC) fruto\nD) louvor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreapalavradedeus #palavradedeus #juventude #completeoversiculo",
+    "tiktok": "Versículo sobre a Palavra de Deus\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapalavradedeus #palavradedeus #juventude #completeoversiculo #versiculo",
+    "kwai": "Versículo sobre a Palavra de Deus\nVocê sabe esse versículo de cor? 📖\nComente a letra: A, B, C ou D 👇\n#versiculosobreapalavradedeus #palavradedeus #juventude #completeoversiculo #versiculo",
+    "whatsapp": "*Você sabe esse versículo de cor?* 📖\n\n“Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.”\n\nA) temor\nB) caminho\nC) fruto\nD) louvor\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Complete o versículo sobre a Palavra de Deus: Salmos 119:9 📖 #shorts",
+     "description": "Versículo sobre a Palavra de Deus: Salmos 119:9\nVocê sabe esse versículo de cor? 📖\n\n“Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.”\n\nA) temor\nB) caminho\nC) fruto\nD) louvor\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreapalavradedeus #palavradedeus #juventude",
+     "tags": [
+      "versículo sobre a Palavra de Deus",
+      "versículos sobre a Palavra de Deus",
+      "palavra de deus",
+      "complete o versículo",
+      "versículos bíblicos",
+      "versículo do dia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavradedeus",
+      "juventude",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você sabe esse versículo de cor?",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Deserto",
+     "artist": "Maria Marçal"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-8-fill/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-7-quiz",
+   "date": "2026-11-16",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-16T17:07",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:23:55+00:00",
+   "source": "bank",
+   "bank_id": "q812",
+   "model": null,
+   "content": {
+    "ref": "Isaías 40:31",
+    "ref_label": "Isaías 40:31",
+    "question": "Os que esperam no SENHOR subirão com asas como...",
+    "options": [
+     "Pombas",
+     "Anjos",
+     "Águias",
+     "Falcões"
+    ],
+    "answer": 2,
+    "evidence": "Eles subirão com asas como águias",
+    "passage": "mas aqueles que esperam no SENHOR renovarão as suas forças. Eles subirão com asas como águias. Eles correrão, e não se cansarão. Eles caminharão, e não desfalecerão.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nOs que esperam no SENHOR subirão com asas como...\n\nA) Pombas\nB) Anjos\nC) Águias\nD) Falcões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #cristao #deus #palavradedeus #jesus #conhecimentobiblico #biblia #desafio #perguntasbiblicas #teste",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nOs que esperam no SENHOR subirão com asas como...\n\nA) Pombas\nB) Anjos\nC) Águias\nD) Falcões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #desafio",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #cristao #jesus",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #desafio #perguntasbiblicas",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nOs que esperam no SENHOR subirão com asas como...\n\nA) Pombas\nB) Anjos\nC) Águias\nD) Falcões\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Os que esperam no SENHOR subirão com asas como... #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nOs que esperam no SENHOR subirão com asas como...\n\nA) Pombas\nB) Anjos\nC) Águias\nD) Falcões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.92,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-6-truefalse",
+   "date": "2026-11-16",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-16T14:53",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:23:32+00:00",
+   "source": "bank",
+   "bank_id": "q1048",
+   "model": null,
+   "content": {
+    "ref": "Levítico 25:36",
+    "ref_label": "Levítico 25:36",
+    "question": "O que não se deveria cobrar do irmão empobrecido?",
+    "shown": "Dízimos",
+    "is_true": false,
+    "correct": "Juros",
+    "evidence": "Não cobre dele juros",
+    "passage": "Não cobre dele juros ou lucro; mas tema o seu Deus, para que o seu irmão possa viver entre vocês.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que não se deveria cobrar do irmão empobrecido?\nResposta: Dízimos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #jesus #evangelico #gospel #cristao #perguntasbiblicas #deus #fe #palavradedeus #conhecimentobiblico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que não se deveria cobrar do irmão empobrecido?\nResposta: Dízimos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #biblia",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #perguntasbiblicas #gospel",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #palavradedeus #biblia",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nO que não se deveria cobrar do irmão empobrecido?\nResposta: Dízimos\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que não se deveria cobrar do irmão empobrecido? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nO que não se deveria cobrar do irmão empobrecido?\nResposta: Dízimos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "levítico"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.65,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-5-curiosity",
+   "date": "2026-11-16",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-16T13:36",
+   "type": "curiosity",
+   "status": "approved",
+   "created_at": "2026-11-16T08:23:13+00:00",
+   "source": "bank",
+   "bank_id": "c149",
+   "model": null,
+   "content": {
+    "ref": "Lucas 22:50",
+    "ref_label": "Lucas 22:50",
+    "title": "Só Lucas conta a cura da orelha",
+    "text": "Lucas, o médico, registra que foi a orelha direita do servo que foi cortada, e que Jesus tocou nela e a curou.",
+    "evidence": "cortando-lhe a orelha direita",
+    "passage": "Um deles feriu o servo do sumo sacerdote, cortando-lhe a orelha direita.",
+    "tags": [
+     "lucas",
+     "milagre"
+    ]
+   },
+   "captions": {
+    "instagram": "Só Lucas conta a cura da orelha\n\nLucas, o médico, registra que foi a orelha direita do servo que foi cortada, e que Jesus tocou nela e a curou. (Lucas 22:50)\n\nCuriosidade bíblica: Só Lucas menciona a cura da orelha. Lucas, o médico, relata que foi a orelha direita do servo que havia sido cortada, e que Jesus a tocou, restaurando-a imediatamente (Lucas 22:50). Esse detalhe nos lembra do cuidado de Jesus por cada ferida, por menor que pareça. Compartilhe e salve para lembrar que Ele vê e cura até o que parece insignificante. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#lucas #milagre #vocesabia #curiosidadesbiblicas #cristao #deus #biblia #historiabiblica #evangelico #estudobiblico #gospel #jesus",
+    "facebook": "Só Lucas conta a cura da orelha\n\nLucas, o médico, registra que foi a orelha direita do servo que foi cortada, e que Jesus tocou nela e a curou. (Lucas 22:50)\n\nCuriosidade bíblica: Só Lucas menciona a cura da orelha. Lucas, o médico, relata que foi a orelha direita do servo que havia sido cortada, e que Jesus a tocou, restaurando-a imediatamente (Lucas 22:50). Esse detalhe nos lembra do cuidado de Jesus por cada ferida, por menor que pareça. Compartilhe e salve para lembrar que Ele vê e cura até o que parece insignificante. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#lucas #milagre #vocesabia #curiosidadesbiblicas",
+    "tiktok": "Lucas registra a cura da orelha direita do servo (Lucas 22:50). Compartilhe! 🙏\n#lucas #milagre #vocesabia #curiosidadesbiblicas #cristao",
+    "kwai": "Lucas registra a cura da orelha direita do servo (Lucas 22:50). Compartilhe! 🙏\n#lucas #milagre #vocesabia #curiosidadesbiblicas #jesus",
+    "whatsapp": "Só Lucas conta a cura da orelha\n\nLucas, o médico, registra que foi a orelha direita do servo que foi cortada, e que Jesus tocou nela e a curou. (Lucas 22:50)\n\nCuriosidade bíblica: Só Lucas menciona a cura da orelha. Lucas, o médico, relata que foi a orelha direita do servo que havia sido cortada, e que Jesus a tocou, restaurando-a imediatamente (Lucas 22:50). Esse detalhe nos lembra do cuidado de Jesus por cada ferida, por menor que pareça. Compartilhe e salve para lembrar que Ele vê e cura até o que parece insignificante. 🙏\n\nReaja com 😮 se você não sabia e encaminhe para quem ama a Palavra.\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Você sabia? Só Lucas conta a cura da orelha #shorts",
+     "description": "Só Lucas conta a cura da orelha\n\nLucas, o médico, registra que foi a orelha direita do servo que foi cortada, e que Jesus tocou nela e a curou. (Lucas 22:50)\n\nCuriosidade bíblica: Só Lucas menciona a cura da orelha. Lucas, o médico, relata que foi a orelha direita do servo que havia sido cortada, e que Jesus a tocou, restaurando-a imediatamente (Lucas 22:50). Esse detalhe nos lembra do cuidado de Jesus por cada ferida, por menor que pareça. Compartilhe e salve para lembrar que Ele vê e cura até o que parece insignificante. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #lucas #milagre #vocesabia",
+     "tags": [
+      "curiosidades bíblicas",
+      "você sabia",
+      "fatos da bíblia",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas",
+      "milagre",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 15.86,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-5-curiosity/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-4-quiz",
+   "date": "2026-11-16",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-16T12:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:22:47+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Jó 11:15",
+    "ref_label": "Jó 11:15",
+    "question": "Qual expressão descreve o estado do rosto ao seguir a instrução de Zofar?",
+    "options": [
+     "sem mancha",
+     "pura luz",
+     "coração aberto",
+     "coroa de glória"
+    ],
+    "answer": 0,
+    "evidence": "sem mancha",
+    "passage": "Certamente então você levantará o seu rosto sem mancha. Sim, você estará firme, e não temerá,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual expressão descreve o estado do rosto ao seguir a instrução de Zofar?\n\nA) sem mancha\nB) pura luz\nC) coração aberto\nD) coroa de glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe #biblia #palavradedeus #jesus #perguntasbiblicas #desafio #teste #gospel #conhecimentobiblico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual expressão descreve o estado do rosto ao seguir a instrução de Zofar?\n\nA) sem mancha\nB) pura luz\nC) coração aberto\nD) coroa de glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #deus #fe",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #jesus #teste",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual expressão descreve o estado do rosto ao seguir a instrução de Zofar?\n\nA) sem mancha\nB) pura luz\nC) coração aberto\nD) coroa de glória\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual expressão descreve o estado do rosto ao seguir a instrução de Zofar?\n\nA) sem mancha\nB) pura luz\nC) coração aberto\nD) coroa de glória\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-3-truefalse",
+   "date": "2026-11-16",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-16T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:22:21+00:00",
+   "source": "bank",
+   "bank_id": "q982",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 17:15",
+    "ref_label": "Êxodo 17:15",
+    "question": "Que nome Moisés deu ao altar após a vitória sobre Amaleque?",
+    "shown": "O SENHOR é Paz",
+    "is_true": false,
+    "correct": "O SENHOR é a nossa Bandeira",
+    "evidence": "“O SENHOR é a nossa Bandeira”",
+    "passage": "Moisés construiu um altar, e chamou o seu nome “O SENHOR é a nossa Bandeira”.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #biblia #deus #jesus #perguntasbiblicas #conhecimentobiblico #palavradedeus #desafiobiblico #evangelico #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #biblia",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-2-quiz",
+   "date": "2026-11-16",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-16T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:21:59+00:00",
+   "source": "bank",
+   "bank_id": "q038",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 19:20",
+    "ref_label": "Êxodo 19:20",
+    "question": "Em qual monte o Senhor desceu e chamou Moisés ao topo?",
+    "options": [
+     "Monte Carmelo",
+     "Monte Sinai",
+     "Monte das Oliveiras",
+     "Monte Moriá"
+    ],
+    "answer": 1,
+    "evidence": "desceu sobre o monte Sinai",
+    "passage": "O SENHOR desceu sobre o monte Sinai, no topo do monte. O SENHOR chamou Moisés ao topo do monte, e Moisés subiu.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #biblia #conhecimentobiblico #teste #palavradedeus #desafio #jesus #gospel #cristao",
+    "facebook": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus",
+    "tiktok": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus #cristao",
+    "kwai": "Duvido você acertar sem pesquisar! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #gospel",
+    "whatsapp": "*Duvido você acertar sem pesquisar!* 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em qual monte o Senhor desceu e chamou Moisés ao topo? #shorts",
+     "description": "Duvido você acertar sem pesquisar! 🤔\n\nEm qual monte o Senhor desceu e chamou Moisés ao topo?\n\nA) Monte Carmelo\nB) Monte Sinai\nC) Monte das Oliveiras\nD) Monte Moriá\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Duvido você acertar sem pesquisar!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-16-1-verse",
+   "date": "2026-11-16",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-16T06:36",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:21:32+00:00",
+   "source": "bank",
+   "bank_id": "v040",
+   "model": null,
+   "content": {
+    "ref": "Neemias 8:10",
+    "ref_label": "Neemias 8:10",
+    "verse_text": "Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.",
+    "on_screen": "A alegria do Senhor é a sua força.",
+    "reflection": "O povo chorou ao ouvir a Lei, mas Neemias os lembrou: era dia de festa diante de Deus. A alegria que vem dEle nos fortalece para continuar.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "forca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #forca #versiculododia #versiculo #biblia #devocional #evangelico #palavradedeus #jesus #cristao #reflexao",
+    "facebook": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #forca #versiculododia",
+    "tiktok": "Versículo de alegria\nA alegria do Senhor renova nossa força. Compartilhe!\n#versiculodealegria #alegria #forca #versiculododia #versiculo",
+    "kwai": "Versículo de alegria\nA alegria do Senhor renova nossa força. Compartilhe!\n#versiculodealegria #alegria #forca #versiculododia #versiculo",
+    "whatsapp": "“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de alegria: Neemias 8:10 🙏 #shorts",
+     "description": "Versículo de alegria: Neemias 8:10\n“Então ele lhes disse: “Vão. Comam as carnes gordas, bebam as bebidas doces e enviem porções àqueles para quem nada está preparado, pois hoje é dia santo para o nosso Senhor. Não se entristeçam, pois a alegria do SENHOR é a força de vocês.”.” (Neemias 8:10)\n\nMesmo quando o coração pesa ao ouvir a Palavra, Neemias nos lembra que hoje é dia de festa diante de Deus. Deixe a alegria que vem do Senhor renovar sua esperança e te dar vigor para seguir. Compartilhe essa mensagem e inspire alguém a encontrar força na presença do Altíssimo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #forca",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "forca",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-2",
+    "title": "Celebrar",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 24.52,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-16/2026-11-16-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
