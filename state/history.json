@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-11-16-9-quiz",
+   "date": "2026-11-16",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-16T20:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-16T08:24:43+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Isaías 15:1",
+    "ref_label": "Isaías 15:1",
+    "question": "Qual o nome da cidade de Moabe que foi devastada em uma noite?",
+    "options": [
+     "Ar",
+     "Baal",
+     "Gaza",
+     "Silo"
+    ],
+    "answer": 0,
+    "evidence": "Ar",
+    "passage": "O peso de Moabe. Porque em uma noite, Ar de Moabe é devastada, e reduzida a nada. Porque em uma noite Quir de Moabe é devastada, e reduzida a nada.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #cristao #gospel #conhecimentobiblico #palavradedeus #fe #perguntasbiblicas #jesus #biblia #evangelico",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #desafio #gospel",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #desafio #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual o nome da cidade de Moabe que foi devastada em uma noite? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual o nome da cidade de Moabe que foi devastada em uma noite?\n\nA) Ar\nB) Baal\nC) Gaza\nD) Silo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #desafio",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-16T23:10:31+00:00",
+    "instagram": "2026-11-16T23:10:55+00:00",
+    "facebook": "2026-11-16T23:11:01+00:00",
+    "stories": "2026-11-16T23:11:42+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/P9k2SyKrkc0",
+    "instagram": "https://www.instagram.com/reel/Df0gSqEk784/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1688932069494863",
+    "stories": "story 18091980647701968"
+   }
+  },
+  {
    "id": "2026-11-16-8-fill",
    "date": "2026-11-16",
    "slot": 8,
