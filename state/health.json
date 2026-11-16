@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T09:23:28+00:00",
+ "updated_at": "2026-11-16T09:45:13+00:00",
  "date": "2026-11-16",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-16-1-verse",
+   "date": "2026-11-16",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-16T06:36",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-16T09:41:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18079740401452188"
+   },
+   "title": "Neemias 8:10"
+  }
+ ],
  "specials": {}
 }
