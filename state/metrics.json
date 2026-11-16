@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-16T19:35:41+00:00",
+ "updated_at": "2026-11-16T20:15:13+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-16",
+   "time": "17:00",
+   "title": "Os que esperam no SENHOR subirão com asas como...",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1657740019364011"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-16-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-16",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
     "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 3.4,
-    "watch_time_s": 3.4
+    "avg_watch_s": 2.1,
+    "watch_time_s": 4.2
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 247,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 642.8
+    "views": 276,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 857.6
    },
    "youtube": {
-    "views": 5,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -52,8 +69,8 @@
     "likes": 0,
     "comments": 0,
     "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 5.4,
+    "watch_time_s": 5.4
    }
   },
   "2026-11-16-4-quiz": {
@@ -70,20 +87,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 27,
+    "views": 31,
     "total_interactions": 0,
     "avg_watch_s": 5.4,
-    "watch_time_s": 108.7
+    "watch_time_s": 112.9
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 268,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 894.7
+    "views": 288,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 947.2
    },
    "youtube": {
     "views": 15,
@@ -103,7 +120,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 250,
+    "views": 251,
     "avg_watch_s": 3.5,
     "watch_time_s": 732.4
    }
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 349,
+    "views": 353,
     "avg_watch_s": 5.2,
-    "watch_time_s": 1464.9
+    "watch_time_s": 1471.3
    },
    "youtube": {
     "views": 44,
@@ -476,7 +493,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 463,
+    "views": 464,
     "avg_watch_s": 7.7,
     "watch_time_s": 2438.7
    },
