@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-16T20:15:20+00:00",
+ "updated_at": "2026-11-16T21:35:03+00:00",
  "date": "2026-11-16",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-16-8-fill",
+   "date": "2026-11-16",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-16T18:27",
+   "type": "fill",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-16T21:30:50+00:00",
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-16T21:31:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Di9SsMI5UOM",
+    "stories": "story 18120457799097444"
+   },
+   "title": "Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra."
+  },
   {
    "id": "2026-11-16-7-quiz",
    "date": "2026-11-16",
