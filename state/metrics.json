@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-16T21:34:56+00:00",
+ "updated_at": "2026-11-16T23:15:00+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "title": "Qual o nome da cidade de Moabe que foi devastada em uma noite?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/P9k2SyKrkc0",
+    "instagram": "https://www.instagram.com/reel/Df0gSqEk784/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1688932069494863"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-16-8-fill": {
    "type": "fill",
    "date": "2026-11-16",
@@ -32,8 +67,8 @@
     "likes": 1,
     "comments": 0,
     "views": 276,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 900.1
+    "avg_watch_s": 4.3,
+    "watch_time_s": 953.5
    }
   },
   "2026-11-16-6-truefalse": {
@@ -50,23 +85,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 31,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 44,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 12.7
+    "avg_watch_s": 3.9,
+    "watch_time_s": 132.4
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 305,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 961.2
+    "views": 355,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1160.9
    },
    "youtube": {
-    "views": 6,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -102,23 +137,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 38,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 46,
+    "views": 53,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 135.7
+    "avg_watch_s": 4.7,
+    "watch_time_s": 186.6
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 340,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1100.8
+    "views": 357,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1187.7
    },
    "youtube": {
-    "views": 15,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -135,9 +170,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 251,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 736.0
+    "views": 256,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 770.9
    }
   },
   "2026-11-16-2-quiz": {
@@ -153,9 +188,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 355,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 1504.4
+    "views": 362,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1527.4
    },
    "youtube": {
     "views": 44,
@@ -302,9 +337,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 280,
+    "views": 281,
     "avg_watch_s": 7.1,
-    "watch_time_s": 1672.2
+    "watch_time_s": 1673.0
    }
   },
   "2026-11-15-4-quiz": {
@@ -333,8 +368,8 @@
     "likes": 2,
     "comments": 0,
     "views": 272,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 902.0
+    "avg_watch_s": 4.3,
+    "watch_time_s": 934.5
    },
    "youtube": {
     "views": 56,
@@ -400,7 +435,7 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -461,7 +496,7 @@
     "youtube": "https://youtube.com/shorts/E7HIlA-XXAA"
    },
    "youtube": {
-    "views": 53,
+    "views": 54,
     "likes": 1,
     "comments": 0
    }
@@ -749,7 +784,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 253,
+    "views": 254,
     "avg_watch_s": 4.5,
     "watch_time_s": 969.6
    }
@@ -2677,7 +2712,7 @@
    "facebook": {
     "likes": 12,
     "comments": 1,
-    "views": 2010,
+    "views": 2011,
     "avg_watch_s": 6.7,
     "watch_time_s": 9472.1
    }
