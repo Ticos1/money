@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-16T09:45:13+00:00",
+ "updated_at": "2026-11-16T11:09:50+00:00",
  "date": "2026-11-16",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-16-2-quiz",
+   "date": "2026-11-16",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-16T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-16T11:05:35+00:00",
+    "instagram": null,
+    "facebook": "2026-11-16T11:05:41+00:00",
+    "stories": "2026-11-16T11:06:55+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/BIS3_NxNFHc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1618459999413982",
+    "stories": "story 18120342380092291"
+   },
+   "title": "Em qual monte o Senhor desceu e chamou Moisés ao topo?"
+  },
   {
    "id": "2026-11-16-1-verse",
    "date": "2026-11-16",
