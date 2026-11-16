@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-16-3-truefalse",
+   "date": "2026-11-16",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-16T09:51",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-16T08:22:21+00:00",
+   "source": "bank",
+   "bank_id": "q982",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 17:15",
+    "ref_label": "Êxodo 17:15",
+    "question": "Que nome Moisés deu ao altar após a vitória sobre Amaleque?",
+    "shown": "O SENHOR é Paz",
+    "is_true": false,
+    "correct": "O SENHOR é a nossa Bandeira",
+    "evidence": "“O SENHOR é a nossa Bandeira”",
+    "passage": "Moisés construiu um altar, e chamou o seu nome “O SENHOR é a nossa Bandeira”.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #biblia #deus #jesus #perguntasbiblicas #conhecimentobiblico #palavradedeus #desafiobiblico #evangelico #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #biblia",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQue nome Moisés deu ao altar após a vitória sobre Amaleque?\nResposta: O SENHOR é Paz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-16T12:55:47+00:00",
+    "stories": "2026-11-16T12:56:22+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1898365137817633",
+    "stories": "story 18007374003155168"
+   }
+  },
+  {
    "id": "2026-11-16-2-quiz",
    "date": "2026-11-16",
    "slot": 2,
