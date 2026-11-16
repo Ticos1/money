@@ -1,9 +1,24 @@
 {
- "updated_at": "2026-11-16T20:15:13+00:00",
+ "updated_at": "2026-11-16T21:34:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-8-fill": {
+   "type": "fill",
+   "date": "2026-11-16",
+   "time": "18:30",
+   "title": "Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra.",
+   "hook": "Você sabe esse versículo de cor?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Di9SsMI5UOM"
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-16-7-quiz": {
    "type": "quiz",
    "date": "2026-11-16",
@@ -14,11 +29,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1657740019364011"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 276,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 900.1
    }
   },
   "2026-11-16-6-truefalse": {
@@ -35,20 +50,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 2,
+    "views": 7,
     "total_interactions": 0,
-    "avg_watch_s": 2.1,
-    "watch_time_s": 4.2
+    "avg_watch_s": 4.2,
+    "watch_time_s": 12.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 276,
+    "views": 305,
     "avg_watch_s": 4.1,
-    "watch_time_s": 857.6
+    "watch_time_s": 961.2
    },
    "youtube": {
     "views": 6,
@@ -87,20 +102,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 21,
+    "reach": 38,
     "saved": 0,
     "shares": 0,
-    "views": 31,
+    "views": 46,
     "total_interactions": 0,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 112.9
+    "avg_watch_s": 3.7,
+    "watch_time_s": 135.7
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 288,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 947.2
+    "views": 340,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1100.8
    },
    "youtube": {
     "views": 15,
@@ -122,7 +137,7 @@
     "comments": 0,
     "views": 251,
     "avg_watch_s": 3.5,
-    "watch_time_s": 732.4
+    "watch_time_s": 736.0
    }
   },
   "2026-11-16-2-quiz": {
@@ -138,9 +153,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 353,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1471.3
+    "views": 355,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1504.4
    },
    "youtube": {
     "views": 44,
@@ -265,9 +280,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 335,
+    "views": 337,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1098.7
+    "watch_time_s": 1106.6
    },
    "youtube": {
     "views": 26,
@@ -317,9 +332,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 267,
+    "views": 272,
     "avg_watch_s": 4.2,
-    "watch_time_s": 900.0
+    "watch_time_s": 902.0
    },
    "youtube": {
     "views": 56,
@@ -339,9 +354,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 373,
+    "views": 374,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1450.4
+    "watch_time_s": 1453.0
    }
   },
   "2026-11-15-2-quiz": {
@@ -463,9 +478,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 307,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 936.8
+    "views": 308,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 945.9
    }
   },
   "2026-11-14-6-truefalse": {
@@ -495,7 +510,7 @@
     "comments": 0,
     "views": 464,
     "avg_watch_s": 7.7,
-    "watch_time_s": 2438.7
+    "watch_time_s": 2439.3
    },
    "youtube": {
     "views": 387,
