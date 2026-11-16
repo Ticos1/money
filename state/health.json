@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T23:01:14+00:00",
+ "updated_at": "2026-11-16T00:39:56+00:00",
  "date": "2026-11-15",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-15-10-truefalse",
+   "date": "2026-11-15",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-15T21:32",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-16T00:35:32+00:00",
+    "stories": "2026-11-16T00:36:03+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29346292344987670",
+    "stories": "story 18026597420946608"
+   },
+   "title": "Depois do terremoto e do fogo, o que Elias ouviu?"
+  },
   {
    "id": "2026-11-15-9-quiz",
    "date": "2026-11-15",
