@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-16T13:01:01+00:00",
+ "updated_at": "2026-11-16T15:17:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-16-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-16",
+   "time": "12:00",
+   "title": "Qual expressão descreve o estado do rosto ao seguir a instrução de Zofar?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Q9vD476rOO8",
+    "instagram": "https://www.instagram.com/reel/DfzpXihjIza/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1150535184568256"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-16-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-16",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1898365137817633"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 244,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 702.0
    }
   },
   "2026-11-16-2-quiz": {
@@ -34,9 +69,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 281,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 1163.3
+    "views": 321,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1386.3
    },
    "youtube": {
     "views": 0,
@@ -150,7 +185,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 110,
+    "reach": 111,
     "saved": 0,
     "shares": 0,
     "views": 157,
@@ -161,9 +196,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 334,
+    "views": 335,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1098.4
+    "watch_time_s": 1098.7
    },
    "youtube": {
     "views": 24,
@@ -213,9 +248,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 265,
+    "views": 266,
     "avg_watch_s": 4.2,
-    "watch_time_s": 888.6
+    "watch_time_s": 889.4
    },
    "youtube": {
     "views": 56,
@@ -235,9 +270,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 369,
+    "views": 370,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1428.9
+    "watch_time_s": 1430.3
    }
   },
   "2026-11-15-2-quiz": {
@@ -391,7 +426,7 @@
     "comments": 0,
     "views": 463,
     "avg_watch_s": 7.7,
-    "watch_time_s": 2435.2
+    "watch_time_s": 2438.7
    },
    "youtube": {
     "views": 386,
@@ -608,7 +643,7 @@
    "facebook": {
     "likes": 5,
     "comments": 2,
-    "views": 1135,
+    "views": 1136,
     "avg_watch_s": 5.5,
     "watch_time_s": 4750.5
    },
@@ -3443,9 +3478,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1517,
+    "views": 1518,
     "avg_watch_s": 6.1,
-    "watch_time_s": 6926.5
+    "watch_time_s": 6927.3
    }
   },
   "2026-10-31-6-truefalse": {
