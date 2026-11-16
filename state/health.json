@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-16T16:45:03+00:00",
+ "updated_at": "2026-11-16T18:00:46+00:00",
  "date": "2026-11-16",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-16-6-truefalse",
+   "date": "2026-11-16",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-16T14:53",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-16T17:55:44+00:00",
+    "instagram": "2026-11-16T17:56:22+00:00",
+    "facebook": "2026-11-16T17:56:27+00:00",
+    "stories": "2026-11-16T17:57:11+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/8RdadVXBPlA",
+    "instagram": "https://www.instagram.com/reel/Dfz8RAtiZoy/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/896610566808666",
+    "stories": "story 18117434285142636"
+   },
+   "title": "O que não se deveria cobrar do irmão empobrecido?"
+  },
   {
    "id": "2026-11-16-5-curiosity",
    "date": "2026-11-16",
