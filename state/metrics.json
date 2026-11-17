@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-17T21:36:04+00:00",
+ "updated_at": "2026-11-17T22:59:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "title": "Que ídolo Arão fez com o ouro do povo?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/MxL4CyDgcJ4",
+    "instagram": "https://www.instagram.com/reel/Df3DYZPj2yX/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1137734778869688"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-17-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-17",
@@ -22,7 +57,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -58,23 +93,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 9,
     "total_interactions": 0,
-    "avg_watch_s": 1.5,
-    "watch_time_s": 6.2
+    "avg_watch_s": 4.0,
+    "watch_time_s": 31.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 304,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 862.5
+    "views": 309,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 903.6
    },
    "youtube": {
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -91,9 +126,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 283,
+    "views": 284,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1035.0
+    "watch_time_s": 1036.1
    }
   },
   "2026-11-17-4-quiz": {
@@ -110,23 +145,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 7.8,
-    "watch_time_s": 15.6
+    "avg_watch_s": 9.3,
+    "watch_time_s": 55.5
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 269,
+    "views": 270,
     "avg_watch_s": 3.9,
-    "watch_time_s": 868.8
+    "watch_time_s": 894.3
    },
    "youtube": {
-    "views": 18,
+    "views": 22,
     "likes": 0,
     "comments": 0
    }
@@ -288,9 +323,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 370,
+    "views": 373,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1260.4
+    "watch_time_s": 1260.5
    },
    "youtube": {
     "views": 20,
@@ -340,9 +375,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 373,
+    "views": 374,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1271.2
+    "watch_time_s": 1280.2
    },
    "youtube": {
     "views": 19,
@@ -381,11 +416,11 @@
     "likes": 0,
     "comments": 0,
     "views": 370,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 1579.3
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1582.8
    },
    "youtube": {
-    "views": 45,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
