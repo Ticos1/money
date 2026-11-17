@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "id": "2026-11-17-8-truefalse",
+   "date": "2026-11-17",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-17T18:26",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-17T08:24:18+00:00",
+   "source": "bank",
+   "bank_id": "q427",
+   "model": null,
+   "content": {
+    "ref": "Ester 5:2",
+    "ref_label": "Ester 5:2",
+    "question": "O que o rei estendeu a Ester quando a viu em pé no pátio?",
+    "shown": "A coroa",
+    "is_true": false,
+    "correct": "O cetro de ouro",
+    "evidence": "estendeu para Ester o cetro de ouro",
+    "passage": "Quando o rei viu a rainha Ester em pé no pátio, ela alcançou favor diante dele; e o rei estendeu para Ester o cetro de ouro que estava em sua mão. Então Ester se aproximou e tocou a ponta do cetro.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o rei estendeu a Ester quando a viu em pé no pátio?\nResposta: A coroa\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #deus #cristao #desafiobiblico #perguntasbiblicas #fe #palavradedeus #conhecimentobiblico #evangelico #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o rei estendeu a Ester quando a viu em pé no pátio?\nResposta: A coroa\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #fe #biblia",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #evangelico #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que o rei estendeu a Ester quando a viu em pé no pátio?\nResposta: A coroa\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que o rei estendeu a Ester quando a viu em pé no pátio?\nResposta: A coroa\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-17T21:30:32+00:00",
+    "instagram": null,
+    "facebook": "2026-11-17T21:30:37+00:00",
+    "stories": "2026-11-17T21:31:19+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/qFe4LRyqNm8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1671007621339509",
+    "stories": "story 18067972088521092"
+   }
+  },
+  {
    "id": "2026-11-17-7-quiz",
    "date": "2026-11-17",
    "slot": 7,
