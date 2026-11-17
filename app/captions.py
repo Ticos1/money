@@ -38,8 +38,6 @@ QUIZ_HOOKS = [
     "Pergunta bíblica que poucos acertam",
     "Desafio bíblico do dia",
     "Teste rápido: você acerta de primeira?",
-    "Duvido você acertar sem pesquisar!",
-    "Quem sabe de cabeça? Responda antes da contagem!",
 ]
 CURIOSITY_HOOKS = [
     "Você sabia disso?",
