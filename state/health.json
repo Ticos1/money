@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-17T00:35:06+00:00",
- "date": "2026-11-16",
+ "updated_at": "2026-11-17T03:51:34+00:00",
+ "date": "2026-11-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,8 +23,8 @@
   {
    "kind": "fill",
    "per_day": 1,
-   "fresh": 434,
-   "days_left": 434,
+   "fresh": 435,
+   "days_left": 435,
    "warn": false
   },
   {
@@ -37,7 +37,7 @@
   {
    "kind": "truefalse",
    "per_day": 3,
-   "fresh": 932,
+   "fresh": 933,
    "days_left": 133,
    "warn": false
   },
@@ -49,253 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-16-10-truefalse",
-   "date": "2026-11-16",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-16T21:27",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-17T00:30:33+00:00",
-    "stories": "2026-11-17T00:31:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1653742376396208",
-    "stories": "story 18505996120099648"
-   },
-   "title": "Qual filho Adão e Eva tiveram no lugar de Abel?"
-  },
-  {
-   "id": "2026-11-16-9-quiz",
-   "date": "2026-11-16",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-16T20:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-16T23:10:31+00:00",
-    "instagram": "2026-11-16T23:10:55+00:00",
-    "facebook": "2026-11-16T23:11:01+00:00",
-    "stories": "2026-11-16T23:11:42+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/P9k2SyKrkc0",
-    "instagram": "https://www.instagram.com/reel/Df0gSqEk784/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1688932069494863",
-    "stories": "story 18091980647701968"
-   },
-   "title": "Qual o nome da cidade de Moabe que foi devastada em uma noite?"
-  },
-  {
-   "id": "2026-11-16-8-fill",
-   "date": "2026-11-16",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-16T18:27",
-   "type": "fill",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-16T21:30:50+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-16T21:31:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Di9SsMI5UOM",
-    "stories": "story 18120457799097444"
-   },
-   "title": "Como pode um jovem manter puro o seu _____? Vivendo de acordo com a tua palavra."
-  },
-  {
-   "id": "2026-11-16-7-quiz",
-   "date": "2026-11-16",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-16T17:07",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-16T20:10:55+00:00",
-    "stories": "2026-11-16T20:12:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1657740019364011",
-    "stories": "story 18273231736307222"
-   },
-   "title": "Os que esperam no SENHOR subirão com asas como..."
-  },
-  {
-   "id": "2026-11-16-6-truefalse",
-   "date": "2026-11-16",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-16T14:53",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-16T17:55:44+00:00",
-    "instagram": "2026-11-16T17:56:22+00:00",
-    "facebook": "2026-11-16T17:56:27+00:00",
-    "stories": "2026-11-16T17:57:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/8RdadVXBPlA",
-    "instagram": "https://www.instagram.com/reel/Dfz8RAtiZoy/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/896610566808666",
-    "stories": "story 18117434285142636"
-   },
-   "title": "O que não se deveria cobrar do irmão empobrecido?"
-  },
-  {
-   "id": "2026-11-16-5-curiosity",
-   "date": "2026-11-16",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-16T13:36",
-   "type": "curiosity",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-16T16:40:47+00:00",
-    "stories": "2026-11-16T16:41:21+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2233957390884623",
-    "stories": "story 18274542646305492"
-   },
-   "title": "Só Lucas conta a cura da orelha"
-  },
-  {
-   "id": "2026-11-16-4-quiz",
-   "date": "2026-11-16",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-16T12:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-16T15:10:33+00:00",
-    "instagram": "2026-11-16T15:11:15+00:00",
-    "facebook": "2026-11-16T15:11:21+00:00",
-    "stories": "2026-11-16T15:11:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Q9vD476rOO8",
-    "instagram": "https://www.instagram.com/reel/DfzpXihjIza/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1150535184568256",
-    "stories": "story 18642557164043560"
-   },
-   "title": "Qual expressão descreve o estado do rosto ao seguir a instrução de Zofar?"
-  },
-  {
-   "id": "2026-11-16-3-truefalse",
-   "date": "2026-11-16",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-16T09:51",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-16T12:55:47+00:00",
-    "stories": "2026-11-16T12:56:22+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1898365137817633",
-    "stories": "story 18007374003155168"
-   },
-   "title": "Que nome Moisés deu ao altar após a vitória sobre Amaleque?"
-  },
-  {
-   "id": "2026-11-16-2-quiz",
-   "date": "2026-11-16",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-16T08:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-16T11:05:35+00:00",
-    "instagram": null,
-    "facebook": "2026-11-16T11:05:41+00:00",
-    "stories": "2026-11-16T11:06:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/BIS3_NxNFHc",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1618459999413982",
-    "stories": "story 18120342380092291"
-   },
-   "title": "Em qual monte o Senhor desceu e chamou Moisés ao topo?"
-  },
-  {
-   "id": "2026-11-16-1-verse",
-   "date": "2026-11-16",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-16T06:36",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-16T09:41:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18079740401452188"
-   },
-   "title": "Neemias 8:10"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
