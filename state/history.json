@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-17-5-quiz",
+   "date": "2026-11-17",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-17T13:39",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-17T08:23:11+00:00",
+   "source": "bank",
+   "bank_id": "q060",
+   "model": null,
+   "content": {
+    "ref": "Mateus 2:23",
+    "ref_label": "Mateus 2:23",
+    "question": "Em que cidade Jesus foi morar, por isso foi chamado Nazareno?",
+    "options": [
+     "Belém",
+     "Cafarnaum",
+     "Jerusalém",
+     "Nazaré"
+    ],
+    "answer": 3,
+    "evidence": "cidade chamada Nazaré",
+    "passage": "e foi morar em uma cidade chamada Nazaré; para que se cumprisse o que foi dito por meio dos profetas: que ele será chamado Nazareno.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nEm que cidade Jesus foi morar, por isso foi chamado Nazareno?\n\nA) Belém\nB) Cafarnaum\nC) Jerusalém\nD) Nazaré\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #teste #conhecimentobiblico #biblia #perguntasbiblicas #desafio #jesus #gospel #fe #evangelico",
+    "facebook": "Desafio bíblico do dia 🤔\n\nEm que cidade Jesus foi morar, por isso foi chamado Nazareno?\n\nA) Belém\nB) Cafarnaum\nC) Jerusalém\nD) Nazaré\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #biblia",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #teste #jesus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #evangelico #perguntasbiblicas",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nEm que cidade Jesus foi morar, por isso foi chamado Nazareno?\n\nA) Belém\nB) Cafarnaum\nC) Jerusalém\nD) Nazaré\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Em que cidade Jesus foi morar, por isso foi chamado Nazareno? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nEm que cidade Jesus foi morar, por isso foi chamado Nazareno?\n\nA) Belém\nB) Cafarnaum\nC) Jerusalém\nD) Nazaré\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-17T16:40:32+00:00",
+    "stories": "2026-11-17T16:41:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2552075701967320",
+    "stories": "story 18168832231489868"
+   }
+  },
+  {
    "id": "2026-11-17-4-quiz",
    "date": "2026-11-17",
    "slot": 4,
