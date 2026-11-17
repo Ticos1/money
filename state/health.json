@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-17T13:06:20+00:00",
+ "updated_at": "2026-11-17T15:00:39+00:00",
  "date": "2026-11-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-17-4-quiz",
+   "date": "2026-11-17",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-17T11:55",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-17T14:55:40+00:00",
+    "instagram": "2026-11-17T14:56:16+00:00",
+    "facebook": "2026-11-17T14:56:22+00:00",
+    "stories": "2026-11-17T14:56:55+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/LRg9bEznDpE",
+    "instagram": "https://www.instagram.com/reel/Df2MdBZjDDF/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1464367882333903",
+    "stories": "story 18344886241256547"
+   },
+   "title": "Que instrumento Miriã pegou para louvar após a travessia do mar?"
+  },
   {
    "id": "2026-11-17-3-truefalse",
    "date": "2026-11-17",
