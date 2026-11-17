@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T15:00:39+00:00",
+ "updated_at": "2026-11-17T16:43:51+00:00",
  "date": "2026-11-17",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-17-5-quiz",
+   "date": "2026-11-17",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-17T13:39",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-17T16:40:32+00:00",
+    "stories": "2026-11-17T16:41:05+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2552075701967320",
+    "stories": "story 18168832231489868"
+   },
+   "title": "Em que cidade Jesus foi morar, por isso foi chamado Nazareno?"
+  },
   {
    "id": "2026-11-17-4-quiz",
    "date": "2026-11-17",
