@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T18:01:50+00:00",
+ "updated_at": "2026-11-17T19:59:55+00:00",
  "date": "2026-11-17",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-17-7-quiz",
+   "date": "2026-11-17",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-17T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-17T19:55:49+00:00",
+    "stories": "2026-11-17T19:56:24+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1499683555379254",
+    "stories": "story 18037133195879836"
+   },
+   "title": "Qual palavra descreve o lugar onde o rei será lançado ao fim?"
+  },
   {
    "id": "2026-11-17-6-truefalse",
    "date": "2026-11-17",
