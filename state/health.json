@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-17T09:29:14+00:00",
+ "updated_at": "2026-11-17T10:59:41+00:00",
  "date": "2026-11-17",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-17-2-quiz",
+   "date": "2026-11-17",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-17T07:52",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-17T10:55:28+00:00",
+    "instagram": null,
+    "facebook": "2026-11-17T10:55:33+00:00",
+    "stories": "2026-11-17T10:56:22+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/6TWegyp9-VE",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1383679393659373",
+    "stories": "story 17931668547182275"
+   },
+   "title": "Qual criatura Jó menciona ao amaldiçoar o dia de seu nascimento?"
+  },
   {
    "id": "2026-11-17-1-verse",
    "date": "2026-11-17",
