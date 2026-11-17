@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-17T18:01:47+00:00",
+ "updated_at": "2026-11-17T19:59:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "title": "Qual palavra descreve o lugar onde o rei será lançado ao fim?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1499683555379254"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-17-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-17",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.3,
+    "watch_time_s": 2.6
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 281,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 822.1
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 221,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 469.6
+    "views": 281,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1019.4
    }
   },
   "2026-11-17-4-quiz": {
@@ -81,12 +98,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 261,
+    "views": 266,
     "avg_watch_s": 3.9,
-    "watch_time_s": 855.0
+    "watch_time_s": 868.8
    },
    "youtube": {
-    "views": 12,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 269,
+    "views": 277,
     "avg_watch_s": 4.8,
-    "watch_time_s": 949.5
+    "watch_time_s": 981.7
    }
   },
   "2026-11-17-2-quiz": {
@@ -126,7 +143,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 42,
+    "views": 68,
     "likes": 1,
     "comments": 0
    }
@@ -201,7 +218,7 @@
     "youtube": "https://youtube.com/shorts/Di9SsMI5UOM"
    },
    "youtube": {
-    "views": 5,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
@@ -218,9 +235,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 285,
+    "views": 286,
     "avg_watch_s": 4.3,
-    "watch_time_s": 986.7
+    "watch_time_s": 988.3
    }
   },
   "2026-11-16-6-truefalse": {
@@ -300,9 +317,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 371,
+    "views": 372,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1265.8
+    "watch_time_s": 1271.2
    },
    "youtube": {
     "views": 18,
@@ -322,9 +339,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 266,
+    "views": 268,
     "avg_watch_s": 3.9,
-    "watch_time_s": 837.1
+    "watch_time_s": 840.2
    }
   },
   "2026-11-16-2-quiz": {
@@ -700,7 +717,7 @@
     "watch_time_s": 2439.3
    },
    "youtube": {
-    "views": 388,
+    "views": 389,
     "likes": 1,
     "comments": 0
    }
