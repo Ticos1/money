@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-17T10:59:38+00:00",
+ "updated_at": "2026-11-17T13:06:15+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-17",
+   "time": "10:00",
+   "title": "Qual anjo tocou em Daniel enquanto ele orava?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1884674302976051"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-17-2-quiz": {
    "type": "quiz",
    "date": "2026-11-17",
@@ -22,7 +39,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -66,20 +83,20 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 104,
+    "reach": 105,
     "saved": 0,
     "shares": 0,
-    "views": 133,
+    "views": 134,
     "total_interactions": 2,
     "avg_watch_s": 4.6,
-    "watch_time_s": 481.3
+    "watch_time_s": 481.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 2.4,
-    "watch_time_s": 2.4
+    "views": 2,
+    "avg_watch_s": 1.8,
+    "watch_time_s": 3.7
    },
    "youtube": {
     "views": 4,
@@ -114,9 +131,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 282,
+    "views": 283,
     "avg_watch_s": 4.3,
-    "watch_time_s": 977.0
+    "watch_time_s": 984.6
    }
   },
   "2026-11-16-6-truefalse": {
@@ -136,7 +153,7 @@
     "reach": 39,
     "saved": 0,
     "shares": 0,
-    "views": 58,
+    "views": 62,
     "total_interactions": 0,
     "avg_watch_s": 37.6,
     "watch_time_s": 1578.4
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 367,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1241.3
+    "views": 370,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1260.4
    },
    "youtube": {
     "views": 20,
@@ -188,10 +205,10 @@
     "reach": 66,
     "saved": 0,
     "shares": 0,
-    "views": 81,
+    "views": 82,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 270.8
+    "avg_watch_s": 4.2,
+    "watch_time_s": 281.0
    },
    "facebook": {
     "likes": 2,
@@ -201,7 +218,7 @@
     "watch_time_s": 1258.4
    },
    "youtube": {
-    "views": 17,
+    "views": 18,
     "likes": 0,
     "comments": 0
    }
@@ -437,9 +454,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 378,
+    "views": 379,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1477.3
+    "watch_time_s": 1479.9
    }
   },
   "2026-11-15-2-quiz": {
