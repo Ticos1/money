@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-17T09:29:12+00:00",
+ "updated_at": "2026-11-17T10:59:38+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-17",
+   "time": "08:00",
+   "title": "Qual criatura Jó menciona ao amaldiçoar o dia de seu nascimento?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6TWegyp9-VE",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1383679393659373"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-17-1-verse": {
    "type": "verse",
    "date": "2026-11-17",
@@ -93,7 +116,7 @@
     "comments": 0,
     "views": 282,
     "avg_watch_s": 4.3,
-    "watch_time_s": 968.0
+    "watch_time_s": 977.0
    }
   },
   "2026-11-16-6-truefalse": {
@@ -121,9 +144,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 363,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1214.5
+    "views": 367,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1241.3
    },
    "youtube": {
     "views": 20,
@@ -162,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 63,
+    "reach": 66,
     "saved": 0,
     "shares": 0,
-    "views": 78,
+    "views": 81,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 266.0
+    "avg_watch_s": 4.1,
+    "watch_time_s": 270.8
    },
    "facebook": {
     "likes": 2,
@@ -884,7 +907,7 @@
     "watch_time_s": 2068.5
    },
    "youtube": {
-    "views": 164,
+    "views": 163,
     "likes": 1,
     "comments": 0
    }
