@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-17-3-truefalse",
+   "date": "2026-11-17",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-17T09:59",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-17T08:22:23+00:00",
+   "source": "bank",
+   "bank_id": "q278",
+   "model": null,
+   "content": {
+    "ref": "Daniel 9:21",
+    "ref_label": "Daniel 9:21",
+    "question": "Qual anjo tocou em Daniel enquanto ele orava?",
+    "shown": "Miguel",
+    "is_true": false,
+    "correct": "Gabriel",
+    "evidence": "o homem Gabriel",
+    "passage": "sim, enquanto eu ainda falava em oração, o homem Gabriel, que eu tinha visto na visão ao princípio, voando rapidamente, tocou em mim à hora da oferta da tarde.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual anjo tocou em Daniel enquanto ele orava?\nResposta: Miguel\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #biblia #conhecimentobiblico #desafiobiblico #perguntasbiblicas #deus #fe #jesus #cristao #gospel",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual anjo tocou em Daniel enquanto ele orava?\nResposta: Miguel\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #fe",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #cristao #perguntasbiblicas",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #deus #fe",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual anjo tocou em Daniel enquanto ele orava?\nResposta: Miguel\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual anjo tocou em Daniel enquanto ele orava? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual anjo tocou em Daniel enquanto ele orava?\nResposta: Miguel\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "daniel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-17T13:00:44+00:00",
+    "stories": "2026-11-17T13:01:19+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1884674302976051",
+    "stories": "story 18121689374056336"
+   }
+  },
+  {
    "id": "2026-11-17-2-quiz",
    "date": "2026-11-17",
    "slot": 2,
