@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-17T13:06:15+00:00",
+ "updated_at": "2026-11-17T15:00:33+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-17",
+   "time": "12:00",
+   "title": "Que instrumento Miriã pegou para louvar após a travessia do mar?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/LRg9bEznDpE",
+    "instagram": "https://www.instagram.com/reel/Df2MdBZjDDF/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1464367882333903"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-17-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-17",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 161,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 282.8
    }
   },
   "2026-11-17-2-quiz": {
@@ -39,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 12,
+    "views": 40,
     "likes": 0,
     "comments": 0
    }
@@ -150,13 +185,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 39,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 62,
+    "views": 64,
     "total_interactions": 0,
-    "avg_watch_s": 37.6,
-    "watch_time_s": 1578.4
+    "avg_watch_s": 36.7,
+    "watch_time_s": 1616.4
    },
    "facebook": {
     "likes": 0,
@@ -202,13 +237,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 66,
+    "reach": 70,
     "saved": 0,
     "shares": 0,
-    "views": 82,
+    "views": 88,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 281.0
+    "avg_watch_s": 4.1,
+    "watch_time_s": 293.4
    },
    "facebook": {
     "likes": 2,
@@ -235,9 +270,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 261,
+    "views": 262,
     "avg_watch_s": 3.9,
-    "watch_time_s": 815.2
+    "watch_time_s": 817.0
    }
   },
   "2026-11-16-2-quiz": {
@@ -253,9 +288,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 367,
+    "views": 369,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1573.7
+    "watch_time_s": 1579.3
    },
    "youtube": {
     "views": 45,
@@ -333,7 +368,7 @@
     "youtube": "https://youtube.com/shorts/tW5VFFMasW8"
    },
    "youtube": {
-    "views": 80,
+    "views": 81,
     "likes": 0,
     "comments": 0
    }
@@ -432,9 +467,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 272,
+    "views": 273,
     "avg_watch_s": 4.3,
-    "watch_time_s": 934.5
+    "watch_time_s": 935.0
    },
    "youtube": {
     "views": 56,
@@ -3844,9 +3879,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 5,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 23.9
+    "views": 6,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 24.2
    },
    "youtube": {
     "views": 131,
