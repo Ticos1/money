@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-18T13:05:41+00:00",
+ "updated_at": "2026-11-18T15:15:10+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-18-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-18",
+   "time": "12:00",
+   "title": "Quantos filhos e filhas Jó tinha?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/utrfLG4TuA8",
+    "instagram": "https://www.instagram.com/reel/Df4y9v6j2ZF/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1128939573286161"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-18-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-18",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1132355766433819"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 282,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 901.0
    }
   },
   "2026-11-18-2-quiz": {
@@ -34,12 +69,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 287,
+    "views": 293,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1194.8
+    "watch_time_s": 1210.8
    },
    "youtube": {
-    "views": 0,
+    "views": 61,
     "likes": 0,
     "comments": 0
    }
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 10,
     "saved": 0,
     "shares": 0,
-    "views": 6,
+    "views": 13,
     "total_interactions": 0,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 28.5
+    "avg_watch_s": 6.7,
+    "watch_time_s": 67.4
    },
    "facebook": {
     "likes": 0,
@@ -99,7 +134,7 @@
     "watch_time_s": 8.9
    },
    "youtube": {
-    "views": 50,
+    "views": 54,
     "likes": 0,
     "comments": 0
    }
@@ -122,8 +157,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 335,
-    "likes": 0,
+    "views": 346,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -161,20 +196,20 @@
     "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 47,
+    "views": 51,
     "total_interactions": 0,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 155.8
+    "avg_watch_s": 4.6,
+    "watch_time_s": 191.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 329,
+    "views": 330,
     "avg_watch_s": 3.7,
     "watch_time_s": 998.7
    },
    "youtube": {
-    "views": 42,
+    "views": 45,
     "likes": 0,
     "comments": 0
    }
@@ -191,9 +226,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 288,
+    "views": 289,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1066.9
+    "watch_time_s": 1069.0
    }
   },
   "2026-11-17-4-quiz": {
@@ -226,7 +261,7 @@
     "watch_time_s": 906.3
    },
    "youtube": {
-    "views": 36,
+    "views": 41,
     "likes": 0,
     "comments": 0
    }
@@ -243,9 +278,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 292,
+    "views": 297,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1062.6
+    "watch_time_s": 1082.3
    }
   },
   "2026-11-17-2-quiz": {
@@ -1024,9 +1059,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 842,
+    "views": 844,
     "avg_watch_s": 5.7,
-    "watch_time_s": 3625.6
+    "watch_time_s": 3627.4
    }
   },
   "2026-11-13-6-truefalse": {
@@ -6494,7 +6529,7 @@
     "watch_time_s": 6.9
    },
    "youtube": {
-    "views": 74,
+    "views": 79,
     "likes": 1,
     "comments": 0
    }
@@ -8952,7 +8987,7 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 4,
+    "likes": 3,
     "comments": 0,
     "views": 915,
     "avg_watch_s": 3.2,
