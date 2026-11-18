@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T17:54:48+00:00",
+ "updated_at": "2026-11-18T19:58:57+00:00",
  "date": "2026-11-18",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-18-7-quiz",
+   "date": "2026-11-18",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-18T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-18T19:55:44+00:00",
+    "stories": "2026-11-18T19:56:16+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1458189089603039",
+    "stories": "story 18100194350448204"
+   },
+   "title": "Em que a mãe de Moisés colocou o bebê no rio?"
+  },
   {
    "id": "2026-11-18-6-truefalse",
    "date": "2026-11-18",
