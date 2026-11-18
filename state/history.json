@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-2-quiz",
+   "date": "2026-11-18",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-18T07:55",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-18T08:34:01+00:00",
+   "source": "bank",
+   "bank_id": "q464",
+   "model": null,
+   "content": {
+    "ref": "Mateus 1:21",
+    "ref_label": "Mateus 1:21",
+    "question": "Que nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?",
+    "options": [
+     "Emanuel",
+     "João",
+     "Jesus",
+     "Josué"
+    ],
+    "answer": 2,
+    "evidence": "Você lhe dará o nome de Jesus",
+    "passage": "Ela dará à luz um filho. Você lhe dará o nome de Jesus, pois é ele quem salvará o seu povo dos pecados deles.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQue nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?\n\nA) Emanuel\nB) João\nC) Jesus\nD) Josué\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #fe #teste #biblia #palavradedeus #cristao #evangelico #jesus #perguntasbiblicas #deus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQue nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?\n\nA) Emanuel\nB) João\nC) Jesus\nD) Josué\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #fe #biblia",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #teste #desafio",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQue nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?\n\nA) Emanuel\nB) João\nC) Jesus\nD) Josué\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQue nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?\n\nA) Emanuel\nB) João\nC) Jesus\nD) Josué\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T10:55:47+00:00",
+    "instagram": null,
+    "facebook": "2026-11-18T10:55:51+00:00",
+    "stories": "2026-11-18T10:56:26+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ZF1goe3P-qk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1148584761248648",
+    "stories": "story 18473949958187833"
+   }
+  },
+  {
    "id": "2026-11-18-1-verse",
    "date": "2026-11-18",
    "slot": 1,
