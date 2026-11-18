@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-5-quiz",
+   "date": "2026-11-18",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-18T13:20",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-18T08:35:02+00:00",
+   "source": "bank",
+   "bank_id": "q1007",
+   "model": null,
+   "content": {
+    "ref": "2 Samuel 9:4",
+    "ref_label": "2 Samuel 9:4",
+    "question": "Em que lugar Mefibosete morava antes de ser chamado por Davi?",
+    "options": [
+     "Hebrom",
+     "Gibeá",
+     "Maanaim",
+     "Lo-Debar"
+    ],
+    "answer": 3,
+    "evidence": "em Lo-Debar",
+    "passage": "O rei lhe perguntou: “Onde ele está?” Ziba disse ao rei: “Eis que ele está na casa de Maquir, filho de Amiel, em Lo-Debar.”",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Mefibosete morava antes de ser chamado por Davi?\n\nA) Hebrom\nB) Gibeá\nC) Maanaim\nD) Lo-Debar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #cristao #palavradedeus #perguntasbiblicas #teste #evangelico #jesus #biblia #desafio #gospel",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Mefibosete morava antes de ser chamado por Davi?\n\nA) Hebrom\nB) Gibeá\nC) Maanaim\nD) Lo-Debar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #evangelico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #teste #gospel",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #teste #fe",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nEm que lugar Mefibosete morava antes de ser chamado por Davi?\n\nA) Hebrom\nB) Gibeá\nC) Maanaim\nD) Lo-Debar\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Em que lugar Mefibosete morava antes de ser chamado por Davi? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nEm que lugar Mefibosete morava antes de ser chamado por Davi?\n\nA) Hebrom\nB) Gibeá\nC) Maanaim\nD) Lo-Debar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-18T16:20:38+00:00",
+    "stories": "2026-11-18T16:21:43+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2280607415817407",
+    "stories": "story 18334836409302820"
+   }
+  },
+  {
    "id": "2026-11-18-4-quiz",
    "date": "2026-11-18",
    "slot": 4,
