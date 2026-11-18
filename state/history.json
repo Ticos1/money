@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-4-quiz",
+   "date": "2026-11-18",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-18T12:10",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-18T08:34:41+00:00",
+   "source": "bank",
+   "bank_id": "q430",
+   "model": null,
+   "content": {
+    "ref": "Jó 1:2",
+    "ref_label": "Jó 1:2",
+    "question": "Quantos filhos e filhas Jó tinha?",
+    "options": [
+     "Dez filhos e duas filhas",
+     "Sete filhos e três filhas",
+     "Quatro filhos e cinco filhas",
+     "Doze filhos e uma filha"
+    ],
+    "answer": 1,
+    "evidence": "sete filhos e três filhas",
+    "passage": "Nasceram-lhe sete filhos e três filhas.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuantos filhos e filhas Jó tinha?\n\nA) Dez filhos e duas filhas\nB) Sete filhos e três filhas\nC) Quatro filhos e cinco filhas\nD) Doze filhos e uma filha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #palavradedeus #desafio #biblia #conhecimentobiblico #evangelico #teste #deus #jesus #perguntasbiblicas",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuantos filhos e filhas Jó tinha?\n\nA) Dez filhos e duas filhas\nB) Sete filhos e três filhas\nC) Quatro filhos e cinco filhas\nD) Doze filhos e uma filha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #cristao",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #teste #biblia",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQuantos filhos e filhas Jó tinha?\n\nA) Dez filhos e duas filhas\nB) Sete filhos e três filhas\nC) Quatro filhos e cinco filhas\nD) Doze filhos e uma filha\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quantos filhos e filhas Jó tinha? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQuantos filhos e filhas Jó tinha?\n\nA) Dez filhos e duas filhas\nB) Sete filhos e três filhas\nC) Quatro filhos e cinco filhas\nD) Doze filhos e uma filha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jó"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T15:10:40+00:00",
+    "instagram": "2026-11-18T15:11:14+00:00",
+    "facebook": "2026-11-18T15:11:19+00:00",
+    "stories": "2026-11-18T15:11:59+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/utrfLG4TuA8",
+    "instagram": "https://www.instagram.com/reel/Df4y9v6j2ZF/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1128939573286161",
+    "stories": "story 18132735127888869"
+   }
+  },
+  {
    "id": "2026-11-18-3-truefalse",
    "date": "2026-11-18",
    "slot": 3,
