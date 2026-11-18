@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-18T09:30:20+00:00",
+ "updated_at": "2026-11-18T11:00:21+00:00",
  "date": "2026-11-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-18-2-quiz",
+   "date": "2026-11-18",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-18T07:55",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T10:55:47+00:00",
+    "instagram": null,
+    "facebook": "2026-11-18T10:55:51+00:00",
+    "stories": "2026-11-18T10:56:26+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/ZF1goe3P-qk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1148584761248648",
+    "stories": "story 18473949958187833"
+   },
+   "title": "Que nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?"
+  },
   {
    "id": "2026-11-18-1-verse",
    "date": "2026-11-18",
