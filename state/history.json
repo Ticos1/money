@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-1-verse",
+   "date": "2026-11-18",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-18T06:24",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-18T08:33:40+00:00",
+   "source": "bank",
+   "bank_id": "v039",
+   "model": null,
+   "content": {
+    "ref": "Salmos 118:24",
+    "ref_label": "Salmos 118:24",
+    "verse_text": "Este é o dia que o SENHOR fez. Vamos nos alegrar e exultar nele!",
+    "on_screen": "Este é o dia que o Senhor fez. Alegre-se!",
+    "reflection": "Cada dia é um presente de Deus. Antes de olhar para os problemas de hoje, agradeça pela oportunidade de vivê-lo.",
+    "theme": "alegria",
+    "mood": "alegria",
+    "tags": [
+     "alegria",
+     "gratidao"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de alegria: Salmos 118:24\n“Este é o dia que o SENHOR fez. Vamos nos alegrar e exultar nele!” (Salmos 118:24)\n\nCada amanhecer é um presente divino. Antes de focar nos desafios, reserve um momento para agradecer a Deus por mais um dia de vida. Deixe o coração se encher de gratidão e viva com alegria, sabendo que o Senhor fez este dia especialmente para você. Compartilhe essa bênção e inspire quem precisa de um lembrete de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #gratidao #versiculododia #versiculo #cristao #devocional #evangelico #biblia #deus #esperanca #gospel",
+    "facebook": "Versículo de alegria: Salmos 118:24\n“Este é o dia que o SENHOR fez. Vamos nos alegrar e exultar nele!” (Salmos 118:24)\n\nCada amanhecer é um presente divino. Antes de focar nos desafios, reserve um momento para agradecer a Deus por mais um dia de vida. Deixe o coração se encher de gratidão e viva com alegria, sabendo que o Senhor fez este dia especialmente para você. Compartilhe essa bênção e inspire quem precisa de um lembrete de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodealegria #alegria #gratidao #versiculododia",
+    "tiktok": "Versículo de alegria\nAgradeça a Deus por este dia e viva com alegria! 🙏✨\n#versiculodealegria #alegria #gratidao #versiculododia #versiculo",
+    "kwai": "Versículo de alegria\nAgradeça a Deus por este dia e viva com alegria! 🙏✨\n#versiculodealegria #alegria #gratidao #versiculododia #versiculo",
+    "whatsapp": "“Este é o dia que o SENHOR fez. Vamos nos alegrar e exultar nele!” (Salmos 118:24)\n\nCada amanhecer é um presente divino. Antes de focar nos desafios, reserve um momento para agradecer a Deus por mais um dia de vida. Deixe o coração se encher de gratidão e viva com alegria, sabendo que o Senhor fez este dia especialmente para você. Compartilhe essa bênção e inspire quem precisa de um lembrete de esperança.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de alegria: Salmos 118:24 🙏 #shorts",
+     "description": "Versículo de alegria: Salmos 118:24\n“Este é o dia que o SENHOR fez. Vamos nos alegrar e exultar nele!” (Salmos 118:24)\n\nCada amanhecer é um presente divino. Antes de focar nos desafios, reserve um momento para agradecer a Deus por mais um dia de vida. Deixe o coração se encher de gratidão e viva com alegria, sabendo que o Senhor fez este dia especialmente para você. Compartilhe essa bênção e inspire quem precisa de um lembrete de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodealegria #alegria #gratidao",
+     "tags": [
+      "versículo de alegria",
+      "versículos de alegria",
+      "alegria",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gratidao",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-18T09:26:05+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18122403052957727"
+   }
+  },
+  {
    "id": "2026-11-17-10-truefalse",
    "date": "2026-11-17",
    "slot": 10,
