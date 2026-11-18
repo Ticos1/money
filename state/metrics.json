@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-17T22:59:58+00:00",
+ "updated_at": "2026-11-18T00:32:11+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-17-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-17",
+   "time": "21:30",
+   "title": "O que Jesus disse ao receber o vinagre, antes de entregar o espírito?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1171550025558308"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-17-9-quiz": {
    "type": "quiz",
    "date": "2026-11-17",
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -57,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
+    "views": 169,
     "likes": 0,
     "comments": 0
    }
@@ -93,23 +110,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 16,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 19,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 31.7
+    "avg_watch_s": 3.4,
+    "watch_time_s": 50.5
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 309,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 903.6
+    "views": 316,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 931.4
    },
    "youtube": {
-    "views": 16,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -126,7 +143,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 284,
+    "views": 288,
     "avg_watch_s": 4.9,
     "watch_time_s": 1036.1
    }
@@ -145,13 +162,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 10,
+    "views": 18,
     "total_interactions": 0,
-    "avg_watch_s": 9.3,
-    "watch_time_s": 55.5
+    "avg_watch_s": 10.4,
+    "watch_time_s": 83.0
    },
    "facebook": {
     "likes": 1,
@@ -161,7 +178,7 @@
     "watch_time_s": 894.3
    },
    "youtube": {
-    "views": 22,
+    "views": 26,
     "likes": 0,
     "comments": 0
    }
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 277,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 981.7
+    "views": 282,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1024.1
    }
   },
   "2026-11-17-2-quiz": {
@@ -201,7 +218,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 68,
+    "views": 69,
     "likes": 1,
     "comments": 0
    }
@@ -293,9 +310,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 286,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 988.3
+    "views": 287,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 988.6
    }
   },
   "2026-11-16-6-truefalse": {
@@ -325,7 +342,7 @@
     "comments": 0,
     "views": 373,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1260.5
+    "watch_time_s": 1272.1
    },
    "youtube": {
     "views": 20,
@@ -397,9 +414,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 269,
+    "views": 270,
     "avg_watch_s": 3.9,
-    "watch_time_s": 843.3
+    "watch_time_s": 844.5
    }
   },
   "2026-11-16-2-quiz": {
@@ -862,9 +879,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 380,
+    "views": 381,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1446.5
+    "watch_time_s": 1449.4
    },
    "youtube": {
     "views": 88,
@@ -2054,9 +2071,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 373,
+    "views": 376,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1370.5
+    "watch_time_s": 1380.4
    }
   },
   "2026-11-08-6-truefalse": {
