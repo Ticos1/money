@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-18T09:30:18+00:00",
+ "updated_at": "2026-11-18T11:00:17+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-18-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-18",
+   "time": "08:00",
+   "title": "Que nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/ZF1goe3P-qk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1148584761248648"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-18-1-verse": {
    "type": "verse",
    "date": "2026-11-18",
@@ -25,8 +48,8 @@
     "likes": 0,
     "comments": 0,
     "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 0.2,
+    "watch_time_s": 0.2
    }
   },
   "2026-11-17-9-quiz": {
@@ -43,13 +66,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 9.6
+    "avg_watch_s": 5.9,
+    "watch_time_s": 23.5
    },
    "facebook": {
     "likes": 0,
@@ -118,13 +141,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 37,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 44,
+    "views": 47,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 147.5
+    "avg_watch_s": 3.9,
+    "watch_time_s": 155.8
    },
    "facebook": {
     "likes": 0,
@@ -205,7 +228,7 @@
     "comments": 0,
     "views": 289,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1035.4
+    "watch_time_s": 1050.3
    }
   },
   "2026-11-17-2-quiz": {
@@ -400,9 +423,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 374,
+    "views": 376,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1280.2
+    "watch_time_s": 1281.5
    },
    "youtube": {
     "views": 19,
