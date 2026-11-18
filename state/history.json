@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-8-truefalse",
+   "date": "2026-11-18",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-18T18:38",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-18T08:36:02+00:00",
+   "source": "bank",
+   "bank_id": "q1159",
+   "model": null,
+   "content": {
+    "ref": "João 21:9",
+    "ref_label": "João 21:9",
+    "question": "O que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?",
+    "shown": "Uma tenda armada",
+    "is_true": false,
+    "correct": "Uma fogueira de brasas",
+    "evidence": "uma fogueira de brasas",
+    "passage": "Assim, quando desceram em terra, viram ali uma fogueira de brasas, com peixe e pão colocados sobre ela.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?\nResposta: Uma tenda armada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #perguntasbiblicas #jesus #cristao #fe #conhecimentobiblico #evangelico #deus #biblia #gospel",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?\nResposta: Uma tenda armada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #gospel",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #deus #jesus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?\nResposta: Uma tenda armada\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?\nResposta: Uma tenda armada\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T21:40:37+00:00",
+    "instagram": null,
+    "facebook": "2026-11-18T21:40:42+00:00",
+    "stories": "2026-11-18T21:41:14+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/XtH_wd-mvB0",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1666221108246547",
+    "stories": "story 17889881913498503"
+   }
+  },
+  {
    "id": "2026-11-18-7-quiz",
    "date": "2026-11-18",
    "slot": 7,
