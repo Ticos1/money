@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-18T21:43:50+00:00",
+ "updated_at": "2026-11-18T23:06:07+00:00",
  "date": "2026-11-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-18-9-quiz",
+   "date": "2026-11-18",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-18T19:56",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T23:00:34+00:00",
+    "instagram": "2026-11-18T23:01:11+00:00",
+    "facebook": "2026-11-18T23:01:16+00:00",
+    "stories": "2026-11-18T23:01:48+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/02kS2CGZC8g",
+    "instagram": "https://www.instagram.com/reel/Df5ovYWlRZJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1630031711341693",
+    "stories": "story 18112703435266024"
+   },
+   "title": "A quem os olhos dos servos se voltam?"
+  },
   {
    "id": "2026-11-18-8-truefalse",
    "date": "2026-11-18",
