@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T23:00:02+00:00",
+ "updated_at": "2026-11-18T00:32:15+00:00",
  "date": "2026-11-17",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-17-10-truefalse",
+   "date": "2026-11-17",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-17T21:21",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-18T00:25:45+00:00",
+    "stories": "2026-11-18T00:26:25+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1171550025558308",
+    "stories": "story 18149766139582941"
+   },
+   "title": "O que Jesus disse ao receber o vinagre, antes de entregar o espírito?"
+  },
   {
    "id": "2026-11-17-9-quiz",
    "date": "2026-11-17",
