@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-18T15:15:10+00:00",
+ "updated_at": "2026-11-18T16:27:40+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-18-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-18",
+   "time": "13:30",
+   "title": "Em que lugar Mefibosete morava antes de ser chamado por Davi?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2280607415817407"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-18-4-quiz": {
    "type": "quiz",
    "date": "2026-11-18",
@@ -29,12 +46,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 254,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 533.2
    },
    "youtube": {
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0
    }
@@ -52,8 +69,8 @@
     "likes": 1,
     "comments": 0,
     "views": 282,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 901.0
+    "avg_watch_s": 4.3,
+    "watch_time_s": 947.1
    }
   },
   "2026-11-18-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 293,
+    "views": 294,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1210.8
+    "watch_time_s": 1212.7
    },
    "youtube": {
-    "views": 61,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 6.7,
-    "watch_time_s": 67.4
+    "avg_watch_s": 7.1,
+    "watch_time_s": 77.8
    },
    "facebook": {
     "likes": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 8.9
    },
    "youtube": {
-    "views": 54,
+    "views": 56,
     "likes": 0,
     "comments": 0
    }
@@ -157,7 +174,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 346,
+    "views": 354,
     "likes": 1,
     "comments": 0
    }
@@ -191,22 +208,22 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1674940684644268"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 40,
+    "reach": 43,
     "saved": 0,
     "shares": 0,
-    "views": 51,
-    "total_interactions": 0,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 191.7
+    "views": 54,
+    "total_interactions": 1,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 197.9
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
     "views": 330,
     "avg_watch_s": 3.7,
-    "watch_time_s": 998.7
+    "watch_time_s": 1000.1
    },
    "youtube": {
     "views": 45,
@@ -261,7 +278,7 @@
     "watch_time_s": 906.3
    },
    "youtube": {
-    "views": 41,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
@@ -278,7 +295,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 297,
+    "views": 299,
     "avg_watch_s": 5.0,
     "watch_time_s": 1082.3
    }
@@ -515,9 +532,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 371,
+    "views": 372,
     "avg_watch_s": 5.3,
-    "watch_time_s": 1587.3
+    "watch_time_s": 1588.5
    },
    "youtube": {
     "views": 46,
@@ -699,7 +716,7 @@
     "watch_time_s": 935.0
    },
    "youtube": {
-    "views": 56,
+    "views": 57,
     "likes": 0,
     "comments": 0
    }
@@ -716,7 +733,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 379,
+    "views": 380,
     "avg_watch_s": 4.9,
     "watch_time_s": 1479.9
    }
