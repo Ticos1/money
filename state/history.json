@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-7-quiz",
+   "date": "2026-11-18",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-18T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-18T08:35:41+00:00",
+   "source": "bank",
+   "bank_id": "q114",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 2:3",
+    "ref_label": "Êxodo 2:3",
+    "question": "Em que a mãe de Moisés colocou o bebê no rio?",
+    "options": [
+     "Barco de cedro",
+     "Cesto de papiro",
+     "Caixa de ouro",
+     "Jangada de troncos"
+    ],
+    "answer": 1,
+    "evidence": "um cesto de papiro",
+    "passage": "Quando já não podia mais escondê-lo, pegou para ele um cesto de papiro e o revestiu com betume e piche. Colocou o menino dentro dele e o deixou entre os juncos à margem do rio.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm que a mãe de Moisés colocou o bebê no rio?\n\nA) Barco de cedro\nB) Cesto de papiro\nC) Caixa de ouro\nD) Jangada de troncos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #cristao #perguntasbiblicas #teste #evangelico #desafio #deus #jesus #gospel #biblia",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm que a mãe de Moisés colocou o bebê no rio?\n\nA) Barco de cedro\nB) Cesto de papiro\nC) Caixa de ouro\nD) Jangada de troncos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #cristao #evangelico",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #biblia #jesus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nEm que a mãe de Moisés colocou o bebê no rio?\n\nA) Barco de cedro\nB) Cesto de papiro\nC) Caixa de ouro\nD) Jangada de troncos\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em que a mãe de Moisés colocou o bebê no rio? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm que a mãe de Moisés colocou o bebê no rio?\n\nA) Barco de cedro\nB) Cesto de papiro\nC) Caixa de ouro\nD) Jangada de troncos\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-18T19:55:44+00:00",
+    "stories": "2026-11-18T19:56:16+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1458189089603039",
+    "stories": "story 18100194350448204"
+   }
+  },
+  {
    "id": "2026-11-18-6-truefalse",
    "date": "2026-11-18",
    "slot": 6,
