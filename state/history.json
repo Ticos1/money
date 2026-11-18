@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-11-18-9-quiz",
+   "date": "2026-11-18",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-18T19:56",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-18T08:36:21+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 123:2",
+    "ref_label": "Salmos 123:2",
+    "question": "A quem os olhos dos servos se voltam?",
+    "options": [
+     "o SENHOR",
+     "a rainha",
+     "o profeta",
+     "a torre"
+    ],
+    "answer": 0,
+    "evidence": "o SENHOR",
+    "passage": "Eis que, assim como os olhos dos servos se voltam para a mão do seu senhor, como os olhos da serva para a mão de sua senhora, assim os nossos olhos se voltam para o SENHOR, o nosso Deus, até que ele tenha misericórdia de nós.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nA quem os olhos dos servos se voltam?\n\nA) o SENHOR\nB) a rainha\nC) o profeta\nD) a torre\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #jesus #gospel #cristao #biblia #perguntasbiblicas #desafio #deus #conhecimentobiblico #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nA quem os olhos dos servos se voltam?\n\nA) o SENHOR\nB) a rainha\nC) o profeta\nD) a torre\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #evangelico",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico #perguntasbiblicas",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #fe #gospel",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nA quem os olhos dos servos se voltam?\n\nA) o SENHOR\nB) a rainha\nC) o profeta\nD) a torre\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: A quem os olhos dos servos se voltam? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nA quem os olhos dos servos se voltam?\n\nA) o SENHOR\nB) a rainha\nC) o profeta\nD) a torre\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-18T23:00:34+00:00",
+    "instagram": "2026-11-18T23:01:11+00:00",
+    "facebook": "2026-11-18T23:01:16+00:00",
+    "stories": "2026-11-18T23:01:48+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/02kS2CGZC8g",
+    "instagram": "https://www.instagram.com/reel/Df5ovYWlRZJ/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1630031711341693",
+    "stories": "story 18112703435266024"
+   }
+  },
+  {
    "id": "2026-11-18-8-truefalse",
    "date": "2026-11-18",
    "slot": 8,
