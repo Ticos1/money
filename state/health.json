@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-18T00:32:15+00:00",
- "date": "2026-11-17",
+ "updated_at": "2026-11-18T09:02:56+00:00",
+ "date": "2026-11-18",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 2,
   "max": 20,
   "enabled": true
  },
@@ -16,28 +16,28 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 547,
-   "days_left": 547,
+   "fresh": 546,
+   "days_left": 546,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 434,
+   "fresh": 436,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 884,
-   "days_left": 98,
+   "fresh": 875,
+   "days_left": 97,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 926,
+   "fresh": 918,
    "days_left": 102,
    "warn": false
   },
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-17-10-truefalse",
-   "date": "2026-11-17",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-17T21:21",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-18T00:25:45+00:00",
-    "stories": "2026-11-18T00:26:25+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1171550025558308",
-    "stories": "story 18149766139582941"
-   },
-   "title": "O que Jesus disse ao receber o vinagre, antes de entregar o espírito?"
-  },
-  {
-   "id": "2026-11-17-9-quiz",
-   "date": "2026-11-17",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-17T19:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-17T22:55:38+00:00",
-    "instagram": "2026-11-17T22:56:14+00:00",
-    "facebook": "2026-11-17T22:56:20+00:00",
-    "stories": "2026-11-17T22:57:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/MxL4CyDgcJ4",
-    "instagram": "https://www.instagram.com/reel/Df3DYZPj2yX/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1137734778869688",
-    "stories": "story 18651121903009836"
-   },
-   "title": "Que ídolo Arão fez com o ouro do povo?"
-  },
-  {
-   "id": "2026-11-17-8-truefalse",
-   "date": "2026-11-17",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-17T18:26",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-17T21:30:32+00:00",
-    "instagram": null,
-    "facebook": "2026-11-17T21:30:37+00:00",
-    "stories": "2026-11-17T21:31:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/qFe4LRyqNm8",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1671007621339509",
-    "stories": "story 18067972088521092"
-   },
-   "title": "O que o rei estendeu a Ester quando a viu em pé no pátio?"
-  },
-  {
-   "id": "2026-11-17-7-quiz",
-   "date": "2026-11-17",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-17T16:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-17T19:55:49+00:00",
-    "stories": "2026-11-17T19:56:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1499683555379254",
-    "stories": "story 18037133195879836"
-   },
-   "title": "Qual palavra descreve o lugar onde o rei será lançado ao fim?"
-  },
-  {
-   "id": "2026-11-17-6-truefalse",
-   "date": "2026-11-17",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-17T14:53",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-17T17:55:36+00:00",
-    "instagram": "2026-11-17T17:56:19+00:00",
-    "facebook": "2026-11-17T17:56:25+00:00",
-    "stories": "2026-11-17T17:57:31+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/llrq8_fCs-A",
-    "instagram": "https://www.instagram.com/reel/Df2hC-ADjxQ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1674940684644268",
-    "stories": "story 18104169338560573"
-   },
-   "title": "Sobre quantas províncias o rei Assuero reinava?"
-  },
-  {
-   "id": "2026-11-17-5-quiz",
-   "date": "2026-11-17",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-17T13:39",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-17T16:40:32+00:00",
-    "stories": "2026-11-17T16:41:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2552075701967320",
-    "stories": "story 18168832231489868"
-   },
-   "title": "Em que cidade Jesus foi morar, por isso foi chamado Nazareno?"
-  },
-  {
-   "id": "2026-11-17-4-quiz",
-   "date": "2026-11-17",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-17T11:55",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-17T14:55:40+00:00",
-    "instagram": "2026-11-17T14:56:16+00:00",
-    "facebook": "2026-11-17T14:56:22+00:00",
-    "stories": "2026-11-17T14:56:55+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/LRg9bEznDpE",
-    "instagram": "https://www.instagram.com/reel/Df2MdBZjDDF/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1464367882333903",
-    "stories": "story 18344886241256547"
-   },
-   "title": "Que instrumento Miriã pegou para louvar após a travessia do mar?"
-  },
-  {
-   "id": "2026-11-17-3-truefalse",
-   "date": "2026-11-17",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-17T09:59",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-17T13:00:44+00:00",
-    "stories": "2026-11-17T13:01:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1884674302976051",
-    "stories": "story 18121689374056336"
-   },
-   "title": "Qual anjo tocou em Daniel enquanto ele orava?"
-  },
-  {
-   "id": "2026-11-17-2-quiz",
-   "date": "2026-11-17",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-17T07:52",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-17T10:55:28+00:00",
-    "instagram": null,
-    "facebook": "2026-11-17T10:55:33+00:00",
-    "stories": "2026-11-17T10:56:22+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6TWegyp9-VE",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1383679393659373",
-    "stories": "story 17931668547182275"
-   },
-   "title": "Qual criatura Jó menciona ao amaldiçoar o dia de seu nascimento?"
-  },
-  {
-   "id": "2026-11-17-1-verse",
-   "date": "2026-11-17",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-17T06:21",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-17T09:26:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18057230429810361"
-   },
-   "title": "Mateus 4:4"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
