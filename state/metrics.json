@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-18T23:06:03+00:00",
+ "updated_at": "2026-11-19T00:36:03+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-18-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-18",
+   "time": "21:30",
+   "title": "Quantos dias Jesus ficou com os samaritanos que creram nele?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1522939246313964"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-18-9-quiz": {
    "type": "quiz",
    "date": "2026-11-18",
@@ -21,7 +38,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 5,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
@@ -57,8 +74,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 47,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -74,9 +91,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 650,
+    "views": 717,
     "avg_watch_s": 5.6,
-    "watch_time_s": 2819.8
+    "watch_time_s": 2983.1
    }
   },
   "2026-11-18-6-truefalse": {
@@ -104,12 +121,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 288,
+    "views": 290,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1111.9
+    "watch_time_s": 1113.7
    },
    "youtube": {
-    "views": 100,
+    "views": 119,
     "likes": 1,
     "comments": 0
    }
@@ -156,9 +173,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 262,
+    "views": 264,
     "avg_watch_s": 4.2,
-    "watch_time_s": 892.7
+    "watch_time_s": 906.2
    },
    "youtube": {
     "views": 39,
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 286,
+    "views": 287,
     "avg_watch_s": 4.2,
-    "watch_time_s": 951.6
+    "watch_time_s": 954.2
    }
   },
   "2026-11-18-2-quiz": {
@@ -201,7 +218,7 @@
     "watch_time_s": 1225.4
    },
    "youtube": {
-    "views": 91,
+    "views": 106,
     "likes": 0,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 8.9
    },
    "youtube": {
-    "views": 67,
+    "views": 71,
     "likes": 0,
     "comments": 0
    }
@@ -284,7 +301,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 378,
+    "views": 380,
     "likes": 1,
     "comments": 0
    }
@@ -331,12 +348,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 333,
+    "views": 334,
     "avg_watch_s": 3.7,
-    "watch_time_s": 1002.1
+    "watch_time_s": 1003.6
    },
    "youtube": {
-    "views": 51,
+    "views": 53,
     "likes": 0,
     "comments": 0
    }
@@ -388,7 +405,7 @@
     "watch_time_s": 913.7
    },
    "youtube": {
-    "views": 51,
+    "views": 55,
     "likes": 0,
     "comments": 0
    }
@@ -405,9 +422,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 300,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1097.3
+    "views": 305,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1128.9
    }
   },
   "2026-11-17-2-quiz": {
@@ -626,7 +643,7 @@
     "comments": 0,
     "views": 271,
     "avg_watch_s": 3.9,
-    "watch_time_s": 844.5
+    "watch_time_s": 852.1
    }
   },
   "2026-11-16-2-quiz": {
@@ -722,7 +739,7 @@
     "youtube": "https://youtube.com/shorts/tW5VFFMasW8"
    },
    "youtube": {
-    "views": 82,
+    "views": 84,
     "likes": 0,
     "comments": 0
    }
@@ -1435,9 +1452,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 343,
+    "views": 344,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1224.3
+    "watch_time_s": 1226.8
    },
    "youtube": {
     "views": 1,
@@ -4051,7 +4068,7 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 1518,
+    "views": 1520,
     "avg_watch_s": 6.1,
     "watch_time_s": 6927.3
    }
@@ -4571,9 +4588,9 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1278,
+    "views": 1279,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6100.5
+    "watch_time_s": 6102.1
    },
    "youtube": {
     "views": 207,
@@ -4790,9 +4807,9 @@
    "facebook": {
     "likes": 14,
     "comments": 1,
-    "views": 1761,
+    "views": 1762,
     "avg_watch_s": 5.8,
-    "watch_time_s": 7686.2
+    "watch_time_s": 7688.6
    },
    "youtube": {
     "views": 6,
@@ -5298,9 +5315,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 9.4,
-    "watch_time_s": 9.4
+    "views": 3,
+    "avg_watch_s": 7.1,
+    "watch_time_s": 14.1
    }
   },
   "2026-10-25-9-quiz": {
@@ -9258,9 +9275,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 10,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 47.1
+    "views": 11,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 49.9
    },
    "youtube": {
     "views": 19,
