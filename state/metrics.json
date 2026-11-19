@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-19T21:44:16+00:00",
+ "updated_at": "2026-11-19T23:06:42+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "title": "Quem incitou Davi a fazer um censo de Israel?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/irbf-FPJX1I",
+    "instagram": "https://www.instagram.com/reel/Df8Nmrnlg14/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1824385692036858"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-19-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-19",
@@ -58,23 +93,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 14,
     "total_interactions": 0,
-    "avg_watch_s": 10.1,
-    "watch_time_s": 50.6
+    "avg_watch_s": 6.9,
+    "watch_time_s": 54.9
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 322,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1106.5
+    "views": 331,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1141.8
    },
    "youtube": {
-    "views": 45,
+    "views": 76,
     "likes": 0,
     "comments": 0
    }
@@ -91,9 +126,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 295,
+    "views": 296,
     "avg_watch_s": 4.2,
-    "watch_time_s": 994.5
+    "watch_time_s": 995.1
    }
   },
   "2026-11-19-4-quiz": {
@@ -126,7 +161,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 29,
+    "views": 34,
     "likes": 1,
     "comments": 0
    }
@@ -143,9 +178,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 499,
+    "views": 503,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1706.3
+    "watch_time_s": 1726.5
    }
   },
   "2026-11-19-2-quiz": {
@@ -161,12 +196,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 366,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 1498.8
+    "views": 377,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1574.1
    },
    "youtube": {
-    "views": 62,
+    "views": 67,
     "likes": 1,
     "comments": 0
    }
@@ -208,15 +243,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1630031711341693"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 22,
+    "reach": 23,
     "saved": 0,
     "shares": 0,
-    "views": 41,
-    "total_interactions": 0,
-    "avg_watch_s": 12.4,
-    "watch_time_s": 309.7
+    "views": 42,
+    "total_interactions": 1,
+    "avg_watch_s": 12.1,
+    "watch_time_s": 313.5
    },
    "facebook": {
     "likes": 0,
@@ -226,7 +261,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 87,
+    "views": 93,
     "likes": 1,
     "comments": 0
    }
@@ -249,7 +284,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 111,
+    "views": 119,
     "likes": 4,
     "comments": 0
    }
@@ -266,9 +301,9 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1132,
+    "views": 1136,
     "avg_watch_s": 6.0,
-    "watch_time_s": 5093.5
+    "watch_time_s": 5118.0
    }
   },
   "2026-11-18-6-truefalse": {
@@ -301,7 +336,7 @@
     "watch_time_s": 1121.3
    },
    "youtube": {
-    "views": 210,
+    "views": 219,
     "likes": 2,
     "comments": 0
    }
@@ -353,7 +388,7 @@
     "watch_time_s": 1023.0
    },
    "youtube": {
-    "views": 112,
+    "views": 118,
     "likes": 1,
     "comments": 0
    }
@@ -393,7 +428,7 @@
     "watch_time_s": 1236.8
    },
    "youtube": {
-    "views": 141,
+    "views": 142,
     "likes": 0,
     "comments": 0
    }
@@ -453,7 +488,7 @@
     "watch_time_s": 10.6
    },
    "youtube": {
-    "views": 79,
+    "views": 80,
     "likes": 0,
     "comments": 0
    }
@@ -476,7 +511,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 404,
+    "views": 406,
     "likes": 1,
     "comments": 0
    }
@@ -1018,7 +1053,7 @@
     "watch_time_s": 935.0
    },
    "youtube": {
-    "views": 55,
+    "views": 57,
     "likes": 0,
     "comments": 0
    }
