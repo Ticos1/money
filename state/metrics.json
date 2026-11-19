@@ -1,36 +1,19 @@
 {
- "updated_at": "2026-11-19T16:46:41+00:00",
+ "updated_at": "2026-11-19T18:05:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
-  "2026-11-19-5-quiz": {
-   "type": "quiz",
+  "2026-11-19-6-truefalse": {
+   "type": "truefalse",
    "date": "2026-11-19",
-   "time": "13:30",
-   "title": "No cântico dos anjos, o que haveria na terra?",
-   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "time": "15:00",
+   "title": "Pela fé, qual mulher não pereceu com os desobedientes?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
    "links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2197742901143137"
-   },
-   "facebook": {
-    "likes": 0,
-    "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
-   }
-  },
-  "2026-11-19-4-quiz": {
-   "type": "quiz",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Segundo o Salmo 121, o que o guarda de Israel nunca faz?",
-   "hook": "Pergunta bíblica que poucos acertam",
-   "links": {
-    "youtube": "https://youtube.com/shorts/fq7UmiAW-eY",
-    "instagram": "https://www.instagram.com/reel/Df7WCtNlE9F/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1609964257836542"
+    "youtube": "https://youtube.com/shorts/j7TameRx8Lg",
+    "instagram": "https://www.instagram.com/reel/Df7rO0oH_ad/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1836335747511115"
    },
    "instagram": {
     "likes": 0,
@@ -51,8 +34,60 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 10,
+    "views": 0,
     "likes": 0,
+    "comments": 0
+   }
+  },
+  "2026-11-19-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "13:30",
+   "title": "No cântico dos anjos, o que haveria na terra?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2197742901143137"
+   },
+   "facebook": {
+    "likes": 3,
+    "comments": 0,
+    "views": 291,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 933.5
+   }
+  },
+  "2026-11-19-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "12:00",
+   "title": "Segundo o Salmo 121, o que o guarda de Israel nunca faz?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/fq7UmiAW-eY",
+    "instagram": "https://www.instagram.com/reel/Df7WCtNlE9F/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1609964257836542"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 1,
+    "saved": 0,
+    "shares": 0,
+    "views": 1,
+    "total_interactions": 0,
+    "avg_watch_s": 1.2,
+    "watch_time_s": 1.2
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 27,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -66,11 +101,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1716974919806135"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 371,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1250.3
+    "views": 428,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1450.2
    }
   },
   "2026-11-19-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 331,
+    "views": 335,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1281.4
+    "watch_time_s": 1312.3
    },
    "youtube": {
-    "views": 47,
+    "views": 54,
     "likes": 1,
     "comments": 0
    }
@@ -151,7 +186,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 69,
+    "views": 79,
     "likes": 1,
     "comments": 0
    }
@@ -174,7 +209,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 104,
+    "views": 105,
     "likes": 4,
     "comments": 0
    }
@@ -189,11 +224,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1458189089603039"
    },
    "facebook": {
-    "likes": 7,
+    "likes": 8,
     "comments": 2,
-    "views": 1103,
+    "views": 1108,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4824.5
+    "watch_time_s": 4849.4
    }
   },
   "2026-11-18-6-truefalse": {
@@ -210,23 +245,23 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 15,
+    "reach": 18,
     "saved": 0,
     "shares": 0,
-    "views": 22,
+    "views": 25,
     "total_interactions": 1,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 67.8
+    "avg_watch_s": 4.2,
+    "watch_time_s": 71.9
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 292,
+    "views": 293,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1116.0
+    "watch_time_s": 1121.3
    },
    "youtube": {
-    "views": 188,
+    "views": 195,
     "likes": 2,
     "comments": 0
    }
@@ -273,12 +308,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 265,
+    "views": 267,
     "avg_watch_s": 4.2,
-    "watch_time_s": 916.8
+    "watch_time_s": 918.8
    },
    "youtube": {
-    "views": 102,
+    "views": 109,
     "likes": 1,
     "comments": 0
    }
@@ -672,7 +707,7 @@
     "watch_time_s": 1272.2
    },
    "youtube": {
-    "views": 20,
+    "views": 19,
     "likes": 0,
     "comments": 0
    }
@@ -1741,9 +1776,9 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2263,
+    "views": 2265,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8770.9
+    "watch_time_s": 8774.4
    }
   },
   "2026-11-11-6-truefalse": {
