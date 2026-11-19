@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-19-6-truefalse",
+   "date": "2026-11-19",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-19T14:56",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-19T08:36:30+00:00",
+   "source": "bank",
+   "bank_id": "q913",
+   "model": null,
+   "content": {
+    "ref": "Hebreus 11:31",
+    "ref_label": "Hebreus 11:31",
+    "question": "Pela fé, qual mulher não pereceu com os desobedientes?",
+    "shown": "Raabe",
+    "is_true": true,
+    "correct": "Raabe",
+    "evidence": "Pela fé Raabe, a prostituta, não pereceu",
+    "passage": "Pela fé Raabe, a prostituta, não pereceu com os desobedientes, tendo recebido os espiões em paz.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nPela fé, qual mulher não pereceu com os desobedientes?\nResposta: Raabe\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #biblia #deus #perguntasbiblicas #evangelico #fe #cristao #jesus #conhecimentobiblico #gospel",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nPela fé, qual mulher não pereceu com os desobedientes?\nResposta: Raabe\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #evangelico #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #jesus #conhecimentobiblico",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nPela fé, qual mulher não pereceu com os desobedientes?\nResposta: Raabe\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nPela fé, qual mulher não pereceu com os desobedientes?\nResposta: Raabe\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "hebreus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-19T18:00:49+00:00",
+    "instagram": "2026-11-19T18:01:25+00:00",
+    "facebook": "2026-11-19T18:01:29+00:00",
+    "stories": "2026-11-19T18:02:03+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/j7TameRx8Lg",
+    "instagram": "https://www.instagram.com/reel/Df7rO0oH_ad/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1836335747511115",
+    "stories": "story 18118740290017149"
+   }
+  },
+  {
    "id": "2026-11-19-5-quiz",
    "date": "2026-11-19",
    "slot": 5,
