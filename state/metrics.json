@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-19T13:04:32+00:00",
+ "updated_at": "2026-11-19T15:01:40+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "12:00",
+   "title": "Segundo o Salmo 121, o que o guarda de Israel nunca faz?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/fq7UmiAW-eY",
+    "instagram": "https://www.instagram.com/reel/Df7WCtNlE9F/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1609964257836542"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-19-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-19",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 294,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 958.4
    }
   },
   "2026-11-19-2-quiz": {
@@ -34,13 +69,13 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 289,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1034.1
+    "views": 309,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1205.8
    },
    "youtube": {
-    "views": 5,
-    "likes": 0,
+    "views": 41,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 17,
+    "reach": 19,
     "saved": 0,
     "shares": 0,
-    "views": 31,
+    "views": 35,
     "total_interactions": 0,
-    "avg_watch_s": 7.4,
-    "watch_time_s": 147.0
+    "avg_watch_s": 7.1,
+    "watch_time_s": 157.1
    },
    "facebook": {
     "likes": 0,
@@ -99,7 +134,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 66,
+    "views": 69,
     "likes": 1,
     "comments": 0
    }
@@ -122,8 +157,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 92,
-    "likes": 3,
+    "views": 99,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -139,9 +174,9 @@
    "facebook": {
     "likes": 7,
     "comments": 2,
-    "views": 1078,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 4667.9
+    "views": 1090,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 4780.0
    }
   },
   "2026-11-18-6-truefalse": {
@@ -161,10 +196,10 @@
     "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 20,
+    "views": 22,
     "total_interactions": 1,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 66.9
+    "avg_watch_s": 5.2,
+    "watch_time_s": 67.5
    },
    "facebook": {
     "likes": 2,
@@ -174,7 +209,7 @@
     "watch_time_s": 1116.0
    },
    "youtube": {
-    "views": 174,
+    "views": 178,
     "likes": 2,
     "comments": 0
    }
@@ -226,7 +261,7 @@
     "watch_time_s": 916.8
    },
    "youtube": {
-    "views": 87,
+    "views": 95,
     "likes": 1,
     "comments": 0
    }
@@ -261,12 +296,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 299,
+    "views": 300,
     "avg_watch_s": 5.3,
-    "watch_time_s": 1225.4
+    "watch_time_s": 1234.6
    },
    "youtube": {
-    "views": 133,
+    "views": 134,
     "likes": 0,
     "comments": 0
    }
@@ -418,7 +453,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 290,
+    "views": 293,
     "avg_watch_s": 5.0,
     "watch_time_s": 1070.5
    }
@@ -569,7 +604,7 @@
    },
    "youtube": {
     "views": 7,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
