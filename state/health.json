@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-19T02:34:38+00:00",
- "date": "2026-11-18",
+ "updated_at": "2026-11-19T09:04:30+00:00",
+ "date": "2026-11-19",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
@@ -16,29 +16,29 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 546,
-   "days_left": 546,
+   "fresh": 544,
+   "days_left": 544,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 436,
+   "fresh": 435,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 875,
-   "days_left": 97,
+   "fresh": 866,
+   "days_left": 96,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 918,
-   "days_left": 102,
+   "fresh": 909,
+   "days_left": 101,
    "warn": false
   },
   {
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-18-10-truefalse",
-   "date": "2026-11-18",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-18T21:26",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-19T00:30:50+00:00",
-    "stories": "2026-11-19T00:32:22+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1522939246313964",
-    "stories": "story 18459773209193531"
-   },
-   "title": "Quantos dias Jesus ficou com os samaritanos que creram nele?"
-  },
-  {
-   "id": "2026-11-18-9-quiz",
-   "date": "2026-11-18",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-18T19:56",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-18T23:00:34+00:00",
-    "instagram": "2026-11-18T23:01:11+00:00",
-    "facebook": "2026-11-18T23:01:16+00:00",
-    "stories": "2026-11-18T23:01:48+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/02kS2CGZC8g",
-    "instagram": "https://www.instagram.com/reel/Df5ovYWlRZJ/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1630031711341693",
-    "stories": "story 18112703435266024"
-   },
-   "title": "A quem os olhos dos servos se voltam?"
-  },
-  {
-   "id": "2026-11-18-8-truefalse",
-   "date": "2026-11-18",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-18T18:38",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-18T21:40:37+00:00",
-    "instagram": null,
-    "facebook": "2026-11-18T21:40:42+00:00",
-    "stories": "2026-11-18T21:41:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/XtH_wd-mvB0",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1666221108246547",
-    "stories": "story 17889881913498503"
-   },
-   "title": "O que os discípulos viram ao descer em terra, depois da pesca milagrosa em João 21?"
-  },
-  {
-   "id": "2026-11-18-7-quiz",
-   "date": "2026-11-18",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-18T16:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-18T19:55:44+00:00",
-    "stories": "2026-11-18T19:56:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1458189089603039",
-    "stories": "story 18100194350448204"
-   },
-   "title": "Em que a mãe de Moisés colocou o bebê no rio?"
-  },
-  {
-   "id": "2026-11-18-6-truefalse",
-   "date": "2026-11-18",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-18T14:50",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-18T17:50:39+00:00",
-    "instagram": "2026-11-18T17:51:12+00:00",
-    "facebook": "2026-11-18T17:51:16+00:00",
-    "stories": "2026-11-18T17:51:47+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Ny_Y-qkhx3E",
-    "instagram": "https://www.instagram.com/reel/Df5FRihgJDg/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2034538167241451",
-    "stories": "story 18400597489163481"
-   },
-   "title": "O que Jesus mandou Pedro fazer com os seus cordeiros?"
-  },
-  {
-   "id": "2026-11-18-5-quiz",
-   "date": "2026-11-18",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-18T13:20",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-18T16:20:38+00:00",
-    "stories": "2026-11-18T16:21:43+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2280607415817407",
-    "stories": "story 18334836409302820"
-   },
-   "title": "Em que lugar Mefibosete morava antes de ser chamado por Davi?"
-  },
-  {
-   "id": "2026-11-18-4-quiz",
-   "date": "2026-11-18",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-18T12:10",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-18T15:10:40+00:00",
-    "instagram": "2026-11-18T15:11:14+00:00",
-    "facebook": "2026-11-18T15:11:19+00:00",
-    "stories": "2026-11-18T15:11:59+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/utrfLG4TuA8",
-    "instagram": "https://www.instagram.com/reel/Df4y9v6j2ZF/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1128939573286161",
-    "stories": "story 18132735127888869"
-   },
-   "title": "Quantos filhos e filhas Jó tinha?"
-  },
-  {
-   "id": "2026-11-18-3-truefalse",
-   "date": "2026-11-18",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-18T09:56",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-18T13:00:45+00:00",
-    "stories": "2026-11-18T13:01:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1132355766433819",
-    "stories": "story 18101486168419449"
-   },
-   "title": "O que estava escrito no rolo que Ezequiel viu?"
-  },
-  {
-   "id": "2026-11-18-2-quiz",
-   "date": "2026-11-18",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-18T07:55",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-18T10:55:47+00:00",
-    "instagram": null,
-    "facebook": "2026-11-18T10:55:51+00:00",
-    "stories": "2026-11-18T10:56:26+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/ZF1goe3P-qk",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1148584761248648",
-    "stories": "story 18473949958187833"
-   },
-   "title": "Que nome José deveria dar ao filho de Maria, 'pois ele salvará o seu povo dos pecados'?"
-  },
-  {
-   "id": "2026-11-18-1-verse",
-   "date": "2026-11-18",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-18T06:24",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-18T09:26:05+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18122403052957727"
-   },
-   "title": "Salmos 118:24"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
