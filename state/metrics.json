@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-19T09:04:26+00:00",
+ "updated_at": "2026-11-19T09:45:45+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-1-verse": {
+   "type": "verse",
+   "date": "2026-11-19",
+   "time": "06:30",
+   "title": "Salmos 19:7",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-18-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-18",
@@ -93,7 +101,7 @@
     "comments": 2,
     "views": 1022,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4335.2
+    "watch_time_s": 4337.5
    }
   },
   "2026-11-18-6-truefalse": {
@@ -301,7 +309,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 395,
+    "views": 396,
     "likes": 1,
     "comments": 0
    }
