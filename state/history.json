@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-19-9-quiz",
+   "date": "2026-11-19",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-19T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-19T08:37:27+00:00",
+   "source": "bank",
+   "bank_id": "q417",
+   "model": null,
+   "content": {
+    "ref": "1 Crônicas 21:1",
+    "ref_label": "1 Crônicas 21:1",
+    "question": "Quem incitou Davi a fazer um censo de Israel?",
+    "options": [
+     "Natã",
+     "Absalão",
+     "Joabe",
+     "Satanás"
+    ],
+    "answer": 3,
+    "evidence": "Satanás se levantou contra Israel",
+    "passage": "Satanás se levantou contra Israel e incitou Davi a fazer um censo de Israel.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuem incitou Davi a fazer um censo de Israel?\n\nA) Natã\nB) Absalão\nC) Joabe\nD) Satanás\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus #gospel #desafio #cristao #palavradedeus #biblia #jesus #teste #perguntasbiblicas",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuem incitou Davi a fazer um censo de Israel?\n\nA) Natã\nB) Absalão\nC) Joabe\nD) Satanás\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #perguntasbiblicas",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #teste #cristao",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #gospel #fe",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuem incitou Davi a fazer um censo de Israel?\n\nA) Natã\nB) Absalão\nC) Joabe\nD) Satanás\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Quem incitou Davi a fazer um censo de Israel? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuem incitou Davi a fazer um censo de Israel?\n\nA) Natã\nB) Absalão\nC) Joabe\nD) Satanás\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #perguntasbiblicas",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 crônicas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-19T23:00:36+00:00",
+    "instagram": "2026-11-19T23:01:46+00:00",
+    "facebook": "2026-11-19T23:01:52+00:00",
+    "stories": "2026-11-19T23:02:25+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/irbf-FPJX1I",
+    "instagram": "https://www.instagram.com/reel/Df8Nmrnlg14/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1824385692036858",
+    "stories": "story 18024854147929430"
+   }
+  },
+  {
    "id": "2026-11-19-8-truefalse",
    "date": "2026-11-19",
    "slot": 8,
