@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-19T15:01:40+00:00",
+ "updated_at": "2026-11-19T16:46:41+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "13:30",
+   "title": "No cântico dos anjos, o que haveria na terra?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2197742901143137"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 2,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-19-4-quiz": {
    "type": "quiz",
    "date": "2026-11-19",
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 294,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 958.4
+    "views": 371,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1250.3
    }
   },
   "2026-11-19-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 309,
+    "views": 331,
     "avg_watch_s": 5.0,
-    "watch_time_s": 1205.8
+    "watch_time_s": 1281.4
    },
    "youtube": {
-    "views": 41,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 19,
+    "reach": 20,
     "saved": 0,
     "shares": 0,
     "views": 35,
     "total_interactions": 0,
-    "avg_watch_s": 7.1,
-    "watch_time_s": 157.1
+    "avg_watch_s": 7.2,
+    "watch_time_s": 164.5
    },
    "facebook": {
     "likes": 0,
@@ -157,7 +174,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 99,
+    "views": 104,
     "likes": 4,
     "comments": 0
    }
@@ -174,9 +191,9 @@
    "facebook": {
     "likes": 7,
     "comments": 2,
-    "views": 1090,
+    "views": 1103,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4780.0
+    "watch_time_s": 4824.5
    }
   },
   "2026-11-18-6-truefalse": {
@@ -193,13 +210,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 14,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
     "views": 22,
     "total_interactions": 1,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 67.5
+    "avg_watch_s": 4.8,
+    "watch_time_s": 67.8
    },
    "facebook": {
     "likes": 2,
@@ -209,7 +226,7 @@
     "watch_time_s": 1116.0
    },
    "youtube": {
-    "views": 178,
+    "views": 188,
     "likes": 2,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 916.8
    },
    "youtube": {
-    "views": 95,
+    "views": 102,
     "likes": 1,
     "comments": 0
    }
@@ -301,7 +318,7 @@
     "watch_time_s": 1234.6
    },
    "youtube": {
-    "views": 134,
+    "views": 137,
     "likes": 0,
     "comments": 0
    }
@@ -384,7 +401,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 400,
+    "views": 402,
     "likes": 1,
     "comments": 0
    }
@@ -454,8 +471,8 @@
     "likes": 2,
     "comments": 0,
     "views": 293,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1070.5
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1093.4
    }
   },
   "2026-11-17-4-quiz": {
@@ -603,7 +620,7 @@
     "youtube": "https://youtube.com/shorts/Di9SsMI5UOM"
    },
    "youtube": {
-    "views": 7,
+    "views": 8,
     "likes": 1,
     "comments": 0
    }
@@ -1724,7 +1741,7 @@
    "facebook": {
     "likes": 24,
     "comments": 2,
-    "views": 2262,
+    "views": 2263,
     "avg_watch_s": 5.3,
     "watch_time_s": 8770.9
    }
