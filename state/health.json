@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T18:05:58+00:00",
+ "updated_at": "2026-11-19T20:15:53+00:00",
  "date": "2026-11-19",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-19-7-quiz",
+   "date": "2026-11-19",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-19T17:09",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-19T20:10:34+00:00",
+    "stories": "2026-11-19T20:11:06+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136974585733334",
+    "stories": "story 17978464158130560"
+   },
+   "title": "Qual era o nome da outra mulher de Elcana, que tinha filhos?"
+  },
   {
    "id": "2026-11-19-6-truefalse",
    "date": "2026-11-19",
