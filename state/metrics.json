@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-19T20:31:40+00:00",
+ "updated_at": "2026-11-19T21:44:16+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "title": "Deus constituiu Ezequiel como o quê para a casa de Israel?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/z3DLWtDw_oI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1781963986367080"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-19-7-quiz": {
    "type": "quiz",
    "date": "2026-11-19",
@@ -14,11 +37,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1136974585733334"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 26,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 273,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 911.4
    }
   },
   "2026-11-19-6-truefalse": {
@@ -35,23 +58,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 22.9,
-    "watch_time_s": 45.9
+    "avg_watch_s": 10.1,
+    "watch_time_s": 50.6
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 317,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1094.9
+    "views": 322,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1106.5
    },
    "youtube": {
-    "views": 0,
+    "views": 45,
     "likes": 0,
     "comments": 0
    }
@@ -70,7 +93,7 @@
     "comments": 0,
     "views": 295,
     "avg_watch_s": 4.2,
-    "watch_time_s": 982.7
+    "watch_time_s": 994.5
    }
   },
   "2026-11-19-4-quiz": {
@@ -87,13 +110,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 2,
     "total_interactions": 0,
     "avg_watch_s": 1.2,
-    "watch_time_s": 1.2
+    "watch_time_s": 2.4
    },
    "facebook": {
     "likes": 0,
@@ -120,9 +143,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 482,
+    "views": 499,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1653.9
+    "watch_time_s": 1706.3
    }
   },
   "2026-11-19-2-quiz": {
@@ -138,12 +161,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 354,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 1416.6
+    "views": 366,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1498.8
    },
    "youtube": {
-    "views": 58,
+    "views": 62,
     "likes": 1,
     "comments": 0
    }
@@ -243,9 +266,9 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1125,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 4957.7
+    "views": 1132,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 5093.5
    }
   },
   "2026-11-18-6-truefalse": {
@@ -2215,7 +2238,7 @@
    },
    "youtube": {
     "views": 20,
-    "likes": 1,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -2419,7 +2442,7 @@
    },
    "youtube": {
     "views": 104,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -2434,7 +2457,7 @@
    },
    "youtube": {
     "views": 114,
-    "likes": 1,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -2662,7 +2685,7 @@
    },
    "youtube": {
     "views": 125,
-    "likes": 3,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -2866,7 +2889,7 @@
    },
    "youtube": {
     "views": 125,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -3085,7 +3108,7 @@
    },
    "youtube": {
     "views": 69,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -3304,7 +3327,7 @@
    },
    "youtube": {
     "views": 18,
-    "likes": 1,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -3319,7 +3342,7 @@
    },
    "youtube": {
     "views": 59,
-    "likes": 1,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -3523,7 +3546,7 @@
    },
    "youtube": {
     "views": 114,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -3538,7 +3561,7 @@
    },
    "youtube": {
     "views": 58,
-    "likes": 1,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -3642,7 +3665,7 @@
    },
    "youtube": {
     "views": 123,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -3809,7 +3832,7 @@
    },
    "youtube": {
     "views": 285,
-    "likes": 2,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -4527,7 +4550,7 @@
    },
    "youtube": {
     "views": 133,
-    "likes": 4,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -5124,7 +5147,7 @@
     "watch_time_s": 218.0
    },
    "facebook": {
-    "likes": 4,
+    "likes": 3,
     "comments": 1,
     "views": 728,
     "avg_watch_s": 6.2,
@@ -6885,7 +6908,7 @@
     "watch_time_s": 11.3
    },
    "facebook": {
-    "likes": 16,
+    "likes": 15,
     "comments": 3,
     "views": 2161,
     "avg_watch_s": 6.3,
@@ -8514,9 +8537,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 806,
+    "views": 807,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1929.0
+    "watch_time_s": 1930.1
    },
    "youtube": {
     "views": 7,
