@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-19T18:05:53+00:00",
+ "updated_at": "2026-11-19T20:15:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-19",
+   "time": "17:00",
+   "title": "Qual era o nome da outra mulher de Elcana, que tinha filhos?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1136974585733334"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-19-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-19",
@@ -18,20 +35,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 22.9,
+    "watch_time_s": 45.9
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 316,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1094.9
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 291,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 933.5
+    "views": 293,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 982.7
    }
   },
   "2026-11-19-4-quiz": {
@@ -86,7 +103,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 27,
+    "views": 29,
     "likes": 1,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 428,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1450.2
+    "views": 479,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1653.9
    }
   },
   "2026-11-19-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 335,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1312.3
+    "views": 349,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1398.3
    },
    "youtube": {
-    "views": 54,
+    "views": 58,
     "likes": 1,
     "comments": 0
    }
@@ -170,13 +187,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 35,
+    "views": 41,
     "total_interactions": 0,
-    "avg_watch_s": 7.2,
-    "watch_time_s": 164.5
+    "avg_watch_s": 6.9,
+    "watch_time_s": 166.6
    },
    "facebook": {
     "likes": 0,
@@ -186,7 +203,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 79,
+    "views": 87,
     "likes": 1,
     "comments": 0
    }
@@ -209,7 +226,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 105,
+    "views": 111,
     "likes": 4,
     "comments": 0
    }
@@ -226,9 +243,9 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1108,
+    "views": 1125,
     "avg_watch_s": 5.8,
-    "watch_time_s": 4849.4
+    "watch_time_s": 4957.7
    }
   },
   "2026-11-18-6-truefalse": {
@@ -261,7 +278,7 @@
     "watch_time_s": 1121.3
    },
    "youtube": {
-    "views": 195,
+    "views": 210,
     "likes": 2,
     "comments": 0
    }
@@ -308,12 +325,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 267,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 918.8
+    "views": 279,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 955.0
    },
    "youtube": {
-    "views": 109,
+    "views": 112,
     "likes": 1,
     "comments": 0
    }
@@ -348,12 +365,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 300,
+    "views": 301,
     "avg_watch_s": 5.3,
-    "watch_time_s": 1234.6
+    "watch_time_s": 1236.8
    },
    "youtube": {
-    "views": 137,
+    "views": 141,
     "likes": 0,
     "comments": 0
    }
@@ -413,7 +430,7 @@
     "watch_time_s": 10.6
    },
    "youtube": {
-    "views": 78,
+    "views": 79,
     "likes": 0,
     "comments": 0
    }
@@ -436,7 +453,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 402,
+    "views": 404,
     "likes": 1,
     "comments": 0
    }
@@ -488,7 +505,7 @@
     "watch_time_s": 1003.6
    },
    "youtube": {
-    "views": 57,
+    "views": 58,
     "likes": 0,
     "comments": 0
    }
@@ -540,7 +557,7 @@
     "watch_time_s": 913.7
    },
    "youtube": {
-    "views": 62,
+    "views": 63,
     "likes": 0,
     "comments": 0
    }
@@ -799,7 +816,7 @@
     "watch_time_s": 1589.2
    },
    "youtube": {
-    "views": 48,
+    "views": 47,
     "likes": 0,
     "comments": 0
    }
@@ -1102,7 +1119,7 @@
     "youtube": "https://youtube.com/shorts/E7HIlA-XXAA"
    },
    "youtube": {
-    "views": 56,
+    "views": 57,
     "likes": 1,
     "comments": 0
    }
@@ -1587,9 +1604,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 344,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1226.8
+    "views": 345,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1227.5
    },
    "youtube": {
     "views": 1,
@@ -1778,7 +1795,7 @@
     "comments": 2,
     "views": 2265,
     "avg_watch_s": 5.3,
-    "watch_time_s": 8774.4
+    "watch_time_s": 8782.7
    }
   },
   "2026-11-11-6-truefalse": {
@@ -2077,9 +2094,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1686,
+    "views": 1687,
     "avg_watch_s": 7.5,
-    "watch_time_s": 8961.3
+    "watch_time_s": 8962.2
    },
    "youtube": {
     "views": 4,
