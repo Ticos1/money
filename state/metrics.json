@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-20T20:15:51+00:00",
+ "updated_at": "2026-11-20T21:35:05+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-20-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "title": "Jesus disse: 'Pai, nas tuas mãos entrego o meu...'",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/0aOGK0SAXmw",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1637938994744275"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-20-7-quiz": {
    "type": "quiz",
    "date": "2026-11-20",
@@ -35,20 +58,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 9,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.1,
+    "watch_time_s": 8.3
    },
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1137,
+    "views": 1213,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4494.2
+    "watch_time_s": 4865.9
    },
    "youtube": {
     "views": 0,
@@ -68,9 +91,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 295,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1011.9
+    "views": 307,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1049.0
    }
   },
   "2026-11-20-4-quiz": {
@@ -87,20 +110,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 18,
+    "reach": 20,
     "saved": 0,
     "shares": 0,
-    "views": 21,
+    "views": 24,
     "total_interactions": 0,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 60.0
+    "avg_watch_s": 3.7,
+    "watch_time_s": 73.4
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 458,
+    "views": 460,
     "avg_watch_s": 3.9,
-    "watch_time_s": 1432.4
+    "watch_time_s": 1445.4
    },
    "youtube": {
     "views": 0,
@@ -120,9 +143,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 323,
+    "views": 324,
     "avg_watch_s": 3.5,
-    "watch_time_s": 942.7
+    "watch_time_s": 944.0
    }
   },
   "2026-11-20-2-quiz": {
@@ -138,7 +161,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 249,
+    "views": 250,
     "avg_watch_s": 4.2,
     "watch_time_s": 797.6
    },
@@ -187,13 +210,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 37,
+    "reach": 38,
     "saved": 0,
     "shares": 0,
-    "views": 55,
+    "views": 58,
     "total_interactions": 0,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 180.9
+    "avg_watch_s": 4.7,
+    "watch_time_s": 186.5
    },
    "facebook": {
     "likes": 0,
@@ -273,9 +296,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 341,
+    "views": 344,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1175.0
+    "watch_time_s": 1177.2
    },
    "youtube": {
     "views": 234,
@@ -2488,9 +2511,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 301,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1196.4
+    "views": 303,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 1197.7
    },
    "youtube": {
     "views": 66,
