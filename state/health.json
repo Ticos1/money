@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-20T16:28:21+00:00",
+ "updated_at": "2026-11-20T18:06:44+00:00",
  "date": "2026-11-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-20-6-truefalse",
+   "date": "2026-11-20",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-20T15:00",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-20T18:00:49+00:00",
+    "instagram": "2026-11-20T18:01:28+00:00",
+    "facebook": "2026-11-20T18:01:34+00:00",
+    "stories": "2026-11-20T18:02:07+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/igfI24l-wyM",
+    "instagram": "https://www.instagram.com/reel/Df-QBwxDKBv/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1596231719057157",
+    "stories": "story 17917700493550584"
+   },
+   "title": "O que José de Arimateia pediu a Pilatos?"
+  },
   {
    "id": "2026-11-20-5-quiz",
    "date": "2026-11-20",
