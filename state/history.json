@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-20-9-quiz",
+   "date": "2026-11-20",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-20T20:03",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-20T08:24:30+00:00",
+   "source": "bank",
+   "bank_id": "q747",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 18:44",
+    "ref_label": "1 Reis 18:44",
+    "question": "De que tamanho era a nuvem que o servo de Elias viu subindo do mar?",
+    "options": [
+     "Da mão de um homem",
+     "De uma montanha",
+     "De uma tenda",
+     "De um carro"
+    ],
+    "answer": 0,
+    "evidence": "do tamanho da mão de um homem",
+    "passage": "Na sétima vez, ele disse: “Eis que uma pequena nuvem, do tamanho da mão de um homem, está subindo do mar.” Ele disse: “Suba, diga a Acabe: 'Prepare-se e desça, para que a chuva não o detenha.'”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nDe que tamanho era a nuvem que o servo de Elias viu subindo do mar?\n\nA) Da mão de um homem\nB) De uma montanha\nC) De uma tenda\nD) De um carro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #conhecimentobiblico #perguntasbiblicas #gospel #jesus #desafio #cristao #fe #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nDe que tamanho era a nuvem que o servo de Elias viu subindo do mar?\n\nA) Da mão de um homem\nB) De uma montanha\nC) De uma tenda\nD) De um carro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #desafio",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #perguntasbiblicas #fe",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #perguntasbiblicas",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nDe que tamanho era a nuvem que o servo de Elias viu subindo do mar?\n\nA) Da mão de um homem\nB) De uma montanha\nC) De uma tenda\nD) De um carro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "De que tamanho era a nuvem que o servo de Elias viu subindo do mar? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nDe que tamanho era a nuvem que o servo de Elias viu subindo do mar?\n\nA) Da mão de um homem\nB) De uma montanha\nC) De uma tenda\nD) De um carro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #cristao",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-20T23:05:48+00:00",
+    "instagram": "2026-11-20T23:06:18+00:00",
+    "facebook": "2026-11-20T23:06:22+00:00",
+    "stories": "2026-11-20T23:06:55+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/4nnHyIbiKGU",
+    "instagram": "https://www.instagram.com/reel/Df-y7hRgUW_/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1834758317797298",
+    "stories": "story 18116225558272693"
+   }
+  },
+  {
    "id": "2026-11-20-8-truefalse",
    "date": "2026-11-20",
    "slot": 8,
