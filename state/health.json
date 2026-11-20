@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T15:12:49+00:00",
+ "updated_at": "2026-11-20T16:28:21+00:00",
  "date": "2026-11-20",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-20-5-quiz",
+   "date": "2026-11-20",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-20T13:23",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-20T16:25:49+00:00",
+    "stories": "2026-11-20T16:26:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1414053843816972",
+    "stories": "story 18094974797208686"
+   },
+   "title": "O que aconteceu com Corá e seus homens na rebelião contra Moisés?"
+  },
   {
    "id": "2026-11-20-4-quiz",
    "date": "2026-11-20",
