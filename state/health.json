@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-20T09:30:35+00:00",
+ "updated_at": "2026-11-20T10:55:53+00:00",
  "date": "2026-11-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-20-2-quiz",
+   "date": "2026-11-20",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-20T07:50",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-20T10:50:41+00:00",
+    "instagram": null,
+    "facebook": "2026-11-20T10:50:47+00:00",
+    "stories": "2026-11-20T10:51:21+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/A2mJsvc0Hig",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1013360687791544",
+    "stories": "story 18162944947506380"
+   },
+   "title": "Qual cidade Davi tomou dos filisteus em 1 Crônicas 18?"
+  },
   {
    "id": "2026-11-20-1-verse",
    "date": "2026-11-20",
