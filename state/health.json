@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T20:08:46+00:00",
+ "updated_at": "2026-11-20T20:15:55+00:00",
  "date": "2026-11-20",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-20-7-quiz",
+   "date": "2026-11-20",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-20T17:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-20T20:10:41+00:00",
+    "stories": "2026-11-20T20:11:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/30188462994074987",
+    "stories": "story 18433315993151296"
+   },
+   "title": "Quantas cidades Jair tinha?"
+  },
   {
    "id": "2026-11-20-6-truefalse",
    "date": "2026-11-20",
