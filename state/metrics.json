@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-20T21:35:05+00:00",
+ "updated_at": "2026-11-20T23:11:11+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-20-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "title": "De que tamanho era a nuvem que o servo de Elias viu subindo do mar?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/4nnHyIbiKGU",
+    "instagram": "https://www.instagram.com/reel/Df-y7hRgUW_/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1834758317797298"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-20-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-20",
@@ -22,7 +57,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 32,
     "likes": 0,
     "comments": 0
    }
@@ -58,24 +93,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 28,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 39,
     "total_interactions": 0,
-    "avg_watch_s": 2.1,
-    "watch_time_s": 8.3
+    "avg_watch_s": 3.8,
+    "watch_time_s": 111.3
    },
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1213,
+    "views": 1232,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4865.9
+    "watch_time_s": 4906.2
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 21,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -91,9 +126,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 307,
+    "views": 312,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1049.0
+    "watch_time_s": 1058.5
    }
   },
   "2026-11-20-4-quiz": {
@@ -110,18 +145,18 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 20,
+    "reach": 26,
     "saved": 0,
     "shares": 0,
-    "views": 24,
+    "views": 34,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 73.4
+    "avg_watch_s": 3.2,
+    "watch_time_s": 86.5
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 460,
+    "views": 462,
     "avg_watch_s": 3.9,
     "watch_time_s": 1445.4
    },
@@ -143,9 +178,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 324,
+    "views": 325,
     "avg_watch_s": 3.5,
-    "watch_time_s": 944.0
+    "watch_time_s": 949.6
    }
   },
   "2026-11-20-2-quiz": {
@@ -161,9 +196,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 250,
+    "views": 251,
     "avg_watch_s": 4.2,
-    "watch_time_s": 797.6
+    "watch_time_s": 802.5
    },
    "youtube": {
     "views": 30,
@@ -210,13 +245,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 38,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 58,
+    "views": 66,
     "total_interactions": 0,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 186.5
+    "avg_watch_s": 5.0,
+    "watch_time_s": 236.2
    },
    "facebook": {
     "likes": 0,
@@ -226,7 +261,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 131,
+    "views": 132,
     "likes": 5,
     "comments": 0
    }
@@ -249,7 +284,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 64,
+    "views": 69,
     "likes": 1,
     "comments": 0
    }
@@ -298,10 +333,10 @@
     "comments": 0,
     "views": 344,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1177.2
+    "watch_time_s": 1183.7
    },
    "youtube": {
-    "views": 234,
+    "views": 235,
     "likes": 0,
     "comments": 0
    }
@@ -370,9 +405,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 528,
+    "views": 529,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1846.6
+    "watch_time_s": 1847.3
    }
   },
   "2026-11-19-2-quiz": {
@@ -393,7 +428,7 @@
     "watch_time_s": 1813.4
    },
    "youtube": {
-    "views": 93,
+    "views": 94,
     "likes": 1,
     "comments": 0
    }
@@ -453,7 +488,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 152,
+    "views": 155,
     "likes": 1,
     "comments": 0
    }
@@ -476,7 +511,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 152,
+    "views": 157,
     "likes": 5,
     "comments": 0
    }
@@ -939,7 +974,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 288,
+    "views": 291,
     "avg_watch_s": 4.2,
     "watch_time_s": 989.6
    }
@@ -1308,7 +1343,7 @@
     "youtube": "https://youtu.be/hlQ_eDr3rmw"
    },
    "youtube": {
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -5229,7 +5264,7 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1153769400324427"
    },
    "facebook": {
-    "likes": 8,
+    "likes": 7,
     "comments": 0,
     "views": 1443,
     "avg_watch_s": 6.2,
@@ -5565,9 +5600,9 @@
    "facebook": {
     "likes": 8,
     "comments": 1,
-    "views": 1366,
+    "views": 1368,
     "avg_watch_s": 5.8,
-    "watch_time_s": 5885.1
+    "watch_time_s": 5902.4
    }
   },
   "2026-10-26-6-truefalse": {
