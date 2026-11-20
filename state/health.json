@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-20T02:20:32+00:00",
- "date": "2026-11-19",
+ "updated_at": "2026-11-20T09:02:17+00:00",
+ "date": "2026-11-20",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 2,
+  "used": 3,
   "max": 20,
   "enabled": true
  },
@@ -16,8 +16,8 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 544,
-   "days_left": 544,
+   "fresh": 543,
+   "days_left": 543,
    "warn": false
   },
   {
@@ -30,273 +30,25 @@
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 866,
-   "days_left": 96,
+   "fresh": 859,
+   "days_left": 95,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 909,
-   "days_left": 101,
+   "fresh": 902,
+   "days_left": 100,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 0,
-   "fresh": 217,
+   "fresh": 215,
    "days_left": null,
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-19-10-truefalse",
-   "date": "2026-11-19",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-19T21:25",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-20T00:25:49+00:00",
-    "stories": "2026-11-20T00:26:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2722004391590277",
-    "stories": "story 18138077503677765"
-   },
-   "title": "O que ocultou Jesus dos olhos dos discípulos quando ele foi elevado ao céu?"
-  },
-  {
-   "id": "2026-11-19-9-quiz",
-   "date": "2026-11-19",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-19T19:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-19T23:00:36+00:00",
-    "instagram": "2026-11-19T23:01:46+00:00",
-    "facebook": "2026-11-19T23:01:52+00:00",
-    "stories": "2026-11-19T23:02:25+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/irbf-FPJX1I",
-    "instagram": "https://www.instagram.com/reel/Df8Nmrnlg14/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1824385692036858",
-    "stories": "story 18024854147929430"
-   },
-   "title": "Quem incitou Davi a fazer um censo de Israel?"
-  },
-  {
-   "id": "2026-11-19-8-truefalse",
-   "date": "2026-11-19",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-19T18:37",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-19T21:40:32+00:00",
-    "instagram": null,
-    "facebook": "2026-11-19T21:40:37+00:00",
-    "stories": "2026-11-19T21:41:10+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/z3DLWtDw_oI",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1781963986367080",
-    "stories": "story 18647434513008297"
-   },
-   "title": "Deus constituiu Ezequiel como o quê para a casa de Israel?"
-  },
-  {
-   "id": "2026-11-19-7-quiz",
-   "date": "2026-11-19",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-19T17:09",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-19T20:10:34+00:00",
-    "stories": "2026-11-19T20:11:06+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1136974585733334",
-    "stories": "story 17978464158130560"
-   },
-   "title": "Qual era o nome da outra mulher de Elcana, que tinha filhos?"
-  },
-  {
-   "id": "2026-11-19-6-truefalse",
-   "date": "2026-11-19",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-19T14:56",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-19T18:00:49+00:00",
-    "instagram": "2026-11-19T18:01:25+00:00",
-    "facebook": "2026-11-19T18:01:29+00:00",
-    "stories": "2026-11-19T18:02:03+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/j7TameRx8Lg",
-    "instagram": "https://www.instagram.com/reel/Df7rO0oH_ad/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1836335747511115",
-    "stories": "story 18118740290017149"
-   },
-   "title": "Pela fé, qual mulher não pereceu com os desobedientes?"
-  },
-  {
-   "id": "2026-11-19-5-quiz",
-   "date": "2026-11-19",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-19T13:38",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-19T16:40:36+00:00",
-    "stories": "2026-11-19T16:41:07+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2197742901143137",
-    "stories": "story 17883677538547924"
-   },
-   "title": "No cântico dos anjos, o que haveria na terra?"
-  },
-  {
-   "id": "2026-11-19-4-quiz",
-   "date": "2026-11-19",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-19T11:55",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-19T14:55:40+00:00",
-    "instagram": "2026-11-19T14:56:15+00:00",
-    "facebook": "2026-11-19T14:56:20+00:00",
-    "stories": "2026-11-19T14:57:09+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/fq7UmiAW-eY",
-    "instagram": "https://www.instagram.com/reel/Df7WCtNlE9F/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1609964257836542",
-    "stories": "story 18029101436704005"
-   },
-   "title": "Segundo o Salmo 121, o que o guarda de Israel nunca faz?"
-  },
-  {
-   "id": "2026-11-19-3-truefalse",
-   "date": "2026-11-19",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-19T09:58",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-19T13:00:44+00:00",
-    "stories": "2026-11-19T13:01:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1716974919806135",
-    "stories": "story 18359178184170522"
-   },
-   "title": "Que alimentos do Egito o povo lembrava com saudade no deserto?"
-  },
-  {
-   "id": "2026-11-19-2-quiz",
-   "date": "2026-11-19",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-19T08:00",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-19T11:00:42+00:00",
-    "instagram": null,
-    "facebook": "2026-11-19T11:00:47+00:00",
-    "stories": "2026-11-19T11:01:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/BWR5XS-R8OY",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1615525959817077",
-    "stories": "story 18006026270827619"
-   },
-   "title": "Qual palavra indica o destino do profeta que incita à idolatria em Deuteronômio 13:5?"
-  },
-  {
-   "id": "2026-11-19-1-verse",
-   "date": "2026-11-19",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-19T06:39",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-19T09:41:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18104855567538890"
-   },
-   "title": "Salmos 19:7"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
