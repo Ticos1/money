@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-19T23:06:42+00:00",
+ "updated_at": "2026-11-20T00:31:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-19-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-19",
+   "time": "21:30",
+   "title": "O que ocultou Jesus dos olhos dos discípulos quando ele foi elevado ao céu?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2722004391590277"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-19-9-quiz": {
    "type": "quiz",
    "date": "2026-11-19",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 5.0,
+    "watch_time_s": 10.1
    },
    "facebook": {
     "likes": 0,
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 14,
     "likes": 0,
     "comments": 0
    }
@@ -57,8 +74,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 25,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -74,9 +91,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 273,
+    "views": 280,
     "avg_watch_s": 4.1,
-    "watch_time_s": 911.4
+    "watch_time_s": 926.0
    }
   },
   "2026-11-19-6-truefalse": {
@@ -93,23 +110,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 16,
     "total_interactions": 0,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 54.9
+    "avg_watch_s": 6.3,
+    "watch_time_s": 62.8
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 331,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1141.8
+    "views": 334,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1154.1
    },
    "youtube": {
-    "views": 76,
+    "views": 148,
     "likes": 0,
     "comments": 0
    }
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 296,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 995.1
+    "views": 299,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1014.4
    }
   },
   "2026-11-19-4-quiz": {
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 503,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1726.5
+    "views": 510,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1771.5
    }
   },
   "2026-11-19-2-quiz": {
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 377,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 1574.1
+    "views": 398,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 1688.3
    },
    "youtube": {
     "views": 67,
@@ -301,9 +318,9 @@
    "facebook": {
     "likes": 8,
     "comments": 2,
-    "views": 1136,
+    "views": 1142,
     "avg_watch_s": 6.0,
-    "watch_time_s": 5118.0
+    "watch_time_s": 5149.8
    }
   },
   "2026-11-18-6-truefalse": {
@@ -563,7 +580,7 @@
     "watch_time_s": 1003.6
    },
    "youtube": {
-    "views": 58,
+    "views": 60,
     "likes": 0,
     "comments": 0
    }
@@ -5742,7 +5759,7 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "youtube": {
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -8941,7 +8958,7 @@
     "watch_time_s": 1349.9
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 2,
     "comments": 0
    }
