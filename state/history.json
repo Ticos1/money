@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "id": "2026-11-20-8-truefalse",
+   "date": "2026-11-20",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-20T18:30",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-20T08:24:04+00:00",
+   "source": "bank",
+   "bank_id": "q526",
+   "model": null,
+   "content": {
+    "ref": "Lucas 23:46",
+    "ref_label": "Lucas 23:46",
+    "question": "Jesus disse: 'Pai, nas tuas mãos entrego o meu...'",
+    "shown": "Povo",
+    "is_true": false,
+    "correct": "Espírito",
+    "evidence": "nas tuas mãos entrego o meu espírito",
+    "passage": "Jesus, clamando em alta voz, disse: “Pai, nas tuas mãos entrego o meu espírito!” Tendo dito isso, ele expirou.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJesus disse: 'Pai, nas tuas mãos entrego o meu...'\nResposta: Povo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #desafiobiblico #perguntasbiblicas #palavradedeus #evangelico #conhecimentobiblico #deus #biblia #gospel #jesus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJesus disse: 'Pai, nas tuas mãos entrego o meu...'\nResposta: Povo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #perguntasbiblicas",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #jesus #gospel",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #fe #desafiobiblico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nJesus disse: 'Pai, nas tuas mãos entrego o meu...'\nResposta: Povo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nJesus disse: 'Pai, nas tuas mãos entrego o meu...'\nResposta: Povo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-20T21:30:46+00:00",
+    "instagram": null,
+    "facebook": "2026-11-20T21:30:49+00:00",
+    "stories": "2026-11-20T21:31:23+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/0aOGK0SAXmw",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1637938994744275",
+    "stories": "story 18081733133393887"
+   }
+  },
+  {
    "id": "2026-11-20-7-quiz",
    "date": "2026-11-20",
    "slot": 7,
