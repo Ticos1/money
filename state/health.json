@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T11:15:57+00:00",
+ "updated_at": "2026-11-21T13:00:17+00:00",
  "date": "2026-11-21",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-21-3-truefalse",
+   "date": "2026-11-21",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-21T09:54",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-21T12:55:44+00:00",
+    "stories": "2026-11-21T12:56:27+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2096685878400964",
+    "stories": "story 18120627761094893"
+   },
+   "title": "O que se rasgou em dois quando Jesus morreu?"
+  },
   {
    "id": "2026-11-21-2-quiz",
    "date": "2026-11-21",
