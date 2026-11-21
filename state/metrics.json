@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-20T23:11:11+00:00",
+ "updated_at": "2026-11-21T00:41:38+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-20-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-20",
+   "time": "21:30",
+   "title": "Em que árvore Absalão ficou preso pela cabeça?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1080557605003970"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-20-9-quiz": {
    "type": "quiz",
    "date": "2026-11-20",
@@ -16,15 +33,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1834758317797298"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 0,
+    "reach": 39,
     "saved": 0,
     "shares": 0,
-    "views": 0,
-    "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 88,
+    "total_interactions": 1,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 216.8
    },
    "facebook": {
     "likes": 0,
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 12,
     "likes": 0,
     "comments": 0
    }
@@ -57,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 32,
+    "views": 104,
     "likes": 0,
     "comments": 0
    }
@@ -93,24 +110,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 28,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
-    "views": 39,
+    "views": 50,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 111.3
+    "avg_watch_s": 4.0,
+    "watch_time_s": 140.9
    },
    "facebook": {
     "likes": 7,
     "comments": 0,
-    "views": 1232,
+    "views": 1248,
     "avg_watch_s": 5.5,
-    "watch_time_s": 4906.2
+    "watch_time_s": 4957.1
    },
    "youtube": {
-    "views": 21,
-    "likes": 2,
+    "views": 40,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 312,
+    "views": 313,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1058.5
+    "watch_time_s": 1061.1
    }
   },
   "2026-11-20-4-quiz": {
@@ -145,20 +162,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 26,
+    "reach": 40,
     "saved": 0,
     "shares": 0,
-    "views": 34,
+    "views": 54,
     "total_interactions": 0,
-    "avg_watch_s": 3.2,
-    "watch_time_s": 86.5
+    "avg_watch_s": 3.0,
+    "watch_time_s": 121.0
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
     "views": 462,
     "avg_watch_s": 3.9,
-    "watch_time_s": 1445.4
+    "watch_time_s": 1446.7
    },
    "youtube": {
     "views": 0,
@@ -178,7 +195,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 325,
+    "views": 326,
     "avg_watch_s": 3.5,
     "watch_time_s": 949.6
    }
@@ -201,7 +218,7 @@
     "watch_time_s": 802.5
    },
    "youtube": {
-    "views": 30,
+    "views": 31,
     "likes": 0,
     "comments": 0
    }
@@ -353,7 +370,7 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 306,
+    "views": 307,
     "avg_watch_s": 4.2,
     "watch_time_s": 1032.6
    }
@@ -975,8 +992,8 @@
     "likes": 1,
     "comments": 0,
     "views": 291,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 989.6
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1000.1
    }
   },
   "2026-11-16-6-truefalse": {
@@ -1078,9 +1095,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 271,
+    "views": 272,
     "avg_watch_s": 3.9,
-    "watch_time_s": 852.1
+    "watch_time_s": 856.1
    }
   },
   "2026-11-16-2-quiz": {
@@ -2885,7 +2902,7 @@
     "youtube": "https://youtu.be/Q7A3IDcg2xM"
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -2963,9 +2980,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 5,
+    "views": 6,
     "avg_watch_s": 0.9,
-    "watch_time_s": 4.3
+    "watch_time_s": 5.4
    }
   },
   "2026-11-07-6-truefalse": {
@@ -6047,9 +6064,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1720,
+    "views": 1721,
     "avg_watch_s": 6.0,
-    "watch_time_s": 7671.7
+    "watch_time_s": 7678.0
    }
   },
   "2026-10-24-6-truefalse": {
@@ -6453,7 +6470,7 @@
     "watch_time_s": 65.6
    },
    "youtube": {
-    "views": 45,
+    "views": 50,
     "likes": 2,
     "comments": 0
    }
