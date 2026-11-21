@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-21T10:57:53+00:00",
+ "updated_at": "2026-11-21T11:15:57+00:00",
  "date": "2026-11-21",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-21-2-quiz",
+   "date": "2026-11-21",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-21T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-21T11:10:46+00:00",
+    "instagram": null,
+    "facebook": "2026-11-21T11:10:52+00:00",
+    "stories": "2026-11-21T11:11:59+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/sjdJ-U65raI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1119649997604374",
+    "stories": "story 18099137660243604"
+   },
+   "title": "Segundo Lucas, qual destas mulheres contou aos apóstolos o que viu no sepulcro?"
+  },
   {
    "id": "2026-11-21-1-verse",
    "date": "2026-11-21",
