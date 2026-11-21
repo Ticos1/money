@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T19:11:41+00:00",
+ "updated_at": "2026-11-21T20:09:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,23 @@
     "comments": 0
    }
   },
+  "2026-11-21-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "title": "Qual palavra descreve o que Deus manifestou em Tito 2:11?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2260227204900444"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-21-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-21",
@@ -33,23 +50,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 21,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 26,
     "total_interactions": 0,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 28.4
+    "avg_watch_s": 4.6,
+    "watch_time_s": 92.3
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 282,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 982.3
+    "views": 301,
+    "avg_watch_s": 5.0,
+    "watch_time_s": 1102.8
    },
    "youtube": {
-    "views": 4,
+    "views": 0,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 286,
+    "views": 287,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1010.8
+    "watch_time_s": 1011.3
    }
   },
   "2026-11-21-4-quiz": {
@@ -85,23 +102,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
-    "views": 13,
+    "views": 28,
     "total_interactions": 0,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 28.4
+    "avg_watch_s": 6.8,
+    "watch_time_s": 102.7
    },
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 286,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 946.4
+    "views": 289,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 973.9
    },
    "youtube": {
-    "views": 49,
+    "views": 50,
     "likes": 0,
     "comments": 0
    }
@@ -118,7 +135,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 286,
+    "views": 288,
     "avg_watch_s": 3.9,
     "watch_time_s": 884.4
    }
@@ -136,9 +153,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 315,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1016.2
+    "views": 321,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1053.5
    },
    "youtube": {
     "views": 85,
@@ -201,7 +218,7 @@
     "watch_time_s": 4.8
    },
    "youtube": {
-    "views": 69,
+    "views": 71,
     "likes": 0,
     "comments": 0
    }
@@ -224,7 +241,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 166,
+    "views": 176,
     "likes": 0,
     "comments": 0
    }
@@ -364,8 +381,8 @@
     "likes": 1,
     "comments": 0,
     "views": 256,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 813.3
+    "avg_watch_s": 4.3,
+    "watch_time_s": 825.9
    },
    "youtube": {
     "views": 46,
@@ -451,7 +468,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 79,
+    "views": 80,
     "likes": 1,
     "comments": 0
    }
@@ -503,7 +520,7 @@
     "watch_time_s": 1183.7
    },
    "youtube": {
-    "views": 248,
+    "views": 249,
     "likes": 0,
     "comments": 0
    }
@@ -5140,9 +5157,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 1448,
+    "views": 1449,
     "avg_watch_s": 5.9,
-    "watch_time_s": 6104.5
+    "watch_time_s": 6105.0
    },
    "youtube": {
     "views": 192,
