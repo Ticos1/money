@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-21T10:57:49+00:00",
+ "updated_at": "2026-11-21T11:15:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-21-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-21",
+   "time": "08:00",
+   "title": "Segundo Lucas, qual destas mulheres contou aos apóstolos o que viu no sepulcro?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sjdJ-U65raI",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1119649997604374"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-21-1-verse": {
    "type": "verse",
    "date": "2026-11-21",
@@ -129,7 +152,7 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1306,
+    "views": 1307,
     "avg_watch_s": 5.5,
     "watch_time_s": 5202.7
    },
@@ -170,13 +193,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 94,
+    "reach": 98,
     "saved": 0,
     "shares": 0,
-    "views": 124,
+    "views": 127,
     "total_interactions": 1,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 377.2
+    "avg_watch_s": 4.2,
+    "watch_time_s": 411.3
    },
    "facebook": {
     "likes": 1,
