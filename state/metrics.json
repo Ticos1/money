@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T15:10:35+00:00",
+ "updated_at": "2026-11-21T16:40:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -17,6 +17,23 @@
     "views": 0,
     "likes": 0,
     "comments": 0
+   }
+  },
+  "2026-11-21-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-21",
+   "time": "13:30",
+   "title": "Como era o sabor do rolo que Ezequiel comeu?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1241006295020485"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
    }
   },
   "2026-11-21-4-quiz": {
@@ -42,14 +59,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 271,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 875.9
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
@@ -66,9 +83,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 272,
+    "views": 279,
     "avg_watch_s": 3.8,
-    "watch_time_s": 825.0
+    "watch_time_s": 844.5
    }
   },
   "2026-11-21-2-quiz": {
@@ -84,14 +101,14 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 292,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 899.5
+    "views": 298,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 912.8
    },
    "youtube": {
-    "views": 54,
+    "views": 60,
     "likes": 1,
-    "comments": 0
+    "comments": 1
    }
   },
   "2026-11-21-1-verse": {
@@ -144,9 +161,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.8,
-    "watch_time_s": 0.8
+    "views": 2,
+    "avg_watch_s": 2.4,
+    "watch_time_s": 4.8
    },
    "youtube": {
     "views": 60,
@@ -172,7 +189,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 163,
+    "views": 167,
     "likes": 0,
     "comments": 0
    }
@@ -219,12 +236,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1312,
+    "views": 1318,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5232.5
+    "watch_time_s": 5236.2
    },
    "youtube": {
-    "views": 86,
+    "views": 90,
     "likes": 3,
     "comments": 0
    }
@@ -241,9 +258,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 342,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1188.2
+    "views": 347,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1224.3
    }
   },
   "2026-11-20-4-quiz": {
@@ -316,7 +333,7 @@
     "watch_time_s": 813.3
    },
    "youtube": {
-    "views": 42,
+    "views": 44,
     "likes": 0,
     "comments": 0
    }
@@ -376,7 +393,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 144,
+    "views": 141,
     "likes": 5,
     "comments": 0
    }
@@ -399,7 +416,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 76,
+    "views": 79,
     "likes": 1,
     "comments": 0
    }
@@ -503,7 +520,7 @@
     "watch_time_s": 5.5
    },
    "youtube": {
-    "views": 70,
+    "views": 72,
     "likes": 1,
     "comments": 0
    }
@@ -626,7 +643,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 155,
+    "views": 153,
     "likes": 5,
     "comments": 0
    }
@@ -643,9 +660,9 @@
    "facebook": {
     "likes": 9,
     "comments": 3,
-    "views": 1159,
+    "views": 1160,
     "avg_watch_s": 6.0,
-    "watch_time_s": 5235.6
+    "watch_time_s": 5237.7
    }
   },
   "2026-11-18-6-truefalse": {
