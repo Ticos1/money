@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T16:40:14+00:00",
+ "updated_at": "2026-11-21T18:06:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
@@ -19,6 +19,41 @@
     "comments": 0
    }
   },
+  "2026-11-21-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "title": "Qual filho de Jônatas foi acolhido por Davi?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/KPUTVizOFcU",
+    "instagram": "https://www.instagram.com/reel/DgA0zJAAh_5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1708964680742898"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-21-5-quiz": {
    "type": "quiz",
    "date": "2026-11-21",
@@ -31,9 +66,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 275,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 631.7
    }
   },
   "2026-11-21-4-quiz": {
@@ -61,12 +96,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 271,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 875.9
+    "views": 279,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 909.0
    },
    "youtube": {
-    "views": 1,
+    "views": 47,
     "likes": 0,
     "comments": 0
    }
@@ -83,9 +118,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 279,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 844.5
+    "views": 285,
+    "avg_watch_s": 3.9,
+    "watch_time_s": 883.6
    }
   },
   "2026-11-21-2-quiz": {
@@ -101,12 +136,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 298,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 912.8
+    "views": 311,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1002.0
    },
    "youtube": {
-    "views": 60,
+    "views": 76,
     "likes": 1,
     "comments": 1
    }
@@ -166,7 +201,7 @@
     "watch_time_s": 4.8
    },
    "youtube": {
-    "views": 60,
+    "views": 65,
     "likes": 0,
     "comments": 0
    }
@@ -189,7 +224,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 167,
+    "views": 162,
     "likes": 0,
     "comments": 0
    }
@@ -236,12 +271,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1318,
+    "views": 1320,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5236.2
+    "watch_time_s": 5286.2
    },
    "youtube": {
-    "views": 90,
+    "views": 101,
     "likes": 3,
     "comments": 0
    }
@@ -258,9 +293,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 347,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1224.3
+    "views": 352,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1442.3
    }
   },
   "2026-11-20-4-quiz": {
@@ -333,7 +368,7 @@
     "watch_time_s": 813.3
    },
    "youtube": {
-    "views": 44,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
@@ -416,7 +451,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 79,
+    "views": 80,
     "likes": 1,
     "comments": 0
    }
@@ -520,7 +555,7 @@
     "watch_time_s": 5.5
    },
    "youtube": {
-    "views": 72,
+    "views": 71,
     "likes": 1,
     "comments": 0
    }
@@ -555,12 +590,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 425,
+    "views": 426,
     "avg_watch_s": 5.5,
-    "watch_time_s": 1813.4
+    "watch_time_s": 1814.2
    },
    "youtube": {
-    "views": 104,
+    "views": 103,
     "likes": 1,
     "comments": 0
    }
@@ -1360,7 +1395,7 @@
     "watch_time_s": 1118.7
    },
    "youtube": {
-    "views": 24,
+    "views": 25,
     "likes": 0,
     "comments": 0
    }
@@ -1588,7 +1623,7 @@
     "watch_time_s": 2439.3
    },
    "youtube": {
-    "views": 381,
+    "views": 382,
     "likes": 1,
     "comments": 0
    }
@@ -8931,9 +8966,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 807,
+    "views": 808,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1930.1
+    "watch_time_s": 1933.6
    },
    "youtube": {
     "views": 7,
