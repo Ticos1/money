@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "id": "2026-11-21-3-truefalse",
+   "date": "2026-11-21",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-21T09:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-21T08:22:24+00:00",
+   "source": "bank",
+   "bank_id": "q1291",
+   "model": null,
+   "content": {
+    "ref": "Mateus 27:51",
+    "ref_label": "Mateus 27:51",
+    "question": "O que se rasgou em dois quando Jesus morreu?",
+    "shown": "A cortina da sinagoga",
+    "is_true": false,
+    "correct": "O véu do templo",
+    "evidence": "véu do templo",
+    "passage": "Eis que o véu do templo se rasgou em dois, de alto a baixo. A terra tremeu e as rochas se fendaram.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que se rasgou em dois quando Jesus morreu?\nResposta: A cortina da sinagoga\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #verdadeirooufalso #quizbiblico #desafiobiblico #gospel #palavradedeus #biblia #evangelico #conhecimentobiblico #cristao #fe #deus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que se rasgou em dois quando Jesus morreu?\nResposta: A cortina da sinagoga\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#sextasanta #verdadeirooufalso #quizbiblico #deus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#sextasanta #verdadeirooufalso #quizbiblico #gospel #biblia",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#sextasanta #verdadeirooufalso #quizbiblico #palavradedeus #biblia",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nO que se rasgou em dois quando Jesus morreu?\nResposta: A cortina da sinagoga\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? O que se rasgou em dois quando Jesus morreu? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nO que se rasgou em dois quando Jesus morreu?\nResposta: A cortina da sinagoga\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #sextasanta #verdadeirooufalso #quizbiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "sextasanta",
+      "mateus"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-21T12:55:44+00:00",
+    "stories": "2026-11-21T12:56:27+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2096685878400964",
+    "stories": "story 18120627761094893"
+   }
+  },
+  {
    "id": "2026-11-21-2-quiz",
    "date": "2026-11-21",
    "slot": 2,
