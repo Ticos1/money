@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-21T20:10:04+00:00",
+ "updated_at": "2026-11-21T21:45:15+00:00",
  "date": "2026-11-21",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,31 @@
     "youtube": "https://youtu.be/iblyx6NTdU4"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-21-8-truefalse",
+   "date": "2026-11-21",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-21T18:38",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-21T21:40:44+00:00",
+    "instagram": null,
+    "facebook": "2026-11-21T21:40:49+00:00",
+    "stories": "2026-11-21T21:41:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/qXhN3v2vsdA",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1589898383182475",
+    "stories": "story 18137910841678665"
+   },
+   "title": "Em qual cidade Jesus nasceu?"
   },
   {
    "id": "2026-11-21-7-quiz",
