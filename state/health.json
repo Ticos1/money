@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-21T16:40:19+00:00",
+ "updated_at": "2026-11-21T18:07:00+00:00",
  "date": "2026-11-21",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -72,6 +72,32 @@
     "youtube": "https://youtu.be/iblyx6NTdU4"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-21-6-truefalse",
+   "date": "2026-11-21",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-21T14:58",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-21T18:00:35+00:00",
+    "instagram": "2026-11-21T18:01:17+00:00",
+    "facebook": "2026-11-21T18:01:22+00:00",
+    "stories": "2026-11-21T18:01:56+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/KPUTVizOFcU",
+    "instagram": "https://www.instagram.com/reel/DgA0zJAAh_5/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1708964680742898",
+    "stories": "story 18103479326387337"
+   },
+   "title": "Qual filho de Jônatas foi acolhido por Davi?"
   },
   {
    "id": "2026-11-21-5-quiz",
