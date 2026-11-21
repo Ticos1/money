@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T21:45:15+00:00",
+ "updated_at": "2026-11-21T23:08:57+00:00",
  "date": "2026-11-21",
  "paused": false,
  "problems": [],
@@ -72,6 +72,34 @@
     "youtube": "https://youtu.be/iblyx6NTdU4"
    },
    "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
+  },
+  {
+   "id": "2026-11-21-9-quiz",
+   "date": "2026-11-21",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-21T20:04",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": "2026-11-21T23:06:07+00:00",
+    "facebook": "2026-11-21T23:06:11+00:00",
+    "stories": "2026-11-21T23:06:52+00:00",
+    "whatsapp": null
+   },
+   "publish_skipped": {
+    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "instagram": "https://www.instagram.com/reel/DgBXsoHCCxe/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1823433512209915",
+    "stories": "story 18449362801176861"
+   },
+   "title": "O que Jonas fazia nas partes mais profundas do navio durante a tempestade?"
   },
   {
    "id": "2026-11-21-8-truefalse",
