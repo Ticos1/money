@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T15:07:45+00:00",
+ "updated_at": "2026-11-22T16:30:39+00:00",
  "date": "2026-11-22",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-22-5-quiz",
+   "date": "2026-11-22",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-22T13:22",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-22T16:25:44+00:00",
+    "stories": "2026-11-22T16:26:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1817085232918345",
+    "stories": "story 17929260165204908"
+   },
+   "title": "Jeremias pergunta: pode o leopardo mudar o quê?"
+  },
   {
    "id": "2026-11-22-4-quiz",
    "date": "2026-11-22",
