@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-22T00:36:19+00:00",
- "date": "2026-11-21",
+ "updated_at": "2026-11-22T09:03:06+00:00",
+ "date": "2026-11-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 2,
+  "used": 4,
   "max": 20,
   "enabled": true
  },
@@ -16,29 +16,29 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 540,
-   "days_left": 540,
+   "fresh": 538,
+   "days_left": 538,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 433,
+   "fresh": 431,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 844,
+   "fresh": 838,
    "days_left": 93,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 886,
-   "days_left": 98,
+   "fresh": 881,
+   "days_left": 97,
    "warn": false
   },
   {
@@ -49,279 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-21-11-compilation",
-   "date": "2026-11-21",
-   "slot": 11,
-   "time": "12:00",
-   "publish_at": "2026-11-21T11:57",
-   "type": "compilation",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-21T15:05:37+00:00",
-    "instagram": null,
-    "facebook": null,
-    "stories": null,
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtu.be/iblyx6NTdU4"
-   },
-   "title": "QUIZ BÍBLICO: 40 perguntas (só 1% acerta todas!) | 10 min"
-  },
-  {
-   "id": "2026-11-21-10-truefalse",
-   "date": "2026-11-21",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-21T21:30",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-22T00:30:47+00:00",
-    "stories": "2026-11-22T00:32:02+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1169549465510788",
-    "stories": "story 17896680612617000"
-   },
-   "title": "O que o SENHOR lançou do céu sobre os inimigos em Bete-Horom?"
-  },
-  {
-   "id": "2026-11-21-9-quiz",
-   "date": "2026-11-21",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-21T20:04",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": "2026-11-21T23:06:07+00:00",
-    "facebook": "2026-11-21T23:06:11+00:00",
-    "stories": "2026-11-21T23:06:52+00:00",
-    "whatsapp": null
-   },
-   "publish_skipped": {
-    "youtube": "pulado: limite de 5 vídeos por dia no YouTube (cota da API)"
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "instagram": "https://www.instagram.com/reel/DgBXsoHCCxe/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1823433512209915",
-    "stories": "story 18449362801176861"
-   },
-   "title": "O que Jonas fazia nas partes mais profundas do navio durante a tempestade?"
-  },
-  {
-   "id": "2026-11-21-8-truefalse",
-   "date": "2026-11-21",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-21T18:38",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-21T21:40:44+00:00",
-    "instagram": null,
-    "facebook": "2026-11-21T21:40:49+00:00",
-    "stories": "2026-11-21T21:41:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/qXhN3v2vsdA",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1589898383182475",
-    "stories": "story 18137910841678665"
-   },
-   "title": "Em qual cidade Jesus nasceu?"
-  },
-  {
-   "id": "2026-11-21-7-quiz",
-   "date": "2026-11-21",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-21T17:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-21T20:05:46+00:00",
-    "stories": "2026-11-21T20:06:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2260227204900444",
-    "stories": "story 18046622321832494"
-   },
-   "title": "Qual palavra descreve o que Deus manifestou em Tito 2:11?"
-  },
-  {
-   "id": "2026-11-21-6-truefalse",
-   "date": "2026-11-21",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-21T14:58",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-21T18:00:35+00:00",
-    "instagram": "2026-11-21T18:01:17+00:00",
-    "facebook": "2026-11-21T18:01:22+00:00",
-    "stories": "2026-11-21T18:01:56+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/KPUTVizOFcU",
-    "instagram": "https://www.instagram.com/reel/DgA0zJAAh_5/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1708964680742898",
-    "stories": "story 18103479326387337"
-   },
-   "title": "Qual filho de Jônatas foi acolhido por Davi?"
-  },
-  {
-   "id": "2026-11-21-5-quiz",
-   "date": "2026-11-21",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-21T13:31",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-21T16:35:45+00:00",
-    "stories": "2026-11-21T16:36:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1241006295020485",
-    "stories": "story 18189517951421453"
-   },
-   "title": "Como era o sabor do rolo que Ezequiel comeu?"
-  },
-  {
-   "id": "2026-11-21-4-quiz",
-   "date": "2026-11-21",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-21T11:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-21T14:55:40+00:00",
-    "instagram": "2026-11-21T14:56:50+00:00",
-    "facebook": "2026-11-21T14:56:58+00:00",
-    "stories": "2026-11-21T14:57:31+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/2SoVT58M_Lk",
-    "instagram": "https://www.instagram.com/reel/DgAftggmrL9/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1165974215834939",
-    "stories": "story 17958922875292314"
-   },
-   "title": "O que Jesus promete a quem for fiel até a morte?"
-  },
-  {
-   "id": "2026-11-21-3-truefalse",
-   "date": "2026-11-21",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-21T09:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-21T12:55:44+00:00",
-    "stories": "2026-11-21T12:56:27+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2096685878400964",
-    "stories": "story 18120627761094893"
-   },
-   "title": "O que se rasgou em dois quando Jesus morreu?"
-  },
-  {
-   "id": "2026-11-21-2-quiz",
-   "date": "2026-11-21",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-21T08:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-21T11:10:46+00:00",
-    "instagram": null,
-    "facebook": "2026-11-21T11:10:52+00:00",
-    "stories": "2026-11-21T11:11:59+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/sjdJ-U65raI",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1119649997604374",
-    "stories": "story 18099137660243604"
-   },
-   "title": "Segundo Lucas, qual destas mulheres contou aos apóstolos o que viu no sepulcro?"
-  },
-  {
-   "id": "2026-11-21-1-verse",
-   "date": "2026-11-21",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-21T06:22",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-21T09:26:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18120606434003031"
-   },
-   "title": "Salmos 119:28"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
