@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-22T21:39:21+00:00",
+ "updated_at": "2026-11-22T23:07:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "title": "Qual material o sacerdote deve lançar no fogo junto à novilha?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6qzduXlXMYg",
+    "instagram": "https://www.instagram.com/reel/DgD78dQjPdH/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1166859605738238"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-22-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-22",
@@ -22,7 +57,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 58,
     "likes": 0,
     "comments": 0
    }
@@ -69,12 +104,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 295,
+    "views": 296,
     "avg_watch_s": 4.0,
-    "watch_time_s": 940.1
+    "watch_time_s": 942.5
    },
    "youtube": {
-    "views": 27,
+    "views": 62,
     "likes": 2,
     "comments": 0
    }
@@ -110,13 +145,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 26,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
-    "views": 36,
+    "views": 52,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 116.2
+    "avg_watch_s": 5.2,
+    "watch_time_s": 190.7
    },
    "facebook": {
     "likes": 1,
@@ -126,7 +161,7 @@
     "watch_time_s": 965.1
    },
    "youtube": {
-    "views": 30,
+    "views": 40,
     "likes": 2,
     "comments": 0
    }
@@ -161,13 +196,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 399,
+    "views": 401,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1479.8
+    "watch_time_s": 1491.4
    },
    "youtube": {
-    "views": 63,
-    "likes": 2,
+    "views": 82,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -258,7 +293,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 232,
+    "views": 230,
     "likes": 5,
     "comments": 0
    }
@@ -310,7 +345,7 @@
     "watch_time_s": 2158.2
    },
    "youtube": {
-    "views": 83,
+    "views": 84,
     "likes": 4,
     "comments": 0
    }
@@ -362,7 +397,7 @@
     "watch_time_s": 1264.9
    },
    "youtube": {
-    "views": 139,
+    "views": 146,
     "likes": 4,
     "comments": 0
    }
@@ -402,7 +437,7 @@
     "watch_time_s": 1274.1
    },
    "youtube": {
-    "views": 150,
+    "views": 151,
     "likes": 2,
     "comments": 1
    }
@@ -485,7 +520,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 205,
+    "views": 209,
     "likes": 0,
     "comments": 0
    }
@@ -689,7 +724,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 141,
+    "views": 131,
     "likes": 5,
     "comments": 0
    }
@@ -851,9 +886,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 432,
+    "views": 433,
     "avg_watch_s": 5.5,
-    "watch_time_s": 1849.5
+    "watch_time_s": 1850.4
    },
    "youtube": {
     "views": 103,
@@ -991,7 +1026,7 @@
     "watch_time_s": 1121.3
    },
    "youtube": {
-    "views": 267,
+    "views": 265,
     "likes": 4,
     "comments": 0
    }
@@ -2155,7 +2190,7 @@
     "watch_time_s": 36.4
    },
    "youtube": {
-    "views": 10,
+    "views": 11,
     "likes": 1,
     "comments": 0
    }
@@ -6397,7 +6432,7 @@
     "youtube": "https://youtu.be/bnFOqRYpZxg"
    },
    "youtube": {
-    "views": 5,
+    "views": 6,
     "likes": 0,
     "comments": 0
    }
