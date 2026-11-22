@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "id": "2026-11-22-8-truefalse",
+   "date": "2026-11-22",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-22T18:31",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:24:06+00:00",
+   "source": "bank",
+   "bank_id": "q209",
+   "model": null,
+   "content": {
+    "ref": "Marcos 10:25",
+    "ref_label": "Marcos 10:25",
+    "question": "Segundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?",
+    "shown": "Um camelo",
+    "is_true": true,
+    "correct": "Um camelo",
+    "evidence": "um camelo passar pelo olho de uma agulha",
+    "passage": "É mais fácil um camelo passar pelo olho de uma agulha do que um rico entrar no Reino de Deus.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #jesus #palavradedeus #evangelico #conhecimentobiblico #cristao #fe #perguntasbiblicas #gospel #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #jesus #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #perguntasbiblicas #gospel",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-22T21:35:37+00:00",
+    "instagram": null,
+    "facebook": "2026-11-22T21:35:42+00:00",
+    "stories": "2026-11-22T21:36:14+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IwKKIlPywYE",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1961555758560615",
+    "stories": "story 18017818631980034"
+   }
+  },
+  {
    "id": "2026-11-22-7-quiz",
    "date": "2026-11-22",
    "slot": 7,
