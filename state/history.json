@@ -1,6 +1,102 @@
 {
  "posts": [
   {
+   "id": "2026-11-22-4-quiz",
+   "date": "2026-11-22",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-22T11:59",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:22:48+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Esdras 4:21",
+    "ref_label": "Esdras 4:21",
+    "question": "Qual expressão aparece em Esdras 4:21?",
+    "options": [
+     "um decreto",
+     "uma aliança",
+     "um tratado",
+     "uma promessa"
+    ],
+    "answer": 0,
+    "evidence": "um decreto",
+    "passage": "Façam agora um decreto para que esses homens parem, e que esta cidade não seja construída até que um decreto seja feito por mim.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #fe #gospel #cristao #evangelico #biblia #jesus #teste #palavradedeus #deus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #palavradedeus #evangelico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #desafio",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão aparece em Esdras 4:21? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esdras"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-22T15:00:35+00:00",
+    "instagram": "2026-11-22T15:01:10+00:00",
+    "facebook": "2026-11-22T15:01:14+00:00",
+    "stories": "2026-11-22T15:01:51+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/C6Syt3o4VWU",
+    "instagram": "https://www.instagram.com/reel/DgDE_eijg-b/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2944716629222856",
+    "stories": "story 18110796773613966"
+   }
+  },
+  {
    "id": "2026-11-22-3-truefalse",
    "date": "2026-11-22",
    "slot": 3,
