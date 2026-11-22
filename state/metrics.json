@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-22T11:20:56+00:00",
+ "updated_at": "2026-11-22T13:05:36+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-22",
+   "time": "10:00",
+   "title": "Por quantos meses Isabel se ocultou depois de conceber?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1827074458443113"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-22-2-quiz": {
    "type": "quiz",
    "date": "2026-11-22",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 265,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 830.4
    },
    "youtube": {
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -131,9 +148,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 390,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 1533.1
+    "views": 398,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1585.4
    }
   },
   "2026-11-21-6-truefalse": {
@@ -159,14 +176,14 @@
     "watch_time_s": 564.1
    },
    "facebook": {
-    "likes": 3,
-    "comments": 0,
-    "views": 488,
-    "avg_watch_s": 5.6,
-    "watch_time_s": 1949.0
+    "likes": 4,
+    "comments": 1,
+    "views": 499,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 2001.2
    },
    "youtube": {
-    "views": 66,
+    "views": 68,
     "likes": 4,
     "comments": 0
    }
@@ -183,9 +200,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 292,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1022.9
+    "views": 294,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1036.0
    }
   },
   "2026-11-21-4-quiz": {
@@ -213,9 +230,9 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 321,
+    "views": 326,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1174.5
+    "watch_time_s": 1209.9
    },
    "youtube": {
     "views": 126,
@@ -253,12 +270,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 350,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1207.8
+    "views": 352,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1232.3
    },
    "youtube": {
-    "views": 140,
+    "views": 139,
     "likes": 2,
     "comments": 1
    }
@@ -318,7 +335,7 @@
     "watch_time_s": 4.8
    },
    "youtube": {
-    "views": 90,
+    "views": 89,
     "likes": 1,
     "comments": 0
    }
@@ -388,9 +405,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1326,
+    "views": 1330,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5300.8
+    "watch_time_s": 5328.3
    },
    "youtube": {
     "views": 130,
@@ -1222,7 +1239,7 @@
     "likes": 0,
     "comments": 0,
     "views": 3,
-    "avg_watch_s": 1.8,
+    "avg_watch_s": 1.2,
     "watch_time_s": 3.7
    },
    "youtube": {
@@ -4841,9 +4858,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 247,
+    "views": 248,
     "avg_watch_s": 4.2,
-    "watch_time_s": 915.7
+    "watch_time_s": 917.4
    }
   },
   "2026-10-31-4-quiz": {
