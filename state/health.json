@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-22T13:05:40+00:00",
+ "updated_at": "2026-11-22T15:07:45+00:00",
  "date": "2026-11-22",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-22-4-quiz",
+   "date": "2026-11-22",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-22T11:59",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-22T15:00:35+00:00",
+    "instagram": "2026-11-22T15:01:10+00:00",
+    "facebook": "2026-11-22T15:01:14+00:00",
+    "stories": "2026-11-22T15:01:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/C6Syt3o4VWU",
+    "instagram": "https://www.instagram.com/reel/DgDE_eijg-b/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2944716629222856",
+    "stories": "story 18110796773613966"
+   },
+   "title": "Qual expressão aparece em Esdras 4:21?"
+  },
   {
    "id": "2026-11-22-3-truefalse",
    "date": "2026-11-22",
