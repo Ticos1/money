@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-22-3-truefalse",
+   "date": "2026-11-22",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-22T09:57",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:22:28+00:00",
+   "source": "bank",
+   "bank_id": "q1221",
+   "model": null,
+   "content": {
+    "ref": "Lucas 1:24",
+    "ref_label": "Lucas 1:24",
+    "question": "Por quantos meses Isabel se ocultou depois de conceber?",
+    "shown": "Nove",
+    "is_true": false,
+    "correct": "Cinco",
+    "evidence": "se ocultou por cinco meses",
+    "passage": "Depois destes dias, Isabel, sua mulher, concebeu, e se ocultou por cinco meses, dizendo:",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus #biblia #jesus #palavradedeus #gospel #desafiobiblico #cristao #perguntasbiblicas #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #evangelico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #fe #cristao",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #palavradedeus #deus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-22T13:00:45+00:00",
+    "stories": "2026-11-22T13:01:20+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1827074458443113",
+    "stories": "story 18196008214401889"
+   }
+  },
+  {
    "id": "2026-11-22-2-quiz",
    "date": "2026-11-22",
    "slot": 2,
