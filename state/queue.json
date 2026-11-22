@@ -1,3 +1,995 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-22-10-truefalse",
+   "date": "2026-11-22",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-22T21:25",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:24:45+00:00",
+   "source": "bank",
+   "bank_id": "q613",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 8:1",
+    "ref_label": "Apocalipse 8:1",
+    "question": "Quanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?",
+    "shown": "Cerca de meia hora",
+    "is_true": true,
+    "correct": "Cerca de meia hora",
+    "evidence": "silêncio no céu por cerca de meia hora",
+    "passage": "Quando ele abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?\nResposta: Cerca de meia hora\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #jesus #biblia #cristao #conhecimentobiblico #perguntasbiblicas #fe #palavradedeus #deus #evangelico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?\nResposta: Cerca de meia hora\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #jesus",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #perguntasbiblicas #palavradedeus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #biblia #evangelico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?\nResposta: Cerca de meia hora\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?\nResposta: Cerca de meia hora\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #biblia",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-9-quiz",
+   "date": "2026-11-22",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-22T20:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:24:26+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Números 19:6",
+    "ref_label": "Números 19:6",
+    "question": "Qual material o sacerdote deve lançar no fogo junto à novilha?",
+    "options": [
+     "Cedro",
+     "Oliveira",
+     "Carvalho",
+     "Pinho"
+    ],
+    "answer": 0,
+    "evidence": "Cedro",
+    "passage": "O sacerdote pegará madeira de cedro, hissopo e fio escarlate, e os lançará no meio do fogo em que a novilha estiver queimando.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual material o sacerdote deve lançar no fogo junto à novilha?\n\nA) Cedro\nB) Oliveira\nC) Carvalho\nD) Pinho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #fe #evangelico #gospel #palavradedeus #biblia #conhecimentobiblico #desafio #perguntasbiblicas #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual material o sacerdote deve lançar no fogo junto à novilha?\n\nA) Cedro\nB) Oliveira\nC) Carvalho\nD) Pinho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #biblia",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico #gospel",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico #evangelico",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual material o sacerdote deve lançar no fogo junto à novilha?\n\nA) Cedro\nB) Oliveira\nC) Carvalho\nD) Pinho\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual material o sacerdote deve lançar no fogo junto à novilha? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual material o sacerdote deve lançar no fogo junto à novilha?\n\nA) Cedro\nB) Oliveira\nC) Carvalho\nD) Pinho\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "números"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-8-truefalse",
+   "date": "2026-11-22",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-22T18:31",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:24:06+00:00",
+   "source": "bank",
+   "bank_id": "q209",
+   "model": null,
+   "content": {
+    "ref": "Marcos 10:25",
+    "ref_label": "Marcos 10:25",
+    "question": "Segundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?",
+    "shown": "Um camelo",
+    "is_true": true,
+    "correct": "Um camelo",
+    "evidence": "um camelo passar pelo olho de uma agulha",
+    "passage": "É mais fácil um camelo passar pelo olho de uma agulha do que um rico entrar no Reino de Deus.”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #jesus #palavradedeus #evangelico #conhecimentobiblico #cristao #fe #perguntasbiblicas #gospel #biblia",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #jesus #cristao",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #perguntasbiblicas #gospel",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?\nResposta: Um camelo\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "marcos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-8-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-7-quiz",
+   "date": "2026-11-22",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-22T17:07",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:23:46+00:00",
+   "source": "bank",
+   "bank_id": "q258",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 37:24",
+    "ref_label": "Gênesis 37:24",
+    "question": "Onde os irmãos jogaram José antes de vendê-lo?",
+    "options": [
+     "Rio Nilo",
+     "Cisterna vazia",
+     "Prisão do faraó",
+     "Cova de leões"
+    ],
+    "answer": 1,
+    "evidence": "o jogaram na cisterna",
+    "passage": "e o pegaram, e o jogaram na cisterna. A cisterna estava vazia. Não havia água nela.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia #deus #palavradedeus #desafio #conhecimentobiblico #gospel #jesus #perguntasbiblicas #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #deus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #desafio #gospel",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Onde os irmãos jogaram José antes de vendê-lo? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.96,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-6-truefalse",
+   "date": "2026-11-22",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-22T15:05",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:23:26+00:00",
+   "source": "bank",
+   "bank_id": "q234",
+   "model": null,
+   "content": {
+    "ref": "Atos 5:1",
+    "ref_label": "Atos 5:1",
+    "question": "Qual era o nome da esposa de Ananias, que mentiu junto com ele?",
+    "shown": "Safira",
+    "is_true": true,
+    "correct": "Safira",
+    "evidence": "Ananias, com Safira, sua mulher",
+    "passage": "Mas um certo homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade,",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da esposa de Ananias, que mentiu junto com ele?\nResposta: Safira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #palavradedeus #desafiobiblico #fe #jesus #biblia #deus #gospel #evangelico #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da esposa de Ananias, que mentiu junto com ele?\nResposta: Safira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #perguntasbiblicas #deus",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #evangelico #gospel #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nQual era o nome da esposa de Ananias, que mentiu junto com ele?\nResposta: Safira\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nQual era o nome da esposa de Ananias, que mentiu junto com ele?\nResposta: Safira\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.24,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-5-quiz",
+   "date": "2026-11-22",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-22T13:22",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:23:09+00:00",
+   "source": "bank",
+   "bank_id": "q647",
+   "model": null,
+   "content": {
+    "ref": "Jeremias 13:23",
+    "ref_label": "Jeremias 13:23",
+    "question": "Jeremias pergunta: pode o leopardo mudar o quê?",
+    "options": [
+     "As suas manchas",
+     "A sua toca",
+     "As suas garras",
+     "O seu rugido"
+    ],
+    "answer": 0,
+    "evidence": "ou o leopardo as suas manchas",
+    "passage": "Pode o etíope mudar a sua pele, ou o leopardo as suas manchas? Então vocês também poderiam fazer o bem, vocês que estão acostumados a fazer o mal.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #biblia #evangelico #gospel #deus #cristao #perguntasbiblicas #jesus #desafio #fe",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #jesus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #desafio #palavradedeus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Jeremias pergunta: pode o leopardo mudar o quê? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-4-quiz",
+   "date": "2026-11-22",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-22T11:59",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:22:48+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Esdras 4:21",
+    "ref_label": "Esdras 4:21",
+    "question": "Qual expressão aparece em Esdras 4:21?",
+    "options": [
+     "um decreto",
+     "uma aliança",
+     "um tratado",
+     "uma promessa"
+    ],
+    "answer": 0,
+    "evidence": "um decreto",
+    "passage": "Façam agora um decreto para que esses homens parem, e que esta cidade não seja construída até que um decreto seja feito por mim.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #fe #gospel #cristao #evangelico #biblia #jesus #teste #palavradedeus #deus",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #jesus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #palavradedeus #evangelico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #desafio",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão aparece em Esdras 4:21? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual expressão aparece em Esdras 4:21?\n\nA) um decreto\nB) uma aliança\nC) um tratado\nD) uma promessa\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esdras"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-3-truefalse",
+   "date": "2026-11-22",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-22T09:57",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:22:28+00:00",
+   "source": "bank",
+   "bank_id": "q1221",
+   "model": null,
+   "content": {
+    "ref": "Lucas 1:24",
+    "ref_label": "Lucas 1:24",
+    "question": "Por quantos meses Isabel se ocultou depois de conceber?",
+    "shown": "Nove",
+    "is_true": false,
+    "correct": "Cinco",
+    "evidence": "se ocultou por cinco meses",
+    "passage": "Depois destes dias, Isabel, sua mulher, concebeu, e se ocultou por cinco meses, dizendo:",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus #biblia #jesus #palavradedeus #gospel #desafiobiblico #cristao #perguntasbiblicas #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #evangelico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #fe #cristao",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #desafiobiblico #palavradedeus #deus",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nPor quantos meses Isabel se ocultou depois de conceber?\nResposta: Nove\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-2-quiz",
+   "date": "2026-11-22",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-22T08:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:22:12+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 116:1",
+    "ref_label": "Salmos 116:1",
+    "question": "Qual palavra do versículo 1 expressa o sentimento do salmista por Deus?",
+    "options": [
+     "amo",
+     "temor",
+     "fé",
+     "esperança"
+    ],
+    "answer": 0,
+    "evidence": "amo",
+    "passage": "Eu amo o SENHOR, porque ele ouve a minha voz, e as minhas súplicas por misericórdia.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra do versículo 1 expressa o sentimento do salmista por Deus?\n\nA) amo\nB) temor\nC) fé\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #deus #conhecimentobiblico #gospel #palavradedeus #jesus #teste #perguntasbiblicas #biblia #evangelico",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra do versículo 1 expressa o sentimento do salmista por Deus?\n\nA) amo\nB) temor\nC) fé\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #jesus #teste",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #jesus #desafio",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual palavra do versículo 1 expressa o sentimento do salmista por Deus?\n\nA) amo\nB) temor\nC) fé\nD) esperança\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível fácil): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual palavra do versículo 1 expressa o sentimento do salmista por Deus?\n\nA) amo\nB) temor\nC) fé\nD) esperança\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-22-1-verse",
+   "date": "2026-11-22",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-22T06:40",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-22T08:21:51+00:00",
+   "source": "bank",
+   "bank_id": "v334",
+   "model": null,
+   "content": {
+    "ref": "Salmos 59:16",
+    "ref_label": "Salmos 59:16",
+    "verse_text": "Mas eu cantarei da tua força. Sim, eu cantarei em alta voz do teu amor leal pela manhã. Pois tu tens sido a minha alta torre, um refúgio no dia da minha angústia.",
+    "on_screen": "De manhã, eu canto o teu amor.",
+    "reflection": "Davi estava cercado de inimigos, mas decidiu começar o dia cantando o amor de Deus. Quando a angústia chega, Ele é a nossa torre alta. Comece hoje agradecendo.",
+    "theme": "refúgio",
+    "mood": "alegria",
+    "tags": [
+     "refugio",
+     "louvor"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de proteção: Salmos 59:16\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Mas eu cantarei da tua força. Sim, eu cantarei em alta voz do teu amor leal pela manhã. Pois tu tens sido a minha alta torre, um refúgio no dia da minha angústia.” (Salmos 59:16)\n\nMesmo quando tudo parece contra nós, escolher cantar o amor leal de Deus transforma a manhã. Ele é a torre alta que nos protege nas angústias. Hoje, agradeça a Ele antes de qualquer coisa e sinta a paz que só Seu refúgio pode dar. Salve este lembrete e compartilhe com quem precisa de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #refugio #louvor #versiculododia #versiculo #reflexao #jesus #esperanca #deus #fe #cristao #oracao",
+    "facebook": "Versículo de proteção: Salmos 59:16\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Mas eu cantarei da tua força. Sim, eu cantarei em alta voz do teu amor leal pela manhã. Pois tu tens sido a minha alta torre, um refúgio no dia da minha angústia.” (Salmos 59:16)\n\nMesmo quando tudo parece contra nós, escolher cantar o amor leal de Deus transforma a manhã. Ele é a torre alta que nos protege nas angústias. Hoje, agradeça a Ele antes de qualquer coisa e sinta a paz que só Seu refúgio pode dar. Salve este lembrete e compartilhe com quem precisa de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodeprotecao #refugio #louvor #versiculododia",
+    "tiktok": "Versículo de proteção\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nCante a força de Deus e sinta Seu refúgio na angústia. Salve e compartilhe!\n#versiculodeprotecao #refugio #louvor #versiculododia #versiculo",
+    "kwai": "Versículo de proteção\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\nCante a força de Deus e sinta Seu refúgio na angústia. Salve e compartilhe!\n#versiculodeprotecao #refugio #louvor #versiculododia #versiculo",
+    "whatsapp": "Bom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Mas eu cantarei da tua força. Sim, eu cantarei em alta voz do teu amor leal pela manhã. Pois tu tens sido a minha alta torre, um refúgio no dia da minha angústia.” (Salmos 59:16)\n\nMesmo quando tudo parece contra nós, escolher cantar o amor leal de Deus transforma a manhã. Ele é a torre alta que nos protege nas angústias. Hoje, agradeça a Ele antes de qualquer coisa e sinta a paz que só Seu refúgio pode dar. Salve este lembrete e compartilhe com quem precisa de esperança.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de proteção: Salmos 59:16 🙏 #shorts",
+     "description": "Versículo de proteção: Salmos 59:16\nBom domingo! Dia de louvar e de estar com a família da fé. 🙌\n\n“Mas eu cantarei da tua força. Sim, eu cantarei em alta voz do teu amor leal pela manhã. Pois tu tens sido a minha alta torre, um refúgio no dia da minha angústia.” (Salmos 59:16)\n\nMesmo quando tudo parece contra nós, escolher cantar o amor leal de Deus transforma a manhã. Ele é a torre alta que nos protege nas angústias. Hoje, agradeça a Ele antes de qualquer coisa e sinta a paz que só Seu refúgio pode dar. Salve este lembrete e compartilhe com quem precisa de esperança.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodeprotecao #refugio #louvor",
+     "tags": [
+      "versículo de proteção",
+      "versículos de proteção",
+      "refúgio",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "refugio",
+      "louvor",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-alegria-1",
+    "title": "Manhã de Graça",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Oh Quão Lindo Esse Nome É",
+     "artist": "Ana Nóbrega"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 22.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-22/2026-11-22-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "verse: data especial (Domingo), conteúdo temático"
+   ],
+   "error": null
+  }
+ ]
 }
