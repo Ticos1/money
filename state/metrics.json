@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-22T13:05:36+00:00",
+ "updated_at": "2026-11-22T15:07:42+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-22",
+   "time": "12:00",
+   "title": "Qual expressão aparece em Esdras 4:21?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/C6Syt3o4VWU",
+    "instagram": "https://www.instagram.com/reel/DgDE_eijg-b/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2944716629222856"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-22-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-22",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 259,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 754.1
    }
   },
   "2026-11-22-2-quiz": {
@@ -34,12 +69,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 265,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 830.4
+    "views": 318,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1071.7
    },
    "youtube": {
-    "views": 20,
+    "views": 46,
     "likes": 0,
     "comments": 0
    }
@@ -131,7 +166,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 226,
+    "views": 228,
     "likes": 4,
     "comments": 0
    }
@@ -148,9 +183,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 398,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1585.4
+    "views": 404,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1613.6
    }
   },
   "2026-11-21-6-truefalse": {
@@ -178,12 +213,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 499,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 2001.2
+    "views": 509,
+    "avg_watch_s": 5.8,
+    "watch_time_s": 2072.2
    },
    "youtube": {
-    "views": 68,
+    "views": 71,
     "likes": 4,
     "comments": 0
    }
@@ -235,7 +270,7 @@
     "watch_time_s": 1209.9
    },
    "youtube": {
-    "views": 126,
+    "views": 131,
     "likes": 4,
     "comments": 0
    }
@@ -270,12 +305,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 352,
+    "views": 354,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1232.3
+    "watch_time_s": 1238.1
    },
    "youtube": {
-    "views": 139,
+    "views": 140,
     "likes": 2,
     "comments": 1
    }
@@ -358,7 +393,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 206,
+    "views": 205,
     "likes": 0,
     "comments": 0
    }
@@ -410,7 +445,7 @@
     "watch_time_s": 5328.3
    },
    "youtube": {
-    "views": 130,
+    "views": 131,
     "likes": 3,
     "comments": 0
    }
@@ -457,9 +492,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 466,
+    "views": 467,
     "avg_watch_s": 3.9,
-    "watch_time_s": 1447.7
+    "watch_time_s": 1448.2
    },
    "youtube": {
     "views": 0,
@@ -933,9 +968,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 289,
+    "views": 290,
     "avg_watch_s": 4.2,
-    "watch_time_s": 958.0
+    "watch_time_s": 958.8
    }
   },
   "2026-11-18-2-quiz": {
