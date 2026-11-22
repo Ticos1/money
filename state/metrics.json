@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-22T15:07:42+00:00",
+ "updated_at": "2026-11-22T16:30:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-22",
+   "time": "13:30",
+   "title": "Jeremias pergunta: pode o leopardo mudar o quê?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1817085232918345"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-22-4-quiz": {
    "type": "quiz",
    "date": "2026-11-22",
@@ -18,24 +35,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 3.6,
+    "watch_time_s": 10.7
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 260,
+    "avg_watch_s": 3.1,
+    "watch_time_s": 420.9
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 5,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 259,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 754.1
+    "views": 263,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 774.3
    }
   },
   "2026-11-22-2-quiz": {
@@ -67,15 +84,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1184137183970318"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 318,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1071.7
+    "views": 336,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1161.2
    },
    "youtube": {
     "views": 46,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -166,7 +183,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 228,
+    "views": 234,
     "likes": 4,
     "comments": 0
    }
@@ -213,12 +230,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 509,
+    "views": 514,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2072.2
+    "watch_time_s": 2093.3
    },
    "youtube": {
-    "views": 71,
+    "views": 66,
     "likes": 4,
     "comments": 0
    }
@@ -265,7 +282,7 @@
    "facebook": {
     "likes": 8,
     "comments": 0,
-    "views": 326,
+    "views": 328,
     "avg_watch_s": 4.6,
     "watch_time_s": 1209.9
    },
@@ -310,7 +327,7 @@
     "watch_time_s": 1238.1
    },
    "youtube": {
-    "views": 140,
+    "views": 141,
     "likes": 2,
     "comments": 1
    }
@@ -370,7 +387,7 @@
     "watch_time_s": 4.8
    },
    "youtube": {
-    "views": 89,
+    "views": 90,
     "likes": 1,
     "comments": 0
    }
@@ -440,12 +457,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1330,
+    "views": 1331,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5328.3
+    "watch_time_s": 5335.5
    },
    "youtube": {
-    "views": 131,
+    "views": 130,
     "likes": 3,
     "comments": 0
    }
@@ -741,9 +758,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 531,
+    "views": 534,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1850.4
+    "watch_time_s": 1874.3
    }
   },
   "2026-11-19-2-quiz": {
