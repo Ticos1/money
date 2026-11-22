@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-22T16:30:34+00:00",
+ "updated_at": "2026-11-22T18:09:52+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "title": "Qual era o nome da esposa de Ananias, que mentiu junto com ele?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/MaHNaoEi_U4",
+    "instagram": "https://www.instagram.com/reel/DgDaK9zHMId/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2605583653286969"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-22-5-quiz": {
    "type": "quiz",
    "date": "2026-11-22",
@@ -35,24 +70,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 3,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 13,
     "total_interactions": 0,
     "avg_watch_s": 3.6,
-    "watch_time_s": 10.7
+    "watch_time_s": 39.9
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 260,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 420.9
+    "views": 288,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 941.6
    },
    "youtube": {
-    "views": 5,
-    "likes": 1,
+    "views": 19,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 263,
+    "views": 290,
     "avg_watch_s": 3.7,
-    "watch_time_s": 774.3
+    "watch_time_s": 802.0
    }
   },
   "2026-11-22-2-quiz": {
@@ -86,13 +121,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 336,
+    "views": 359,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1161.2
+    "watch_time_s": 1232.9
    },
    "youtube": {
-    "views": 46,
-    "likes": 1,
+    "views": 56,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -183,8 +218,8 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 234,
-    "likes": 4,
+    "views": 232,
+    "likes": 5,
     "comments": 0
    }
   },
@@ -230,12 +265,12 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 514,
+    "views": 518,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2093.3
+    "watch_time_s": 2099.8
    },
    "youtube": {
-    "views": 66,
+    "views": 75,
     "likes": 4,
     "comments": 0
    }
@@ -280,14 +315,14 @@
     "watch_time_s": 700.5
    },
    "facebook": {
-    "likes": 8,
+    "likes": 9,
     "comments": 0,
-    "views": 328,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1209.9
+    "views": 333,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1264.9
    },
    "youtube": {
-    "views": 131,
+    "views": 136,
     "likes": 4,
     "comments": 0
    }
@@ -322,12 +357,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 354,
+    "views": 357,
     "avg_watch_s": 4.5,
     "watch_time_s": 1238.1
    },
    "youtube": {
-    "views": 141,
+    "views": 144,
     "likes": 2,
     "comments": 1
    }
@@ -457,12 +492,12 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1331,
+    "views": 1333,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5335.5
+    "watch_time_s": 5338.3
    },
    "youtube": {
-    "views": 130,
+    "views": 131,
     "likes": 3,
     "comments": 0
    }
@@ -776,9 +811,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 430,
+    "views": 431,
     "avg_watch_s": 5.5,
-    "watch_time_s": 1842.4
+    "watch_time_s": 1843.7
    },
    "youtube": {
     "views": 103,
@@ -7525,7 +7560,7 @@
    "facebook": {
     "likes": 16,
     "comments": 3,
-    "views": 2162,
+    "views": 2163,
     "avg_watch_s": 6.3,
     "watch_time_s": 9890.5
    },
