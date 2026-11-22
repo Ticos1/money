@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-22T20:14:18+00:00",
+ "updated_at": "2026-11-22T21:39:21+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "title": "Segundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/IwKKIlPywYE",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1961555758560615"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-22-7-quiz": {
    "type": "quiz",
    "date": "2026-11-22",
@@ -35,20 +58,20 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 107,
+    "reach": 109,
     "saved": 0,
     "shares": 0,
-    "views": 135,
+    "views": 138,
     "total_interactions": 2,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 517.5
+    "avg_watch_s": 5.0,
+    "watch_time_s": 537.0
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 288,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 861.6
+    "views": 295,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 940.1
    },
    "youtube": {
     "views": 27,
@@ -87,13 +110,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 22,
+    "reach": 26,
     "saved": 0,
     "shares": 0,
-    "views": 27,
+    "views": 36,
     "total_interactions": 0,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 81.8
+    "avg_watch_s": 4.5,
+    "watch_time_s": 116.2
    },
    "facebook": {
     "likes": 1,
@@ -138,9 +161,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 390,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1369.8
+    "views": 399,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1479.8
    },
    "youtube": {
     "views": 63,
@@ -282,9 +305,9 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 524,
+    "views": 528,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2137.2
+    "watch_time_s": 2158.2
    },
    "youtube": {
     "views": 83,
@@ -509,9 +532,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1333,
+    "views": 1335,
     "avg_watch_s": 5.5,
-    "watch_time_s": 5338.3
+    "watch_time_s": 5349.1
    },
    "youtube": {
     "views": 132,
@@ -4246,7 +4269,7 @@
     "comments": 1,
     "views": 2103,
     "avg_watch_s": 6.3,
-    "watch_time_s": 10010.0
+    "watch_time_s": 10014.3
    }
   },
   "2026-11-03-6-truefalse": {
