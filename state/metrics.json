@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-22T09:45:30+00:00",
+ "updated_at": "2026-11-22T11:15:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-22",
+   "time": "08:00",
+   "title": "Qual palavra do versículo 1 expressa o sentimento do salmista por Deus?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/iqvB8bJsj-8",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1184137183970318"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-22-1-verse": {
    "type": "verse",
    "date": "2026-11-22",
@@ -138,9 +161,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 484,
-    "avg_watch_s": 5.7,
-    "watch_time_s": 1948.1
+    "views": 488,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 1949.0
    },
    "youtube": {
     "views": 65,
@@ -160,9 +183,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 291,
+    "views": 292,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1014.8
+    "watch_time_s": 1022.9
    }
   },
   "2026-11-21-4-quiz": {
@@ -230,9 +253,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 346,
+    "views": 350,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1197.0
+    "watch_time_s": 1207.8
    },
    "youtube": {
     "views": 139,
@@ -1198,7 +1221,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
+    "views": 3,
     "avg_watch_s": 1.8,
     "watch_time_s": 3.7
    },
@@ -1484,9 +1507,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 340,
+    "views": 341,
     "avg_watch_s": 4.2,
-    "watch_time_s": 1118.7
+    "watch_time_s": 1126.2
    },
    "youtube": {
     "views": 25,
@@ -6132,9 +6155,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 304,
+    "views": 305,
     "avg_watch_s": 3.5,
-    "watch_time_s": 942.4
+    "watch_time_s": 944.4
    }
   },
   "2026-10-25-4-quiz": {
