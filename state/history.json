@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-22-5-quiz",
+   "date": "2026-11-22",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-22T13:22",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:23:09+00:00",
+   "source": "bank",
+   "bank_id": "q647",
+   "model": null,
+   "content": {
+    "ref": "Jeremias 13:23",
+    "ref_label": "Jeremias 13:23",
+    "question": "Jeremias pergunta: pode o leopardo mudar o quê?",
+    "options": [
+     "As suas manchas",
+     "A sua toca",
+     "As suas garras",
+     "O seu rugido"
+    ],
+    "answer": 0,
+    "evidence": "ou o leopardo as suas manchas",
+    "passage": "Pode o etíope mudar a sua pele, ou o leopardo as suas manchas? Então vocês também poderiam fazer o bem, vocês que estão acostumados a fazer o mal.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #biblia #evangelico #gospel #deus #cristao #perguntasbiblicas #jesus #desafio #fe",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #biblia #jesus #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #desafio #palavradedeus",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Jeremias pergunta: pode o leopardo mudar o quê? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nJeremias pergunta: pode o leopardo mudar o quê?\n\nA) As suas manchas\nB) A sua toca\nC) As suas garras\nD) O seu rugido\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "jeremias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-22T16:25:44+00:00",
+    "stories": "2026-11-22T16:26:17+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1817085232918345",
+    "stories": "story 17929260165204908"
+   }
+  },
+  {
    "id": "2026-11-22-4-quiz",
    "date": "2026-11-22",
    "slot": 4,
