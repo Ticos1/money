@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-22-7-quiz",
+   "date": "2026-11-22",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-22T17:07",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-22T08:23:46+00:00",
+   "source": "bank",
+   "bank_id": "q258",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 37:24",
+    "ref_label": "Gênesis 37:24",
+    "question": "Onde os irmãos jogaram José antes de vendê-lo?",
+    "options": [
+     "Rio Nilo",
+     "Cisterna vazia",
+     "Prisão do faraó",
+     "Cova de leões"
+    ],
+    "answer": 1,
+    "evidence": "o jogaram na cisterna",
+    "passage": "e o pegaram, e o jogaram na cisterna. A cisterna estava vazia. Não havia água nela.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #biblia #deus #palavradedeus #desafio #conhecimentobiblico #gospel #jesus #perguntasbiblicas #teste",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #palavradedeus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #deus #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #desafio #gospel",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Onde os irmãos jogaram José antes de vendê-lo? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nOnde os irmãos jogaram José antes de vendê-lo?\n\nA) Rio Nilo\nB) Cisterna vazia\nC) Prisão do faraó\nD) Cova de leões\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-22T20:10:37+00:00",
+    "stories": "2026-11-22T20:11:16+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1611353244079357",
+    "stories": "story 17911303320669551"
+   }
+  },
+  {
    "id": "2026-11-22-6-truefalse",
    "date": "2026-11-22",
    "slot": 6,
