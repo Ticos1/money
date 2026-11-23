@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-23T09:31:55+00:00",
+ "updated_at": "2026-11-23T11:12:06+00:00",
  "date": "2026-11-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-23-2-quiz",
+   "date": "2026-11-23",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-23T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T11:05:53+00:00",
+    "instagram": null,
+    "facebook": "2026-11-23T11:05:58+00:00",
+    "stories": "2026-11-23T11:06:56+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/G90TBO9-yO4",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1042664378873381",
+    "stories": "story 17997903804112229"
+   },
+   "title": "O que Sansão encontrou no cadáver do leão que havia matado?"
+  },
   {
    "id": "2026-11-23-1-verse",
    "date": "2026-11-23",
