@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-23T01:42:10+00:00",
- "date": "2026-11-22",
+ "updated_at": "2026-11-23T09:02:34+00:00",
+ "date": "2026-11-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
@@ -16,28 +16,28 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 538,
-   "days_left": 538,
+   "fresh": 537,
+   "days_left": 537,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 431,
+   "fresh": 432,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 838,
-   "days_left": 93,
+   "fresh": 829,
+   "days_left": 92,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 881,
+   "fresh": 873,
    "days_left": 97,
    "warn": false
   },
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-22-10-truefalse",
-   "date": "2026-11-22",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-22T21:25",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-23T00:25:49+00:00",
-    "stories": "2026-11-23T00:27:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1435620901585795",
-    "stories": "story 17924999427452633"
-   },
-   "title": "Quanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?"
-  },
-  {
-   "id": "2026-11-22-9-quiz",
-   "date": "2026-11-22",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-22T20:00",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-22T23:00:47+00:00",
-    "instagram": "2026-11-22T23:01:29+00:00",
-    "facebook": "2026-11-22T23:01:35+00:00",
-    "stories": "2026-11-22T23:02:08+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6qzduXlXMYg",
-    "instagram": "https://www.instagram.com/reel/DgD78dQjPdH/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1166859605738238",
-    "stories": "story 18117592717862891"
-   },
-   "title": "Qual material o sacerdote deve lançar no fogo junto à novilha?"
-  },
-  {
-   "id": "2026-11-22-8-truefalse",
-   "date": "2026-11-22",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-22T18:31",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-22T21:35:37+00:00",
-    "instagram": null,
-    "facebook": "2026-11-22T21:35:42+00:00",
-    "stories": "2026-11-22T21:36:14+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/IwKKIlPywYE",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1961555758560615",
-    "stories": "story 18017818631980034"
-   },
-   "title": "Segundo Jesus, é mais fácil o que passar pelo olho de uma agulha do que um rico entrar no Reino?"
-  },
-  {
-   "id": "2026-11-22-7-quiz",
-   "date": "2026-11-22",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-22T17:07",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-22T20:10:37+00:00",
-    "stories": "2026-11-22T20:11:16+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1611353244079357",
-    "stories": "story 17911303320669551"
-   },
-   "title": "Onde os irmãos jogaram José antes de vendê-lo?"
-  },
-  {
-   "id": "2026-11-22-6-truefalse",
-   "date": "2026-11-22",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-22T15:05",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-22T18:05:40+00:00",
-    "instagram": "2026-11-22T18:06:14+00:00",
-    "facebook": "2026-11-22T18:06:19+00:00",
-    "stories": "2026-11-22T18:06:50+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/MaHNaoEi_U4",
-    "instagram": "https://www.instagram.com/reel/DgDaK9zHMId/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2605583653286969",
-    "stories": "story 18124644028942726"
-   },
-   "title": "Qual era o nome da esposa de Ananias, que mentiu junto com ele?"
-  },
-  {
-   "id": "2026-11-22-5-quiz",
-   "date": "2026-11-22",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-22T13:22",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-22T16:25:44+00:00",
-    "stories": "2026-11-22T16:26:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1817085232918345",
-    "stories": "story 17929260165204908"
-   },
-   "title": "Jeremias pergunta: pode o leopardo mudar o quê?"
-  },
-  {
-   "id": "2026-11-22-4-quiz",
-   "date": "2026-11-22",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-22T11:59",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-22T15:00:35+00:00",
-    "instagram": "2026-11-22T15:01:10+00:00",
-    "facebook": "2026-11-22T15:01:14+00:00",
-    "stories": "2026-11-22T15:01:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/C6Syt3o4VWU",
-    "instagram": "https://www.instagram.com/reel/DgDE_eijg-b/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2944716629222856",
-    "stories": "story 18110796773613966"
-   },
-   "title": "Qual expressão aparece em Esdras 4:21?"
-  },
-  {
-   "id": "2026-11-22-3-truefalse",
-   "date": "2026-11-22",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-22T09:57",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-22T13:00:45+00:00",
-    "stories": "2026-11-22T13:01:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1827074458443113",
-    "stories": "story 18196008214401889"
-   },
-   "title": "Por quantos meses Isabel se ocultou depois de conceber?"
-  },
-  {
-   "id": "2026-11-22-2-quiz",
-   "date": "2026-11-22",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-22T08:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-22T11:10:44+00:00",
-    "instagram": null,
-    "facebook": "2026-11-22T11:10:50+00:00",
-    "stories": "2026-11-22T11:11:31+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/iqvB8bJsj-8",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1184137183970318",
-    "stories": "story 18131126584849623"
-   },
-   "title": "Qual palavra do versículo 1 expressa o sentimento do salmista por Deus?"
-  },
-  {
-   "id": "2026-11-22-1-verse",
-   "date": "2026-11-22",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-22T06:40",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-22T09:41:21+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18088580567514687"
-   },
-   "title": "Salmos 59:16"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
