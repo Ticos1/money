@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-23-6-truefalse",
+   "date": "2026-11-23",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-23T15:10",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-23T08:23:02+00:00",
+   "source": "bank",
+   "bank_id": "q919",
+   "model": null,
+   "content": {
+    "ref": "1 João 4:8",
+    "ref_label": "1 João 4:8",
+    "question": "Segundo 1 João 4:8, Deus é o quê?",
+    "shown": "Amor",
+    "is_true": true,
+    "correct": "Amor",
+    "evidence": "porque Deus é amor",
+    "passage": "Aquele que não ama não conhece a Deus, porque Deus é amor.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo 1 João 4:8, Deus é o quê?\nResposta: Amor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #perguntasbiblicas #deus #evangelico #desafiobiblico #cristao #conhecimentobiblico #biblia #jesus #fe",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo 1 João 4:8, Deus é o quê?\nResposta: Amor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #deus",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #deus #jesus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #gospel #cristao",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nSegundo 1 João 4:8, Deus é o quê?\nResposta: Amor\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Segundo 1 João 4:8, Deus é o quê? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nSegundo 1 João 4:8, Deus é o quê?\nResposta: Amor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T18:10:35+00:00",
+    "instagram": "2026-11-23T18:11:11+00:00",
+    "facebook": "2026-11-23T18:11:16+00:00",
+    "stories": "2026-11-23T18:11:51+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/2LPs8AIzo38",
+    "instagram": "https://www.instagram.com/reel/DgF_h8aE9E9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118689544323139",
+    "stories": "story 18657843844030150"
+   }
+  },
+  {
    "id": "2026-11-23-5-quiz",
    "date": "2026-11-23",
    "slot": 5,
