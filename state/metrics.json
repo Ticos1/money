@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-23T13:00:53+00:00",
+ "updated_at": "2026-11-23T15:19:14+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-23",
+   "time": "12:00",
+   "title": "Qual dos príncipes principais veio ajudar o anjo contra o príncipe da Pérsia?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/BPCeT6XPH9s",
+    "instagram": "https://www.instagram.com/reel/DgFrCEdDyXw/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1149770301108781"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-23-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-23",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 263,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 782.0
    }
   },
   "2026-11-23-2-quiz": {
@@ -34,9 +69,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 273,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 951.4
+    "views": 293,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1066.2
    },
    "youtube": {
     "views": 0,
@@ -99,7 +134,7 @@
     "watch_time_s": 21.7
    },
    "youtube": {
-    "views": 45,
+    "views": 46,
     "likes": 2,
     "comments": 0
    }
@@ -122,7 +157,7 @@
     "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 297,
+    "views": 301,
     "likes": 3,
     "comments": 1
    }
@@ -169,13 +204,13 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 318,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 1011.6
+    "views": 322,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1044.9
    },
    "youtube": {
-    "views": 126,
-    "likes": 3,
+    "views": 127,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -223,10 +258,10 @@
     "comments": 0,
     "views": 296,
     "avg_watch_s": 4.1,
-    "watch_time_s": 966.6
+    "watch_time_s": 976.7
    },
    "youtube": {
-    "views": 69,
+    "views": 73,
     "likes": 3,
     "comments": 0
    }
@@ -243,9 +278,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 302,
+    "views": 303,
     "avg_watch_s": 3.6,
-    "watch_time_s": 868.5
+    "watch_time_s": 869.0
    }
   },
   "2026-11-22-2-quiz": {
@@ -358,7 +393,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 297,
+    "views": 300,
     "likes": 6,
     "comments": 0
    }
@@ -403,11 +438,11 @@
     "watch_time_s": 587.6
    },
    "facebook": {
-    "likes": 4,
+    "likes": 5,
     "comments": 1,
-    "views": 529,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 2159.1
+    "views": 532,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 2183.8
    },
    "youtube": {
     "views": 106,
@@ -427,7 +462,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 294,
+    "views": 295,
     "avg_watch_s": 4.5,
     "watch_time_s": 1036.0
    }
@@ -462,7 +497,7 @@
     "watch_time_s": 1265.4
    },
    "youtube": {
-    "views": 152,
+    "views": 155,
     "likes": 4,
     "comments": 0
    }
@@ -632,9 +667,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1338,
+    "views": 1339,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5368.0
+    "watch_time_s": 5368.8
    },
    "youtube": {
     "views": 134,
@@ -1370,7 +1405,7 @@
     "watch_time_s": 913.7
    },
    "youtube": {
-    "views": 63,
+    "views": 64,
     "likes": 0,
     "comments": 0
    }
@@ -2071,9 +2106,9 @@
    "facebook": {
     "likes": 2,
     "comments": 1,
-    "views": 382,
+    "views": 383,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1455.3
+    "watch_time_s": 1456.4
    },
    "youtube": {
     "views": 87,
