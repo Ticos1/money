@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-23-7-quiz",
+   "date": "2026-11-23",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-23T17:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-23T08:23:25+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "2 Tessalonicenses 2:8",
+    "ref_label": "2 Tessalonicenses 2:8",
+    "question": "Qual expressão descreve como o Senhor matará o iníquo?",
+    "options": [
+     "sopro de sua boca",
+     "chama do céu",
+     "espada flamejante",
+     "voz do trovão"
+    ],
+    "answer": 0,
+    "evidence": "sopro de sua boca",
+    "passage": "Então será revelado o iníquo, a quem o Senhor matará com o sopro de sua boca e destruirá pela manifestação da sua vinda;",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão descreve como o Senhor matará o iníquo?\n\nA) sopro de sua boca\nB) chama do céu\nC) espada flamejante\nD) voz do trovão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio #fe #evangelico #conhecimentobiblico #perguntasbiblicas #jesus #teste #biblia #cristao",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão descreve como o Senhor matará o iníquo?\n\nA) sopro de sua boca\nB) chama do céu\nC) espada flamejante\nD) voz do trovão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #biblia",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #cristao #palavradedeus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #jesus #palavradedeus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual expressão descreve como o Senhor matará o iníquo?\n\nA) sopro de sua boca\nB) chama do céu\nC) espada flamejante\nD) voz do trovão\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão descreve como o Senhor matará o iníquo? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão descreve como o Senhor matará o iníquo?\n\nA) sopro de sua boca\nB) chama do céu\nC) espada flamejante\nD) voz do trovão\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 tessalonicenses"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-23T20:05:54+00:00",
+    "stories": "2026-11-23T20:06:18+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2685028408619586",
+    "stories": "story 18163511962507560"
+   }
+  },
+  {
    "id": "2026-11-23-6-truefalse",
    "date": "2026-11-23",
    "slot": 6,
