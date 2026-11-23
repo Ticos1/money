@@ -1,6 +1,104 @@
 {
  "posts": [
   {
+   "id": "2026-11-23-1-verse",
+   "date": "2026-11-23",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-23T06:22",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-23T08:21:18+00:00",
+   "source": "bank",
+   "bank_id": "v124",
+   "model": null,
+   "content": {
+    "ref": "Provérbios 15:1",
+    "ref_label": "Provérbios 15:1",
+    "verse_text": "A resposta branda desvia o furor, mas a palavra dura suscita a ira.",
+    "on_screen": "A resposta branda desvia o furor.",
+    "reflection": "Muitas brigas acabam antes de começar com uma resposta calma. Hoje, escolha responder com mansidão.",
+    "theme": "palavras",
+    "mood": "reflexao",
+    "tags": [
+     "proverbios",
+     "sabedoria"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre o poder das palavras: Provérbios 15:1\n“A resposta branda desvia o furor, mas a palavra dura suscita a ira.” (Provérbios 15:1)\n\nQuantas vezes deixamos uma situação virar tempestade por falta de calma? Hoje, lembre-se: responder com mansidão não é fraqueza, é sabedoria que acalma corações. Escolha a serenidade antes que a ira se acenda. Compartilhe essa ideia e inspire quem precisa de paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreopoderdaspalavras #palavras #proverbios #sabedoria #versiculododia #versiculo #devocional #evangelico #cristao #jesus #oracao #biblia",
+    "facebook": "Versículo sobre o poder das palavras: Provérbios 15:1\n“A resposta branda desvia o furor, mas a palavra dura suscita a ira.” (Provérbios 15:1)\n\nQuantas vezes deixamos uma situação virar tempestade por falta de calma? Hoje, lembre-se: responder com mansidão não é fraqueza, é sabedoria que acalma corações. Escolha a serenidade antes que a ira se acenda. Compartilhe essa ideia e inspire quem precisa de paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobreopoderdaspalavras #palavras #proverbios #sabedoria",
+    "tiktok": "Versículo sobre o poder das palavras\nResponda com mansidão e evite a ira. 🌿\n#versiculosobreopoderdaspalavras #palavras #proverbios #sabedoria #versiculododia",
+    "kwai": "Versículo sobre o poder das palavras\nResponda com mansidão e evite a ira. 🌿\n#versiculosobreopoderdaspalavras #palavras #proverbios #sabedoria #versiculododia",
+    "whatsapp": "“A resposta branda desvia o furor, mas a palavra dura suscita a ira.” (Provérbios 15:1)\n\nQuantas vezes deixamos uma situação virar tempestade por falta de calma? Hoje, lembre-se: responder com mansidão não é fraqueza, é sabedoria que acalma corações. Escolha a serenidade antes que a ira se acenda. Compartilhe essa ideia e inspire quem precisa de paz. 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre o poder das palavras: Provérbios 15:1 🙏 #shorts",
+     "description": "Versículo sobre o poder das palavras: Provérbios 15:1\n“A resposta branda desvia o furor, mas a palavra dura suscita a ira.” (Provérbios 15:1)\n\nQuantas vezes deixamos uma situação virar tempestade por falta de calma? Hoje, lembre-se: responder com mansidão não é fraqueza, é sabedoria que acalma corações. Escolha a serenidade antes que a ira se acenda. Compartilhe essa ideia e inspire quem precisa de paz. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobreopoderdaspalavras #palavras #proverbios",
+     "tags": [
+      "versículo sobre o poder das palavras",
+      "versículos sobre o poder das palavras",
+      "palavras",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "proverbios",
+      "sabedoria",
+      "provérbios"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Advogado Fiel",
+     "artist": "Bruna Karla"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-23T09:26:11+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "verse: Groq tentativa 1 descartada: conteúdo repetido",
+    "verse: Groq tentativa 2 descartada: conteúdo repetido"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18112404707575337"
+   }
+  },
+  {
    "id": "2026-11-22-10-truefalse",
    "date": "2026-11-22",
    "slot": 10,
