@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-22T23:07:54+00:00",
+ "updated_at": "2026-11-23T00:35:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-22-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-22",
+   "time": "21:30",
+   "title": "Quanto tempo durou o silêncio no céu quando o sétimo selo foi aberto?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1435620901585795"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-22-9-quiz": {
    "type": "quiz",
    "date": "2026-11-22",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
-    "saved": 0,
+    "reach": 43,
+    "saved": 1,
     "shares": 0,
-    "views": 0,
-    "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 72,
+    "total_interactions": 1,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 271.8
    },
    "facebook": {
     "likes": 0,
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 11,
     "likes": 0,
     "comments": 0
    }
@@ -52,14 +69,14 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 4,
+    "avg_watch_s": 16.1,
+    "watch_time_s": 32.3
    },
    "youtube": {
-    "views": 58,
-    "likes": 0,
-    "comments": 0
+    "views": 175,
+    "likes": 1,
+    "comments": 1
    }
   },
   "2026-11-22-7-quiz": {
@@ -104,12 +121,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 296,
+    "views": 301,
     "avg_watch_s": 4.0,
-    "watch_time_s": 942.5
+    "watch_time_s": 956.1
    },
    "youtube": {
-    "views": 62,
+    "views": 82,
     "likes": 2,
     "comments": 0
    }
@@ -145,23 +162,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 34,
+    "reach": 63,
     "saved": 0,
     "shares": 0,
-    "views": 52,
+    "views": 102,
     "total_interactions": 0,
     "avg_watch_s": 5.2,
-    "watch_time_s": 190.7
+    "watch_time_s": 335.2
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 292,
+    "views": 293,
     "avg_watch_s": 4.1,
     "watch_time_s": 965.1
    },
    "youtube": {
-    "views": 40,
+    "views": 48,
     "likes": 2,
     "comments": 0
    }
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 299,
+    "views": 301,
     "avg_watch_s": 3.6,
-    "watch_time_s": 857.9
+    "watch_time_s": 867.0
    }
   },
   "2026-11-22-2-quiz": {
@@ -196,12 +213,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 401,
+    "views": 406,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1491.4
+    "watch_time_s": 1503.8
    },
    "youtube": {
-    "views": 82,
+    "views": 83,
     "likes": 3,
     "comments": 0
    }
@@ -293,8 +310,8 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 230,
-    "likes": 5,
+    "views": 277,
+    "likes": 6,
     "comments": 0
    }
   },
@@ -345,7 +362,7 @@
     "watch_time_s": 2158.2
    },
    "youtube": {
-    "views": 84,
+    "views": 94,
     "likes": 4,
     "comments": 0
    }
@@ -432,12 +449,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 360,
+    "views": 361,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1274.1
+    "watch_time_s": 1275.7
    },
    "youtube": {
-    "views": 151,
+    "views": 158,
     "likes": 2,
     "comments": 1
    }
@@ -794,12 +811,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 344,
+    "views": 345,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1183.7
+    "watch_time_s": 1185.2
    },
    "youtube": {
-    "views": 249,
+    "views": 248,
     "likes": 0,
     "comments": 0
    }
@@ -1738,9 +1755,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 274,
+    "views": 275,
     "avg_watch_s": 4.3,
-    "watch_time_s": 935.9
+    "watch_time_s": 940.1
    },
    "youtube": {
     "views": 57,
