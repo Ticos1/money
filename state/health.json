@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-23T21:26:02+00:00",
+ "updated_at": "2026-11-23T23:01:41+00:00",
  "date": "2026-11-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 4,
+  "used": 5,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-23-9-quiz",
+   "date": "2026-11-23",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-23T19:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T22:55:45+00:00",
+    "instagram": "2026-11-23T22:56:30+00:00",
+    "facebook": "2026-11-23T22:56:36+00:00",
+    "stories": "2026-11-23T22:57:34+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SSIdoN31_zs",
+    "instagram": "https://www.instagram.com/reel/DgGgKr7AOtp/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1809286750614517",
+    "stories": "story 17919997314492949"
+   },
+   "title": "Em qual tanque Jesus mandou o cego de nascença se lavar?"
+  },
   {
    "id": "2026-11-23-8-truefalse",
    "date": "2026-11-23",
