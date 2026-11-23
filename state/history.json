@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-23-9-quiz",
+   "date": "2026-11-23",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-23T19:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-23T08:24:03+00:00",
+   "source": "bank",
+   "bank_id": "q227",
+   "model": null,
+   "content": {
+    "ref": "João 9:7",
+    "ref_label": "João 9:7",
+    "question": "Em qual tanque Jesus mandou o cego de nascença se lavar?",
+    "options": [
+     "Betesda",
+     "Siloé",
+     "Jordão",
+     "Quebar"
+    ],
+    "answer": 1,
+    "evidence": "lave-se no tanque de Siloé",
+    "passage": "e disse-lhe: “Vá, lave-se no tanque de Siloé” (que significa “Enviado”). Então ele foi, lavou-se e voltou vendo.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm qual tanque Jesus mandou o cego de nascença se lavar?\n\nA) Betesda\nB) Siloé\nC) Jordão\nD) Quebar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #perguntasbiblicas #gospel #palavradedeus #biblia #conhecimentobiblico #deus #evangelico #jesus #fe",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm qual tanque Jesus mandou o cego de nascença se lavar?\n\nA) Betesda\nB) Siloé\nC) Jordão\nD) Quebar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #evangelico #desafio",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #gospel #biblia",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nEm qual tanque Jesus mandou o cego de nascença se lavar?\n\nA) Betesda\nB) Siloé\nC) Jordão\nD) Quebar\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em qual tanque Jesus mandou o cego de nascença se lavar? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nEm qual tanque Jesus mandou o cego de nascença se lavar?\n\nA) Betesda\nB) Siloé\nC) Jordão\nD) Quebar\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T22:55:45+00:00",
+    "instagram": "2026-11-23T22:56:30+00:00",
+    "facebook": "2026-11-23T22:56:36+00:00",
+    "stories": "2026-11-23T22:57:34+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/SSIdoN31_zs",
+    "instagram": "https://www.instagram.com/reel/DgGgKr7AOtp/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1809286750614517",
+    "stories": "story 17919997314492949"
+   }
+  },
+  {
    "id": "2026-11-23-8-truefalse",
    "date": "2026-11-23",
    "slot": 8,
