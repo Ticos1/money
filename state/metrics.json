@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-23T15:19:14+00:00",
+ "updated_at": "2026-11-23T16:45:22+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-23",
+   "time": "13:30",
+   "title": "Segundo o Salmo 139, onde Deus 'me teceu'?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1156382543876117"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-23-4-quiz": {
    "type": "quiz",
    "date": "2026-11-23",
@@ -21,17 +38,17 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 285,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 596.8
    },
    "youtube": {
     "views": 0,
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 263,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 782.0
+    "views": 281,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 870.5
    }
   },
   "2026-11-23-2-quiz": {
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 293,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1066.2
+    "views": 307,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1124.3
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -134,7 +151,7 @@
     "watch_time_s": 21.7
    },
    "youtube": {
-    "views": 46,
+    "views": 49,
     "likes": 2,
     "comments": 0
    }
@@ -157,7 +174,7 @@
     "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 301,
+    "views": 297,
     "likes": 3,
     "comments": 1
    }
@@ -204,12 +221,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 322,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1044.9
+    "views": 324,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1067.5
    },
    "youtube": {
-    "views": 127,
+    "views": 128,
     "likes": 4,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 976.7
    },
    "youtube": {
-    "views": 73,
+    "views": 75,
     "likes": 3,
     "comments": 0
    }
@@ -301,7 +318,7 @@
     "watch_time_s": 1565.1
    },
    "youtube": {
-    "views": 114,
+    "views": 117,
     "likes": 4,
     "comments": 0
    }
@@ -393,7 +410,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 300,
+    "views": 304,
     "likes": 6,
     "comments": 0
    }
@@ -445,7 +462,7 @@
     "watch_time_s": 2183.8
    },
    "youtube": {
-    "views": 106,
+    "views": 107,
     "likes": 4,
     "comments": 0
    }
@@ -464,7 +481,7 @@
     "comments": 0,
     "views": 295,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1036.0
+    "watch_time_s": 1036.8
    }
   },
   "2026-11-21-4-quiz": {
@@ -497,7 +514,7 @@
     "watch_time_s": 1265.4
    },
    "youtube": {
-    "views": 155,
+    "views": 157,
     "likes": 4,
     "comments": 0
    }
