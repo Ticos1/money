@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-23T12:24:23+00:00",
+ "updated_at": "2026-11-23T13:00:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-23",
+   "time": "10:00",
+   "title": "Qual rei da Assíria atacou as cidades fortificadas de Judá no tempo de Ezequias?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/992773610572881"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-23-2-quiz": {
    "type": "quiz",
    "date": "2026-11-23",
@@ -17,9 +34,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 269,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 724.4
+    "views": 273,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 951.4
    },
    "youtube": {
     "views": 0,
@@ -152,7 +169,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 315,
+    "views": 318,
     "avg_watch_s": 4.0,
     "watch_time_s": 1011.6
    },
@@ -202,9 +219,9 @@
     "watch_time_s": 558.0
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 293,
+    "views": 296,
     "avg_watch_s": 4.1,
     "watch_time_s": 966.6
    },
@@ -249,7 +266,7 @@
     "watch_time_s": 1565.1
    },
    "youtube": {
-    "views": 113,
+    "views": 114,
     "likes": 4,
     "comments": 0
    }
@@ -480,9 +497,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 364,
+    "views": 366,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1296.2
+    "watch_time_s": 1308.3
    },
    "youtube": {
     "views": 168,
@@ -2809,8 +2826,8 @@
     "likes": 0,
     "comments": 0,
     "views": 6,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 15.7
+    "avg_watch_s": 4.0,
+    "watch_time_s": 20.2
    }
   },
   "2026-11-10-6-truefalse": {
