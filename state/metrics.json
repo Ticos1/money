@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-23T18:17:01+00:00",
+ "updated_at": "2026-11-23T20:09:47+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-23",
+   "time": "17:00",
+   "title": "Qual expressão descreve como o Senhor matará o iníquo?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2685028408619586"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-23-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-23",
@@ -27,15 +44,15 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 266,
+    "avg_watch_s": 3.1,
+    "watch_time_s": 675.7
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 11,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 232,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 609.6
+    "views": 236,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 652.8
    }
   },
   "2026-11-23-4-quiz": {
@@ -70,24 +87,24 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 8,
+    "reach": 39,
     "saved": 0,
     "shares": 0,
-    "views": 19,
+    "views": 48,
     "total_interactions": 1,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 41.9
+    "avg_watch_s": 4.2,
+    "watch_time_s": 158.5
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 292,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1005.1
+    "views": 296,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1038.9
    },
    "youtube": {
-    "views": 5,
-    "likes": 0,
+    "views": 16,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -121,9 +138,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 319,
-    "avg_watch_s": 5.0,
-    "watch_time_s": 1216.0
+    "views": 330,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 1292.5
    },
    "youtube": {
     "views": 12,
@@ -186,7 +203,7 @@
     "watch_time_s": 21.7
    },
    "youtube": {
-    "views": 56,
+    "views": 59,
     "likes": 2,
     "comments": 0
    }
@@ -256,12 +273,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 325,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 1067.8
+    "views": 332,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1111.1
    },
    "youtube": {
-    "views": 128,
+    "views": 148,
     "likes": 4,
     "comments": 0
    }
@@ -353,7 +370,7 @@
     "watch_time_s": 1566.5
    },
    "youtube": {
-    "views": 122,
+    "views": 123,
     "likes": 4,
     "comments": 0
    }
@@ -497,7 +514,7 @@
     "watch_time_s": 2183.8
    },
    "youtube": {
-    "views": 107,
+    "views": 110,
     "likes": 4,
     "comments": 0
    }
@@ -2723,9 +2740,9 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1373,
+    "views": 1374,
     "avg_watch_s": 4.9,
-    "watch_time_s": 5415.9
+    "watch_time_s": 5419.7
    },
    "youtube": {
     "views": 1,
@@ -10115,7 +10132,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 1070,
+    "views": 1071,
     "avg_watch_s": 2.4,
     "watch_time_s": 2427.1
    },
