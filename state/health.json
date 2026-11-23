@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-23T16:45:27+00:00",
+ "updated_at": "2026-11-23T18:17:04+00:00",
  "date": "2026-11-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-23-6-truefalse",
+   "date": "2026-11-23",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-23T15:10",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T18:10:35+00:00",
+    "instagram": "2026-11-23T18:11:11+00:00",
+    "facebook": "2026-11-23T18:11:16+00:00",
+    "stories": "2026-11-23T18:11:51+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/2LPs8AIzo38",
+    "instagram": "https://www.instagram.com/reel/DgF_h8aE9E9/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1118689544323139",
+    "stories": "story 18657843844030150"
+   },
+   "title": "Segundo 1 João 4:8, Deus é o quê?"
+  },
   {
    "id": "2026-11-23-5-quiz",
    "date": "2026-11-23",
