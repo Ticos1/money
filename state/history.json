@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-23-2-quiz",
+   "date": "2026-11-23",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-23T08:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-23T08:21:40+00:00",
+   "source": "bank",
+   "bank_id": "q956",
+   "model": null,
+   "content": {
+    "ref": "Juízes 14:8",
+    "ref_label": "Juízes 14:8",
+    "question": "O que Sansão encontrou no cadáver do leão que havia matado?",
+    "options": [
+     "Um ninho de pássaros",
+     "Uma serpente",
+     "Um enxame de abelhas",
+     "Um tesouro"
+    ],
+    "answer": 2,
+    "evidence": "havia um enxame de abelhas no corpo do leão",
+    "passage": "Depois de algum tempo, ele voltou para tomá-la, e desviou-se do caminho para ver o cadáver do leão; e eis que havia um enxame de abelhas no corpo do leão, e mel.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nO que Sansão encontrou no cadáver do leão que havia matado?\n\nA) Um ninho de pássaros\nB) Uma serpente\nC) Um enxame de abelhas\nD) Um tesouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #palavradedeus #deus #fe #biblia #desafio #gospel #perguntasbiblicas #teste #evangelico",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nO que Sansão encontrou no cadáver do leão que havia matado?\n\nA) Um ninho de pássaros\nB) Uma serpente\nC) Um enxame de abelhas\nD) Um tesouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #palavradedeus",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #cristao #evangelico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #palavradedeus #fe",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nO que Sansão encontrou no cadáver do leão que havia matado?\n\nA) Um ninho de pássaros\nB) Uma serpente\nC) Um enxame de abelhas\nD) Um tesouro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "O que Sansão encontrou no cadáver do leão que havia matado? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nO que Sansão encontrou no cadáver do leão que havia matado?\n\nA) Um ninho de pássaros\nB) Uma serpente\nC) Um enxame de abelhas\nD) Um tesouro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #jesus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "juízes"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T11:05:53+00:00",
+    "instagram": null,
+    "facebook": "2026-11-23T11:05:58+00:00",
+    "stories": "2026-11-23T11:06:56+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/G90TBO9-yO4",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1042664378873381",
+    "stories": "story 17997903804112229"
+   }
+  },
+  {
    "id": "2026-11-23-1-verse",
    "date": "2026-11-23",
    "slot": 1,
