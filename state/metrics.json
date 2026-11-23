@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-23T20:09:47+00:00",
+ "updated_at": "2026-11-23T21:25:59+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-23",
+   "time": "18:30",
+   "title": "O que fizeram com Paulo em Listra, supondo que estava morto?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/7sqH6qqu-64",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1185473707472707"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-23-7-quiz": {
    "type": "quiz",
    "date": "2026-11-23",
@@ -14,11 +37,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2685028408619586"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 273,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 830.6
    }
   },
   "2026-11-23-6-truefalse": {
@@ -38,7 +61,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
@@ -46,13 +69,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 266,
+    "views": 277,
     "avg_watch_s": 3.1,
-    "watch_time_s": 675.7
+    "watch_time_s": 722.6
    },
    "youtube": {
-    "views": 11,
-    "likes": 3,
+    "views": 17,
+    "likes": 5,
     "comments": 0
    }
   },
@@ -68,9 +91,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 236,
-    "avg_watch_s": 3.2,
-    "watch_time_s": 652.8
+    "views": 237,
+    "avg_watch_s": 3.1,
+    "watch_time_s": 654.2
    }
   },
   "2026-11-23-4-quiz": {
@@ -87,18 +110,18 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 39,
+    "reach": 54,
     "saved": 0,
     "shares": 0,
-    "views": 48,
+    "views": 68,
     "total_interactions": 1,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 158.5
+    "avg_watch_s": 4.5,
+    "watch_time_s": 214.8
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 296,
+    "views": 297,
     "avg_watch_s": 4.5,
     "watch_time_s": 1038.9
    },
@@ -120,9 +143,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 288,
+    "views": 290,
     "avg_watch_s": 3.8,
-    "watch_time_s": 923.6
+    "watch_time_s": 931.1
    }
   },
   "2026-11-23-2-quiz": {
@@ -138,13 +161,13 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 330,
+    "views": 348,
     "avg_watch_s": 5.2,
-    "watch_time_s": 1292.5
+    "watch_time_s": 1361.3
    },
    "youtube": {
-    "views": 12,
-    "likes": 0,
+    "views": 21,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -226,7 +249,7 @@
     "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 302,
+    "views": 313,
     "likes": 3,
     "comments": 1
    }
@@ -278,7 +301,7 @@
     "watch_time_s": 1111.1
    },
    "youtube": {
-    "views": 148,
+    "views": 149,
     "likes": 4,
     "comments": 0
    }
@@ -331,7 +354,7 @@
    },
    "youtube": {
     "views": 78,
-    "likes": 3,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -347,9 +370,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 303,
+    "views": 305,
     "avg_watch_s": 3.6,
-    "watch_time_s": 869.0
+    "watch_time_s": 878.1
    }
   },
   "2026-11-22-2-quiz": {
@@ -462,7 +485,7 @@
     "watch_time_s": 6.1
    },
    "youtube": {
-    "views": 307,
+    "views": 311,
     "likes": 6,
     "comments": 0
    }
@@ -561,9 +584,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 334,
+    "views": 335,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1265.4
+    "watch_time_s": 1274.1
    },
    "youtube": {
     "views": 157,
@@ -10134,7 +10157,7 @@
     "comments": 0,
     "views": 1071,
     "avg_watch_s": 2.4,
-    "watch_time_s": 2427.1
+    "watch_time_s": 2427.9
    },
    "youtube": {
     "views": 30,
