@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T15:19:17+00:00",
+ "updated_at": "2026-11-23T16:45:27+00:00",
  "date": "2026-11-23",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-23-5-quiz",
+   "date": "2026-11-23",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-23T13:34",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-23T16:35:56+00:00",
+    "stories": "2026-11-23T16:36:34+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1156382543876117",
+    "stories": "story 18111255242194654"
+   },
+   "title": "Segundo o Salmo 139, onde Deus 'me teceu'?"
+  },
   {
    "id": "2026-11-23-4-quiz",
    "date": "2026-11-23",
