@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-23T09:31:51+00:00",
+ "updated_at": "2026-11-23T11:11:59+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-23",
+   "time": "08:00",
+   "title": "O que Sansão encontrou no cadáver do leão que havia matado?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/G90TBO9-yO4",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1042664378873381"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-23-1-verse": {
    "type": "verse",
    "date": "2026-11-23",
@@ -78,11 +101,11 @@
     "likes": 0,
     "comments": 0,
     "views": 5,
-    "avg_watch_s": 16.1,
-    "watch_time_s": 32.3
+    "avg_watch_s": 10.9,
+    "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 294,
+    "views": 296,
     "likes": 2,
     "comments": 1
    }
@@ -118,7 +141,7 @@
    "instagram": {
     "likes": 2,
     "comments": 0,
-    "reach": 110,
+    "reach": 111,
     "saved": 0,
     "shares": 0,
     "views": 140,
@@ -134,7 +157,7 @@
     "watch_time_s": 1002.1
    },
    "youtube": {
-    "views": 119,
+    "views": 121,
     "likes": 3,
     "comments": 0
    }
@@ -592,9 +615,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1335,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 5349.1
+    "views": 1338,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5368.0
    },
    "youtube": {
     "views": 134,
@@ -1103,7 +1126,7 @@
     "watch_time_s": 1036.7
    },
    "youtube": {
-    "views": 160,
+    "views": 161,
     "likes": 1,
     "comments": 0
    }
