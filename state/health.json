@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-23T13:00:57+00:00",
+ "updated_at": "2026-11-23T15:19:17+00:00",
  "date": "2026-11-23",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-23-4-quiz",
+   "date": "2026-11-23",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-23T12:07",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-23T15:10:36+00:00",
+    "instagram": "2026-11-23T15:12:07+00:00",
+    "facebook": "2026-11-23T15:12:12+00:00",
+    "stories": "2026-11-23T15:12:43+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/BPCeT6XPH9s",
+    "instagram": "https://www.instagram.com/reel/DgFrCEdDyXw/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1149770301108781",
+    "stories": "story 18106678700159162"
+   },
+   "title": "Qual dos príncipes principais veio ajudar o anjo contra o príncipe da Pérsia?"
+  },
   {
    "id": "2026-11-23-3-truefalse",
    "date": "2026-11-23",
