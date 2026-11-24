@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-24-6-truefalse",
+   "date": "2026-11-24",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-24T14:54",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-24T08:41:53+00:00",
+   "source": "bank",
+   "bank_id": "q445",
+   "model": null,
+   "content": {
+    "ref": "Isaías 6:8",
+    "ref_label": "Isaías 6:8",
+    "question": "Como Isaías respondeu à pergunta: 'A quem enviarei?'",
+    "shown": "Eis-me aqui. Envie-me!",
+    "is_true": true,
+    "correct": "Eis-me aqui. Envie-me!",
+    "evidence": "Eis-me aqui. Envie-me",
+    "passage": "Eu ouvi a voz do Senhor, dizendo: “A quem enviarei, e quem irá por nós?” Então eu disse: “Eis-me aqui. Envie-me!”",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Isaías respondeu à pergunta: 'A quem enviarei?'\nResposta: Eis-me aqui. Envie-me!\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #desafiobiblico #fe #jesus #deus #cristao #biblia #perguntasbiblicas #conhecimentobiblico #palavradedeus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Isaías respondeu à pergunta: 'A quem enviarei?'\nResposta: Eis-me aqui. Envie-me!\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #conhecimentobiblico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #palavradedeus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #conhecimentobiblico #evangelico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComo Isaías respondeu à pergunta: 'A quem enviarei?'\nResposta: Eis-me aqui. Envie-me!\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo Isaías respondeu à pergunta: 'A quem enviarei?'\nResposta: Eis-me aqui. Envie-me!\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T17:55:53+00:00",
+    "instagram": "2026-11-24T17:56:40+00:00",
+    "facebook": "2026-11-24T17:56:45+00:00",
+    "stories": "2026-11-24T17:57:46+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/1-YTh60UMmc",
+    "instagram": "https://www.instagram.com/reel/DgIipNliKic/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29471306575839872",
+    "stories": "story 18085073489359548"
+   }
+  },
+  {
    "id": "2026-11-24-5-quiz",
    "date": "2026-11-24",
    "slot": 5,
