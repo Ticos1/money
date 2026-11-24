@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-24T20:01:19+00:00",
+ "updated_at": "2026-11-24T21:45:47+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-24",
+   "time": "18:30",
+   "title": "Em que livro, segundo Josué, estava escrito sobre o sol que parou?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/JRvo9XFdZIk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1466243662369138"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-24-7-quiz": {
    "type": "quiz",
    "date": "2026-11-24",
@@ -14,11 +37,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2412995156102594"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 280,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 966.1
    }
   },
   "2026-11-24-6-truefalse": {
@@ -35,23 +58,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.5,
+    "watch_time_s": 5.1
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 275,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 834.0
+    "views": 304,
+    "avg_watch_s": 3.7,
+    "watch_time_s": 877.5
    },
    "youtube": {
-    "views": 39,
+    "views": 78,
     "likes": 2,
     "comments": 0
    }
@@ -66,11 +89,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1135679292652393"
    },
    "facebook": {
-    "likes": 3,
+    "likes": 4,
     "comments": 0,
-    "views": 293,
+    "views": 308,
     "avg_watch_s": 6.4,
-    "watch_time_s": 1417.1
+    "watch_time_s": 1490.0
    }
   },
   "2026-11-24-4-quiz": {
@@ -87,24 +110,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.2,
+    "watch_time_s": 1.2
    },
    "facebook": {
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
-    "views": 286,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1041.1
+    "views": 289,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1065.2
    },
    "youtube": {
-    "views": 47,
-    "likes": 1,
+    "views": 57,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -120,9 +143,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 291,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1082.2
+    "views": 300,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1130.9
    }
   },
   "2026-11-24-2-quiz": {
@@ -138,12 +161,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 296,
+    "views": 298,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1303.3
+    "watch_time_s": 1306.1
    },
    "youtube": {
-    "views": 49,
+    "views": 53,
     "likes": 3,
     "comments": 0
    }
@@ -203,7 +226,7 @@
     "watch_time_s": 6.6
    },
    "youtube": {
-    "views": 68,
+    "views": 69,
     "likes": 2,
     "comments": 0
    }
@@ -226,7 +249,7 @@
     "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 122,
+    "views": 123,
     "likes": 5,
     "comments": 0
    }
@@ -243,9 +266,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 302,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 1011.8
+    "views": 305,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 1036.5
    }
   },
   "2026-11-23-6-truefalse": {
@@ -273,12 +296,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 289,
+    "views": 290,
     "avg_watch_s": 3.2,
-    "watch_time_s": 768.7
+    "watch_time_s": 769.3
    },
    "youtube": {
-    "views": 94,
+    "views": 98,
     "likes": 6,
     "comments": 0
    }
@@ -325,12 +348,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 309,
+    "views": 312,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1074.0
+    "watch_time_s": 1091.9
    },
    "youtube": {
-    "views": 66,
+    "views": 68,
     "likes": 4,
     "comments": 0
    }
@@ -365,9 +388,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 429,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 1774.9
+    "views": 430,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 1776.7
    },
    "youtube": {
     "views": 53,
@@ -828,9 +851,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 366,
+    "views": 367,
     "avg_watch_s": 4.6,
-    "watch_time_s": 1308.3
+    "watch_time_s": 1309.4
    },
    "youtube": {
     "views": 168,
@@ -7376,7 +7399,7 @@
     "comments": 0,
     "views": 1442,
     "avg_watch_s": 5.7,
-    "watch_time_s": 6240.7
+    "watch_time_s": 6241.5
    },
    "youtube": {
     "views": 137,
@@ -8083,7 +8106,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 1007,
+    "views": 1008,
     "avg_watch_s": 5.7,
     "watch_time_s": 4362.3
    },
@@ -8513,7 +8536,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 289,
+    "views": 290,
     "avg_watch_s": 2.4,
     "watch_time_s": 625.9
    },
