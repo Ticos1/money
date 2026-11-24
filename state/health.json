@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-24T20:01:25+00:00",
+ "updated_at": "2026-11-24T21:45:53+00:00",
  "date": "2026-11-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-24-8-truefalse",
+   "date": "2026-11-24",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-24T18:37",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T21:40:47+00:00",
+    "instagram": null,
+    "facebook": "2026-11-24T21:40:53+00:00",
+    "stories": "2026-11-24T21:41:28+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/JRvo9XFdZIk",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1466243662369138",
+    "stories": "story 18083512265577595"
+   },
+   "title": "Em que livro, segundo Josué, estava escrito sobre o sol que parou?"
+  },
   {
    "id": "2026-11-24-7-quiz",
    "date": "2026-11-24",
