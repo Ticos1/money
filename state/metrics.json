@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-24T18:04:07+00:00",
+ "updated_at": "2026-11-24T20:01:19+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-24",
+   "time": "17:00",
+   "title": "Quantos carros de ferro tinha Jabim, rei de Canaã?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2412995156102594"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-24-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-24",
@@ -29,13 +46,13 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 275,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 834.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 39,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 283,
-    "avg_watch_s": 6.5,
-    "watch_time_s": 1369.4
+    "views": 293,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 1417.1
    }
   },
   "2026-11-24-4-quiz": {
@@ -81,12 +98,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 285,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1019.5
+    "views": 286,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 1041.1
    },
    "youtube": {
-    "views": 13,
+    "views": 47,
     "likes": 1,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 287,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 1064.6
+    "views": 291,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1082.2
    }
   },
   "2026-11-24-2-quiz": {
@@ -121,12 +138,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 291,
+    "views": 296,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1254.2
+    "watch_time_s": 1303.3
    },
    "youtube": {
-    "views": 32,
+    "views": 49,
     "likes": 3,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 6.6
    },
    "youtube": {
-    "views": 66,
+    "views": 68,
     "likes": 2,
     "comments": 0
    }
@@ -209,7 +226,7 @@
     "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 99,
+    "views": 122,
     "likes": 5,
     "comments": 0
    }
@@ -261,8 +278,8 @@
     "watch_time_s": 768.7
    },
    "youtube": {
-    "views": 85,
-    "likes": 7,
+    "views": 94,
+    "likes": 6,
     "comments": 0
    }
   },
@@ -313,7 +330,7 @@
     "watch_time_s": 1074.0
    },
    "youtube": {
-    "views": 61,
+    "views": 66,
     "likes": 4,
     "comments": 0
    }
@@ -348,12 +365,12 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 425,
+    "views": 429,
     "avg_watch_s": 5.5,
-    "watch_time_s": 1764.5
+    "watch_time_s": 1774.9
    },
    "youtube": {
-    "views": 51,
+    "views": 53,
     "likes": 2,
     "comments": 0
    }
@@ -413,7 +430,7 @@
     "watch_time_s": 21.7
    },
    "youtube": {
-    "views": 72,
+    "views": 73,
     "likes": 2,
     "comments": 0
    }
@@ -431,9 +448,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 5,
-    "avg_watch_s": 10.9,
-    "watch_time_s": 32.8
+    "views": 6,
+    "avg_watch_s": 10.2,
+    "watch_time_s": 41.0
    },
    "youtube": {
     "views": 326,
@@ -488,7 +505,7 @@
     "watch_time_s": 1190.5
    },
    "youtube": {
-    "views": 169,
+    "views": 174,
     "likes": 4,
     "comments": 0
    }
@@ -719,9 +736,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 534,
+    "views": 535,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2192.8
+    "watch_time_s": 2194.8
    },
    "youtube": {
     "views": 110,
@@ -1295,9 +1312,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
-    "avg_watch_s": 0.2,
-    "watch_time_s": 0.2
+    "views": 2,
+    "avg_watch_s": 1.4,
+    "watch_time_s": 2.9
    }
   },
   "2026-11-18-9-quiz": {
@@ -1457,7 +1474,7 @@
     "watch_time_s": 1036.7
    },
    "youtube": {
-    "views": 162,
+    "views": 167,
     "likes": 1,
     "comments": 0
    }
@@ -7357,7 +7374,7 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1441,
+    "views": 1442,
     "avg_watch_s": 5.7,
     "watch_time_s": 6240.7
    },
