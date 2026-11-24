@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-24T13:11:02+00:00",
+ "updated_at": "2026-11-24T15:11:28+00:00",
  "date": "2026-11-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-24-4-quiz",
+   "date": "2026-11-24",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-24T12:01",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T15:05:39+00:00",
+    "instagram": "2026-11-24T15:06:22+00:00",
+    "facebook": "2026-11-24T15:06:26+00:00",
+    "stories": "2026-11-24T15:07:25+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/G0m6xQmw8DA",
+    "instagram": "https://www.instagram.com/reel/DgIPKWPCo03/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2013590912888113",
+    "stories": "story 17998418196022058"
+   },
+   "title": "Para onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?"
+  },
   {
    "id": "2026-11-24-3-truefalse",
    "date": "2026-11-24",
