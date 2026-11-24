@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-24T15:11:25+00:00",
+ "updated_at": "2026-11-24T16:45:52+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-24",
+   "time": "13:30",
+   "title": "Qual alimento o SENHOR providenciou ao povo no deserto conforme Salmos 105?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1135679292652393"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-24-4-quiz": {
    "type": "quiz",
    "date": "2026-11-24",
@@ -27,15 +44,15 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 275,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 904.9
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 11,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 261,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 882.7
+    "views": 278,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1034.4
    }
   },
   "2026-11-24-2-quiz": {
@@ -71,11 +88,11 @@
     "comments": 0,
     "views": 287,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1252.8
+    "watch_time_s": 1253.5
    },
    "youtube": {
-    "views": 23,
-    "likes": 1,
+    "views": 34,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -134,8 +151,8 @@
     "watch_time_s": 6.6
    },
    "youtube": {
-    "views": 63,
-    "likes": 1,
+    "views": 66,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -153,12 +170,12 @@
     "likes": 0,
     "comments": 0,
     "views": 2,
-    "avg_watch_s": 0.6,
-    "watch_time_s": 0.6
+    "avg_watch_s": 1.2,
+    "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 97,
-    "likes": 6,
+    "views": 107,
+    "likes": 5,
     "comments": 0
    }
   },
@@ -174,9 +191,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 297,
+    "views": 298,
     "avg_watch_s": 3.9,
-    "watch_time_s": 959.4
+    "watch_time_s": 961.2
    }
   },
   "2026-11-23-6-truefalse": {
@@ -209,7 +226,7 @@
     "watch_time_s": 768.7
    },
    "youtube": {
-    "views": 85,
+    "views": 89,
     "likes": 6,
     "comments": 0
    }
@@ -226,9 +243,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 251,
+    "views": 252,
     "avg_watch_s": 3.3,
-    "watch_time_s": 726.6
+    "watch_time_s": 727.3
    }
   },
   "2026-11-23-4-quiz": {
@@ -256,12 +273,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 308,
+    "views": 309,
     "avg_watch_s": 4.4,
     "watch_time_s": 1073.2
    },
    "youtube": {
-    "views": 57,
+    "views": 61,
     "likes": 4,
     "comments": 0
    }
@@ -294,11 +311,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1042664378873381"
    },
    "facebook": {
-    "likes": 4,
+    "likes": 5,
     "comments": 1,
-    "views": 418,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 1699.6
+    "views": 424,
+    "avg_watch_s": 5.5,
+    "watch_time_s": 1755.4
    },
    "youtube": {
     "views": 51,
@@ -384,7 +401,7 @@
     "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 325,
+    "views": 326,
     "likes": 3,
     "comments": 1
    }
@@ -436,7 +453,7 @@
     "watch_time_s": 1190.5
    },
    "youtube": {
-    "views": 168,
+    "views": 169,
     "likes": 4,
     "comments": 0
    }
@@ -4094,9 +4111,9 @@
    "facebook": {
     "likes": 2,
     "comments": 2,
-    "views": 415,
+    "views": 416,
     "avg_watch_s": 5.1,
-    "watch_time_s": 1634.9
+    "watch_time_s": 1635.7
    },
    "youtube": {
     "views": 82,
