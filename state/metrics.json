@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-24T21:45:47+00:00",
+ "updated_at": "2026-11-24T23:01:08+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-24",
+   "time": "20:00",
+   "title": "Qual é o agente que derramou o amor de Deus em nossos corações?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/sDXYwzyi21Q",
+    "instagram": "https://www.instagram.com/reel/DgJE9vQlIue/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2937414003300865"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-24-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-24",
@@ -22,7 +57,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -39,9 +74,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 280,
+    "views": 281,
     "avg_watch_s": 4.3,
-    "watch_time_s": 966.1
+    "watch_time_s": 981.5
    }
   },
   "2026-11-24-6-truefalse": {
@@ -58,20 +93,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 2,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 5,
     "total_interactions": 0,
-    "avg_watch_s": 2.5,
-    "watch_time_s": 5.1
+    "avg_watch_s": 2.0,
+    "watch_time_s": 9.8
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 304,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 877.5
+    "views": 310,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 1033.3
    },
    "youtube": {
     "views": 78,
@@ -91,9 +126,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 308,
+    "views": 310,
     "avg_watch_s": 6.4,
-    "watch_time_s": 1490.0
+    "watch_time_s": 1513.9
    }
   },
   "2026-11-24-4-quiz": {
@@ -110,18 +145,18 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 2,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 3,
     "total_interactions": 0,
-    "avg_watch_s": 1.2,
-    "watch_time_s": 1.2
+    "avg_watch_s": 3.0,
+    "watch_time_s": 6.0
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 289,
+    "views": 291,
     "avg_watch_s": 4.7,
     "watch_time_s": 1065.2
    },
@@ -143,9 +178,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 300,
+    "views": 301,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1130.9
+    "watch_time_s": 1140.1
    }
   },
   "2026-11-24-2-quiz": {
@@ -161,9 +196,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 298,
+    "views": 301,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1306.1
+    "watch_time_s": 1318.7
    },
    "youtube": {
     "views": 53,
@@ -266,9 +301,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 305,
+    "views": 309,
     "avg_watch_s": 4.1,
-    "watch_time_s": 1036.5
+    "watch_time_s": 1047.3
    }
   },
   "2026-11-23-6-truefalse": {
@@ -575,9 +610,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 299,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 1004.2
+    "views": 302,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 1024.3
    },
    "youtube": {
     "views": 79,
@@ -809,11 +844,11 @@
     "watch_time_s": 709.3
    },
    "facebook": {
-    "likes": 9,
+    "likes": 10,
     "comments": 0,
-    "views": 335,
+    "views": 337,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1274.1
+    "watch_time_s": 1295.0
    },
    "youtube": {
     "views": 157,
@@ -3647,7 +3682,7 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 1263,
+    "views": 1264,
     "avg_watch_s": 5.4,
     "watch_time_s": 5198.7
    },
@@ -4151,7 +4186,7 @@
     "watch_time_s": 6392.2
    },
    "youtube": {
-    "views": 134,
+    "views": 135,
     "likes": 1,
     "comments": 0
    }
@@ -8108,7 +8143,7 @@
     "comments": 0,
     "views": 1008,
     "avg_watch_s": 5.7,
-    "watch_time_s": 4362.3
+    "watch_time_s": 4366.3
    },
    "youtube": {
     "views": 68,
