@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-24T16:45:52+00:00",
+ "updated_at": "2026-11-24T18:04:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-24",
+   "time": "15:00",
+   "title": "Como Isaías respondeu à pergunta: 'A quem enviarei?'",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "youtube": "https://youtube.com/shorts/1-YTh60UMmc",
+    "instagram": "https://www.instagram.com/reel/DgIipNliKic/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/29471306575839872"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-24-5-quiz": {
    "type": "quiz",
    "date": "2026-11-24",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1135679292652393"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 3,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 283,
+    "avg_watch_s": 6.5,
+    "watch_time_s": 1369.4
    }
   },
   "2026-11-24-4-quiz": {
@@ -46,12 +81,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 275,
+    "views": 285,
     "avg_watch_s": 4.5,
-    "watch_time_s": 904.9
+    "watch_time_s": 1019.5
    },
    "youtube": {
-    "views": 11,
+    "views": 13,
     "likes": 1,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 278,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1034.4
+    "views": 287,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1064.6
    }
   },
   "2026-11-24-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 287,
+    "views": 291,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1253.5
+    "watch_time_s": 1254.2
    },
    "youtube": {
-    "views": 34,
+    "views": 32,
     "likes": 3,
     "comments": 0
    }
@@ -174,7 +209,7 @@
     "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 107,
+    "views": 99,
     "likes": 5,
     "comments": 0
    }
@@ -191,9 +226,9 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 298,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 961.2
+    "views": 302,
+    "avg_watch_s": 4.0,
+    "watch_time_s": 1011.8
    }
   },
   "2026-11-23-6-truefalse": {
@@ -226,8 +261,8 @@
     "watch_time_s": 768.7
    },
    "youtube": {
-    "views": 89,
-    "likes": 6,
+    "views": 85,
+    "likes": 7,
     "comments": 0
    }
   },
@@ -275,7 +310,7 @@
     "comments": 0,
     "views": 309,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1073.2
+    "watch_time_s": 1074.0
    },
    "youtube": {
     "views": 61,
@@ -313,9 +348,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 424,
+    "views": 425,
     "avg_watch_s": 5.5,
-    "watch_time_s": 1755.4
+    "watch_time_s": 1764.5
    },
    "youtube": {
     "views": 51,
@@ -2499,9 +2534,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 254,
+    "views": 255,
     "avg_watch_s": 4.5,
-    "watch_time_s": 972.6
+    "watch_time_s": 979.2
    }
   },
   "2026-11-13-4-quiz": {
