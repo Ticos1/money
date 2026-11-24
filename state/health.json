@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-24T09:28:21+00:00",
+ "updated_at": "2026-11-24T10:58:19+00:00",
  "date": "2026-11-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-24-2-quiz",
+   "date": "2026-11-24",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-24T07:53",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T10:55:42+00:00",
+    "instagram": null,
+    "facebook": "2026-11-24T10:55:48+00:00",
+    "stories": "2026-11-24T10:56:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/QtKnvG1kDIU",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2215032502779017",
+    "stories": "story 17993019266877053"
+   },
+   "title": "Qual era o nome da porta do templo onde ficava o coxo curado por Pedro?"
+  },
   {
    "id": "2026-11-24-1-verse",
    "date": "2026-11-24",
