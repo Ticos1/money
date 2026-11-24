@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-24T13:39:19+00:00",
+ "updated_at": "2026-11-24T15:11:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-24",
+   "time": "12:00",
+   "title": "Para onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/G0m6xQmw8DA",
+    "instagram": "https://www.instagram.com/reel/DgIPKWPCo03/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2013590912888113"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-24-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-24",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 77,
-    "avg_watch_s": 10.5,
-    "watch_time_s": 21.1
+    "views": 261,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 882.7
    }
   },
   "2026-11-24-2-quiz": {
@@ -34,13 +69,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 284,
+    "views": 287,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1235.0
+    "watch_time_s": 1252.8
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 23,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -117,7 +152,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 1,
+    "views": 2,
     "avg_watch_s": 0.6,
     "watch_time_s": 0.6
    },
@@ -141,7 +176,7 @@
     "comments": 0,
     "views": 297,
     "avg_watch_s": 3.9,
-    "watch_time_s": 957.6
+    "watch_time_s": 959.4
    }
   },
   "2026-11-23-6-truefalse": {
@@ -174,8 +209,8 @@
     "watch_time_s": 768.7
    },
    "youtube": {
-    "views": 84,
-    "likes": 7,
+    "views": 85,
+    "likes": 6,
     "comments": 0
    }
   },
@@ -191,9 +226,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 249,
+    "views": 251,
     "avg_watch_s": 3.3,
-    "watch_time_s": 715.2
+    "watch_time_s": 726.6
    }
   },
   "2026-11-23-4-quiz": {
@@ -221,12 +256,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 305,
+    "views": 308,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1061.8
+    "watch_time_s": 1073.2
    },
    "youtube": {
-    "views": 55,
+    "views": 57,
     "likes": 4,
     "comments": 0
    }
@@ -243,9 +278,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 300,
+    "views": 301,
     "avg_watch_s": 3.9,
-    "watch_time_s": 971.8
+    "watch_time_s": 972.6
    }
   },
   "2026-11-23-2-quiz": {
@@ -261,13 +296,13 @@
    "facebook": {
     "likes": 4,
     "comments": 1,
-    "views": 415,
-    "avg_watch_s": 5.4,
-    "watch_time_s": 1687.9
+    "views": 418,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1699.6
    },
    "youtube": {
-    "views": 50,
-    "likes": 3,
+    "views": 51,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -632,9 +667,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 533,
+    "views": 534,
     "avg_watch_s": 5.8,
-    "watch_time_s": 2185.2
+    "watch_time_s": 2192.8
    },
    "youtube": {
     "views": 110,
