@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-24T02:12:31+00:00",
- "date": "2026-11-23",
+ "updated_at": "2026-11-24T09:04:05+00:00",
+ "date": "2026-11-24",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 4,
+  "used": 3,
   "max": 20,
   "enabled": true
  },
@@ -16,29 +16,29 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 537,
-   "days_left": 537,
+   "fresh": 535,
+   "days_left": 535,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 432,
+   "fresh": 430,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 829,
-   "days_left": 92,
+   "fresh": 823,
+   "days_left": 91,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 873,
-   "days_left": 97,
+   "fresh": 866,
+   "days_left": 96,
    "warn": false
   },
   {
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-23-10-truefalse",
-   "date": "2026-11-23",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-23T21:24",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-24T00:25:48+00:00",
-    "stories": "2026-11-24T00:26:21+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2560506647768206",
-    "stories": "story 18374180743245290"
-   },
-   "title": "Em qual ilha Paulo deixou Tito para constituir presbíteros?"
-  },
-  {
-   "id": "2026-11-23-9-quiz",
-   "date": "2026-11-23",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-23T19:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-23T22:55:45+00:00",
-    "instagram": "2026-11-23T22:56:30+00:00",
-    "facebook": "2026-11-23T22:56:36+00:00",
-    "stories": "2026-11-23T22:57:34+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SSIdoN31_zs",
-    "instagram": "https://www.instagram.com/reel/DgGgKr7AOtp/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1809286750614517",
-    "stories": "story 17919997314492949"
-   },
-   "title": "Em qual tanque Jesus mandou o cego de nascença se lavar?"
-  },
-  {
-   "id": "2026-11-23-8-truefalse",
-   "date": "2026-11-23",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-23T18:20",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-23T21:20:37+00:00",
-    "instagram": null,
-    "facebook": "2026-11-23T21:20:42+00:00",
-    "stories": "2026-11-23T21:21:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/7sqH6qqu-64",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1185473707472707",
-    "stories": "story 17917428393557796"
-   },
-   "title": "O que fizeram com Paulo em Listra, supondo que estava morto?"
-  },
-  {
-   "id": "2026-11-23-7-quiz",
-   "date": "2026-11-23",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-23T17:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-23T20:05:54+00:00",
-    "stories": "2026-11-23T20:06:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2685028408619586",
-    "stories": "story 18163511962507560"
-   },
-   "title": "Qual expressão descreve como o Senhor matará o iníquo?"
-  },
-  {
-   "id": "2026-11-23-6-truefalse",
-   "date": "2026-11-23",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-23T15:10",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-23T18:10:35+00:00",
-    "instagram": "2026-11-23T18:11:11+00:00",
-    "facebook": "2026-11-23T18:11:16+00:00",
-    "stories": "2026-11-23T18:11:51+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/2LPs8AIzo38",
-    "instagram": "https://www.instagram.com/reel/DgF_h8aE9E9/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1118689544323139",
-    "stories": "story 18657843844030150"
-   },
-   "title": "Segundo 1 João 4:8, Deus é o quê?"
-  },
-  {
-   "id": "2026-11-23-5-quiz",
-   "date": "2026-11-23",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-23T13:34",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-23T16:35:56+00:00",
-    "stories": "2026-11-23T16:36:34+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1156382543876117",
-    "stories": "story 18111255242194654"
-   },
-   "title": "Segundo o Salmo 139, onde Deus 'me teceu'?"
-  },
-  {
-   "id": "2026-11-23-4-quiz",
-   "date": "2026-11-23",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-23T12:07",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-23T15:10:36+00:00",
-    "instagram": "2026-11-23T15:12:07+00:00",
-    "facebook": "2026-11-23T15:12:12+00:00",
-    "stories": "2026-11-23T15:12:43+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/BPCeT6XPH9s",
-    "instagram": "https://www.instagram.com/reel/DgFrCEdDyXw/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1149770301108781",
-    "stories": "story 18106678700159162"
-   },
-   "title": "Qual dos príncipes principais veio ajudar o anjo contra o príncipe da Pérsia?"
-  },
-  {
-   "id": "2026-11-23-3-truefalse",
-   "date": "2026-11-23",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-23T09:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-23T12:55:40+00:00",
-    "stories": "2026-11-23T12:56:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/992773610572881",
-    "stories": "story 18088269542353596"
-   },
-   "title": "Qual rei da Assíria atacou as cidades fortificadas de Judá no tempo de Ezequias?"
-  },
-  {
-   "id": "2026-11-23-2-quiz",
-   "date": "2026-11-23",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-23T08:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-23T11:05:53+00:00",
-    "instagram": null,
-    "facebook": "2026-11-23T11:05:58+00:00",
-    "stories": "2026-11-23T11:06:56+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/G90TBO9-yO4",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1042664378873381",
-    "stories": "story 17997903804112229"
-   },
-   "title": "O que Sansão encontrou no cadáver do leão que havia matado?"
-  },
-  {
-   "id": "2026-11-23-1-verse",
-   "date": "2026-11-23",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-23T06:22",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-23T09:26:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18112404707575337"
-   },
-   "title": "Provérbios 15:1"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
