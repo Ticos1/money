@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-23T23:01:35+00:00",
+ "updated_at": "2026-11-24T00:30:09+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-23-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-23",
+   "time": "21:30",
+   "title": "Em qual ilha Paulo deixou Tito para constituir presbíteros?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2560506647768206"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-23-9-quiz": {
    "type": "quiz",
    "date": "2026-11-23",
@@ -34,8 +51,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 22,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -57,7 +74,7 @@
     "watch_time_s": 0.6
    },
    "youtube": {
-    "views": 21,
+    "views": 41,
     "likes": 1,
     "comments": 0
    }
@@ -74,9 +91,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 282,
+    "views": 290,
     "avg_watch_s": 3.8,
-    "watch_time_s": 889.8
+    "watch_time_s": 925.4
    }
   },
   "2026-11-23-6-truefalse": {
@@ -91,26 +108,26 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1118689544323139"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 5,
+    "reach": 24,
     "saved": 0,
     "shares": 0,
-    "views": 9,
-    "total_interactions": 0,
-    "avg_watch_s": 7.4,
-    "watch_time_s": 22.1
+    "views": 40,
+    "total_interactions": 1,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 138.7
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 279,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 731.7
+    "views": 284,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 750.1
    },
    "youtube": {
-    "views": 27,
-    "likes": 7,
+    "views": 39,
+    "likes": 6,
     "comments": 0
    }
   },
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 238,
-    "avg_watch_s": 3.1,
-    "watch_time_s": 655.0
+    "views": 241,
+    "avg_watch_s": 3.2,
+    "watch_time_s": 668.0
    }
   },
   "2026-11-23-4-quiz": {
@@ -143,25 +160,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1149770301108781"
    },
    "instagram": {
-    "likes": 1,
+    "likes": 3,
     "comments": 0,
-    "reach": 59,
+    "reach": 69,
     "saved": 0,
     "shares": 0,
-    "views": 73,
-    "total_interactions": 1,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 233.2
+    "views": 88,
+    "total_interactions": 3,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 294.1
    },
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 297,
+    "views": 298,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1039.8
+    "watch_time_s": 1042.2
    },
    "youtube": {
-    "views": 21,
+    "views": 24,
     "likes": 2,
     "comments": 0
    }
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 292,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 939.6
+    "views": 293,
+    "avg_watch_s": 3.8,
+    "watch_time_s": 940.0
    }
   },
   "2026-11-23-2-quiz": {
@@ -196,12 +213,12 @@
    "facebook": {
     "likes": 3,
     "comments": 1,
-    "views": 383,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 1450.4
+    "views": 394,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 1588.3
    },
    "youtube": {
-    "views": 20,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 21.7
    },
    "youtube": {
-    "views": 64,
+    "views": 66,
     "likes": 2,
     "comments": 0
    }
@@ -284,7 +301,7 @@
     "watch_time_s": 32.8
    },
    "youtube": {
-    "views": 315,
+    "views": 319,
     "likes": 3,
     "comments": 1
    }
@@ -336,7 +353,7 @@
     "watch_time_s": 1182.5
    },
    "youtube": {
-    "views": 151,
+    "views": 153,
     "likes": 4,
     "comments": 0
    }
@@ -388,7 +405,7 @@
     "watch_time_s": 976.7
    },
    "youtube": {
-    "views": 78,
+    "views": 79,
     "likes": 4,
     "comments": 0
    }
@@ -428,7 +445,7 @@
     "watch_time_s": 1587.9
    },
    "youtube": {
-    "views": 123,
+    "views": 125,
     "likes": 4,
     "comments": 0
    }
@@ -6039,7 +6056,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 54,
+    "views": 55,
     "likes": 1,
     "comments": 0
    }
@@ -9489,9 +9506,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 809,
+    "views": 810,
     "avg_watch_s": 2.6,
-    "watch_time_s": 1934.8
+    "watch_time_s": 1935.9
    },
    "youtube": {
     "views": 7,
