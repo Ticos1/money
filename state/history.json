@@ -1,6 +1,99 @@
 {
  "posts": [
   {
+   "id": "2026-11-24-2-quiz",
+   "date": "2026-11-24",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-24T07:53",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-24T08:40:33+00:00",
+   "source": "bank",
+   "bank_id": "q233",
+   "model": null,
+   "content": {
+    "ref": "Atos 3:2",
+    "ref_label": "Atos 3:2",
+    "question": "Qual era o nome da porta do templo onde ficava o coxo curado por Pedro?",
+    "options": [
+     "Porta Dourada",
+     "Porta Formosa",
+     "Porta das Ovelhas",
+     "Porta dos Peixes"
+    ],
+    "answer": 1,
+    "evidence": "porta do templo chamada Formosa",
+    "passage": "Um certo homem, coxo desde o ventre de sua mãe, era carregado; eles o colocavam diariamente à porta do templo chamada Formosa, para pedir esmolas aos que entravam no templo.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome da porta do templo onde ficava o coxo curado por Pedro?\n\nA) Porta Dourada\nB) Porta Formosa\nC) Porta das Ovelhas\nD) Porta dos Peixes\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #biblia #teste #palavradedeus #desafio #cristao #evangelico #jesus #gospel #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome da porta do templo onde ficava o coxo curado por Pedro?\n\nA) Porta Dourada\nB) Porta Formosa\nC) Porta das Ovelhas\nD) Porta dos Peixes\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #palavradedeus #biblia",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #deus #desafio",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual era o nome da porta do templo onde ficava o coxo curado por Pedro?\n\nA) Porta Dourada\nB) Porta Formosa\nC) Porta das Ovelhas\nD) Porta dos Peixes\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Pergunta bíblica que quase ninguém acerta 🤔 #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual era o nome da porta do templo onde ficava o coxo curado por Pedro?\n\nA) Porta Dourada\nB) Porta Formosa\nC) Porta das Ovelhas\nD) Porta dos Peixes\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T10:55:42+00:00",
+    "instagram": null,
+    "facebook": "2026-11-24T10:55:48+00:00",
+    "stories": "2026-11-24T10:56:20+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/QtKnvG1kDIU",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2215032502779017",
+    "stories": "story 17993019266877053"
+   }
+  },
+  {
    "id": "2026-11-24-1-verse",
    "date": "2026-11-24",
    "slot": 1,
