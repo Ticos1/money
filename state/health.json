@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T10:58:19+00:00",
+ "updated_at": "2026-11-24T13:11:02+00:00",
  "date": "2026-11-24",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-24-3-truefalse",
+   "date": "2026-11-24",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-24T10:02",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-24T13:05:52+00:00",
+    "stories": "2026-11-24T13:06:27+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1699180845215876",
+    "stories": "story 18343922449275718"
+   },
+   "title": "Segundo Ageu, onde quem recebia salário o colocava?"
+  },
   {
    "id": "2026-11-24-2-quiz",
    "date": "2026-11-24",
