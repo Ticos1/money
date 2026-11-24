@@ -1,6 +1,100 @@
 {
  "posts": [
   {
+   "id": "2026-11-24-4-quiz",
+   "date": "2026-11-24",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-24T12:01",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-24T08:41:13+00:00",
+   "source": "bank",
+   "bank_id": "q1147",
+   "model": null,
+   "content": {
+    "ref": "Isaías 38:2",
+    "ref_label": "Isaías 38:2",
+    "question": "Para onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?",
+    "options": [
+     "Para o céu",
+     "Para o oriente",
+     "Para a parede",
+     "Para a janela"
+    ],
+    "answer": 2,
+    "evidence": "Ezequias virou o rosto para a parede",
+    "passage": "Então Ezequias virou o rosto para a parede e orou ao SENHOR,",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nPara onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?\n\nA) Para o céu\nB) Para o oriente\nC) Para a parede\nD) Para a janela\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #gospel #deus #jesus #evangelico #biblia #cristao #perguntasbiblicas #conhecimentobiblico #fe",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nPara onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?\n\nA) Para o céu\nB) Para o oriente\nC) Para a parede\nD) Para a janela\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #biblia #perguntasbiblicas",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #cristao #deus",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nPara onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?\n\nA) Para o céu\nB) Para o oriente\nC) Para a parede\nD) Para a janela\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: só 1% acerta essa pergunta 🤔 #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nPara onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?\n\nA) Para o céu\nB) Para o oriente\nC) Para a parede\nD) Para a janela\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "isaías"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-24T15:05:39+00:00",
+    "instagram": "2026-11-24T15:06:22+00:00",
+    "facebook": "2026-11-24T15:06:26+00:00",
+    "stories": "2026-11-24T15:07:25+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/G0m6xQmw8DA",
+    "instagram": "https://www.instagram.com/reel/DgIPKWPCo03/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2013590912888113",
+    "stories": "story 17998418196022058"
+   }
+  },
+  {
    "id": "2026-11-24-3-truefalse",
    "date": "2026-11-24",
    "slot": 3,
