@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-25T09:44:05+00:00",
+ "updated_at": "2026-11-25T11:04:36+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 0,
+  "used": 1,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-25-2-quiz",
+   "date": "2026-11-25",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-25T07:58",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-25T11:00:43+00:00",
+    "instagram": null,
+    "facebook": "2026-11-25T11:00:48+00:00",
+    "stories": "2026-11-25T11:01:19+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Yo12SuLk5JY",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1010199142145942",
+    "stories": "story 17995862802113631"
+   },
+   "title": "Qual palavra descreve quem é o Senhor em 2 Coríntios 3:17?"
+  },
   {
    "id": "2026-11-25-1-verse",
    "date": "2026-11-25",
