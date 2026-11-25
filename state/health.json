@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-25T16:39:35+00:00",
+ "updated_at": "2026-11-25T18:12:38+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-25-6-truefalse",
+   "date": "2026-11-25",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-25T15:05",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-25T18:05:51+00:00",
+    "instagram": "2026-11-25T18:06:42+00:00",
+    "facebook": "2026-11-25T18:06:46+00:00",
+    "stories": "2026-11-25T18:07:36+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IHNXg_6E_8U",
+    "instagram": "https://www.instagram.com/reel/DgLIme8BbWa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2232807427311239",
+    "stories": "story 18042716258839516"
+   },
+   "title": "Em que animal Moisés colocou a esposa e os filhos para voltar ao Egito?"
+  },
   {
    "id": "2026-11-25-5-quiz",
    "date": "2026-11-25",
