@@ -1,3 +1,990 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-25-10-truefalse",
+   "date": "2026-11-25",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-25T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:25:31+00:00",
+   "source": "bank",
+   "bank_id": "q155",
+   "model": null,
+   "content": {
+    "ref": "2 Crônicas 26:21",
+    "ref_label": "2 Crônicas 26:21",
+    "question": "Qual rei ficou leproso até o dia de sua morte?",
+    "shown": "Joás",
+    "is_true": false,
+    "correct": "Uzias",
+    "evidence": "O rei Uzias foi leproso",
+    "passage": "O rei Uzias foi leproso até o dia de sua morte, e viveu em uma casa separada, sendo leproso; pois ele foi excluído da casa do SENHOR. Jotão, seu filho, estava sobre a casa do rei, julgando o povo da terra.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual rei ficou leproso até o dia de sua morte?\nResposta: Joás\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #palavradedeus #deus #evangelico #conhecimentobiblico #biblia #desafiobiblico #fe #gospel #jesus #perguntasbiblicas",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual rei ficou leproso até o dia de sua morte?\nResposta: Joás\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #gospel",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #cristao",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #jesus #biblia",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual rei ficou leproso até o dia de sua morte?\nResposta: Joás\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Qual rei ficou leproso até o dia de sua morte? #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual rei ficou leproso até o dia de sua morte?\nResposta: Joás\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #palavradedeus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 crônicas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-9-quiz",
+   "date": "2026-11-25",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-25T19:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:25:08+00:00",
+   "source": "bank",
+   "bank_id": "q970",
+   "model": null,
+   "content": {
+    "ref": "Gênesis 32:2",
+    "ref_label": "Gênesis 32:2",
+    "question": "Que nome Jacó deu ao lugar onde os anjos de Deus o encontraram?",
+    "options": [
+     "Maanaim",
+     "Peniel",
+     "Betel",
+     "Siquém"
+    ],
+    "answer": 0,
+    "evidence": "chamou o nome daquele lugar de Maanaim",
+    "passage": "Quando os viu, Jacó disse: “Este é o exército de Deus.” E chamou o nome daquele lugar de Maanaim.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nQue nome Jacó deu ao lugar onde os anjos de Deus o encontraram?\n\nA) Maanaim\nB) Peniel\nC) Betel\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #evangelico #palavradedeus #gospel #teste #conhecimentobiblico #fe #cristao #jesus #deus",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nQue nome Jacó deu ao lugar onde os anjos de Deus o encontraram?\n\nA) Maanaim\nB) Peniel\nC) Betel\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #perguntasbiblicas",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #palavradedeus",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #cristao #fe",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nQue nome Jacó deu ao lugar onde os anjos de Deus o encontraram?\n\nA) Maanaim\nB) Peniel\nC) Betel\nD) Siquém\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Que nome Jacó deu ao lugar onde os anjos de Deus o encontraram? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nQue nome Jacó deu ao lugar onde os anjos de Deus o encontraram?\n\nA) Maanaim\nB) Peniel\nC) Betel\nD) Siquém\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "gênesis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-8-truefalse",
+   "date": "2026-11-25",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-25T18:37",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:24:41+00:00",
+   "source": "bank",
+   "bank_id": "q742",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 7:21",
+    "ref_label": "1 Reis 7:21",
+    "question": "Que nomes Salomão deu às duas colunas do pórtico do templo?",
+    "shown": "Jaquim e Boaz",
+    "is_true": true,
+    "correct": "Jaquim e Boaz",
+    "evidence": "a chamou de Jaquim",
+    "passage": "Ele ergueu as colunas no pórtico do templo. Ele ergueu a coluna direita e a chamou de Jaquim; e ergueu a coluna esquerda e a chamou de Boaz.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue nomes Salomão deu às duas colunas do pórtico do templo?\nResposta: Jaquim e Boaz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #desafiobiblico #conhecimentobiblico #palavradedeus #jesus #cristao #perguntasbiblicas #gospel #fe #deus",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue nomes Salomão deu às duas colunas do pórtico do templo?\nResposta: Jaquim e Boaz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #fe #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #jesus #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQue nomes Salomão deu às duas colunas do pórtico do templo?\nResposta: Jaquim e Boaz\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQue nomes Salomão deu às duas colunas do pórtico do templo?\nResposta: Jaquim e Boaz\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #gospel",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-8-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-7-quiz",
+   "date": "2026-11-25",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-25T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:24:16+00:00",
+   "source": "bank",
+   "bank_id": "q1157",
+   "model": null,
+   "content": {
+    "ref": "Atos 12:4",
+    "ref_label": "Atos 12:4",
+    "question": "A quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?",
+    "options": [
+     "Doze",
+     "Quatro",
+     "Dois",
+     "Seis"
+    ],
+    "answer": 1,
+    "evidence": "a quatro grupos de quatro soldados",
+    "passage": "Depois de prendê-lo, colocou-o na prisão e o entregou a quatro grupos de quatro soldados cada para guardá-lo, com a intenção de apresentá-lo ao povo depois da Páscoa.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe #cristao #jesus #desafio #conhecimentobiblico #teste #gospel #perguntasbiblicas #palavradedeus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #gospel #fe",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #biblia",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-6-truefalse",
+   "date": "2026-11-25",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-25T15:05",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:23:48+00:00",
+   "source": "bank",
+   "bank_id": "q978",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 4:20",
+    "ref_label": "Êxodo 4:20",
+    "question": "Em que animal Moisés colocou a esposa e os filhos para voltar ao Egito?",
+    "shown": "Mula",
+    "is_true": false,
+    "correct": "Jumento",
+    "evidence": "colocou-os sobre um jumento",
+    "passage": "Moisés pegou sua esposa e seus filhos, colocou-os sobre um jumento e voltou para a terra do Egito. Moisés levou a vara de Deus em sua mão.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #gospel #palavradedeus #evangelico #perguntasbiblicas #jesus #deus #biblia #desafiobiblico #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #evangelico #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-5-quiz",
+   "date": "2026-11-25",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-25T13:34",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:23:23+00:00",
+   "source": "bank",
+   "bank_id": "q934",
+   "model": null,
+   "content": {
+    "ref": "1 Reis 4:26",
+    "ref_label": "1 Reis 4:26",
+    "question": "Quantos estábulos de cavalos Salomão tinha para os seus carros?",
+    "options": [
+     "Quarenta mil",
+     "Dez mil",
+     "Cem mil",
+     "Sete mil"
+    ],
+    "answer": 0,
+    "evidence": "Salomão tinha quarenta mil estábulos de cavalos",
+    "passage": "Salomão tinha quarenta mil estábulos de cavalos para os seus carros, e doze mil cavaleiros.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQuantos estábulos de cavalos Salomão tinha para os seus carros?\n\nA) Quarenta mil\nB) Dez mil\nC) Cem mil\nD) Sete mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #deus #gospel #fe #perguntasbiblicas #teste #jesus #cristao #evangelico #biblia",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQuantos estábulos de cavalos Salomão tinha para os seus carros?\n\nA) Quarenta mil\nB) Dez mil\nC) Cem mil\nD) Sete mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #gospel",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #deus #palavradedeus #gospel",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #biblia #fe",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQuantos estábulos de cavalos Salomão tinha para os seus carros?\n\nA) Quarenta mil\nB) Dez mil\nC) Cem mil\nD) Sete mil\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos estábulos de cavalos Salomão tinha para os seus carros? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQuantos estábulos de cavalos Salomão tinha para os seus carros?\n\nA) Quarenta mil\nB) Dez mil\nC) Cem mil\nD) Sete mil\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-4-quiz",
+   "date": "2026-11-25",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-25T12:08",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:22:55+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 2:4",
+    "ref_label": "Salmos 2:4",
+    "question": "Qual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?",
+    "options": [
+     "nos céus",
+     "no trono",
+     "na terra",
+     "no abismo"
+    ],
+    "answer": 0,
+    "evidence": "nos céus",
+    "passage": "Aquele que está assentado nos céus rirá. O Senhor zombará deles.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?\n\nA) nos céus\nB) no trono\nC) na terra\nD) no abismo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #desafio #fe #biblia #gospel #cristao #perguntasbiblicas #jesus #evangelico #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?\n\nA) nos céus\nB) no trono\nC) na terra\nD) no abismo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #fe #evangelico",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #cristao #jesus",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #biblia #perguntasbiblicas",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?\n\nA) nos céus\nB) no trono\nC) na terra\nD) no abismo\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?\n\nA) nos céus\nB) no trono\nC) na terra\nD) no abismo\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #palavradedeus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-3-truefalse",
+   "date": "2026-11-25",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-25T09:55",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:22:25+00:00",
+   "source": "bank",
+   "bank_id": "q1025",
+   "model": null,
+   "content": {
+    "ref": "Ester 2:3",
+    "ref_label": "Ester 2:3",
+    "question": "Quem era o eunuco do rei encarregado de guardar as mulheres?",
+    "shown": "Hamã",
+    "is_true": false,
+    "correct": "Hegai",
+    "evidence": "Hegai, o eunuco do rei",
+    "passage": "Que o rei nomeie oficiais em todas as províncias do seu reino, para que reúnam todas as belas jovens virgens na cidadela de Susã, na casa das mulheres, sob a custódia de Hegai, o eunuco do rei, guarda das mulheres. Que lhes sejam dados cosméticos;",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem era o eunuco do rei encarregado de guardar as mulheres?\nResposta: Hamã\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #biblia #palavradedeus #jesus #perguntasbiblicas #desafiobiblico #evangelico #conhecimentobiblico #deus #fe",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem era o eunuco do rei encarregado de guardar as mulheres?\nResposta: Hamã\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #desafiobiblico",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #desafiobiblico #palavradedeus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #gospel",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuem era o eunuco do rei encarregado de guardar as mulheres?\nResposta: Hamã\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem era o eunuco do rei encarregado de guardar as mulheres?\nResposta: Hamã\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #evangelico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "ester"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.01,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-2-quiz",
+   "date": "2026-11-25",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-25T07:58",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:22:01+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "2 Coríntios 3:17",
+    "ref_label": "2 Coríntios 3:17",
+    "question": "Qual palavra descreve quem é o Senhor em 2 Coríntios 3:17?",
+    "options": [
+     "Espírito",
+     "Justiça",
+     "Céu",
+     "Poder"
+    ],
+    "answer": 0,
+    "evidence": "Espírito",
+    "passage": "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra descreve quem é o Senhor em 2 Coríntios 3:17?\n\nA) Espírito\nB) Justiça\nC) Céu\nD) Poder\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #jesus #fe #teste #desafio #evangelico #biblia #perguntasbiblicas #conhecimentobiblico #deus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra descreve quem é o Senhor em 2 Coríntios 3:17?\n\nA) Espírito\nB) Justiça\nC) Céu\nD) Poder\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #conhecimentobiblico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #gospel #deus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #perguntasbiblicas #jesus",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual palavra descreve quem é o Senhor em 2 Coríntios 3:17?\n\nA) Espírito\nB) Justiça\nC) Céu\nD) Poder\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual palavra descreve quem é o Senhor em 2 Coríntios 3:17? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual palavra descreve quem é o Senhor em 2 Coríntios 3:17?\n\nA) Espírito\nB) Justiça\nC) Céu\nD) Poder\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 coríntios"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.28,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-25-1-verse",
+   "date": "2026-11-25",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-25T06:40",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:21:33+00:00",
+   "source": "bank",
+   "bank_id": "v336",
+   "model": null,
+   "content": {
+    "ref": "Salmos 62:5",
+    "ref_label": "Salmos 62:5",
+    "verse_text": "Minha alma, espere em silêncio somente em Deus, pois dele vem a minha esperança.",
+    "on_screen": "Minha alma, espere em silêncio somente em Deus.",
+    "reflection": "Às vezes a alma precisa ouvir de nós mesmos: aquiete-se. A esperança não vem do barulho das soluções, mas de Deus. Tire um momento hoje para silenciar e confiar.",
+    "theme": "descanso",
+    "mood": "reflexao",
+    "tags": [
+     "descanso",
+     "esperanca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo de descanso: Salmos 62:5\n“Minha alma, espere em silêncio somente em Deus, pois dele vem a minha esperança.” (Salmos 62:5)\n\nEm meio ao barulho da vida, reserve um instante para aquietar a alma. Quando nos calamos, sentimos a presença de Deus guiando nossos passos e renovando a esperança. Hoje, pare, respire e confie no Senhor que jamais falha. Salve este lembrete e compartilhe com quem precisa de paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodedescanso #descanso #esperanca #versiculododia #versiculo #biblia #evangelico #fe #jesus #palavradedeus #oracao #reflexao",
+    "facebook": "Versículo de descanso: Salmos 62:5\n“Minha alma, espere em silêncio somente em Deus, pois dele vem a minha esperança.” (Salmos 62:5)\n\nEm meio ao barulho da vida, reserve um instante para aquietar a alma. Quando nos calamos, sentimos a presença de Deus guiando nossos passos e renovando a esperança. Hoje, pare, respire e confie no Senhor que jamais falha. Salve este lembrete e compartilhe com quem precisa de paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculodedescanso #descanso #esperanca #versiculododia",
+    "tiktok": "Versículo de descanso\nAcalme o coração, confie em Deus e renove sua esperança.\n#versiculodedescanso #descanso #esperanca #versiculododia #versiculo",
+    "kwai": "Versículo de descanso\nAcalme o coração, confie em Deus e renove sua esperança.\n#versiculodedescanso #descanso #esperanca #versiculododia #versiculo",
+    "whatsapp": "“Minha alma, espere em silêncio somente em Deus, pois dele vem a minha esperança.” (Salmos 62:5)\n\nEm meio ao barulho da vida, reserve um instante para aquietar a alma. Quando nos calamos, sentimos a presença de Deus guiando nossos passos e renovando a esperança. Hoje, pare, respire e confie no Senhor que jamais falha. Salve este lembrete e compartilhe com quem precisa de paz.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo de descanso: Salmos 62:5 🙏 #shorts",
+     "description": "Versículo de descanso: Salmos 62:5\n“Minha alma, espere em silêncio somente em Deus, pois dele vem a minha esperança.” (Salmos 62:5)\n\nEm meio ao barulho da vida, reserve um instante para aquietar a alma. Quando nos calamos, sentimos a presença de Deus guiando nossos passos e renovando a esperança. Hoje, pare, respire e confie no Senhor que jamais falha. Salve este lembrete e compartilhe com quem precisa de paz.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculodedescanso #descanso #esperanca",
+     "tags": [
+      "versículo de descanso",
+      "versículos de descanso",
+      "descanso",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esperanca",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Porque Ele Vive (hino)",
+     "artist": "Harpa Cristã / vários intérpretes"
+    },
+    {
+     "title": "Aquieta Minh'alma",
+     "artist": "Ministério Zoe"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 17.73,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-25/2026-11-25-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
