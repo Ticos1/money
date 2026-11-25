@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-25T08:25:19+00:00",
+ "updated_at": "2026-11-25T09:44:00+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-1-verse": {
+   "type": "verse",
+   "date": "2026-11-25",
+   "time": "06:30",
+   "title": "Salmos 62:5",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-24-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-24",
@@ -51,7 +59,7 @@
     "watch_time_s": 34.2
    },
    "youtube": {
-    "views": 87,
+    "views": 95,
     "likes": 1,
     "comments": 0
    }
@@ -74,7 +82,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 54,
+    "views": 69,
     "likes": 2,
     "comments": 0
    }
@@ -110,13 +118,13 @@
    "instagram": {
     "likes": 3,
     "comments": 0,
-    "reach": 94,
+    "reach": 95,
     "saved": 0,
     "shares": 0,
-    "views": 116,
+    "views": 117,
     "total_interactions": 3,
     "avg_watch_s": 3.9,
-    "watch_time_s": 374.4
+    "watch_time_s": 374.8
    },
    "facebook": {
     "likes": 0,
@@ -143,9 +151,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 315,
+    "views": 316,
     "avg_watch_s": 6.4,
-    "watch_time_s": 1544.6
+    "watch_time_s": 1546.0
    }
   },
   "2026-11-24-4-quiz": {
@@ -440,9 +448,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 430,
+    "views": 432,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1776.7
+    "watch_time_s": 1779.3
    },
    "youtube": {
     "views": 53,
@@ -5959,7 +5967,7 @@
    "facebook": {
     "likes": 13,
     "comments": 1,
-    "views": 1280,
+    "views": 1281,
     "avg_watch_s": 6.2,
     "watch_time_s": 6102.9
    },
