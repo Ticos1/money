@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-25T00:45:38+00:00",
- "date": "2026-11-24",
+ "updated_at": "2026-11-25T08:25:23+00:00",
+ "date": "2026-11-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,7 +23,7 @@
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 430,
+   "fresh": 433,
    "days_left": null,
    "warn": false
   },
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-24-10-truefalse",
-   "date": "2026-11-24",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-24T21:39",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-25T00:40:57+00:00",
-    "stories": "2026-11-25T00:41:29+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2203644743872986",
-    "stories": "story 18065102198796490"
-   },
-   "title": "Qual ourives fazia santuários de prata da deusa Ártemis?"
-  },
-  {
-   "id": "2026-11-24-9-quiz",
-   "date": "2026-11-24",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-24T19:51",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-24T22:55:48+00:00",
-    "instagram": "2026-11-24T22:56:15+00:00",
-    "facebook": "2026-11-24T22:56:20+00:00",
-    "stories": "2026-11-24T22:56:54+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/sDXYwzyi21Q",
-    "instagram": "https://www.instagram.com/reel/DgJE9vQlIue/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2937414003300865",
-    "stories": "story 18104890850651607"
-   },
-   "title": "Qual é o agente que derramou o amor de Deus em nossos corações?"
-  },
-  {
-   "id": "2026-11-24-8-truefalse",
-   "date": "2026-11-24",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-24T18:37",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-24T21:40:47+00:00",
-    "instagram": null,
-    "facebook": "2026-11-24T21:40:53+00:00",
-    "stories": "2026-11-24T21:41:28+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/JRvo9XFdZIk",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1466243662369138",
-    "stories": "story 18083512265577595"
-   },
-   "title": "Em que livro, segundo Josué, estava escrito sobre o sol que parou?"
-  },
-  {
-   "id": "2026-11-24-7-quiz",
-   "date": "2026-11-24",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-24T16:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-24T19:55:56+00:00",
-    "stories": "2026-11-24T19:56:30+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2412995156102594",
-    "stories": "story 18069194462533270"
-   },
-   "title": "Quantos carros de ferro tinha Jabim, rei de Canaã?"
-  },
-  {
-   "id": "2026-11-24-6-truefalse",
-   "date": "2026-11-24",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-24T14:54",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-24T17:55:53+00:00",
-    "instagram": "2026-11-24T17:56:40+00:00",
-    "facebook": "2026-11-24T17:56:45+00:00",
-    "stories": "2026-11-24T17:57:46+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/1-YTh60UMmc",
-    "instagram": "https://www.instagram.com/reel/DgIipNliKic/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/29471306575839872",
-    "stories": "story 18085073489359548"
-   },
-   "title": "Como Isaías respondeu à pergunta: 'A quem enviarei?'"
-  },
-  {
-   "id": "2026-11-24-5-quiz",
-   "date": "2026-11-24",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-24T13:40",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-24T16:40:52+00:00",
-    "stories": "2026-11-24T16:41:25+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1135679292652393",
-    "stories": "story 18469411501138926"
-   },
-   "title": "Qual alimento o SENHOR providenciou ao povo no deserto conforme Salmos 105?"
-  },
-  {
-   "id": "2026-11-24-4-quiz",
-   "date": "2026-11-24",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-24T12:01",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-24T15:05:39+00:00",
-    "instagram": "2026-11-24T15:06:22+00:00",
-    "facebook": "2026-11-24T15:06:26+00:00",
-    "stories": "2026-11-24T15:07:25+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/G0m6xQmw8DA",
-    "instagram": "https://www.instagram.com/reel/DgIPKWPCo03/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2013590912888113",
-    "stories": "story 17998418196022058"
-   },
-   "title": "Para onde Ezequias virou o rosto para orar ao SENHOR quando estava doente?"
-  },
-  {
-   "id": "2026-11-24-3-truefalse",
-   "date": "2026-11-24",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-24T10:02",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-24T13:05:52+00:00",
-    "stories": "2026-11-24T13:06:27+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1699180845215876",
-    "stories": "story 18343922449275718"
-   },
-   "title": "Segundo Ageu, onde quem recebia salário o colocava?"
-  },
-  {
-   "id": "2026-11-24-2-quiz",
-   "date": "2026-11-24",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-24T07:53",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-24T10:55:42+00:00",
-    "instagram": null,
-    "facebook": "2026-11-24T10:55:48+00:00",
-    "stories": "2026-11-24T10:56:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/QtKnvG1kDIU",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2215032502779017",
-    "stories": "story 17993019266877053"
-   },
-   "title": "Qual era o nome da porta do templo onde ficava o coxo curado por Pedro?"
-  },
-  {
-   "id": "2026-11-24-1-verse",
-   "date": "2026-11-24",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-24T06:25",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-24T09:26:24+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18015123906004490"
-   },
-   "title": "Romanos 13:10"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
