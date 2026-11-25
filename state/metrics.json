@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-25T16:39:32+00:00",
+ "updated_at": "2026-11-25T18:12:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-25",
+   "time": "15:00",
+   "title": "Em que animal Moisés colocou a esposa e os filhos para voltar ao Egito?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/IHNXg_6E_8U",
+    "instagram": "https://www.instagram.com/reel/DgLIme8BbWa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2232807427311239"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-25-5-quiz": {
    "type": "quiz",
    "date": "2026-11-25",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 247,
+    "avg_watch_s": 3.5,
+    "watch_time_s": 294.3
    }
   },
   "2026-11-25-4-quiz": {
@@ -46,12 +81,12 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 253,
+    "views": 255,
     "avg_watch_s": 3.6,
-    "watch_time_s": 768.5
+    "watch_time_s": 787.4
    },
    "youtube": {
-    "views": 8,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 279,
+    "views": 292,
     "avg_watch_s": 4.3,
-    "watch_time_s": 927.5
+    "watch_time_s": 976.1
    }
   },
   "2026-11-25-2-quiz": {
@@ -91,7 +126,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 17,
+    "views": 18,
     "likes": 1,
     "comments": 0
    }
@@ -151,7 +186,7 @@
     "watch_time_s": 34.2
    },
    "youtube": {
-    "views": 95,
+    "views": 91,
     "likes": 1,
     "comments": 0
    }
@@ -174,7 +209,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 71,
+    "views": 77,
     "likes": 2,
     "comments": 0
    }
@@ -192,8 +227,8 @@
     "likes": 1,
     "comments": 0,
     "views": 289,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 994.3
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1023.4
    }
   },
   "2026-11-24-6-truefalse": {
@@ -221,12 +256,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 329,
+    "views": 330,
     "avg_watch_s": 4.4,
-    "watch_time_s": 1143.1
+    "watch_time_s": 1143.9
    },
    "youtube": {
-    "views": 140,
+    "views": 143,
     "likes": 3,
     "comments": 0
    }
@@ -278,7 +313,7 @@
     "watch_time_s": 1118.7
    },
    "youtube": {
-    "views": 90,
+    "views": 91,
     "likes": 4,
     "comments": 0
    }
@@ -318,7 +353,7 @@
     "watch_time_s": 1331.5
    },
    "youtube": {
-    "views": 93,
+    "views": 95,
     "likes": 3,
     "comments": 0
    }
@@ -378,7 +413,7 @@
     "watch_time_s": 6.6
    },
    "youtube": {
-    "views": 75,
+    "views": 76,
     "likes": 2,
     "comments": 0
    }
@@ -401,7 +436,7 @@
     "watch_time_s": 2.4
    },
    "youtube": {
-    "views": 136,
+    "views": 138,
     "likes": 5,
     "comments": 0
    }
@@ -500,7 +535,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 313,
+    "views": 314,
     "avg_watch_s": 4.5,
     "watch_time_s": 1101.9
    },
@@ -1824,7 +1859,7 @@
     "watch_time_s": 1003.6
    },
    "youtube": {
-    "views": 59,
+    "views": 65,
     "likes": 1,
     "comments": 0
    }
