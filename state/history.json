@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-25-7-quiz",
+   "date": "2026-11-25",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-25T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-25T08:24:16+00:00",
+   "source": "bank",
+   "bank_id": "q1157",
+   "model": null,
+   "content": {
+    "ref": "Atos 12:4",
+    "ref_label": "Atos 12:4",
+    "question": "A quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?",
+    "options": [
+     "Doze",
+     "Quatro",
+     "Dois",
+     "Seis"
+    ],
+    "answer": 1,
+    "evidence": "a quatro grupos de quatro soldados",
+    "passage": "Depois de prendê-lo, colocou-o na prisão e o entregou a quatro grupos de quatro soldados cada para guardá-lo, com a intenção de apresentá-lo ao povo depois da Páscoa.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #fe #cristao #jesus #desafio #conhecimentobiblico #teste #gospel #perguntasbiblicas #palavradedeus",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #gospel #jesus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #gospel #fe",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #evangelico #biblia",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nA quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?\n\nA) Doze\nB) Quatro\nC) Dois\nD) Seis\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-25T20:00:55+00:00",
+    "stories": "2026-11-25T20:01:30+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2138874040068979",
+    "stories": "story 18126917785723724"
+   }
+  },
+  {
    "id": "2026-11-25-6-truefalse",
    "date": "2026-11-25",
    "slot": 6,
