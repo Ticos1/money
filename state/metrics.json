@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-25T11:04:32+00:00",
+ "updated_at": "2026-11-25T12:59:31+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "title": "Quem era o eunuco do rei encarregado de guardar as mulheres?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2126283474921766"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-25-2-quiz": {
    "type": "quiz",
    "date": "2026-11-25",
@@ -22,8 +39,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 6,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -122,9 +139,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 283,
+    "views": 284,
     "avg_watch_s": 4.3,
-    "watch_time_s": 985.1
+    "watch_time_s": 993.7
    }
   },
   "2026-11-24-6-truefalse": {
@@ -141,23 +158,23 @@
    "instagram": {
     "likes": 3,
     "comments": 0,
-    "reach": 99,
+    "reach": 101,
     "saved": 0,
     "shares": 0,
-    "views": 123,
+    "views": 124,
     "total_interactions": 3,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 379.7
+    "avg_watch_s": 3.7,
+    "watch_time_s": 382.9
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 324,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1131.6
+    "views": 326,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1142.0
    },
    "youtube": {
-    "views": 137,
+    "views": 138,
     "likes": 3,
     "comments": 0
    }
@@ -174,9 +191,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 316,
-    "avg_watch_s": 6.4,
-    "watch_time_s": 1546.0
+    "views": 321,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1549.4
    }
   },
   "2026-11-24-4-quiz": {
@@ -193,20 +210,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 16,
     "saved": 0,
     "shares": 0,
-    "views": 16,
+    "views": 19,
     "total_interactions": 0,
     "avg_watch_s": 5.4,
-    "watch_time_s": 59.8
+    "watch_time_s": 81.6
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 297,
+    "views": 298,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1110.2
+    "watch_time_s": 1112.8
    },
    "youtube": {
     "views": 87,
@@ -244,9 +261,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 303,
+    "views": 304,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1321.2
+    "watch_time_s": 1330.9
    },
    "youtube": {
     "views": 93,
@@ -473,7 +490,7 @@
     "comments": 1,
     "views": 433,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1779.3
+    "watch_time_s": 1782.7
    },
    "youtube": {
     "views": 53,
