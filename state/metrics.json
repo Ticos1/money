@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-25T09:44:00+00:00",
+ "updated_at": "2026-11-25T11:04:32+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-25",
+   "time": "08:00",
+   "title": "Qual palavra descreve quem é o Senhor em 2 Coríntios 3:17?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Yo12SuLk5JY",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1010199142145942"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-25-1-verse": {
    "type": "verse",
    "date": "2026-11-25",
@@ -118,13 +141,13 @@
    "instagram": {
     "likes": 3,
     "comments": 0,
-    "reach": 95,
+    "reach": 99,
     "saved": 0,
     "shares": 0,
-    "views": 117,
+    "views": 123,
     "total_interactions": 3,
-    "avg_watch_s": 3.9,
-    "watch_time_s": 374.8
+    "avg_watch_s": 3.8,
+    "watch_time_s": 379.7
    },
    "facebook": {
     "likes": 0,
@@ -173,7 +196,7 @@
     "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 14,
+    "views": 16,
     "total_interactions": 0,
     "avg_watch_s": 5.4,
     "watch_time_s": 59.8
@@ -181,9 +204,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 295,
-    "avg_watch_s": 4.7,
-    "watch_time_s": 1095.5
+    "views": 297,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1110.2
    },
    "youtube": {
     "views": 87,
@@ -448,7 +471,7 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 432,
+    "views": 433,
     "avg_watch_s": 5.4,
     "watch_time_s": 1779.3
    },
@@ -5969,7 +5992,7 @@
     "comments": 1,
     "views": 1281,
     "avg_watch_s": 6.2,
-    "watch_time_s": 6102.9
+    "watch_time_s": 6103.4
    },
    "youtube": {
     "views": 207,
