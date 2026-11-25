@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-25T15:17:16+00:00",
+ "updated_at": "2026-11-25T16:39:32+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-25",
+   "time": "13:30",
+   "title": "Quantos estábulos de cavalos Salomão tinha para os seus carros?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1960065332043696"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-25-4-quiz": {
    "type": "quiz",
    "date": "2026-11-25",
@@ -27,14 +44,14 @@
     "watch_time_s": 0.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 253,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 768.5
    },
    "youtube": {
-    "views": 0,
+    "views": 8,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 256,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 851.4
+    "views": 279,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 927.5
    }
   },
   "2026-11-25-2-quiz": {
@@ -174,7 +191,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 285,
+    "views": 289,
     "avg_watch_s": 4.3,
     "watch_time_s": 994.3
    }
@@ -1808,7 +1825,7 @@
    },
    "youtube": {
     "views": 59,
-    "likes": 0,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -4637,9 +4654,9 @@
    "facebook": {
     "likes": 10,
     "comments": 1,
-    "views": 2011,
+    "views": 2013,
     "avg_watch_s": 6.7,
-    "watch_time_s": 9472.6
+    "watch_time_s": 9488.6
    }
   },
   "2026-11-04-6-truefalse": {
@@ -7756,7 +7773,7 @@
     "watch_time_s": 5422.2
    },
    "youtube": {
-    "views": 23,
+    "views": 24,
     "likes": 1,
     "comments": 0
    }
