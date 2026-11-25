@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-25T19:14:58+00:00",
+ "updated_at": "2026-11-25T20:05:25+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "title": "A quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2138874040068979"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-25-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-25",
@@ -29,12 +46,12 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 316,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 603.1
+    "views": 524,
+    "avg_watch_s": 6.7,
+    "watch_time_s": 2481.2
    },
    "youtube": {
-    "views": 6,
+    "views": 63,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 287,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 1007.6
+    "views": 294,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1079.7
    }
   },
   "2026-11-25-4-quiz": {
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 300,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 1001.2
+    "views": 304,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1029.2
    }
   },
   "2026-11-25-2-quiz": {
@@ -126,7 +143,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 20,
+    "views": 18,
     "likes": 1,
     "comments": 0
    }
@@ -209,7 +226,7 @@
     "watch_time_s": 3.2
    },
    "youtube": {
-    "views": 78,
+    "views": 79,
     "likes": 2,
     "comments": 0
    }
@@ -256,12 +273,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 330,
+    "views": 331,
     "avg_watch_s": 4.4,
     "watch_time_s": 1143.9
    },
    "youtube": {
-    "views": 143,
+    "views": 147,
     "likes": 3,
     "comments": 0
    }
@@ -278,9 +295,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 326,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1559.0
+    "views": 329,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 1603.4
    }
   },
   "2026-11-24-4-quiz": {
@@ -310,7 +327,7 @@
     "comments": 0,
     "views": 304,
     "avg_watch_s": 4.8,
-    "watch_time_s": 1144.9
+    "watch_time_s": 1145.9
    },
    "youtube": {
     "views": 91,
@@ -353,7 +370,7 @@
     "watch_time_s": 1331.5
    },
    "youtube": {
-    "views": 93,
+    "views": 96,
     "likes": 3,
     "comments": 0
    }
@@ -488,7 +505,7 @@
     "watch_time_s": 769.3
    },
    "youtube": {
-    "views": 100,
+    "views": 101,
     "likes": 6,
     "comments": 0
    }
@@ -663,7 +680,7 @@
     "watch_time_s": 41.0
    },
    "youtube": {
-    "views": 326,
+    "views": 327,
     "likes": 3,
     "comments": 1
    }
@@ -7773,7 +7790,7 @@
    "facebook": {
     "likes": 5,
     "comments": 0,
-    "views": 991,
+    "views": 992,
     "avg_watch_s": 5.8,
     "watch_time_s": 4334.9
    }
