@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-24T23:56:40+00:00",
+ "updated_at": "2026-11-25T00:45:34+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-24-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-24",
+   "time": "21:30",
+   "title": "Qual ourives fazia santuários de prata da deusa Ártemis?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2203644743872986"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-24-9-quiz": {
    "type": "quiz",
    "date": "2026-11-24",
@@ -21,10 +38,10 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.6,
+    "watch_time_s": 1.6
    },
    "facebook": {
     "likes": 0,
@@ -91,25 +108,25 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/29471306575839872"
    },
    "instagram": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "reach": 6,
+    "reach": 14,
     "saved": 0,
     "shares": 0,
-    "views": 7,
-    "total_interactions": 0,
-    "avg_watch_s": 2.6,
-    "watch_time_s": 15.8
+    "views": 33,
+    "total_interactions": 1,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 68.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
     "views": 318,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 1106.2
+    "avg_watch_s": 4.4,
+    "watch_time_s": 1111.7
    },
    "youtube": {
-    "views": 98,
+    "views": 115,
     "likes": 3,
     "comments": 0
    }
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 4,
     "comments": 0,
-    "views": 312,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 1515.6
+    "views": 315,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 1544.6
    }
   },
   "2026-11-24-4-quiz": {
@@ -148,7 +165,7 @@
     "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 4,
     "total_interactions": 0,
     "avg_watch_s": 3.0,
     "watch_time_s": 9.1
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 302,
+    "views": 305,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1147.5
+    "watch_time_s": 1166.4
    }
   },
   "2026-11-24-2-quiz": {
@@ -196,9 +213,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 301,
+    "views": 302,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1318.7
+    "watch_time_s": 1320.9
    },
    "youtube": {
     "views": 53,
@@ -384,8 +401,8 @@
     "likes": 1,
     "comments": 0,
     "views": 313,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1091.9
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1101.9
    },
    "youtube": {
     "views": 68,
@@ -650,9 +667,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 422,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1588.9
+    "views": 423,
+    "avg_watch_s": 4.7,
+    "watch_time_s": 1589.5
    },
    "youtube": {
     "views": 126,
@@ -696,8 +713,8 @@
     "likes": 0,
     "comments": 0,
     "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 9.8,
+    "watch_time_s": 9.8
    }
   },
   "2026-11-21-9-quiz": {
@@ -5641,9 +5658,9 @@
    "facebook": {
     "likes": 12,
     "comments": 2,
-    "views": 2101,
+    "views": 2102,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10799.8
+    "watch_time_s": 10801.1
    }
   },
   "2026-10-30-6-truefalse": {
@@ -6111,7 +6128,7 @@
     "comments": 0,
     "views": 1074,
     "avg_watch_s": 5.9,
-    "watch_time_s": 4540.5
+    "watch_time_s": 4547.8
    },
    "youtube": {
     "views": 126,
@@ -7370,7 +7387,7 @@
     "watch_time_s": 65.6
    },
    "youtube": {
-    "views": 50,
+    "views": 52,
     "likes": 2,
     "comments": 0
    }
