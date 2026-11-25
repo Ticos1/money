@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-25T12:59:35+00:00",
+ "updated_at": "2026-11-25T15:17:19+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-25-4-quiz",
+   "date": "2026-11-25",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-25T12:08",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-25T15:10:37+00:00",
+    "instagram": "2026-11-25T15:11:13+00:00",
+    "facebook": "2026-11-25T15:11:17+00:00",
+    "stories": "2026-11-25T15:11:50+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/KzcF4BC6j24",
+    "instagram": "https://www.instagram.com/reel/DgK0hfiS7W-/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2493270827864309",
+    "stories": "story 17998931070060497"
+   },
+   "title": "Qual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?"
+  },
   {
    "id": "2026-11-25-3-truefalse",
    "date": "2026-11-25",
