@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T15:17:19+00:00",
+ "updated_at": "2026-11-25T16:39:35+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-25-5-quiz",
+   "date": "2026-11-25",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-25T13:34",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-25T16:35:47+00:00",
+    "stories": "2026-11-25T16:36:18+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1960065332043696",
+    "stories": "story 18075020249787292"
+   },
+   "title": "Quantos estábulos de cavalos Salomão tinha para os seus carros?"
+  },
   {
    "id": "2026-11-25-4-quiz",
    "date": "2026-11-25",
