@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:15:02+00:00",
+ "updated_at": "2026-11-25T20:05:31+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-25-7-quiz",
+   "date": "2026-11-25",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-25T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-25T20:00:55+00:00",
+    "stories": "2026-11-25T20:01:30+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2138874040068979",
+    "stories": "story 18126917785723724"
+   },
+   "title": "A quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?"
+  },
   {
    "id": "2026-11-25-6-truefalse",
    "date": "2026-11-25",
