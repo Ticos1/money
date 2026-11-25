@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T08:25:23+00:00",
+ "updated_at": "2026-11-25T09:44:05+00:00",
  "date": "2026-11-25",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 3,
   "max": 20,
   "enabled": true
  },
@@ -16,39 +16,63 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 535,
-   "days_left": 535,
+   "fresh": 533,
+   "days_left": 533,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 433,
+   "fresh": 431,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 823,
-   "days_left": 91,
+   "fresh": 816,
+   "days_left": 90,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 866,
-   "days_left": 96,
+   "fresh": 859,
+   "days_left": 95,
    "warn": false
   },
   {
    "kind": "curiosity",
    "per_day": 0,
-   "fresh": 215,
+   "fresh": 214,
    "days_left": null,
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-25-1-verse",
+   "date": "2026-11-25",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-25T06:40",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-25T09:41:13+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18193025047414306"
+   },
+   "title": "Salmos 62:5"
+  }
+ ],
  "specials": {}
 }
