@@ -1,6 +1,95 @@
 {
  "posts": [
   {
+   "id": "2026-11-25-6-truefalse",
+   "date": "2026-11-25",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-25T15:05",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-25T08:23:48+00:00",
+   "source": "bank",
+   "bank_id": "q978",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 4:20",
+    "ref_label": "Êxodo 4:20",
+    "question": "Em que animal Moisés colocou a esposa e os filhos para voltar ao Egito?",
+    "shown": "Mula",
+    "is_true": false,
+    "correct": "Jumento",
+    "evidence": "colocou-os sobre um jumento",
+    "passage": "Moisés pegou sua esposa e seus filhos, colocou-os sobre um jumento e voltou para a terra do Egito. Moisés levou a vara de Deus em sua mão.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #cristao #gospel #palavradedeus #evangelico #perguntasbiblicas #jesus #deus #biblia #desafiobiblico #conhecimentobiblico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #conhecimentobiblico",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #deus #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #evangelico #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm que animal Moisés colocou a esposa e os filhos para voltar ao Egito?\nResposta: Mula\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-25T18:05:51+00:00",
+    "instagram": "2026-11-25T18:06:42+00:00",
+    "facebook": "2026-11-25T18:06:46+00:00",
+    "stories": "2026-11-25T18:07:36+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/IHNXg_6E_8U",
+    "instagram": "https://www.instagram.com/reel/DgLIme8BbWa/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2232807427311239",
+    "stories": "story 18042716258839516"
+   }
+  },
+  {
    "id": "2026-11-25-5-quiz",
    "date": "2026-11-25",
    "slot": 5,
