@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-26T20:05:40+00:00",
+ "updated_at": "2026-11-26T21:38:00+00:00",
  "date": "2026-11-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-26-8-truefalse",
+   "date": "2026-11-26",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-26T18:26",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-26T21:30:39+00:00",
+    "instagram": null,
+    "facebook": "2026-11-26T21:30:46+00:00",
+    "stories": "2026-11-26T21:31:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/Ywq81cryAQc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2399560364120413",
+    "stories": "story 18135787430480875"
+   },
+   "title": "Em qual lugar Saul foi consultar uma mulher que consultava espíritos?"
+  },
   {
    "id": "2026-11-26-7-quiz",
    "date": "2026-11-26",
