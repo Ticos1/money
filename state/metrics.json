@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-26T18:12:01+00:00",
+ "updated_at": "2026-11-26T20:05:35+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-26",
+   "time": "17:00",
+   "title": "Quantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1158065176980408"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-26-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-26",
@@ -18,23 +35,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 7,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.8,
+    "watch_time_s": 11.0
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 102,
+    "avg_watch_s": 5.1,
+    "watch_time_s": 390.4
    },
    "youtube": {
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 200,
-    "avg_watch_s": 6.3,
-    "watch_time_s": 612.2
+    "views": 289,
+    "avg_watch_s": 6.0,
+    "watch_time_s": 1245.1
    }
   },
   "2026-11-26-4-quiz": {
@@ -73,7 +90,7 @@
     "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 5,
     "total_interactions": 0,
     "avg_watch_s": 1.9,
     "watch_time_s": 7.6
@@ -86,7 +103,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 12,
+    "views": 21,
     "likes": 1,
     "comments": 0
    }
@@ -103,9 +120,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 122,
+    "views": 124,
     "avg_watch_s": 4.1,
-    "watch_time_s": 392.7
+    "watch_time_s": 400.3
    }
   },
   "2026-11-26-2-quiz": {
@@ -126,7 +143,7 @@
     "watch_time_s": 958.3
    },
    "youtube": {
-    "views": 26,
+    "views": 30,
     "likes": 2,
     "comments": 0
    }
@@ -170,13 +187,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 77,
+    "reach": 79,
     "saved": 0,
     "shares": 0,
-    "views": 91,
+    "views": 93,
     "total_interactions": 1,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 288.9
+    "avg_watch_s": 3.7,
+    "watch_time_s": 291.4
    },
    "facebook": {
     "likes": 0,
@@ -186,7 +203,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 90,
+    "views": 92,
     "likes": 4,
     "comments": 0
    }
@@ -209,7 +226,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 152,
+    "views": 156,
     "likes": 1,
     "comments": 0
    }
@@ -256,12 +273,12 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 703,
-    "avg_watch_s": 7.3,
-    "watch_time_s": 3562.0
+    "views": 720,
+    "avg_watch_s": 7.4,
+    "watch_time_s": 3649.4
    },
    "youtube": {
-    "views": 219,
+    "views": 222,
     "likes": 3,
     "comments": 0
    }
@@ -313,7 +330,7 @@
     "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 94,
+    "views": 95,
     "likes": 4,
     "comments": 0
    }
@@ -330,9 +347,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 331,
+    "views": 333,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1193.9
+    "watch_time_s": 1201.4
    }
   },
   "2026-11-25-2-quiz": {
@@ -413,7 +430,7 @@
     "watch_time_s": 70.6
    },
    "youtube": {
-    "views": 109,
+    "views": 112,
     "likes": 1,
     "comments": 0
    }
@@ -436,7 +453,7 @@
     "watch_time_s": 11.7
    },
    "youtube": {
-    "views": 121,
+    "views": 125,
     "likes": 2,
     "comments": 0
    }
@@ -483,12 +500,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 337,
+    "views": 339,
     "avg_watch_s": 4.5,
-    "watch_time_s": 1188.3
+    "watch_time_s": 1189.9
    },
    "youtube": {
-    "views": 183,
+    "views": 184,
     "likes": 3,
     "comments": 0
    }
@@ -710,9 +727,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 291,
+    "views": 292,
     "avg_watch_s": 3.2,
-    "watch_time_s": 776.2
+    "watch_time_s": 776.9
    },
    "youtube": {
     "views": 101,
@@ -6020,9 +6037,9 @@
    "facebook": {
     "likes": 12,
     "comments": 2,
-    "views": 2102,
+    "views": 2103,
     "avg_watch_s": 7.2,
-    "watch_time_s": 10801.1
+    "watch_time_s": 10802.9
    }
   },
   "2026-10-30-6-truefalse": {
