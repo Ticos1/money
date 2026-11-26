@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-26T00:45:01+00:00",
- "date": "2026-11-25",
+ "updated_at": "2026-11-26T03:35:40+00:00",
+ "date": "2026-11-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 3,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,7 +23,7 @@
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 431,
+   "fresh": 433,
    "days_left": null,
    "warn": false
   },
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-25-10-truefalse",
-   "date": "2026-11-25",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-25T21:40",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-26T00:40:51+00:00",
-    "stories": "2026-11-26T00:42:11+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1463911815403991",
-    "stories": "story 18477313171137251"
-   },
-   "title": "Qual rei ficou leproso até o dia de sua morte?"
-  },
-  {
-   "id": "2026-11-25-9-quiz",
-   "date": "2026-11-25",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-25T19:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-25T23:00:37+00:00",
-    "instagram": "2026-11-25T23:01:21+00:00",
-    "facebook": "2026-11-25T23:01:28+00:00",
-    "stories": "2026-11-25T23:02:04+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/SVjCWbZO9Cs",
-    "instagram": "https://www.instagram.com/reel/DgLqURQC283/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1655049823015414",
-    "stories": "story 18127907380916445"
-   },
-   "title": "Que nome Jacó deu ao lugar onde os anjos de Deus o encontraram?"
-  },
-  {
-   "id": "2026-11-25-8-truefalse",
-   "date": "2026-11-25",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-25T18:37",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-25T21:41:01+00:00",
-    "instagram": null,
-    "facebook": "2026-11-25T21:41:07+00:00",
-    "stories": "2026-11-25T21:41:41+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/sDoKT_SJWmo",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1474061564237444",
-    "stories": "story 18190850299411294"
-   },
-   "title": "Que nomes Salomão deu às duas colunas do pórtico do templo?"
-  },
-  {
-   "id": "2026-11-25-7-quiz",
-   "date": "2026-11-25",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-25T17:00",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-25T20:00:55+00:00",
-    "stories": "2026-11-25T20:01:30+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2138874040068979",
-    "stories": "story 18126917785723724"
-   },
-   "title": "A quantos grupos de quatro soldados Herodes entregou Pedro para guardá-lo?"
-  },
-  {
-   "id": "2026-11-25-6-truefalse",
-   "date": "2026-11-25",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-25T15:05",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-25T18:05:51+00:00",
-    "instagram": "2026-11-25T18:06:42+00:00",
-    "facebook": "2026-11-25T18:06:46+00:00",
-    "stories": "2026-11-25T18:07:36+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/IHNXg_6E_8U",
-    "instagram": "https://www.instagram.com/reel/DgLIme8BbWa/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2232807427311239",
-    "stories": "story 18042716258839516"
-   },
-   "title": "Em que animal Moisés colocou a esposa e os filhos para voltar ao Egito?"
-  },
-  {
-   "id": "2026-11-25-5-quiz",
-   "date": "2026-11-25",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-25T13:34",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-25T16:35:47+00:00",
-    "stories": "2026-11-25T16:36:18+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1960065332043696",
-    "stories": "story 18075020249787292"
-   },
-   "title": "Quantos estábulos de cavalos Salomão tinha para os seus carros?"
-  },
-  {
-   "id": "2026-11-25-4-quiz",
-   "date": "2026-11-25",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-25T12:08",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-25T15:10:37+00:00",
-    "instagram": "2026-11-25T15:11:13+00:00",
-    "facebook": "2026-11-25T15:11:17+00:00",
-    "stories": "2026-11-25T15:11:50+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/KzcF4BC6j24",
-    "instagram": "https://www.instagram.com/reel/DgK0hfiS7W-/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2493270827864309",
-    "stories": "story 17998931070060497"
-   },
-   "title": "Qual expressão aparece no Salmo 2:4 sobre onde o Rei está assentado?"
-  },
-  {
-   "id": "2026-11-25-3-truefalse",
-   "date": "2026-11-25",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-25T09:55",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-25T12:55:41+00:00",
-    "stories": "2026-11-25T12:56:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/2126283474921766",
-    "stories": "story 17921234424542580"
-   },
-   "title": "Quem era o eunuco do rei encarregado de guardar as mulheres?"
-  },
-  {
-   "id": "2026-11-25-2-quiz",
-   "date": "2026-11-25",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-25T07:58",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-25T11:00:43+00:00",
-    "instagram": null,
-    "facebook": "2026-11-25T11:00:48+00:00",
-    "stories": "2026-11-25T11:01:19+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/Yo12SuLk5JY",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1010199142145942",
-    "stories": "story 17995862802113631"
-   },
-   "title": "Qual palavra descreve quem é o Senhor em 2 Coríntios 3:17?"
-  },
-  {
-   "id": "2026-11-25-1-verse",
-   "date": "2026-11-25",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-25T06:40",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-25T09:41:13+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18193025047414306"
-   },
-   "title": "Salmos 62:5"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
