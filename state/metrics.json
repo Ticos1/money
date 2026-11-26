@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-26T09:29:16+00:00",
+ "updated_at": "2026-11-26T11:01:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-26",
+   "time": "08:00",
+   "title": "Qual expressão do Salmo 124:6 exalta o Senhor?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/lmNYuSTpkP4",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1433403645442813"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-26-1-verse": {
    "type": "verse",
    "date": "2026-11-26",
@@ -43,20 +66,20 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 52,
+    "reach": 60,
     "saved": 0,
     "shares": 0,
-    "views": 61,
+    "views": 73,
     "total_interactions": 1,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 190.2
+    "avg_watch_s": 3.8,
+    "watch_time_s": 229.6
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 1.2,
+    "watch_time_s": 1.2
    },
    "youtube": {
     "views": 80,
@@ -129,12 +152,12 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 688,
+    "views": 691,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3512.8
+    "watch_time_s": 3524.0
    },
    "youtube": {
-    "views": 213,
+    "views": 220,
     "likes": 3,
     "comments": 0
    }
@@ -151,9 +174,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 329,
+    "views": 332,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1262.8
+    "watch_time_s": 1269.4
    }
   },
   "2026-11-25-4-quiz": {
@@ -170,13 +193,13 @@
    "instagram": {
     "likes": 4,
     "comments": 0,
-    "reach": 39,
+    "reach": 41,
     "saved": 0,
     "shares": 0,
-    "views": 51,
+    "views": 54,
     "total_interactions": 4,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 171.6
+    "avg_watch_s": 4.5,
+    "watch_time_s": 190.6
    },
    "facebook": {
     "likes": 2,
@@ -226,7 +249,7 @@
     "watch_time_s": 1.6
    },
    "youtube": {
-    "views": 69,
+    "views": 72,
     "likes": 4,
     "comments": 0
    }
@@ -448,9 +471,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 307,
+    "views": 308,
     "avg_watch_s": 5.8,
-    "watch_time_s": 1350.9
+    "watch_time_s": 1351.5
    },
    "youtube": {
     "views": 115,
