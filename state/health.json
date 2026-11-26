@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-26T16:40:10+00:00",
+ "updated_at": "2026-11-26T18:12:04+00:00",
  "date": "2026-11-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-26-6-truefalse",
+   "date": "2026-11-26",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-26T15:01",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-26T18:05:51+00:00",
+    "instagram": "2026-11-26T18:07:07+00:00",
+    "facebook": "2026-11-26T18:07:12+00:00",
+    "stories": "2026-11-26T18:07:45+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/EU9N0jsDRFk",
+    "instagram": "https://www.instagram.com/reel/DgNtcbGsJBu/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2171857920085364",
+    "stories": "story 18191456179417008"
+   },
+   "title": "Onde os levitas deveriam colocar o livro da lei escrito por Moisés?"
+  },
   {
    "id": "2026-11-26-5-quiz",
    "date": "2026-11-26",
