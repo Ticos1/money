@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-26T15:01:53+00:00",
+ "updated_at": "2026-11-26T16:40:07+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-26",
+   "time": "13:30",
+   "title": "Do que os jovens de Betel chamaram Eliseu ao zombar dele?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1187106503886043"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-26-4-quiz": {
    "type": "quiz",
    "date": "2026-11-26",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 2,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 1.0,
+    "watch_time_s": 1.0
    },
    "facebook": {
     "likes": 0,
@@ -34,8 +51,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 5,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -51,9 +68,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 118,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 257.6
+    "views": 121,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 390.7
    }
   },
   "2026-11-26-2-quiz": {
@@ -69,13 +86,13 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 245,
+    "views": 246,
     "avg_watch_s": 4.5,
     "watch_time_s": 944.5
    },
    "youtube": {
-    "views": 15,
-    "likes": 1,
+    "views": 24,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 72,
+    "reach": 75,
     "saved": 0,
     "shares": 0,
-    "views": 88,
+    "views": 89,
     "total_interactions": 1,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 285.7
+    "avg_watch_s": 3.8,
+    "watch_time_s": 287.8
    },
    "facebook": {
     "likes": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 83,
+    "views": 84,
     "likes": 4,
     "comments": 0
    }
@@ -157,7 +174,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 140,
+    "views": 141,
     "likes": 1,
     "comments": 0
    }
@@ -204,7 +221,7 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 694,
+    "views": 695,
     "avg_watch_s": 7.4,
     "watch_time_s": 3539.0
    },
@@ -226,7 +243,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 332,
+    "views": 334,
     "avg_watch_s": 4.9,
     "watch_time_s": 1269.4
    }
@@ -245,13 +262,13 @@
    "instagram": {
     "likes": 5,
     "comments": 0,
-    "reach": 49,
+    "reach": 50,
     "saved": 0,
     "shares": 0,
     "views": 67,
     "total_interactions": 5,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 243.7
+    "avg_watch_s": 4.8,
+    "watch_time_s": 244.2
    },
    "facebook": {
     "likes": 2,
@@ -261,8 +278,8 @@
     "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 89,
-    "likes": 4,
+    "views": 88,
+    "likes": 3,
     "comments": 0
    }
   },
