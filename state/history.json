@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-26-5-quiz",
+   "date": "2026-11-26",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-26T13:33",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q750",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 2:23",
+    "ref_label": "2 Reis 2:23",
+    "question": "Do que os jovens de Betel chamaram Eliseu ao zombar dele?",
+    "options": [
+     "Careca",
+     "Velho",
+     "Cego",
+     "Estrangeiro"
+    ],
+    "answer": 0,
+    "evidence": "Suba, seu careca!",
+    "passage": "Ele subiu dali para Betel. Enquanto subia pelo caminho, alguns jovens saíram da cidade, zombaram dele e lhe disseram: “Suba, seu careca! Suba, seu careca!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #fe #gospel #jesus #desafio #cristao #palavradedeus #conhecimentobiblico #teste",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #biblia #palavradedeus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #perguntasbiblicas",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Do que os jovens de Betel chamaram Eliseu ao zombar dele? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-26T16:35:39+00:00",
+    "stories": "2026-11-26T16:36:10+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1187106503886043",
+    "stories": "story 18121103291018192"
+   }
+  },
+  {
    "id": "2026-11-26-4-quiz",
    "date": "2026-11-26",
    "slot": 4,
