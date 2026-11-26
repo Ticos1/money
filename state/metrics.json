@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-26T21:37:57+00:00",
+ "updated_at": "2026-11-26T23:10:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "title": "Qual filha de Saul se casou com Davi?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Hm4mKpxc2NQ",
+    "instagram": "https://www.instagram.com/reel/DgOPtITJutN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2673359319770403"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-26-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-26",
@@ -22,8 +57,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 16,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -58,13 +93,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 7,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 1.6,
-    "watch_time_s": 11.4
+    "avg_watch_s": 1.5,
+    "watch_time_s": 12.2
    },
    "facebook": {
     "likes": 1,
@@ -91,9 +126,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 321,
-    "avg_watch_s": 6.4,
-    "watch_time_s": 1424.3
+    "views": 355,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 1539.4
    }
   },
   "2026-11-26-4-quiz": {
@@ -110,13 +145,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 8,
+    "reach": 9,
     "saved": 0,
     "shares": 0,
     "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 30.1
+    "avg_watch_s": 3.6,
+    "watch_time_s": 32.0
    },
    "facebook": {
     "likes": 0,
@@ -143,7 +178,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 126,
+    "views": 127,
     "avg_watch_s": 4.1,
     "watch_time_s": 409.4
    }
@@ -166,7 +201,7 @@
     "watch_time_s": 958.3
    },
    "youtube": {
-    "views": 30,
+    "views": 35,
     "likes": 2,
     "comments": 0
    }
@@ -210,13 +245,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 79,
+    "reach": 82,
     "saved": 0,
     "shares": 0,
-    "views": 94,
+    "views": 95,
     "total_interactions": 1,
     "avg_watch_s": 3.7,
-    "watch_time_s": 291.4
+    "watch_time_s": 296.7
    },
    "facebook": {
     "likes": 0,
@@ -296,12 +331,12 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 725,
+    "views": 727,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3713.2
+    "watch_time_s": 3713.9
    },
    "youtube": {
-    "views": 222,
+    "views": 224,
     "likes": 3,
     "comments": 0
    }
@@ -453,7 +488,7 @@
     "watch_time_s": 70.6
    },
    "youtube": {
-    "views": 112,
+    "views": 120,
     "likes": 1,
     "comments": 0
    }
@@ -1265,9 +1300,9 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 339,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 1304.3
+    "views": 342,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 1317.7
    },
    "youtube": {
     "views": 157,
