@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-25T23:06:55+00:00",
+ "updated_at": "2026-11-26T00:44:58+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-25-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-25",
+   "time": "21:30",
+   "title": "Qual rei ficou leproso até o dia de sua morte?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1463911815403991"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-25-9-quiz": {
    "type": "quiz",
    "date": "2026-11-25",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 3,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.5,
+    "watch_time_s": 7.4
    },
    "facebook": {
     "likes": 0,
@@ -34,8 +51,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
-    "likes": 0,
+    "views": 20,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -57,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 13,
+    "views": 52,
     "likes": 0,
     "comments": 0
    }
@@ -93,23 +110,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 14,
+    "reach": 41,
     "saved": 0,
     "shares": 0,
-    "views": 23,
+    "views": 73,
     "total_interactions": 0,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 74.6
+    "avg_watch_s": 6.3,
+    "watch_time_s": 257.0
    },
    "facebook": {
-    "likes": 5,
+    "likes": 6,
     "comments": 0,
-    "views": 572,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 2762.1
+    "views": 623,
+    "avg_watch_s": 7.1,
+    "watch_time_s": 3062.4
    },
    "youtube": {
-    "views": 144,
+    "views": 169,
     "likes": 3,
     "comments": 0
    }
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 310,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 1184.1
+    "views": 316,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 1197.8
    }
   },
   "2026-11-25-4-quiz": {
@@ -145,24 +162,24 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 7,
+    "reach": 13,
     "saved": 0,
     "shares": 0,
-    "views": 9,
+    "views": 15,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 28.7
+    "avg_watch_s": 3.4,
+    "watch_time_s": 44.8
    },
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 258,
+    "views": 260,
     "avg_watch_s": 3.7,
-    "watch_time_s": 807.3
+    "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 38,
-    "likes": 0,
+    "views": 49,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -178,9 +195,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 318,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 1083.8
+    "views": 320,
+    "avg_watch_s": 4.5,
+    "watch_time_s": 1120.9
    }
   },
   "2026-11-25-2-quiz": {
@@ -245,13 +262,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 10,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
     "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 2.6,
-    "watch_time_s": 23.3
+    "avg_watch_s": 2.2,
+    "watch_time_s": 24.6
    },
    "facebook": {
     "likes": 0,
@@ -261,7 +278,7 @@
     "watch_time_s": 44.9
    },
    "youtube": {
-    "views": 92,
+    "views": 101,
     "likes": 1,
     "comments": 0
    }
@@ -388,7 +405,7 @@
     "watch_time_s": 1152.2
    },
    "youtube": {
-    "views": 98,
+    "views": 101,
     "likes": 5,
     "comments": 0
    }
@@ -2986,7 +3003,7 @@
     "youtube": "https://youtube.com/shorts/aQzutyvfVLk"
    },
    "youtube": {
-    "views": 46,
+    "views": 47,
     "likes": 0,
     "comments": 0
    }
@@ -3742,9 +3759,9 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 2160,
+    "views": 2163,
     "avg_watch_s": 5.8,
-    "watch_time_s": 9533.7
+    "watch_time_s": 9561.1
    },
    "youtube": {
     "views": 82,
