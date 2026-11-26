@@ -1,6 +1,103 @@
 {
  "posts": [
   {
+   "id": "2026-11-26-1-verse",
+   "date": "2026-11-26",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-26T06:23",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:23:41+00:00",
+   "source": "bank",
+   "bank_id": "v450",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 5:10",
+    "ref_label": "1 Pedro 5:10",
+    "verse_text": "Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.",
+    "on_screen": "Depois do sofrimento, Deus restaura.",
+    "reflection": "O sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.",
+    "theme": "perseverança",
+    "mood": "reflexao",
+    "tags": [
+     "perseveranca",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo #esperanca #cristao #oracao #deus #reflexao #devocional #gospel",
+    "facebook": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #graca #versiculododia",
+    "tiktok": "Versículo para não desistir\nLeia com calma e receba 🙏 1 Pedro 5:10\nEnvie para quem precisa ouvir isso hoje.\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo",
+    "kwai": "Versículo para não desistir\nLeia com calma e receba 🙏 1 Pedro 5:10\nEnvie para quem precisa ouvir isso hoje.\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo",
+    "whatsapp": "*Leia com calma e receba* 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo para não desistir: 1 Pedro 5:10 🙏 #shorts",
+     "description": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #graca",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "graca",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Leia com calma e receba",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-26T09:26:12+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18103142210439778"
+   }
+  },
+  {
    "id": "2026-11-25-10-truefalse",
    "date": "2026-11-25",
    "slot": 10,
