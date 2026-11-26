@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-26T13:08:10+00:00",
+ "updated_at": "2026-11-26T15:01:55+00:00",
  "date": "2026-11-26",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 1,
+  "used": 2,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-26-4-quiz",
+   "date": "2026-11-26",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-26T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-26T14:55:37+00:00",
+    "instagram": "2026-11-26T14:56:11+00:00",
+    "facebook": "2026-11-26T14:56:15+00:00",
+    "stories": "2026-11-26T14:56:48+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/f9INAspIwDo",
+    "instagram": "https://www.instagram.com/reel/DgNXmmHhsxN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/922212220878861",
+    "stories": "story 18084271313372254"
+   },
+   "title": "Quantos governadores locais Dario estabeleceu sobre o reino?"
+  },
   {
    "id": "2026-11-26-3-truefalse",
    "date": "2026-11-26",
