@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-26T13:08:05+00:00",
+ "updated_at": "2026-11-26T15:01:53+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-26",
+   "time": "12:00",
+   "title": "Quantos governadores locais Dario estabeleceu sobre o reino?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/f9INAspIwDo",
+    "instagram": "https://www.instagram.com/reel/DgNXmmHhsxN/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/922212220878861"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-26-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-26",
@@ -14,11 +49,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1442555327591431"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 118,
+    "avg_watch_s": 3.6,
+    "watch_time_s": 257.6
    }
   },
   "2026-11-26-2-quiz": {
@@ -35,12 +70,12 @@
     "likes": 1,
     "comments": 0,
     "views": 245,
-    "avg_watch_s": 4.6,
-    "watch_time_s": 938.7
+    "avg_watch_s": 4.5,
+    "watch_time_s": 944.5
    },
    "youtube": {
-    "views": 4,
-    "likes": 0,
+    "views": 15,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -83,13 +118,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 64,
+    "reach": 72,
     "saved": 0,
     "shares": 0,
-    "views": 78,
+    "views": 88,
     "total_interactions": 1,
-    "avg_watch_s": 3.7,
-    "watch_time_s": 237.4
+    "avg_watch_s": 4.0,
+    "watch_time_s": 285.7
    },
    "facebook": {
     "likes": 0,
@@ -122,7 +157,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 139,
+    "views": 140,
     "likes": 1,
     "comments": 0
    }
@@ -169,9 +204,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 692,
+    "views": 694,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3527.6
+    "watch_time_s": 3539.0
    },
    "youtube": {
     "views": 220,
@@ -208,15 +243,15 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2493270827864309"
    },
    "instagram": {
-    "likes": 4,
+    "likes": 5,
     "comments": 0,
-    "reach": 45,
+    "reach": 49,
     "saved": 0,
     "shares": 0,
-    "views": 61,
-    "total_interactions": 4,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 204.6
+    "views": 67,
+    "total_interactions": 5,
+    "avg_watch_s": 4.9,
+    "watch_time_s": 243.7
    },
    "facebook": {
     "likes": 2,
@@ -226,8 +261,8 @@
     "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 88,
-    "likes": 3,
+    "views": 89,
+    "likes": 4,
     "comments": 0
    }
   },
@@ -243,9 +278,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 330,
+    "views": 331,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1191.3
+    "watch_time_s": 1193.9
    }
   },
   "2026-11-25-2-quiz": {
@@ -2971,7 +3006,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 443,
+    "views": 444,
     "avg_watch_s": 6.6,
     "watch_time_s": 2069.9
    },
@@ -4068,7 +4103,7 @@
     "comments": 0,
     "views": 1522,
     "avg_watch_s": 5.1,
-    "watch_time_s": 5904.6
+    "watch_time_s": 5907.9
    },
    "youtube": {
     "views": 46,
