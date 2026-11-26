@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-11-26-2-quiz",
+   "date": "2026-11-26",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-26T07:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:24:03+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 124:6",
+    "ref_label": "Salmos 124:6",
+    "question": "Qual expressão do Salmo 124:6 exalta o Senhor?",
+    "options": [
+     "Bendito seja o SENHOR",
+     "Glória ao Altíssimo",
+     "Louvado seja o Criador",
+     "Honra ao Rei"
+    ],
+    "answer": 0,
+    "evidence": "Bendito seja o SENHOR",
+    "passage": "Bendito seja o SENHOR, que não nos entregou como presa aos dentes deles.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia #evangelico #palavradedeus #cristao #desafio #gospel #conhecimentobiblico #teste #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #jesus #perguntasbiblicas",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #desafio #fe",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão do Salmo 124:6 exalta o Senhor? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-26T10:55:49+00:00",
+    "instagram": null,
+    "facebook": "2026-11-26T10:55:55+00:00",
+    "stories": "2026-11-26T10:56:36+00:00",
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/lmNYuSTpkP4",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1433403645442813",
+    "stories": "story 17983694571167976"
+   }
+  },
+  {
    "id": "2026-11-26-1-verse",
    "date": "2026-11-26",
    "slot": 1,
