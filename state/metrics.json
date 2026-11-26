@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-26T20:05:35+00:00",
+ "updated_at": "2026-11-26T21:37:57+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-26",
+   "time": "18:30",
+   "title": "Em qual lugar Saul foi consultar uma mulher que consultava espíritos?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/Ywq81cryAQc",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2399560364120413"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-26-7-quiz": {
    "type": "quiz",
    "date": "2026-11-26",
@@ -14,11 +37,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1158065176980408"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 2,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 79,
+    "avg_watch_s": 5.3,
+    "watch_time_s": 320.4
    }
   },
   "2026-11-26-6-truefalse": {
@@ -35,13 +58,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
     "views": 7,
     "total_interactions": 0,
-    "avg_watch_s": 1.8,
-    "watch_time_s": 11.0
+    "avg_watch_s": 1.6,
+    "watch_time_s": 11.4
    },
    "facebook": {
     "likes": 1,
@@ -51,8 +74,8 @@
     "watch_time_s": 390.4
    },
    "youtube": {
-    "views": 20,
-    "likes": 0,
+    "views": 39,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -68,9 +91,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 289,
-    "avg_watch_s": 6.0,
-    "watch_time_s": 1245.1
+    "views": 321,
+    "avg_watch_s": 6.4,
+    "watch_time_s": 1424.3
    }
   },
   "2026-11-26-4-quiz": {
@@ -87,13 +110,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 4,
+    "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 10,
     "total_interactions": 0,
-    "avg_watch_s": 1.9,
-    "watch_time_s": 7.6
+    "avg_watch_s": 3.8,
+    "watch_time_s": 30.1
    },
    "facebook": {
     "likes": 0,
@@ -120,9 +143,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 124,
+    "views": 126,
     "avg_watch_s": 4.1,
-    "watch_time_s": 400.3
+    "watch_time_s": 409.4
    }
   },
   "2026-11-26-2-quiz": {
@@ -190,7 +213,7 @@
     "reach": 79,
     "saved": 0,
     "shares": 0,
-    "views": 93,
+    "views": 94,
     "total_interactions": 1,
     "avg_watch_s": 3.7,
     "watch_time_s": 291.4
@@ -203,7 +226,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 92,
+    "views": 102,
     "likes": 4,
     "comments": 0
    }
@@ -262,20 +285,20 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 101,
+    "reach": 102,
     "saved": 0,
     "shares": 0,
-    "views": 146,
+    "views": 147,
     "total_interactions": 0,
     "avg_watch_s": 5.8,
-    "watch_time_s": 590.4
+    "watch_time_s": 596.7
    },
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 720,
+    "views": 725,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3649.4
+    "watch_time_s": 3713.2
    },
    "youtube": {
     "views": 222,
@@ -349,7 +372,7 @@
     "comments": 0,
     "views": 333,
     "avg_watch_s": 4.7,
-    "watch_time_s": 1201.4
+    "watch_time_s": 1201.7
    }
   },
   "2026-11-25-2-quiz": {
@@ -819,9 +842,9 @@
    "facebook": {
     "likes": 5,
     "comments": 1,
-    "views": 435,
+    "views": 453,
     "avg_watch_s": 5.4,
-    "watch_time_s": 1797.6
+    "watch_time_s": 1849.4
    },
    "youtube": {
     "views": 53,
