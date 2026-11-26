@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-26T16:52:27+00:00",
+ "updated_at": "2026-11-26T18:12:01+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-26",
+   "time": "15:00",
+   "title": "Onde os levitas deveriam colocar o livro da lei escrito por Moisés?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/EU9N0jsDRFk",
+    "instagram": "https://www.instagram.com/reel/DgNtcbGsJBu/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2171857920085364"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-26-5-quiz": {
    "type": "quiz",
    "date": "2026-11-26",
@@ -16,9 +51,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 200,
+    "avg_watch_s": 6.3,
+    "watch_time_s": 612.2
    }
   },
   "2026-11-26-4-quiz": {
@@ -35,13 +70,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 4,
     "saved": 0,
     "shares": 0,
-    "views": 3,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 1.0,
-    "watch_time_s": 1.0
+    "avg_watch_s": 1.9,
+    "watch_time_s": 7.6
    },
    "facebook": {
     "likes": 0,
@@ -51,7 +86,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 5,
+    "views": 12,
     "likes": 1,
     "comments": 0
    }
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 121,
+    "views": 122,
     "avg_watch_s": 4.1,
-    "watch_time_s": 392.2
+    "watch_time_s": 392.7
    }
   },
   "2026-11-26-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 246,
+    "views": 249,
     "avg_watch_s": 4.5,
-    "watch_time_s": 944.5
+    "watch_time_s": 958.3
    },
    "youtube": {
-    "views": 24,
+    "views": 26,
     "likes": 2,
     "comments": 0
    }
@@ -135,13 +170,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 75,
+    "reach": 77,
     "saved": 0,
     "shares": 0,
-    "views": 90,
+    "views": 91,
     "total_interactions": 1,
     "avg_watch_s": 3.8,
-    "watch_time_s": 287.8
+    "watch_time_s": 288.9
    },
    "facebook": {
     "likes": 0,
@@ -151,7 +186,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 88,
+    "views": 90,
     "likes": 4,
     "comments": 0
    }
@@ -174,7 +209,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 151,
+    "views": 152,
     "likes": 1,
     "comments": 0
    }
@@ -221,9 +256,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 698,
-    "avg_watch_s": 7.4,
-    "watch_time_s": 3539.0
+    "views": 703,
+    "avg_watch_s": 7.3,
+    "watch_time_s": 3562.0
    },
    "youtube": {
     "views": 219,
@@ -245,7 +280,7 @@
     "comments": 0,
     "views": 334,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1269.4
+    "watch_time_s": 1286.3
    }
   },
   "2026-11-25-4-quiz": {
@@ -401,7 +436,7 @@
     "watch_time_s": 11.7
    },
    "youtube": {
-    "views": 120,
+    "views": 121,
     "likes": 2,
     "comments": 0
    }
@@ -453,7 +488,7 @@
     "watch_time_s": 1188.3
    },
    "youtube": {
-    "views": 179,
+    "views": 183,
     "likes": 3,
     "comments": 0
    }
@@ -472,7 +507,7 @@
     "comments": 0,
     "views": 331,
     "avg_watch_s": 6.4,
-    "watch_time_s": 1612.4
+    "watch_time_s": 1615.8
    }
   },
   "2026-11-24-4-quiz": {
