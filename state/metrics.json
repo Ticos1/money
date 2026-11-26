@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-26T11:01:12+00:00",
+ "updated_at": "2026-11-26T13:08:05+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-26",
+   "time": "10:00",
+   "title": "Em que dia Neemias viu homens pisando lagares em Judá?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1442555327591431"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-26-2-quiz": {
    "type": "quiz",
    "date": "2026-11-26",
@@ -15,14 +32,14 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1433403645442813"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 245,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 938.7
    },
    "youtube": {
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0
    }
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 1,
     "comments": 0,
-    "reach": 60,
+    "reach": 64,
     "saved": 0,
     "shares": 0,
-    "views": 73,
+    "views": 78,
     "total_interactions": 1,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 229.6
+    "avg_watch_s": 3.7,
+    "watch_time_s": 237.4
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 80,
+    "views": 83,
     "likes": 4,
     "comments": 0
    }
@@ -105,7 +122,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 132,
+    "views": 139,
     "likes": 1,
     "comments": 0
    }
@@ -152,9 +169,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 691,
+    "views": 692,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3524.0
+    "watch_time_s": 3527.6
    },
    "youtube": {
     "views": 220,
@@ -193,13 +210,13 @@
    "instagram": {
     "likes": 4,
     "comments": 0,
-    "reach": 41,
+    "reach": 45,
     "saved": 0,
     "shares": 0,
-    "views": 54,
+    "views": 61,
     "total_interactions": 4,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 190.6
+    "avg_watch_s": 4.4,
+    "watch_time_s": 204.6
    },
    "facebook": {
     "likes": 2,
@@ -209,7 +226,7 @@
     "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 84,
+    "views": 88,
     "likes": 3,
     "comments": 0
    }
@@ -332,7 +349,7 @@
     "watch_time_s": 11.7
    },
    "youtube": {
-    "views": 118,
+    "views": 119,
     "likes": 2,
     "comments": 0
    }
@@ -384,7 +401,7 @@
     "watch_time_s": 1188.3
    },
    "youtube": {
-    "views": 174,
+    "views": 175,
     "likes": 3,
     "comments": 0
    }
@@ -471,12 +488,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 308,
-    "avg_watch_s": 5.8,
-    "watch_time_s": 1351.5
+    "views": 310,
+    "avg_watch_s": 5.7,
+    "watch_time_s": 1353.9
    },
    "youtube": {
-    "views": 115,
+    "views": 116,
     "likes": 3,
     "comments": 0
    }
@@ -1296,9 +1313,9 @@
    "facebook": {
     "likes": 9,
     "comments": 0,
-    "views": 1340,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 5369.8
+    "views": 1343,
+    "avg_watch_s": 5.6,
+    "watch_time_s": 5388.3
    },
    "youtube": {
     "views": 134,
@@ -4049,7 +4066,7 @@
    "facebook": {
     "likes": 12,
     "comments": 0,
-    "views": 1521,
+    "views": 1522,
     "avg_watch_s": 5.1,
     "watch_time_s": 5904.6
    },
