@@ -1,3 +1,991 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-26-10-truefalse",
+   "date": "2026-11-26",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-26T21:36",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:26:33+00:00",
+   "source": "bank",
+   "bank_id": "q716",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 2:12",
+    "ref_label": "1 Samuel 2:12",
+    "question": "Como a Bíblia descreve os filhos do sacerdote Eli?",
+    "shown": "Profetas",
+    "is_true": false,
+    "correct": "Homens ímpios",
+    "evidence": "os filhos de Eli eram homens ímpios",
+    "passage": "Ora, os filhos de Eli eram homens ímpios. Eles não conheciam o SENHOR.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo a Bíblia descreve os filhos do sacerdote Eli?\nResposta: Profetas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #biblia #fe #perguntasbiblicas #jesus #desafiobiblico #palavradedeus #conhecimentobiblico #deus #cristao",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo a Bíblia descreve os filhos do sacerdote Eli?\nResposta: Profetas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #conhecimentobiblico",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #fe #cristao",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #jesus #evangelico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nComo a Bíblia descreve os filhos do sacerdote Eli?\nResposta: Profetas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nComo a Bíblia descreve os filhos do sacerdote Eli?\nResposta: Profetas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #perguntasbiblicas",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Bondade de Deus",
+     "artist": "Isaías Saad"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.74,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-9-quiz",
+   "date": "2026-11-26",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-26T20:04",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:26:16+00:00",
+   "source": "bank",
+   "bank_id": "q138",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 18:27",
+    "ref_label": "1 Samuel 18:27",
+    "question": "Qual filha de Saul se casou com Davi?",
+    "options": [
+     "Merabe",
+     "Mical",
+     "Tamar",
+     "Abigail"
+    ],
+    "answer": 1,
+    "evidence": "Saul lhe deu a sua filha Mical em casamento",
+    "passage": "Davi se levantou e foi com os seus homens, e matou duzentos filisteus. Ele trouxe os prepúcios deles e os entregou na quantidade exata ao rei, para se tornar o genro do rei. Então Saul lhe deu a sua filha Mical em casamento.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filha de Saul se casou com Davi?\n\nA) Merabe\nB) Mical\nC) Tamar\nD) Abigail\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #teste #conhecimentobiblico #biblia #perguntasbiblicas #cristao #jesus #fe #desafio #palavradedeus #gospel",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filha de Saul se casou com Davi?\n\nA) Merabe\nB) Mical\nC) Tamar\nD) Abigail\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #evangelico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #gospel #fe",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #gospel #cristao",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nQual filha de Saul se casou com Davi?\n\nA) Merabe\nB) Mical\nC) Tamar\nD) Abigail\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual filha de Saul se casou com Davi? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nQual filha de Saul se casou com Davi?\n\nA) Merabe\nB) Mical\nC) Tamar\nD) Abigail\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #evangelico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 8.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-8-truefalse",
+   "date": "2026-11-26",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-26T18:26",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:25:59+00:00",
+   "source": "bank",
+   "bank_id": "q140",
+   "model": null,
+   "content": {
+    "ref": "1 Samuel 28:7",
+    "ref_label": "1 Samuel 28:7",
+    "question": "Em qual lugar Saul foi consultar uma mulher que consultava espíritos?",
+    "shown": "En-Dor",
+    "is_true": true,
+    "correct": "En-Dor",
+    "evidence": "em En-Dor",
+    "passage": "Então Saul disse aos seus servos: “Procurem para mim uma mulher que consulte espíritos, para que eu vá até ela e a consulte.” Seus servos responderam: “Há uma mulher que consulta espíritos em En-Dor.”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual lugar Saul foi consultar uma mulher que consultava espíritos?\nResposta: En-Dor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #gospel #perguntasbiblicas #desafiobiblico #palavradedeus #deus #jesus #biblia #fe #evangelico",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual lugar Saul foi consultar uma mulher que consultava espíritos?\nResposta: En-Dor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #fe",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #fe #biblia",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #evangelico #jesus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nEm qual lugar Saul foi consultar uma mulher que consultava espíritos?\nResposta: En-Dor\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nEm qual lugar Saul foi consultar uma mulher que consultava espíritos?\nResposta: En-Dor\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #deus",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 samuel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-8-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-7-quiz",
+   "date": "2026-11-26",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-26T17:00",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:25:41+00:00",
+   "source": "bank",
+   "bank_id": "q1188",
+   "model": null,
+   "content": {
+    "ref": "Atos 20:6",
+    "ref_label": "Atos 20:6",
+    "question": "Quantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?",
+    "options": [
+     "Três",
+     "Sete",
+     "Quarenta",
+     "Dez"
+    ],
+    "answer": 1,
+    "evidence": "onde ficamos sete dias",
+    "passage": "Nós navegamos de Filipos depois dos dias dos Pães Asmos, e em cinco dias fomos ter com eles em Trôade, onde ficamos sete dias.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?\n\nA) Três\nB) Sete\nC) Quarenta\nD) Dez\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #gospel #jesus #teste #evangelico #cristao #perguntasbiblicas #palavradedeus #conhecimentobiblico #deus",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?\n\nA) Três\nB) Sete\nC) Quarenta\nD) Dez\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #deus #desafio",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #teste #conhecimentobiblico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #evangelico #palavradedeus",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nQuantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?\n\nA) Três\nB) Sete\nC) Quarenta\nD) Dez\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nQuantos dias Paulo e seus companheiros ficaram em Trôade antes do discurso até a meia-noite?\n\nA) Três\nB) Sete\nC) Quarenta\nD) Dez\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "atos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-6-truefalse",
+   "date": "2026-11-26",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-26T15:01",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:25:19+00:00",
+   "source": "bank",
+   "bank_id": "q1043",
+   "model": null,
+   "content": {
+    "ref": "Deuteronômio 31:26",
+    "ref_label": "Deuteronômio 31:26",
+    "question": "Onde os levitas deveriam colocar o livro da lei escrito por Moisés?",
+    "shown": "Ao lado da arca da aliança",
+    "is_true": true,
+    "correct": "Ao lado da arca da aliança",
+    "evidence": "coloquem-no ao lado da arca da aliança",
+    "passage": "“Peguem este livro da lei, e coloquem-no ao lado da arca da aliança do SENHOR, o seu Deus, para que esteja ali como testemunha contra vocês.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nOnde os levitas deveriam colocar o livro da lei escrito por Moisés?\nResposta: Ao lado da arca da aliança\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #jesus #cristao #conhecimentobiblico #deus #fe #desafiobiblico #perguntasbiblicas #biblia #evangelico",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nOnde os levitas deveriam colocar o livro da lei escrito por Moisés?\nResposta: Ao lado da arca da aliança\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #conhecimentobiblico #fe",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #gospel #perguntasbiblicas #palavradedeus",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #cristao #fe #desafiobiblico",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nOnde os levitas deveriam colocar o livro da lei escrito por Moisés?\nResposta: Ao lado da arca da aliança\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nOnde os levitas deveriam colocar o livro da lei escrito por Moisés?\nResposta: Ao lado da arca da aliança\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "deuteronômio"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.33,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-5-quiz",
+   "date": "2026-11-26",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-26T13:33",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:25:00+00:00",
+   "source": "bank",
+   "bank_id": "q750",
+   "model": null,
+   "content": {
+    "ref": "2 Reis 2:23",
+    "ref_label": "2 Reis 2:23",
+    "question": "Do que os jovens de Betel chamaram Eliseu ao zombar dele?",
+    "options": [
+     "Careca",
+     "Velho",
+     "Cego",
+     "Estrangeiro"
+    ],
+    "answer": 0,
+    "evidence": "Suba, seu careca!",
+    "passage": "Ele subiu dali para Betel. Enquanto subia pelo caminho, alguns jovens saíram da cidade, zombaram dele e lhe disseram: “Suba, seu careca! Suba, seu careca!”",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #fe #gospel #jesus #desafio #cristao #palavradedeus #conhecimentobiblico #teste",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #jesus",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #biblia #palavradedeus",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico #perguntasbiblicas",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Do que os jovens de Betel chamaram Eliseu ao zombar dele? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nDo que os jovens de Betel chamaram Eliseu ao zombar dele?\n\nA) Careca\nB) Velho\nC) Cego\nD) Estrangeiro\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "2 reis"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-4-quiz",
+   "date": "2026-11-26",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-26T11:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:24:40+00:00",
+   "source": "bank",
+   "bank_id": "q460",
+   "model": null,
+   "content": {
+    "ref": "Daniel 6:1",
+    "ref_label": "Daniel 6:1",
+    "question": "Quantos governadores locais Dario estabeleceu sobre o reino?",
+    "options": [
+     "Doze",
+     "Setenta",
+     "Cem",
+     "Cento e vinte"
+    ],
+    "answer": 3,
+    "evidence": "cento e vinte governadores locais",
+    "passage": "Pareceu bem a Dario estabelecer sobre o reino cento e vinte governadores locais, que deveriam estar por todo o reino;",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQuantos governadores locais Dario estabeleceu sobre o reino?\n\nA) Doze\nB) Setenta\nC) Cem\nD) Cento e vinte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #evangelico #deus #desafio #fe #conhecimentobiblico #perguntasbiblicas #palavradedeus #biblia #gospel #teste",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQuantos governadores locais Dario estabeleceu sobre o reino?\n\nA) Doze\nB) Setenta\nC) Cem\nD) Cento e vinte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #fe #perguntasbiblicas #palavradedeus",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #gospel #jesus #evangelico",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQuantos governadores locais Dario estabeleceu sobre o reino?\n\nA) Doze\nB) Setenta\nC) Cem\nD) Cento e vinte\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quantos governadores locais Dario estabeleceu sobre o reino? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQuantos governadores locais Dario estabeleceu sobre o reino?\n\nA) Doze\nB) Setenta\nC) Cem\nD) Cento e vinte\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #teste",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "daniel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    },
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.55,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-3-truefalse",
+   "date": "2026-11-26",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-26T10:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:24:20+00:00",
+   "source": "bank",
+   "bank_id": "q766",
+   "model": null,
+   "content": {
+    "ref": "Neemias 13:15",
+    "ref_label": "Neemias 13:15",
+    "question": "Em que dia Neemias viu homens pisando lagares em Judá?",
+    "shown": "No sábado",
+    "is_true": true,
+    "correct": "No sábado",
+    "evidence": "pisando lagares no sábado",
+    "passage": "Naqueles dias, vi em Judá alguns homens pisando lagares no sábado, trazendo feixes e carregando jumentos com vinho, uvas, figos e todo tipo de carga, que traziam para Jerusalém no dia de sábado; e eu protestei contra eles no dia em que vendiam mantimentos.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que dia Neemias viu homens pisando lagares em Judá?\nResposta: No sábado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #cristao #jesus #conhecimentobiblico #deus #fe #gospel #perguntasbiblicas #desafiobiblico #palavradedeus",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que dia Neemias viu homens pisando lagares em Judá?\nResposta: No sábado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #gospel #cristao",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #palavradedeus #desafiobiblico #evangelico",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #desafiobiblico #evangelico",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nEm que dia Neemias viu homens pisando lagares em Judá?\nResposta: No sábado\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nEm que dia Neemias viu homens pisando lagares em Judá?\nResposta: No sábado\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "neemias"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Todavia Me Alegrarei",
+     "artist": "Samuel Messias"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.96,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-2-quiz",
+   "date": "2026-11-26",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-26T07:51",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-26T08:24:03+00:00",
+   "source": "groq",
+   "bank_id": null,
+   "model": "openai/gpt-oss-120b",
+   "content": {
+    "ref": "Salmos 124:6",
+    "ref_label": "Salmos 124:6",
+    "question": "Qual expressão do Salmo 124:6 exalta o Senhor?",
+    "options": [
+     "Bendito seja o SENHOR",
+     "Glória ao Altíssimo",
+     "Louvado seja o Criador",
+     "Honra ao Rei"
+    ],
+    "answer": 0,
+    "evidence": "Bendito seja o SENHOR",
+    "passage": "Bendito seja o SENHOR, que não nos entregou como presa aos dentes deles.",
+    "difficulty": "facil"
+   },
+   "captions": {
+    "instagram": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #biblia #evangelico #palavradedeus #cristao #desafio #gospel #conhecimentobiblico #teste #perguntasbiblicas",
+    "facebook": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #evangelico",
+    "tiktok": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #jesus #perguntasbiblicas",
+    "kwai": "Só 1% acerta essa pergunta da Bíblia! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #palavradedeus #desafio #fe",
+    "whatsapp": "*Só 1% acerta essa pergunta da Bíblia!* 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Qual expressão do Salmo 124:6 exalta o Senhor? #shorts",
+     "description": "Só 1% acerta essa pergunta da Bíblia! 🤔\n\nQual expressão do Salmo 124:6 exalta o Senhor?\n\nA) Bendito seja o SENHOR\nB) Glória ao Altíssimo\nC) Louvado seja o Criador\nD) Honra ao Rei\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #conhecimentobiblico",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salmos"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "quiz: conteúdo novo da Groq (openai/gpt-oss-120b) aceito"
+   ],
+   "error": null
+  },
+  {
+   "id": "2026-11-26-1-verse",
+   "date": "2026-11-26",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-26T06:23",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-26T08:23:41+00:00",
+   "source": "bank",
+   "bank_id": "v450",
+   "model": null,
+   "content": {
+    "ref": "1 Pedro 5:10",
+    "ref_label": "1 Pedro 5:10",
+    "verse_text": "Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.",
+    "on_screen": "Depois do sofrimento, Deus restaura.",
+    "reflection": "O sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.",
+    "theme": "perseverança",
+    "mood": "reflexao",
+    "tags": [
+     "perseveranca",
+     "graca"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo #esperanca #cristao #oracao #deus #reflexao #devocional #gospel",
+    "facebook": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculoparanaodesistir #perseveranca #graca #versiculododia",
+    "tiktok": "Versículo para não desistir\nLeia com calma e receba 🙏 1 Pedro 5:10\nEnvie para quem precisa ouvir isso hoje.\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo",
+    "kwai": "Versículo para não desistir\nLeia com calma e receba 🙏 1 Pedro 5:10\nEnvie para quem precisa ouvir isso hoje.\n#versiculoparanaodesistir #perseveranca #graca #versiculododia #versiculo",
+    "whatsapp": "*Leia com calma e receba* 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo para não desistir: 1 Pedro 5:10 🙏 #shorts",
+     "description": "Versículo para não desistir: 1 Pedro 5:10\nLeia com calma e receba 🙏\n\n“Mas que o Deus de toda a graça, que os chamou para a sua glória eterna por Cristo Jesus, depois de vocês terem sofrido por um pouco de tempo, os aperfeiçoe, estabeleça, fortaleça e consolide.” (1 Pedro 5:10)\n\nO sofrimento tem prazo, mas a graça de Deus não. Ele mesmo promete aperfeiçoar, firmar e fortalecer você. A dor de hoje não é a palavra final.\n\nEnvie para quem precisa ouvir isso hoje.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculoparanaodesistir #perseveranca #graca",
+     "tags": [
+      "versículo para não desistir",
+      "versículos para não desistir",
+      "perseverança",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "perseveranca",
+      "graca",
+      "1 pedro"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Leia com calma e receba",
+   "music": {
+    "id": "gen-reflexao-1",
+    "title": "Águas Tranquilas",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Ressuscita-me",
+     "artist": "Aline Barros"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 24.67,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-26/2026-11-26-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [
+    "legenda Groq descartada: legenda incompleta"
+   ],
+   "error": null
+  }
+ ]
 }
