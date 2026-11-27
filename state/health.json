@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T09:02:32+00:00",
+ "updated_at": "2026-11-27T09:35:24+00:00",
  "date": "2026-11-27",
  "paused": false,
  "problems": [],
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-27-1-verse",
+   "date": "2026-11-27",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-27T06:28",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-27T09:31:20+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18287748808290677"
+   },
+   "title": "João 5:24"
+  }
+ ],
  "specials": {}
 }
