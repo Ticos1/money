@@ -1,6 +1,101 @@
 {
  "posts": [
   {
+   "id": "2026-11-27-1-verse",
+   "date": "2026-11-27",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-27T06:28",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:21:55+00:00",
+   "source": "bank",
+   "bank_id": "v541",
+   "model": null,
+   "content": {
+    "ref": "João 5:24",
+    "ref_label": "João 5:24",
+    "verse_text": "Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.",
+    "on_screen": "Em Cristo, você passou da morte para a vida.",
+    "reflection": "Jesus garante que quem ouve sua palavra e crê já tem a vida eterna. Não é uma esperança distante, é uma realidade agora. Descanse nessa certeza de salvação.",
+    "theme": "salvação",
+    "mood": "reflexao",
+    "tags": [
+     "salvacao",
+     "vidaeterna"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo #deus #esperanca #jesus #palavradedeus #fe #biblia #reflexao",
+    "facebook": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia",
+    "tiktok": "Versículo sobre salvação\nA vida eterna já é sua, aqui e agora. Confie e compartilhe! 🙏\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo",
+    "kwai": "Versículo sobre salvação\nA vida eterna já é sua, aqui e agora. Confie e compartilhe! 🙏\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo",
+    "whatsapp": "“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre salvação: João 5:24 🙏 #shorts",
+     "description": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobresalvacao #salvacao #vidaeterna",
+     "tags": [
+      "versículo sobre salvação",
+      "versículos sobre salvação",
+      "salvação",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salvacao",
+      "vidaeterna",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-27T09:31:20+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18287748808290677"
+   }
+  },
+  {
    "id": "2026-11-26-10-truefalse",
    "date": "2026-11-26",
    "slot": 10,
