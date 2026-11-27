@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-27T09:35:18+00:00",
+ "updated_at": "2026-11-27T11:11:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-27",
+   "time": "08:00",
+   "title": "Por que Davi não construiria uma casa para o nome do SENHOR?",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "links": {
+    "youtube": "https://youtube.com/shorts/6t0LtEA8-hw",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1473546417437677"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-27-1-verse": {
    "type": "verse",
    "date": "2026-11-27",
@@ -99,7 +122,7 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 82,
+    "views": 83,
     "avg_watch_s": 5.4,
     "watch_time_s": 333.3
    }
@@ -118,13 +141,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 12,
+    "reach": 18,
     "saved": 0,
     "shares": 0,
-    "views": 15,
+    "views": 26,
     "total_interactions": 0,
-    "avg_watch_s": 4.5,
-    "watch_time_s": 54.2
+    "avg_watch_s": 4.6,
+    "watch_time_s": 82.6
    },
    "facebook": {
     "likes": 1,
@@ -170,13 +193,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 28,
+    "reach": 30,
     "saved": 0,
     "shares": 0,
-    "views": 31,
+    "views": 35,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 98.9
+    "avg_watch_s": 3.9,
+    "watch_time_s": 116.3
    },
    "facebook": {
     "likes": 0,
@@ -203,9 +226,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 132,
+    "views": 133,
     "avg_watch_s": 4.3,
-    "watch_time_s": 447.3
+    "watch_time_s": 449.3
    }
   },
   "2026-11-26-2-quiz": {
@@ -221,9 +244,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 250,
+    "views": 251,
     "avg_watch_s": 4.5,
-    "watch_time_s": 959.1
+    "watch_time_s": 959.9
    },
    "youtube": {
     "views": 44,
@@ -356,9 +379,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 730,
+    "views": 731,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3732.0
+    "watch_time_s": 3733.3
    },
    "youtube": {
     "views": 231,
@@ -3337,9 +3360,9 @@
    "facebook": {
     "likes": 6,
     "comments": 1,
-    "views": 1365,
+    "views": 1366,
     "avg_watch_s": 5.6,
-    "watch_time_s": 5745.7
+    "watch_time_s": 5752.8
    },
    "youtube": {
     "views": 0,
