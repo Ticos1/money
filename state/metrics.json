@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-27T13:06:28+00:00",
+ "updated_at": "2026-11-27T15:14:27+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-4-quiz": {
+   "type": "quiz",
+   "date": "2026-11-27",
+   "time": "12:00",
+   "title": "Qual destes jovens de Judá estava com Daniel na Babilônia?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "youtube": "https://youtube.com/shorts/qmxuLFh93Dk",
+    "instagram": "https://www.instagram.com/reel/DgP9jBthDzs/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1126798143465497"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-27-3-truefalse": {
    "type": "truefalse",
    "date": "2026-11-27",
@@ -39,8 +74,8 @@
     "watch_time_s": 1287.6
    },
    "youtube": {
-    "views": 9,
-    "likes": 0,
+    "views": 26,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -99,7 +134,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -158,13 +193,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 24,
+    "reach": 26,
     "saved": 0,
     "shares": 0,
-    "views": 30,
+    "views": 34,
     "total_interactions": 0,
-    "avg_watch_s": 4.2,
-    "watch_time_s": 100.4
+    "avg_watch_s": 4.1,
+    "watch_time_s": 107.1
    },
    "facebook": {
     "likes": 1,
@@ -174,7 +209,7 @@
     "watch_time_s": 397.8
    },
    "youtube": {
-    "views": 87,
+    "views": 93,
     "likes": 3,
     "comments": 0
    }
@@ -210,13 +245,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 34,
+    "reach": 36,
     "saved": 0,
     "shares": 0,
-    "views": 38,
+    "views": 40,
     "total_interactions": 0,
-    "avg_watch_s": 3.5,
-    "watch_time_s": 119.1
+    "avg_watch_s": 3.6,
+    "watch_time_s": 129.1
    },
    "facebook": {
     "likes": 0,
@@ -226,7 +261,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 59,
+    "views": 60,
     "likes": 2,
     "comments": 0
    }
@@ -396,9 +431,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 731,
+    "views": 733,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3733.3
+    "watch_time_s": 3734.2
    },
    "youtube": {
     "views": 231,
