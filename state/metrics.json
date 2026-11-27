@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-27T16:46:54+00:00",
+ "updated_at": "2026-11-27T18:16:51+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-6-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-27",
+   "time": "15:00",
+   "title": "Segundo Colossenses, de quem Marcos era primo?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/wzU2x8Krz_s",
+    "instagram": "https://www.instagram.com/reel/DgQSx8QNg_t/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1127210216742355"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-27-5-quiz": {
    "type": "quiz",
    "date": "2026-11-27",
@@ -68,9 +103,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 59,
+    "avg_watch_s": 4.8,
+    "watch_time_s": 67.8
    }
   },
   "2026-11-27-2-quiz": {
@@ -86,12 +121,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 251,
-    "avg_watch_s": 6.9,
-    "watch_time_s": 1288.1
+    "views": 258,
+    "avg_watch_s": 7.1,
+    "watch_time_s": 1340.4
    },
    "youtube": {
-    "views": 32,
+    "views": 33,
     "likes": 1,
     "comments": 0
    }
@@ -151,7 +186,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 13,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -210,13 +245,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 30,
+    "reach": 31,
     "saved": 0,
     "shares": 0,
-    "views": 36,
+    "views": 37,
     "total_interactions": 0,
-    "avg_watch_s": 4.0,
-    "watch_time_s": 119.1
+    "avg_watch_s": 3.9,
+    "watch_time_s": 120.4
    },
    "facebook": {
     "likes": 1,
@@ -226,7 +261,7 @@
     "watch_time_s": 397.8
    },
    "youtube": {
-    "views": 94,
+    "views": 93,
     "likes": 3,
     "comments": 0
    }
@@ -243,7 +278,7 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 381,
+    "views": 382,
     "avg_watch_s": 6.3,
     "watch_time_s": 1705.0
    }
@@ -378,7 +413,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 111,
+    "views": 113,
     "likes": 4,
     "comments": 0
    }
@@ -505,7 +540,7 @@
     "watch_time_s": 826.9
    },
    "youtube": {
-    "views": 112,
+    "views": 111,
     "likes": 4,
     "comments": 0
    }
@@ -1249,7 +1284,7 @@
     "youtube": "https://youtu.be/iblyx6NTdU4"
    },
    "youtube": {
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0
    }
