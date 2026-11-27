@@ -1,6 +1,93 @@
 {
  "posts": [
   {
+   "id": "2026-11-27-3-truefalse",
+   "date": "2026-11-27",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-27T10:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:22:54+00:00",
+   "source": "bank",
+   "bank_id": "q119",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 17:12",
+    "ref_label": "Êxodo 17:12",
+    "question": "Quem segurou as mãos de Moisés durante a batalha contra Amaleque?",
+    "shown": "Arão e Hur",
+    "is_true": true,
+    "correct": "Arão e Hur",
+    "evidence": "Arão e Hur seguraram as suas mãos",
+    "passage": "Mas as mãos de Moisés ficaram pesadas; então pegaram uma pedra e a colocaram debaixo dele, e ele se assentou nela. Arão e Hur seguraram as suas mãos, um de um lado, e o outro do outro lado. Assim, suas mãos ficaram firmes até o pôr do sol.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #fe #palavradedeus #deus #desafiobiblico #conhecimentobiblico #biblia #cristao #perguntasbiblicas #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #cristao",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #cristao #biblia",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-27T13:00:52+00:00",
+    "stories": "2026-11-27T13:01:58+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1733130931563118",
+    "stories": "story 18039932045664222"
+   }
+  },
+  {
    "id": "2026-11-27-2-quiz",
    "date": "2026-11-27",
    "slot": 2,
