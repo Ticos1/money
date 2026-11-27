@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T18:16:55+00:00",
+ "updated_at": "2026-11-27T20:00:55+00:00",
  "date": "2026-11-27",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-27-7-quiz",
+   "date": "2026-11-27",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-27T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-27T19:55:39+00:00",
+    "stories": "2026-11-27T19:56:12+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/985233304279898",
+    "stories": "story 17957902968036282"
+   },
+   "title": "Há quantos anos estava enfermo o homem do tanque de Betesda?"
+  },
   {
    "id": "2026-11-27-6-truefalse",
    "date": "2026-11-27",
