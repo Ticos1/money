@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-27T18:16:51+00:00",
+ "updated_at": "2026-11-27T20:00:52+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-7-quiz": {
+   "type": "quiz",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "title": "Há quantos anos estava enfermo o homem do tanque de Betesda?",
+   "hook": "Desafio bíblico do dia",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/985233304279898"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 1,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-27-6-truefalse": {
    "type": "truefalse",
    "date": "2026-11-27",
@@ -29,12 +46,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 160,
+    "avg_watch_s": 4.1,
+    "watch_time_s": 491.7
    },
    "youtube": {
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0
    }
@@ -86,7 +103,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0
    }
@@ -101,11 +118,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/1733130931563118"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 59,
-    "avg_watch_s": 4.8,
-    "watch_time_s": 67.8
+    "views": 111,
+    "avg_watch_s": 7.3,
+    "watch_time_s": 529.6
    }
   },
   "2026-11-27-2-quiz": {
@@ -126,7 +143,7 @@
     "watch_time_s": 1340.4
    },
    "youtube": {
-    "views": 33,
+    "views": 40,
     "likes": 1,
     "comments": 0
    }
@@ -186,7 +203,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 9,
+    "views": 24,
     "likes": 0,
     "comments": 0
    }
@@ -209,8 +226,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 48,
-    "likes": 2,
+    "views": 55,
+    "likes": 3,
     "comments": 0
    }
   },
@@ -226,9 +243,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 84,
-    "avg_watch_s": 5.3,
-    "watch_time_s": 338.0
+    "views": 86,
+    "avg_watch_s": 5.4,
+    "watch_time_s": 348.7
    }
   },
   "2026-11-26-6-truefalse": {
@@ -256,12 +273,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 104,
+    "views": 106,
     "avg_watch_s": 5.2,
-    "watch_time_s": 397.8
+    "watch_time_s": 409.2
    },
    "youtube": {
-    "views": 93,
+    "views": 96,
     "likes": 3,
     "comments": 0
    }
@@ -280,7 +297,7 @@
     "comments": 0,
     "views": 382,
     "avg_watch_s": 6.3,
-    "watch_time_s": 1705.0
+    "watch_time_s": 1706.1
    }
   },
   "2026-11-26-4-quiz": {
@@ -313,7 +330,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 62,
+    "views": 61,
     "likes": 2,
     "comments": 0
    }
@@ -330,9 +347,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 134,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 449.5
+    "views": 135,
+    "avg_watch_s": 4.2,
+    "watch_time_s": 449.9
    }
   },
   "2026-11-26-2-quiz": {
@@ -348,9 +365,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 251,
+    "views": 252,
     "avg_watch_s": 4.5,
-    "watch_time_s": 959.9
+    "watch_time_s": 960.7
    },
    "youtube": {
     "views": 44,
@@ -862,9 +879,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 2,
-    "avg_watch_s": 7.4,
-    "watch_time_s": 14.8
+    "views": 3,
+    "avg_watch_s": 5.9,
+    "watch_time_s": 17.6
    },
    "youtube": {
     "views": 76,
