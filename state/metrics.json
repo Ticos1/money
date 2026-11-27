@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-27T21:17:05+00:00",
+ "updated_at": "2026-11-27T21:35:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-8-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-27",
+   "time": "18:30",
+   "title": "Com que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/L5Dwoi8nz0I",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1188302293525854"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-27-7-quiz": {
    "type": "quiz",
    "date": "2026-11-27",
@@ -35,23 +58,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 1,
     "saved": 0,
     "shares": 0,
-    "views": 1,
+    "views": 4,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 2.3,
+    "watch_time_s": 2.3
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 246,
+    "views": 270,
     "avg_watch_s": 4.3,
-    "watch_time_s": 679.0
+    "watch_time_s": 747.6
    },
    "youtube": {
-    "views": 44,
+    "views": 50,
     "likes": 1,
     "comments": 0
    }
@@ -103,7 +126,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 33,
+    "views": 29,
     "likes": 0,
     "comments": 0
    }
@@ -143,7 +166,7 @@
     "watch_time_s": 1375.2
    },
    "youtube": {
-    "views": 44,
+    "views": 46,
     "likes": 1,
     "comments": 0
    }
@@ -190,10 +213,10 @@
     "reach": 9,
     "saved": 0,
     "shares": 0,
-    "views": 10,
+    "views": 11,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 28.6
+    "avg_watch_s": 3.8,
+    "watch_time_s": 30.4
    },
    "facebook": {
     "likes": 0,
@@ -203,7 +226,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 30,
+    "views": 31,
     "likes": 0,
     "comments": 0
    }
@@ -226,7 +249,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 56,
+    "views": 57,
     "likes": 3,
     "comments": 0
    }
