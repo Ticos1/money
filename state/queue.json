@@ -1,3 +1,987 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "2026-11-27-10-truefalse",
+   "date": "2026-11-27",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-27T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:26:12+00:00",
+   "source": "bank",
+   "bank_id": "q1222",
+   "model": null,
+   "content": {
+    "ref": "Apocalipse 2:13",
+    "ref_label": "Apocalipse 2:13",
+    "question": "Qual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?",
+    "shown": "Antipas",
+    "is_true": true,
+    "correct": "Antipas",
+    "evidence": "Antipas, minha testemunha",
+    "passage": "“Conheço as suas obras e onde você habita, onde está o trono de Satanás. Você retém firmemente o meu nome, e não negou a minha fé, mesmo nos dias de Antipas, minha testemunha, meu servo fiel, que foi morto entre vocês, onde Satanás habita.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?\nResposta: Antipas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #gospel #desafiobiblico #jesus #perguntasbiblicas #evangelico #biblia #cristao #conhecimentobiblico",
+    "facebook": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?\nResposta: Antipas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #desafiobiblico #palavradedeus",
+    "tiktok": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #deus #jesus #palavradedeus",
+    "kwai": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #desafiobiblico #fe",
+    "whatsapp": "*Verdade ou mentira? Teste o seu conhecimento bíblico* 🤔\n\nQual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?\nResposta: Antipas\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdade ou mentira? Teste o seu conhecimento bíblico 🤔\n\nQual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?\nResposta: Antipas\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #cristao",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "apocalipse"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.69,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-10-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-9-quiz",
+   "date": "2026-11-27",
+   "slot": 9,
+   "time": "20:00",
+   "publish_at": "2026-11-27T20:06",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:25:45+00:00",
+   "source": "bank",
+   "bank_id": "q858",
+   "model": null,
+   "content": {
+    "ref": "Lucas 1:63",
+    "ref_label": "Lucas 1:63",
+    "question": "Em que Zacarias escreveu: “O nome dele é João”?",
+    "options": [
+     "Um rolo",
+     "Uma pedra",
+     "Na areia",
+     "Uma tabuinha"
+    ],
+    "answer": 3,
+    "evidence": "Ele pediu uma tabuinha de escrever",
+    "passage": "Ele pediu uma tabuinha de escrever, e escreveu: “O nome dele é João.” Todos se admiraram.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Teste rápido: você acerta de primeira? 🤔\n\nEm que Zacarias escreveu: “O nome dele é João”?\n\nA) Um rolo\nB) Uma pedra\nC) Na areia\nD) Uma tabuinha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #biblia #perguntasbiblicas #jesus #teste #cristao #gospel #palavradedeus #evangelico #deus #fe",
+    "facebook": "Teste rápido: você acerta de primeira? 🤔\n\nEm que Zacarias escreveu: “O nome dele é João”?\n\nA) Um rolo\nB) Uma pedra\nC) Na areia\nD) Uma tabuinha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #teste",
+    "tiktok": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #biblia #conhecimentobiblico",
+    "kwai": "Teste rápido: você acerta de primeira? 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #desafio #fe #teste",
+    "whatsapp": "*Teste rápido: você acerta de primeira?* 🤔\n\nEm que Zacarias escreveu: “O nome dele é João”?\n\nA) Um rolo\nB) Uma pedra\nC) Na areia\nD) Uma tabuinha\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico: Em que Zacarias escreveu: “O nome dele é João”? #shorts",
+     "description": "Teste rápido: você acerta de primeira? 🤔\n\nEm que Zacarias escreveu: “O nome dele é João”?\n\nA) Um rolo\nB) Uma pedra\nC) Na areia\nD) Uma tabuinha\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.37,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-9-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-8-truefalse",
+   "date": "2026-11-27",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-27T18:28",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:25:16+00:00",
+   "source": "bank",
+   "bank_id": "q760",
+   "model": null,
+   "content": {
+    "ref": "Esdras 3:10",
+    "ref_label": "Esdras 3:10",
+    "question": "Com que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?",
+    "shown": "Címbalos",
+    "is_true": true,
+    "correct": "Címbalos",
+    "evidence": "os levitas, filhos de Asafe, com címbalos",
+    "passage": "Quando os construtores lançaram os alicerces do templo do SENHOR, eles posicionaram os sacerdotes em suas vestes com trombetas, e os levitas, filhos de Asafe, com címbalos, para louvarem ao SENHOR, de acordo com as instruções de Davi, rei de Israel.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nCom que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?\nResposta: Címbalos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #fe #biblia #desafiobiblico #gospel #perguntasbiblicas #deus #conhecimentobiblico #jesus #cristao",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nCom que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?\nResposta: Címbalos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #evangelico #palavradedeus",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #conhecimentobiblico",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #perguntasbiblicas #palavradedeus",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nCom que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?\nResposta: Címbalos\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nCom que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?\nResposta: Címbalos\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #fe",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "esdras"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "Ninguém Explica Deus",
+     "artist": "Preto no Branco"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 10.19,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-8-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-7-quiz",
+   "date": "2026-11-27",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-27T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:24:48+00:00",
+   "source": "bank",
+   "bank_id": "q226",
+   "model": null,
+   "content": {
+    "ref": "João 5:5",
+    "ref_label": "João 5:5",
+    "question": "Há quantos anos estava enfermo o homem do tanque de Betesda?",
+    "options": [
+     "Doze",
+     "Dezoito",
+     "Trinta e oito",
+     "Quarenta"
+    ],
+    "answer": 2,
+    "evidence": "havia trinta e oito anos",
+    "passage": "Estava ali um homem enfermo havia trinta e oito anos.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #deus #teste #evangelico #palavradedeus #gospel #perguntasbiblicas #fe #biblia",
+    "facebook": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #conhecimentobiblico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #cristao #jesus",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Há quantos anos estava enfermo o homem do tanque de Betesda? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.78,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-7-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-6-truefalse",
+   "date": "2026-11-27",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-27T15:10",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:24:18+00:00",
+   "source": "bank",
+   "bank_id": "q1218",
+   "model": null,
+   "content": {
+    "ref": "Colossenses 4:10",
+    "ref_label": "Colossenses 4:10",
+    "question": "Segundo Colossenses, de quem Marcos era primo?",
+    "shown": "Barnabé",
+    "is_true": true,
+    "correct": "Barnabé",
+    "evidence": "Marcos, primo de Barnabé",
+    "passage": "Aristarco, meu companheiro de prisão, saúda vocês, e também Marcos, primo de Barnabé (a respeito de quem vocês receberam instruções: “se ele for até vocês, recebam-no”),",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Colossenses, de quem Marcos era primo?\nResposta: Barnabé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #fe #perguntasbiblicas #jesus #biblia #palavradedeus #evangelico #conhecimentobiblico #cristao #desafiobiblico #deus",
+    "facebook": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Colossenses, de quem Marcos era primo?\nResposta: Barnabé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #cristao",
+    "tiktok": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #biblia #evangelico #perguntasbiblicas",
+    "kwai": "Verdadeiro ou falso: você acerta essa? 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #jesus #deus #perguntasbiblicas",
+    "whatsapp": "*Verdadeiro ou falso: você acerta essa?* 🤔\n\nSegundo Colossenses, de quem Marcos era primo?\nResposta: Barnabé\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Segundo Colossenses, de quem Marcos era primo? #shorts",
+     "description": "Verdadeiro ou falso: você acerta essa? 🤔\n\nSegundo Colossenses, de quem Marcos era primo?\nResposta: Barnabé\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #desafiobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "colossenses"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Galileu",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 8.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-6-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-5-quiz",
+   "date": "2026-11-27",
+   "slot": 5,
+   "time": "13:30",
+   "publish_at": "2026-11-27T13:38",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:23:54+00:00",
+   "source": "bank",
+   "bank_id": "q221",
+   "model": null,
+   "content": {
+    "ref": "Lucas 24:13",
+    "ref_label": "Lucas 24:13",
+    "question": "Para qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?",
+    "options": [
+     "Betânia",
+     "Emaús",
+     "Betfagé",
+     "Caná"
+    ],
+    "answer": 1,
+    "evidence": "uma aldeia chamada Emaús",
+    "passage": "Eis que dois deles estavam indo naquele mesmo dia para uma aldeia chamada Emaús, que ficava a sessenta estádios de Jerusalém.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nPara qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?\n\nA) Betânia\nB) Emaús\nC) Betfagé\nD) Caná\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #biblia #cristao #palavradedeus #desafio #teste #fe #evangelico #deus #jesus",
+    "facebook": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nPara qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?\n\nA) Betânia\nB) Emaús\nC) Betfagé\nD) Caná\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #perguntasbiblicas #conhecimentobiblico",
+    "tiktok": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #perguntasbiblicas",
+    "kwai": "Você conhece mesmo a Bíblia? Prove! 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #cristao #evangelico",
+    "whatsapp": "*Você conhece mesmo a Bíblia? Prove!* 🤔\n\nPara qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?\n\nA) Betânia\nB) Emaús\nC) Betfagé\nD) Caná\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Quiz Bíblico (nível médio): você acerta essa? #shorts",
+     "description": "Você conhece mesmo a Bíblia? Prove! 🤔\n\nPara qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?\n\nA) Betânia\nB) Emaús\nC) Betfagé\nD) Caná\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #deus",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "lucas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.05,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-5-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-4-quiz",
+   "date": "2026-11-27",
+   "slot": 4,
+   "time": "12:00",
+   "publish_at": "2026-11-27T12:05",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:23:23+00:00",
+   "source": "bank",
+   "bank_id": "q827",
+   "model": null,
+   "content": {
+    "ref": "Daniel 1:6",
+    "ref_label": "Daniel 1:6",
+    "question": "Qual destes jovens de Judá estava com Daniel na Babilônia?",
+    "options": [
+     "Baruque",
+     "Misael",
+     "Neemias",
+     "Esdras"
+    ],
+    "answer": 1,
+    "evidence": "Daniel, Hananias, Misael e Azarias",
+    "passage": "Ora, entre estes, dos filhos de Judá, estavam Daniel, Hananias, Misael e Azarias.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nQual destes jovens de Judá estava com Daniel na Babilônia?\n\nA) Baruque\nB) Misael\nC) Neemias\nD) Esdras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #palavradedeus #conhecimentobiblico #desafio #teste #gospel #fe #jesus #evangelico #cristao #biblia",
+    "facebook": "Desafio bíblico do dia 🤔\n\nQual destes jovens de Judá estava com Daniel na Babilônia?\n\nA) Baruque\nB) Misael\nC) Neemias\nD) Esdras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #teste #perguntasbiblicas #desafio",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #fe #jesus",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nQual destes jovens de Judá estava com Daniel na Babilônia?\n\nA) Baruque\nB) Misael\nC) Neemias\nD) Esdras\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Qual destes jovens de Judá estava com Daniel na Babilônia? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nQual destes jovens de Judá estava com Daniel na Babilônia?\n\nA) Baruque\nB) Misael\nC) Neemias\nD) Esdras\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #fe",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "daniel"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Casa do Pai",
+     "artist": "Aline Barros"
+    },
+    {
+     "title": "Grandes Coisas",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 9.42,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-4-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-3-truefalse",
+   "date": "2026-11-27",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-27T10:00",
+   "type": "truefalse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:22:54+00:00",
+   "source": "bank",
+   "bank_id": "q119",
+   "model": null,
+   "content": {
+    "ref": "Êxodo 17:12",
+    "ref_label": "Êxodo 17:12",
+    "question": "Quem segurou as mãos de Moisés durante a batalha contra Amaleque?",
+    "shown": "Arão e Hur",
+    "is_true": true,
+    "correct": "Arão e Hur",
+    "evidence": "Arão e Hur seguraram as suas mãos",
+    "passage": "Mas as mãos de Moisés ficaram pesadas; então pegaram uma pedra e a colocaram debaixo dele, e ele se assentou nela. Arão e Hur seguraram as suas mãos, um de um lado, e o outro do outro lado. Assim, suas mãos ficaram firmes até o pôr do sol.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #jesus #fe #palavradedeus #deus #desafiobiblico #conhecimentobiblico #biblia #cristao #perguntasbiblicas #gospel",
+    "facebook": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#verdadeirooufalso #quizbiblico #deus #gospel",
+    "tiktok": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #fe #palavradedeus #cristao",
+    "kwai": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\nComente V ou F antes de ver a resposta 👇\n#verdadeirooufalso #quizbiblico #perguntasbiblicas #cristao #biblia",
+    "whatsapp": "*Verdadeiro ou falso? Só 1% acerta de primeira!* 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso?\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Verdadeiro ou falso? Só 1% acerta essa da Bíblia #shorts",
+     "description": "Verdadeiro ou falso? Só 1% acerta de primeira! 🤔\n\nQuem segurou as mãos de Moisés durante a batalha contra Amaleque?\nResposta: Arão e Hur\n\nVerdadeiro ou falso? Comente V ou F antes de ver a resposta 👇\nA resposta está no final do vídeo.\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #verdadeirooufalso #quizbiblico #conhecimentobiblico",
+     "tags": [
+      "verdadeiro ou falso",
+      "verdadeiro ou falso bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "êxodo"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    },
+    {
+     "title": "Uma Nova História",
+     "artist": "Fernandinho"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [],
+    "duration": 9.51,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-3-truefalse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-2-quiz",
+   "date": "2026-11-27",
+   "slot": 2,
+   "time": "08:00",
+   "publish_at": "2026-11-27T08:02",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:22:27+00:00",
+   "source": "bank",
+   "bank_id": "q755",
+   "model": null,
+   "content": {
+    "ref": "1 Crônicas 22:8",
+    "ref_label": "1 Crônicas 22:8",
+    "question": "Por que Davi não construiria uma casa para o nome do SENHOR?",
+    "options": [
+     "Porque derramou muito sangue",
+     "Porque era pobre",
+     "Porque era velho demais",
+     "Porque pecou contra Urias"
+    ],
+    "answer": 0,
+    "evidence": "você derramou muito sangue na terra",
+    "passage": "Mas a palavra do SENHOR veio a mim, dizendo: ‘Você derramou sangue em abundância e fez grandes guerras. Você não construirá uma casa para o meu nome, porque você derramou muito sangue na terra, diante dos meus olhos.",
+    "difficulty": "medio"
+   },
+   "captions": {
+    "instagram": "Pergunta bíblica que poucos acertam 🤔\n\nPor que Davi não construiria uma casa para o nome do SENHOR?\n\nA) Porque derramou muito sangue\nB) Porque era pobre\nC) Porque era velho demais\nD) Porque pecou contra Urias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #desafio #conhecimentobiblico #gospel #biblia #fe #deus #perguntasbiblicas #jesus #evangelico #teste",
+    "facebook": "Pergunta bíblica que poucos acertam 🤔\n\nPor que Davi não construiria uma casa para o nome do SENHOR?\n\nA) Porque derramou muito sangue\nB) Porque era pobre\nC) Porque era velho demais\nD) Porque pecou contra Urias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #jesus #conhecimentobiblico",
+    "tiktok": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #cristao #deus #jesus",
+    "kwai": "Pergunta bíblica que poucos acertam 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #jesus #evangelico #conhecimentobiblico",
+    "whatsapp": "*Pergunta bíblica que poucos acertam* 🤔\n\nPor que Davi não construiria uma casa para o nome do SENHOR?\n\nA) Porque derramou muito sangue\nB) Porque era pobre\nC) Porque era velho demais\nD) Porque pecou contra Urias\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Por que Davi não construiria uma casa para o nome do SENHOR? #shorts",
+     "description": "Pergunta bíblica que poucos acertam 🤔\n\nPor que Davi não construiria uma casa para o nome do SENHOR?\n\nA) Porque derramou muito sangue\nB) Porque era pobre\nC) Porque era velho demais\nD) Porque pecou contra Urias\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #biblia",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "1 crônicas"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Pergunta bíblica que poucos acertam",
+   "music": {
+    "id": "gen-desafio-2",
+    "title": "Será Que Você Sabe?",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Deus de Promessas",
+     "artist": "Davi Sacer"
+    },
+    {
+     "title": "Faz Chover",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Quão Grande És Tu (hino)",
+     "artist": "Cantor Cristão / vários intérpretes"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "pergunta_quadrada.jpg",
+     "pergunta_vertical.jpg",
+     "resposta_quadrada.jpg",
+     "resposta_vertical.jpg"
+    ],
+    "duration": 10.6,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-2-quiz/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  },
+  {
+   "id": "2026-11-27-1-verse",
+   "date": "2026-11-27",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-27T06:28",
+   "type": "verse",
+   "status": "approved",
+   "created_at": "2026-11-27T08:21:55+00:00",
+   "source": "bank",
+   "bank_id": "v541",
+   "model": null,
+   "content": {
+    "ref": "João 5:24",
+    "ref_label": "João 5:24",
+    "verse_text": "Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.",
+    "on_screen": "Em Cristo, você passou da morte para a vida.",
+    "reflection": "Jesus garante que quem ouve sua palavra e crê já tem a vida eterna. Não é uma esperança distante, é uma realidade agora. Descanse nessa certeza de salvação.",
+    "theme": "salvação",
+    "mood": "reflexao",
+    "tags": [
+     "salvacao",
+     "vidaeterna"
+    ]
+   },
+   "captions": {
+    "instagram": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo #deus #esperanca #jesus #palavradedeus #fe #biblia #reflexao",
+    "facebook": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia",
+    "tiktok": "Versículo sobre salvação\nA vida eterna já é sua, aqui e agora. Confie e compartilhe! 🙏\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo",
+    "kwai": "Versículo sobre salvação\nA vida eterna já é sua, aqui e agora. Confie e compartilhe! 🙏\n#versiculosobresalvacao #salvacao #vidaeterna #versiculododia #versiculo",
+    "whatsapp": "“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nReaja com 🙏 se você recebe essa palavra e encaminhe para quem precisa ler isso hoje.\n\n📖 Versículo e quiz de hoje: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Versículo sobre salvação: João 5:24 🙏 #shorts",
+     "description": "Versículo sobre salvação: João 5:24\n“Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.” (João 5:24)\n\nJesus nos assegura que, ao ouvir Sua palavra e crer naquele que O enviou, já possuímos a vida eterna. Não é algo que acontecerá só no futuro; é uma realidade presente que nos livra do julgamento. Descanse nessa promessa e viva com confiança plena. Salve este post para lembrar que a salvação é agora. 🙏\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #versiculosobresalvacao #salvacao #vidaeterna",
+     "tags": [
+      "versículo sobre salvação",
+      "versículos sobre salvação",
+      "salvação",
+      "versículo do dia",
+      "palavra do dia",
+      "mensagem de fé",
+      "devocional",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "salvacao",
+      "vidaeterna",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "groq",
+   "hook": "Legenda da IA",
+   "music": {
+    "id": "gen-reflexao-2",
+    "title": "Lugar de Descanso",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Nada Além do Sangue",
+     "artist": "Fernandinho"
+    },
+    {
+     "title": "Ousado Amor",
+     "artist": "Isaías Saad"
+    },
+    {
+     "title": "A Casa É Sua",
+     "artist": "Casa Worship"
+    }
+   ],
+   "media": {
+    "video_music": "video_com_musica.mp4",
+    "video_silent": "video_sem_musica.mp4",
+    "poster": "capa.jpg",
+    "images": [
+     "imagem_story.jpg",
+     "imagem_vertical.jpg",
+     "imagem_quadrada.jpg"
+    ],
+    "duration": 23.64,
+    "thumbnail": "capa_youtube.jpg",
+    "base": "media/2026-11-27/2026-11-27-1-verse/",
+    "version": 1
+   },
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": null,
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null
+  }
+ ]
 }
