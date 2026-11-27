@@ -1,9 +1,44 @@
 {
- "updated_at": "2026-11-27T21:35:12+00:00",
+ "updated_at": "2026-11-27T23:18:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-9-quiz": {
+   "type": "quiz",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "title": "Em que Zacarias escreveu: “O nome dele é João”?",
+   "hook": "Teste rápido: você acerta de primeira?",
+   "links": {
+    "youtube": "https://youtube.com/shorts/tXLK1hUKnAk",
+    "instagram": "https://www.instagram.com/reel/DgQ1EdtMHxb/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1712015607180975"
+   },
+   "instagram": {
+    "likes": 0,
+    "comments": 0,
+    "reach": 0,
+    "saved": 0,
+    "shares": 0,
+    "views": 0,
+    "total_interactions": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-27-8-truefalse": {
    "type": "truefalse",
    "date": "2026-11-27",
@@ -22,7 +57,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 7,
     "likes": 0,
     "comments": 0
    }
@@ -58,23 +93,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 1,
+    "reach": 5,
     "saved": 0,
     "shares": 0,
-    "views": 4,
+    "views": 8,
     "total_interactions": 0,
-    "avg_watch_s": 2.3,
-    "watch_time_s": 2.3
+    "avg_watch_s": 7.5,
+    "watch_time_s": 37.7
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 270,
-    "avg_watch_s": 4.3,
-    "watch_time_s": 747.6
+    "views": 279,
+    "avg_watch_s": 4.4,
+    "watch_time_s": 932.0
    },
    "youtube": {
-    "views": 50,
+    "views": 64,
     "likes": 1,
     "comments": 0
    }
@@ -121,12 +156,12 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 1,
+    "avg_watch_s": 2.6,
+    "watch_time_s": 2.6
    },
    "youtube": {
-    "views": 29,
+    "views": 37,
     "likes": 0,
     "comments": 0
    }
@@ -143,9 +178,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 113,
-    "avg_watch_s": 7.3,
-    "watch_time_s": 541.6
+    "views": 114,
+    "avg_watch_s": 7.2,
+    "watch_time_s": 542.6
    }
   },
   "2026-11-27-2-quiz": {
@@ -166,7 +201,7 @@
     "watch_time_s": 1375.2
    },
    "youtube": {
-    "views": 46,
+    "views": 48,
     "likes": 1,
     "comments": 0
    }
@@ -210,13 +245,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 11,
     "saved": 0,
     "shares": 0,
-    "views": 11,
+    "views": 13,
     "total_interactions": 0,
-    "avg_watch_s": 3.8,
-    "watch_time_s": 30.4
+    "avg_watch_s": 4.3,
+    "watch_time_s": 43.5
    },
    "facebook": {
     "likes": 0,
@@ -226,7 +261,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 31,
+    "views": 37,
     "likes": 0,
     "comments": 0
    }
@@ -249,7 +284,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 57,
+    "views": 64,
     "likes": 3,
     "comments": 0
    }
@@ -301,7 +336,7 @@
     "watch_time_s": 409.2
    },
    "youtube": {
-    "views": 103,
+    "views": 110,
     "likes": 3,
     "comments": 0
    }
@@ -353,7 +388,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 61,
+    "views": 63,
     "likes": 2,
     "comments": 0
    }
@@ -453,7 +488,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 113,
+    "views": 115,
     "likes": 4,
     "comments": 0
    }
@@ -476,7 +511,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 171,
+    "views": 173,
     "likes": 1,
     "comments": 0
    }
@@ -523,9 +558,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 734,
-    "avg_watch_s": 7.4,
-    "watch_time_s": 3734.6
+    "views": 735,
+    "avg_watch_s": 7.3,
+    "watch_time_s": 3735.3
    },
    "youtube": {
     "views": 232,
@@ -703,7 +738,7 @@
     "watch_time_s": 11.7
    },
    "youtube": {
-    "views": 132,
+    "views": 131,
     "likes": 2,
     "comments": 0
    }
@@ -5589,7 +5624,7 @@
     "watch_time_s": 14.0
    },
    "youtube": {
-    "views": 138,
+    "views": 142,
     "likes": 1,
     "comments": 0
    }
@@ -5967,7 +6002,7 @@
     "watch_time_s": 8989.8
    },
    "youtube": {
-    "views": 117,
+    "views": 119,
     "likes": 0,
     "comments": 0
    }
