@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-26T23:10:57+00:00",
+ "updated_at": "2026-11-27T00:46:56+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-26-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-26",
+   "time": "21:30",
+   "title": "Como a Bíblia descreve os filhos do sacerdote Eli?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2227865671097158"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-26-9-quiz": {
    "type": "quiz",
    "date": "2026-11-26",
@@ -21,7 +38,7 @@
     "reach": 0,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 1,
     "total_interactions": 0,
     "avg_watch_s": 0.0,
     "watch_time_s": 0.0
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "comments": 0
    }
@@ -57,8 +74,8 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 16,
-    "likes": 1,
+    "views": 41,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -96,7 +113,7 @@
     "reach": 8,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 10,
     "total_interactions": 0,
     "avg_watch_s": 1.5,
     "watch_time_s": 12.2
@@ -104,9 +121,9 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 102,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 390.4
+    "views": 104,
+    "avg_watch_s": 5.2,
+    "watch_time_s": 397.8
    },
    "youtube": {
     "views": 39,
@@ -126,9 +143,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 355,
+    "views": 378,
     "avg_watch_s": 6.3,
-    "watch_time_s": 1539.4
+    "watch_time_s": 1669.1
    }
   },
   "2026-11-26-4-quiz": {
@@ -145,13 +162,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 9,
+    "reach": 15,
     "saved": 0,
     "shares": 0,
-    "views": 10,
+    "views": 19,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 32.0
+    "avg_watch_s": 4.0,
+    "watch_time_s": 60.3
    },
    "facebook": {
     "likes": 0,
@@ -161,7 +178,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 21,
+    "views": 41,
     "likes": 1,
     "comments": 0
    }
@@ -180,7 +197,7 @@
     "comments": 0,
     "views": 127,
     "avg_watch_s": 4.1,
-    "watch_time_s": 409.4
+    "watch_time_s": 417.2
    }
   },
   "2026-11-26-2-quiz": {
@@ -196,12 +213,12 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 249,
+    "views": 250,
     "avg_watch_s": 4.5,
-    "watch_time_s": 958.3
+    "watch_time_s": 959.1
    },
    "youtube": {
-    "views": 35,
+    "views": 39,
     "likes": 2,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 102,
+    "views": 108,
     "likes": 4,
     "comments": 0
    }
@@ -284,7 +301,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 156,
+    "views": 165,
     "likes": 1,
     "comments": 0
    }
@@ -333,10 +350,10 @@
     "comments": 0,
     "views": 727,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3713.9
+    "watch_time_s": 3715.8
    },
    "youtube": {
-    "views": 224,
+    "views": 225,
     "likes": 3,
     "comments": 0
    }
@@ -388,7 +405,7 @@
     "watch_time_s": 817.5
    },
    "youtube": {
-    "views": 95,
+    "views": 104,
     "likes": 4,
     "comments": 0
    }
@@ -488,7 +505,7 @@
     "watch_time_s": 70.6
    },
    "youtube": {
-    "views": 120,
+    "views": 124,
     "likes": 1,
     "comments": 0
    }
@@ -511,7 +528,7 @@
     "watch_time_s": 11.7
    },
    "youtube": {
-    "views": 125,
+    "views": 132,
     "likes": 2,
     "comments": 0
    }
@@ -807,9 +824,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 253,
-    "avg_watch_s": 3.3,
-    "watch_time_s": 730.8
+    "views": 255,
+    "avg_watch_s": 3.4,
+    "watch_time_s": 751.1
    }
   },
   "2026-11-23-4-quiz": {
@@ -1300,9 +1317,9 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 342,
+    "views": 343,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1317.7
+    "watch_time_s": 1327.2
    },
    "youtube": {
     "views": 157,
@@ -6078,7 +6095,7 @@
     "youtube": "https://youtube.com/shorts/5GQqGEhg52g"
    },
    "youtube": {
-    "views": 145,
+    "views": 146,
     "likes": 3,
     "comments": 0
    }
