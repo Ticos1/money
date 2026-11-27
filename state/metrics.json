@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-27T12:10:49+00:00",
+ "updated_at": "2026-11-27T13:06:28+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-27",
+   "time": "10:00",
+   "title": "Quem segurou as mãos de Moisés durante a batalha contra Amaleque?",
+   "hook": "Verdadeiro ou falso? Só 1% acerta de primeira!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1733130931563118"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-27-2-quiz": {
    "type": "quiz",
    "date": "2026-11-27",
@@ -17,12 +34,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 232,
-    "avg_watch_s": 5.5,
-    "watch_time_s": 609.3
+    "views": 250,
+    "avg_watch_s": 7.0,
+    "watch_time_s": 1287.6
    },
    "youtube": {
-    "views": 0,
+    "views": 9,
     "likes": 0,
     "comments": 0
    }
@@ -66,7 +83,7 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 6,
     "saved": 0,
     "shares": 0,
     "views": 5,
@@ -157,7 +174,7 @@
     "watch_time_s": 397.8
    },
    "youtube": {
-    "views": 88,
+    "views": 87,
     "likes": 3,
     "comments": 0
    }
@@ -193,13 +210,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 33,
+    "reach": 34,
     "saved": 0,
     "shares": 0,
     "views": 38,
     "total_interactions": 0,
-    "avg_watch_s": 3.6,
-    "watch_time_s": 118.3
+    "avg_watch_s": 3.5,
+    "watch_time_s": 119.1
    },
    "facebook": {
     "likes": 0,
@@ -209,7 +226,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 60,
+    "views": 59,
     "likes": 2,
     "comments": 0
    }
@@ -476,7 +493,7 @@
     "watch_time_s": 1.6
    },
    "youtube": {
-    "views": 74,
+    "views": 75,
     "likes": 4,
     "comments": 0
    }
@@ -2395,7 +2412,7 @@
     "comments": 0,
     "views": 293,
     "avg_watch_s": 4.3,
-    "watch_time_s": 1007.9
+    "watch_time_s": 1012.3
    }
   },
   "2026-11-16-6-truefalse": {
