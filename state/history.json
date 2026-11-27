@@ -1,6 +1,98 @@
 {
  "posts": [
   {
+   "id": "2026-11-27-7-quiz",
+   "date": "2026-11-27",
+   "slot": 7,
+   "time": "17:00",
+   "publish_at": "2026-11-27T16:54",
+   "type": "quiz",
+   "status": "approved",
+   "created_at": "2026-11-27T08:24:48+00:00",
+   "source": "bank",
+   "bank_id": "q226",
+   "model": null,
+   "content": {
+    "ref": "João 5:5",
+    "ref_label": "João 5:5",
+    "question": "Há quantos anos estava enfermo o homem do tanque de Betesda?",
+    "options": [
+     "Doze",
+     "Dezoito",
+     "Trinta e oito",
+     "Quarenta"
+    ],
+    "answer": 2,
+    "evidence": "havia trinta e oito anos",
+    "passage": "Estava ali um homem enfermo havia trinta e oito anos.",
+    "difficulty": "dificil"
+   },
+   "captions": {
+    "instagram": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #cristao #conhecimentobiblico #deus #teste #evangelico #palavradedeus #gospel #perguntasbiblicas #fe #biblia",
+    "facebook": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#quizbiblico #desafiobiblico #conhecimentobiblico #deus",
+    "tiktok": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #perguntasbiblicas #deus #conhecimentobiblico",
+    "kwai": "Desafio bíblico do dia 🤔\nComente a letra: A, B, C ou D 👇\n#quizbiblico #desafiobiblico #evangelico #cristao #jesus",
+    "whatsapp": "*Desafio bíblico do dia* 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nA resposta está no final do vídeo.\n\nReaja com ✅ se você acertou e encaminhe para desafiar alguém!\n\n🎯 Quiz de hoje com placar: https://palavra-diaria.pages.dev/hoje/\n\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).",
+    "youtube": {
+     "title": "Há quantos anos estava enfermo o homem do tanque de Betesda? #shorts",
+     "description": "Desafio bíblico do dia 🤔\n\nHá quantos anos estava enfermo o homem do tanque de Betesda?\n\nA) Doze\nB) Dezoito\nC) Trinta e oito\nD) Quarenta\n\nComente a letra: A, B, C ou D 👇\nA resposta está no final do vídeo (ou arraste para o lado no carrossel).\n\nSiga @versoerocha para mais.\nTexto bíblico: Bíblia Portuguesa Mundial (domínio público).\n\n#shorts #quizbiblico #desafiobiblico #gospel",
+     "tags": [
+      "quiz da bíblia",
+      "perguntas e respostas bíblicas",
+      "teste seu conhecimento bíblico",
+      "quiz bíblico",
+      "perguntas bíblicas",
+      "bíblia",
+      "desafio bíblico",
+      "evangélico",
+      "gospel",
+      "jesus",
+      "palavra de deus",
+      "joão"
+     ]
+    }
+   },
+   "caption_source": "template",
+   "hook": "Desafio bíblico do dia",
+   "music": {
+    "id": "gen-desafio-1",
+    "title": "Contagem",
+    "source": "Composição original gerada por scripts/make_music.py",
+    "license": "Própria (domínio público / CC0)",
+    "url": ""
+   },
+   "gospel_suggestions": [
+    {
+     "title": "Atos 2",
+     "artist": "Gabriela Rocha"
+    },
+    {
+     "title": "Algo Novo",
+     "artist": "Kemuel e Lukas Agustinho"
+    },
+    {
+     "title": "Ele Continua Sendo Bom",
+     "artist": "Paulo César Baruk"
+    }
+   ],
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-27T19:55:39+00:00",
+    "stories": "2026-11-27T19:56:12+00:00",
+    "whatsapp": null
+   },
+   "log": [],
+   "error": null,
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/985233304279898",
+    "stories": "story 17957902968036282"
+   }
+  },
+  {
    "id": "2026-11-27-6-truefalse",
    "date": "2026-11-27",
    "slot": 6,
