@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-27T15:14:27+00:00",
+ "updated_at": "2026-11-27T16:46:54+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-5-quiz": {
+   "type": "quiz",
+   "date": "2026-11-27",
+   "time": "13:30",
+   "title": "Para qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?",
+   "hook": "Você conhece mesmo a Bíblia? Prove!",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1836663914246197"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-27-4-quiz": {
    "type": "quiz",
    "date": "2026-11-27",
@@ -69,12 +86,12 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 250,
-    "avg_watch_s": 7.0,
-    "watch_time_s": 1287.6
+    "views": 251,
+    "avg_watch_s": 6.9,
+    "watch_time_s": 1288.1
    },
    "youtube": {
-    "views": 26,
+    "views": 32,
     "likes": 1,
     "comments": 0
    }
@@ -118,13 +135,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 6,
+    "reach": 7,
     "saved": 0,
     "shares": 0,
-    "views": 5,
+    "views": 6,
     "total_interactions": 0,
     "avg_watch_s": 1.8,
-    "watch_time_s": 9.0
+    "watch_time_s": 10.7
    },
    "facebook": {
     "likes": 0,
@@ -134,7 +151,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 9,
+    "views": 13,
     "likes": 0,
     "comments": 0
    }
@@ -157,7 +174,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 46,
+    "views": 48,
     "likes": 2,
     "comments": 0
    }
@@ -193,13 +210,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 26,
+    "reach": 30,
     "saved": 0,
     "shares": 0,
-    "views": 34,
+    "views": 36,
     "total_interactions": 0,
-    "avg_watch_s": 4.1,
-    "watch_time_s": 107.1
+    "avg_watch_s": 4.0,
+    "watch_time_s": 119.1
    },
    "facebook": {
     "likes": 1,
@@ -209,7 +226,7 @@
     "watch_time_s": 397.8
    },
    "youtube": {
-    "views": 93,
+    "views": 94,
     "likes": 3,
     "comments": 0
    }
@@ -226,9 +243,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 379,
+    "views": 381,
     "avg_watch_s": 6.3,
-    "watch_time_s": 1701.0
+    "watch_time_s": 1705.0
    }
   },
   "2026-11-26-4-quiz": {
@@ -261,7 +278,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 60,
+    "views": 62,
     "likes": 2,
     "comments": 0
    }
@@ -278,9 +295,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 133,
+    "views": 134,
     "avg_watch_s": 4.3,
-    "watch_time_s": 449.3
+    "watch_time_s": 449.5
    }
   },
   "2026-11-26-2-quiz": {
@@ -384,7 +401,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 170,
+    "views": 171,
     "likes": 1,
     "comments": 0
    }
@@ -431,9 +448,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 733,
+    "views": 734,
     "avg_watch_s": 7.4,
-    "watch_time_s": 3734.2
+    "watch_time_s": 3734.6
    },
    "youtube": {
     "views": 231,
@@ -488,7 +505,7 @@
     "watch_time_s": 826.9
    },
    "youtube": {
-    "views": 107,
+    "views": 112,
     "likes": 4,
     "comments": 0
    }
@@ -1732,7 +1749,7 @@
     "watch_time_s": 7.6
    },
    "youtube": {
-    "views": 131,
+    "views": 132,
     "likes": 5,
     "comments": 0
    }
@@ -5616,7 +5633,7 @@
     "watch_time_s": 1595.5
    },
    "youtube": {
-    "views": 127,
+    "views": 129,
     "likes": 2,
     "comments": 0
    }
