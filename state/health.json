@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-27T21:17:10+00:00",
+ "updated_at": "2026-11-27T21:35:18+00:00",
  "date": "2026-11-27",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 3,
+  "used": 4,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,31 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-27-8-truefalse",
+   "date": "2026-11-27",
+   "slot": 8,
+   "time": "18:30",
+   "publish_at": "2026-11-27T18:28",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-27T21:30:46+00:00",
+    "instagram": null,
+    "facebook": "2026-11-27T21:30:50+00:00",
+    "stories": "2026-11-27T21:31:23+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/L5Dwoi8nz0I",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1188302293525854",
+    "stories": "story 18111174566325255"
+   },
+   "title": "Com que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?"
+  },
   {
    "id": "2026-11-27-7-quiz",
    "date": "2026-11-27",
