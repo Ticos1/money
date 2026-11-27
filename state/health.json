@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-27T16:47:00+00:00",
+ "updated_at": "2026-11-27T18:16:55+00:00",
  "date": "2026-11-27",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 2,
+  "used": 3,
   "max": 5
  },
  "groq": {
@@ -50,6 +50,32 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-27-6-truefalse",
+   "date": "2026-11-27",
+   "slot": 6,
+   "time": "15:00",
+   "publish_at": "2026-11-27T15:10",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": "2026-11-27T18:10:47+00:00",
+    "instagram": "2026-11-27T18:11:47+00:00",
+    "facebook": "2026-11-27T18:11:51+00:00",
+    "stories": "2026-11-27T18:12:32+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "youtube": "https://youtube.com/shorts/wzU2x8Krz_s",
+    "instagram": "https://www.instagram.com/reel/DgQSx8QNg_t/",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1127210216742355",
+    "stories": "story 17979585954171666"
+   },
+   "title": "Segundo Colossenses, de quem Marcos era primo?"
+  },
   {
    "id": "2026-11-27-5-quiz",
    "date": "2026-11-27",
