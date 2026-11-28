@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-27T23:18:12+00:00",
+ "updated_at": "2026-11-28T00:46:15+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-27-10-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-27",
+   "time": "21:30",
+   "title": "Qual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?",
+   "hook": "Verdade ou mentira? Teste o seu conhecimento bíblico",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1453746863494323"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-27-9-quiz": {
    "type": "quiz",
    "date": "2026-11-27",
@@ -18,13 +35,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 0,
+    "reach": 27,
     "saved": 0,
     "shares": 0,
-    "views": 0,
+    "views": 44,
     "total_interactions": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "avg_watch_s": 4.7,
+    "watch_time_s": 126.8
    },
    "facebook": {
     "likes": 0,
@@ -34,7 +51,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 0,
+    "views": 29,
     "likes": 0,
     "comments": 0
    }
@@ -57,7 +74,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 7,
+    "views": 25,
     "likes": 0,
     "comments": 0
    }
@@ -93,23 +110,23 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 5,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
-    "views": 8,
+    "views": 24,
     "total_interactions": 0,
-    "avg_watch_s": 7.5,
-    "watch_time_s": 37.7
+    "avg_watch_s": 6.2,
+    "watch_time_s": 75.0
    },
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 279,
-    "avg_watch_s": 4.4,
-    "watch_time_s": 932.0
+    "views": 287,
+    "avg_watch_s": 4.3,
+    "watch_time_s": 955.5
    },
    "youtube": {
-    "views": 64,
+    "views": 77,
     "likes": 1,
     "comments": 0
    }
@@ -161,8 +178,8 @@
     "watch_time_s": 2.6
    },
    "youtube": {
-    "views": 37,
-    "likes": 0,
+    "views": 38,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -201,7 +218,7 @@
     "watch_time_s": 1375.2
    },
    "youtube": {
-    "views": 48,
+    "views": 53,
     "likes": 1,
     "comments": 0
    }
@@ -261,7 +278,7 @@
     "watch_time_s": 9.9
    },
    "youtube": {
-    "views": 37,
+    "views": 42,
     "likes": 0,
     "comments": 0
    }
@@ -284,7 +301,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 64,
+    "views": 69,
     "likes": 3,
     "comments": 0
    }
@@ -336,7 +353,7 @@
     "watch_time_s": 409.2
    },
    "youtube": {
-    "views": 110,
+    "views": 113,
     "likes": 3,
     "comments": 0
    }
@@ -388,7 +405,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 63,
+    "views": 64,
     "likes": 2,
     "comments": 0
    }
@@ -428,7 +445,7 @@
     "watch_time_s": 960.7
    },
    "youtube": {
-    "views": 44,
+    "views": 46,
     "likes": 3,
     "comments": 0
    }
@@ -488,7 +505,7 @@
     "watch_time_s": 1.2
    },
    "youtube": {
-    "views": 115,
+    "views": 117,
     "likes": 4,
     "comments": 0
    }
@@ -511,7 +528,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 173,
+    "views": 174,
     "likes": 1,
     "comments": 0
    }
@@ -558,9 +575,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 735,
+    "views": 736,
     "avg_watch_s": 7.3,
-    "watch_time_s": 3735.3
+    "watch_time_s": 3736.1
    },
    "youtube": {
     "views": 232,
@@ -859,9 +876,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 311,
+    "views": 314,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1179.8
+    "watch_time_s": 1181.3
    }
   },
   "2026-11-24-2-quiz": {
@@ -877,7 +894,7 @@
    "facebook": {
     "likes": 1,
     "comments": 0,
-    "views": 310,
+    "views": 311,
     "avg_watch_s": 5.7,
     "watch_time_s": 1353.9
    },
@@ -1169,7 +1186,7 @@
     "watch_time_s": 23.2
    },
    "youtube": {
-    "views": 73,
+    "views": 74,
     "likes": 2,
     "comments": 0
    }
@@ -1527,9 +1544,9 @@
    "facebook": {
     "likes": 10,
     "comments": 0,
-    "views": 343,
+    "views": 344,
     "avg_watch_s": 4.9,
-    "watch_time_s": 1327.2
+    "watch_time_s": 1336.7
    },
    "youtube": {
     "views": 157,
