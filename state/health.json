@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T07:44:06+00:00",
+ "updated_at": "2026-11-28T09:36:38+00:00",
  "date": "2026-11-28",
  "paused": false,
  "problems": [],
@@ -8,7 +8,7 @@
   "max": 5
  },
  "groq": {
-  "used": 0,
+  "used": 5,
   "max": 20,
   "enabled": true
  },
@@ -16,29 +16,29 @@
   {
    "kind": "verse",
    "per_day": 1,
-   "fresh": 531,
-   "days_left": 531,
+   "fresh": 529,
+   "days_left": 529,
    "warn": false
   },
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 434,
+   "fresh": 433,
    "days_left": null,
    "warn": false
   },
   {
    "kind": "quiz",
    "per_day": 5,
-   "fresh": 799,
-   "days_left": 88,
+   "fresh": 790,
+   "days_left": 87,
    "warn": false
   },
   {
    "kind": "truefalse",
    "per_day": 4,
-   "fresh": 843,
-   "days_left": 93,
+   "fresh": 833,
+   "days_left": 92,
    "warn": false
   },
   {
@@ -49,6 +49,30 @@
    "warn": false
   }
  ],
- "today_done": [],
+ "today_done": [
+  {
+   "id": "2026-11-28-1-verse",
+   "date": "2026-11-28",
+   "slot": 1,
+   "time": "06:30",
+   "publish_at": "2026-11-28T06:26",
+   "type": "verse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": null,
+    "stories": "2026-11-28T09:31:31+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "stories": "story 18113027644906304"
+   },
+   "title": "Provérbios 16:32"
+  }
+ ],
  "specials": {}
 }
