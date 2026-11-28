@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-28T00:46:20+00:00",
- "date": "2026-11-27",
+ "updated_at": "2026-11-28T07:44:06+00:00",
+ "date": "2026-11-28",
  "paused": false,
  "problems": [],
  "youtube": {
-  "used": 5,
+  "used": 0,
   "max": 5
  },
  "groq": {
-  "used": 1,
+  "used": 0,
   "max": 20,
   "enabled": true
  },
@@ -23,7 +23,7 @@
   {
    "kind": "fill",
    "per_day": 0,
-   "fresh": 432,
+   "fresh": 434,
    "days_left": null,
    "warn": false
   },
@@ -49,254 +49,6 @@
    "warn": false
   }
  ],
- "today_done": [
-  {
-   "id": "2026-11-27-10-truefalse",
-   "date": "2026-11-27",
-   "slot": 10,
-   "time": "21:30",
-   "publish_at": "2026-11-27T21:40",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-28T00:40:48+00:00",
-    "stories": "2026-11-28T00:42:17+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1453746863494323",
-    "stories": "story 18147669250606289"
-   },
-   "title": "Qual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?"
-  },
-  {
-   "id": "2026-11-27-9-quiz",
-   "date": "2026-11-27",
-   "slot": 9,
-   "time": "20:00",
-   "publish_at": "2026-11-27T20:06",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-27T23:10:41+00:00",
-    "instagram": "2026-11-27T23:11:23+00:00",
-    "facebook": "2026-11-27T23:11:28+00:00",
-    "stories": "2026-11-27T23:12:01+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/tXLK1hUKnAk",
-    "instagram": "https://www.instagram.com/reel/DgQ1EdtMHxb/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1712015607180975",
-    "stories": "story 18290069980291188"
-   },
-   "title": "Em que Zacarias escreveu: “O nome dele é João”?"
-  },
-  {
-   "id": "2026-11-27-8-truefalse",
-   "date": "2026-11-27",
-   "slot": 8,
-   "time": "18:30",
-   "publish_at": "2026-11-27T18:28",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-27T21:30:46+00:00",
-    "instagram": null,
-    "facebook": "2026-11-27T21:30:50+00:00",
-    "stories": "2026-11-27T21:31:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/L5Dwoi8nz0I",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1188302293525854",
-    "stories": "story 18111174566325255"
-   },
-   "title": "Com que instrumento os levitas, filhos de Asafe, louvaram nos alicerces do templo?"
-  },
-  {
-   "id": "2026-11-27-7-quiz",
-   "date": "2026-11-27",
-   "slot": 7,
-   "time": "17:00",
-   "publish_at": "2026-11-27T16:54",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-27T19:55:39+00:00",
-    "stories": "2026-11-27T19:56:12+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/985233304279898",
-    "stories": "story 17957902968036282"
-   },
-   "title": "Há quantos anos estava enfermo o homem do tanque de Betesda?"
-  },
-  {
-   "id": "2026-11-27-6-truefalse",
-   "date": "2026-11-27",
-   "slot": 6,
-   "time": "15:00",
-   "publish_at": "2026-11-27T15:10",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-27T18:10:47+00:00",
-    "instagram": "2026-11-27T18:11:47+00:00",
-    "facebook": "2026-11-27T18:11:51+00:00",
-    "stories": "2026-11-27T18:12:32+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/wzU2x8Krz_s",
-    "instagram": "https://www.instagram.com/reel/DgQSx8QNg_t/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1127210216742355",
-    "stories": "story 17979585954171666"
-   },
-   "title": "Segundo Colossenses, de quem Marcos era primo?"
-  },
-  {
-   "id": "2026-11-27-5-quiz",
-   "date": "2026-11-27",
-   "slot": 5,
-   "time": "13:30",
-   "publish_at": "2026-11-27T13:38",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-27T16:40:52+00:00",
-    "stories": "2026-11-27T16:42:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1836663914246197",
-    "stories": "story 18100715759402832"
-   },
-   "title": "Para qual aldeia iam os dois discípulos que encontraram Jesus ressuscitado?"
-  },
-  {
-   "id": "2026-11-27-4-quiz",
-   "date": "2026-11-27",
-   "slot": 4,
-   "time": "12:00",
-   "publish_at": "2026-11-27T12:05",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-27T15:05:40+00:00",
-    "instagram": "2026-11-27T15:06:18+00:00",
-    "facebook": "2026-11-27T15:06:22+00:00",
-    "stories": "2026-11-27T15:06:57+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/qmxuLFh93Dk",
-    "instagram": "https://www.instagram.com/reel/DgP9jBthDzs/",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1126798143465497",
-    "stories": "story 18135388741827138"
-   },
-   "title": "Qual destes jovens de Judá estava com Daniel na Babilônia?"
-  },
-  {
-   "id": "2026-11-27-3-truefalse",
-   "date": "2026-11-27",
-   "slot": 3,
-   "time": "10:00",
-   "publish_at": "2026-11-27T10:00",
-   "type": "truefalse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": "2026-11-27T13:00:52+00:00",
-    "stories": "2026-11-27T13:01:58+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1733130931563118",
-    "stories": "story 18039932045664222"
-   },
-   "title": "Quem segurou as mãos de Moisés durante a batalha contra Amaleque?"
-  },
-  {
-   "id": "2026-11-27-2-quiz",
-   "date": "2026-11-27",
-   "slot": 2,
-   "time": "08:00",
-   "publish_at": "2026-11-27T08:02",
-   "type": "quiz",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": "2026-11-27T11:05:37+00:00",
-    "instagram": null,
-    "facebook": "2026-11-27T11:05:42+00:00",
-    "stories": "2026-11-27T11:06:23+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "youtube": "https://youtube.com/shorts/6t0LtEA8-hw",
-    "facebook": "https://www.facebook.com/1405324152662027/videos/1473546417437677",
-    "stories": "story 18132580327875642"
-   },
-   "title": "Por que Davi não construiria uma casa para o nome do SENHOR?"
-  },
-  {
-   "id": "2026-11-27-1-verse",
-   "date": "2026-11-27",
-   "slot": 1,
-   "time": "06:30",
-   "publish_at": "2026-11-27T06:28",
-   "type": "verse",
-   "status": "approved",
-   "published": {
-    "tiktok": null,
-    "kwai": null,
-    "youtube": null,
-    "instagram": null,
-    "facebook": null,
-    "stories": "2026-11-27T09:31:20+00:00",
-    "whatsapp": null
-   },
-   "publish_errors": {},
-   "publish_links": {
-    "stories": "story 18287748808290677"
-   },
-   "title": "João 5:24"
-  }
- ],
+ "today_done": [],
  "specials": {}
 }
