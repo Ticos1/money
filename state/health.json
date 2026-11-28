@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:18:16+00:00",
+ "updated_at": "2026-11-28T00:46:20+00:00",
  "date": "2026-11-27",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-27-10-truefalse",
+   "date": "2026-11-27",
+   "slot": 10,
+   "time": "21:30",
+   "publish_at": "2026-11-27T21:40",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-28T00:40:48+00:00",
+    "stories": "2026-11-28T00:42:17+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1453746863494323",
+    "stories": "story 18147669250606289"
+   },
+   "title": "Qual testemunha fiel de Jesus foi morta em Pérgamo, onde Satanás habita?"
+  },
   {
    "id": "2026-11-27-9-quiz",
    "date": "2026-11-27",
