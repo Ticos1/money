@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T11:00:37+00:00",
+ "updated_at": "2026-11-28T13:15:14+00:00",
  "date": "2026-11-28",
  "paused": false,
  "problems": [],
@@ -50,6 +50,30 @@
   }
  ],
  "today_done": [
+  {
+   "id": "2026-11-28-3-truefalse",
+   "date": "2026-11-28",
+   "slot": 3,
+   "time": "10:00",
+   "publish_at": "2026-11-28T10:09",
+   "type": "truefalse",
+   "status": "approved",
+   "published": {
+    "tiktok": null,
+    "kwai": null,
+    "youtube": null,
+    "instagram": null,
+    "facebook": "2026-11-28T13:10:41+00:00",
+    "stories": "2026-11-28T13:11:14+00:00",
+    "whatsapp": null
+   },
+   "publish_errors": {},
+   "publish_links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1468191984704540",
+    "stories": "story 18162521080516498"
+   },
+   "title": "Para qual cidade Deus enviou Elias, onde uma viúva o sustentaria?"
+  },
   {
    "id": "2026-11-28-2-quiz",
    "date": "2026-11-28",
