@@ -1,9 +1,26 @@
 {
- "updated_at": "2026-11-28T11:00:31+00:00",
+ "updated_at": "2026-11-28T13:15:12+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-28-3-truefalse": {
+   "type": "truefalse",
+   "date": "2026-11-28",
+   "time": "10:00",
+   "title": "Para qual cidade Deus enviou Elias, onde uma viúva o sustentaria?",
+   "hook": "Verdadeiro ou falso: você acerta essa?",
+   "links": {
+    "facebook": "https://www.facebook.com/1405324152662027/videos/1468191984704540"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   }
+  },
   "2026-11-28-2-quiz": {
    "type": "quiz",
    "date": "2026-11-28",
@@ -15,11 +32,11 @@
     "facebook": "https://www.facebook.com/1405324152662027/videos/2416895789111098"
    },
    "facebook": {
-    "likes": 0,
+    "likes": 1,
     "comments": 0,
-    "views": 0,
-    "avg_watch_s": 0.0,
-    "watch_time_s": 0.0
+    "views": 160,
+    "avg_watch_s": 4.6,
+    "watch_time_s": 595.7
    },
    "youtube": {
     "views": 0,
@@ -66,13 +83,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 45,
+    "reach": 51,
     "saved": 0,
     "shares": 0,
-    "views": 56,
+    "views": 65,
     "total_interactions": 0,
-    "avg_watch_s": 4.9,
-    "watch_time_s": 213.7
+    "avg_watch_s": 5.0,
+    "watch_time_s": 250.5
    },
    "facebook": {
     "likes": 0,
@@ -82,7 +99,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 73,
+    "views": 76,
     "likes": 2,
     "comments": 0
    }
@@ -105,7 +122,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 37,
+    "views": 38,
     "likes": 0,
     "comments": 0
    }
@@ -141,13 +158,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 33,
+    "reach": 37,
     "saved": 0,
     "shares": 0,
-    "views": 44,
+    "views": 49,
     "total_interactions": 0,
-    "avg_watch_s": 5.1,
-    "watch_time_s": 168.0
+    "avg_watch_s": 4.7,
+    "watch_time_s": 177.8
    },
    "facebook": {
     "likes": 0,
@@ -244,13 +261,13 @@
    "facebook": {
     "likes": 3,
     "comments": 0,
-    "views": 265,
+    "views": 266,
     "avg_watch_s": 7.1,
-    "watch_time_s": 1378.2
+    "watch_time_s": 1379.0
    },
    "youtube": {
-    "views": 63,
-    "likes": 1,
+    "views": 67,
+    "likes": 2,
     "comments": 0
    }
   },
@@ -332,7 +349,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 80,
+    "views": 83,
     "likes": 3,
     "comments": 0
    }
@@ -384,7 +401,7 @@
     "watch_time_s": 409.2
    },
    "youtube": {
-    "views": 125,
+    "views": 126,
     "likes": 3,
     "comments": 0
    }
@@ -606,9 +623,9 @@
    "facebook": {
     "likes": 6,
     "comments": 0,
-    "views": 736,
+    "views": 737,
     "avg_watch_s": 7.3,
-    "watch_time_s": 3736.1
+    "watch_time_s": 3736.4
    },
    "youtube": {
     "views": 232,
