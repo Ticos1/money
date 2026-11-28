@@ -1,9 +1,32 @@
 {
- "updated_at": "2026-11-28T09:36:36+00:00",
+ "updated_at": "2026-11-28T11:00:31+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-28-2-quiz": {
+   "type": "quiz",
+   "date": "2026-11-28",
+   "time": "08:00",
+   "title": "Qual palavra descreve o que há com Deus em Salmos 130:4?",
+   "hook": "Só 1% acerta essa pergunta da Bíblia!",
+   "links": {
+    "youtube": "https://youtube.com/shorts/52IN6dpWn_0",
+    "facebook": "https://www.facebook.com/1405324152662027/videos/2416895789111098"
+   },
+   "facebook": {
+    "likes": 0,
+    "comments": 0,
+    "views": 0,
+    "avg_watch_s": 0.0,
+    "watch_time_s": 0.0
+   },
+   "youtube": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0
+   }
+  },
   "2026-11-28-1-verse": {
    "type": "verse",
    "date": "2026-11-28",
@@ -129,9 +152,9 @@
    "facebook": {
     "likes": 0,
     "comments": 0,
-    "views": 294,
+    "views": 295,
     "avg_watch_s": 4.3,
-    "watch_time_s": 981.9
+    "watch_time_s": 982.7
    },
    "youtube": {
     "views": 88,
@@ -3385,9 +3408,9 @@
    "facebook": {
     "likes": 2,
     "comments": 0,
-    "views": 444,
+    "views": 445,
     "avg_watch_s": 6.6,
-    "watch_time_s": 2069.9
+    "watch_time_s": 2071.1
    },
    "youtube": {
     "views": 163,
