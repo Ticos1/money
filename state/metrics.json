@@ -1,9 +1,17 @@
 {
- "updated_at": "2026-11-28T07:44:00+00:00",
+ "updated_at": "2026-11-28T09:36:36+00:00",
  "notes": [
   "YouTube: para ver o tempo assistido, gere o refresh token também com o escopo yt-analytics.readonly (veja docs/PUBLICACAO.md)"
  ],
  "posts": {
+  "2026-11-28-1-verse": {
+   "type": "verse",
+   "date": "2026-11-28",
+   "time": "06:30",
+   "title": "Provérbios 16:32",
+   "hook": "Legenda da IA",
+   "links": {}
+  },
   "2026-11-27-10-truefalse": {
    "type": "truefalse",
    "date": "2026-11-27",
@@ -51,7 +59,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 72,
+    "views": 73,
     "likes": 2,
     "comments": 0
    }
@@ -110,13 +118,13 @@
    "instagram": {
     "likes": 0,
     "comments": 0,
-    "reach": 32,
+    "reach": 33,
     "saved": 0,
     "shares": 0,
-    "views": 43,
+    "views": 44,
     "total_interactions": 0,
-    "avg_watch_s": 5.2,
-    "watch_time_s": 167.3
+    "avg_watch_s": 5.1,
+    "watch_time_s": 168.0
    },
    "facebook": {
     "likes": 0,
@@ -178,7 +186,7 @@
     "watch_time_s": 2.6
    },
    "youtube": {
-    "views": 49,
+    "views": 50,
     "likes": 2,
     "comments": 0
    }
@@ -301,7 +309,7 @@
     "watch_time_s": 0.0
    },
    "youtube": {
-    "views": 78,
+    "views": 80,
     "likes": 3,
     "comments": 0
    }
